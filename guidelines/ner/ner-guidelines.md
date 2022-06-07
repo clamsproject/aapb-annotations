@@ -8,12 +8,9 @@ Some Guiding Principles:
 
 - Annotation always needs to be done considering the nature of the entity as used in the text.
 
- - Samsung (referring to the organisation) should be annotated as ORGANIZATION. Samsung (referring to a smartphone) should be annotated as PRODUCT.
+  - Samsung (referring to the organisation) is an organization. Samsung (referring to a smartphone) is a product. The same is true for Ford in “Ford opened a new factory" and "She bought a Ford".
 
- - Ford in “Ford opened a new factory" is an ORGANIZATION. Ford in "She bought a Ford" is a PRODUCT.
-
- - Charles de Gaulle in “I landed at Charles de Gaulle” is a LOCATION.
-  Charles de Gaulle in “Charles de Gaulle was born in 1890” is a PERSON.
+  - Charles de Gaulle in “I landed at Charles de Gaulle” is a LOCATION, but in “Charles de Gaulle was born in 1890” it is a PERSON.
 
 
 ## Annotation types
