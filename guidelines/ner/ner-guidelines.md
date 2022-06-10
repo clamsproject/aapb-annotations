@@ -1,22 +1,24 @@
 # Named Entity Annotation Guidelines
 
-These guidelines are based on the Ontonotes guidelines, the EuroParl Named Entity Annotation Guidelines and the ELDA MAPA guidelines.
+These guidelines are based on the [OntoNotes guidelines](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/AnotGuideEnNE.pdf), the [EuroParl Named Entity Annotation Guidelines](https://people.csail.mit.edu/andreeab/corpus/annotationGuidelines.pdf) and the [ELDA MAPA guidelines](http://portal.elda.org/media/filer_public/2022/05/10/mapa_annotation-guidelines-v6.pdf):
 
-Some Guiding Principles:
+We annotate six kinds of named entities: Person, Location, Organization, Product, Event and Title.
+
+Some general guiding principles:
 
 - Only annotate noun phrases.
 
-- Annotation always needs to be done considering the nature of the entity as used in the text.
+- Always annotation considering the nature of the entity as used in the text.
 
-  - Samsung (referring to the organisation) is an organization. Samsung (referring to a smartphone) is a product. The same is true for Ford in “Ford opened a new factory" and "She bought a Ford".
+  - Samsung (referring to the organization) is an Organization. Samsung (referring to a smartphone) is a Product. The same is true for Ford in “Ford opened a new factory" and "She bought a Ford".
 
   - Charles de Gaulle in “I landed at Charles de Gaulle” is a LOCATION, but in “Charles de Gaulle was born in 1890” it is a PERSON.
 
+- In some cases it may be impossible to decide between two or more types of named entity, in that case the text extent should be annotated multiple times, one for each entity type that is being considered.
 
-## Annotation types
+- In general do not include determiners and other modifiers.
 
-We annotate four kinds of named entities: Person, Location, Organization and Product.
-
+We now look at the annotation types one by one and give some more details.
 
 ### Person
 
@@ -35,9 +37,10 @@ Examples:
 - Queen Elizabeth II
 - Charlie Brown
 - President Kennedy
-- Microsoft CEO Bill Gates
 - First Lady Michelle Obama
 - Judge Brown
+
+With cases like "Microsoft CEO Bill Gates" we annotated "Microsoft" as an Organization and "CEO Bill Gates" as a Person.
 
 
 ### Location
@@ -70,6 +73,18 @@ Names of celestial bodies, stars, continents, mountains, oceans, coasts, rivers,
 - Earth
 - Greenwich Village
 
+Annotate colloquial names for locations, for example "Southie".
+
+With cases like "Greenwich Village, New York", use just one tag, not two.
+
+Some organization names include locations, for example "University of Colorado at Boulder". Here, "Boulder" is a Location, but we annotate the full span as an Organization. The same holds for "University of California, Berkeley" where we annotate the entire span.
+
+The distinction between Location and Organization can be tricky. With "Russia" invaded Ukraine" we annotate "Russia" as an Organization and "Ukraine" as a Location.
+
+Open questions:
+
+- What to do with "university campus at Berkeley", the "candy store on High Street", etcetera? These examples narrow down the location given another location. My hunch is to only annotate "Berkeley" and "High Street".
+
 
 ### Organization
 
@@ -79,11 +94,17 @@ Examples:
 - IBM
 - Capitol Hill / White House
 - Democratic Party
-- Hilton Hotel)
-- New York Stock Exchange)
-- LIFE Magazin / New York Times
+- Hilton Hotel
+- New York Stock Exchange
+- LIFE Magazine / New York Times
 - Japanese government
 - Obama administration
+
+New York Times-CBS --> annotate as two different annotations
+
+Carnegie-Mellon --> one org
+
+
 
 
 ### Product
@@ -97,8 +118,37 @@ Name of any product including non-commercial vehicles (automobiles, rockets, air
 - Roth IRA
 
 
+### Event
+
+Named events and phenomena including natural disasters, hurricanes, revolutions, battles, wars, demonstrations, concerts, sports events, etc.
+
+Examples:
+
+- Hurricane Hugo
+- Vietnam War
+- Mexican Revolution
+- 2016 World Cup
+
+
+### Title
+
+Titles of books, songs, films, plays and
+other creations such as awards, stock
+price indexes, and social security systems
+including health insurance systems or
+pension plans. Newspaper headlines are
+marked with NE-ART only when they are
+referential. Headlines used as "headlines"
+should not be marked. Series names, as in
+the "Harry Potter series", are also marked.
+
+This could probably be discussed more, but the current tool has actually four separate categories: ProgramTitle, PublicationTitle, ArtworkTitle and WebsiteTitle. ProgramTitle is for program and film titles. PublicationTitle is for titles of books, book series, journals, newspapers, magazines and other published items. ArtworkTitle is for other artworks like paintings, sculptures, albums and songs.
+
+
 ## Entity Linking
 
-Also known as grounding. The idea is to provide a link to some authority. The authority we use is probably going to be [Wikipedia](https://www.wikipedia.org/). Grounding is not always possible, but in a case like *Jim Lehrer was a news anchor for the PBS NewsHour on PBS* we can add a link to [https://en.wikipedia.org/wiki/Jim_Lehrer](https://en.wikipedia.org/wiki/Jim_Lehrer).
+Also known as grounding. The idea is to provide a link to some authority. The authority we now use is [Wikipedia](https://www.wikipedia.org/), but we may introduce others, for example the [Library of Congress Authorities](https://authorities.loc.gov/). The link is provided as a property on one of the annotation types above. The annotator should have the Wikipedia main page open and type in the named entity. If this resolves to a Wikipedia article which is about the same entity as mentioned in the text, then add the wikipedia link.
 
-As an alternative to Wikipedia we may use the [Library of Congress Authorities](https://authorities.loc.gov/).
+Grounding is not always possible, but in a case like *Jim Lehrer was a news anchor for the PBS NewsHour on PBS* we can add a link to [https://en.wikipedia.org/wiki/Jim_Lehrer](https://en.wikipedia.org/wiki/Jim_Lehrer).
+
+As an alternative to Wikipedia we may use
