@@ -1,5 +1,5 @@
 T1	person 0 14	ROBERT MacNEIL
-T2	person 47 64	James Schlesinger
+T2	person 30 64	Energy Secretary James Schlesinger
 T3	location 180 188	New York
 T4	person 190 205	Mr. Schlesinger
 T5	organization 454 473	United Mine Workers
@@ -8,7 +8,7 @@ T7	location 689 697	Maryland
 T8	location 702 710	Kentucky
 T9	location 760 773	West Virginia
 T10	location 778 786	Virginia
-T11	person 813 826	Arnold Miller
+T11	person 788 826	Mine Workers` President, Arnold Miller
 T12	person 1069 1072	Jim
 T13	person 1075 1085	JIM LEHRER
 T14	person 1087 1092	Robin
@@ -23,7 +23,7 @@ T23	person 2289 2292	Jim
 T24	location 1993 1999	Sesser
 T25	person 2461 2472	JERRY JONES
 T26	person 2480 2485	Robin
-T27	person 2796 2802	Miller
+T27	person 2786 2802	President Miller
 T28	person 3013 3020	MacNEIL
 T29	person 3138 3143	JONES
 T19	location 2022 2030	Illinois
@@ -73,8 +73,8 @@ T72	person 11034 11040	LEHRER
 T73	person 11218 11223	HOERR
 T74	person 11401 11407	LEHRER
 T75	person 11518 11523	HOERR
-T76	organization 6230 6241	Coal Patrol
-T77	organization 10282 10295	Business Week
+T76	publication_title 6230 6241	Coal Patrol
+T77	publication_title 10282 10295	Business Week
 T78	person 12128 12134	LEHRER
 T79	person 12354 12359	HOERR
 T80	person 12161 12172	Tom Bethell
@@ -193,3 +193,7 @@ T192	location 27031 27041	Washington
 T193	person 27054 27063	Mr. Jones
 T194	person 27077 27080	Jim
 T195	person 27188 27210	Charlayne Hunter-Gault
+T196	event 344 360	Great Depression
+T197	organization 10617 10644	Data Resources Incorporated
+T198	location 19301 19309	Illinois
+T199	program_title 27227 27249	MacNeil/ Lehrer Report

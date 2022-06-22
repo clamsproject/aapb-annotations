@@ -1,0 +1,550 @@
+T1	person 2 12	JIM LEHRER
+T2	person 32 42	Jim Lehrer
+T3	program_title 51 59	NewsHour
+T4	location 126 139	New Hampshire
+T5	person 158 170	Tom Oliphant
+T6	person 175 187	David Brooks
+T7	person 206 218	Mark Shields
+T8	person 223 233	Paul Gigot
+T9	person 237 250	Terence Smith
+T10	event 293 312	TV morning news war
+T11	person 320 330	Ray Suarez
+T12	location 370 377	Nigeria
+T13	program_title 433 445	NEWS SUMMARY
+T14	person 447 457	JIM LEHRER
+T15	person 459 476	President Clinton
+T16	location 880 891	White House
+T17	person 894 911	PRESIDENT CLINTON
+T18	person 1337 1350	George Orwell
+T19	publication_title 1354 1358	1984
+T20	person 1362 1372	JIM LEHRER
+T21	organization 1462 1473	Wall Street
+T22	organization 1517 1545	Dow Jones Industrial Average
+T23	organization 1582 1594	NASDAQ Index
+T24	organization 1786 1792	Senate
+T25	location 1861 1867	Africa
+T26	location 1876 1885	Caribbean
+T27	location 2081 2088	Nigeria
+T28	location 2119 2125	Russia
+T29	location 2207 2215	Chechnya
+T30	organization 2223 2240	Russian air force
+T31	location 2275 2281	Grozny
+T32	location 2377 2383	Moscow
+T33	location 2385 2389	U.S.
+T34	person 2390 2430	Deputy Secretary of State Strobe Talbott
+T35	person 2440 2471	Russian Foreign Minister Ivanov
+T36	person 2505 2519	STROBE TALBOTT
+T37	location 2540 2546	Russia
+T38	organization 2662 2680	Russian federation
+T39	organization 2736 2749	Russian state
+T40	location 2801 2814	United States
+T41	location 2877 2883	Russia
+T42	person 3044 3054	JIM LEHRER
+T43	location 3111 3120	Cleveland
+T44	person 3205 3224	Mayor Michael White
+T45	publication_title 3299 3321	Cleveland Plain Dealer
+T46	location 3407 3428	Columbine High School
+T47	location 3432 3440	Colorado
+T48	location 3533 3546	New Hampshire
+T49	organization 3608 3625	Dartmouth College
+T50	location 3638 3643	Texas
+T51	person 3644 3667	Governor George W. Bush
+T52	program_title 3779 3791	News Summary
+T53	person 3837 3856	Senator John Chafee
+T54	person 3864 3870	Chafee
+T55	person 4005 4022	President Clinton
+T56	organization 4056 4064	Congress
+T57	person 4103 4109	Chafee
+T58	person 4160 4173	Payne Stewart
+T59	location 4183 4190	Orlando
+T60	product 4241 4248	Learjet
+T61	location 4295 4307	South Dakota
+T62	person 4317 4328	Tiger Woods
+T63	person 4333 4345	Mark O'Meara
+T64	person 4447 4454	Stewart
+T65	product 4535 4542	Learjet
+T66	organization 4673 4688	New York Yankee
+T67	location 4700 4708	Broadway
+T68	event 4730 4742	World Series
+T69	organization 4950 4957	Yankees
+T70	event 4981 4993	World Series
+T71	program_title 5036 5048	News Summary
+T72	organization 5077 5088	Republicans
+T73	location 5092 5105	New Hampshire
+T74	person 5119 5127	Oliphant
+T75	person 5132 5138	Brooks
+T76	event 5161 5177	morning news was
+T77	location 5204 5211	Nigeria
+T78	program_title 5215 5233	FOCUS - FACING OFF
+T79	person 5235 5245	JIM LEHRER
+T80	organization 5333 5344	Republicans
+T81	organization 5412 5429	Dartmouth College
+T82	location 5433 5455	Hanover, New Hampshire
+T83	location 5457 5462	Texas
+T84	person 5463 5486	Governor George W. Bush
+T85	location 5620 5633	New Hampshire
+T86	organization 5725 5741	Republican Party
+T87	person 5824 5840	SEN. JOHN McCAIN
+T88	person 6222 6227	Cindy
+T89	location 6290 6297	America
+T90	location 6446 6453	America
+T91	publication_title 6802 6818	Second Amendment
+T92	person 6937 6953	SEN. ORRIN HATCH
+T93	publication_title 7068 7084	second amendment
+T94	publication_title 7233 7249	Second Amendment
+T95	event 8065 8077	war on drugs
+T96	person 8081 8091	ALAN KEYES
+T97	person 8722 8731	Mr. Keyes
+T98	person 8735 8745	ALAN KEYES
+T99	person 8981 8991	GARY BAUER
+T100	location 9020 9037	Newport, Kentucky
+T101	location 9419 9432	United States
+T102	organization 9486 9502	Founding Fathers
+T103	person 9525 9538	Ronald Reagan
+T104	person 10132 10142	Mr. Forbes
+T105	organization 10162 10178	Republican Party
+T106	person 10266 10278	STEVE FORBES
+T107	person 10319 10332	Governor Bush
+T108	location 10531 10543	Rhode Island
+T109	location 10771 10778	America
+T110	organization 11063 11073	Washington
+T111	person 11106 11119	Governor Bush
+T112	person 11332 11345	Senator Hatch
+T113	person 11349 11365	SEN. ORRIN HATCH
+T114	publication_title 11454 11462	IRS Code
+T115	organization 11510 11513	IRS
+T116	organization 11665 11689	Senate Finance Committee
+T117	organization 11824 11832	Congress
+T118	location 11923 11930	America
+T119	person 11964 11980	SEN. JOHN McCAIN
+T120	organization 12379 12389	Washington
+T121	organization 12781 12795	Washington, DC
+T122	location 12928 12935	America
+T123	person 13033 13049	Ambassador Keyes
+T124	person 13052 13062	ALAN KEYES
+T125	person 13123 13127	Marx
+T126	person 13132 13137	Lenin
+T127	publication_title 13349 13361	Constitution
+T128	person 14157 14173	Ambassador Keyes
+T129	person 14196 14205	Mr. Bauer
+T130	person 14209 14219	GARY BAUER
+T131	location 14422 14429	America
+T132	person 14653 14658	Steve
+T133	person 14699 14704	Steve
+T134	person 14877 14889	STEVE FORBES
+T135	person 15126 15130	Gary
+T136	person 15267 15279	Daley family
+T137	location 15283 15304	Exeter, New Hampshire
+T138	person 15399 15411	Daley family
+T139	organization 15576 15579	IRS
+T140	person 16021 16031	Mr. Forbes
+T141	organization 16099 16108	Dartmouth
+T142	program_title 16130 16152	FOCUS - POLITICAL WRAP
+T143	person 16154 16164	JIM LEHRER
+T144	organization 16228 16237	Democrats
+T145	publication_title 16275 16287	Boston Globe
+T146	person 16299 16311	Tom Oliphant
+T147	person 16317 16329	David Brooks
+T148	publication_title 16353 16368	Weekly Standard
+T149	person 16371 16383	Mark Shields
+T150	person 16388 16398	Paul Gigot
+T151	person 16459 16462	Tom
+T152	person 16525 16537	TOM OLIPHANT
+T153	person 16559 16563	Bush
+T154	person 16593 16606	Governor Bush
+T155	person 16614 16625	John McCain
+T156	location 16648 16661	New Hampshire
+T157	person 16980 16986	McCain
+T158	person 17156 17166	JIM LEHRER
+T159	person 17179 17184	David
+T160	person 17188 17200	DAVID BROOKS
+T161	person 17269 17285	George W. (Bush)
+T162	location 17306 17312	Austin
+T163	organization 17372 17383	Republicans
+T164	person 17452 17466	George W. Bush
+T165	person 17559 17562	Tom
+T166	person 17590 17601	John McCain
+T167	person 17606 17617	George Bush
+T168	person 17661 17673	New Gingrich
+T169	person 17678 17688	Dick Armey
+T170	person 17693 17708	Barry Goldwater
+T171	person 17803 17809	McCain
+T172	person 17814 17818	Bush
+T173	person 18075 18090	Teddy Roosevelt
+T174	person 18092 18107	Abraham Lincoln
+T175	person 18132 18147	Teddy Roosevelt
+T176	event 18169 18182	San Juan Hill
+T177	person 18306 18317	John McCain
+T178	person 18348 18360	Steve Forbes
+T179	person 18490 18494	Bush
+T180	organization 18626 18642	Republican Party
+T181	person 18657 18669	TOM OLIPHANT
+T182	organization 18738 18753	Forbes campaign
+T183	person 18841 18854	Governor Bush
+T184	person 18860 18870	JIM LEHRER
+T185	location 18875 18880	Texas
+T186	person 18884 18896	TOM OLIPHANT
+T187	person 18953 18959	McCain
+T188	person 19217 19230	Governor Bush
+T189	person 19263 19273	JIM LEHRER
+T190	person 19293 19296	Tom
+T191	person 19300 19312	TOM OLIPHANT
+T192	person 19320 19326	McCain
+T193	organization 19422 19430	Congress
+T194	person 19435 19442	Clinton
+T195	person 19718 19731	Governor Bush
+T196	person 19793 19805	DAVID BROOKS
+T197	person 19932 19945	Governor Bush
+T198	person 20038 20051	Newt Gingrich
+T199	person 20056 20066	Dick Armey
+T200	person 20133 20139	McCain
+T201	person 20193 20197	Bush
+T202	person 20321 20327	McCain
+T203	person 20447 20457	JIM LEHRER
+T204	person 20547 20553	Forbes
+T205	person 20558 20563	Bauer
+T206	person 20642 20654	DAVID BROOKS
+T207	person 20889 20895	McCain
+T208	person 20900 20904	Bush
+T209	person 20921 20930	Goldwater
+T210	person 20942 20947	Bauer
+T211	person 20952 20958	Forbes
+T212	person 21099 21111	Steve Forbes
+T213	location 21233 21246	New Hampshire
+T214	person 21268 21273	Bauer
+T215	person 21278 21283	Keyes
+T216	person 21288 21293	Hatch
+T217	person 21376 21381	Bauer
+T218	person 21424 21430	Forbes
+T219	person 21499 21511	TOM OLIPHANT
+T220	person 21569 21574	Bauer
+T221	person 21740 21752	Pat Buchanan
+T222	person 21828 21838	JIM LEHRER
+T223	person 21850 21862	Pat Buchanan
+T224	person 21872 21884	TOM OLIPHANT
+T225	location 21998 22011	New Hampshire
+T226	person 22137 22147	JIM LEHRER
+T227	person 22211 22225	George W. Bush
+T228	person 22295 22299	Bush
+T229	person 22314 22326	TOM OLIPHANT
+T230	location 22462 22466	Iowa
+T231	location 22673 22681	New York
+T232	person 22714 22724	JIM LEHRER
+T233	location 22728 22741	New Hampshire
+T234	person 22752 22764	TOM OLIPHANT
+T235	location 22766 22779	New Hampshire
+T236	location 22998 23011	New Hampshire
+T237	person 23040 23050	JIM LEHRER
+T238	person 23076 23088	DAVID BROOKS
+T239	location 23153 23166	New Hampshire
+T240	location 23238 23251	New Hampshire
+T241	person 23420 23430	JIM LEHRER
+T242	person 23455 23467	DAVID BROOKS
+T243	organization 23469 23473	NASA
+T244	person 23822 23832	JIM LEHRER
+T245	organization 23838 23847	Democrats
+T246	person 23872 23876	Gore
+T247	person 23898 23903	David
+T248	person 23906 23918	DAVID BROOKS
+T249	person 23983 23990	Bradley
+T250	person 24027 24034	Bradley
+T251	person 24126 24133	Al Gore
+T252	product 24169 24175	Viagra
+T253	person 24212 24222	JIM LEHRER
+T254	product 24251 24257	Viagra
+T255	person 24260 24272	DAVID BROOKS
+T256	person 24647 24654	Bradley
+T257	person 24729 24733	Gore
+T258	person 24762 24769	Bradley
+T259	person 24793 24797	Gore
+T260	product 24801 24812	Cheese Whiz
+T261	person 24866 24873	Bradley
+T262	person 24881 24891	JIM LEHRER
+T263	person 24893 24896	Tom
+T264	person 24900 24912	TOM OLIPHANT
+T265	person 24962 24972	JIM LEHRER
+T266	person 24981 24993	TOM OLIPHANT
+T267	person 25189 25193	Bush
+T268	person 25249 25259	JIM LEHRER
+T269	person 25305 25317	TOM OLIPHANT
+T270	person 25345 25360	Senator Bradley
+T271	person 25405 25418	James K. Polk
+T272	person 25469 25482	James K. Polk
+T273	location 25588 25601	New Hampshire
+T274	person 25853 25863	JIM LEHRER
+T275	person 25889 25901	Bill Bradley
+T276	person 25905 25921	THOMAS PICKERING
+T277	person 26140 26144	Gore
+T278	location 26250 26263	New Hampshire
+T279	person 26290 26295	David
+T280	person 26319 26331	DAVID BROOKS
+T281	person 26372 26384	TOM OLIPHANT
+T282	person 26515 26519	Gore
+T283	person 26528 26532	Gore
+T284	location 26689 26702	New Hampshire
+T285	person 27092 27096	Gore
+T286	person 27203 27207	Ford
+T287	person 27208 27214	Reagan
+T288	person 27309 27319	JIM LEHRER
+T289	person 27535 27547	TOM OLIPHANT
+T290	person 27583 27587	Gore
+T291	location 27591 27604	New Hampshire
+T292	location 27609 27613	Iowa
+T293	person 27709 27719	JIM LEHRER
+T294	person 27735 27740	David
+T295	person 27752 27755	Tom
+T296	person 27791 27803	DAVID BROOKS
+T297	person 27906 27910	Gore
+T298	person 28201 28208	Bradley
+T299	person 28245 28252	Bradley
+T300	person 28319 28331	TOM OLIPHANT
+T301	person 28344 28354	JIM LEHRER
+T302	program_title 28408 28433	FOCUS - MORNING NEWS WARS
+T303	person 28435 28445	JIM LEHRER
+T304	program_title 28468 28476	NewsHour
+T305	event 28490 28507	morning news wars
+T306	location 28529 28536	Nigeria
+T307	person 28539 28549	JIM LEHRER
+T308	person 28571 28584	Terence Smith
+T309	person 28614 28627	TERENCE SMITH
+T310	organization 28655 28663	CBS News
+T311	location 28788 28801	New York City
+T312	event 28873 28901	morning news television wars
+T313	person 28928 28941	Bryant Gumbel
+T314	person 28955 28967	Jane Clayson
+T315	location 29152 29164	Fifth Avenue
+T316	location 29258 29270	Times Square
+T317	person 29273 29287	CHARLIE GIBSON
+T318	person 29345 29358	TERENCE SMITH
+T319	person 29360 29374	Charlie Gibson
+T320	person 29379 29391	Diane Sawyer
+T321	organization 29395 29398	ABC
+T322	program_title 29459 29479	Good Morning America
+T323	person 29523 29533	MATT LAUER
+T324	person 29539 29549	Matt Lauer
+T325	person 29561 29573	Katie Couric
+T326	person 29622 29635	TERENCE SMITH
+T327	organization 29641 29644	NBC
+T328	program_title 29647 29657	Today Show
+T329	location 29742 29760	Rockefeller Center
+T330	person 29763 29777	STEVE FRIEDMAN
+T331	person 29890 29903	TERENCE SMITH
+T332	person 29924 29938	Steve Friedman
+T333	program_title 29961 29971	Today Show
+T334	organization 30055 30063	CBS News
+T335	person 30164 30176	Katie Couric
+T336	person 30181 30191	Matt Lauer
+T337	program_title 30210 30220	Today Show
+T338	person 30235 30243	Friedman
+T339	person 30260 30272	KATIE COURIC
+T340	person 30365 30375	MATT LAUER
+T341	person 30473 30487	STEVE FRIEDMAN
+T342	person 30731 30744	TERENCE SMITH
+T343	program_title 30887 30897	Today Show
+T344	person 30961 30973	RICHARD HACK
+T345	person 31328 31341	TERENCE SMITH
+T346	person 31350 31362	Richard Hack
+T347	publication_title 31387 31395	TV Guide
+T348	publication_title 31410 31432	Madness in the Morning
+T349	person 31619 31631	RICHARD HACK
+T350	person 31981 31994	TERENCE SMITH
+T351	person 32051 32064	TERENCE SMITH
+T352	program_title 32090 32110	Good Morning America
+T353	person 32353 32367	Steve Friedman
+T354	organization 32378 32381	CBS
+T355	person 32478 32492	STEVE FRIEDMAN
+T356	person 32716 32728	Diane Sawyer
+T357	person 32749 32762	Bryant Gumbel
+T358	organization 32785 32788	NBC
+T359	person 32794 32806	Katie Couric
+T360	organization 32852 32855	CBS
+T361	person 32961 32974	TERENCE SMITH
+T362	organization 32979 32982	CBS
+T363	person 33126 33139	Bryant Gumbel
+T364	person 33179 33192	TERENCE SMITH
+T365	person 33194 33200	Gumbel
+T366	organization 33246 33249	CBS
+T367	publication_title 33263 33273	Public Eye
+T368	person 33311 33324	BRYANT GUMBEL
+T369	organization 33347 33350	CBS
+T370	person 33469 33482	Bryant Gumbel
+T371	organization 33486 33489	CBS
+T372	person 33508 33521	Bryant Gumbel
+T373	organization 33529 33532	NBC
+T374	person 33541 33554	TERENCE SMITH
+T375	person 33556 33562	Gumbel
+T376	person 33680 33694	Steve Friedman
+T377	person 33729 33743	STEVE FRIEDMAN
+T378	person 33745 33758	Bryant Gumbel
+T379	person 33904 33910	Bryant
+T380	person 33921 33927	Bryant
+T381	person 34037 34048	Sally Field
+T382	person 34059 34072	TERENCE SMITH
+T383	program_title 34149 34159	Today Show
+T384	person 34195 34208	Dave Garroway
+T385	person 34235 34248	J. Fred Muggs
+T386	organization 34261 34264	CBS
+T387	person 34292 34307	Walter Cronkite
+T388	person 34450 34463	TERENCE SMITH
+T389	program_title 34469 34479	Today Show
+T390	person 34562 34576	JACK LESCOULIE
+T391	location 34694 34705	49th Street
+T392	person 34753 34766	TERENCE SMITH
+T393	program_title 34792 34802	Today Show
+T394	program_title 34936 34956	Good Morning America
+T395	person 35053 35065	Diane Sawyer
+T396	person 35109 35121	DIANE SAWYER
+T397	person 35274 35286	Garth Brooks
+T398	person 35401 35414	TERENCE SMITH
+T399	person 35416 35430	Charles Gibson
+T400	program_title 35441 35461	Good Morning America
+T401	person 35558 35572	CHARLES GIBSON
+T402	person 35804 35817	TERENCE SMITH
+T403	person 35819 35825	Sawyer
+T404	person 35923 35937	Antonio Sabato
+T405	person 36079 36085	SAWYER
+T406	person 36107 36120	TERENCE SMITH
+T407	organization 36137 36140	CBS
+T408	person 36190 36203	Bryant Gumbel
+T409	person 36224 36236	Jane Clayson
+T410	person 36314 36326	BILL CARROLL
+T411	person 36371 36384	TERENCE SMITH
+T412	person 36386 36398	Bill Carroll
+T413	organization 36406 36427	Katz Television Group
+T414	organization 36505 36508	CBS
+T415	person 36629 36641	BILL CARROLL
+T416	organization 36718 36721	CBS
+T417	person 36939 36952	Bryant Gumbel
+T418	person 37020 37033	TERENCE SMITH
+T419	organization 37064 37067	CBS
+T420	person 37185 37197	BILL CARROLL
+T421	person 37234 37247	TERENCE SMITH
+T422	person 37315 37327	BILL CARROLL
+T423	program_title 37398 37422	Bryant Gumbel Early Show
+T424	person 37441 37454	TERENCE SMITH
+T425	organization 37456 37459	CBS
+T426	person 37567 37580	Bryant Gumbel
+T427	person 37660 37673	BRYANT GUMBEL
+T428	person 37921 37934	TERENCE SMITH
+T429	person 37949 37957	Friedman
+T430	program_title 38131 38141	Today Show
+T431	person 38163 38176	TERENCE SMITH
+T432	person 38205 38219	STEVE FRIEDMAN
+T433	program_title 38248 38258	Today Show
+T434	person 38369 38382	TERENCE SMITH
+T435	person 38384 38396	Katie Couric
+T436	person 38416 38428	KATIE COURIC
+T437	person 38487 38500	TERENCE SMITH
+T438	person 38508 38520	KATIE COURIC
+T439	person 38851 38864	TERENCE SMITH
+T440	program_title 38870 38880	Today Show
+T441	person 38978 38990	Mariah Carey
+T442	organization 38992 38995	CBS
+T443	program_title 39024 39034	Early Show
+T444	person 39042 39047	Carey
+T445	location 39080 39092	Fifth Avenue
+T446	person 39138 39143	Carey
+T447	program_title 39174 39183	Today Sow
+T448	person 39186 39196	MATT LAUER
+T449	person 39282 39295	TERENCE SMITH
+T450	organization 39400 39403	CBS
+T451	person 39412 39424	Richard Hack
+T452	person 39442 39454	RICHARD HACK
+T453	organization 39470 39473	CBS
+T454	program_title 39486 39496	Early Show
+T455	person 39551 39564	Bryant Gumbel
+T456	organization 39619 39622	CBS
+T457	program_title 39825 39835	Today Show
+T458	program_title 39856 39876	Good Morning America
+T459	organization 39895 39898	CNN
+T460	organization 39915 39918	CNN
+T461	organization 39939 39942	CNN
+T462	person 39945 39958	TERENCE SMITH
+T463	person 39964 39977	Bryant Gumbel
+T464	organization 40014 40017	CBS
+T465	person 40048 40061	BRYANT GUMBEL
+T466	person 40188 40201	TERENCE SMITH
+T467	organization 40234 40242	CBS News
+T468	program_title 40421 40433	CONVERSATION
+T469	person 40435 40445	JIM LEHRER
+T470	location 40477 40484	Nigeria
+T471	location 40501 40511	Washington
+T472	person 40513 40523	Ray Suarez
+T473	person 40542 40552	RAY SUAREZ
+T474	location 40745 40752	Nigeria
+T475	location 40778 40788	California
+T476	location 40997 41004	Nigeria
+T477	location 41089 41096	Nigeria
+T478	person 41176 41190	Ken Siro- Wiwa
+T479	location 41253 41260	Nigeria
+T480	person 41367 41386	General Sani Abacha
+T481	person 41481 41506	General Olusegun Obasanjo
+T482	person 41555 41563	Obasanjo
+T483	person 41712 41720	Obasanjo
+T484	person 41891 41899	Obasanjo
+T485	person 41935 41952	OLUSEGUN OBASANJO
+T486	location 41968 41975	Nigeria
+T487	person 42033 42050	Olusegun Obasanjo
+T488	person 42070 42080	RAY SUAREZ
+T489	person 42103 42111	Obasanjo
+T490	person 42264 42281	President Clinton
+T491	location 42398 42405	Nigeria
+T492	person 42425 42442	PRESIDENT CLINTON
+T493	person 42444 42462	President Obasanjo
+T494	location 42508 42515	Nigeria
+T495	location 42536 42542	Africa
+T496	location 42563 42570	America
+T497	location 42588 42595	Nigeria
+T498	location 42699 42706	Nigeria
+T499	location 42860 42867	Nigeria
+T500	location 42979 42986	Nigeria
+T501	location 42995 43001	Africa
+T502	person 43004 43014	RAY SUAREZ
+T503	person 43016 43034	President Obasanjo
+T504	location 43198 43205	America
+T505	location 43221 43227	Africa
+T506	person 43240 43250	RAY SUAREZ
+T507	location 43291 43298	Nigeria
+T508	person 43392 43409	President Clinton
+T509	person 43591 43618	PRESIDENT OLUSEGUN OBASANJO
+T510	person 43626 43643	President Clinton
+T511	location 43736 43743	Nigeria
+T512	location 44001 44008	Nigeria
+T513	location 44190 44197	Nigeria
+T514	person 44305 44315	RAY SUAREZ
+T515	organization 44352 44362	Washington
+T516	location 44383 44389	Africa
+T517	location 44419 44426	Nigeria
+T518	person 44440 44467	PRESIDENT OLUSEGUN OBASANJO
+T519	location 44475 44481	Africa
+T520	person 45227 45237	RAY SUAREZ
+T521	location 45294 45300	Africa
+T522	location 45472 45479	Nigeria
+T523	person 45535 45562	PRESIDENT OLUSEGUN OBASANJO
+T524	person 45843 45853	RAY SUAREZ
+T525	location 45968 45974	Africa
+T526	location 46032 46039	Nigeria
+T527	location 46044 46056	South Africa
+T528	person 46221 46248	PRESIDENT OLUSEGUN OBASANJO
+T529	location 46290 46297	America
+T530	location 46400 46407	America
+T531	location 46544 46556	South Africa
+T532	location 46561 46568	Nigeria
+T533	person 46704 46714	RAY SUAREZ
+T534	person 46898 46912	General Abacha
+T535	person 46944 46971	PRESIDENT OLUSEGUN OBASANJO
+T536	person 47137 47143	Abacha
+T537	location 47294 47301	Nigeria
+T538	person 47659 47669	RAY SUAREZ
+T539	product 48018 48031	Mercedes Benz
+T540	person 48105 48132	PRESIDENT OLUSEGUN OBASANJO
+T541	location 48362 48369	Nigeria
+T542	location 48813 48820	Nigeria
+T543	person 48987 48997	RAY SUAREZ
+T544	person 49081 49108	PRESIDENT OLUSEGUN OBASANJO
+T545	program_title 49133 49138	RECAP
+T546	person 49140 49150	JIM LEHRER
+T547	person 49193 49210	President Clinton
+T548	location 49354 49360	Russia
+T549	location 49442 49450	Chechnya
+T550	person 49531 49541	Jim Lehrer

@@ -13,8 +13,8 @@ T12	person 4128 4135	SCANLON
 T13	person 4289 4295	LEHRER
 T14	person 4364 4371	SCANLON
 T15	organization 4377 4380	NCT
-T16	person 4256 4260	Daly
-T17	person 4710 4714	Daly
+T16	person 4250 4260	Mayor Daly
+T17	person 4704 4714	mayor Daly
 T18	person 5312 5318	LEHRER
 T19	person 5353 5360	SCANLON
 T20	person 5725 5731	LEHRER
@@ -118,3 +118,7 @@ T117	product 1612 1615	SAT
 T118	product 11683 11686	SAT
 T119	product 22166 22169	ACT
 T120	product 22211 22214	ACT
+T121	event 4237 4246	Watergate
+T122	event 4352 4361	Watergate
+T123	event 4461 4470	Watergate
+T124	event 4690 4699	Watergate

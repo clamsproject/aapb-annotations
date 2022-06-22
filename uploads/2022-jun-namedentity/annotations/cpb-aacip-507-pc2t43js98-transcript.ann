@@ -1,0 +1,453 @@
+T1	person 2 12	JIM LEHRER
+T2	person 52 62	Jim Lehrer
+T3	program_title 71 79	NewsHour
+T4	person 206 223	Richard Rodriguez
+T5	person 251 258	Madonna
+T6	program_title 313 325	NEWS SUMMARY
+T7	person 328 338	JIM LEHRER
+T8	location 366 375	West Bank
+T9	location 384 390	Hebron
+T10	location 570 579	West Bank
+T11	location 696 702	Hebron
+T12	person 726 738	Robert Moore
+T13	organization 742 769	Independent Television News
+T14	person 772 784	ROBERT MOORE
+T15	organization 786 789	ITN
+T16	location 945 951	Hebron
+T17	location 1334 1340	Hebron
+T18	location 1455 1461	Hebron
+T19	person 1575 1585	JIM LEHRER
+T20	person 1648 1661	Noam Friedman
+T21	person 1696 1704	Friedman
+T22	location 1801 1807	Hebron
+T23	person 1809 1841	Israeli Prime Minister Netanyahu
+T24	person 1860 1885	Palestinian leader Arafat
+T25	person 1911 1928	President Clinton
+T26	person 1941 1947	Arafat
+T27	location 2066 2072	Hebron
+T28	event 2081 2103	Peruvian hostage story
+T29	location 2182 2186	Lima
+T30	location 2615 2624	Northwest
+T31	location 2651 2661	California
+T32	organization 2667 2691	National Weather Service
+T33	location 2734 2757	Russian and Napa Rivers
+T34	location 2767 2780	San Francisco
+T35	location 2826 2833	Seattle
+T36	location 2872 2882	Washington
+T37	person 2883 2902	Governor Mike Lowry
+T38	location 3020 3030	Washington
+T39	location 3032 3038	Oregon
+T40	location 3044 3054	California
+T41	event 3122 3154	108th Tournament of Roses Parade
+T42	location 3167 3177	California
+T43	location 3223 3231	Pasadena
+T44	location 3447 3455	Thailand
+T45	program_title 3526 3538	News Summary
+T46	person 3623 3640	Richard Rodriguez
+T47	program_title 3648 3672	FOCUS - GENETIC ADVANCES
+T48	person 3675 3685	JIM LEHRER
+T49	person 3813 3824	Paul Solman
+T50	organization 3828 3839	WGBH-Boston
+T52	person 3882 3893	PAUL SOLMAN
+T51	organization 4124 4151	KCETA-St. Paul- Minneapolis
+T53	person 4102 4120	Fred De Sam Lazaro
+T54	person 4155 4173	FRED DE SAM LAZARO
+T55	person 4418 4437	Dr. Francis Collins
+T56	location 4589 4599	California
+T57	location 4604 4612	New York
+T58	person 4672 4688	DR. SCOTT McIVOR
+T59	person 4917 4935	FRED DE SAM LAZARO
+T60	organization 4937 4960	University of Minnesota
+T61	person 4972 4988	Dr. Scott McIvor
+T62	person 5323 5341	DR. ALEXANDER KAMB
+T63	person 5428 5446	FRED DE SAM LAZARO
+T64	person 5499 5517	Dr. Alexander Kamb
+T65	person 5562 5580	DR. ALEXANDER KAMB
+T66	person 6002 6020	FRED DE SAM LAZARO
+T67	person 6115 6134	Dr. Francis Collins
+T68	organization 6080 6100	Human Genome Project
+T69	person 6525 6541	DR. SCOTT McIVOR
+T70	person 6825 6843	FRED DE SAM LAZARO
+T71	person 6881 6887	McIvor
+T72	person 7078 7094	DR. SCOTT McIVOR
+T73	organization 6705 6725	Human Genome project
+T74	person 7096 7099	Doh
+T75	person 7459 7477	FRED DE SAM LAZARO
+T76	person 7519 7535	DR. SCOTT McIVOR
+T77	person 7565 7583	FRED DE SAM LAZARO
+T78	person 7585 7591	McIvor
+T79	person 7756 7772	DR. SCOTT McIVOR
+T80	person 7993 8011	FRED DE SAM LAZARO
+T81	person 8049 8065	DR. SCOTT McIVOR
+T82	person 8076 8094	FRED DE SAM LAZARO
+T83	person 9032 9050	FRED DE SAM LAZARO
+T84	person 9268 9279	PAUL SOLMAN
+T85	person 9304 9323	Dr. Francis Collins
+T86	organization 9357 9377	Human Genome Project
+T87	organization 9403 9444	National Center for Human Genome Research
+T88	person 9446 9464	Mary Jo Ellis Kahn
+T89	organization 9496 9528	National Breast Cancer Coalition
+T90	person 9530 9545	Steven Holtzman
+T91	organization 9575 9601	Millennium Pharmaceuticals
+T92	location 9621 9627	Boston
+T93	person 9633 9646	Patricia King
+T94	organization 9691 9723	Georgetown University Law School
+T95	location 9732 9742	Washington
+T96	person 9769 9780	Dr. Collins
+T97	person 9866 9885	DR. FRANCIS COLLINS
+T98	organization 9887 9907	Human Genome Project
+T99	organization 9978 9998	Human Genome Project
+T100	person 10251 10262	PAUL SOLMAN
+T101	person 10319 10338	DR. FRANCIS COLLINS
+T102	person 10853 10864	PAUL SOLMAN
+T103	person 10878 10882	Fred
+T104	person 10943 10962	DR. FRANCIS COLLINS
+T105	location 11195 11214	Washington Monument
+T106	person 11328 11339	PAUL SOLMAN
+T107	person 11341 11353	Mr. Holtzman
+T108	person 11589 11604	STEVEN HOLTZMAN
+T109	organization 11606 11632	Millennium Pharmaceuticals
+T110	location 11635 11641	Boston
+T111	person 12469 12480	PAUL SOLMAN
+T112	person 12557 12572	STEVEN HOLTZMAN
+T113	organization 12952 12962	Millennium
+T114	person 13016 13027	PAUL SOLMAN
+T115	person 13035 13043	Ms. Kahn
+T116	person 13106 13124	MARY JO ELLIS KAHN
+T117	person 13526 13537	PAUL SOLMAN
+T118	person 13592 13610	MARY JO ELLIS KAHN
+T119	person 13976 13987	PAUL SOLMAN
+T120	person 14057 14071	Professor King
+T121	person 14075 14088	PATRICIA KING
+T122	organization 14090 14111	Georgetown Law School
+T123	person 14847 14858	PAUL SOLMAN
+T124	person 14982 14993	Dr. Collins
+T125	person 15246 15265	DR. FRANCIS COLLINS
+T126	person 16027 16038	PAUL SOLMAN
+T127	person 16078 16097	DR. FRANCIS COLLINS
+T128	person 16112 16123	PAUL SOLMAN
+T129	person 16125 16137	Mr. Holtzman
+T130	person 16377 16392	STEVEN HOLTZMAN
+T131	person 16433 16444	Dr. Collins
+T132	person 16610 16621	PAUL SOLMAN
+T133	person 16823 16838	STEVEN HOLTZMAN
+T134	person 17489 17500	PAUL SOLMAN
+T135	person 17676 17694	MARY JO ELLIS KAHN
+T136	person 18012 18023	PAUL SOLMAN
+T137	person 18101 18119	MARY JO ELLIS KAHN
+T138	person 18910 18921	PAUL SOLMAN
+T139	person 18980 18998	MARY JO ELLIS KAHN
+T140	person 19459 19470	PAUL SOLMAN
+T141	person 19546 19564	MARY JO ELLIS KAHN
+T142	person 19745 19756	PAUL SOLMAN
+T143	person 19880 19898	MARY JO ELLIS KAHN
+T144	person 19919 19930	PAUL SOLMAN
+T145	person 19936 19949	Patricia King
+T146	person 20058 20071	PATRICIA KING
+T147	person 21535 21546	PAUL SOLMAN
+T148	person 21548 21559	Dr. Collins
+T149	person 21606 21625	DR. FRANCIS COLLINS
+T150	publication_title 22184 22223	Kassebaum-Kennedy Health Insurance Bill
+T151	organization 22534 22542	Congress
+T152	organization 22616 22630	105th Congress
+T153	person 22894 22905	PAUL SOLMAN
+T154	person 22921 22933	Mr. Holtzman
+T155	location 23059 23063	Utah
+T156	person 23267 23282	STEVEN HOLTZMAN
+T157	person 23433 23444	Dr. Collins
+T158	organization 23450 23485	Biotechnology Industry Organization
+T159	publication_title 23552 23581	Kennedy-Kassebaum legislation
+T160	organization 23595 23614	Bioethics Committee
+T161	person 23714 23725	PAUL SOLMAN
+T162	person 23787 23802	STEVEN HOLTZMAN
+T163	organization 23935 23973	National Bioethics Advisory Commission
+T164	person 24313 24324	PAUL SOLMAN
+T165	person 24778 24791	Patricia King
+T166	person 24795 24808	PATRICIA KING
+T167	person 24931 24942	PAUL SOLMAN
+T168	person 24963 24976	PATRICIA KING
+T169	person 25091 25102	PAUL SOLMAN
+T170	person 25167 25180	PATRICIA KING
+T171	person 25936 25947	Dr. Collins
+T172	organization 26380 26388	Congress
+T173	organization 26636 26656	Commission on Ethics
+T174	person 26896 26907	PAUL SOLMAN
+T175	person 26948 26956	Ms. Kahn
+T176	person 26993 27011	MARY JO ELLIS KAHN
+T177	person 27761 27772	PAUL SOLMAN
+T178	person 27850 27861	Dr. Collins
+T179	person 27865 27884	DR. FRANCIS COLLINS
+T180	person 28898 28909	PAUL SOLMAN
+T181	person 29013 29023	JIM LEHRER
+T182	program_title 29046 29054	NewsHour
+T183	person 29089 29106	Richard Rodriguez
+T184	program_title 29114 29147	FOCUS - A YEAR TO REMEMBER - 1996
+T185	person 29150 29160	JIM LEHRER
+T186	person 29258 29278	Elizabeth Farnsworth
+T187	person 29282 29302	ELIZABETH FARNSWORTH
+T188	person 29386 29401	Michael Ramirez
+T189	publication_title 29410 29435	Memphis Commercial Appeal
+T190	publication_title 29440 29449	USA Today
+T191	person 29451 29463	Steve Kelley
+T192	publication_title 29471 29494	San Diego Union Tribune
+T193	publication_title 29513 29520	Newsday
+T194	person 29526 29537	Ann Telnaes
+T195	publication_title 29545 29569	North American Syndicate
+T196	person 29604 29616	Steve Kelley
+T197	person 29496 29509	Doug Marlette
+T198	person 29658 29670	STEVE KELLEY
+T199	publication_title 29672 29695	San Diego Union-Tribune
+T200	person 30026 30046	ELIZABETH FARNSWORTH
+T201	person 30056 30068	STEVE KELLEY
+T202	person 30175 30189	Roberto Alomar
+T203	person 30213 30229	Jonathan Prevett
+T204	person 30400 30420	ELIZABETH FARNSWORTH
+T205	person 30450 30463	Doug Marlette
+T206	person 30467 30480	DOUG MARLETTE
+T207	publication_title 30482 30489	Newsday
+T208	person 30669 30689	ELIZABETH FARNSWORTH
+T209	person 30788 30801	DOUG MARLETTE
+T210	person 31288 31308	ELIZABETH FARNSWORTH
+T211	person 31310 31321	Ann Telnaes
+T212	person 31372 31383	ANN TELNAES
+T213	publication_title 31385 31408	North America Syndicate
+T214	person 31603 31611	Bob Dole
+T215	person 31718 31722	Dole
+T216	person 31789 31809	ELIZABETH FARNSWORTH
+T217	person 31811 31826	Michael Ramirez
+T218	person 31907 31922	MICHAEL RAMIREZ
+T219	publication_title 31924 31949	Memphis Commercial Appeal
+T220	event 32189 32198	Rose Bowl
+T221	event 32230 32246	Rose Bowl Parade
+T222	person 32477 32497	ELIZABETH FARNSWORTH
+T223	person 32499 32506	Michael
+T224	person 32680 32687	Clinton
+T225	person 32729 32733	Dole
+T226	person 32840 32855	MICHAEL RAMIREZ
+T227	person 33221 33229	Bob Dole
+T228	person 33234 33246	Bill Clinton
+T229	person 33354 33374	ELIZABETH FARNSWORTH
+T230	person 33376 33387	Ann Telnaes
+T231	person 33452 33463	ANN TELNAES
+T232	person 33553 33573	ELIZABETH FARNSWORTH
+T233	person 33642 33651	Sen. Dole
+T234	person 33832 33843	ANN TELNAES
+T235	person 33899 33903	Dole
+T236	person 34184 34196	Pat Buchanan
+T237	person 34201 34210	Bob Doran
+T238	person 34316 34336	ELIZABETH FARNSWORTH
+T239	person 34338 34351	Doug Marlette
+T240	person 34387 34396	Mrs. Dole
+T241	person 34464 34477	DOUG MARLETTE
+T242	person 34579 34599	ELIZABETH FARNSWORTH
+T243	person 34673 34678	Doles
+T244	person 34687 34696	Mrs. Dole
+T245	person 34802 34807	Liddy
+T246	person 34812 34825	DOUG MARLETTE
+T247	person 34871 34891	ELIZABETH FARNSWORTH
+T248	person 34988 34996	Clintons
+T249	person 35042 35067	Franklin Delano Roosevelt
+T250	person 35073 35085	Mrs. Clinton
+T251	person 35098 35105	Eleanor
+T252	person 35128 35132	Bill
+T253	person 35188 35201	DOUG MARLETTE
+T254	person 35449 35456	Hillary
+T255	person 35466 35473	Eleanor
+T256	person 35496 35500	Bill
+T257	person 35536 35543	Clinton
+T258	person 35570 35579	Roosevelt
+T259	person 35619 35634	Hillary Clinton
+T260	person 35669 35686	Eleanor Roosevelt
+T261	person 35725 35737	Nancy Reagan
+T262	person 36171 36178	Clinton
+T263	person 36242 36249	Clinton
+T264	person 36258 36265	Hillary
+T265	event 36293 36303	Whitewater
+T266	person 36313 36324	Dick Morris
+T267	person 36621 36627	Morris
+T268	person 36640 36647	Clinton
+T269	person 36723 36743	ELIZABETH FARNSWORTH
+T270	person 36778 36790	Steve Kelley
+T271	person 36949 36962	DOUG MARLETTE
+T272	person 37088 37108	ELIZABETH FARNSWORTH
+T273	person 37136 37148	STEVE KELLEY
+T274	person 37627 37647	ELIZABETH FARNSWORTH
+T275	person 37696 37711	MICHAEL RAMIREZ
+T276	person 37868 37872	Doug
+T277	person 37877 37880	FDR
+T278	publication_title 37900 37915	Social Security
+T279	person 38220 38240	ELIZABETH FARNSWORTH
+T280	person 38242 38247	Steve
+T281	person 38339 38351	STEVE KELLEY
+T282	organization 38431 38442	White House
+T283	person 38520 38540	ELIZABETH FARNSWORTH
+T284	organization 38609 38620	White House
+T285	organization 38749 38752	FBI
+T286	person 38763 38775	STEVE KELLEY
+T287	organization 38943 38954	White House
+T288	person 39429 39449	ELIZABETH FARNSWORTH
+T289	person 39564 39576	Steve Kelley
+T290	person 39587 39601	Roberto Alomar
+T291	organization 39607 39625	Baltimore Oriole's
+T292	person 39728 39739	Ann Telnaes
+T293	organization 39882 39892	Washington
+T294	person 40076 40089	Doug Marlette
+T295	person 40279 40294	Michael Ramirez
+T296	person 40505 40520	Michael Ramirez
+T297	person 40618 40633	MICHAEL RAMIREZ
+T298	person 41105 41125	ELIZABETH FARNSWORTH
+T299	person 41155 41158	Ann
+T300	person 41177 41188	ANN TELNAES
+T301	person 41520 41532	Sen. D'Amato
+T302	event 41555 41574	Whitewater hearings
+T303	person 41773 41780	Hillary
+T304	person 41929 41949	ELIZABETH FARNSWORTH
+T305	person 42035 42048	DOUG MARLETTE
+T306	event 42434 42443	Woodstock
+T307	product 42664 42670	Prozac
+T308	person 42705 42725	ELIZABETH FARNSWORTH
+T309	person 42731 42743	Steve Kelley
+T310	person 42760 42766	Alomar
+T311	person 42882 42894	STEVE KELLEY
+T312	person 43298 43304	Alomar
+T313	person 43780 43800	ELIZABETH FARNSWORTH
+T314	person 43949 43961	STEVE KELLEY
+T315	person 44211 44224	DOUG MARLETTE
+T316	person 44591 44611	ELIZABETH FARNSWORTH
+T317	person 44613 44616	Ann
+T318	person 44746 44757	ANN TELNAES
+T319	person 44842 44849	Hillary
+T320	person 44861 44881	ELIZABETH FARNSWORTH
+T321	person 44970 44981	ANN TELNAES
+T322	person 45296 45303	Hillary
+T323	person 45440 45460	ELIZABETH FARNSWORTH
+T324	person 45507 45519	STEVE KELLEY
+T325	event 45547 45565	O.J. Simpson trial
+T326	person 45661 45665	O.J.
+T327	person 45994 46014	ELIZABETH FARNSWORTH
+T328	person 46134 46147	DOUG MARLETTE
+T329	person 46167 46178	ANN TELNAES
+T330	person 46188 46208	ELIZABETH FARNSWORTH
+T331	person 46255 46268	DOUG MARLETTE
+T332	person 46284 46295	ANN TELNAES
+T333	person 46338 46351	DOUG MARLETTE
+T334	person 46568 46588	ELIZABETH FARNSWORTH
+T335	person 46590 46605	Michael Ramirez
+T336	person 46652 46667	MICHAEL RAMIREZ
+T337	event 46853 46871	O.J. Simpson trial
+T338	location 46918 46925	America
+T339	publication_title 46946 46963	Playing the Blues
+T340	person 47118 47138	ELIZABETH FARNSWORTH
+T341	person 47258 47273	MICHAEL RAMIREZ
+T342	location 47300 47318	Memphis, Tennessee
+T343	person 47636 47658	Dr. Martin Luther King
+T344	location 47679 47686	Memphis
+T345	person 47759 47779	ELIZABETH FARNSWORTH
+T346	person 47840 47855	MICHAEL RAMIREZ
+T347	person 48192 48212	ELIZABETH FARNSWORTH
+T348	person 48256 48260	Doug
+T349	person 48264 48277	DOUG MARLETTE
+T350	person 48530 48537	Madonna
+T351	person 48637 48652	Michael Jackson
+T352	person 48664 48684	ELIZABETH FARNSWORTH
+T353	person 48740 48753	DOUG MARLETTE
+T354	person 48769 48789	ELIZABETH FARNSWORTH
+T355	person 48826 48839	DOUG MARLETTE
+T356	person 48848 48868	ELIZABETH FARNSWORTH
+T357	person 48912 48925	DOUG MARLETTE
+T358	person 48988 49008	ELIZABETH FARNSWORTH
+T359	person 49093 49106	DOUG MARLETTE
+T360	person 49358 49378	ELIZABETH FARNSWORTH
+T361	person 49400 49413	DOUG MARLETTE
+T362	person 49462 49482	ELIZABETH FARNSWORTH
+T363	person 49542 49553	ANN TELNAES
+T364	person 49711 49731	ELIZABETH FARNSWORTH
+T365	person 49733 49738	Steve
+T366	person 49849 49861	STEVE KELLEY
+T367	event 50078 50103	Newt Gingrich's mea culpa
+T368	event 50200 50219	Clinton second term
+T369	event 50237 50251	line-item veto
+T370	person 50324 50344	ELIZABETH FARNSWORTH
+T371	person 50363 50376	DOUG MARLETTE
+T372	person 50554 50559	Steve
+T373	person 50683 50703	ELIZABETH FARNSWORTH
+T374	person 50705 50708	Ann
+T375	person 50771 50782	ANN TELNAES
+T376	location 50793 50798	China
+T377	location 50800 50805	China
+T378	location 50810 50819	Hong Kong
+T379	person 51024 51044	ELIZABETH FARNSWORTH
+T380	person 51050 51065	Michael Ramirez
+T381	person 51078 51093	MICHAEL RAMIREZ
+T382	organization 51124 51146	Clinton administration
+T383	person 51395 51415	ELIZABETH FARNSWORTH
+T384	program_title 51551 51572	ESSAY - STRIKE A POSE
+T385	person 51575 51585	JIM LEHRER
+T386	person 51612 51629	Richard Rodriguez
+T387	publication_title 51646 51666	Pacific News Service
+T388	person 51721 51738	RICHARD RODRIGUEZ
+T389	person 51741 51744	Eva
+T390	person 51746 51749	Eva
+T391	person 51771 51780	Eva Peron
+T392	location 51835 51844	Argentina
+T393	publication_title 51900 51905	Evita
+T394	person 51927 51934	Madonna
+T395	person 52071 52080	Eva Peron
+T396	person 52090 52106	Marie Eva Duarte
+T397	location 52173 52182	Argentina
+T398	person 52191 52201	Eva Duarte
+T399	location 52220 52232	Buenos Aires
+T400	person 52314 52324	Juan Peron
+T401	person 52403 52409	Franco
+T402	person 52414 52420	Hitler
+T403	person 52422 52429	Madonna
+T404	person 52897 52906	Eva Peron
+T405	location 52942 52951	Argentina
+T406	location 52962 52971	Argentine
+T407	location 53141 53150	Argentina
+T408	person 53192 53198	Borges
+T409	location 53305 53314	Argentina
+T410	person 53128 53139	Luis Borges
+T411	location 53401 53410	Argentina
+T412	location 53581 53588	America
+T413	person 53757 53770	Elvis Presley
+T414	person 53779 53792	Richard Nixon
+T415	location 53795 53806	White House
+T416	person 54039 54046	Madonna
+T417	person 54091 54100	Eva Peron
+T418	person 54356 54359	Eva
+T419	product 54444 54458	Christian Dior
+T420	person 54512 54517	Evita
+T421	person 54302 54312	Juan Peron
+T422	location 54561 54570	Argentina
+T423	location 54597 54609	Buenos Aires
+T424	location 54651 54660	Argentina
+T425	person 54712 54721	Eva Peron
+T426	person 54725 54742	RICHARD RODRIGUEZ
+T427	person 54798 54807	Eva Peron
+T428	person 54834 54843	EVA PERON
+T429	person 54873 54890	RICHARD RODRIGUEZ
+T430	person 54907 54910	Eva
+T431	publication_title 54931 54936	Evita
+T432	person 54954 54972	Andrew Lloyd Weber
+T433	publication_title 55007 55012	Evita
+T434	person 55036 55043	Madonna
+T435	organization 55138 55152	Bloomingdale's
+T436	product 55160 55165	Evita
+T437	product 55229 55234	Evita
+T438	publication_title 55298 55325	Don't cry for me, Argentina
+T439	publication_title 55734 55761	Don't cry for me, Argentina
+T440	person 55330 55347	RICHARD RODRIGUEZ
+T441	person 55596 55605	Eva Peron
+T442	person 55610 55617	Madonna
+T443	person 55766 55783	RICHARD RODRIGUEZ
+T444	person 55789 55806	Richard Rodriguez
+T445	program_title 55808 55813	RECAP
+T446	person 55816 55826	JIM LEHRER
+T447	location 55905 55915	Lima, Peru
+T448	location 56051 56057	Hebron
+T449	location 56127 56133	Hebron
+T450	location 56195 56205	Washington
+T451	location 56207 56213	Oregon
+T452	location 56228 56238	California
+T453	person 56373 56383	Jim Lehrer
