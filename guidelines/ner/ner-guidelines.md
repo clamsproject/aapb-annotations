@@ -1,6 +1,6 @@
 # Named Entity Annotation Guidelines
 
-These guidelines are based on the [OntoNotes guidelines](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/AnotGuideEnNE.pdf), the [EuroParl Named Entity Annotation Guidelines](https://people.csail.mit.edu/andreeab/corpus/annotationGuidelines.pdf) and the [ELDA MAPA guidelines](http://portal.elda.org/media/filer_public/2022/05/10/mapa_annotation-guidelines-v6.pdf):
+These guidelines are based on the [OntoNotes guidelines](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/AnotGuideEnNE.pdf), the [EuroParl Named Entity Annotation Guidelines](https://people.csail.mit.edu/andreeab/corpus/annotationGuidelines.pdf) and the [ELDA MAPA guidelines](http://portal.elda.org/media/filer_public/2022/05/10/mapa_annotation-guidelines-v6.pdf).
 
 We annotate six kinds of named entities: Person, Location, Organization, Product, Event and Title.
 
@@ -8,7 +8,7 @@ Some general guiding principles:
 
 - Only annotate noun phrases.
 
-- Always annotation considering the nature of the entity as used in the text.
+- Always annotate considering the nature of the entity as used in the text.
 
   - Samsung (referring to the organization) is an Organization. Samsung (referring to a smartphone) is a Product. The same is true for Ford in “Ford opened a new factory" and "She bought a Ford".
 
