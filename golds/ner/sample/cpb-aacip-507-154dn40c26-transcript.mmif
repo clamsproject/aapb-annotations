@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/0.4.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/0.4.0/vocabulary/TextDocument",
+      "properties": {
+        "mime": "text/plain",
+        "id": "d1",
+        "location": "file:///var/archive//Users/marc/Documents/git/clams/clams-aapb-annotations/uploads/ner/projects/sample/annotations/cpb-aacip-507-154dn40c26-transcript.ann"
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "v_0",
+      "metadata": {
+        "timestamp": "2023-01-07T20:59:30.716208",
+        "app": "",
+        "contains": {
+          "http://vocab.lappsgrid.org/NamedEntity": {}
+        }
+      },
+      "annotations": [
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7,
+            "end": 21,
+            "text": "ROBERT MacNEIL",
+            "id": "T1"
+          }
+        }
+      ]
+    }
+  ]
+}
