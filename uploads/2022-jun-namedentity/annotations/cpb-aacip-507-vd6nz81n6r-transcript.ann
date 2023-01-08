@@ -1,0 +1,471 @@
+T1	person 2 10	MR. MUDD
+T2	person 30 40	Roger Mudd
+T3	location 44 52	New York
+T4	person 56 66	MS. WARNER
+T5	person 76 91	Margaret Warner
+T6	location 95 105	Washington
+T7	program_title 117 129	News Summary
+T8	location 166 172	Moscow
+T9	person 182 199	President Clinton
+T10	person 260 282	Charlayne Hunter-Gault
+T11	person 312 327	Michael O'Neill
+T12	program_title 329 341	NEWS SUMMARY
+T13	person 344 352	MR. MUDD
+T14	organization 406 412	Amtrak
+T15	location 474 491	Saraland, Alabama
+T16	location 507 513	Mobile
+T17	location 827 838	Los Angeles
+T18	location 842 847	Miami
+T19	organization 892 903	Coast Guard
+T20	location 958 968	Washington
+T21	organization 988 994	Amtrak
+T22	person 1030 1044	CLIFFORD BLACK
+T23	organization 1046 1052	Amtrak
+T24	organization 1230 1236	Amtrak
+T25	person 1404 1412	MR. MUDD
+T26	organization 1547 1565	CSX Transportation
+T27	organization 1597 1633	National Transportation Safety Board
+T28	person 1652 1660	Margaret
+T29	person 1664 1674	MS. WARNER
+T30	person 1676 1689	Boris Yeltsin
+T31	location 1783 1789	Moscow
+T32	person 1807 1814	Yeltsin
+T33	person 1903 1910	Yeltsin
+T34	organization 1938 1956	Russian parliament
+T35	person 2086 2103	Alexander Rutskoi
+T36	person 2211 2218	Yeltsin
+T37	person 2325 2342	President Clinton
+T38	person 2369 2376	Yeltsin
+T39	person 2390 2401	Mr. Clinton
+T40	location 2530 2537	Georgia
+T41	location 2621 2628	Sukhumi
+T42	location 2667 2674	Georgia
+T43	location 2825 2834	Black Sea
+T44	person 2960 2968	MR. MUDD
+T45	person 2970 2987	President Clinton
+T46	organization 3092 3100	Congress
+T47	person 3109 3128	Vice President Gore
+T48	person 3133 3145	Mrs. Clinton
+T49	organization 3201 3212	White House
+T50	person 3329 3346	PRESIDENT CLINTON
+T51	person 3988 3996	MR. MUDD
+T52	organization 4076 4079	GOP
+T53	person 4158 4174	SEN. ROBERT DOLE
+T54	person 4231 4243	Mrs. Clinton
+T55	person 4561 4579	REP. RICHARD ARMEY
+T56	location 4585 4590	Texas
+T57	location 4679 4686	America
+T58	location 4715 4722	America
+T59	person 5033 5041	MR. MUDD
+T60	organization 5071 5079	Congress
+T61	person 5171 5182	Mr. Clinton
+T62	person 5496 5506	MS. WARNER
+T63	person 5508 5531	Gen. John Shalikashvili
+T64	person 5533 5550	President Clinton
+T65	organization 5584 5605	Joint Chiefs of Staff
+T66	organization 5616 5647	Senate Armed Services Committee
+T67	event 5691 5703	World War II
+T68	person 5745 5756	Mr. Clinton
+T69	organization 5827 5839	Nazi Germany
+T70	organization 5842 5850	Vofen SS
+T71	person 5854 5877	GEN. JOHN SHALIKASHVILI
+T72	organization 5889 5910	Joint Chiefs of Staff
+T73	organization 6112 6120	Vofen SS
+T74	location 6385 6392	Georgia
+T75	event 6453 6465	World War II
+T76	person 6469 6479	MS. WARNER
+T77	person 6567 6581	Jane Alexander
+T78	organization 6645 6676	National Endowment for the Arts
+T79	person 6678 6687	Alexander
+T80	organization 6881 6884	NEA
+T81	person 6919 6927	MR. MUDD
+T82	person 6929 6942	Jon Demjanjuk
+T83	location 6963 6969	Israel
+T84	person 7002 7019	Ivan the Terrible
+T85	location 7034 7038	Ohio
+T86	location 7116 7124	New York
+T87	person 7231 7240	Demjanjuk
+T88	organization 7303 7316	Supreme Court
+T89	location 7404 7408	U.S.
+T90	person 7409 7436	Attorney General Janet Reno
+T91	person 7477 7487	MS. WARNER
+T92	location 7560 7567	Florida
+T93	organization 7570 7590	Kennedy Space Center
+T94	organization 7653 7657	NASA
+T95	program_title 7857 7869	News Summary
+T96	program_title 7884 7892	NewsHour
+T97	location 7910 7916	Moscow
+T98	person 7922 7929	Clinton
+T99	person 7989 8011	Charlayne Hunter-Gault
+T100	program_title 8026 8043	UPDATE - STANDOFF
+T101	person 8046 8054	MR. MUDD
+T102	location 8129 8135	Russia
+T103	location 8137 8143	Russia
+T104	person 8283 8296	Boris Yeltsin
+T105	person 8371 8397	Correspondent Ian Williams
+T106	organization 8401 8428	Independent Television News
+T107	person 8432 8444	MR. WILLIAMS
+T108	location 8466 8477	White House
+T109	person 8572 8589	President Yeltsin
+T110	organization 8693 8711	Russian parliament
+T111	person 8820 8827	Yeltsin
+T112	organization 9094 9105	Kalashnikov
+T113	person 9166 9173	Yeltsin
+T114	person 9303 9310	Yeltsin
+T115	person 9312 9352	Parliamentary Speaker Ruslan Khasbulatov
+T116	person 9410 9427	Alexander Rutskoi
+T117	person 9438 9453	Mr. Khasbulatov
+T118	person 9507 9525	RUSLAN KHASBULATOV
+T119	organization 9537 9555	Russian Parliament
+T120	person 9612 9619	Rutskoi
+T121	person 9713 9725	MR. WILLIAMS
+T122	person 9803 9821	RUSLAN KHASBULATOV
+T123	person 10003 10015	MR. WILLIAMS
+T124	event 10021 10031	Afghan war
+T125	person 10041 10052	Mr. Rutskoi
+T126	person 10125 10142	ALEXANDER RUTSKOI
+T127	person 10335 10342	Yeltsin
+T128	person 10406 10418	MR. WILLIAMS
+T129	person 10533 10540	Rutskoi
+T130	person 10554 10561	Yeltsin
+T131	person 10869 10876	Yeltsin
+T132	person 10888 10905	ALEXANDER RUTSKOI
+T133	person 11122 11134	MR. WILLIAMS
+T134	person 11243 11250	Yeltsin
+T135	person 11376 11383	Rutskoi
+T136	person 11500 11507	Yeltsin
+T137	person 11528 11541	Havel Grachov
+T138	person 11704 11717	Boris Yeltsin
+T139	location 11752 11758	Russia
+T140	person 12153 12164	Khasbulatov
+T141	person 12190 12197	Yeltsin
+T142	organization 10461 10471	Parliament
+T143	organization 11873 11883	Parliament
+T144	location 12309 12323	Pushkin Square
+T145	location 12340 12346	Moscow
+T146	location 12669 12675	Russia
+T147	location 12725 12736	White House
+T148	location 12851 12862	White House
+T149	person 12881 12888	Yeltsin
+T150	location 12995 13001	Moscow
+T151	program_title 13218 13240	FOCUS - CLINTON'S CURE
+T152	person 13243 13253	MS. WARNER
+T153	person 13273 13280	Clinton
+T154	organization 13407 13415	Congress
+T155	person 13624 13636	Kwame Holman
+T156	person 13653 13663	MR. HOLMAN
+T157	person 13741 13755	Harris Wofford
+T158	person 13823 13830	Wofford
+T159	person 13832 13839	Wofford
+T160	person 13843 13853	MR. HOLMAN
+T161	location 13886 13898	Pennsylvania
+T162	organization 13899 13905	Senate
+T163	person 13912 13919	Wofford
+T164	person 14070 14077	Wofford
+T165	location 14131 14143	Pennsylvania
+T166	person 14144 14171	Governor Richard Thornburgh
+T167	person 14175 14189	HARRIS WOFFORD
+T168	person 14268 14278	MR. HOLMAN
+T169	person 14287 14294	Wofford
+T170	person 14319 14333	James Carville
+T171	person 14406 14414	Carville
+T172	event 14427 14463	Bill Clinton's presidential campaign
+T173	person 14497 14509	BILL CLINTON
+T174	person 14663 14675	BILL CLINTON
+T175	person 14881 14893	BILL CLINTON
+T176	person 15084 15096	BILL CLINTON
+T177	person 15240 15250	MR. HOLMAN
+T178	person 15252 15269	Candidate Clinton
+T179	person 15390 15407	President Clinton
+T180	person 15454 15472	First Lady Hillary
+T181	organization 15485 15496	White House
+T182	person 15533 15550	PRESIDENT CLINTON
+T183	person 15823 15833	MR. HOLMAN
+T184	person 15874 15896	Hillary Rodham Clinton
+T185	person 16137 16152	HILLARY CLINTON
+T186	location 16749 16762	United States
+T187	person 16766 16776	MR. HOLMAN
+T188	person 16795 16812	President Clinton
+T189	organization 16852 16860	Congress
+T190	organization 17254 17262	Congress
+T191	person 17278 17290	Mrs. Clinton
+T192	organization 17333 17341	Congress
+T193	person 17408 17426	REP. ROBERT MICHEL
+T194	person 17645 17655	MR. HOLMAN
+T195	organization 17693 17699	Senate
+T196	person 17716 17724	Bob Dole
+T197	person 17728 17744	SENATOR BOB DOLE
+T198	person 18010 18020	MR. HOLMAN
+T199	organization 18218 18226	Congress
+T200	person 18230 18240	MS. WARNER
+T201	person 18322 18341	Dr. Bernadine Healy
+T202	organization 18362 18391	National Institutes of Health
+T203	person 18398 18412	President Bush
+T204	organization 18472 18483	U.S. Senate
+T205	location 18488 18492	Ohio
+T206	person 18494 18509	Joseph Califano
+T207	person 18562 18578	President Carter
+T208	person 18624 18641	President Johnson
+T209	person 18690 18702	Mr. Califano
+T210	person 18797 18809	MR. CALIFANO
+T211	organization 19062 19070	Congress
+T212	organization 19116 19124	Congress
+T213	person 19578 19588	MS. WARNER
+T214	person 19604 19613	Dr. Healy
+T215	person 19617 19626	DR. HEALY
+T216	person 20189 20199	MS. WARNER
+T217	person 20207 20219	Mr. Califano
+T218	publication_title 20426 20440	New York Times
+T219	person 20488 20500	MR. CALIFANO
+T220	person 20678 20691	Richard Nixon
+T221	person 20707 20719	Jimmy Carter
+T222	organization 20788 20791	HEW
+T223	location 21020 21032	South Africa
+T224	person 21775 21785	MS. WARNER
+T225	person 21787 21796	Dr. Healy
+T226	person 21960 21969	DR. HEALY
+T227	person 22801 22804	Joe
+T228	person 23172 23182	MS. WARNER
+T229	person 23301 23313	Mrs. Clinton
+T230	person 23393 23405	MR. CALIFANO
+T231	organization 23856 23864	Chrysler
+T232	organization 23909 23912	IBM
+T233	organization 23924 23929	Kodak
+T234	person 24613 24625	Mrs. Clinton
+T235	person 24792 24801	Dr. Healy
+T236	person 25305 25315	MS. WARNER
+T237	person 25317 25326	Dr. Healy
+T238	organization 25366 25377	Republicans
+T239	organization 25415 25426	Republicans
+T240	organization 25434 25438	Hill
+T241	person 25465 25474	DR. HEALY
+T242	person 25534 25542	Clintons
+T243	organization 25890 25899	Democrats
+T244	person 26143 26153	MS. WARNER
+T245	organization 26208 26219	Republicans
+T246	organization 26352 26363	Republicans
+T247	person 26402 26414	Mrs. Clinton
+T248	person 26450 26459	DR. HEALY
+T249	organization 26726 26737	Republicans
+T250	person 26961 26971	MS. WARNER
+T251	person 26983 26995	MR. CALIFANO
+T252	organization 27077 27088	Republicans
+T253	organization 27093 27102	Democrats
+T254	organization 27781 27789	Congress
+T255	organization 27798 27809	Republicans
+T256	organization 27814 27823	Democrats
+T257	organization 28088 28100	Capitol Hill
+T258	person 28155 28164	DR. HEALY
+T259	person 28861 28873	MR. CALIFANO
+T260	person 28918 28931	Richard Nixon
+T261	organization 28945 28953	Congress
+T262	organization 28981 28989	Congress
+T263	person 29170 29182	Bill Clinton
+T264	person 29214 29226	Jimmy Carter
+T265	person 29335 29345	MS. WARNER
+T266	location 29588 29594	Europe
+T267	person 29610 29622	MR. CALIFANO
+T268	person 29678 29687	Dr. Healy
+T269	organization 29921 29935	Cleland Clinic
+T270	location 30062 30069	America
+T271	event 30189 30206	1990/91 recession
+T272	organization 30272 30280	Congress
+T273	location 30288 30301	United States
+T274	person 30305 30315	MS. WARNER
+T275	location 30461 30468	Britain
+T276	location 30663 30676	Great Britain
+T277	event 30700 30712	World War II
+T278	person 30959 30968	Bernadine
+T279	location 31220 31226	Canada
+T280	person 31330 31340	MS. WARNER
+T281	person 31521 31529	Clintons
+T282	person 31699 31708	DR. HEALY
+T283	person 31959 31966	Clinton
+T284	location 32528 32535	America
+T285	location 32638 32645	America
+T286	person 32751 32761	MS. WARNER
+T287	person 32763 32775	Mr. Califano
+T288	person 32779 32791	MR. CALIFANO
+T289	person 33499 33509	MS. WARNER
+T290	person 33608 33613	Roger
+T291	person 33628 33633	Roger
+T292	program_title 33635 33659	FOCUS - MODEL FOR CHANGE
+T293	person 33662 33670	MR. MUDD
+T294	location 33757 33776	Rochester, New York
+T295	person 33815 33832	President Clinton
+T296	person 33891 33909	Fred De Sam Lazaro
+T297	location 33933 33942	Rochester
+T298	program_title 33973 33981	NewsHour
+T299	person 33997 34007	MR. LAZARO
+T300	person 34025 34037	Jason Bowman
+T301	person 34156 34168	JASON BOWMAN
+T302	person 34351 34361	MR. LAZARO
+T303	person 34402 34412	JIM BOWMAN
+T304	person 34616 34626	MR. LAZARO
+T305	person 34655 34658	Jim
+T306	person 34663 34677	Barbara Bowman
+T307	person 34806 34811	Jason
+T308	person 34924 34931	Bowmans
+T309	location 34995 34999	U.S.
+T310	person 35000 35005	Jason
+T311	location 35109 35128	Rochester, New York
+T312	person 35132 35146	BARBARA BOWMAN
+T313	person 35332 35342	JIM BOWMAN
+T314	person 35517 35527	MR. LAZARO
+T315	location 35537 35546	Rochester
+T316	location 35611 35615	U.S.
+T317	location 35647 35656	Rochester
+T318	location 35788 35797	Rochester
+T319	organization 35855 35877	Blue Cross Blue Shield
+T320	person 36239 36251	Jason Bowman
+T321	location 36381 36390	Rochester
+T322	organization 36431 36456	Eastman Kodak Corporation
+T323	organization 36458 36463	Kodak
+T324	location 36489 36498	Rochester
+T325	person 36620 36634	George Eastman
+T326	person 36638 36651	DAVID EDWARDS
+T327	organization 36653 36658	Kodak
+T328	organization 36772 36777	Kodak
+T329	person 36924 36934	MR. LAZARO
+T330	location 37511 37520	Rochester
+T331	person 37541 37554	David Edwards
+T332	organization 37560 37565	Kodak
+T333	person 37629 37642	DAVID EDWARDS
+T334	organization 37839 37844	Kodak
+T335	person 38036 38046	MR. LAZARO
+T336	location 38059 38068	Rochester
+T337	organization 38160 38182	Blue Cross Blue Shield
+T338	location 38186 38195	Rochester
+T339	person 38278 38288	MR. LAZARO
+T340	organization 38290 38295	Kodak
+T341	organization 38353 38358	Blues
+T342	organization 38419 38424	Kodak
+T343	organization 38451 38473	Blue Cross Blue Shield
+T344	location 38493 38502	Rochester
+T345	person 38563 38576	Howard Berman
+T346	organization 38580 38602	Blue Cross Blue Shield
+T347	person 38632 38645	HOWARD BERMAN
+T348	organization 38647 38669	Blue Cross Blue Shield
+T349	organization 38773 38794	Eastman Kodak Company
+T350	organization 38812 38834	Blue Cross Blue Shield
+T351	person 38918 38928	MR. LAZARO
+T352	organization 38951 38973	Blue Cross Blue Shield
+T353	location 39162 39171	Rochester
+T354	location 39303 39312	Rochester
+T355	person 39525 39535	MR. LAZARO
+T356	organization 39620 39625	Kodak
+T357	person 39662 39675	DAVID EDWARDS
+T358	location 39677 39686	Rochester
+T359	person 39869 39884	Derace Schaffer
+T360	location 39967 39976	Rochester
+T361	person 40034 40046	Dr. Schaffer
+T362	person 40055 40074	DR. DERACE SCHAFFER
+T363	person 40477 40487	MR. LAZARO
+T364	person 40572 40580	Schaffer
+T365	person 40638 40657	DR. DERACE SCHAFFER
+T366	location 40715 40724	Rochester
+T367	person 40844 40854	MR. LAZARO
+T368	person 40990 41009	DR. DERACE SCHAFFER
+T369	person 41287 41297	MR. LAZARO
+T370	location 41324 41333	Rochester
+T371	person 41441 41459	Dr. Robert Blendon
+T372	organization 41463 41494	Harvard School of Public Health
+T373	location 41534 41543	Rochester
+T374	person 41571 41589	DR. ROBERT BLENDON
+T375	organization 41591 41622	Harvard School of Public Health
+T376	location 41659 41668	Rochester
+T377	location 41868 41877	Rochester
+T378	person 42052 42062	MR. LAZARO
+T379	person 42084 42091	Blendon
+T380	person 42183 42190	Bowmans
+T381	person 42225 42230	Jason
+T382	location 42263 42269	Denver
+T383	person 42361 42375	BARBARA BOWMAN
+T384	person 42534 42544	MR. LAZARO
+T385	location 42579 42588	Rochester
+T386	person 42637 42651	Barbara Bowman
+T387	person 42681 42691	JIM BOWMAN
+T388	person 42863 42881	DR. ROBERT BLENDON
+T389	location 43011 43018	America
+T390	person 43257 43265	MR. MUDD
+T391	location 43271 43280	Rochester
+T392	person 43324 43331	Clinton
+T393	person 43390 43401	Mr. Clinton
+T394	organization 43418 43426	Congress
+T395	program_title 43442 43454	CONVERSATION
+T396	person 43457 43467	MS. WARNER
+T397	person 43504 43527	Charlayne Hunter- Gault
+T398	location 43565 43571	Moscow
+T399	publication_title 43753 43830	The Roar of the Crowd, How Television and People Power are Changing the World
+T400	publication_title 43847 43866	New York Daily News
+T401	person 43874 43886	Mike O'Neill
+T402	person 43915 43924	Charlayne
+T403	person 43928 43944	MS. HUNTER-GAULT
+T404	person 43946 43961	Michael O'Neill
+T405	person 43991 44002	MR. O'NEILL
+T406	person 44022 44031	Charlayne
+T407	person 44035 44051	MS. HUNTER-GAULT
+T408	location 44117 44124	America
+T409	person 44196 44207	MR. O'NEILL
+T410	person 45374 45390	MS. HUNTER-GAULT
+T411	person 45443 45454	MR. O'NEILL
+T412	location 45521 45526	China
+T413	location 45692 45698	Fujian
+T414	location 45703 45712	Guan Dong
+T415	location 46062 46078	Tiananmen Square
+T416	location 46106 46117	South Korea
+T417	location 46165 46181	Tiananmen Square
+T418	person 46203 46219	MS. HUNTER-GAULT
+T419	person 46368 46379	MR. O'NEILL
+T420	location 46486 46499	United States
+T421	location 47129 47134	China
+T422	location 47398 47403	China
+T423	location 47696 47701	China
+T424	person 48154 48170	MS. HUNTER-GAULT
+T425	person 48348 48359	MR. O'NEILL
+T426	person 48370 48386	MS. HUNTER-GAULT
+T427	person 48407 48418	MR. O'NEILL
+T428	location 48637 48650	United States
+T429	location 48670 48677	Somalia
+T430	person 48764 48784	President Mitterrand
+T431	location 48792 48800	Sarajevo
+T432	person 48922 48938	MS. HUNTER-GAULT
+T433	person 48977 48988	MR. O'NEILL
+T434	organization 49707 49718	White House
+T435	location 49771 49782	Middle West
+T436	event 49796 49830	riots in South Central Los Angeles
+T437	person 50125 50141	MS. HUNTER-GAULT
+T438	person 50209 50220	MR. O'NEILL
+T439	person 50243 50259	MS. HUNTER-GAULT
+T440	person 50277 50288	MR. O'NEILL
+T441	person 50345 50361	MS. HUNTER-GAULT
+T442	person 50465 50476	MR. O'NEILL
+T443	person 50494 50510	MS. HUNTER-GAULT
+T444	person 50774 50785	MR. O'NEILL
+T445	person 50797 50813	MS. HUNTER-GAULT
+T446	person 50849 50860	MR. O'NEILL
+T447	person 51261 51272	George Bush
+T448	event 51539 51550	World War I
+T449	person 51826 51842	MS. HUNTER-GAULT
+T450	person 51877 51888	MR. O'NEILL
+T451	person 51906 51922	MS. HUNTER-GAULT
+T452	person 52103 52114	MR. O'NEILL
+T453	person 52916 52932	MS. HUNTER-GAULT
+T454	person 52940 52955	Michael O'Neill
+T455	person 53026 53037	MR. O'NEILL
+T456	program_title 53050 53055	RECAP
+T457	person 53058 53066	MR. MUDD
+T458	organization 53150 53156	Amtrak
+T459	location 53212 53227	Mobile, Alabama
+T460	person 53273 53286	Boris Yeltsin
+T461	location 53376 53382	Russia
+T462	person 53388 53405	President Clinton
+T463	organization 53498 53506	Congress
+T464	person 53520 53528	Margaret
+T465	person 53532 53542	MS. WARNER
+T466	person 53556 53561	Roger
+T467	program_title 53574 53582	NewsHour
+T468	organization 53664 53672	Congress
+T469	organization 53704 53707	PBS
+T470	person 53774 53781	Clinton
+T471	person 53792 53807	Margaret Warner

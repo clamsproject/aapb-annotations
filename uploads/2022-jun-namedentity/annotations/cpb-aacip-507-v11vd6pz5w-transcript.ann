@@ -1,0 +1,461 @@
+T1	person 2 12	JIM LEHRER
+T2	person 32 42	Jim Lehrer
+T3	program_title 51 59	NewsHour
+T4	location 148 152	Iraq
+T5	location 169 173	Iraq
+T6	publication_title 203 217	New York Times
+T7	organization 326 360	Senate Foreign Relations Committee
+T8	person 379 384	Lugar
+T9	person 389 394	Biden
+T10	organization 475 496	Major League Baseball
+T11	program_title 507 519	NEWS SUMMARY
+T12	person 521 531	JIM LEHRER
+T13	location 533 537	U.S.
+T14	location 611 615	Iraq
+T15	location 626 633	Baghdad
+T16	location 635 639	U.S.
+T17	location 827 831	U.S.
+T18	location 945 952	Baghdad
+T19	location 954 958	U.S.
+T20	person 1097 1109	Moqtada Sadr
+T21	location 1181 1185	U.S.
+T22	organization 1200 1213	U.S. Military
+T23	person 1229 1236	al-Sadr
+T24	person 1283 1306	BRIG. GEN. MARK KIMMITT
+T25	location 1397 1401	Iraq
+T26	location 1504 1508	Iraq
+T27	person 1574 1584	JIM LEHRER
+T28	location 1598 1602	Iraq
+T29	person 1646 1653	al-Sadr
+T30	location 1779 1786	Baghdad
+T31	organization 1800 1812	U.S. Marines
+T32	location 1881 1889	Fallujah
+T33	location 1944 1948	U.S.
+T34	person 2083 2097	President Bush
+T35	location 2113 2126	United States
+T36	location 2170 2174	Iraq
+T37	location 2223 2237	North Carolina
+T38	location 2242 2246	U.S.
+T39	person 2277 2301	PRESIDENT GEORGE W. BUSH
+T40	location 2369 2376	America
+T41	person 2601 2611	JIM LEHRER
+T42	location 2636 2640	U.S.
+T43	location 2691 2695	Iraq
+T44	location 2740 2744	Iraq
+T45	program_title 2777 2789	News Summary
+T46	event 2851 2872	Madrid train bombings
+T47	location 2995 3001	Madrid
+T48	event 3139 3155	March 11 bombing
+T49	person 3196 3221	Secretary of State Powell
+T50	location 3229 3234	Haiti
+T51	person 3278 3296	President Aristide
+T52	person 3314 3320	Powell
+T53	person 3476 3491	Gerard Latortue
+T54	location 3665 3671	Canada
+T55	location 4062 4068	Mexico
+T56	location 4156 4170	Piedras Negras
+T57	location 4195 4213	San Antonio, Texas
+T58	location 4316 4322	Mexico
+T59	location 4324 4329	Texas
+T60	location 4334 4344	New Mexico
+T61	publication_title 4417 4434	Los Angeles Times
+T62	location 4499 4509	California
+T63	publication_title 4576 4585	The Blade
+T64	location 4590 4602	Toledo, Ohio
+T65	organization 4660 4669	U.S. Army
+T66	organization 4676 4687	tiger force
+T67	event 4700 4711	Vietnam War
+T68	program_title 4745 4753	NewsHour
+T69	person 4805 4820	William Taubman
+T70	person 4855 4872	Nikita Khrushchev
+T71	person 4902 4916	Anne Applebaum
+T72	person 4955 4970	Edward P. Jones
+T73	publication_title 5001 5016	The Known World
+T74	person 5043 5049	Wright
+T75	publication_title 5073 5101	Walking to Martha's Vineyard
+T76	person 5104 5116	Paul Moravec
+T77	publication_title 5143 5158	Tempest Fantasy
+T78	person 5176 5187	Doug Wright
+T79	publication_title 5193 5209	I Am My own Wife
+T80	organization 5212 5223	J.C. Penney
+T81	organization 5233 5239	Eckerd
+T82	location 5295 5299	U.S.
+T83	organization 5306 5321	CVS Corporation
+T84	organization 5371 5377	Eckerd
+T85	organization 5415 5418	CVS
+T86	location 5449 5462	United States
+T87	organization 5483 5498	Bank of America
+T88	organization 5625 5659	Fleet Boston Financial Corporation
+T89	organization 5786 5797	Wall Street
+T90	organization 5809 5837	Dow Jones Industrial Average
+T91	organization 5889 5895	NASDAQ
+T92	program_title 5954 5966	News Summary
+T93	location 6030 6034	Iraq
+T94	program_title 6085 6100	FOCUS - TURMOIL
+T95	person 6102 6112	JIM LEHRER
+T96	location 6133 6137	Iraq
+T97	person 6176 6191	Margaret Warner
+T98	person 6195 6210	MARGARET WARNER
+T99	location 6419 6424	Najaf
+T100	location 6433 6440	Baghdad
+T101	location 6471 6478	Baghdad
+T102	location 6519 6528	Sadr City
+T103	person 6778 6793	Moqtada al Sadr
+T104	person 6886 6893	al Sadr
+T105	person 6940 6947	al Sadr
+T106	location 7033 7037	U.S.
+T107	location 7055 7059	Iraq
+T108	person 7061 7072	Paul Bremer
+T109	person 7083 7089	alSadr
+T110	person 7102 7116	L. PAUL BREMER
+T111	person 7412 7427	MARGARET WARNER
+T112	person 7525 7532	al-Sadr
+T113	person 7598 7628	Brigadier General Mark Kimmitt
+T114	person 7658 7665	al-Sadr
+T115	organization 7681 7694	al Mahdi army
+T116	person 7741 7764	BRIG. GEN. MARK KIMMITT
+T117	location 7951 7955	Iraq
+T118	location 8058 8062	Iraq
+T119	person 8127 8142	MARGARET WARNER
+T120	person 8227 8234	al-Sadr
+T121	organization 8237 8253	al Mahdi militia
+T122	location 8334 8338	Iraq
+T123	location 8358 8365	Baghdad
+T124	person 8369 8386	Jeffrey Gettleman
+T125	publication_title 8395 8409	New York Times
+T126	person 8414 8421	Jeffrey
+T127	person 8542 8559	JEFFREY GETTLEMAN
+T128	location 8605 8613	Fallujah
+T129	location 8625 8629	Iraq
+T130	location 8836 8844	Fallujah
+T131	location 9054 9062	Fallujah
+T132	location 9115 9119	Kufa
+T133	organization 9250 9262	Iraqi police
+T134	organization 9380 9392	Iraqi police
+T135	person 9516 9531	MARGARET WARNER
+T136	person 9571 9588	JEFFREY GETTLEMAN
+T137	person 9678 9693	Moqtada al-Sadr
+T138	person 10199 10214	Moqtada al-Sadr
+T139	person 10218 10233	MARGARET WARNER
+T140	person 10286 10293	al-Sadr
+T141	person 10394 10411	JEFFREY GETTLEMAN
+T142	location 10656 10660	Iraq
+T143	location 10665 10672	Baghdad
+T144	location 10677 10682	Najaf
+T145	location 10684 10689	Basra
+T146	person 10754 10761	al-Sadr
+T147	person 11175 11182	al-Sadr
+T148	person 11324 11331	al-Sadr
+T149	location 11625 11632	Baghdad
+T150	person 11662 11677	MARGARET WARNER
+T151	location 11702 11706	U.S.
+T152	location 11718 11722	U.S.
+T153	person 11761 11768	al-Sadr
+T154	person 11872 11889	JEFFREY GETTLEMAN
+T155	location 11903 11907	U.S.
+T156	person 12285 12292	al-Sadr
+T157	location 12417 12421	Iraq
+T158	person 12637 12654	Ayatollah Sistani
+T159	location 12693 12698	Najaf
+T160	person 12739 12746	Sistani
+T161	location 12804 12808	Iraq
+T162	person 12847 12854	Sistani
+T163	person 12856 12860	Sadr
+T164	person 12962 12977	MARGARET WARNER
+T165	person 13183 13200	JEFFREY GETTLEMAN
+T166	person 13392 13399	al-Sadr
+T167	person 13483 13498	MARGARET WARNER
+T168	location 13504 13508	U.S.
+T169	person 13798 13815	JEFFREY GETTLEMAN
+T170	location 13861 13865	Kufa
+T171	location 13938 13942	Kufa
+T172	location 13985 14000	Euphrates River
+T173	person 14170 14177	al-Sadr
+T174	person 14371 14378	al-Sadr
+T175	location 14555 14559	Kufa
+T176	location 14632 14636	U.S.
+T177	person 14895 14910	MARGARET WARNER
+T178	location 14919 14923	U.S.
+T179	person 15037 15054	JEFFREY GETTLEMAN
+T180	location 15492 15501	Sadr City
+T181	person 15634 15638	Sadr
+T182	location 15694 15698	Kufa
+T183	person 16011 16026	MARGARET WARNER
+T184	person 16028 16045	Jeffrey Gettleman
+T185	person 16065 16082	JEFFREY GETTLEMAN
+T186	person 16097 16107	JIM LEHRER
+T187	person 16156 16166	Gwen Ifill
+T188	person 16170 16180	GWEN IFILL
+T189	person 16285 16298	Samer Shehata
+T190	location 16334 16345	Middle East
+T191	organization 16362 16398	Center for Contemporary Arab Studies
+T192	organization 16402 16423	Georgetown University
+T193	person 16429 16442	Adeed Dawisha
+T194	organization 16478 16494	Miami University
+T195	location 16498 16502	Ohio
+T196	location 16553 16564	Middle East
+T197	person 16568 16585	Professor Shehata
+T198	person 16888 16901	SAMER SHEHATA
+T199	person 17265 17269	Sadr
+T200	organization 17204 17235	coalition provisional authority
+T201	organization 17385 17388	CPA
+T202	person 17508 17518	GWEN IFILL
+T203	location 17614 17627	United States
+T204	person 17695 17708	SAMER SHEHATA
+T205	location 17940 17944	Iraq
+T206	person 17981 17995	Saddam Hussein
+T207	person 17999 18013	Saddam Hussein
+T208	person 18042 18046	Sadr
+T209	location 18264 18271	Baghdad
+T210	location 18292 18305	United States
+T211	person 18326 18330	Sadr
+T212	person 18349 18359	GWEN IFILL
+T213	person 18361 18374	Adeed Dawisha
+T214	person 18422 18435	ADEED DAWISHA
+T215	organization 18651 18654	CPA
+T216	person 19191 19201	GWEN IFILL
+T217	person 19294 19307	ADEED DAWISHA
+T218	organization 19480 19483	CPA
+T219	location 19576 19584	Fallujah
+T220	location 19710 19718	Fallujah
+T221	person 19761 19765	Sadr
+T222	person 19935 19939	Sadr
+T223	person 19942 19952	GWEN IFILL
+T224	person 19958 19975	Professor Shehata
+T225	location 20042 20056	Sunni Triangle
+T226	person 20130 20150	Ayatollah al Sistani
+T227	person 20198 20205	al-Sadr
+T228	person 20217 20230	SAMER SHEHATA
+T229	location 20337 20341	Iraq
+T230	person 20362 20369	Sistani
+T231	person 20411 20415	Sadr
+T232	person 20417 20421	Sadr
+T233	person 20437 20447	al-Sistani
+T234	location 20479 20483	Iraq
+T235	location 20692 20696	Iraq
+T236	person 20718 20728	GWEN IFILL
+T237	person 20761 20774	SAMER SHEHATA
+T238	person 20811 20818	Sistani
+T239	location 20967 20971	Iraq
+T240	person 20973 20988	Moqtada al-Sadr
+T241	person 21266 21276	GWEN IFILL
+T242	person 21278 21295	Professor Dawisha
+T243	person 21297 21314	Professor Shehata
+T244	person 21358 21369	Mr. Al-Sadr
+T245	person 21478 21490	ADEEDDAWISHA
+T246	location 21594 21598	Iraq
+T247	location 21654 21661	Baghdad
+T248	location 21676 21685	Sadr City
+T249	location 21711 21722	Saddam City
+T250	location 21752 21756	Iraq
+T251	location 21763 21770	Baghdad
+T252	organization 22083 22095	a Mahdi army
+T253	organization 22378 22388	Mahdi army
+T254	location 22473 22477	Iraq
+T255	organization 22737 22740	CPA
+T256	person 22779 22789	GWEN IFILL
+T257	person 22791 22808	Professor Shehata
+T258	organization 22906 22937	coalition provisional authority
+T259	location 22963 22976	United States
+T260	organization 17635 17666	coalition provisional authority
+T261	organization 20565 20596	coalition provisional authority
+T262	organization 24020 24051	coalition provisional authority
+T263	person 23021 23034	SAMER SHEHATA
+T264	person 23080 23095	Moqtada al-Sadr
+T265	location 23132 23136	U.S.
+T266	person 23355 23370	Moqtada al-Sadr
+T267	location 23472 23485	United States
+T268	organization 23737 23740	CPA
+T269	person 23816 23831	Moqtada al-Sadr
+T270	person 23942 23952	GWEN IFILL
+T271	person 23954 23971	Professor Dawisha
+T272	person 24107 24120	ADEED DAWISHA
+T273	organization 24134 24137	CPA
+T274	person 24287 24294	al-Sadr
+T275	organization 24420 24423	CPA
+T276	person 24563 24580	Professor Shehata
+T277	person 24594 24600	a Sadr
+T278	location 24799 24813	Sunni Triangle
+T279	person 24894 24904	GWEN IFILL
+T280	person 25028 25041	ADEED DAWISHA
+T281	person 25130 25137	Sistani
+T282	person 25278 25293	Moqtada al-Sadr
+T283	person 25595 25605	GWEN IFILL
+T284	person 25607 25620	Adeed Dawisha
+T285	person 25625 25638	Samer Shehata
+T286	person 25668 25678	JIM LEHRER
+T287	location 25707 25711	Iraq
+T288	organization 25755 25789	Senate Foreign Relations Committee
+T289	person 25805 25818	Richard Lugar
+T290	location 25834 25841	Indiana
+T291	person 25868 25877	Joe Biden
+T292	location 25881 25889	Delaware
+T293	person 25893 25906	Senator Lugar
+T294	location 26032 26036	Iraq
+T295	person 26063 26081	SEN. RICHARD LUGAR
+T296	organization 26579 26585	Senate
+T297	person 27040 27050	JIM LEHRER
+T298	person 27153 27171	SEN. RICHARD LUGAR
+T299	person 27179 27189	JIM LEHRER
+T300	person 27236 27249	Senator Lugar
+T301	person 27253 27271	SEN. RICHARD LUGAR
+T302	organization 27552 27560	Congress
+T303	organization 27667 27675	Congress
+T304	location 27866 27870	Iraq
+T305	organization 27990 28017	Foreign Relations Committee
+T306	location 28134 28138	Iraq
+T307	person 28164 28174	JIM LEHRER
+T308	person 28176 28189	Senator Biden
+T309	person 28249 28262	Senator Lugar
+T310	person 28271 28288	SEN. JOSEPH BIDEN
+T311	person 28309 28322	Senator Lugar
+T312	person 28549 28555	Bremer
+T313	person 28890 28897	Chalabi
+T314	person 28916 28923	Sistani
+T315	location 28960 28964	Iraq
+T316	location 29029 29040	Afghanistan
+T317	organization 29062 29073	Loyah Jirga
+T318	organization 29295 29322	Foreign Relations Committee
+T319	person 29468 29478	JIM LEHRER
+T320	person 29520 29533	Senator Biden
+T321	location 29544 29548	U.S.
+T322	location 29703 29707	U.S.
+T323	person 29749 29766	SEN. JOSEPH BIDEN
+T324	person 30081 30085	Sadr
+T325	location 30107 30121	Sunni Triangle
+T326	location 30131 30139	Fallujah
+T327	organization 30502 30507	U. N.
+T328	person 30565 30572	Brahimi
+T329	person 30594 30604	JIM LEHRER
+T330	organization 30610 30614	U.N.
+T331	person 30627 30644	SEN. JOSEPH BIDEN
+T332	organization 30650 30655	U. N.
+T333	person 30769 30773	Dick
+T334	person 31014 31018	Dick
+T335	person 31161 31171	JIM LEHRER
+T336	person 31197 31210	Senator Lugar
+T337	person 31274 31292	SEN. RICHARD LUGAR
+T338	person 31350 31360	JIM LEHRER
+T339	organization 31384 31399	U.S. Government
+T340	person 31446 31464	SEN. RICHARD LUGAR
+T341	organization 31499 31507	Congress
+T342	person 31600 31609	Joe Biden
+T343	location 31972 31976	Iraq
+T344	location 32097 32110	United States
+T345	location 32268 32272	Iraq
+T346	location 32365 32378	United States
+T347	person 32491 32501	JIM LEHRER
+T348	person 32550 32563	Senator Biden
+T349	location 32584 32597	United States
+T350	person 32688 32695	al-Sadr
+T351	location 32720 32724	Iraq
+T352	person 32778 32796	SEN. RICHARD LUGAR
+T353	organization 7218 7234	Iraqi government
+T354	organization 17059 17082	Iraqi governing council
+T355	organization 32968 32991	Iraqi governing council
+T356	organization 33362 33370	Pentagon
+T357	organization 33378 33394	State Department
+T358	person 33407 33419	Jerry Bremer
+T359	person 33794 33804	JIM LEHRER
+T360	person 33806 33819	Senator Biden
+T361	location 33893 33900	Baghdad
+T362	person 33906 33917	Paul Bremer
+T363	person 34060 34077	SEN. JOSEPH BIDEN
+T364	person 34230 34236	Bremer
+T365	person 34414 34424	Dick Lugar
+T366	location 34699 34703	U.S.
+T367	location 34770 34794	United States of America
+T368	person 34798 34808	JIM LEHRER
+T369	person 34862 34879	SEN. JOSEPH BIDEN
+T370	organization 35286 35302	State Department
+T371	person 35400 35410	JIM LEHRER
+T372	person 35412 35425	Senator Lugar
+T373	person 35523 35541	SEN. RICHARD LUGAR
+T374	person 35901 35911	JIM LEHRER
+T375	person 35931 35944	Senator Biden
+T376	person 36011 36029	SEN. RICHARD LUGAR
+T377	person 36108 36117	Joe Biden
+T378	person 36122 36132	Dick Lugar
+T379	person 36519 36529	JIM LEHRER
+T380	person 36531 36544	Senator Biden
+T381	person 36660 36677	SEN. JOSEPH BIDEN
+T382	person 36724 36734	JIM LEHRER
+T383	person 36758 36775	SEN. JOSEPH BIDEN
+T384	person 36786 36794	Dr. Rice
+T385	person 36973 36989	President Chirac
+T386	organization 37025 37029	NATO
+T387	location 37081 37089	Brussels
+T388	person 37275 37285	Dick Lugar
+T389	location 37394 37407	United States
+T390	location 37502 37508	Europe
+T391	person 37638 37643	Condi
+T392	person 37779 37782	Jim
+T393	person 37790 37793	Jim
+T394	person 38009 38019	JIM LEHRER
+T395	person 38025 38038	Senator Lugar
+T396	person 38343 38361	SEN. RICHARD LUGAR
+T397	person 38900 38910	JIM LEHRER
+T398	program_title 38961 38992	FOCUS - OUT AT THE OLD BALLGAME
+T399	person 38994 39004	JIM LEHRER
+T400	person 39085 39098	Terence smith
+T401	person 39165 39178	TERENCE SMITH
+T402	person 39315 39329	President Bush
+T403	person 39397 39421	PRESIDENT GEORGE W. BUSH
+T404	person 39491 39504	TERENCE SMITH
+T405	location 39524 39533	St. Louis
+T406	organization 39578 39587	Cardinals
+T407	location 40077 40090	San Francisco
+T408	organization 40096 40101	Balco
+T409	organization 40278 40283	Balco
+T410	person 40340 40351	Barry Bonds
+T411	person 40376 40390	President Bush
+T412	organization 40463 40473	Washington
+T413	person 40497 40516	Senator John McCain
+T415	person 40593 40609	SEN. JOHN McCAIN
+T416	person 40873 40886	TERENCE SMITH
+T417	person 40902 40933	baseball commissioner Bud Selig
+T418	organization 41003 41006	ABC
+T419	program_title 41010 41019	This Week
+T420	person 41024 41033	BUD SELIG
+T414	person 41244 41250	George
+T421	person 41425 41438	TERENCE SMITH
+T422	organization 41444 41457	players union
+T423	person 41569 41581	Buster Olney
+T424	publication_title 41603 41607	ESPN
+T425	person 41665 41677	Buster Olney
+T426	person 41890 41902	BUSTER OLNEY
+T427	person 42329 42342	TERENCE SMITH
+T428	person 42580 42592	BUSTER OLNEY
+T429	person 42436 42454	Commissioner Selig
+T430	person 43145 43158	TERENCE SMITH
+T431	person 43331 43343	BUSTER OLNEY
+T432	publication_title 43370 43382	U.S.A. Today
+T433	person 44473 44486	TERENCE SMITH
+T434	person 44679 44691	BUSTER OLNEY
+T435	person 45466 45479	TERENCE SMITH
+T436	person 45671 45689	Commissioner Selig
+T437	person 45796 45808	BUSTER OLNEY
+T438	person 46331 46349	Commissioner Selig
+T439	person 46507 46520	TERENCE SMITH
+T440	person 46891 46903	BUSTER OLNEY
+T441	person 47709 47722	TERENCE SMITH
+T442	person 47960 47972	BUSTER OLNEY
+T443	person 48597 48610	TERENCE SMITH
+T444	person 48735 48747	BUSTER OLNEY
+T445	person 48874 48884	Jim Palmer
+T446	organization 48939 48956	Baltimore Orioles
+T447	person 49009 49022	Cecil Fielder
+T448	person 49345 49358	TERENCE SMITH
+T449	person 49418 49430	Buster Olney
+T450	person 49455 49467	BUSTER OLNEY
+T451	program_title 49482 49487	RECAP
+T452	person 49489 49499	JIM LEHRER
+T453	location 49543 49547	U.S.
+T454	location 49622 49626	Iraq
+T455	person 49632 49646	President Bush
+T456	location 49685 49689	Iraq
+T457	person 49734 49744	JIM LEHRER
+T458	location 49815 49819	Iraq
+T459	person 49934 49944	JIM LEHRER
+T460	person 50005 50015	Jim Lehrer
+T461	program_title 50053 50077	NewsHour with Jim Lehrer

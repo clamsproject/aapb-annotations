@@ -1,0 +1,178 @@
+T1	person 4825 4833	Mr. LOEB
+T2	person 4756 4763	MacNEIL
+T3	person 4298 4306	Mr. LOEB
+T4	person 4141 4148	MacNEIL
+T5	person 3779 3787	Mr. LOEB
+T6	location 3658 3669	New England
+T7	person 3638 3645	MacNEIL
+T8	location 3617 3628	New England
+T9	person 3599 3607	Mr. LOEB
+T10	location 3582 3590	New York
+T11	location 3567 3577	New Jersey
+T12	person 3510 3517	MacNEIL
+T13	person 3055 3063	Mr. LOEB
+T14	person 2952 2959	MacNEIL
+T15	person 2429 2434	Robin
+T16	person 2400 2413	MARSHALL LOEB
+T17	person 2333 2341	Mr. Loeb
+T18	publication_title 2317 2331	Money Magazine
+T19	person 2283 2296	Marshall Loeb
+T20	person 2184 2191	MacNEIL
+T21	person 2176 2181	Robin
+T22	organization 2124 2132	Congress
+T23	publication_title 2043 2112	Depository Institutions Deregulation and Monetary Control Act of 1980
+T24	person 977 982	Robin
+T25	person 965 975	JIM LEHRER
+T26	person 959 962	Jim
+T27	person 0 14	ROBERT MacNEIL
+T28	person 9161 9171	Mr. HARDIN
+T29	person 9000 9006	LEHRER
+T30	person 8559 8569	Mr. HARDIN
+T31	person 8483 8489	LEHRER
+T32	person 8160 8168	Mr. Loeb
+T33	person 8122 8132	Mr. HARDIN
+T34	person 7985 7991	LEHRER
+T35	person 7618 7628	Mr. HARDIN
+T36	person 7516 7522	LEHRER
+T37	person 7462 7474	Senator Garn
+T38	person 7166 7176	Mr. HARDIN
+T39	person 7118 7124	LEHRER
+T40	person 6636 6646	Mr. Lehrer
+T41	person 6447 6458	JOHN HARDIN
+T42	person 6434 6444	Mr. Hardin
+T43	organization 6371 6406	U.S. League of Savings Associations
+T44	location 6271 6296	Rock Hill, South Carolina
+T45	organization 6237 6267	First Federal Savings and Loan
+T46	person 6173 6184	John Hardin
+T47	person 6003 6009	LEHRER
+T48	person 5997 6000	Jim
+T49	person 5972 5979	MacNEIL
+T50	person 5228 5236	Mr. LOEB
+T51	person 4971 4978	MacNEIL
+T52	publication_title 12881 12886	reg Q
+T53	person 12697 12707	Mr. Hardin
+T54	publication_title 12644 12649	reg Q
+T55	organization 12306 12317	Mellon Bank
+T56	person 12252 12257	Robin
+T57	person 12218 12235	SANDRA MCLOUGHLIN
+T58	person 12144 12158	Ms. McLoughlin
+T59	organization 12080 12108	American Bankers Association
+T60	person 12028 12042	Ms. McLoughlin
+T61	organization 11976 11987	Mellon Bank
+T62	location 11963 11973	Pittsburgh
+T63	person 11917 11934	Sandra McLoughlin
+T64	person 11828 11835	MacNEIL
+T65	person 11820 11825	Robin
+T66	person 11801 11807	LEHRER
+T67	person 11778 11788	Mr. HARDIN
+T68	person 11716 11722	LEHRER
+T69	person 11351 11361	Mr. HARDIN
+T70	person 11165 11171	LEHRER
+T71	person 10856 10866	Mr. HARDIN
+T72	person 10835 10841	LEHRER
+T73	person 10806 10816	Mr. HARDIN
+T74	person 10777 10783	LEHRER
+T75	person 10710 10720	Mr. HARDIN
+T76	person 10688 10694	LEHRER
+T77	person 10179 10189	Mr. HARDIN
+T78	person 10100 10106	LEHRER
+T79	person 9809 9819	Mr. HARDIN
+T80	person 9717 9723	LEHRER
+T81	organization 17336 17360	Senate Banking Committee
+T82	person 17299 17311	Senator Garn
+T83	location 17274 17278	Utah
+T84	person 17241 17258	Senator Jake Garn
+T85	organization 17073 17081	Congress
+T86	person 17062 17068	LEHRER
+T87	person 17056 17059	Jim
+T88	person 17030 17037	MacNEIL
+T89	person 16063 16077	Ms. McLOUGHLIN
+T90	person 15941 15948	MacNEIL
+T91	person 15500 15510	Mr. Hardin
+T92	person 15353 15363	Mr. Hardin
+T93	person 15244 15249	Robin
+T94	person 15193 15207	Ms. McLOUGHLIN
+T95	location 15072 15082	Pittsburgh
+T96	person 15030 15044	Mr. W.C. Smith
+T97	publication_title 15003 15022	Wall Street Journal
+T98	person 14966 14973	MacNEIL
+T99	person 14668 14678	Mr. Hardin
+T100	person 14309 14323	Ms. McLOUGHLIN
+T101	person 14060 14070	Mr. Hardin
+T102	person 14032 14039	MacNEIL
+T103	person 13159 13167	Mr. Loeb
+T104	person 13087 13101	Ms. McLOUGHLIN
+T105	person 13022 13029	MacNEIL
+T106	publication_title 12943 12948	Reg Q
+T107	person 12927 12941	Ms. McLOUGHLIN
+T108	publication_title 12912 12917	Reg Q
+T109	person 12902 12909	MacNEIL
+T110	person 23758 23766	Mr. Loeb
+T111	person 23738 23748	Mr. Hardin
+T112	person 23729 23736	MacNEIL
+T113	organization 23498 23503	FSLIC
+T114	organization 23446 23454	Treasury
+T115	organization 23328 23350	Federal Home Loan Bank
+T116	person 23023 23026	Jim
+T117	person 22787 22797	Mr. HARDIN
+T118	person 22635 22645	Mr. Hardin
+T119	person 22626 22633	MacNEIL
+T120	person 22618 22623	Robin
+T121	person 22581 22586	Robin
+T122	person 22485 22491	LEHRER
+T123	person 22385 22394	Sen. GARN
+T124	person 22271 22277	LEHRER
+T125	publication_title 21367 21379	regulation Q
+T126	person 21339 21348	Sen. GARN
+T127	person 20953 20963	Mr. Hardin
+T128	person 20945 20951	LEHRER
+T129	organization 20629 20637	Congress
+T130	person 20042 20051	Sen. GARN
+T131	person 20000 20006	LEHRER
+T132	organization 19674 19702	U.S. Savings and Loan League
+T133	organization 19660 19663	ABA
+T134	person 19357 19367	Mr. Hardin
+T135	person 19181 19190	Sen. GARN
+T136	person 19156 19166	Mr. Hardin
+T137	person 19074 19080	LEHRER
+T138	organization 18950 18958	Congress
+T139	organization 18237 18243	Senate
+T140	organization 18223 18228	House
+T141	publication_title 18039 18078	Financial Institutions Deregulation Act
+T142	organization 17942 17948	Senate
+T143	organization 17928 17933	House
+T144	organization 17847 17852	House
+T145	organization 17804 17810	Senate
+T146	organization 17755 17779	House of Representatives
+T147	publication_title 17699 17725	Financial Institutions Act
+T148	organization 17681 17687	Senate
+T149	person 17496 17499	Jim
+T150	person 17480 17494	Sen. JAKE GARN
+T151	person 28020 28034	Robert MacNeil
+T152	person 27951 27958	MacNEIL
+T153	person 27943 27948	Robin
+T154	person 27923 27929	LEHRER
+T155	person 27917 27920	Jim
+T156	location 27895 27903	New York
+T157	person 27883 27891	Mr. Loeb
+T158	person 27851 27865	Ms. McLoughlin
+T159	person 27839 27849	Mr. Hardin
+T160	person 27803 27815	Senator Garn
+T161	person 27756 27763	MacNEIL
+T162	person 27161 27170	Sen. GARN
+T163	person 27146 27158	Senator Garn
+T164	person 27104 27111	MacNEIL
+T165	person 26269 26283	Ms. McLOUGHLIN
+T166	person 26059 26073	Ms. McLoughlin
+T167	person 26050 26057	MacNEIL
+T168	person 25265 25274	Sen. GARN
+T169	organization 25227 25235	Congress
+T170	person 25092 25102	Mr. Hardin
+T171	person 25078 25090	Senator Garn
+T172	person 25069 25076	MacNEIL
+T173	person 24642 24650	Mr. LOEB
+T174	person 24578 24585	MacNEIL
+T175	person 24049 24057	Mr. LOEB
+T176	person 24012 24020	Mr. Loeb
+T177	person 23992 23999	MacNEIL
+T178	person 23913 23923	Mr. HARDIN

@@ -1,0 +1,576 @@
+T1	program_title 0 5	Intro
+T2	person 7 21	ROBERT MacNEIL
+T3	person 80 96	President Reagan
+T4	location 202 209	Lebanon
+T5	location 211 216	Syria
+T6	location 221 227	Israel
+T7	organization 259 264	House
+T8	organization 269 275	Senate
+T9	location 374 382	Oklahoma
+T10	person 430 433	Jim
+T11	person 436 446	JIM LEHRER
+T12	program_title 452 460	NewsHour
+T13	program_title 476 491	news of the day
+T14	program_title 497 510	focus segment
+T15	program_title 518 537	newsmaker interview
+T16	person 550 566	President Reagan
+T17	organization 605 639	Senate Foreign Relations Committee
+T18	person 649 662	Richard Lugar
+T19	person 674 687	Jesse Jackson
+T20	person 696 729	Defense Secretary Donald Rumsfeld
+T21	organization 741 757	State Department
+T22	person 767 779	Joseph Sisco
+T23	program_title 539 544	Focus
+T24	program_title 781 786	Focus
+T25	organization 811 816	House
+T26	organization 821 827	Senate
+T27	person 890 914	Congressman William Gray
+T28	person 919 944	Senator William Armstrong
+T29	program_title 950 969	newsmaker interview
+T30	person 978 1001	Senator Robert Packwood
+T31	organization 1019 1043	Senate Finance Committee
+T32	program_title 1085 1097	News Summary
+T33	person 1099 1105	LEHRER
+T34	person 1107 1123	President Reagan
+T35	location 1209 1215	Beirut
+T36	organization 1217 1228	White House
+T37	person 1239 1252	Larry Speakes
+T38	location 1472 1479	Lebanon
+T39	location 1543 1557	Beirut airport
+T40	person 1742 1752	Mr. Reagan
+T41	person 1834 1859	Secretary of State Shultz
+T42	person 1864 1892	Defense Secretary Weinberger
+T43	person 1894 1899	Robin
+T44	person 1902 1909	MacNEIL
+T45	event 1954 1968	hostage crisis
+T46	organization 1976 1987	White House
+T47	person 1998 2005	Speakes
+T48	location 2011 2016	Syria
+T49	organization 2041 2051	Washington
+T50	location 2080 2086	Israel
+T51	person 2089 2116	Prime Minister Shimon Peres
+T52	person 2134 2150	President Reagan
+T53	location 2189 2195	Israel
+T54	organization 2266 2280	United Nations
+T55	person 2281 2322	Secretary-General Javier Perez de Cuellar
+T56	organization 2428 2451	International Red Cross
+T57	location 2498 2504	Beirut
+T58	person 2507 2513	LEHRER
+T59	event 2547 2564	hostage situation
+T60	program_title 2577 2590	focus segment
+T61	location 2604 2615	El Salvador
+T62	organization 2675 2687	U.S. Marines
+T63	location 2792 2803	El Salvador
+T64	organization 2818 2825	Marines
+T65	location 2851 2879	U.S. Embassy in San Salvador
+T66	person 2930 2937	MacNEIL
+T67	organization 2939 2944	House
+T68	organization 2949 2955	Senate
+T69	organization 3134 3140	Senate
+T70	publication_title 3165 3180	Social Security
+T71	organization 3332 3355	Senate Budget Committee
+T72	person 3365 3378	Pete Domenici
+T73	person 3381 3399	Sen. PETE DOMENICI
+T74	location 3405 3415	New Mexico
+T75	organization 3427 3443	Budget Committee
+T76	organization 3733 3738	House
+T77	organization 3802 3807	House
+T78	location 3995 4005	New Mexico
+T79	organization 4059 4065	Senate
+T80	person 4173 4180	MacNEIL
+T81	organization 4328 4352	Senate Finance Committee
+T82	person 4362 4377	Robert Packwood
+T83	person 4380 4386	LEHRER
+T84	location 4451 4459	Oklahoma
+T85	location 4693 4701	Oklahoma
+T86	person 4742 4754	Lt. JIM KING
+T87	organization 4756 4779	Oklahoma Highway Patrol
+T88	person 5133 5148	Lieutenant King
+T89	person 5203 5211	Lt. KING
+T90	person 5257 5265	Lt. KING
+T91	person 5296 5302	LEHRER
+T92	organization 5339 5357	Aerlex Corporation
+T93	location 5381 5398	Hallett, Oklahoma
+T94	location 5432 5437	Tulsa
+T95	location 5461 5480	Anaheim, California
+T96	person 5820 5833	Marika Gerard
+T97	organization 5837 5846	L.A. News
+T98	person 5873 5886	MARIKA GERARD
+T99	organization 5888 5897	L.A. News
+T100	organization 5956 5977	Larry Fricker Company
+T101	location 6018 6031	Orange County
+T102	organization 6698 6714	U.S. Coast Guard
+T103	location 6744 6757	San Francisco
+T104	person 6944 6951	MacNEIL
+T105	organization 7001 7010	Air India
+T106	product 7052 7055	747
+T107	location 7252 7260	Atlantic
+T108	location 7269 7276	Ireland
+T109	person 7299 7308	Kate Adie
+T110	organization 7312 7319	Visnews
+T111	person 7322 7331	KATE ADIE
+T112	organization 7333 7340	Visnews
+T113	organization 7651 7661	Royal Navy
+T114	location 8114 8121	Britain
+T115	location 8123 8129	France
+T116	location 8139 8144	Spain
+T117	person 8147 8154	MacNEIL
+T118	organization 8156 8165	Air India
+T119	location 8187 8193	Canada
+T120	location 8288 8293	India
+T121	location 8295 8300	Japan
+T122	location 8302 8308	Canada
+T123	location 8313 8320	Britain
+T124	event 8387 8405	Air India disaster
+T125	location 8430 8443	Tokyo airport
+T126	organization 8492 8508	Canadian Pacific
+T127	location 8520 8529	Vancouver
+T128	person 8542 8551	Lal Singh
+T129	person 8556 8568	Ammand Singh
+T130	location 8603 8608	Tokyo
+T131	location 8679 8692	United States
+T132	person 8738 8765	Prime Minister Rajiv Gandhi
+T133	person 8768 8774	LEHRER
+T134	organization 8780 8810	U.S. Transportation Department
+T135	person 8822 8838	President Reagan
+T136	organization 9144 9155	White House
+T137	person 9166 9179	Larry Speakes
+T138	person 9249 9256	MacNEIL
+T139	location 9281 9286	Japan
+T140	person 9402 9425	Prime Minister Nakasone
+T141	organization 9603 9618	U.S. government
+T142	person 9760 9787	Commerce Secretary Baldrige
+T143	organization 9844 9847	IBM
+T144	organization 9918 9936	MCI Communications
+T145	program_title 9938 9965	Flight 847: Weighing Action
+T146	person 9967 9973	LEHRER
+T147	event 10018 10036	TWA hostage crisis
+T148	person 10059 10075	President Reagan
+T149	person 10097 10110	Larry Speakes
+T150	location 10285 10299	Beirut airport
+T151	location 10346 10353	Lebanon
+T152	person 10355 10376	Senator Richard Lugar
+T153	location 10392 10399	Indiana
+T154	organization 10420 10454	Senate Foreign Relations Committee
+T155	person 10483 10508	Secretary of State Shultz
+T156	location 10566 10577	White House
+T157	person 10589 10605	President Reagan
+T158	person 10616 10629	Senator Lugar
+T159	person 10671 10689	Sen. RICHARD LUGAR
+T160	location 10889 10895	Israel
+T161	person 11129 11135	LEHRER
+T162	location 11204 11210	Israel
+T163	person 11256 11266	Sen. LUGAR
+T164	location 11433 11439	Israel
+T165	location 11481 11487	Israel
+T166	person 11489 11501	Shimon Peres
+T167	location 11594 11600	Israel
+T168	person 11748 11761	George Shultz
+T169	person 11843 11849	LEHRER
+T170	person 11939 11949	Sen. LUGAR
+T171	person 12393 12406	Mr. McFarlane
+T172	person 12606 12612	LEHRER
+T173	organization 12672 12680	Congress
+T174	person 12780 12790	Sen. LUGAR
+T175	person 13362 13368	LEHRER
+T176	person 13496 13506	Sen. LUGAR
+T177	person 13646 13659	Mr. McFarlane
+T178	person 14096 14102	LEHRER
+T179	event 14123 14137	Lebanon crisis
+T180	person 14307 14317	Sen. LUGAR
+T181	location 15002 15008	Greece
+T182	person 15353 15359	LEHRER
+T183	location 15408 15415	Lebanon
+T184	person 15433 15443	Sen. LUGAR
+T185	location 15563 15570	Lebanon
+T186	person 15576 15582	LEHRER
+T187	person 15616 15626	Sen. LUGAR
+T188	location 15722 15729	Lebanon
+T189	location 15784 15791	Lebanon
+T190	location 16006 16013	Lebanon
+T191	person 16051 16057	LEHRER
+T192	location 16079 16093	Beirut airport
+T193	person 16119 16129	Sen. LUGAR
+T194	person 16176 16192	Secretary Shultz
+T195	location 16282 16296	Beirut airport
+T196	person 16505 16511	LEHRER
+T197	location 16560 16573	United States
+T198	person 16590 16600	Sen. LUGAR
+T199	person 16762 16768	LEHRER
+T200	organization 16792 16795	CNN
+T201	person 16900 16910	Sen. LUGAR
+T202	person 17197 17203	LEHRER
+T203	person 17225 17230	Robin
+T204	person 17233 17240	MacNEIL
+T205	organization 17395 17407	WTTW-Chicago
+T206	person 17412 17427	Donald Rumsfeld
+T207	person 17429 17443	President Ford
+T208	location 17493 17504	Middle East
+T209	person 17524 17540	President Reagan
+T210	person 17546 17558	Joseph Sisco
+T211	person 17591 17596	Nixon
+T212	person 17601 17605	Ford
+T213	location 17631 17639	New York
+T214	person 17643 17656	Jesse Jackson
+T215	location 17678 17683	Syria
+T216	organization 17718 17722	Navy
+T217	location 17740 17744	U.S.
+T218	location 17760 17767	Lebanon
+T219	person 17789 17801	Joseph Sisco
+T220	person 17839 17852	Senator Lugar
+T221	person 17888 17901	Senator Lugar
+T222	person 17917 17929	JOSEPH SISCO
+T223	person 18252 18263	Nabih Berri
+T224	location 18313 18320	Lebanon
+T225	person 18658 18665	MacNEIL
+T226	person 18686 18701	Donald Rumsfeld
+T227	person 18704 18719	DONALD RUMSFELD
+T228	location 18824 18837	United States
+T229	location 18860 18873	United States
+T230	location 19070 19094	United States of America
+T231	location 19441 19454	United States
+T232	person 19859 19866	MacNEIL
+T233	person 19868 19881	Jesse Jackson
+T234	person 19934 19947	Senator Lugar
+T235	person 19988 20001	JESSE JACKSON
+T236	location 20537 20543	Israel
+T237	location 20737 20743	Israel
+T238	location 20797 20802	Syria
+T239	location 20855 20860	Syria
+T240	location 20943 20950	Lebanon
+T241	person 21498 21505	MacNEIL
+T242	location 21549 21555	Israel
+T243	location 21585 21590	Syria
+T244	person 21593 21605	Rev. JACKSON
+T245	location 22019 22025	Israel
+T246	location 22052 22058	Israel
+T247	person 22230 22237	MacNEIL
+T248	person 22266 22275	Joe Sisco
+T249	location 22322 22328	Israel
+T250	person 22358 22368	Sec. SISCO
+T251	person 22565 22576	Nabih Berri
+T252	person 22968 22975	MacNEIL
+T253	person 22977 22989	Mr. Rumsfeld
+T254	person 23088 23101	Sec. RUMSFELD
+T255	person 23125 23132	MacNEIL
+T256	person 23276 23289	Sec. RUMSFELD
+T257	person 23357 23368	Nabih Berri
+T258	person 23376 23392	President Reagan
+T259	location 23520 23533	United States
+T260	location 23587 23600	United States
+T261	location 23997 24003	Europe
+T262	location 24023 24029	Europe
+T263	location 24043 24056	United States
+T264	location 24170 24176	Europe
+T265	person 24208 24220	King Hussein
+T266	location 24224 24230	Jordan
+T267	location 24319 24330	Middle East
+T268	location 24363 24367	U.S.
+T269	person 24674 24686	Rev. JACKSON
+T270	person 25076 25083	MacNEIL
+T271	person 25085 25097	Mr. Rumsfeld
+T272	location 25151 25164	United States
+T273	person 25274 25286	Rev. JACKSON
+T274	person 25645 25654	Mr. Assad
+T275	location 25774 25786	South Africa
+T276	person 25895 25902	MacNEIL
+T277	person 25931 25940	Mr. Sisco
+T278	person 26009 26019	Sec. SISCO
+T279	person 26061 26076	President Assad
+T280	location 26291 26298	Lebanon
+T281	location 26410 26421	Middle East
+T282	location 26640 26653	United States
+T283	person 26790 26803	Sec. RUMSFELD
+T284	location 26862 26867	Syria
+T285	location 26872 26876	Iran
+T286	location 26881 26886	Libya
+T287	location 26951 26962	Middle East
+T288	person 27321 27328	MacNEIL
+T289	person 27578 27587	Mr. Sisco
+T290	person 27607 27617	Sec. SISCO
+T291	person 27796 27803	MacNEIL
+T292	person 27805 27817	Mr. Rumsfeld
+T293	person 27820 27833	Sec. RUMSFELD
+T294	location 27872 27885	United States
+T295	person 28181 28188	MacNEIL
+T296	person 28229 28241	Rev. JACKSON
+T297	location 28282 28289	Lebanon
+T298	location 28535 28541	Israel
+T299	location 28570 28575	Syria
+T300	person 28810 28817	MacNEIL
+T301	person 28830 28833	Jim
+T302	person 28836 28842	LEHRER
+T303	person 28862 28875	Senator Lugar
+T304	person 28911 28927	Reverend Jackson
+T305	location 28975 28981	Israel
+T306	location 28986 28991	Syria
+T307	person 28994 29004	Sen. LUGAR
+T308	person 29050 29055	Assad
+T309	location 29067 29072	Syria
+T310	person 29145 29156	Nabih Berri
+T311	location 29255 29261	Israel
+T312	person 29387 29399	Mr. Rumsfeld
+T313	person 29575 29581	LEHRER
+T314	location 29592 29597	Syria
+T315	person 29623 29633	Sen. LUGAR
+T316	person 29878 29884	LEHRER
+T317	person 29989 29999	Sen. LUGAR
+T318	location 30029 30035	Israel
+T319	location 30233 30239	Israel
+T320	person 30242 30248	LEHRER
+T321	person 30267 30283	Reverend Jackson
+T322	person 30387 30397	Sen. LUGAR
+T323	person 30696 30702	LEHRER
+T324	person 30715 30728	Senator Lugar
+T325	person 30751 30756	Robin
+T326	person 30759 30766	MacNEIL
+T327	program_title 30789 30797	NewsHour
+T328	organization 30822 30827	House
+T329	organization 30832 30838	Senate
+T330	person 30903 30928	Senator William Armstrong
+T331	person 30933 30957	Congressman William Gray
+T332	program_title 30965 30984	newsmaker interview
+T333	organization 30990 31014	Senate Finance Committee
+T334	person 31024 31039	Robert Packwood
+T335	program_title 31041 31057	Budget Stalemate
+T336	person 31059 31065	LEHRER
+T337	organization 31152 31157	House
+T338	organization 31162 31168	Senate
+T339	publication_title 31231 31250	1986 federal budget
+T340	publication_title 31388 31403	Social Security
+T341	person 31566 31576	June Cross
+T342	person 31647 31657	JUNE CROSS
+T343	organization 31676 31682	Senate
+T344	publication_title 31730 31745	Social Security
+T345	organization 31751 31756	House
+T346	organization 31823 31829	Senate
+T347	person 31850 31863	Pete Domenici
+T348	organization 31890 31896	Senate
+T349	organization 31953 31958	House
+T350	organization 32002 32007	House
+T351	person 32028 32037	Bill gray
+T352	organization 32099 32104	House
+T353	publication_title 32207 32222	Social Security
+T354	organization 32233 32239	Senate
+T355	person 32251 32263	Slade Gorton
+T356	organization 32276 32285	Democrats
+T357	person 32295 32312	Sen. SLADE GORTON
+T358	location 32318 32328	Washington
+T359	organization 32407 32412	House
+T360	publication_title 32542 32557	Social Security
+T361	person 32695 32711	Rep. BILL HEFNER
+T362	location 32717 32731	North Carolina
+T363	organization 32856 32886	Appalachia Regional Commission
+T364	organization 32892 32895	EDA
+T365	organization 33158 33163	House
+T366	person 33166 33179	Sen. DOMENICI
+T367	person 33455 33460	CROSS
+T368	person 33494 33507	Lawton Chiles
+T369	organization 33544 33550	Senate
+T370	organization 33551 33562	Republicans
+T371	organization 33571 33576	House
+T372	organization 33577 33586	Democrats
+T373	person 33589 33607	Sen. LAWTON CHILES
+T374	location 33613 33620	Florida
+T375	person 33822 33839	Rep. WILLIAM GRAY
+T376	location 33845 33857	Pennsylvania
+T377	organization 33859 33875	Budget Committee
+T378	publication_title 33935 33950	Social Security
+T379	person 34221 34234	Sen. DOMENICI
+T380	person 34244 34253	Rep. GRAY
+T381	person 34268 34281	Sen. DOMENICI
+T382	person 34328 34337	Rep. GRAY
+T383	person 34359 34372	Sen. DOMENICI
+T384	person 34602 34611	Rep. GRAY
+T385	person 34639 34644	CROSS
+T386	person 34668 34672	Gray
+T387	organization 34725 34734	Democrats
+T388	organization 34739 34750	Republicans
+T389	person 34947 34960	Sen. DOMENICI
+T390	organization 35030 35035	House
+T391	organization 35098 35103	House
+T392	location 35291 35301	New Mexico
+T393	organization 35355 35361	Senate
+T394	person 35469 35474	CROSS
+T395	organization 35536 35541	House
+T396	organization 35546 35552	Senate
+T397	person 35689 35695	LEHRER
+T398	organization 35704 35709	House
+T399	organization 35736 35758	House Budget Committee
+T400	person 35768 35780	William Gray
+T401	organization 35802 35808	Senate
+T402	person 35810 35835	Senator William Armstrong
+T403	organization 35853 35876	Senate Budget Committee
+T404	organization 35907 35919	Capitol Hill
+T405	person 35921 35938	Senator Armstrong
+T406	person 35980 36002	Sen. WILLIAM ARMSTRONG
+T407	person 36389 36395	LEHRER
+T408	person 36457 36471	Sen. ARMSTRONG
+T409	person 36755 36761	LEHRER
+T410	location 36804 36812	Colorado
+T411	person 36941 36955	Sen. ARMSTRONG
+T412	organization 37213 37218	House
+T413	organization 37236 37241	House
+T414	organization 37261 37267	Senate
+T415	organization 37285 37291	Senate
+T416	organization 37375 37381	Senate
+T417	organization 37466 37471	House
+T418	person 37585 37591	LEHRER
+T419	person 37613 37627	Sen. ARMSTRONG
+T420	person 37669 37675	LEHRER
+T421	publication_title 37778 37793	Social Security
+T422	person 37808 37822	Sen. ARMSTRONG
+T423	organization 37860 37866	Senate
+T424	publication_title 37887 37902	Social Security
+T425	organization 38114 38120	Senate
+T426	organization 38190 38195	House
+T427	organization 38210 38215	House
+T428	person 38356 38362	LEHRER
+T429	person 38364 38380	Congressman Gray
+T430	person 38414 38423	Rep. GRAY
+T431	organization 38533 38538	House
+T432	organization 39298 39303	House
+T433	organization 39394 39400	Senate
+T434	person 39661 39678	Caspar Weinberger
+T435	organization 39933 39938	House
+T436	person 40074 40080	LEHRER
+T437	person 40120 40129	Rep. GRAY
+T438	person 40293 40299	LEHRER
+T439	person 40333 40347	Sen. ARMSTRONG
+T440	person 40454 40470	Congressman Gray
+T441	organization 40510 40516	Senate
+T442	organization 40572 40577	House
+T443	person 40693 40699	LEHRER
+T444	person 40721 40735	Sen. ARMSTRONG
+T445	person 40919 40925	LEHRER
+T446	person 40972 40988	Congressman Gray
+T447	person 41045 41059	Sen. ARMSTRONG
+T448	organization 41268 41273	House
+T449	organization 41277 41283	Senate
+T450	person 41303 41309	LEHRER
+T451	person 41347 41356	Rep. GRAY
+T452	person 41406 41423	Senator Armstrong
+T453	organization 41508 41514	Senate
+T454	organization 41825 41831	Senate
+T455	organization 42133 42138	House
+T456	person 42439 42445	LEHRER
+T457	person 42447 42464	Senator Armstrong
+T458	person 42544 42560	Congressman Gray
+T459	organization 42569 42574	House
+T460	person 42671 42685	Sen. ARMSTRONG
+T461	person 43038 43044	LEHRER
+T462	person 43052 43066	Sen. ARMSTRONG
+T463	person 43639 43645	LEHRER
+T464	person 43647 43663	Congressman Gray
+T465	location 43697 43709	Philadelphia
+T466	person 43817 43826	Rep. GRAY
+T467	organization 43963 43968	House
+T468	organization 44153 44161	Congress
+T469	person 44163 44172	Jack Kemp
+T470	organization 44297 44302	House
+T471	organization 44395 44401	Senate
+T472	organization 44432 44438	Senate
+T473	organization 44479 44485	Senate
+T474	organization 44662 44667	House
+T475	organization 44812 44828	Budget Committee
+T476	person 44924 44930	LEHRER
+T477	person 44971 44980	Rep. GRAY
+T478	person 45104 45112	Stockman
+T479	person 45223 45235	Mr. Domenici
+T480	person 45432 45438	LEHRER
+T481	person 45455 45472	Senator Armstrong
+T482	person 45475 45489	Sen. ARMSTRONG
+T483	person 45621 45637	Congressman Gray
+T484	organization 45765 45770	House
+T485	organization 45798 45804	Senate
+T486	organization 45923 45929	Amtrak
+T487	organization 45931 45935	UDAG
+T488	organization 45968 45978	Ex-Im Bank
+T489	person 46101 46107	LEHRER
+T490	person 46225 46239	Sen. ARMSTRONG
+T491	person 46250 46259	Rep. GRAY
+T492	person 46276 46282	LEHRER
+T493	person 46284 46289	Robin
+T494	person 46292 46299	MacNEIL
+T495	person 46355 46371	President Reagan
+T496	program_title 46494 46513	newsmaker interview
+T497	organization 46619 46627	Congress
+T498	person 46646 46669	Senator Robert Packwood
+T499	location 46673 46679	Oregon
+T500	organization 46697 46721	Senate Finance Committee
+T501	person 46723 46736	Judy Woodruff
+T502	person 46775 46779	Judy
+T503	program_title 46781 46805	Tax Reform: Fair to All?
+T504	person 46807 46820	JUDY WOODRUFF
+T505	person 46822 46838	Senator Packwood
+T506	person 47320 47336	Senator Packwood
+T507	location 47358 47368	Washington
+T508	person 47552 47572	Sen. ROBERT PACKWOOD
+T509	person 47587 47591	Judy
+T510	organization 47636 47641	House
+T511	organization 47702 47708	Senate
+T512	person 47856 47864	WOODRUFF
+T513	person 47908 47921	Sen. PACKWOOD
+T514	person 48361 48369	WOODRUFF
+T515	person 48477 48490	Sen. PACKWOOD
+T516	organization 48604 48609	House
+T517	organization 48638 48644	Senate
+T518	organization 48733 48739	Senate
+T519	person 48744 48765	Chairman Rostenkowski
+T520	organization 48773 48778	House
+T521	person 49002 49010	WOODRUFF
+T522	person 49026 49043	Senator Armstrong
+T523	person 49242 49255	Sen. PACKWOOD
+T524	person 49834 49842	WOODRUFF
+T525	person 49911 49924	Sen. PACKWOOD
+T526	person 50294 50302	WOODRUFF
+T527	person 50463 50476	Sen. PACKWOOD
+T528	person 50657 50665	WOODRUFF
+T529	person 50708 50721	Sen. PACKWOOD
+T530	person 51317 51325	WOODRUFF
+T531	person 51374 51387	Sen. PACKWOOD
+T532	organization 51701 51709	Congress
+T533	organization 51851 51870	Treasury Department
+T534	person 52052 52060	WOODRUFF
+T535	person 52112 52127	Secretary Baker
+T536	person 52201 52214	Sen. PACKWOOD
+T537	location 52596 52606	Washington
+T538	person 52857 52865	WOODRUFF
+T539	person 52916 52929	Sen. PACKWOOD
+T540	person 53447 53455	WOODRUFF
+T541	person 53511 53524	Sen. PACKWOOD
+T542	person 54176 54184	WOODRUFF
+T543	person 54244 54257	Sen. PACKWOOD
+T544	person 54684 54692	WOODRUFF
+T545	person 54740 54753	Sen. PACKWOOD
+T546	person 54795 54803	WOODRUFF
+T547	person 54907 54920	Sen. PACKWOOD
+T548	person 54966 54975	Jim Baker
+T549	person 55097 55109	Pat Buchanan
+T550	person 55438 55446	WOODRUFF
+T551	person 55518 55531	Sen. PACKWOOD
+T552	location 55955 55962	America
+T553	person 55971 55979	WOODRUFF
+T554	person 56150 56163	Sen. PACKWOOD
+T555	location 56315 56328	New York City
+T556	person 56732 56740	WOODRUFF
+T557	person 56804 56817	Sen. PACKWOOD
+T558	organization 56842 56847	House
+T559	organization 56870 56876	Senate
+T560	person 56952 56960	WOODRUFF
+T561	person 56962 56985	Senator Robert Packwood
+T562	person 57017 57030	Sen. PACKWOOD
+T563	person 57044 57052	WOODRUFF
+T564	person 57054 57057	Jim
+T565	person 57060 57066	LEHRER
+T566	person 57106 57122	President Reagan
+T567	location 57161 57168	Lebanon
+T568	organization 57170 57175	House
+T569	organization 57180 57186	Senate
+T570	publication_title 57225 57244	1986 federal budget
+T571	location 57362 57370	Oklahoma
+T572	person 57402 57407	Robin
+T573	person 57410 57417	MacNEIL
+T574	person 57431 57434	Jim
+T575	program_title 57447 57455	NewsHour
+T576	person 57499 57513	Robert MacNeil
