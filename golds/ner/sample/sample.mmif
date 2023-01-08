@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/0.4.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/0.4.0/vocabulary/TextDocument",
+      "properties": {
+        "mime": "text/plain",
+        "id": "d1",
+        "location": "file:///var/archive//Users/marc/Documents/git/clams/clams-aapb-annotations/uploads/ner/projects/sample/annotations/sample.ann"
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "v_0",
+      "metadata": {
+        "timestamp": "2023-01-07T15:48:24.244314",
+        "app": "",
+        "contains": {
+          "http://vocab.lappsgrid.org/NamedEntity": {}
+        }
+      },
+      "annotations": [
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 360,
+            "end": 374,
+            "text": "ROBERT MacNEIL",
+            "id": "T1"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 390,
+            "end": 406,
+            "text": "President Reagan",
+            "id": "T2"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 438,
+            "end": 446,
+            "text": "Congress",
+            "id": "T3"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 860,
+            "end": 875,
+            "text": "The White House",
+            "id": "T4"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1017,
+            "end": 1031,
+            "text": "Administration",
+            "id": "T5"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1094,
+            "end": 1102,
+            "text": "Congress",
+            "id": "T6"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1123,
+            "end": 1153,
+            "text": "House Agriculture Subcommittee",
+            "id": "T7"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1283,
+            "end": 1286,
+            "text": "Jim",
+            "id": "T8"
+          }
+        }
+      ]
+    }
+  ]
+}
