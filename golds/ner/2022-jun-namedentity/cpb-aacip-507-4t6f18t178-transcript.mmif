@@ -1,0 +1,2019 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/0.4.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/0.4.0/vocabulary/TextDocument",
+      "properties": {
+        "mime": "text/plain",
+        "id": "d1",
+        "location": "file:///var/archive//Users/marc/Desktop/projects/clams/code/clamsproject/clams-aapb-annotations/uploads/ner/projects/2022-jun-namedentity/annotations/cpb-aacip-507-4t6f18t178-transcript.ann"
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "v_0",
+      "metadata": {
+        "timestamp": "2023-01-09T09:43:14.839126",
+        "app": "",
+        "contains": {
+          "http://vocab.lappsgrid.org/NamedEntity": {}
+        }
+      },
+      "annotations": [
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 0,
+            "end": 14,
+            "text": "ROBERT MacNEIL",
+            "id": "T1"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30,
+            "end": 64,
+            "text": "Energy Secretary James Schlesinger",
+            "id": "T2"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 180,
+            "end": 188,
+            "text": "New York",
+            "id": "T3"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 190,
+            "end": 205,
+            "text": "Mr. Schlesinger",
+            "id": "T4"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 454,
+            "end": 473,
+            "text": "United Mine Workers",
+            "id": "T5"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 683,
+            "end": 687,
+            "text": "Ohio",
+            "id": "T6"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 689,
+            "end": 697,
+            "text": "Maryland",
+            "id": "T7"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 702,
+            "end": 710,
+            "text": "Kentucky",
+            "id": "T8"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 760,
+            "end": 773,
+            "text": "West Virginia",
+            "id": "T9"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 778,
+            "end": 786,
+            "text": "Virginia",
+            "id": "T10"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 788,
+            "end": 826,
+            "text": "Mine Workers` President, Arnold Miller",
+            "id": "T11"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1069,
+            "end": 1072,
+            "text": "Jim",
+            "id": "T12"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1075,
+            "end": 1085,
+            "text": "JIM LEHRER",
+            "id": "T13"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1087,
+            "end": 1092,
+            "text": "Robin",
+            "id": "T14"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1914,
+            "end": 1919,
+            "text": "Robin",
+            "id": "T15"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1922,
+            "end": 1929,
+            "text": "MacNEIL",
+            "id": "T16"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1931,
+            "end": 1942,
+            "text": "Jerry Jones",
+            "id": "T17"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1970,
+            "end": 1989,
+            "text": "Oldbin Coal Company",
+            "id": "T18"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2087,
+            "end": 2139,
+            "text": "Local 1124 of District 12 of the United Mine Workers",
+            "id": "T20"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2192,
+            "end": 2201,
+            "text": "Mr. Jones",
+            "id": "T21"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2259,
+            "end": 2268,
+            "text": "Mr. Jones",
+            "id": "T22"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2289,
+            "end": 2292,
+            "text": "Jim",
+            "id": "T23"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1993,
+            "end": 1999,
+            "text": "Sesser",
+            "id": "T24"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2461,
+            "end": 2472,
+            "text": "JERRY JONES",
+            "id": "T25"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2480,
+            "end": 2485,
+            "text": "Robin",
+            "id": "T26"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2786,
+            "end": 2802,
+            "text": "President Miller",
+            "id": "T27"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3013,
+            "end": 3020,
+            "text": "MacNEIL",
+            "id": "T28"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3138,
+            "end": 3143,
+            "text": "JONES",
+            "id": "T29"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2022,
+            "end": 2030,
+            "text": "Illinois",
+            "id": "T19"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4031,
+            "end": 4038,
+            "text": "MacNEIL",
+            "id": "T30"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4150,
+            "end": 4155,
+            "text": "JONES",
+            "id": "T31"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4433,
+            "end": 4440,
+            "text": "MacNEIL",
+            "id": "T32"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4467,
+            "end": 4472,
+            "text": "JONES",
+            "id": "T33"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4480,
+            "end": 4487,
+            "text": "MacNEIL",
+            "id": "T34"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4533,
+            "end": 4538,
+            "text": "JONES",
+            "id": "T35"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4545,
+            "end": 4552,
+            "text": "MacNEIL",
+            "id": "T36"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4618,
+            "end": 4631,
+            "text": "Arnold Miller",
+            "id": "T37"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4823,
+            "end": 4833,
+            "text": "Mr. Miller",
+            "id": "T38"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4914,
+            "end": 4919,
+            "text": "JONES",
+            "id": "T39"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5078,
+            "end": 5091,
+            "text": "Harry Patrick",
+            "id": "T40"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5251,
+            "end": 5264,
+            "text": "Arnold Miller",
+            "id": "T41"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5343,
+            "end": 5349,
+            "text": "Miller",
+            "id": "T42"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5487,
+            "end": 5493,
+            "text": "Arnold",
+            "id": "T43"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5891,
+            "end": 5898,
+            "text": "MacNEIL",
+            "id": "T44"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5924,
+            "end": 5927,
+            "text": "Jim",
+            "id": "T45"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5930,
+            "end": 5936,
+            "text": "LEHRER",
+            "id": "T46"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6062,
+            "end": 6076,
+            "text": "Thomas Bethell",
+            "id": "T47"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6087,
+            "end": 6106,
+            "text": "United Mine Workers",
+            "id": "T48"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6270,
+            "end": 6281,
+            "text": "Mr. Bethell",
+            "id": "T49"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6284,
+            "end": 6301,
+            "text": "THOMAS N. BETHELL",
+            "id": "T50"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7087,
+            "end": 7090,
+            "text": "UMW",
+            "id": "T51"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7108,
+            "end": 7118,
+            "text": "Mr. Miller",
+            "id": "T52"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7383,
+            "end": 7389,
+            "text": "LEHRER",
+            "id": "T53"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7402,
+            "end": 7411,
+            "text": "Mr. Jones",
+            "id": "T54"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7627,
+            "end": 7634,
+            "text": "BETHELL",
+            "id": "T55"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7914,
+            "end": 7917,
+            "text": "UMW",
+            "id": "T56"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8110,
+            "end": 8116,
+            "text": "LEHRER",
+            "id": "T57"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8229,
+            "end": 8236,
+            "text": "BETHELL",
+            "id": "T58"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9174,
+            "end": 9187,
+            "text": "Supreme Court",
+            "id": "T59"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9228,
+            "end": 9234,
+            "text": "LEHRER",
+            "id": "T60"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9302,
+            "end": 9309,
+            "text": "BETHELL",
+            "id": "T61"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9386,
+            "end": 9392,
+            "text": "LEHRER",
+            "id": "T62"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9447,
+            "end": 9452,
+            "text": "Robin",
+            "id": "T63"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9474,
+            "end": 9483,
+            "text": "Mr. Jones",
+            "id": "T64"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9522,
+            "end": 9535,
+            "text": "Arnold Miller",
+            "id": "T65"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9662,
+            "end": 9669,
+            "text": "BETHELL",
+            "id": "T66"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10028,
+            "end": 10038,
+            "text": "Mr. Miller",
+            "id": "T67"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10128,
+            "end": 10134,
+            "text": "LEHRER",
+            "id": "T68"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10253,
+            "end": 10263,
+            "text": "John Hoerr",
+            "id": "T69"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10368,
+            "end": 10377,
+            "text": "Mr. Hoerr",
+            "id": "T70"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10380,
+            "end": 10390,
+            "text": "JOHN HOERR",
+            "id": "T71"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11034,
+            "end": 11040,
+            "text": "LEHRER",
+            "id": "T72"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11218,
+            "end": 11223,
+            "text": "HOERR",
+            "id": "T73"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11401,
+            "end": 11407,
+            "text": "LEHRER",
+            "id": "T74"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11518,
+            "end": 11523,
+            "text": "HOERR",
+            "id": "T75"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6230,
+            "end": 6241,
+            "text": "Coal Patrol",
+            "id": "T76"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10282,
+            "end": 10295,
+            "text": "Business Week",
+            "id": "T77"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12128,
+            "end": 12134,
+            "text": "LEHRER",
+            "id": "T78"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12354,
+            "end": 12359,
+            "text": "HOERR",
+            "id": "T79"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12161,
+            "end": 12172,
+            "text": "Tom Bethell",
+            "id": "T80"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12375,
+            "end": 12378,
+            "text": "Jim",
+            "id": "T81"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12651,
+            "end": 12670,
+            "text": "United Mine Workers",
+            "id": "T82"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12700,
+            "end": 12719,
+            "text": "United Auto Workers",
+            "id": "T83"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12874,
+            "end": 12893,
+            "text": "United Mine Workers",
+            "id": "T84"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13212,
+            "end": 13218,
+            "text": "LEHRER",
+            "id": "T85"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13444,
+            "end": 13449,
+            "text": "HOERR",
+            "id": "T86"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13558,
+            "end": 13568,
+            "text": "Appalachia",
+            "id": "T87"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13653,
+            "end": 13659,
+            "text": "LEHRER",
+            "id": "T88"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13700,
+            "end": 13711,
+            "text": "Mr. Bethell",
+            "id": "T89"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13762,
+            "end": 13771,
+            "text": "Mr. Jones",
+            "id": "T90"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13999,
+            "end": 14006,
+            "text": "BETHELL",
+            "id": "T91"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14084,
+            "end": 14090,
+            "text": "LEHRER",
+            "id": "T92"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14146,
+            "end": 14153,
+            "text": "BETHELL",
+            "id": "T93"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14860,
+            "end": 14866,
+            "text": "LEHRER",
+            "id": "T94"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14884,
+            "end": 14893,
+            "text": "Mr. Jones",
+            "id": "T95"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15067,
+            "end": 15072,
+            "text": "JONES",
+            "id": "T96"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15227,
+            "end": 15230,
+            "text": "Tom",
+            "id": "T97"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16383,
+            "end": 16389,
+            "text": "LEHRER",
+            "id": "T98"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16549,
+            "end": 16554,
+            "text": "JONES",
+            "id": "T99"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16820,
+            "end": 16826,
+            "text": "LEHRER",
+            "id": "T100"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16839,
+            "end": 16848,
+            "text": "Mr. Hoerr",
+            "id": "T101"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17031,
+            "end": 17036,
+            "text": "HOERR",
+            "id": "T102"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17763,
+            "end": 17769,
+            "text": "LEHRER",
+            "id": "T103"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17793,
+            "end": 17797,
+            "text": "John",
+            "id": "T104"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17911,
+            "end": 17916,
+            "text": "HOERR",
+            "id": "T105"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17926,
+            "end": 17937,
+            "text": "Tom Bethell",
+            "id": "T106"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18422,
+            "end": 18428,
+            "text": "LEHRER",
+            "id": "T107"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18461,
+            "end": 18466,
+            "text": "HOERR",
+            "id": "T108"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18945,
+            "end": 18951,
+            "text": "LEHRER",
+            "id": "T109"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18964,
+            "end": 18969,
+            "text": "Robin",
+            "id": "T110"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18972,
+            "end": 18979,
+            "text": "MacNEIL",
+            "id": "T111"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18986,
+            "end": 18995,
+            "text": "Mr. Jones",
+            "id": "T112"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19016,
+            "end": 19029,
+            "text": "Arnold Miller",
+            "id": "T113"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19240,
+            "end": 19245,
+            "text": "JONES",
+            "id": "T114"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19252,
+            "end": 19259,
+            "text": "MacNEIL",
+            "id": "T115"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19388,
+            "end": 19393,
+            "text": "JONES",
+            "id": "T116"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19412,
+            "end": 19419,
+            "text": "MacNEIL",
+            "id": "T117"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19473,
+            "end": 19478,
+            "text": "JONES",
+            "id": "T118"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19486,
+            "end": 19493,
+            "text": "MacNEIL",
+            "id": "T119"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19533,
+            "end": 19538,
+            "text": "JONES",
+            "id": "T120"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19794,
+            "end": 19805,
+            "text": "Tom Bethell",
+            "id": "T121"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19971,
+            "end": 19978,
+            "text": "MacNEIL",
+            "id": "T122"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20010,
+            "end": 20015,
+            "text": "JONES",
+            "id": "T123"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20049,
+            "end": 20056,
+            "text": "MacNEIL",
+            "id": "T124"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20152,
+            "end": 20157,
+            "text": "JONES",
+            "id": "T125"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20185,
+            "end": 20192,
+            "text": "MacNEIL",
+            "id": "T126"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20265,
+            "end": 20270,
+            "text": "JONES",
+            "id": "T127"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20496,
+            "end": 20503,
+            "text": "MacNEIL",
+            "id": "T128"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20555,
+            "end": 20560,
+            "text": "JONES",
+            "id": "T129"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20645,
+            "end": 20652,
+            "text": "MacNEIL",
+            "id": "T130"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20810,
+            "end": 20815,
+            "text": "JONES",
+            "id": "T131"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21070,
+            "end": 21076,
+            "text": "Arnold",
+            "id": "T132"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21079,
+            "end": 21086,
+            "text": "MacNEIL",
+            "id": "T133"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21142,
+            "end": 21152,
+            "text": "Washington",
+            "id": "T134"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21153,
+            "end": 21164,
+            "text": "Tom Bethell",
+            "id": "T135"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21300,
+            "end": 21305,
+            "text": "JONES",
+            "id": "T136"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21316,
+            "end": 21321,
+            "text": "Robin",
+            "id": "T137"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21387,
+            "end": 21391,
+            "text": "BCOA",
+            "id": "T138"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21722,
+            "end": 21730,
+            "text": "Illinois",
+            "id": "T139"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21746,
+            "end": 21759,
+            "text": "West Virginia",
+            "id": "T140"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21835,
+            "end": 21842,
+            "text": "MacNEIL",
+            "id": "T141"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21844,
+            "end": 21855,
+            "text": "Tom Bethell",
+            "id": "T142"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21949,
+            "end": 21956,
+            "text": "BETHELL",
+            "id": "T143"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21967,
+            "end": 21977,
+            "text": "John Hoerr",
+            "id": "T144"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22009,
+            "end": 22016,
+            "text": "MacNEIL",
+            "id": "T145"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22038,
+            "end": 22045,
+            "text": "BETHELL",
+            "id": "T146"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22394,
+            "end": 22401,
+            "text": "MacNEIL",
+            "id": "T147"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22500,
+            "end": 22509,
+            "text": "Mr. Hoerr",
+            "id": "T148"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22540,
+            "end": 22545,
+            "text": "HOERR",
+            "id": "T149"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22755,
+            "end": 22768,
+            "text": "West Virginia",
+            "id": "T150"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23005,
+            "end": 23008,
+            "text": "Tom",
+            "id": "T151"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23069,
+            "end": 23076,
+            "text": "MacNEIL",
+            "id": "T152"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23266,
+            "end": 23271,
+            "text": "HOERR",
+            "id": "T153"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23273,
+            "end": 23276,
+            "text": "Tom",
+            "id": "T154"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23279,
+            "end": 23286,
+            "text": "BETHELL",
+            "id": "T155"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23477,
+            "end": 23484,
+            "text": "MacNEIL",
+            "id": "T156"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23509,
+            "end": 23512,
+            "text": "Tom",
+            "id": "T157"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23640,
+            "end": 23653,
+            "text": "John L. Lewis",
+            "id": "T158"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23781,
+            "end": 23788,
+            "text": "BETHELL",
+            "id": "T159"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23976,
+            "end": 23979,
+            "text": "UMW",
+            "id": "T160"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24013,
+            "end": 24016,
+            "text": "UMW",
+            "id": "T161"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24256,
+            "end": 24261,
+            "text": "Jerry",
+            "id": "T162"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24388,
+            "end": 24391,
+            "text": "UMW",
+            "id": "T163"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24473,
+            "end": 24480,
+            "text": "MaCNEIL",
+            "id": "T164"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24494,
+            "end": 24501,
+            "text": "BETHELL",
+            "id": "T165"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24572,
+            "end": 24577,
+            "text": "Jerry",
+            "id": "T166"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24622,
+            "end": 24630,
+            "text": "Illinois",
+            "id": "T167"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24735,
+            "end": 24743,
+            "text": "Illinois",
+            "id": "T168"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24776,
+            "end": 24779,
+            "text": "UMW",
+            "id": "T169"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24789,
+            "end": 24802,
+            "text": "West Virginia",
+            "id": "T170"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24918,
+            "end": 24921,
+            "text": "UMW",
+            "id": "T171"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25022,
+            "end": 25025,
+            "text": "UMW",
+            "id": "T172"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25281,
+            "end": 25288,
+            "text": "MacNEIL",
+            "id": "T173"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25293,
+            "end": 25302,
+            "text": "Mr. Hoerr",
+            "id": "T174"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25390,
+            "end": 25395,
+            "text": "HOERR",
+            "id": "T175"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25448,
+            "end": 25451,
+            "text": "Tom",
+            "id": "T176"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25578,
+            "end": 25591,
+            "text": "John L. Lewis",
+            "id": "T177"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25769,
+            "end": 25772,
+            "text": "UMW",
+            "id": "T178"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25867,
+            "end": 25870,
+            "text": "UMW",
+            "id": "T179"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25876,
+            "end": 25879,
+            "text": "Tom",
+            "id": "T180"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25945,
+            "end": 25955,
+            "text": "Appalachia",
+            "id": "T181"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25968,
+            "end": 25972,
+            "text": "Ohio",
+            "id": "T182"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25977,
+            "end": 25989,
+            "text": "Pennsylvania",
+            "id": "T183"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26055,
+            "end": 26058,
+            "text": "UMW",
+            "id": "T184"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26165,
+            "end": 26168,
+            "text": "UMW",
+            "id": "T185"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26183,
+            "end": 26190,
+            "text": "MacNEIL",
+            "id": "T186"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26192,
+            "end": 26201,
+            "text": "Mr. Jones",
+            "id": "T187"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26341,
+            "end": 26346,
+            "text": "JONES",
+            "id": "T188"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26505,
+            "end": 26509,
+            "text": "BCOA",
+            "id": "T189"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26913,
+            "end": 26917,
+            "text": "BCOA",
+            "id": "T190"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26956,
+            "end": 26963,
+            "text": "MacNEIL",
+            "id": "T191"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27031,
+            "end": 27041,
+            "text": "Washington",
+            "id": "T192"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27054,
+            "end": 27063,
+            "text": "Mr. Jones",
+            "id": "T193"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27077,
+            "end": 27080,
+            "text": "Jim",
+            "id": "T194"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27188,
+            "end": 27210,
+            "text": "Charlayne Hunter-Gault",
+            "id": "T195"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 344,
+            "end": 360,
+            "text": "Great Depression",
+            "id": "T196"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10617,
+            "end": 10644,
+            "text": "Data Resources Incorporated",
+            "id": "T197"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19301,
+            "end": 19309,
+            "text": "Illinois",
+            "id": "T198"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27227,
+            "end": 27249,
+            "text": "MacNeil/ Lehrer Report",
+            "id": "T199"
+          }
+        }
+      ]
+    }
+  ]
+}

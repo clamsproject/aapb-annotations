@@ -1,0 +1,5529 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/0.4.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/0.4.0/vocabulary/TextDocument",
+      "properties": {
+        "mime": "text/plain",
+        "id": "d1",
+        "location": "file:///var/archive//Users/marc/Desktop/projects/clams/code/clamsproject/clams-aapb-annotations/uploads/ner/projects/2022-jun-namedentity/annotations/cpb-aacip-507-pr7mp4wf25-transcript.ann"
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "v_0",
+      "metadata": {
+        "timestamp": "2023-01-09T09:43:14.624951",
+        "app": "",
+        "contains": {
+          "http://vocab.lappsgrid.org/NamedEntity": {}
+        }
+      },
+      "annotations": [
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2,
+            "end": 12,
+            "text": "JIM LEHRER",
+            "id": "T1"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32,
+            "end": 42,
+            "text": "Jim Lehrer",
+            "id": "T2"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51,
+            "end": 59,
+            "text": "NewsHour",
+            "id": "T3"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 126,
+            "end": 139,
+            "text": "New Hampshire",
+            "id": "T4"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 158,
+            "end": 170,
+            "text": "Tom Oliphant",
+            "id": "T5"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 175,
+            "end": 187,
+            "text": "David Brooks",
+            "id": "T6"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 206,
+            "end": 218,
+            "text": "Mark Shields",
+            "id": "T7"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 223,
+            "end": 233,
+            "text": "Paul Gigot",
+            "id": "T8"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 237,
+            "end": 250,
+            "text": "Terence Smith",
+            "id": "T9"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 293,
+            "end": 312,
+            "text": "TV morning news war",
+            "id": "T10"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 320,
+            "end": 330,
+            "text": "Ray Suarez",
+            "id": "T11"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 370,
+            "end": 377,
+            "text": "Nigeria",
+            "id": "T12"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 433,
+            "end": 445,
+            "text": "NEWS SUMMARY",
+            "id": "T13"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 447,
+            "end": 457,
+            "text": "JIM LEHRER",
+            "id": "T14"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 459,
+            "end": 476,
+            "text": "President Clinton",
+            "id": "T15"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 880,
+            "end": 891,
+            "text": "White House",
+            "id": "T16"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 894,
+            "end": 911,
+            "text": "PRESIDENT CLINTON",
+            "id": "T17"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1337,
+            "end": 1350,
+            "text": "George Orwell",
+            "id": "T18"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1354,
+            "end": 1358,
+            "text": "1984",
+            "id": "T19"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1362,
+            "end": 1372,
+            "text": "JIM LEHRER",
+            "id": "T20"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1462,
+            "end": 1473,
+            "text": "Wall Street",
+            "id": "T21"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1517,
+            "end": 1545,
+            "text": "Dow Jones Industrial Average",
+            "id": "T22"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1582,
+            "end": 1594,
+            "text": "NASDAQ Index",
+            "id": "T23"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1786,
+            "end": 1792,
+            "text": "Senate",
+            "id": "T24"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1861,
+            "end": 1867,
+            "text": "Africa",
+            "id": "T25"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1876,
+            "end": 1885,
+            "text": "Caribbean",
+            "id": "T26"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2081,
+            "end": 2088,
+            "text": "Nigeria",
+            "id": "T27"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2119,
+            "end": 2125,
+            "text": "Russia",
+            "id": "T28"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2207,
+            "end": 2215,
+            "text": "Chechnya",
+            "id": "T29"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2223,
+            "end": 2240,
+            "text": "Russian air force",
+            "id": "T30"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2275,
+            "end": 2281,
+            "text": "Grozny",
+            "id": "T31"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2377,
+            "end": 2383,
+            "text": "Moscow",
+            "id": "T32"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2385,
+            "end": 2389,
+            "text": "U.S.",
+            "id": "T33"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2390,
+            "end": 2430,
+            "text": "Deputy Secretary of State Strobe Talbott",
+            "id": "T34"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2440,
+            "end": 2471,
+            "text": "Russian Foreign Minister Ivanov",
+            "id": "T35"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2505,
+            "end": 2519,
+            "text": "STROBE TALBOTT",
+            "id": "T36"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2540,
+            "end": 2546,
+            "text": "Russia",
+            "id": "T37"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2662,
+            "end": 2680,
+            "text": "Russian federation",
+            "id": "T38"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2736,
+            "end": 2749,
+            "text": "Russian state",
+            "id": "T39"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2801,
+            "end": 2814,
+            "text": "United States",
+            "id": "T40"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2877,
+            "end": 2883,
+            "text": "Russia",
+            "id": "T41"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3044,
+            "end": 3054,
+            "text": "JIM LEHRER",
+            "id": "T42"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3111,
+            "end": 3120,
+            "text": "Cleveland",
+            "id": "T43"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3205,
+            "end": 3224,
+            "text": "Mayor Michael White",
+            "id": "T44"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3299,
+            "end": 3321,
+            "text": "Cleveland Plain Dealer",
+            "id": "T45"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3407,
+            "end": 3428,
+            "text": "Columbine High School",
+            "id": "T46"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3432,
+            "end": 3440,
+            "text": "Colorado",
+            "id": "T47"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3533,
+            "end": 3546,
+            "text": "New Hampshire",
+            "id": "T48"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3608,
+            "end": 3625,
+            "text": "Dartmouth College",
+            "id": "T49"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3638,
+            "end": 3643,
+            "text": "Texas",
+            "id": "T50"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3644,
+            "end": 3667,
+            "text": "Governor George W. Bush",
+            "id": "T51"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3779,
+            "end": 3791,
+            "text": "News Summary",
+            "id": "T52"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3837,
+            "end": 3856,
+            "text": "Senator John Chafee",
+            "id": "T53"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3864,
+            "end": 3870,
+            "text": "Chafee",
+            "id": "T54"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4005,
+            "end": 4022,
+            "text": "President Clinton",
+            "id": "T55"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4056,
+            "end": 4064,
+            "text": "Congress",
+            "id": "T56"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4103,
+            "end": 4109,
+            "text": "Chafee",
+            "id": "T57"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4160,
+            "end": 4173,
+            "text": "Payne Stewart",
+            "id": "T58"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4183,
+            "end": 4190,
+            "text": "Orlando",
+            "id": "T59"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4241,
+            "end": 4248,
+            "text": "Learjet",
+            "id": "T60"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4295,
+            "end": 4307,
+            "text": "South Dakota",
+            "id": "T61"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4317,
+            "end": 4328,
+            "text": "Tiger Woods",
+            "id": "T62"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4333,
+            "end": 4345,
+            "text": "Mark O'Meara",
+            "id": "T63"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4447,
+            "end": 4454,
+            "text": "Stewart",
+            "id": "T64"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4535,
+            "end": 4542,
+            "text": "Learjet",
+            "id": "T65"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4673,
+            "end": 4688,
+            "text": "New York Yankee",
+            "id": "T66"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4700,
+            "end": 4708,
+            "text": "Broadway",
+            "id": "T67"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4730,
+            "end": 4742,
+            "text": "World Series",
+            "id": "T68"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4950,
+            "end": 4957,
+            "text": "Yankees",
+            "id": "T69"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4981,
+            "end": 4993,
+            "text": "World Series",
+            "id": "T70"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5036,
+            "end": 5048,
+            "text": "News Summary",
+            "id": "T71"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5077,
+            "end": 5088,
+            "text": "Republicans",
+            "id": "T72"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5092,
+            "end": 5105,
+            "text": "New Hampshire",
+            "id": "T73"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5119,
+            "end": 5127,
+            "text": "Oliphant",
+            "id": "T74"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5132,
+            "end": 5138,
+            "text": "Brooks",
+            "id": "T75"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5161,
+            "end": 5177,
+            "text": "morning news was",
+            "id": "T76"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5204,
+            "end": 5211,
+            "text": "Nigeria",
+            "id": "T77"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5215,
+            "end": 5233,
+            "text": "FOCUS - FACING OFF",
+            "id": "T78"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5235,
+            "end": 5245,
+            "text": "JIM LEHRER",
+            "id": "T79"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5333,
+            "end": 5344,
+            "text": "Republicans",
+            "id": "T80"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5412,
+            "end": 5429,
+            "text": "Dartmouth College",
+            "id": "T81"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5433,
+            "end": 5455,
+            "text": "Hanover, New Hampshire",
+            "id": "T82"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5457,
+            "end": 5462,
+            "text": "Texas",
+            "id": "T83"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5463,
+            "end": 5486,
+            "text": "Governor George W. Bush",
+            "id": "T84"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5620,
+            "end": 5633,
+            "text": "New Hampshire",
+            "id": "T85"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5725,
+            "end": 5741,
+            "text": "Republican Party",
+            "id": "T86"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5824,
+            "end": 5840,
+            "text": "SEN. JOHN McCAIN",
+            "id": "T87"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6222,
+            "end": 6227,
+            "text": "Cindy",
+            "id": "T88"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6290,
+            "end": 6297,
+            "text": "America",
+            "id": "T89"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6446,
+            "end": 6453,
+            "text": "America",
+            "id": "T90"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6802,
+            "end": 6818,
+            "text": "Second Amendment",
+            "id": "T91"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6937,
+            "end": 6953,
+            "text": "SEN. ORRIN HATCH",
+            "id": "T92"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7068,
+            "end": 7084,
+            "text": "second amendment",
+            "id": "T93"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7233,
+            "end": 7249,
+            "text": "Second Amendment",
+            "id": "T94"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8065,
+            "end": 8077,
+            "text": "war on drugs",
+            "id": "T95"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8081,
+            "end": 8091,
+            "text": "ALAN KEYES",
+            "id": "T96"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8722,
+            "end": 8731,
+            "text": "Mr. Keyes",
+            "id": "T97"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8735,
+            "end": 8745,
+            "text": "ALAN KEYES",
+            "id": "T98"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8981,
+            "end": 8991,
+            "text": "GARY BAUER",
+            "id": "T99"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9020,
+            "end": 9037,
+            "text": "Newport, Kentucky",
+            "id": "T100"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9419,
+            "end": 9432,
+            "text": "United States",
+            "id": "T101"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9486,
+            "end": 9502,
+            "text": "Founding Fathers",
+            "id": "T102"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9525,
+            "end": 9538,
+            "text": "Ronald Reagan",
+            "id": "T103"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10132,
+            "end": 10142,
+            "text": "Mr. Forbes",
+            "id": "T104"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10162,
+            "end": 10178,
+            "text": "Republican Party",
+            "id": "T105"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10266,
+            "end": 10278,
+            "text": "STEVE FORBES",
+            "id": "T106"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10319,
+            "end": 10332,
+            "text": "Governor Bush",
+            "id": "T107"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10531,
+            "end": 10543,
+            "text": "Rhode Island",
+            "id": "T108"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10771,
+            "end": 10778,
+            "text": "America",
+            "id": "T109"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11063,
+            "end": 11073,
+            "text": "Washington",
+            "id": "T110"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11106,
+            "end": 11119,
+            "text": "Governor Bush",
+            "id": "T111"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11332,
+            "end": 11345,
+            "text": "Senator Hatch",
+            "id": "T112"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11349,
+            "end": 11365,
+            "text": "SEN. ORRIN HATCH",
+            "id": "T113"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11454,
+            "end": 11462,
+            "text": "IRS Code",
+            "id": "T114"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11510,
+            "end": 11513,
+            "text": "IRS",
+            "id": "T115"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11665,
+            "end": 11689,
+            "text": "Senate Finance Committee",
+            "id": "T116"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11824,
+            "end": 11832,
+            "text": "Congress",
+            "id": "T117"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11923,
+            "end": 11930,
+            "text": "America",
+            "id": "T118"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11964,
+            "end": 11980,
+            "text": "SEN. JOHN McCAIN",
+            "id": "T119"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12379,
+            "end": 12389,
+            "text": "Washington",
+            "id": "T120"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12781,
+            "end": 12795,
+            "text": "Washington, DC",
+            "id": "T121"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12928,
+            "end": 12935,
+            "text": "America",
+            "id": "T122"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13033,
+            "end": 13049,
+            "text": "Ambassador Keyes",
+            "id": "T123"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13052,
+            "end": 13062,
+            "text": "ALAN KEYES",
+            "id": "T124"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13123,
+            "end": 13127,
+            "text": "Marx",
+            "id": "T125"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13132,
+            "end": 13137,
+            "text": "Lenin",
+            "id": "T126"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13349,
+            "end": 13361,
+            "text": "Constitution",
+            "id": "T127"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14157,
+            "end": 14173,
+            "text": "Ambassador Keyes",
+            "id": "T128"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14196,
+            "end": 14205,
+            "text": "Mr. Bauer",
+            "id": "T129"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14209,
+            "end": 14219,
+            "text": "GARY BAUER",
+            "id": "T130"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14422,
+            "end": 14429,
+            "text": "America",
+            "id": "T131"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14653,
+            "end": 14658,
+            "text": "Steve",
+            "id": "T132"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14699,
+            "end": 14704,
+            "text": "Steve",
+            "id": "T133"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14877,
+            "end": 14889,
+            "text": "STEVE FORBES",
+            "id": "T134"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15126,
+            "end": 15130,
+            "text": "Gary",
+            "id": "T135"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15267,
+            "end": 15279,
+            "text": "Daley family",
+            "id": "T136"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15283,
+            "end": 15304,
+            "text": "Exeter, New Hampshire",
+            "id": "T137"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15399,
+            "end": 15411,
+            "text": "Daley family",
+            "id": "T138"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15576,
+            "end": 15579,
+            "text": "IRS",
+            "id": "T139"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16021,
+            "end": 16031,
+            "text": "Mr. Forbes",
+            "id": "T140"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16099,
+            "end": 16108,
+            "text": "Dartmouth",
+            "id": "T141"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16130,
+            "end": 16152,
+            "text": "FOCUS - POLITICAL WRAP",
+            "id": "T142"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16154,
+            "end": 16164,
+            "text": "JIM LEHRER",
+            "id": "T143"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16228,
+            "end": 16237,
+            "text": "Democrats",
+            "id": "T144"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16275,
+            "end": 16287,
+            "text": "Boston Globe",
+            "id": "T145"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16299,
+            "end": 16311,
+            "text": "Tom Oliphant",
+            "id": "T146"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16317,
+            "end": 16329,
+            "text": "David Brooks",
+            "id": "T147"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16353,
+            "end": 16368,
+            "text": "Weekly Standard",
+            "id": "T148"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16371,
+            "end": 16383,
+            "text": "Mark Shields",
+            "id": "T149"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16388,
+            "end": 16398,
+            "text": "Paul Gigot",
+            "id": "T150"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16459,
+            "end": 16462,
+            "text": "Tom",
+            "id": "T151"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16525,
+            "end": 16537,
+            "text": "TOM OLIPHANT",
+            "id": "T152"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16559,
+            "end": 16563,
+            "text": "Bush",
+            "id": "T153"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16593,
+            "end": 16606,
+            "text": "Governor Bush",
+            "id": "T154"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16614,
+            "end": 16625,
+            "text": "John McCain",
+            "id": "T155"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16648,
+            "end": 16661,
+            "text": "New Hampshire",
+            "id": "T156"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16980,
+            "end": 16986,
+            "text": "McCain",
+            "id": "T157"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17156,
+            "end": 17166,
+            "text": "JIM LEHRER",
+            "id": "T158"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17179,
+            "end": 17184,
+            "text": "David",
+            "id": "T159"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17188,
+            "end": 17200,
+            "text": "DAVID BROOKS",
+            "id": "T160"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17269,
+            "end": 17285,
+            "text": "George W. (Bush)",
+            "id": "T161"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17306,
+            "end": 17312,
+            "text": "Austin",
+            "id": "T162"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17372,
+            "end": 17383,
+            "text": "Republicans",
+            "id": "T163"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17452,
+            "end": 17466,
+            "text": "George W. Bush",
+            "id": "T164"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17559,
+            "end": 17562,
+            "text": "Tom",
+            "id": "T165"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17590,
+            "end": 17601,
+            "text": "John McCain",
+            "id": "T166"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17606,
+            "end": 17617,
+            "text": "George Bush",
+            "id": "T167"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17661,
+            "end": 17673,
+            "text": "New Gingrich",
+            "id": "T168"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17678,
+            "end": 17688,
+            "text": "Dick Armey",
+            "id": "T169"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17693,
+            "end": 17708,
+            "text": "Barry Goldwater",
+            "id": "T170"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17803,
+            "end": 17809,
+            "text": "McCain",
+            "id": "T171"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17814,
+            "end": 17818,
+            "text": "Bush",
+            "id": "T172"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18075,
+            "end": 18090,
+            "text": "Teddy Roosevelt",
+            "id": "T173"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18092,
+            "end": 18107,
+            "text": "Abraham Lincoln",
+            "id": "T174"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18132,
+            "end": 18147,
+            "text": "Teddy Roosevelt",
+            "id": "T175"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18169,
+            "end": 18182,
+            "text": "San Juan Hill",
+            "id": "T176"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18306,
+            "end": 18317,
+            "text": "John McCain",
+            "id": "T177"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18348,
+            "end": 18360,
+            "text": "Steve Forbes",
+            "id": "T178"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18490,
+            "end": 18494,
+            "text": "Bush",
+            "id": "T179"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18626,
+            "end": 18642,
+            "text": "Republican Party",
+            "id": "T180"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18657,
+            "end": 18669,
+            "text": "TOM OLIPHANT",
+            "id": "T181"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18738,
+            "end": 18753,
+            "text": "Forbes campaign",
+            "id": "T182"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18841,
+            "end": 18854,
+            "text": "Governor Bush",
+            "id": "T183"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18860,
+            "end": 18870,
+            "text": "JIM LEHRER",
+            "id": "T184"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18875,
+            "end": 18880,
+            "text": "Texas",
+            "id": "T185"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18884,
+            "end": 18896,
+            "text": "TOM OLIPHANT",
+            "id": "T186"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18953,
+            "end": 18959,
+            "text": "McCain",
+            "id": "T187"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19217,
+            "end": 19230,
+            "text": "Governor Bush",
+            "id": "T188"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19263,
+            "end": 19273,
+            "text": "JIM LEHRER",
+            "id": "T189"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19293,
+            "end": 19296,
+            "text": "Tom",
+            "id": "T190"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19300,
+            "end": 19312,
+            "text": "TOM OLIPHANT",
+            "id": "T191"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19320,
+            "end": 19326,
+            "text": "McCain",
+            "id": "T192"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19422,
+            "end": 19430,
+            "text": "Congress",
+            "id": "T193"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19435,
+            "end": 19442,
+            "text": "Clinton",
+            "id": "T194"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19718,
+            "end": 19731,
+            "text": "Governor Bush",
+            "id": "T195"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19793,
+            "end": 19805,
+            "text": "DAVID BROOKS",
+            "id": "T196"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19932,
+            "end": 19945,
+            "text": "Governor Bush",
+            "id": "T197"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20038,
+            "end": 20051,
+            "text": "Newt Gingrich",
+            "id": "T198"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20056,
+            "end": 20066,
+            "text": "Dick Armey",
+            "id": "T199"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20133,
+            "end": 20139,
+            "text": "McCain",
+            "id": "T200"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20193,
+            "end": 20197,
+            "text": "Bush",
+            "id": "T201"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20321,
+            "end": 20327,
+            "text": "McCain",
+            "id": "T202"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20447,
+            "end": 20457,
+            "text": "JIM LEHRER",
+            "id": "T203"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20547,
+            "end": 20553,
+            "text": "Forbes",
+            "id": "T204"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20558,
+            "end": 20563,
+            "text": "Bauer",
+            "id": "T205"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20642,
+            "end": 20654,
+            "text": "DAVID BROOKS",
+            "id": "T206"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20889,
+            "end": 20895,
+            "text": "McCain",
+            "id": "T207"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20900,
+            "end": 20904,
+            "text": "Bush",
+            "id": "T208"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20921,
+            "end": 20930,
+            "text": "Goldwater",
+            "id": "T209"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20942,
+            "end": 20947,
+            "text": "Bauer",
+            "id": "T210"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20952,
+            "end": 20958,
+            "text": "Forbes",
+            "id": "T211"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21099,
+            "end": 21111,
+            "text": "Steve Forbes",
+            "id": "T212"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21233,
+            "end": 21246,
+            "text": "New Hampshire",
+            "id": "T213"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21268,
+            "end": 21273,
+            "text": "Bauer",
+            "id": "T214"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21278,
+            "end": 21283,
+            "text": "Keyes",
+            "id": "T215"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21288,
+            "end": 21293,
+            "text": "Hatch",
+            "id": "T216"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21376,
+            "end": 21381,
+            "text": "Bauer",
+            "id": "T217"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21424,
+            "end": 21430,
+            "text": "Forbes",
+            "id": "T218"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21499,
+            "end": 21511,
+            "text": "TOM OLIPHANT",
+            "id": "T219"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21569,
+            "end": 21574,
+            "text": "Bauer",
+            "id": "T220"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21740,
+            "end": 21752,
+            "text": "Pat Buchanan",
+            "id": "T221"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21828,
+            "end": 21838,
+            "text": "JIM LEHRER",
+            "id": "T222"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21850,
+            "end": 21862,
+            "text": "Pat Buchanan",
+            "id": "T223"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21872,
+            "end": 21884,
+            "text": "TOM OLIPHANT",
+            "id": "T224"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21998,
+            "end": 22011,
+            "text": "New Hampshire",
+            "id": "T225"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22137,
+            "end": 22147,
+            "text": "JIM LEHRER",
+            "id": "T226"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22211,
+            "end": 22225,
+            "text": "George W. Bush",
+            "id": "T227"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22295,
+            "end": 22299,
+            "text": "Bush",
+            "id": "T228"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22314,
+            "end": 22326,
+            "text": "TOM OLIPHANT",
+            "id": "T229"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22462,
+            "end": 22466,
+            "text": "Iowa",
+            "id": "T230"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22673,
+            "end": 22681,
+            "text": "New York",
+            "id": "T231"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22714,
+            "end": 22724,
+            "text": "JIM LEHRER",
+            "id": "T232"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22728,
+            "end": 22741,
+            "text": "New Hampshire",
+            "id": "T233"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22752,
+            "end": 22764,
+            "text": "TOM OLIPHANT",
+            "id": "T234"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22766,
+            "end": 22779,
+            "text": "New Hampshire",
+            "id": "T235"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22998,
+            "end": 23011,
+            "text": "New Hampshire",
+            "id": "T236"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23040,
+            "end": 23050,
+            "text": "JIM LEHRER",
+            "id": "T237"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23076,
+            "end": 23088,
+            "text": "DAVID BROOKS",
+            "id": "T238"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23153,
+            "end": 23166,
+            "text": "New Hampshire",
+            "id": "T239"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23238,
+            "end": 23251,
+            "text": "New Hampshire",
+            "id": "T240"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23420,
+            "end": 23430,
+            "text": "JIM LEHRER",
+            "id": "T241"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23455,
+            "end": 23467,
+            "text": "DAVID BROOKS",
+            "id": "T242"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23469,
+            "end": 23473,
+            "text": "NASA",
+            "id": "T243"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23822,
+            "end": 23832,
+            "text": "JIM LEHRER",
+            "id": "T244"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23838,
+            "end": 23847,
+            "text": "Democrats",
+            "id": "T245"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23872,
+            "end": 23876,
+            "text": "Gore",
+            "id": "T246"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23898,
+            "end": 23903,
+            "text": "David",
+            "id": "T247"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23906,
+            "end": 23918,
+            "text": "DAVID BROOKS",
+            "id": "T248"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23983,
+            "end": 23990,
+            "text": "Bradley",
+            "id": "T249"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24027,
+            "end": 24034,
+            "text": "Bradley",
+            "id": "T250"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24126,
+            "end": 24133,
+            "text": "Al Gore",
+            "id": "T251"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24169,
+            "end": 24175,
+            "text": "Viagra",
+            "id": "T252"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24212,
+            "end": 24222,
+            "text": "JIM LEHRER",
+            "id": "T253"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24251,
+            "end": 24257,
+            "text": "Viagra",
+            "id": "T254"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24260,
+            "end": 24272,
+            "text": "DAVID BROOKS",
+            "id": "T255"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24647,
+            "end": 24654,
+            "text": "Bradley",
+            "id": "T256"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24729,
+            "end": 24733,
+            "text": "Gore",
+            "id": "T257"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24762,
+            "end": 24769,
+            "text": "Bradley",
+            "id": "T258"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24793,
+            "end": 24797,
+            "text": "Gore",
+            "id": "T259"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24801,
+            "end": 24812,
+            "text": "Cheese Whiz",
+            "id": "T260"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24866,
+            "end": 24873,
+            "text": "Bradley",
+            "id": "T261"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24881,
+            "end": 24891,
+            "text": "JIM LEHRER",
+            "id": "T262"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24893,
+            "end": 24896,
+            "text": "Tom",
+            "id": "T263"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24900,
+            "end": 24912,
+            "text": "TOM OLIPHANT",
+            "id": "T264"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24962,
+            "end": 24972,
+            "text": "JIM LEHRER",
+            "id": "T265"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24981,
+            "end": 24993,
+            "text": "TOM OLIPHANT",
+            "id": "T266"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25189,
+            "end": 25193,
+            "text": "Bush",
+            "id": "T267"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25249,
+            "end": 25259,
+            "text": "JIM LEHRER",
+            "id": "T268"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25305,
+            "end": 25317,
+            "text": "TOM OLIPHANT",
+            "id": "T269"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25345,
+            "end": 25360,
+            "text": "Senator Bradley",
+            "id": "T270"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25405,
+            "end": 25418,
+            "text": "James K. Polk",
+            "id": "T271"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25469,
+            "end": 25482,
+            "text": "James K. Polk",
+            "id": "T272"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25588,
+            "end": 25601,
+            "text": "New Hampshire",
+            "id": "T273"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25853,
+            "end": 25863,
+            "text": "JIM LEHRER",
+            "id": "T274"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25889,
+            "end": 25901,
+            "text": "Bill Bradley",
+            "id": "T275"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25905,
+            "end": 25921,
+            "text": "THOMAS PICKERING",
+            "id": "T276"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26140,
+            "end": 26144,
+            "text": "Gore",
+            "id": "T277"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26250,
+            "end": 26263,
+            "text": "New Hampshire",
+            "id": "T278"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26290,
+            "end": 26295,
+            "text": "David",
+            "id": "T279"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26319,
+            "end": 26331,
+            "text": "DAVID BROOKS",
+            "id": "T280"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26372,
+            "end": 26384,
+            "text": "TOM OLIPHANT",
+            "id": "T281"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26515,
+            "end": 26519,
+            "text": "Gore",
+            "id": "T282"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26528,
+            "end": 26532,
+            "text": "Gore",
+            "id": "T283"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26689,
+            "end": 26702,
+            "text": "New Hampshire",
+            "id": "T284"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27092,
+            "end": 27096,
+            "text": "Gore",
+            "id": "T285"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27203,
+            "end": 27207,
+            "text": "Ford",
+            "id": "T286"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27208,
+            "end": 27214,
+            "text": "Reagan",
+            "id": "T287"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27309,
+            "end": 27319,
+            "text": "JIM LEHRER",
+            "id": "T288"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27535,
+            "end": 27547,
+            "text": "TOM OLIPHANT",
+            "id": "T289"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27583,
+            "end": 27587,
+            "text": "Gore",
+            "id": "T290"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27591,
+            "end": 27604,
+            "text": "New Hampshire",
+            "id": "T291"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27609,
+            "end": 27613,
+            "text": "Iowa",
+            "id": "T292"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27709,
+            "end": 27719,
+            "text": "JIM LEHRER",
+            "id": "T293"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27735,
+            "end": 27740,
+            "text": "David",
+            "id": "T294"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27752,
+            "end": 27755,
+            "text": "Tom",
+            "id": "T295"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27791,
+            "end": 27803,
+            "text": "DAVID BROOKS",
+            "id": "T296"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27906,
+            "end": 27910,
+            "text": "Gore",
+            "id": "T297"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28201,
+            "end": 28208,
+            "text": "Bradley",
+            "id": "T298"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28245,
+            "end": 28252,
+            "text": "Bradley",
+            "id": "T299"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28319,
+            "end": 28331,
+            "text": "TOM OLIPHANT",
+            "id": "T300"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28344,
+            "end": 28354,
+            "text": "JIM LEHRER",
+            "id": "T301"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28408,
+            "end": 28433,
+            "text": "FOCUS - MORNING NEWS WARS",
+            "id": "T302"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28435,
+            "end": 28445,
+            "text": "JIM LEHRER",
+            "id": "T303"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28468,
+            "end": 28476,
+            "text": "NewsHour",
+            "id": "T304"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28490,
+            "end": 28507,
+            "text": "morning news wars",
+            "id": "T305"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28529,
+            "end": 28536,
+            "text": "Nigeria",
+            "id": "T306"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28539,
+            "end": 28549,
+            "text": "JIM LEHRER",
+            "id": "T307"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28571,
+            "end": 28584,
+            "text": "Terence Smith",
+            "id": "T308"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28614,
+            "end": 28627,
+            "text": "TERENCE SMITH",
+            "id": "T309"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28655,
+            "end": 28663,
+            "text": "CBS News",
+            "id": "T310"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28788,
+            "end": 28801,
+            "text": "New York City",
+            "id": "T311"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28873,
+            "end": 28901,
+            "text": "morning news television wars",
+            "id": "T312"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28928,
+            "end": 28941,
+            "text": "Bryant Gumbel",
+            "id": "T313"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28955,
+            "end": 28967,
+            "text": "Jane Clayson",
+            "id": "T314"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29152,
+            "end": 29164,
+            "text": "Fifth Avenue",
+            "id": "T315"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29258,
+            "end": 29270,
+            "text": "Times Square",
+            "id": "T316"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29273,
+            "end": 29287,
+            "text": "CHARLIE GIBSON",
+            "id": "T317"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29345,
+            "end": 29358,
+            "text": "TERENCE SMITH",
+            "id": "T318"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29360,
+            "end": 29374,
+            "text": "Charlie Gibson",
+            "id": "T319"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29379,
+            "end": 29391,
+            "text": "Diane Sawyer",
+            "id": "T320"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29395,
+            "end": 29398,
+            "text": "ABC",
+            "id": "T321"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29459,
+            "end": 29479,
+            "text": "Good Morning America",
+            "id": "T322"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29523,
+            "end": 29533,
+            "text": "MATT LAUER",
+            "id": "T323"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29539,
+            "end": 29549,
+            "text": "Matt Lauer",
+            "id": "T324"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29561,
+            "end": 29573,
+            "text": "Katie Couric",
+            "id": "T325"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29622,
+            "end": 29635,
+            "text": "TERENCE SMITH",
+            "id": "T326"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29641,
+            "end": 29644,
+            "text": "NBC",
+            "id": "T327"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29647,
+            "end": 29657,
+            "text": "Today Show",
+            "id": "T328"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29742,
+            "end": 29760,
+            "text": "Rockefeller Center",
+            "id": "T329"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29763,
+            "end": 29777,
+            "text": "STEVE FRIEDMAN",
+            "id": "T330"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29890,
+            "end": 29903,
+            "text": "TERENCE SMITH",
+            "id": "T331"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29924,
+            "end": 29938,
+            "text": "Steve Friedman",
+            "id": "T332"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29961,
+            "end": 29971,
+            "text": "Today Show",
+            "id": "T333"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30055,
+            "end": 30063,
+            "text": "CBS News",
+            "id": "T334"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30164,
+            "end": 30176,
+            "text": "Katie Couric",
+            "id": "T335"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30181,
+            "end": 30191,
+            "text": "Matt Lauer",
+            "id": "T336"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30210,
+            "end": 30220,
+            "text": "Today Show",
+            "id": "T337"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30235,
+            "end": 30243,
+            "text": "Friedman",
+            "id": "T338"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30260,
+            "end": 30272,
+            "text": "KATIE COURIC",
+            "id": "T339"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30365,
+            "end": 30375,
+            "text": "MATT LAUER",
+            "id": "T340"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30473,
+            "end": 30487,
+            "text": "STEVE FRIEDMAN",
+            "id": "T341"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30731,
+            "end": 30744,
+            "text": "TERENCE SMITH",
+            "id": "T342"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30887,
+            "end": 30897,
+            "text": "Today Show",
+            "id": "T343"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30961,
+            "end": 30973,
+            "text": "RICHARD HACK",
+            "id": "T344"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31328,
+            "end": 31341,
+            "text": "TERENCE SMITH",
+            "id": "T345"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31350,
+            "end": 31362,
+            "text": "Richard Hack",
+            "id": "T346"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31387,
+            "end": 31395,
+            "text": "TV Guide",
+            "id": "T347"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31410,
+            "end": 31432,
+            "text": "Madness in the Morning",
+            "id": "T348"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31619,
+            "end": 31631,
+            "text": "RICHARD HACK",
+            "id": "T349"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31981,
+            "end": 31994,
+            "text": "TERENCE SMITH",
+            "id": "T350"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32051,
+            "end": 32064,
+            "text": "TERENCE SMITH",
+            "id": "T351"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32090,
+            "end": 32110,
+            "text": "Good Morning America",
+            "id": "T352"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32353,
+            "end": 32367,
+            "text": "Steve Friedman",
+            "id": "T353"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32378,
+            "end": 32381,
+            "text": "CBS",
+            "id": "T354"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32478,
+            "end": 32492,
+            "text": "STEVE FRIEDMAN",
+            "id": "T355"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32716,
+            "end": 32728,
+            "text": "Diane Sawyer",
+            "id": "T356"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32749,
+            "end": 32762,
+            "text": "Bryant Gumbel",
+            "id": "T357"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32785,
+            "end": 32788,
+            "text": "NBC",
+            "id": "T358"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32794,
+            "end": 32806,
+            "text": "Katie Couric",
+            "id": "T359"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32852,
+            "end": 32855,
+            "text": "CBS",
+            "id": "T360"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32961,
+            "end": 32974,
+            "text": "TERENCE SMITH",
+            "id": "T361"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32979,
+            "end": 32982,
+            "text": "CBS",
+            "id": "T362"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33126,
+            "end": 33139,
+            "text": "Bryant Gumbel",
+            "id": "T363"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33179,
+            "end": 33192,
+            "text": "TERENCE SMITH",
+            "id": "T364"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33194,
+            "end": 33200,
+            "text": "Gumbel",
+            "id": "T365"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33246,
+            "end": 33249,
+            "text": "CBS",
+            "id": "T366"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33263,
+            "end": 33273,
+            "text": "Public Eye",
+            "id": "T367"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33311,
+            "end": 33324,
+            "text": "BRYANT GUMBEL",
+            "id": "T368"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33347,
+            "end": 33350,
+            "text": "CBS",
+            "id": "T369"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33469,
+            "end": 33482,
+            "text": "Bryant Gumbel",
+            "id": "T370"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33486,
+            "end": 33489,
+            "text": "CBS",
+            "id": "T371"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33508,
+            "end": 33521,
+            "text": "Bryant Gumbel",
+            "id": "T372"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33529,
+            "end": 33532,
+            "text": "NBC",
+            "id": "T373"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33541,
+            "end": 33554,
+            "text": "TERENCE SMITH",
+            "id": "T374"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33556,
+            "end": 33562,
+            "text": "Gumbel",
+            "id": "T375"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33680,
+            "end": 33694,
+            "text": "Steve Friedman",
+            "id": "T376"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33729,
+            "end": 33743,
+            "text": "STEVE FRIEDMAN",
+            "id": "T377"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33745,
+            "end": 33758,
+            "text": "Bryant Gumbel",
+            "id": "T378"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33904,
+            "end": 33910,
+            "text": "Bryant",
+            "id": "T379"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33921,
+            "end": 33927,
+            "text": "Bryant",
+            "id": "T380"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34037,
+            "end": 34048,
+            "text": "Sally Field",
+            "id": "T381"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34059,
+            "end": 34072,
+            "text": "TERENCE SMITH",
+            "id": "T382"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34149,
+            "end": 34159,
+            "text": "Today Show",
+            "id": "T383"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34195,
+            "end": 34208,
+            "text": "Dave Garroway",
+            "id": "T384"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34235,
+            "end": 34248,
+            "text": "J. Fred Muggs",
+            "id": "T385"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34261,
+            "end": 34264,
+            "text": "CBS",
+            "id": "T386"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34292,
+            "end": 34307,
+            "text": "Walter Cronkite",
+            "id": "T387"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34450,
+            "end": 34463,
+            "text": "TERENCE SMITH",
+            "id": "T388"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34469,
+            "end": 34479,
+            "text": "Today Show",
+            "id": "T389"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34562,
+            "end": 34576,
+            "text": "JACK LESCOULIE",
+            "id": "T390"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34694,
+            "end": 34705,
+            "text": "49th Street",
+            "id": "T391"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34753,
+            "end": 34766,
+            "text": "TERENCE SMITH",
+            "id": "T392"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34792,
+            "end": 34802,
+            "text": "Today Show",
+            "id": "T393"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34936,
+            "end": 34956,
+            "text": "Good Morning America",
+            "id": "T394"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35053,
+            "end": 35065,
+            "text": "Diane Sawyer",
+            "id": "T395"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35109,
+            "end": 35121,
+            "text": "DIANE SAWYER",
+            "id": "T396"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35274,
+            "end": 35286,
+            "text": "Garth Brooks",
+            "id": "T397"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35401,
+            "end": 35414,
+            "text": "TERENCE SMITH",
+            "id": "T398"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35416,
+            "end": 35430,
+            "text": "Charles Gibson",
+            "id": "T399"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35441,
+            "end": 35461,
+            "text": "Good Morning America",
+            "id": "T400"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35558,
+            "end": 35572,
+            "text": "CHARLES GIBSON",
+            "id": "T401"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35804,
+            "end": 35817,
+            "text": "TERENCE SMITH",
+            "id": "T402"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35819,
+            "end": 35825,
+            "text": "Sawyer",
+            "id": "T403"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35923,
+            "end": 35937,
+            "text": "Antonio Sabato",
+            "id": "T404"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36079,
+            "end": 36085,
+            "text": "SAWYER",
+            "id": "T405"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36107,
+            "end": 36120,
+            "text": "TERENCE SMITH",
+            "id": "T406"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36137,
+            "end": 36140,
+            "text": "CBS",
+            "id": "T407"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36190,
+            "end": 36203,
+            "text": "Bryant Gumbel",
+            "id": "T408"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36224,
+            "end": 36236,
+            "text": "Jane Clayson",
+            "id": "T409"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36314,
+            "end": 36326,
+            "text": "BILL CARROLL",
+            "id": "T410"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36371,
+            "end": 36384,
+            "text": "TERENCE SMITH",
+            "id": "T411"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36386,
+            "end": 36398,
+            "text": "Bill Carroll",
+            "id": "T412"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36406,
+            "end": 36427,
+            "text": "Katz Television Group",
+            "id": "T413"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36505,
+            "end": 36508,
+            "text": "CBS",
+            "id": "T414"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36629,
+            "end": 36641,
+            "text": "BILL CARROLL",
+            "id": "T415"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36718,
+            "end": 36721,
+            "text": "CBS",
+            "id": "T416"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36939,
+            "end": 36952,
+            "text": "Bryant Gumbel",
+            "id": "T417"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37020,
+            "end": 37033,
+            "text": "TERENCE SMITH",
+            "id": "T418"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37064,
+            "end": 37067,
+            "text": "CBS",
+            "id": "T419"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37185,
+            "end": 37197,
+            "text": "BILL CARROLL",
+            "id": "T420"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37234,
+            "end": 37247,
+            "text": "TERENCE SMITH",
+            "id": "T421"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37315,
+            "end": 37327,
+            "text": "BILL CARROLL",
+            "id": "T422"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37398,
+            "end": 37422,
+            "text": "Bryant Gumbel Early Show",
+            "id": "T423"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37441,
+            "end": 37454,
+            "text": "TERENCE SMITH",
+            "id": "T424"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37456,
+            "end": 37459,
+            "text": "CBS",
+            "id": "T425"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37567,
+            "end": 37580,
+            "text": "Bryant Gumbel",
+            "id": "T426"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37660,
+            "end": 37673,
+            "text": "BRYANT GUMBEL",
+            "id": "T427"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37921,
+            "end": 37934,
+            "text": "TERENCE SMITH",
+            "id": "T428"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37949,
+            "end": 37957,
+            "text": "Friedman",
+            "id": "T429"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38131,
+            "end": 38141,
+            "text": "Today Show",
+            "id": "T430"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38163,
+            "end": 38176,
+            "text": "TERENCE SMITH",
+            "id": "T431"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38205,
+            "end": 38219,
+            "text": "STEVE FRIEDMAN",
+            "id": "T432"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38248,
+            "end": 38258,
+            "text": "Today Show",
+            "id": "T433"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38369,
+            "end": 38382,
+            "text": "TERENCE SMITH",
+            "id": "T434"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38384,
+            "end": 38396,
+            "text": "Katie Couric",
+            "id": "T435"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38416,
+            "end": 38428,
+            "text": "KATIE COURIC",
+            "id": "T436"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38487,
+            "end": 38500,
+            "text": "TERENCE SMITH",
+            "id": "T437"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38508,
+            "end": 38520,
+            "text": "KATIE COURIC",
+            "id": "T438"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38851,
+            "end": 38864,
+            "text": "TERENCE SMITH",
+            "id": "T439"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38870,
+            "end": 38880,
+            "text": "Today Show",
+            "id": "T440"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38978,
+            "end": 38990,
+            "text": "Mariah Carey",
+            "id": "T441"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38992,
+            "end": 38995,
+            "text": "CBS",
+            "id": "T442"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39024,
+            "end": 39034,
+            "text": "Early Show",
+            "id": "T443"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39042,
+            "end": 39047,
+            "text": "Carey",
+            "id": "T444"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39080,
+            "end": 39092,
+            "text": "Fifth Avenue",
+            "id": "T445"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39138,
+            "end": 39143,
+            "text": "Carey",
+            "id": "T446"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39174,
+            "end": 39183,
+            "text": "Today Sow",
+            "id": "T447"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39186,
+            "end": 39196,
+            "text": "MATT LAUER",
+            "id": "T448"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39282,
+            "end": 39295,
+            "text": "TERENCE SMITH",
+            "id": "T449"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39400,
+            "end": 39403,
+            "text": "CBS",
+            "id": "T450"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39412,
+            "end": 39424,
+            "text": "Richard Hack",
+            "id": "T451"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39442,
+            "end": 39454,
+            "text": "RICHARD HACK",
+            "id": "T452"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39470,
+            "end": 39473,
+            "text": "CBS",
+            "id": "T453"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39486,
+            "end": 39496,
+            "text": "Early Show",
+            "id": "T454"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39551,
+            "end": 39564,
+            "text": "Bryant Gumbel",
+            "id": "T455"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39619,
+            "end": 39622,
+            "text": "CBS",
+            "id": "T456"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39825,
+            "end": 39835,
+            "text": "Today Show",
+            "id": "T457"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39856,
+            "end": 39876,
+            "text": "Good Morning America",
+            "id": "T458"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39895,
+            "end": 39898,
+            "text": "CNN",
+            "id": "T459"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39915,
+            "end": 39918,
+            "text": "CNN",
+            "id": "T460"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39939,
+            "end": 39942,
+            "text": "CNN",
+            "id": "T461"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39945,
+            "end": 39958,
+            "text": "TERENCE SMITH",
+            "id": "T462"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39964,
+            "end": 39977,
+            "text": "Bryant Gumbel",
+            "id": "T463"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40014,
+            "end": 40017,
+            "text": "CBS",
+            "id": "T464"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40048,
+            "end": 40061,
+            "text": "BRYANT GUMBEL",
+            "id": "T465"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40188,
+            "end": 40201,
+            "text": "TERENCE SMITH",
+            "id": "T466"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40234,
+            "end": 40242,
+            "text": "CBS News",
+            "id": "T467"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40421,
+            "end": 40433,
+            "text": "CONVERSATION",
+            "id": "T468"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40435,
+            "end": 40445,
+            "text": "JIM LEHRER",
+            "id": "T469"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40477,
+            "end": 40484,
+            "text": "Nigeria",
+            "id": "T470"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40501,
+            "end": 40511,
+            "text": "Washington",
+            "id": "T471"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40513,
+            "end": 40523,
+            "text": "Ray Suarez",
+            "id": "T472"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40542,
+            "end": 40552,
+            "text": "RAY SUAREZ",
+            "id": "T473"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40745,
+            "end": 40752,
+            "text": "Nigeria",
+            "id": "T474"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40778,
+            "end": 40788,
+            "text": "California",
+            "id": "T475"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40997,
+            "end": 41004,
+            "text": "Nigeria",
+            "id": "T476"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41089,
+            "end": 41096,
+            "text": "Nigeria",
+            "id": "T477"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41176,
+            "end": 41190,
+            "text": "Ken Siro- Wiwa",
+            "id": "T478"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41253,
+            "end": 41260,
+            "text": "Nigeria",
+            "id": "T479"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41367,
+            "end": 41386,
+            "text": "General Sani Abacha",
+            "id": "T480"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41481,
+            "end": 41506,
+            "text": "General Olusegun Obasanjo",
+            "id": "T481"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41555,
+            "end": 41563,
+            "text": "Obasanjo",
+            "id": "T482"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41712,
+            "end": 41720,
+            "text": "Obasanjo",
+            "id": "T483"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41891,
+            "end": 41899,
+            "text": "Obasanjo",
+            "id": "T484"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41935,
+            "end": 41952,
+            "text": "OLUSEGUN OBASANJO",
+            "id": "T485"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41968,
+            "end": 41975,
+            "text": "Nigeria",
+            "id": "T486"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42033,
+            "end": 42050,
+            "text": "Olusegun Obasanjo",
+            "id": "T487"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42070,
+            "end": 42080,
+            "text": "RAY SUAREZ",
+            "id": "T488"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42103,
+            "end": 42111,
+            "text": "Obasanjo",
+            "id": "T489"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42264,
+            "end": 42281,
+            "text": "President Clinton",
+            "id": "T490"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42398,
+            "end": 42405,
+            "text": "Nigeria",
+            "id": "T491"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42425,
+            "end": 42442,
+            "text": "PRESIDENT CLINTON",
+            "id": "T492"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42444,
+            "end": 42462,
+            "text": "President Obasanjo",
+            "id": "T493"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42508,
+            "end": 42515,
+            "text": "Nigeria",
+            "id": "T494"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42536,
+            "end": 42542,
+            "text": "Africa",
+            "id": "T495"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42563,
+            "end": 42570,
+            "text": "America",
+            "id": "T496"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42588,
+            "end": 42595,
+            "text": "Nigeria",
+            "id": "T497"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42699,
+            "end": 42706,
+            "text": "Nigeria",
+            "id": "T498"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42860,
+            "end": 42867,
+            "text": "Nigeria",
+            "id": "T499"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42979,
+            "end": 42986,
+            "text": "Nigeria",
+            "id": "T500"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42995,
+            "end": 43001,
+            "text": "Africa",
+            "id": "T501"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43004,
+            "end": 43014,
+            "text": "RAY SUAREZ",
+            "id": "T502"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43016,
+            "end": 43034,
+            "text": "President Obasanjo",
+            "id": "T503"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43198,
+            "end": 43205,
+            "text": "America",
+            "id": "T504"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43221,
+            "end": 43227,
+            "text": "Africa",
+            "id": "T505"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43240,
+            "end": 43250,
+            "text": "RAY SUAREZ",
+            "id": "T506"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43291,
+            "end": 43298,
+            "text": "Nigeria",
+            "id": "T507"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43392,
+            "end": 43409,
+            "text": "President Clinton",
+            "id": "T508"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43591,
+            "end": 43618,
+            "text": "PRESIDENT OLUSEGUN OBASANJO",
+            "id": "T509"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43626,
+            "end": 43643,
+            "text": "President Clinton",
+            "id": "T510"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43736,
+            "end": 43743,
+            "text": "Nigeria",
+            "id": "T511"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44001,
+            "end": 44008,
+            "text": "Nigeria",
+            "id": "T512"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44190,
+            "end": 44197,
+            "text": "Nigeria",
+            "id": "T513"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44305,
+            "end": 44315,
+            "text": "RAY SUAREZ",
+            "id": "T514"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44352,
+            "end": 44362,
+            "text": "Washington",
+            "id": "T515"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44383,
+            "end": 44389,
+            "text": "Africa",
+            "id": "T516"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44419,
+            "end": 44426,
+            "text": "Nigeria",
+            "id": "T517"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44440,
+            "end": 44467,
+            "text": "PRESIDENT OLUSEGUN OBASANJO",
+            "id": "T518"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44475,
+            "end": 44481,
+            "text": "Africa",
+            "id": "T519"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45227,
+            "end": 45237,
+            "text": "RAY SUAREZ",
+            "id": "T520"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45294,
+            "end": 45300,
+            "text": "Africa",
+            "id": "T521"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45472,
+            "end": 45479,
+            "text": "Nigeria",
+            "id": "T522"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45535,
+            "end": 45562,
+            "text": "PRESIDENT OLUSEGUN OBASANJO",
+            "id": "T523"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45843,
+            "end": 45853,
+            "text": "RAY SUAREZ",
+            "id": "T524"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45968,
+            "end": 45974,
+            "text": "Africa",
+            "id": "T525"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46032,
+            "end": 46039,
+            "text": "Nigeria",
+            "id": "T526"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46044,
+            "end": 46056,
+            "text": "South Africa",
+            "id": "T527"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46221,
+            "end": 46248,
+            "text": "PRESIDENT OLUSEGUN OBASANJO",
+            "id": "T528"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46290,
+            "end": 46297,
+            "text": "America",
+            "id": "T529"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46400,
+            "end": 46407,
+            "text": "America",
+            "id": "T530"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46544,
+            "end": 46556,
+            "text": "South Africa",
+            "id": "T531"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46561,
+            "end": 46568,
+            "text": "Nigeria",
+            "id": "T532"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46704,
+            "end": 46714,
+            "text": "RAY SUAREZ",
+            "id": "T533"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46898,
+            "end": 46912,
+            "text": "General Abacha",
+            "id": "T534"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46944,
+            "end": 46971,
+            "text": "PRESIDENT OLUSEGUN OBASANJO",
+            "id": "T535"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47137,
+            "end": 47143,
+            "text": "Abacha",
+            "id": "T536"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47294,
+            "end": 47301,
+            "text": "Nigeria",
+            "id": "T537"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47659,
+            "end": 47669,
+            "text": "RAY SUAREZ",
+            "id": "T538"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48018,
+            "end": 48031,
+            "text": "Mercedes Benz",
+            "id": "T539"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48105,
+            "end": 48132,
+            "text": "PRESIDENT OLUSEGUN OBASANJO",
+            "id": "T540"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48362,
+            "end": 48369,
+            "text": "Nigeria",
+            "id": "T541"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48813,
+            "end": 48820,
+            "text": "Nigeria",
+            "id": "T542"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48987,
+            "end": 48997,
+            "text": "RAY SUAREZ",
+            "id": "T543"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49081,
+            "end": 49108,
+            "text": "PRESIDENT OLUSEGUN OBASANJO",
+            "id": "T544"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49133,
+            "end": 49138,
+            "text": "RECAP",
+            "id": "T545"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49140,
+            "end": 49150,
+            "text": "JIM LEHRER",
+            "id": "T546"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49193,
+            "end": 49210,
+            "text": "President Clinton",
+            "id": "T547"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49354,
+            "end": 49360,
+            "text": "Russia",
+            "id": "T548"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49442,
+            "end": 49450,
+            "text": "Chechnya",
+            "id": "T549"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49531,
+            "end": 49541,
+            "text": "Jim Lehrer",
+            "id": "T550"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1549 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/0.4.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/0.4.0/vocabulary/TextDocument",
+      "properties": {
+        "mime": "text/plain",
+        "id": "d1",
+        "location": "file:///var/archive//Users/marc/Desktop/projects/clams/code/clamsproject/clams-aapb-annotations/uploads/ner/projects/2022-jun-namedentity/annotations/cpb-aacip-507-7659c6sk7z-transcript.ann"
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "v_0",
+      "metadata": {
+        "timestamp": "2023-01-09T09:43:15.011373",
+        "app": "",
+        "contains": {
+          "http://vocab.lappsgrid.org/NamedEntity": {}
+        }
+      },
+      "annotations": [
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9,
+            "end": 23,
+            "text": "ROBERT MacNEIL",
+            "id": "T1"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 162,
+            "end": 167,
+            "text": "China",
+            "id": "T2"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 350,
+            "end": 357,
+            "text": "MacNEIL",
+            "id": "T3"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 390,
+            "end": 395,
+            "text": "China",
+            "id": "T4"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 471,
+            "end": 484,
+            "text": "San Francisco",
+            "id": "T5"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 486,
+            "end": 493,
+            "text": "Chicago",
+            "id": "T6"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 498,
+            "end": 506,
+            "text": "New York",
+            "id": "T7"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 550,
+            "end": 555,
+            "text": "China",
+            "id": "T8"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 688,
+            "end": 692,
+            "text": "U.S.",
+            "id": "T9"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 727,
+            "end": 732,
+            "text": "China",
+            "id": "T10"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 856,
+            "end": 861,
+            "text": "China",
+            "id": "T11"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1332,
+            "end": 1335,
+            "text": "BBC",
+            "id": "T12"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1450,
+            "end": 1453,
+            "text": "BBC",
+            "id": "T13"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1457,
+            "end": 1462,
+            "text": "Money",
+            "id": "T14"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1489,
+            "end": 1499,
+            "text": "Paul Barry",
+            "id": "T15"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1393,
+            "end": 1398,
+            "text": "China",
+            "id": "T16"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1502,
+            "end": 1512,
+            "text": "PAUL BARRY",
+            "id": "T17"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1619,
+            "end": 1624,
+            "text": "China",
+            "id": "T18"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1710,
+            "end": 1715,
+            "text": "India",
+            "id": "T19"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3823,
+            "end": 3828,
+            "text": "BARRY",
+            "id": "T20"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3295,
+            "end": 3303,
+            "text": "LIN BIAO",
+            "id": "T21"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1941,
+            "end": 1946,
+            "text": "China",
+            "id": "T22"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2239,
+            "end": 2244,
+            "text": "China",
+            "id": "T23"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2285,
+            "end": 2290,
+            "text": "China",
+            "id": "T24"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2511,
+            "end": 2517,
+            "text": "Canton",
+            "id": "T25"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2414,
+            "end": 2427,
+            "text": "Wolverhampton",
+            "id": "T26"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 281,
+            "end": 299,
+            "text": "Chinese Communists",
+            "id": "T27"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2348,
+            "end": 2369,
+            "text": "Industrial Revolution",
+            "id": "T28"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2484,
+            "end": 2504,
+            "text": "Far East Fan Factory",
+            "id": "T29"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4299,
+            "end": 4303,
+            "text": "BIAO",
+            "id": "T30"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4577,
+            "end": 4589,
+            "text": "DAVID McLEOD",
+            "id": "T31"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5170,
+            "end": 5175,
+            "text": "BARRY",
+            "id": "T32"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6251,
+            "end": 6256,
+            "text": "BARRY",
+            "id": "T33"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6921,
+            "end": 6926,
+            "text": "BARRY",
+            "id": "T34"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8911,
+            "end": 8916,
+            "text": "BARRY",
+            "id": "T35"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10016,
+            "end": 10027,
+            "text": "JOHN BARKER",
+            "id": "T36"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10457,
+            "end": 10463,
+            "text": "BARBER",
+            "id": "T37"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10487,
+            "end": 10492,
+            "text": "BARRY",
+            "id": "T38"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13442,
+            "end": 13453,
+            "text": "BILL MOSELY",
+            "id": "T39"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13982,
+            "end": 13988,
+            "text": "MOSELY",
+            "id": "T40"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14251,
+            "end": 14257,
+            "text": "MOSELY",
+            "id": "T41"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14459,
+            "end": 14466,
+            "text": "TIN FOK",
+            "id": "T42"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14536,
+            "end": 14541,
+            "text": "BARRY",
+            "id": "T43"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15016,
+            "end": 15019,
+            "text": "FOK",
+            "id": "T44"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15409,
+            "end": 15414,
+            "text": "BARRY",
+            "id": "T45"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17948,
+            "end": 17953,
+            "text": "BARRY",
+            "id": "T46"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18394,
+            "end": 18405,
+            "text": "KANG SHI`EN",
+            "id": "T47"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18630,
+            "end": 18637,
+            "text": "MacNEIL",
+            "id": "T48"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 880,
+            "end": 907,
+            "text": "Four Modernization`s Policy",
+            "id": "T49"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2563,
+            "end": 2568,
+            "text": "China",
+            "id": "T50"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2684,
+            "end": 2690,
+            "text": "Africa",
+            "id": "T51"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2699,
+            "end": 2707,
+            "text": "Far East",
+            "id": "T52"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3866,
+            "end": 3871,
+            "text": "China",
+            "id": "T53"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4122,
+            "end": 4127,
+            "text": "China",
+            "id": "T54"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4927,
+            "end": 4940,
+            "text": "Deng Xiaoping",
+            "id": "T55"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4693,
+            "end": 4704,
+            "text": "Middle East",
+            "id": "T56"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5398,
+            "end": 5408,
+            "text": "Red Guards",
+            "id": "T57"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5746,
+            "end": 5758,
+            "text": "Gang of Four",
+            "id": "T58"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6291,
+            "end": 6297,
+            "text": "Canton",
+            "id": "T59"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6327,
+            "end": 6346,
+            "text": "Cultural Revolution",
+            "id": "T60"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7862,
+            "end": 7865,
+            "text": "Mao",
+            "id": "T61"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3153,
+            "end": 3158,
+            "text": "China",
+            "id": "T62"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2457,
+            "end": 2462,
+            "text": "China",
+            "id": "T63"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1097,
+            "end": 1101,
+            "text": "U.S.",
+            "id": "T64"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1668,
+            "end": 1672,
+            "text": "U.S.",
+            "id": "T65"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7120,
+            "end": 7125,
+            "text": "China",
+            "id": "T66"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7011,
+            "end": 7023,
+            "text": "Chairman Mao",
+            "id": "T67"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6945,
+            "end": 6964,
+            "text": "Cultural Revolution",
+            "id": "T68"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6846,
+            "end": 6858,
+            "text": "Gang of Four",
+            "id": "T69"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6705,
+            "end": 6717,
+            "text": "Gang of Four",
+            "id": "T70"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6600,
+            "end": 6612,
+            "text": "Gang of Four",
+            "id": "T71"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5217,
+            "end": 5222,
+            "text": "China",
+            "id": "T72"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4038,
+            "end": 4042,
+            "text": "U.S.",
+            "id": "T73"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4591,
+            "end": 4600,
+            "text": "Hong Kong",
+            "id": "T74"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5194,
+            "end": 5213,
+            "text": "cultural revolution",
+            "id": "T75"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7435,
+            "end": 7440,
+            "text": "China",
+            "id": "T76"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7289,
+            "end": 7294,
+            "text": "China",
+            "id": "T77"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7243,
+            "end": 7248,
+            "text": "China",
+            "id": "T78"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7727,
+            "end": 7732,
+            "text": "China",
+            "id": "T79"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6213,
+            "end": 6233,
+            "text": "Four Modernization`s",
+            "id": "T80"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7784,
+            "end": 7804,
+            "text": "Four Modernization`s",
+            "id": "T81"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13749,
+            "end": 13754,
+            "text": "China",
+            "id": "T82"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13613,
+            "end": 13632,
+            "text": "Cultural Revolution",
+            "id": "T83"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13586,
+            "end": 13594,
+            "text": "Shanghai",
+            "id": "T84"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13455,
+            "end": 13464,
+            "text": "Hong Kong",
+            "id": "T85"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13247,
+            "end": 13256,
+            "text": "Hong Kong",
+            "id": "T86"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13018,
+            "end": 13023,
+            "text": "China",
+            "id": "T87"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12948,
+            "end": 12957,
+            "text": "Hong Kong",
+            "id": "T88"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12938,
+            "end": 12943,
+            "text": "China",
+            "id": "T89"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12580,
+            "end": 12585,
+            "text": "China",
+            "id": "T90"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12495,
+            "end": 12504,
+            "text": "Hong Kong",
+            "id": "T91"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12460,
+            "end": 12469,
+            "text": "Hong Kong",
+            "id": "T92"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12437,
+            "end": 12443,
+            "text": "Canton",
+            "id": "T93"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12380,
+            "end": 12385,
+            "text": "China",
+            "id": "T94"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12346,
+            "end": 12351,
+            "text": "China",
+            "id": "T95"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11327,
+            "end": 11332,
+            "text": "China",
+            "id": "T96"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11240,
+            "end": 11245,
+            "text": "China",
+            "id": "T97"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11210,
+            "end": 11216,
+            "text": "Canton",
+            "id": "T98"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10835,
+            "end": 10840,
+            "text": "China",
+            "id": "T99"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10775,
+            "end": 10780,
+            "text": "China",
+            "id": "T100"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10742,
+            "end": 10748,
+            "text": "Europe",
+            "id": "T101"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10728,
+            "end": 10737,
+            "text": "Australia",
+            "id": "T102"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10720,
+            "end": 10726,
+            "text": "Slates",
+            "id": "T103"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10693,
+            "end": 10698,
+            "text": "Japan",
+            "id": "T104"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9643,
+            "end": 9652,
+            "text": "Honk Kong",
+            "id": "T105"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9600,
+            "end": 9607,
+            "text": "Britain",
+            "id": "T106"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9580,
+            "end": 9589,
+            "text": "Binatones",
+            "id": "T107"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9379,
+            "end": 9389,
+            "text": "Kings Road",
+            "id": "T108"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9370,
+            "end": 9376,
+            "text": "London",
+            "id": "T109"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8950,
+            "end": 8956,
+            "text": "Canton",
+            "id": "T110"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8938,
+            "end": 8944,
+            "text": "Harrod",
+            "id": "T111"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11153,
+            "end": 11164,
+            "text": "Canton Fair",
+            "id": "T112"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10513,
+            "end": 10530,
+            "text": "Canton Trade Fair",
+            "id": "T113"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18728,
+            "end": 18742,
+            "text": "Robert MacNeil",
+            "id": "T114"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18662,
+            "end": 18665,
+            "text": "BBC",
+            "id": "T115"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18492,
+            "end": 18507,
+            "text": "Communist Party",
+            "id": "T116"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18253,
+            "end": 18258,
+            "text": "China",
+            "id": "T117"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18056,
+            "end": 18061,
+            "text": "China",
+            "id": "T118"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18006,
+            "end": 18011,
+            "text": "China",
+            "id": "T119"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17552,
+            "end": 17558,
+            "text": "Canton",
+            "id": "T120"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17437,
+            "end": 17446,
+            "text": "Hong Kong",
+            "id": "T121"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17176,
+            "end": 17185,
+            "text": "Hong Kong",
+            "id": "T122"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17166,
+            "end": 17171,
+            "text": "China",
+            "id": "T123"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16999,
+            "end": 17004,
+            "text": "China",
+            "id": "T124"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16988,
+            "end": 16993,
+            "text": "China",
+            "id": "T125"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16805,
+            "end": 16814,
+            "text": "Singapore",
+            "id": "T126"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16796,
+            "end": 16801,
+            "text": "Korea",
+            "id": "T127"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16782,
+            "end": 16790,
+            "text": "Far East",
+            "id": "T128"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16724,
+            "end": 16729,
+            "text": "China",
+            "id": "T129"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16712,
+            "end": 16718,
+            "text": "Taiwan",
+            "id": "T130"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16705,
+            "end": 16710,
+            "text": "China",
+            "id": "T131"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16665,
+            "end": 16671,
+            "text": "Canton",
+            "id": "T132"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16593,
+            "end": 16601,
+            "text": "Far East",
+            "id": "T133"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16534,
+            "end": 16539,
+            "text": "China",
+            "id": "T134"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16116,
+            "end": 16121,
+            "text": "China",
+            "id": "T135"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16051,
+            "end": 16057,
+            "text": "Canton",
+            "id": "T136"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15972,
+            "end": 15977,
+            "text": "China",
+            "id": "T137"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15939,
+            "end": 15944,
+            "text": "China",
+            "id": "T138"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15866,
+            "end": 15871,
+            "text": "China",
+            "id": "T139"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15706,
+            "end": 15714,
+            "text": "Far East",
+            "id": "T140"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15544,
+            "end": 15553,
+            "text": "Hong Kong",
+            "id": "T141"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15401,
+            "end": 15406,
+            "text": "China",
+            "id": "T142"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14984,
+            "end": 14989,
+            "text": "China",
+            "id": "T143"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14949,
+            "end": 14956,
+            "text": "Tin Fok",
+            "id": "T144"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14930,
+            "end": 14939,
+            "text": "Hong Kong",
+            "id": "T145"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14843,
+            "end": 14853,
+            "text": "Communists",
+            "id": "T146"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14792,
+            "end": 14795,
+            "text": "Mao",
+            "id": "T147"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14756,
+            "end": 14765,
+            "text": "Henry Fok",
+            "id": "T148"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14729,
+            "end": 14739,
+            "text": "Communists",
+            "id": "T149"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14685,
+            "end": 14694,
+            "text": "Hong Kong",
+            "id": "T150"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14626,
+            "end": 14643,
+            "text": "People`s Republic",
+            "id": "T151"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14556,
+            "end": 14563,
+            "text": "Tin Fok",
+            "id": "T152"
+          }
+        }
+      ]
+    }
+  ]
+}

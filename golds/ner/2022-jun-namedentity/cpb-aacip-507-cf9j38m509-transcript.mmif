@@ -1,0 +1,5249 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/0.4.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/0.4.0/vocabulary/TextDocument",
+      "properties": {
+        "mime": "text/plain",
+        "id": "d1",
+        "location": "file:///var/archive//Users/marc/Desktop/projects/clams/code/clamsproject/clams-aapb-annotations/uploads/ner/projects/2022-jun-namedentity/annotations/cpb-aacip-507-cf9j38m509-transcript.ann"
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "v_0",
+      "metadata": {
+        "timestamp": "2023-01-09T09:43:14.330240",
+        "app": "",
+        "contains": {
+          "http://vocab.lappsgrid.org/NamedEntity": {}
+        }
+      },
+      "annotations": [
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2,
+            "end": 12,
+            "text": "JIM LEHRER",
+            "id": "T1"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32,
+            "end": 42,
+            "text": "Jim Lehrer",
+            "id": "T2"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51,
+            "end": 59,
+            "text": "NewsHour",
+            "id": "T3"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 172,
+            "end": 182,
+            "text": "Judd Gregg",
+            "id": "T4"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 187,
+            "end": 198,
+            "text": "Kent Conrad",
+            "id": "T5"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 243,
+            "end": 249,
+            "text": "Israel",
+            "id": "T6"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 370,
+            "end": 384,
+            "text": "John Feinstein",
+            "id": "T7"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 418,
+            "end": 428,
+            "text": "Super Bowl",
+            "id": "T8"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 432,
+            "end": 444,
+            "text": "NEWS SUMMARY",
+            "id": "T9"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 446,
+            "end": 456,
+            "text": "JIM LEHRER",
+            "id": "T10"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 458,
+            "end": 472,
+            "text": "President Bush",
+            "id": "T11"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 482,
+            "end": 493,
+            "text": "2006 budget",
+            "id": "T12"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 497,
+            "end": 505,
+            "text": "Congress",
+            "id": "T13"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 856,
+            "end": 868,
+            "text": "Nancy Pelosi",
+            "id": "T14"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 909,
+            "end": 913,
+            "text": "Iraq",
+            "id": "T15"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 918,
+            "end": 933,
+            "text": "Social Security",
+            "id": "T16"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1019,
+            "end": 1031,
+            "text": "News Summary",
+            "id": "T17"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1033,
+            "end": 1039,
+            "text": "Israel",
+            "id": "T18"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1171,
+            "end": 1200,
+            "text": "Israeli Prime Minister Sharon",
+            "id": "T19"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1257,
+            "end": 1262,
+            "text": "Egypt",
+            "id": "T20"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1139,
+            "end": 1166,
+            "text": "Palestinian President Abbas",
+            "id": "T21"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1367,
+            "end": 1380,
+            "text": "RAANAN GISSIN",
+            "id": "T22"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1644,
+            "end": 1654,
+            "text": "JIM LEHRER",
+            "id": "T23"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1756,
+            "end": 1765,
+            "text": "West Bank",
+            "id": "T24"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1795,
+            "end": 1823,
+            "text": "U.S. Secretary of State Rice",
+            "id": "T25"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1853,
+            "end": 1868,
+            "text": "President Abbas",
+            "id": "T26"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1921,
+            "end": 1935,
+            "text": "President Bush",
+            "id": "T27"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1939,
+            "end": 1949,
+            "text": "Washington",
+            "id": "T28"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1968,
+            "end": 1972,
+            "text": "U.S.",
+            "id": "T29"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1873,
+            "end": 1894,
+            "text": "Prime Minister Sharon",
+            "id": "T30"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2002,
+            "end": 2018,
+            "text": "CONDOLEEZZA RICE",
+            "id": "T31"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2144,
+            "end": 2157,
+            "text": "United States",
+            "id": "T32"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2167,
+            "end": 2180,
+            "text": "United States",
+            "id": "T33"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2242,
+            "end": 2252,
+            "text": "JIM LEHRER",
+            "id": "T34"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2360,
+            "end": 2364,
+            "text": "Iraq",
+            "id": "T35"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2375,
+            "end": 2382,
+            "text": "Baqouba",
+            "id": "T36"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2451,
+            "end": 2456,
+            "text": "Mosul",
+            "id": "T37"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2561,
+            "end": 2566,
+            "text": "Mosul",
+            "id": "T38"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2637,
+            "end": 2641,
+            "text": "U.S.",
+            "id": "T39"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2724,
+            "end": 2728,
+            "text": "Iraq",
+            "id": "T40"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2759,
+            "end": 2785,
+            "text": "Grand Ayatollah al-Sistani",
+            "id": "T41"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3074,
+            "end": 3078,
+            "text": "U.N.",
+            "id": "T42"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3079,
+            "end": 3102,
+            "text": "Secretary-General Annan",
+            "id": "T43"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3178,
+            "end": 3182,
+            "text": "Iraq",
+            "id": "T44"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2934,
+            "end": 2955,
+            "text": "Prime Minister Allawi",
+            "id": "T45"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3312,
+            "end": 3316,
+            "text": "Iraq",
+            "id": "T46"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3465,
+            "end": 3478,
+            "text": "Massachusetts",
+            "id": "T47"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3515,
+            "end": 3550,
+            "text": "Catholic Church's sex abuse scandal",
+            "id": "T48"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3569,
+            "end": 3581,
+            "text": "Paul Shanley",
+            "id": "T49"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3602,
+            "end": 3611,
+            "text": "Cambridge",
+            "id": "T50"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3752,
+            "end": 3759,
+            "text": "Shanley",
+            "id": "T51"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3809,
+            "end": 3820,
+            "text": "Wall Street",
+            "id": "T52"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3832,
+            "end": 3860,
+            "text": "Dow Jones Industrial Average",
+            "id": "T53"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3910,
+            "end": 3916,
+            "text": "NASDAQ",
+            "id": "T54"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3964,
+            "end": 3970,
+            "text": "Boston",
+            "id": "T55"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4044,
+            "end": 4064,
+            "text": "New England Patriots",
+            "id": "T56"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4081,
+            "end": 4091,
+            "text": "Super Bowl",
+            "id": "T57"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4107,
+            "end": 4126,
+            "text": "Philadelphia Eagles",
+            "id": "T58"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4147,
+            "end": 4168,
+            "text": "Jacksonville, Florida",
+            "id": "T59"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4177,
+            "end": 4188,
+            "text": "New England",
+            "id": "T60"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4197,
+            "end": 4200,
+            "text": "NFL",
+            "id": "T61"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4276,
+            "end": 4286,
+            "text": "Super Bowl",
+            "id": "T62"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4369,
+            "end": 4374,
+            "text": "Gregg",
+            "id": "T63"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4379,
+            "end": 4385,
+            "text": "Conrad",
+            "id": "T64"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4389,
+            "end": 4400,
+            "text": "Middle East",
+            "id": "T65"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4431,
+            "end": 4462,
+            "text": "FOCUS - PRIORITIES AND PROGRAMS",
+            "id": "T66"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4464,
+            "end": 4474,
+            "text": "JIM LEHRER",
+            "id": "T67"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4476,
+            "end": 4490,
+            "text": "President Bush",
+            "id": "T68"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4558,
+            "end": 4570,
+            "text": "Kwame Holman",
+            "id": "T69"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4594,
+            "end": 4606,
+            "text": "KWAME HOLMAN",
+            "id": "T70"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4625,
+            "end": 4647,
+            "text": "House Budget Committee",
+            "id": "T71"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4649,
+            "end": 4655,
+            "text": "Kansas",
+            "id": "T72"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4667,
+            "end": 4675,
+            "text": "Jim Ryun",
+            "id": "T73"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4856,
+            "end": 4868,
+            "text": "KWAME HOLMAN",
+            "id": "T74"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5037,
+            "end": 5050,
+            "text": "Ronald Reagan",
+            "id": "T75"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5105,
+            "end": 5119,
+            "text": "President Bush",
+            "id": "T76"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5143,
+            "end": 5167,
+            "text": "PRESIDENT GEORGE W. BUSH",
+            "id": "T77"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5321,
+            "end": 5329,
+            "text": "Congress",
+            "id": "T78"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5443,
+            "end": 5455,
+            "text": "KWAME HOLMAN",
+            "id": "T79"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5490,
+            "end": 5498,
+            "text": "Congress",
+            "id": "T80"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5772,
+            "end": 5778,
+            "text": "Senate",
+            "id": "T81"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5797,
+            "end": 5807,
+            "text": "Harry Reid",
+            "id": "T82"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5968,
+            "end": 5995,
+            "text": "budget director Josh Bolten",
+            "id": "T83"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6022,
+            "end": 6036,
+            "text": "President Bush",
+            "id": "T84"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6047,
+            "end": 6058,
+            "text": "JOSH BOLTEN",
+            "id": "T85"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6153,
+            "end": 6157,
+            "text": "Hill",
+            "id": "T86"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6210,
+            "end": 6218,
+            "text": "Congress",
+            "id": "T87"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6319,
+            "end": 6327,
+            "text": "Congress",
+            "id": "T88"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6419,
+            "end": 6431,
+            "text": "KWAME HOLMAN",
+            "id": "T89"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6781,
+            "end": 6803,
+            "text": "Budget Director Bolten",
+            "id": "T90"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6812,
+            "end": 6820,
+            "text": "Congress",
+            "id": "T91"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6990,
+            "end": 7001,
+            "text": "JOSH BOLTEN",
+            "id": "T92"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7268,
+            "end": 7276,
+            "text": "Congress",
+            "id": "T93"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7280,
+            "end": 7292,
+            "text": "KWAME HOLMAN",
+            "id": "T94"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7690,
+            "end": 7698,
+            "text": "Medicaid",
+            "id": "T95"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7779,
+            "end": 7802,
+            "text": "Army Corps of Engineers",
+            "id": "T96"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7861,
+            "end": 7869,
+            "text": "Congress",
+            "id": "T97"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7945,
+            "end": 7951,
+            "text": "Amtrak",
+            "id": "T98"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7992,
+            "end": 8001,
+            "text": "Democrats",
+            "id": "T99"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8059,
+            "end": 8070,
+            "text": "John Spratt",
+            "id": "T100"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8074,
+            "end": 8088,
+            "text": "South Carolina",
+            "id": "T101"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8116,
+            "end": 8138,
+            "text": "House Budget Committee",
+            "id": "T102"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8142,
+            "end": 8158,
+            "text": "REP. JOHN SPRATT",
+            "id": "T103"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8494,
+            "end": 8502,
+            "text": "Congress",
+            "id": "T104"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8558,
+            "end": 8570,
+            "text": "KWAME HOLMAN",
+            "id": "T105"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8572,
+            "end": 8581,
+            "text": "Democrats",
+            "id": "T106"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8742,
+            "end": 8746,
+            "text": "Iraq",
+            "id": "T107"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8751,
+            "end": 8762,
+            "text": "Afghanistan",
+            "id": "T108"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8816,
+            "end": 8831,
+            "text": "Social Security",
+            "id": "T109"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8833,
+            "end": 8855,
+            "text": "Budget Director Bolten",
+            "id": "T110"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8859,
+            "end": 8870,
+            "text": "JOSH BOLTEN",
+            "id": "T111"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9013,
+            "end": 9028,
+            "text": "Social Security",
+            "id": "T112"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9103,
+            "end": 9111,
+            "text": "Congress",
+            "id": "T113"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9363,
+            "end": 9375,
+            "text": "KWAME HOLMAN",
+            "id": "T114"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9447,
+            "end": 9455,
+            "text": "Mr. Bush",
+            "id": "T115"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9490,
+            "end": 9499,
+            "text": "Democrats",
+            "id": "T116"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9570,
+            "end": 9582,
+            "text": "North Dakota",
+            "id": "T117"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9585,
+            "end": 9596,
+            "text": "Kent Conrad",
+            "id": "T118"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9599,
+            "end": 9615,
+            "text": "SEN. KENT CONRAD",
+            "id": "T119"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9750,
+            "end": 9765,
+            "text": "Social Security",
+            "id": "T120"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9783,
+            "end": 9791,
+            "text": "Medicare",
+            "id": "T121"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9966,
+            "end": 9978,
+            "text": "KWAME HOLMAN",
+            "id": "T122"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9980,
+            "end": 9988,
+            "text": "Congress",
+            "id": "T123"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10080,
+            "end": 10085,
+            "text": "House",
+            "id": "T124"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10090,
+            "end": 10096,
+            "text": "Senate",
+            "id": "T125"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10110,
+            "end": 10117,
+            "text": "Capitol",
+            "id": "T126"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10121,
+            "end": 10131,
+            "text": "JIM LEHRER",
+            "id": "T127"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10133,
+            "end": 10148,
+            "text": "Margaret Warner",
+            "id": "T128"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10206,
+            "end": 10221,
+            "text": "MARGARET WARNER",
+            "id": "T129"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10258,
+            "end": 10264,
+            "text": "Senate",
+            "id": "T130"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10354,
+            "end": 10369,
+            "text": "Sen. Judd Gregg",
+            "id": "T131"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10373,
+            "end": 10386,
+            "text": "New Hampshire",
+            "id": "T132"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10410,
+            "end": 10433,
+            "text": "Senate Budget Committee",
+            "id": "T133"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10439,
+            "end": 10455,
+            "text": "Sen. Kent Conrad",
+            "id": "T134"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10459,
+            "end": 10471,
+            "text": "North Dakota",
+            "id": "T135"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10530,
+            "end": 10540,
+            "text": "Sen. Gregg",
+            "id": "T136"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10687,
+            "end": 10702,
+            "text": "SEN. JUDD GREGG",
+            "id": "T137"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10920,
+            "end": 10928,
+            "text": "Medicaid",
+            "id": "T138"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11243,
+            "end": 11258,
+            "text": "MARGARET WARNER",
+            "id": "T139"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11264,
+            "end": 11275,
+            "text": "Sen. Conrad",
+            "id": "T140"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11361,
+            "end": 11377,
+            "text": "SEN. KENT CONRAD",
+            "id": "T141"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11810,
+            "end": 11825,
+            "text": "Social Security",
+            "id": "T142"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11927,
+            "end": 11942,
+            "text": "MARGARET WARNER",
+            "id": "T143"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11959,
+            "end": 11975,
+            "text": "SEN. KENT CONRAD",
+            "id": "T144"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12229,
+            "end": 12244,
+            "text": "MARGARET WARNER",
+            "id": "T145"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12246,
+            "end": 12256,
+            "text": "Sen. Gregg",
+            "id": "T146"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12328,
+            "end": 12337,
+            "text": "Democrats",
+            "id": "T147"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12514,
+            "end": 12529,
+            "text": "SEN. JUDD GREGG",
+            "id": "T148"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12931,
+            "end": 12935,
+            "text": "Iran",
+            "id": "T149"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12939,
+            "end": 12943,
+            "text": "Iraq",
+            "id": "T150"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12953,
+            "end": 12957,
+            "text": "Iraq",
+            "id": "T151"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12961,
+            "end": 12972,
+            "text": "Afghanistan",
+            "id": "T152"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13108,
+            "end": 13120,
+            "text": "North Dakota",
+            "id": "T153"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13402,
+            "end": 13417,
+            "text": "MARGARET WARNER",
+            "id": "T154"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13526,
+            "end": 13541,
+            "text": "SEN. JUDD GREGG",
+            "id": "T155"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13569,
+            "end": 13584,
+            "text": "MARGARET WARNER",
+            "id": "T156"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13667,
+            "end": 13675,
+            "text": "Iraq War",
+            "id": "T157"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13679,
+            "end": 13694,
+            "text": "SEN. JUDD GREGG",
+            "id": "T158"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14618,
+            "end": 14633,
+            "text": "MARGARET WARNER",
+            "id": "T159"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14635,
+            "end": 14646,
+            "text": "Sen. Conrad",
+            "id": "T160"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14666,
+            "end": 14675,
+            "text": "Democrats",
+            "id": "T161"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14692,
+            "end": 14708,
+            "text": "SEN. KENT CONRAD",
+            "id": "T162"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14999,
+            "end": 15018,
+            "text": "Bush administration",
+            "id": "T163"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15857,
+            "end": 15864,
+            "text": "America",
+            "id": "T164"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15918,
+            "end": 15933,
+            "text": "MARGARET WARNER",
+            "id": "T165"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15951,
+            "end": 15962,
+            "text": "Sen. Conrad",
+            "id": "T166"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15968,
+            "end": 15983,
+            "text": "SEN. JUDD GREGG",
+            "id": "T167"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16038,
+            "end": 16053,
+            "text": "MARGARET WARNER",
+            "id": "T168"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16062,
+            "end": 16077,
+            "text": "SEN. JUDD GREGG",
+            "id": "T169"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16356,
+            "end": 16364,
+            "text": "Medicare",
+            "id": "T170"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16481,
+            "end": 16489,
+            "text": "Medicare",
+            "id": "T171"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16753,
+            "end": 16761,
+            "text": "Medicaid",
+            "id": "T172"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17356,
+            "end": 17371,
+            "text": "MARGARET WARNER",
+            "id": "T173"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17384,
+            "end": 17395,
+            "text": "Sen. Conrad",
+            "id": "T174"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17732,
+            "end": 17748,
+            "text": "SEN. KENT CONRAD",
+            "id": "T175"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17849,
+            "end": 17861,
+            "text": "cops program",
+            "id": "T176"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 17877,
+            "end": 17889,
+            "text": "Cops program",
+            "id": "T177"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18514,
+            "end": 18522,
+            "text": "Medicaid",
+            "id": "T178"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19059,
+            "end": 19074,
+            "text": "MARGARET WARNER",
+            "id": "T179"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19095,
+            "end": 19105,
+            "text": "Sen. Gregg",
+            "id": "T180"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19167,
+            "end": 19178,
+            "text": "Sen. Conrad",
+            "id": "T181"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19299,
+            "end": 19305,
+            "text": "Amtrak",
+            "id": "T182"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19361,
+            "end": 19373,
+            "text": "Capitol Hill",
+            "id": "T183"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19406,
+            "end": 19417,
+            "text": "Republicans",
+            "id": "T184"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19475,
+            "end": 19490,
+            "text": "SEN. JUDD GREGG",
+            "id": "T185"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19532,
+            "end": 19543,
+            "text": "Sen. Conrad",
+            "id": "T186"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19588,
+            "end": 19600,
+            "text": "North Dakota",
+            "id": "T187"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19647,
+            "end": 19655,
+            "text": "Medicaid",
+            "id": "T188"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19880,
+            "end": 19888,
+            "text": "Congress",
+            "id": "T189"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19938,
+            "end": 19949,
+            "text": "White House",
+            "id": "T190"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20057,
+            "end": 20068,
+            "text": "White House",
+            "id": "T191"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20115,
+            "end": 20123,
+            "text": "Congress",
+            "id": "T192"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20460,
+            "end": 20475,
+            "text": "MARGARET WARNER",
+            "id": "T193"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20493,
+            "end": 20504,
+            "text": "Sen. Conrad",
+            "id": "T194"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20625,
+            "end": 20641,
+            "text": "SEN. KENT CONRAD",
+            "id": "T195"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20686,
+            "end": 20696,
+            "text": "Sen. Gregg",
+            "id": "T196"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21011,
+            "end": 21026,
+            "text": "MARGARET WARNER",
+            "id": "T197"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21028,
+            "end": 21039,
+            "text": "Sen. Conrad",
+            "id": "T198"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21307,
+            "end": 21323,
+            "text": "SEN. KENT CONRAD",
+            "id": "T199"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21909,
+            "end": 21924,
+            "text": "MARGARET WARNER",
+            "id": "T200"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21926,
+            "end": 21936,
+            "text": "Sen. Gregg",
+            "id": "T201"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22019,
+            "end": 22034,
+            "text": "SEN. JUDD GREGG",
+            "id": "T202"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22937,
+            "end": 22952,
+            "text": "Social Security",
+            "id": "T203"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23267,
+            "end": 23282,
+            "text": "Social Security",
+            "id": "T204"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23400,
+            "end": 23415,
+            "text": "MARGARET WARNER",
+            "id": "T205"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23421,
+            "end": 23431,
+            "text": "Sen. Gregg",
+            "id": "T206"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23479,
+            "end": 23494,
+            "text": "Social Security",
+            "id": "T207"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23748,
+            "end": 23763,
+            "text": "Social Security",
+            "id": "T208"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23799,
+            "end": 23814,
+            "text": "SEN. JUDD GREGG",
+            "id": "T209"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23822,
+            "end": 23837,
+            "text": "Social Security",
+            "id": "T210"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24728,
+            "end": 24743,
+            "text": "MARGARET WARNER",
+            "id": "T211"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24745,
+            "end": 24756,
+            "text": "Sen. Conrad",
+            "id": "T212"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24810,
+            "end": 24825,
+            "text": "Social Security",
+            "id": "T213"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24937,
+            "end": 24945,
+            "text": "Congress",
+            "id": "T214"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24954,
+            "end": 24960,
+            "text": "Senate",
+            "id": "T215"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24994,
+            "end": 25010,
+            "text": "SEN. KENT CONRAD",
+            "id": "T216"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25342,
+            "end": 25357,
+            "text": "Social Security",
+            "id": "T217"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25770,
+            "end": 25785,
+            "text": "MARGARET WARNER",
+            "id": "T218"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25787,
+            "end": 25798,
+            "text": "Sen. Conrad",
+            "id": "T219"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25803,
+            "end": 25817,
+            "text": "Chairman Gregg",
+            "id": "T220"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25837,
+            "end": 25852,
+            "text": "SEN. JUDD GREGG",
+            "id": "T221"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25867,
+            "end": 25877,
+            "text": "JIM LEHRER",
+            "id": "T222"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25900,
+            "end": 25908,
+            "text": "NewsHour",
+            "id": "T223"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25952,
+            "end": 25963,
+            "text": "Middle East",
+            "id": "T224"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26016,
+            "end": 26026,
+            "text": "Super Bowl",
+            "id": "T225"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26029,
+            "end": 26048,
+            "text": "FOCUS- TIME OF HOPE",
+            "id": "T226"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26050,
+            "end": 26060,
+            "text": "JIM LEHRER",
+            "id": "T227"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26066,
+            "end": 26077,
+            "text": "Middle East",
+            "id": "T228"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26086,
+            "end": 26096,
+            "text": "Ray Suarez",
+            "id": "T229"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26112,
+            "end": 26122,
+            "text": "RAY SUAREZ",
+            "id": "T230"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26149,
+            "end": 26161,
+            "text": "Ariel Sharon",
+            "id": "T231"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26167,
+            "end": 26180,
+            "text": "Mahmoud Abbas",
+            "id": "T232"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26217,
+            "end": 26238,
+            "text": "Palestinian Authority",
+            "id": "T233"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26323,
+            "end": 26345,
+            "text": "Sharm-el-sheikh, Egypt",
+            "id": "T234"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26460,
+            "end": 26495,
+            "text": "Secretary of state Condoleezza Rice",
+            "id": "T235"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26585,
+            "end": 26589,
+            "text": "Rice",
+            "id": "T236"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26598,
+            "end": 26607,
+            "text": "U.S. Army",
+            "id": "T237"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26683,
+            "end": 26693,
+            "text": "RAY SUAREZ",
+            "id": "T238"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26738,
+            "end": 26746,
+            "text": "Newsweek",
+            "id": "T239"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26749,
+            "end": 26758,
+            "text": "Jerusalem",
+            "id": "T240"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26774,
+            "end": 26784,
+            "text": "Dan Ephron",
+            "id": "T241"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26788,
+            "end": 26791,
+            "text": "Dan",
+            "id": "T242"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26807,
+            "end": 26811,
+            "text": "Rice",
+            "id": "T243"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26884,
+            "end": 26897,
+            "text": "United States",
+            "id": "T244"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26901,
+            "end": 26912,
+            "text": "Middle East",
+            "id": "T245"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26926,
+            "end": 26936,
+            "text": "DAN EPHRON",
+            "id": "T246"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27217,
+            "end": 27230,
+            "text": "Mahmoud Abbas",
+            "id": "T247"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27464,
+            "end": 27477,
+            "text": "United States",
+            "id": "T248"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27492,
+            "end": 27502,
+            "text": "RAY SUAREZ",
+            "id": "T249"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27512,
+            "end": 27533,
+            "text": "Lt. Gen. William Ward",
+            "id": "T250"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27580,
+            "end": 27590,
+            "text": "DAN EPHRON",
+            "id": "T251"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27665,
+            "end": 27679,
+            "text": "Secretary Rice",
+            "id": "T252"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27737,
+            "end": 27750,
+            "text": "United States",
+            "id": "T253"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27855,
+            "end": 27864,
+            "text": "Jerusalem",
+            "id": "T254"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27869,
+            "end": 27877,
+            "text": "Ramallah",
+            "id": "T255"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27953,
+            "end": 27957,
+            "text": "U.S.",
+            "id": "T256"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28148,
+            "end": 28161,
+            "text": "United States",
+            "id": "T257"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28205,
+            "end": 28211,
+            "text": "Israel",
+            "id": "T258"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28593,
+            "end": 28603,
+            "text": "RAY SUAREZ",
+            "id": "T259"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28610,
+            "end": 28623,
+            "text": "Lt. Gen. Ward",
+            "id": "T260"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28760,
+            "end": 28770,
+            "text": "DAN EPHRON",
+            "id": "T261"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29010,
+            "end": 29023,
+            "text": "Yasser Arafat",
+            "id": "T262"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29128,
+            "end": 29132,
+            "text": "U.S.",
+            "id": "T263"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29269,
+            "end": 29278,
+            "text": "West Bank",
+            "id": "T264"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29283,
+            "end": 29287,
+            "text": "Gaza",
+            "id": "T265"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29438,
+            "end": 29451,
+            "text": "Mahmoud Abbas",
+            "id": "T266"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29646,
+            "end": 29659,
+            "text": "United States",
+            "id": "T267"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29746,
+            "end": 29756,
+            "text": "RAY SUAREZ",
+            "id": "T268"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29758,
+            "end": 29771,
+            "text": "Mahmoud Abbas",
+            "id": "T269"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29828,
+            "end": 29830,
+            "text": "PA",
+            "id": "T270"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29975,
+            "end": 29985,
+            "text": "DAN EPHRON",
+            "id": "T271"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30261,
+            "end": 30274,
+            "text": "Mahmoud Abbas",
+            "id": "T272"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30471,
+            "end": 30476,
+            "text": "Hamas",
+            "id": "T273"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30654,
+            "end": 30667,
+            "text": "Mahmoud Abbas",
+            "id": "T274"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30752,
+            "end": 30762,
+            "text": "RAY SUAREZ",
+            "id": "T275"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30872,
+            "end": 30887,
+            "text": "Sharm el-Sheikh",
+            "id": "T276"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30938,
+            "end": 30948,
+            "text": "DAN EPHRON",
+            "id": "T277"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31559,
+            "end": 31576,
+            "text": "President Mubarak",
+            "id": "T278"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31581,
+            "end": 31594,
+            "text": "King Abdullah",
+            "id": "T279"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31598,
+            "end": 31603,
+            "text": "Egypt",
+            "id": "T280"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31608,
+            "end": 31614,
+            "text": "Jordan",
+            "id": "T281"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31649,
+            "end": 31676,
+            "text": "Prime Minister Ariel Sharon",
+            "id": "T282"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31872,
+            "end": 31884,
+            "text": "Ariel Sharon",
+            "id": "T283"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31899,
+            "end": 31909,
+            "text": "RAY SUAREZ",
+            "id": "T284"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31921,
+            "end": 31935,
+            "text": "Secretary Rice",
+            "id": "T285"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32125,
+            "end": 32135,
+            "text": "DAN EPHRON",
+            "id": "T286"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32197,
+            "end": 32210,
+            "text": "United States",
+            "id": "T287"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32432,
+            "end": 32445,
+            "text": "United States",
+            "id": "T288"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32673,
+            "end": 32687,
+            "text": "Secretary Rice",
+            "id": "T289"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32706,
+            "end": 32725,
+            "text": "Bush administration",
+            "id": "T290"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32840,
+            "end": 32857,
+            "text": "President Mubarak",
+            "id": "T291"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32866,
+            "end": 32894,
+            "text": "Egyptian President's Mubarak",
+            "id": "T292"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32942,
+            "end": 32955,
+            "text": "ecretary Rice",
+            "id": "T293"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33049,
+            "end": 33066,
+            "text": "President Mubarak",
+            "id": "T294"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33070,
+            "end": 33080,
+            "text": "RAY SUAREZ",
+            "id": "T295"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33082,
+            "end": 33092,
+            "text": "Dan Ephron",
+            "id": "T296"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33099,
+            "end": 33116,
+            "text": "Newsweek Magazine",
+            "id": "T297"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33146,
+            "end": 33156,
+            "text": "DAN EPHRON",
+            "id": "T298"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33171,
+            "end": 33193,
+            "text": "FOCUS - MEDICAL ERRORS",
+            "id": "T299"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33195,
+            "end": 33205,
+            "text": "JIM LEHRER",
+            "id": "T300"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33279,
+            "end": 33292,
+            "text": "Susan Dentzer",
+            "id": "T301"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33414,
+            "end": 33447,
+            "text": "Henry J. Kaiser Family Foundation",
+            "id": "T302"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33451,
+            "end": 33468,
+            "text": "DR. ROSS FLETCHER",
+            "id": "T303"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33484,
+            "end": 33496,
+            "text": "Mr. Hilliard",
+            "id": "T304"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33519,
+            "end": 33532,
+            "text": "SUSAN DENTZER",
+            "id": "T305"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33539,
+            "end": 33556,
+            "text": "Dr. Ross Fletcher",
+            "id": "T306"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33585,
+            "end": 33633,
+            "text": "Washington, DC Veterans' Administration Hospital",
+            "id": "T307"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33849,
+            "end": 33866,
+            "text": "DR. ROSS FLETCHER",
+            "id": "T308"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33890,
+            "end": 33903,
+            "text": "SUSAN DENTZER",
+            "id": "T309"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34015,
+            "end": 34023,
+            "text": "Fletcher",
+            "id": "T310"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34033,
+            "end": 34035,
+            "text": "VA",
+            "id": "T311"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34062,
+            "end": 34079,
+            "text": "DR. ROSS FLETCHER",
+            "id": "T312"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34584,
+            "end": 34597,
+            "text": "SUSAN DENTZER",
+            "id": "T313"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34603,
+            "end": 34605,
+            "text": "VA",
+            "id": "T314"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34915,
+            "end": 34936,
+            "text": "Institute of Medicine",
+            "id": "T315"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34946,
+            "end": 34961,
+            "text": "to err is human",
+            "id": "T316"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35015,
+            "end": 35019,
+            "text": "U.S.",
+            "id": "T317"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35213,
+            "end": 35229,
+            "text": "Dr. Lucian Leape",
+            "id": "T318"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35237,
+            "end": 35268,
+            "text": "Harvard School of Public Health",
+            "id": "T319"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35272,
+            "end": 35288,
+            "text": "DR. LUCIAN LEAPE",
+            "id": "T320"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35294,
+            "end": 35315,
+            "text": "Institute of Medicine",
+            "id": "T321"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35551,
+            "end": 35564,
+            "text": "SUSAN DENTZER",
+            "id": "T322"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35570,
+            "end": 35575,
+            "text": "Leape",
+            "id": "T323"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35655,
+            "end": 35672,
+            "text": "DR. ROSS FLETCHER",
+            "id": "T324"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35701,
+            "end": 35709,
+            "text": "Congress",
+            "id": "T325"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35822,
+            "end": 35835,
+            "text": "SUSAN DENTZER",
+            "id": "T326"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35847,
+            "end": 35865,
+            "text": "Dr. Robert Wachter",
+            "id": "T327"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35873,
+            "end": 35897,
+            "text": "University of California",
+            "id": "T328"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35901,
+            "end": 35914,
+            "text": "San Francisco",
+            "id": "T329"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35955,
+            "end": 35973,
+            "text": "DR. ROBERT WACHTER",
+            "id": "T330"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36231,
+            "end": 36244,
+            "text": "SUSAN DENTZER",
+            "id": "T331"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36374,
+            "end": 36376,
+            "text": "VA",
+            "id": "T332"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36413,
+            "end": 36432,
+            "text": "Dr. Jonathan Perlin",
+            "id": "T333"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36448,
+            "end": 36450,
+            "text": "VA",
+            "id": "T334"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36511,
+            "end": 36530,
+            "text": "DR. JONATHAN PERLIN",
+            "id": "T335"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36572,
+            "end": 36574,
+            "text": "VA",
+            "id": "T336"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36780,
+            "end": 36793,
+            "text": "SUSAN DENTZER",
+            "id": "T337"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36852,
+            "end": 36854,
+            "text": "VA",
+            "id": "T338"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36903,
+            "end": 36915,
+            "text": "James Bagian",
+            "id": "T339"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36937,
+            "end": 36943,
+            "text": "Bagian",
+            "id": "T340"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36997,
+            "end": 37001,
+            "text": "NASA",
+            "id": "T341"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37072,
+            "end": 37084,
+            "text": "JAMES BAGIAN",
+            "id": "T342"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37322,
+            "end": 37335,
+            "text": "SUSAN DENTZER",
+            "id": "T343"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37596,
+            "end": 37608,
+            "text": "JAMES BAGIAN",
+            "id": "T344"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37863,
+            "end": 37876,
+            "text": "SUSAN DENTZER",
+            "id": "T345"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37878,
+            "end": 37884,
+            "text": "Bagian",
+            "id": "T346"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37919,
+            "end": 37921,
+            "text": "VA",
+            "id": "T347"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38045,
+            "end": 38047,
+            "text": "VA",
+            "id": "T348"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38116,
+            "end": 38118,
+            "text": "VA",
+            "id": "T349"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38378,
+            "end": 38390,
+            "text": "JAMES BAGIAN",
+            "id": "T350"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38651,
+            "end": 38664,
+            "text": "SUSAN DENTZER",
+            "id": "T351"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38666,
+            "end": 38672,
+            "text": "Bagian",
+            "id": "T352"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38724,
+            "end": 38736,
+            "text": "JAMES BAGIAN",
+            "id": "T353"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38799,
+            "end": 38812,
+            "text": "SUSAN DENTZER",
+            "id": "T354"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38814,
+            "end": 38816,
+            "text": "VA",
+            "id": "T355"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39025,
+            "end": 39031,
+            "text": "Bagian",
+            "id": "T356"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39130,
+            "end": 39134,
+            "text": "U.S.",
+            "id": "T357"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39303,
+            "end": 39365,
+            "text": "Joint Commission for Accreditation of Healthcare Organizations",
+            "id": "T358"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39434,
+            "end": 39440,
+            "text": "Bagian",
+            "id": "T359"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39456,
+            "end": 39458,
+            "text": "VA",
+            "id": "T360"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39530,
+            "end": 39542,
+            "text": "JAMES BAGIAN",
+            "id": "T361"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39816,
+            "end": 39829,
+            "text": "SUSAN DENTZER",
+            "id": "T362"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39957,
+            "end": 39972,
+            "text": "Social Security",
+            "id": "T363"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39992,
+            "end": 40006,
+            "text": "William Dreyer",
+            "id": "T364"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40120,
+            "end": 40135,
+            "text": "Social Security",
+            "id": "T365"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40146,
+            "end": 40159,
+            "text": "SUSAN DENTZER",
+            "id": "T366"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40229,
+            "end": 40268,
+            "text": "Washington, DC Veterans' Medical Center",
+            "id": "T367"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40270,
+            "end": 40276,
+            "text": "Bagian",
+            "id": "T368"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40331,
+            "end": 40333,
+            "text": "VA",
+            "id": "T369"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40441,
+            "end": 40443,
+            "text": "VA",
+            "id": "T370"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40638,
+            "end": 40642,
+            "text": "U.S.",
+            "id": "T371"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40660,
+            "end": 40662,
+            "text": "VA",
+            "id": "T372"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41094,
+            "end": 41096,
+            "text": "VA",
+            "id": "T373"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41207,
+            "end": 41209,
+            "text": "VA",
+            "id": "T374"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41330,
+            "end": 41336,
+            "text": "Perlin",
+            "id": "T375"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41378,
+            "end": 41397,
+            "text": "DR. JONATHAN PERLIN",
+            "id": "T376"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41423,
+            "end": 41425,
+            "text": "VA",
+            "id": "T377"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41537,
+            "end": 41550,
+            "text": "SUSAN DENTZER",
+            "id": "T378"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41776,
+            "end": 41778,
+            "text": "VA",
+            "id": "T379"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41891,
+            "end": 41893,
+            "text": "VA",
+            "id": "T380"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41896,
+            "end": 41915,
+            "text": "DR. JONATHAN PERLIN",
+            "id": "T381"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42161,
+            "end": 42174,
+            "text": "SUSAN DENTZER",
+            "id": "T382"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42202,
+            "end": 42215,
+            "text": "Washington VA",
+            "id": "T383"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42227,
+            "end": 42243,
+            "text": "Charles Hilliard",
+            "id": "T384"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42285,
+            "end": 42300,
+            "text": "CHARLES HILLARD",
+            "id": "T385"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42316,
+            "end": 42325,
+            "text": "Hilliards",
+            "id": "T386"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42440,
+            "end": 42453,
+            "text": "SUSAN DENTZER",
+            "id": "T387"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42459,
+            "end": 42461,
+            "text": "VA",
+            "id": "T388"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42763,
+            "end": 42765,
+            "text": "VA",
+            "id": "T389"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42857,
+            "end": 42865,
+            "text": "Congress",
+            "id": "T390"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42892,
+            "end": 42894,
+            "text": "VA",
+            "id": "T391"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43132,
+            "end": 43134,
+            "text": "VA",
+            "id": "T392"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43358,
+            "end": 43362,
+            "text": "U.S.",
+            "id": "T393"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43398,
+            "end": 43425,
+            "text": "FOCUS - PATRIOTIC SPECTACLE",
+            "id": "T394"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43427,
+            "end": 43437,
+            "text": "JIM LEHRER",
+            "id": "T395"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43468,
+            "end": 43478,
+            "text": "Super Bowl",
+            "id": "T396"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43511,
+            "end": 43524,
+            "text": "Terence Smith",
+            "id": "T397"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43607,
+            "end": 43613,
+            "text": "McNabb",
+            "id": "T398"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43666,
+            "end": 43679,
+            "text": "TERENCE SMITH",
+            "id": "T399"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43812,
+            "end": 43824,
+            "text": "Philadelphia",
+            "id": "T400"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43828,
+            "end": 43841,
+            "text": "TERENCE SMITH",
+            "id": "T401"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43849,
+            "end": 43861,
+            "text": "Philadelphia",
+            "id": "T402"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43905,
+            "end": 43915,
+            "text": "Greg Lewis",
+            "id": "T403"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43964,
+            "end": 43975,
+            "text": "New England",
+            "id": "T404"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44001,
+            "end": 44009,
+            "text": "Patriots",
+            "id": "T405"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44024,
+            "end": 44038,
+            "text": "Donovan McNabb",
+            "id": "T406"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44147,
+            "end": 44155,
+            "text": "Patriots",
+            "id": "T407"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44186,
+            "end": 44194,
+            "text": "Patriots",
+            "id": "T408"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44319,
+            "end": 44332,
+            "text": "United States",
+            "id": "T409"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44373,
+            "end": 44395,
+            "text": "Neilson Media Research",
+            "id": "T410"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44505,
+            "end": 44519,
+            "text": "Paul McCartney",
+            "id": "T411"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44613,
+            "end": 44626,
+            "text": "Janet Jackson",
+            "id": "T412"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44707,
+            "end": 44724,
+            "text": "Justin Timberlake",
+            "id": "T413"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44805,
+            "end": 44808,
+            "text": "NFL",
+            "id": "T414"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44816,
+            "end": 44849,
+            "text": "Federal Communications Commission",
+            "id": "T415"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44853,
+            "end": 44861,
+            "text": "Congress",
+            "id": "T416"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44894,
+            "end": 44903,
+            "text": "Bud Light",
+            "id": "T417"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44907,
+            "end": 44920,
+            "text": "TERENCE SMITH",
+            "id": "T418"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45064,
+            "end": 45084,
+            "text": "Janet Jackson moment",
+            "id": "T419"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45165,
+            "end": 45171,
+            "text": "Senate",
+            "id": "T420"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45309,
+            "end": 45322,
+            "text": "TERENCE SMITH",
+            "id": "T421"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45343,
+            "end": 45351,
+            "text": "Patriots",
+            "id": "T422"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45384,
+            "end": 45394,
+            "text": "Super Bowl",
+            "id": "T423"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45443,
+            "end": 45457,
+            "text": "John Feinstein",
+            "id": "T424"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45493,
+            "end": 45509,
+            "text": "Baltimore Ravens",
+            "id": "T425"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45512,
+            "end": 45516,
+            "text": "John",
+            "id": "T426"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45561,
+            "end": 45575,
+            "text": "JOHN FEINSTEIN",
+            "id": "T427"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45593,
+            "end": 45596,
+            "text": "NFL",
+            "id": "T428"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45604,
+            "end": 45618,
+            "text": "Paul Tagliabue",
+            "id": "T429"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45744,
+            "end": 45764,
+            "text": "Janet Jackson moment",
+            "id": "T430"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45833,
+            "end": 45851,
+            "text": "Nicolette Sheridan",
+            "id": "T431"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45870,
+            "end": 45889,
+            "text": "Philadelphia Eagles",
+            "id": "T432"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45908,
+            "end": 45921,
+            "text": "Terrell Owens",
+            "id": "T433"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45952,
+            "end": 45961,
+            "text": "Tagliabue",
+            "id": "T434"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46059,
+            "end": 46078,
+            "text": "Philadelphia Eagles",
+            "id": "T435"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46199,
+            "end": 46202,
+            "text": "NFL",
+            "id": "T436"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46328,
+            "end": 46342,
+            "text": "Paul Tagliabue",
+            "id": "T437"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46403,
+            "end": 46416,
+            "text": "TERENCE SMITH",
+            "id": "T438"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46430,
+            "end": 46440,
+            "text": "Super Bowl",
+            "id": "T439"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46508,
+            "end": 46522,
+            "text": "JOHN FEINSTEIN",
+            "id": "T440"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46580,
+            "end": 46583,
+            "text": "NFL",
+            "id": "T441"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46680,
+            "end": 46690,
+            "text": "Diana Ross",
+            "id": "T442"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46802,
+            "end": 46805,
+            "text": "MTV",
+            "id": "T443"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46843,
+            "end": 46860,
+            "text": "Justin Timberlake",
+            "id": "T444"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46865,
+            "end": 46878,
+            "text": "Janet Jackson",
+            "id": "T445"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46908,
+            "end": 46911,
+            "text": "FCC",
+            "id": "T446"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46919,
+            "end": 46922,
+            "text": "CBS",
+            "id": "T447"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46986,
+            "end": 46989,
+            "text": "NFL",
+            "id": "T448"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47044,
+            "end": 47058,
+            "text": "Paul McCartney",
+            "id": "T449"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47109,
+            "end": 47139,
+            "text": "Why Don't We Do it in the Road",
+            "id": "T450"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47176,
+            "end": 47179,
+            "text": "NFL",
+            "id": "T451"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47207,
+            "end": 47220,
+            "text": "TERENCE SMITH",
+            "id": "T452"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47327,
+            "end": 47341,
+            "text": "JOHN FEINSTEIN",
+            "id": "T453"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47444,
+            "end": 47447,
+            "text": "NFL",
+            "id": "T454"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47461,
+            "end": 47464,
+            "text": "Fox",
+            "id": "T455"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47529,
+            "end": 47542,
+            "text": "Mickey Rooney",
+            "id": "T456"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47572,
+            "end": 47582,
+            "text": "Super Bowl",
+            "id": "T457"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47630,
+            "end": 47633,
+            "text": "Fox",
+            "id": "T458"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47652,
+            "end": 47655,
+            "text": "FCC",
+            "id": "T459"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47726,
+            "end": 47740,
+            "text": "Michael Powell",
+            "id": "T460"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47912,
+            "end": 47925,
+            "text": "TERENCE SMITH",
+            "id": "T461"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47997,
+            "end": 48000,
+            "text": "NFL",
+            "id": "T462"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48061,
+            "end": 48075,
+            "text": "JOHN FEINSTEIN",
+            "id": "T463"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48143,
+            "end": 48146,
+            "text": "NFL",
+            "id": "T464"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48156,
+            "end": 48161,
+            "text": "Terry",
+            "id": "T465"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48461,
+            "end": 48464,
+            "text": "NFL",
+            "id": "T466"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48479,
+            "end": 48489,
+            "text": "United Way",
+            "id": "T467"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48647,
+            "end": 48650,
+            "text": "NFL",
+            "id": "T468"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48836,
+            "end": 48849,
+            "text": "TERENCE SMITH",
+            "id": "T469"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48970,
+            "end": 48984,
+            "text": "JOHN FEINSTEIN",
+            "id": "T470"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49093,
+            "end": 49103,
+            "text": "East Coast",
+            "id": "T471"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49225,
+            "end": 49233,
+            "text": "Patriots",
+            "id": "T472"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49293,
+            "end": 49301,
+            "text": "Patriots",
+            "id": "T473"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49336,
+            "end": 49343,
+            "text": "Cowboys",
+            "id": "T474"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49354,
+            "end": 49361,
+            "text": "cowboys",
+            "id": "T475"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49397,
+            "end": 49404,
+            "text": "America",
+            "id": "T476"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49547,
+            "end": 49555,
+            "text": "Patriots",
+            "id": "T477"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49606,
+            "end": 49620,
+            "text": "Bill Belichick",
+            "id": "T478"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49690,
+            "end": 49703,
+            "text": "TERENCE SMITH",
+            "id": "T479"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49756,
+            "end": 49770,
+            "text": "JOHN FEINSTEIN",
+            "id": "T480"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49875,
+            "end": 49878,
+            "text": "NFL",
+            "id": "T481"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50262,
+            "end": 50279,
+            "text": "Green Bay Packers",
+            "id": "T482"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50283,
+            "end": 50297,
+            "text": "Vince Lombardi",
+            "id": "T483"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50334,
+            "end": 50341,
+            "text": "Packers",
+            "id": "T484"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50407,
+            "end": 50410,
+            "text": "NFL",
+            "id": "T485"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50527,
+            "end": 50540,
+            "text": "TERENCE SMITH",
+            "id": "T486"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50600,
+            "end": 50614,
+            "text": "JOHN FEINSTEIN",
+            "id": "T487"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50645,
+            "end": 50653,
+            "text": "Patriots",
+            "id": "T488"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50658,
+            "end": 50671,
+            "text": "TERENCE SMITH",
+            "id": "T489"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50695,
+            "end": 50709,
+            "text": "JOHN FEINSTEIN",
+            "id": "T490"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50857,
+            "end": 50866,
+            "text": "Tom Brady",
+            "id": "T491"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50905,
+            "end": 50908,
+            "text": "NFL",
+            "id": "T492"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50959,
+            "end": 50973,
+            "text": "Peyton Manning",
+            "id": "T493"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50981,
+            "end": 50986,
+            "text": "Colts",
+            "id": "T494"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50990,
+            "end": 51001,
+            "text": "Troy Aikman",
+            "id": "T495"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51055,
+            "end": 51062,
+            "text": "Cowboys",
+            "id": "T496"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51317,
+            "end": 51320,
+            "text": "NFL",
+            "id": "T497"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51325,
+            "end": 51344,
+            "text": "Washington Redskins",
+            "id": "T498"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51353,
+            "end": 51363,
+            "text": "Super Bowl",
+            "id": "T499"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51561,
+            "end": 51569,
+            "text": "Patriots",
+            "id": "T500"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51823,
+            "end": 51831,
+            "text": "Redskins",
+            "id": "T501"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51884,
+            "end": 51897,
+            "text": "TERENCE SMITH",
+            "id": "T502"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51984,
+            "end": 51998,
+            "text": "JOHN FEINSTEIN",
+            "id": "T503"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52289,
+            "end": 52297,
+            "text": "Patriots",
+            "id": "T504"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52331,
+            "end": 52342,
+            "text": "Scott Pioli",
+            "id": "T505"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52368,
+            "end": 52382,
+            "text": "Bill Belichick",
+            "id": "T506"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52430,
+            "end": 52439,
+            "text": "Belichick",
+            "id": "T507"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52505,
+            "end": 52516,
+            "text": "Scott Pioli",
+            "id": "T508"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52546,
+            "end": 52555,
+            "text": "Belichick",
+            "id": "T509"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52699,
+            "end": 52708,
+            "text": "Belichick",
+            "id": "T510"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52812,
+            "end": 52821,
+            "text": "Cleveland",
+            "id": "T511"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52909,
+            "end": 52922,
+            "text": "TERENCE SMITH",
+            "id": "T512"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52924,
+            "end": 52938,
+            "text": "John Feinstein",
+            "id": "T513"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52958,
+            "end": 52972,
+            "text": "JOHN FEINSTEIN",
+            "id": "T514"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52985,
+            "end": 52990,
+            "text": "Terry",
+            "id": "T515"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52994,
+            "end": 52999,
+            "text": "RECAP",
+            "id": "T516"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53001,
+            "end": 53011,
+            "text": "JIM LEHRER",
+            "id": "T517"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53062,
+            "end": 53076,
+            "text": "President Bush",
+            "id": "T518"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53108,
+            "end": 53116,
+            "text": "Congress",
+            "id": "T519"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53155,
+            "end": 53161,
+            "text": "Israel",
+            "id": "T520"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53270,
+            "end": 53274,
+            "text": "Iraq",
+            "id": "T521"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53334,
+            "end": 53344,
+            "text": "Jim Lehrer",
+            "id": "T522"
+          }
+        }
+      ]
+    }
+  ]
+}

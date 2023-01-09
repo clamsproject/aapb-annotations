@@ -1,0 +1,4489 @@
+{
+  "metadata": {
+    "mmif": "http://mmif.clams.ai/0.4.0"
+  },
+  "documents": [
+    {
+      "@type": "http://mmif.clams.ai/0.4.0/vocabulary/TextDocument",
+      "properties": {
+        "mime": "text/plain",
+        "id": "d1",
+        "location": "file:///var/archive//Users/marc/Desktop/projects/clams/code/clamsproject/clams-aapb-annotations/uploads/ner/projects/2022-jun-namedentity/annotations/cpb-aacip-507-154dn40c26-transcript.ann"
+      }
+    }
+  ],
+  "views": [
+    {
+      "id": "v_0",
+      "metadata": {
+        "timestamp": "2023-01-09T09:43:15.159716",
+        "app": "",
+        "contains": {
+          "http://vocab.lappsgrid.org/NamedEntity": {}
+        }
+      },
+      "annotations": [
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7,
+            "end": 21,
+            "text": "ROBERT MacNEIL",
+            "id": "T1"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6011,
+            "end": 6015,
+            "text": "U.S.",
+            "id": "T2"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5897,
+            "end": 5949,
+            "text": "Health and Human Services Secretary Margaret Heckler",
+            "id": "T3"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5767,
+            "end": 5794,
+            "text": "Hoffman-LaRoche Corporation",
+            "id": "T4"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5681,
+            "end": 5684,
+            "text": "FDA",
+            "id": "T5"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5525,
+            "end": 5553,
+            "text": "Food and Drug Administration",
+            "id": "T6"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5511,
+            "end": 5519,
+            "text": "WOODRUFF",
+            "id": "T7"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 76,
+            "end": 82,
+            "text": "Moscow",
+            "id": "T8"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 141,
+            "end": 167,
+            "text": "Farm Credit Administration",
+            "id": "T9"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 224,
+            "end": 236,
+            "text": "South Africa",
+            "id": "T10"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 273,
+            "end": 287,
+            "text": "Delta Airlines",
+            "id": "T11"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 301,
+            "end": 304,
+            "text": "FAA",
+            "id": "T12"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 327,
+            "end": 333,
+            "text": "Dallas",
+            "id": "T13"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 407,
+            "end": 417,
+            "text": "Jim Lehrer",
+            "id": "T14"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 435,
+            "end": 448,
+            "text": "Judy Woodruff",
+            "id": "T15"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 455,
+            "end": 465,
+            "text": "Washington",
+            "id": "T16"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 467,
+            "end": 471,
+            "text": "Judy",
+            "id": "T17"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5409,
+            "end": 5414,
+            "text": "Delta",
+            "id": "T18"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5330,
+            "end": 5335,
+            "text": "Delta",
+            "id": "T19"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5164,
+            "end": 5195,
+            "text": "Federal Aviation Administration",
+            "id": "T20"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5112,
+            "end": 5117,
+            "text": "Delta",
+            "id": "T21"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5104,
+            "end": 5110,
+            "text": "Dallas",
+            "id": "T22"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5726,
+            "end": 5732,
+            "text": "Valium",
+            "id": "T23"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5598,
+            "end": 5604,
+            "text": "Valium",
+            "id": "T24"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4950,
+            "end": 4955,
+            "text": "Delta",
+            "id": "T25"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4825,
+            "end": 4839,
+            "text": "Delta Airlines",
+            "id": "T26"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4721,
+            "end": 4728,
+            "text": "Chicago",
+            "id": "T27"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4652,
+            "end": 4662,
+            "text": "Washington",
+            "id": "T28"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4643,
+            "end": 4647,
+            "text": "Ohio",
+            "id": "T29"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4629,
+            "end": 4641,
+            "text": "Pennsylvania",
+            "id": "T30"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4619,
+            "end": 4627,
+            "text": "Michigan",
+            "id": "T31"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4605,
+            "end": 4617,
+            "text": "Rhode Island",
+            "id": "T32"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4595,
+            "end": 4603,
+            "text": "Illinois",
+            "id": "T33"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4463,
+            "end": 4470,
+            "text": "MacNEIL",
+            "id": "T34"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4295,
+            "end": 4302,
+            "text": "America",
+            "id": "T35"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4052,
+            "end": 4059,
+            "text": "America",
+            "id": "T36"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 4007,
+            "end": 4013,
+            "text": "Reagan",
+            "id": "T37"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3806,
+            "end": 3811,
+            "text": "House",
+            "id": "T38"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3776,
+            "end": 3789,
+            "text": "Massachusetts",
+            "id": "T39"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3748,
+            "end": 3770,
+            "text": "Rep. THOMAS P. O'NEILL",
+            "id": "T40"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3671,
+            "end": 3681,
+            "text": "Mr. Reagan",
+            "id": "T41"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3644,
+            "end": 3651,
+            "text": "O'Neill",
+            "id": "T42"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3637,
+            "end": 3642,
+            "text": "Texas",
+            "id": "T43"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3519,
+            "end": 3526,
+            "text": "O'Neill",
+            "id": "T44"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3453,
+            "end": 3469,
+            "text": "President Reagan",
+            "id": "T45"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3411,
+            "end": 3436,
+            "text": "House Speaker Tip O'Neill",
+            "id": "T46"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3329,
+            "end": 3336,
+            "text": "Cabinet",
+            "id": "T47"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3249,
+            "end": 3264,
+            "text": "Secretary Block",
+            "id": "T48"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 3239,
+            "end": 3247,
+            "text": "WOODRUFF",
+            "id": "T49"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2700,
+            "end": 2718,
+            "text": "Farm Credit System",
+            "id": "T50"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2498,
+            "end": 2508,
+            "text": "JOHN BLOCK",
+            "id": "T51"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2456,
+            "end": 2477,
+            "text": "Reagan administration",
+            "id": "T52"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2391,
+            "end": 2400,
+            "text": "Wilkinson",
+            "id": "T53"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2324,
+            "end": 2356,
+            "text": "Agriculture Secretary John Block",
+            "id": "T54"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2089,
+            "end": 2108,
+            "text": "Wall Street Journal",
+            "id": "T55"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2052,
+            "end": 2078,
+            "text": "Farm Credit Administration",
+            "id": "T56"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 2018,
+            "end": 2034,
+            "text": "Donald Wilkinson",
+            "id": "T57"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1808,
+            "end": 1816,
+            "text": "WOODRUFF",
+            "id": "T58"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1801,
+            "end": 1805,
+            "text": "Judy",
+            "id": "T59"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1668,
+            "end": 1681,
+            "text": "United States",
+            "id": "T60"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1590,
+            "end": 1596,
+            "text": "Moscow",
+            "id": "T61"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1573,
+            "end": 1577,
+            "text": "U.S.",
+            "id": "T62"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1551,
+            "end": 1555,
+            "text": "Tass",
+            "id": "T63"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1417,
+            "end": 1430,
+            "text": "Yuri Andropov",
+            "id": "T64"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1326,
+            "end": 1335,
+            "text": "Air Force",
+            "id": "T65"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1302,
+            "end": 1310,
+            "text": "Pentagon",
+            "id": "T66"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1177,
+            "end": 1193,
+            "text": "President Reagan",
+            "id": "T67"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1110,
+            "end": 1114,
+            "text": "U.S.",
+            "id": "T68"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1025,
+            "end": 1031,
+            "text": "Moscow",
+            "id": "T69"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1016,
+            "end": 1023,
+            "text": "MacNEIL",
+            "id": "T70"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 1002,
+            "end": 1014,
+            "text": "News Summary",
+            "id": "T71"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 510,
+            "end": 518,
+            "text": "NewsHour",
+            "id": "T72"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 474,
+            "end": 487,
+            "text": "JUDY WOODRUFF",
+            "id": "T73"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11113,
+            "end": 11117,
+            "text": "Ryan",
+            "id": "T74"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10963,
+            "end": 10978,
+            "text": "Kokomo, Indiana",
+            "id": "T75"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10949,
+            "end": 10959,
+            "text": "Ryan White",
+            "id": "T76"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10908,
+            "end": 10921,
+            "text": "New York City",
+            "id": "T77"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10818,
+            "end": 10823,
+            "text": "CROSS",
+            "id": "T78"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10574,
+            "end": 10582,
+            "text": "New York",
+            "id": "T79"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10555,
+            "end": 10568,
+            "text": "Mayor ED KOCH",
+            "id": "T80"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10456,
+            "end": 10464,
+            "text": "New York",
+            "id": "T81"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10369,
+            "end": 10377,
+            "text": "New York",
+            "id": "T82"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10354,
+            "end": 10360,
+            "text": "Queens",
+            "id": "T83"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10159,
+            "end": 10164,
+            "text": "CROSS",
+            "id": "T84"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10016,
+            "end": 10029,
+            "text": "New York City",
+            "id": "T85"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 10003,
+            "end": 10014,
+            "text": "WALTER WARD",
+            "id": "T86"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9935,
+            "end": 9951,
+            "text": "Queens, New York",
+            "id": "T87"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9746,
+            "end": 9751,
+            "text": "CROSS",
+            "id": "T88"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9382,
+            "end": 9395,
+            "text": "New York City",
+            "id": "T89"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9230,
+            "end": 9240,
+            "text": "JUNE CROSS",
+            "id": "T90"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 9176,
+            "end": 9200,
+            "text": "Correspondent June Cross",
+            "id": "T91"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8843,
+            "end": 8851,
+            "text": "WOODRUFF",
+            "id": "T92"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8825,
+            "end": 8841,
+            "text": "Coping With AIDS",
+            "id": "T93"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8797,
+            "end": 8823,
+            "text": "Farm Credit Administration",
+            "id": "T94"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8531,
+            "end": 8538,
+            "text": "MacNEIL",
+            "id": "T95"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8473,
+            "end": 8478,
+            "text": "Egypt",
+            "id": "T96"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8451,
+            "end": 8469,
+            "text": "Mubarak government",
+            "id": "T97"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8391,
+            "end": 8412,
+            "text": "President Anwar Sadat",
+            "id": "T98"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8352,
+            "end": 8357,
+            "text": "Egypt",
+            "id": "T99"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 5010,
+            "end": 5034,
+            "text": "Dallas-Ft. Worth airport",
+            "id": "T100"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8342,
+            "end": 8347,
+            "text": "Lotfi",
+            "id": "T101"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8272,
+            "end": 8285,
+            "text": "Dr. Ali Lotfi",
+            "id": "T102"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8242,
+            "end": 8265,
+            "text": "President Hosni Mubarak",
+            "id": "T103"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8176,
+            "end": 8207,
+            "text": "Prime Minister Kamal Hassan Ali",
+            "id": "T104"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 8129,
+            "end": 8134,
+            "text": "Egypt",
+            "id": "T105"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7992,
+            "end": 7998,
+            "text": "Beirut",
+            "id": "T106"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7912,
+            "end": 7924,
+            "text": "Bekaa Valley",
+            "id": "T107"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7848,
+            "end": 7853,
+            "text": "Zahle",
+            "id": "T108"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7821,
+            "end": 7828,
+            "text": "Lebanon",
+            "id": "T109"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7698,
+            "end": 7706,
+            "text": "WOODRUFF",
+            "id": "T110"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7581,
+            "end": 7593,
+            "text": "South Africa",
+            "id": "T111"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7488,
+            "end": 7500,
+            "text": "South Africa",
+            "id": "T112"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7421,
+            "end": 7425,
+            "text": "U.S.",
+            "id": "T113"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7269,
+            "end": 7281,
+            "text": "South Africa",
+            "id": "T114"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7247,
+            "end": 7262,
+            "text": "Gehrard de Kock",
+            "id": "T115"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7217,
+            "end": 7225,
+            "text": "New York",
+            "id": "T116"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7063,
+            "end": 7075,
+            "text": "South Africa",
+            "id": "T117"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7054,
+            "end": 7061,
+            "text": "MacNEIL",
+            "id": "T118"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 7003,
+            "end": 7015,
+            "text": "Rita Lavelle",
+            "id": "T119"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6924,
+            "end": 6937,
+            "text": "Supreme Court",
+            "id": "T120"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6432,
+            "end": 6435,
+            "text": "EPA",
+            "id": "T121"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6411,
+            "end": 6423,
+            "text": "RITA LAVELLE",
+            "id": "T122"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6297,
+            "end": 6305,
+            "text": "Congress",
+            "id": "T123"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6242,
+            "end": 6253,
+            "text": "Ms. Lavelle",
+            "id": "T124"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6230,
+            "end": 6240,
+            "text": "Pleasanton",
+            "id": "T125"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6170,
+            "end": 6191,
+            "text": "Toxic Waste Superfund",
+            "id": "T126"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6138,
+            "end": 6169,
+            "text": "Environmental Protection Agency",
+            "id": "T127"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6114,
+            "end": 6135,
+            "text": "Reagan administration",
+            "id": "T128"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6077,
+            "end": 6089,
+            "text": "Rita Lavelle",
+            "id": "T129"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 6059,
+            "end": 6069,
+            "text": "California",
+            "id": "T130"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15208,
+            "end": 15221,
+            "text": "MATHILDE KRIM",
+            "id": "T131"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15146,
+            "end": 15154,
+            "text": "Dr. Krim",
+            "id": "T132"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15121,
+            "end": 15144,
+            "text": "AIDS Medical Foundation",
+            "id": "T133"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15064,
+            "end": 15077,
+            "text": "Mathilde Krim",
+            "id": "T134"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14987,
+            "end": 14995,
+            "text": "WOODRUFF",
+            "id": "T135"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14757,
+            "end": 14768,
+            "text": "Los Angeles",
+            "id": "T136"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14591,
+            "end": 14596,
+            "text": "CROSS",
+            "id": "T137"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14179,
+            "end": 14203,
+            "text": "Anti-AIDS Citizens Group",
+            "id": "T138"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14163,
+            "end": 14177,
+            "text": "CLAUDE LINDSEY",
+            "id": "T139"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13870,
+            "end": 13881,
+            "text": "Ms. FLEMING",
+            "id": "T140"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13835,
+            "end": 13840,
+            "text": "CROSS",
+            "id": "T141"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13729,
+            "end": 13753,
+            "text": "Anti-AIDS Citizens Group",
+            "id": "T142"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13714,
+            "end": 13727,
+            "text": "ELLEN FLEMING",
+            "id": "T143"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13612,
+            "end": 13622,
+            "text": "Dr. Newman",
+            "id": "T144"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13556,
+            "end": 13561,
+            "text": "CROSS",
+            "id": "T145"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13462,
+            "end": 13481,
+            "text": "Carville, Louisiana",
+            "id": "T146"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13244,
+            "end": 13268,
+            "text": "Anti-AIDS Citizens Group",
+            "id": "T147"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 14630,
+            "end": 14636,
+            "text": "Robert",
+            "id": "T148"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13927,
+            "end": 13935,
+            "text": "\"ROBERT\"",
+            "id": "T149"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13227,
+            "end": 13242,
+            "text": "Dr. MATT NEWMAN",
+            "id": "T150"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13167,
+            "end": 13173,
+            "text": "Tacoma",
+            "id": "T151"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13112,
+            "end": 13128,
+            "text": "Washington State",
+            "id": "T152"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 13072,
+            "end": 13077,
+            "text": "CROSS",
+            "id": "T153"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12821,
+            "end": 12829,
+            "text": "\"ROBERT\"",
+            "id": "T154"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12746,
+            "end": 12765,
+            "text": "Seattle, Washington",
+            "id": "T155"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12707,
+            "end": 12713,
+            "text": "Robert",
+            "id": "T156"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12361,
+            "end": 12368,
+            "text": "Traynor",
+            "id": "T157"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12280,
+            "end": 12286,
+            "text": "United",
+            "id": "T158"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12024,
+            "end": 12030,
+            "text": "United",
+            "id": "T159"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 12015,
+            "end": 12022,
+            "text": "Traynor",
+            "id": "T160"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11980,
+            "end": 11985,
+            "text": "CROSS",
+            "id": "T161"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11613,
+            "end": 11619,
+            "text": "United",
+            "id": "T162"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11559,
+            "end": 11565,
+            "text": "United",
+            "id": "T163"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11539,
+            "end": 11550,
+            "text": "GAR TRAYNOR",
+            "id": "T164"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11467,
+            "end": 11480,
+            "text": "San Francisco",
+            "id": "T165"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11447,
+            "end": 11463,
+            "text": "United Air Lines",
+            "id": "T166"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11395,
+            "end": 11406,
+            "text": "Gar Traynor",
+            "id": "T167"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11170,
+            "end": 11175,
+            "text": "CROSS",
+            "id": "T168"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 11151,
+            "end": 11161,
+            "text": "RYAN WHITE",
+            "id": "T169"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20164,
+            "end": 20172,
+            "text": "Dr. Krim",
+            "id": "T170"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20119,
+            "end": 20129,
+            "text": "Dr. Kaplan",
+            "id": "T171"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20011,
+            "end": 20050,
+            "text": "Lambda Legal Defense and Education Fund",
+            "id": "T172"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19957,
+            "end": 19971,
+            "text": "Joe Tom Easely",
+            "id": "T173"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19772,
+            "end": 19795,
+            "text": "Dr. Helen Singer Kaplan",
+            "id": "T174"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19477,
+            "end": 19484,
+            "text": "MacNEIL",
+            "id": "T175"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19833,
+            "end": 19862,
+            "text": "Department of Human Sexuality",
+            "id": "T176"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19469,
+            "end": 19474,
+            "text": "Robin",
+            "id": "T177"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19445,
+            "end": 19453,
+            "text": "Dr. Krim",
+            "id": "T178"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19435,
+            "end": 19443,
+            "text": "WOODRUFF",
+            "id": "T179"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19401,
+            "end": 19409,
+            "text": "Dr. KRIM",
+            "id": "T180"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19320,
+            "end": 19328,
+            "text": "WOODRUFF",
+            "id": "T181"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19066,
+            "end": 19074,
+            "text": "Dr. KRIM",
+            "id": "T182"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19027,
+            "end": 19035,
+            "text": "WOODRUFF",
+            "id": "T183"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18490,
+            "end": 18498,
+            "text": "Dr. KRIM",
+            "id": "T184"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 18168,
+            "end": 18176,
+            "text": "WOODRUFF",
+            "id": "T185"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16744,
+            "end": 16750,
+            "text": "Africa",
+            "id": "T186"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16718,
+            "end": 16724,
+            "text": "Europe",
+            "id": "T187"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16645,
+            "end": 16653,
+            "text": "Dr. KRIM",
+            "id": "T188"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16548,
+            "end": 16554,
+            "text": "Africa",
+            "id": "T189"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16401,
+            "end": 16409,
+            "text": "WOODRUFF",
+            "id": "T190"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 16083,
+            "end": 16091,
+            "text": "Dr. KRIM",
+            "id": "T191"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15947,
+            "end": 15955,
+            "text": "WOODRUFF",
+            "id": "T192"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15725,
+            "end": 15733,
+            "text": "Dr. KRIM",
+            "id": "T193"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 15592,
+            "end": 15600,
+            "text": "WOODRUFF",
+            "id": "T194"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20307,
+            "end": 20330,
+            "text": "Dr. HELEN SINGER KAPLAN",
+            "id": "T195"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20371,
+            "end": 20376,
+            "text": "\"Bob\"",
+            "id": "T196"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20593,
+            "end": 20601,
+            "text": "Dr. Krim",
+            "id": "T197"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 20998,
+            "end": 21005,
+            "text": "MacNEIL",
+            "id": "T198"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21229,
+            "end": 21239,
+            "text": "Dr. KAPLAN",
+            "id": "T199"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21345,
+            "end": 21353,
+            "text": "Dr. KRIM",
+            "id": "T200"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21385,
+            "end": 21395,
+            "text": "Dr. KAPLAN",
+            "id": "T201"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21429,
+            "end": 21436,
+            "text": "MacNEIL",
+            "id": "T202"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21465,
+            "end": 21475,
+            "text": "Dr. KAPLAN",
+            "id": "T203"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 19870,
+            "end": 19911,
+            "text": "New Yjork Hospital Cornell Medical Center",
+            "id": "T204"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21483,
+            "end": 21490,
+            "text": "MacNEIL",
+            "id": "T205"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21618,
+            "end": 21634,
+            "text": "Washington State",
+            "id": "T206"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21637,
+            "end": 21651,
+            "text": "JOE TOM EASELY",
+            "id": "T207"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21702,
+            "end": 21710,
+            "text": "Dr. Krim",
+            "id": "T208"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 21999,
+            "end": 22024,
+            "text": "Lambda Legal Defense Fund",
+            "id": "T209"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22547,
+            "end": 22554,
+            "text": "MacNEIL",
+            "id": "T210"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22573,
+            "end": 22583,
+            "text": "Mr. EASELY",
+            "id": "T211"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22733,
+            "end": 22740,
+            "text": "MacNEIL",
+            "id": "T212"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 22899,
+            "end": 22909,
+            "text": "Mayor Koch",
+            "id": "T213"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23012,
+            "end": 23022,
+            "text": "Mr. EASELY",
+            "id": "T214"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23127,
+            "end": 23135,
+            "text": "Dr. Krim",
+            "id": "T215"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23144,
+            "end": 23152,
+            "text": "Dr. Krim",
+            "id": "T216"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23193,
+            "end": 23218,
+            "text": "Memorial Sloane Kettering",
+            "id": "T217"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23384,
+            "end": 23413,
+            "text": "National Institutes of Health",
+            "id": "T218"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23422,
+            "end": 23449,
+            "text": "Centers for Disease Control",
+            "id": "T219"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23530,
+            "end": 23538,
+            "text": "Dr. Krim",
+            "id": "T220"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23742,
+            "end": 23749,
+            "text": "MacNEIL",
+            "id": "T221"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23751,
+            "end": 23761,
+            "text": "Dr. Kaplan",
+            "id": "T222"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23815,
+            "end": 23823,
+            "text": "Dr. Krim",
+            "id": "T223"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 23897,
+            "end": 23907,
+            "text": "Dr. KAPLAN",
+            "id": "T224"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24163,
+            "end": 24171,
+            "text": "New York",
+            "id": "T225"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24231,
+            "end": 24239,
+            "text": "New York",
+            "id": "T226"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 24449,
+            "end": 24459,
+            "text": "Mr. EASELY",
+            "id": "T227"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25090,
+            "end": 25098,
+            "text": "New York",
+            "id": "T228"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25146,
+            "end": 25154,
+            "text": "New York",
+            "id": "T229"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25195,
+            "end": 25202,
+            "text": "MacNEIL",
+            "id": "T230"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25258,
+            "end": 25266,
+            "text": "New York",
+            "id": "T231"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25269,
+            "end": 25277,
+            "text": "Dr. KRIM",
+            "id": "T232"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25330,
+            "end": 25337,
+            "text": "MacNEIL",
+            "id": "T233"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25376,
+            "end": 25386,
+            "text": "Dr. Kaplan",
+            "id": "T234"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25428,
+            "end": 25438,
+            "text": "Dr. KAPLAN",
+            "id": "T235"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 25623,
+            "end": 25630,
+            "text": "MacNEIL",
+            "id": "T236"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26380,
+            "end": 26388,
+            "text": "Dr. KRIM",
+            "id": "T237"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26916,
+            "end": 26923,
+            "text": "MacNEIL",
+            "id": "T238"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26950,
+            "end": 26960,
+            "text": "Dr. KAPLAN",
+            "id": "T239"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 26971,
+            "end": 26979,
+            "text": "Dr. Krim",
+            "id": "T240"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27020,
+            "end": 27027,
+            "text": "MacNEIL",
+            "id": "T241"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27123,
+            "end": 27129,
+            "text": "Kokomo",
+            "id": "T242"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27232,
+            "end": 27242,
+            "text": "Mr. EASELY",
+            "id": "T243"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27268,
+            "end": 27278,
+            "text": "Dr. Kaplan",
+            "id": "T244"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27407,
+            "end": 27413,
+            "text": "Kokomo",
+            "id": "T245"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27438,
+            "end": 27460,
+            "text": "New Haven, Connecticut",
+            "id": "T246"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27500,
+            "end": 27507,
+            "text": "MacNEIL",
+            "id": "T247"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 27592,
+            "end": 27600,
+            "text": "Dr. KRIM",
+            "id": "T248"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28127,
+            "end": 28140,
+            "text": "New York City",
+            "id": "T249"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28702,
+            "end": 28709,
+            "text": "MacNEIL",
+            "id": "T250"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28747,
+            "end": 28751,
+            "text": "Judy",
+            "id": "T251"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28754,
+            "end": 28762,
+            "text": "WOODRUFF",
+            "id": "T252"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 28991,
+            "end": 29001,
+            "text": "June Cross",
+            "id": "T253"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29037,
+            "end": 29042,
+            "text": "CROSS",
+            "id": "T254"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29296,
+            "end": 29304,
+            "text": "Pentagon",
+            "id": "T255"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29373,
+            "end": 29386,
+            "text": "WILLIAM MAYER",
+            "id": "T256"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29388,
+            "end": 29406,
+            "text": "Defense Department",
+            "id": "T257"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 29837,
+            "end": 29842,
+            "text": "CROSS",
+            "id": "T258"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30100,
+            "end": 30105,
+            "text": "CROSS",
+            "id": "T259"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30318,
+            "end": 30336,
+            "text": "Dr. HERBERT PERKIN",
+            "id": "T260"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30338,
+            "end": 30363,
+            "text": "Irwin Memorial Blood Bank",
+            "id": "T261"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30365,
+            "end": 30378,
+            "text": "San Francisco",
+            "id": "T262"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30579,
+            "end": 30584,
+            "text": "CROSS",
+            "id": "T263"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 30886,
+            "end": 30900,
+            "text": "BOBBY REYNOLDS",
+            "id": "T264"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31104,
+            "end": 31109,
+            "text": "CROSS",
+            "id": "T265"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31171,
+            "end": 31181,
+            "text": "California",
+            "id": "T266"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31350,
+            "end": 31361,
+            "text": "PAUL CASTRO",
+            "id": "T267"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31506,
+            "end": 31518,
+            "text": "Mr. REYNOLDS",
+            "id": "T268"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31847,
+            "end": 31855,
+            "text": "WOODRUFF",
+            "id": "T269"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 31945,
+            "end": 31953,
+            "text": "Colorado",
+            "id": "T270"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32101,
+            "end": 32118,
+            "text": "Dr. Thomas Vernon",
+            "id": "T271"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32146,
+            "end": 32175,
+            "text": "Colorado Department of Health",
+            "id": "T272"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32177,
+            "end": 32187,
+            "text": "Dr. Vernon",
+            "id": "T273"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32254,
+            "end": 32271,
+            "text": "Dr. THOMAS VERNON",
+            "id": "T274"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32693,
+            "end": 32701,
+            "text": "Colorado",
+            "id": "T275"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32745,
+            "end": 32753,
+            "text": "WOODRUFF",
+            "id": "T276"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 32836,
+            "end": 32846,
+            "text": "Dr. VERNON",
+            "id": "T277"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33118,
+            "end": 33126,
+            "text": "WOODRUFF",
+            "id": "T278"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33212,
+            "end": 33222,
+            "text": "Dr. VERNON",
+            "id": "T279"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33766,
+            "end": 33774,
+            "text": "WOODRUFF",
+            "id": "T280"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 33909,
+            "end": 33919,
+            "text": "Dr. VERNON",
+            "id": "T281"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34562,
+            "end": 34570,
+            "text": "WOODRUFF",
+            "id": "T282"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 34688,
+            "end": 34698,
+            "text": "Dr. VERNON",
+            "id": "T283"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35275,
+            "end": 35283,
+            "text": "WOODRUFF",
+            "id": "T284"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35494,
+            "end": 35504,
+            "text": "Dr. VERNON",
+            "id": "T285"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 35978,
+            "end": 35986,
+            "text": "WOODRUFF",
+            "id": "T286"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36192,
+            "end": 36202,
+            "text": "Dr. VERNON",
+            "id": "T287"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36774,
+            "end": 36782,
+            "text": "WOODRUFF",
+            "id": "T288"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36784,
+            "end": 36794,
+            "text": "Dr. Vernon",
+            "id": "T289"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36810,
+            "end": 36815,
+            "text": "Robin",
+            "id": "T290"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36818,
+            "end": 36825,
+            "text": "MacNEIL",
+            "id": "T291"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36827,
+            "end": 36837,
+            "text": "Mr. Easely",
+            "id": "T292"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36864,
+            "end": 36872,
+            "text": "Colorado",
+            "id": "T293"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 36880,
+            "end": 36890,
+            "text": "Mr. EASELY",
+            "id": "T294"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37242,
+            "end": 37252,
+            "text": "Dr. Vernon",
+            "id": "T295"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 37828,
+            "end": 37831,
+            "text": "FDA",
+            "id": "T296"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38052,
+            "end": 38060,
+            "text": "Colorado",
+            "id": "T297"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38098,
+            "end": 38108,
+            "text": "New Jersey",
+            "id": "T298"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38256,
+            "end": 38266,
+            "text": "New Jersey",
+            "id": "T299"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38326,
+            "end": 38334,
+            "text": "Colorado",
+            "id": "T300"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38398,
+            "end": 38404,
+            "text": "Denver",
+            "id": "T301"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38422,
+            "end": 38429,
+            "text": "MacNEIL",
+            "id": "T302"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38472,
+            "end": 38482,
+            "text": "Mr. EASELY",
+            "id": "T303"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38711,
+            "end": 38718,
+            "text": "MacNEIL",
+            "id": "T304"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38734,
+            "end": 38742,
+            "text": "Dr. Krim",
+            "id": "T305"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38775,
+            "end": 38785,
+            "text": "Dr. Vernon",
+            "id": "T306"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 38836,
+            "end": 38844,
+            "text": "Dr. KRIM",
+            "id": "T307"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39140,
+            "end": 39147,
+            "text": "MacNEIL",
+            "id": "T308"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39356,
+            "end": 39364,
+            "text": "Dr. KRIM",
+            "id": "T309"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39377,
+            "end": 39384,
+            "text": "MacNEIL",
+            "id": "T310"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39473,
+            "end": 39481,
+            "text": "Dr. KRIM",
+            "id": "T311"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39533,
+            "end": 39540,
+            "text": "MacNEIL",
+            "id": "T312"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39623,
+            "end": 39631,
+            "text": "Dr. KRIM",
+            "id": "T313"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 39809,
+            "end": 39819,
+            "text": "Dr. Kaplan",
+            "id": "T314"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40182,
+            "end": 40189,
+            "text": "MacNEIL",
+            "id": "T315"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40212,
+            "end": 40220,
+            "text": "Colorado",
+            "id": "T316"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40236,
+            "end": 40246,
+            "text": "Dr. KAPLAN",
+            "id": "T317"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40428,
+            "end": 40441,
+            "text": "New York City",
+            "id": "T318"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40473,
+            "end": 40483,
+            "text": "New Jersey",
+            "id": "T319"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40683,
+            "end": 40690,
+            "text": "MacNEIL",
+            "id": "T320"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40732,
+            "end": 40742,
+            "text": "Dr. Vernon",
+            "id": "T321"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40748,
+            "end": 40758,
+            "text": "Dr. KAPLAN",
+            "id": "T322"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40784,
+            "end": 40792,
+            "text": "Dr. Krim",
+            "id": "T323"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 40989,
+            "end": 40997,
+            "text": "Dr. KRIM",
+            "id": "T324"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41514,
+            "end": 41521,
+            "text": "MacNEIL",
+            "id": "T325"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41549,
+            "end": 41559,
+            "text": "Dr. Vernon",
+            "id": "T326"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41565,
+            "end": 41575,
+            "text": "Mr. Easely",
+            "id": "T327"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41731,
+            "end": 41741,
+            "text": "Dr. VERNON",
+            "id": "T328"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41743,
+            "end": 41751,
+            "text": "Dr. Krim",
+            "id": "T329"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41756,
+            "end": 41766,
+            "text": "Dr. Kaplan",
+            "id": "T330"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 41919,
+            "end": 41928,
+            "text": "Red Cross",
+            "id": "T331"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42273,
+            "end": 42280,
+            "text": "MacNEIL",
+            "id": "T332"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42405,
+            "end": 42415,
+            "text": "Mr. EASELY",
+            "id": "T333"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42672,
+            "end": 42679,
+            "text": "MacNEIL",
+            "id": "T334"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42722,
+            "end": 42732,
+            "text": "Dr. KAPLAN",
+            "id": "T335"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42777,
+            "end": 42785,
+            "text": "Dr. KRIM",
+            "id": "T336"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42808,
+            "end": 42818,
+            "text": "Dr. KAPLAN",
+            "id": "T337"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 42950,
+            "end": 42958,
+            "text": "Dr. KRIM",
+            "id": "T338"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43257,
+            "end": 43264,
+            "text": "MacNEIL",
+            "id": "T339"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43408,
+            "end": 43418,
+            "text": "Dr. Vernon",
+            "id": "T340"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43423,
+            "end": 43431,
+            "text": "Colorado",
+            "id": "T341"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43433,
+            "end": 43441,
+            "text": "Dr. Krim",
+            "id": "T342"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43443,
+            "end": 43453,
+            "text": "Mr. Easely",
+            "id": "T343"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43458,
+            "end": 43468,
+            "text": "Dr. Kaplan",
+            "id": "T344"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43472,
+            "end": 43480,
+            "text": "New York",
+            "id": "T345"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43482,
+            "end": 43486,
+            "text": "Judy",
+            "id": "T346"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43488,
+            "end": 43506,
+            "text": "Farm Credit Crunch",
+            "id": "T347"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43508,
+            "end": 43516,
+            "text": "WOODRUFF",
+            "id": "T348"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43809,
+            "end": 43825,
+            "text": "Donald Wilkinson",
+            "id": "T349"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43835,
+            "end": 43854,
+            "text": "Wall Street Journal",
+            "id": "T350"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43859,
+            "end": 43877,
+            "text": "Farm Credit System",
+            "id": "T351"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43945,
+            "end": 43954,
+            "text": "Wilkinson",
+            "id": "T352"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43722,
+            "end": 43748,
+            "text": "Farm Credit Administration",
+            "id": "T353"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 43977,
+            "end": 43995,
+            "text": "Farm Credit System",
+            "id": "T354"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44128,
+            "end": 44146,
+            "text": "farm credit system",
+            "id": "T355"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44201,
+            "end": 44212,
+            "text": "Wall Street",
+            "id": "T356"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44366,
+            "end": 44378,
+            "text": "Kwame Holman",
+            "id": "T357"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44454,
+            "end": 44466,
+            "text": "KWAME HOLMAN",
+            "id": "T358"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44501,
+            "end": 44508,
+            "text": "America",
+            "id": "T359"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44598,
+            "end": 44609,
+            "text": "Wall Street",
+            "id": "T360"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44645,
+            "end": 44654,
+            "text": "farm belt",
+            "id": "T361"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44694,
+            "end": 44712,
+            "text": "Farm Credit System",
+            "id": "T362"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 44801,
+            "end": 44817,
+            "text": "Great Depression",
+            "id": "T363"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45286,
+            "end": 45307,
+            "text": "Congressman Jim Leach",
+            "id": "T364"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45281,
+            "end": 45285,
+            "text": "Iowa",
+            "id": "T365"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45310,
+            "end": 45324,
+            "text": "Rep. JIM LEACH",
+            "id": "T366"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45330,
+            "end": 45334,
+            "text": "Iowa",
+            "id": "T367"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45350,
+            "end": 45368,
+            "text": "Farm Credit System",
+            "id": "T368"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45411,
+            "end": 45417,
+            "text": "HOLMAN",
+            "id": "T369"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45821,
+            "end": 45839,
+            "text": "Farm Credit System",
+            "id": "T370"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45857,
+            "end": 45866,
+            "text": "NEIL HARL",
+            "id": "T371"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 45879,
+            "end": 45900,
+            "text": "Iowa State University",
+            "id": "T372"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46084,
+            "end": 46090,
+            "text": "HOLMAN",
+            "id": "T373"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46117,
+            "end": 46135,
+            "text": "Farm Credit System",
+            "id": "T374"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46330,
+            "end": 46340,
+            "text": "Rep. LEACH",
+            "id": "T375"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46520,
+            "end": 46526,
+            "text": "HOLMAN",
+            "id": "T376"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46541,
+            "end": 46551,
+            "text": "Ray Powell",
+            "id": "T377"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46602,
+            "end": 46615,
+            "text": "Creston, Iowa",
+            "id": "T378"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46618,
+            "end": 46628,
+            "text": "RAY POWELL",
+            "id": "T379"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 46857,
+            "end": 46863,
+            "text": "HOLMAN",
+            "id": "T380"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47102,
+            "end": 47115,
+            "text": "Creston, Iowa",
+            "id": "T381"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47233,
+            "end": 47238,
+            "text": "Omaha",
+            "id": "T382"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47297,
+            "end": 47311,
+            "text": "Tom Langemeier",
+            "id": "T383"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47353,
+            "end": 47360,
+            "text": "Creston",
+            "id": "T384"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47363,
+            "end": 47377,
+            "text": "TOM LANGEMEIER",
+            "id": "T385"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47714,
+            "end": 47727,
+            "text": "DON WILKINSON",
+            "id": "T386"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47739,
+            "end": 47765,
+            "text": "Farm Credit Administration",
+            "id": "T387"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 47988,
+            "end": 47994,
+            "text": "HOLMAN",
+            "id": "T388"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48065,
+            "end": 48083,
+            "text": "farm credit system",
+            "id": "T389"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48084,
+            "end": 48109,
+            "text": "Governor Donald Wilkinson",
+            "id": "T390"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48244,
+            "end": 48251,
+            "text": "Creston",
+            "id": "T391"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48470,
+            "end": 48488,
+            "text": "farm credit system",
+            "id": "T392"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48686,
+            "end": 48723,
+            "text": "Creston production credit association",
+            "id": "T393"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 48878,
+            "end": 48888,
+            "text": "LEO TUCKER",
+            "id": "T394"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49000,
+            "end": 49006,
+            "text": "HOLMAN",
+            "id": "T395"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49028,
+            "end": 49038,
+            "text": "Leo Tucker",
+            "id": "T396"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49126,
+            "end": 49145,
+            "text": "Creston association",
+            "id": "T397"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49373,
+            "end": 49383,
+            "text": "Mr. TUCKER",
+            "id": "T398"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49395,
+            "end": 49413,
+            "text": "farm credit system",
+            "id": "T399"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49565,
+            "end": 49568,
+            "text": "PCA",
+            "id": "T400"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49643,
+            "end": 49654,
+            "text": "DEBBIE HALL",
+            "id": "T401"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 49664,
+            "end": 49682,
+            "text": "Governor Wilkinson",
+            "id": "T402"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50028,
+            "end": 50034,
+            "text": "HOLMAN",
+            "id": "T403"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50064,
+            "end": 50083,
+            "text": "Creston association",
+            "id": "T404"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50112,
+            "end": 50116,
+            "text": "Iowa",
+            "id": "T405"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50117,
+            "end": 50142,
+            "text": "Congressman Jim Lightfoot",
+            "id": "T406"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50194,
+            "end": 50212,
+            "text": "Rep. JIM LIGHTFOOD",
+            "id": "T407"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50219,
+            "end": 50223,
+            "text": "Iowa",
+            "id": "T408"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50277,
+            "end": 50283,
+            "text": "HOLMAN",
+            "id": "T409"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50422,
+            "end": 50432,
+            "text": "Rep. LEACH",
+            "id": "T410"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50578,
+            "end": 50584,
+            "text": "HOLMAN",
+            "id": "T411"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50630,
+            "end": 50651,
+            "text": "Congressman Jim Leach",
+            "id": "T412"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50664,
+            "end": 50668,
+            "text": "Iowa",
+            "id": "T413"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50845,
+            "end": 50856,
+            "text": "Wall Street",
+            "id": "T414"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 50876,
+            "end": 50894,
+            "text": "Farm Credit System",
+            "id": "T415"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51413,
+            "end": 51421,
+            "text": "Mr. HARL",
+            "id": "T416"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51540,
+            "end": 51560,
+            "text": "Continental Illinois",
+            "id": "T417"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51582,
+            "end": 51593,
+            "text": "Continental",
+            "id": "T418"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51610,
+            "end": 51621,
+            "text": "Continental",
+            "id": "T419"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51718,
+            "end": 51724,
+            "text": "HOLMAN",
+            "id": "T420"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 51901,
+            "end": 51920,
+            "text": "Spokane, Washington",
+            "id": "T421"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52015,
+            "end": 52020,
+            "text": "Omaha",
+            "id": "T422"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52059,
+            "end": 52078,
+            "text": "Creston association",
+            "id": "T423"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52132,
+            "end": 52150,
+            "text": "Farm Credit System",
+            "id": "T424"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52323,
+            "end": 52333,
+            "text": "Rep. LEACH",
+            "id": "T425"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52470,
+            "end": 52484,
+            "text": "Gov. WILKINSON",
+            "id": "T426"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52714,
+            "end": 52722,
+            "text": "Mr. HARL",
+            "id": "T427"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 52740,
+            "end": 52750,
+            "text": "Washington",
+            "id": "T428"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53007,
+            "end": 53013,
+            "text": "HOLMAN",
+            "id": "T429"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53231,
+            "end": 53238,
+            "text": "Creston",
+            "id": "T430"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53240,
+            "end": 53244,
+            "text": "Iowa",
+            "id": "T431"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53253,
+            "end": 53271,
+            "text": "Farm Credit System",
+            "id": "T432"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53274,
+            "end": 53282,
+            "text": "WOODRUFF",
+            "id": "T433"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53329,
+            "end": 53347,
+            "text": "Farm Credit System",
+            "id": "T434"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53555,
+            "end": 53563,
+            "text": "Congress",
+            "id": "T435"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53565,
+            "end": 53570,
+            "text": "Robin",
+            "id": "T436"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53573,
+            "end": 53580,
+            "text": "MacNEIL",
+            "id": "T437"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53623,
+            "end": 53629,
+            "text": "Moscow",
+            "id": "T438"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53688,
+            "end": 53714,
+            "text": "Farm Credit Administration",
+            "id": "T439"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53766,
+            "end": 53778,
+            "text": "South Africa",
+            "id": "T440"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53815,
+            "end": 53829,
+            "text": "Delta Airlines",
+            "id": "T441"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53915,
+            "end": 53919,
+            "text": "Judy",
+            "id": "T442"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53922,
+            "end": 53930,
+            "text": "WOODRUFF",
+            "id": "T443"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53944,
+            "end": 53949,
+            "text": "Robin",
+            "id": "T444"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 53962,
+            "end": 53970,
+            "text": "NewsHour",
+            "id": "T445"
+          }
+        },
+        {
+          "@type": "http://vocab.lappsgrid.org/NamedEntity",
+          "properties": {
+            "document": "d1",
+            "start": 54018,
+            "end": 54031,
+            "text": "Judy Woodruff",
+            "id": "T446"
+          }
+        }
+      ]
+    }
+  ]
+}
