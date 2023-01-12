@@ -2,10 +2,10 @@
 
 Creates MMIF or CoNNL files from the Brat annotation files.
 
-$ process.py [-h] [--format (mmif|connl)] [--export] PROJECT_DIR
+$ process.py [-h] [--format (mmif|connl)] [--export] BATCH_DIR
 
-Takes all Brat annotations file in the 'PROJECT_DIR/annotations' directory and
-write all results to the "PROJECT_DIR/working" directory. The script generates
+Takes all Brat annotations file in the 'BATCH_DIR/annotations' directory and
+write all results to the "BATCH_DIR/working" directory. The script generates
 .mmif files (the default) or .conll.tsv files. If the format is "connl" then the
 working directory needs to include the text files, which for copyright reasons
 cannot be included in this repository.
@@ -47,7 +47,7 @@ WORKING_DIR = Path('./working')
 def parse_arguments():
     ap = argparse.ArgumentParser(
         description='Convert uploaded Brat annotation files with named entities')
-    ap.add_argument('project', help='Project to convert files for')
+    ap.add_argument('batch', help='Batch to convert files for')
     ap.add_argument('--format', default="mmif",
                     help='Desired output format: "mmif" (default) or "connl"')
     ap.add_argument('--export', default=False, action='store_true',
@@ -111,26 +111,26 @@ if __name__ == '__main__':
 
     options = parse_arguments()
 
-    project_dir = Path(options.project).resolve()
-    annotations_dir = project_dir / 'annotations'
-    working_dir = project_dir / 'working'
+    batch_dir = Path(options.batch).resolve()
+    annotations_dir = batch_dir / 'annotations'
+    working_dir = batch_dir / 'working'
     working_dir.mkdir(exist_ok=True)
 
     print(f'>>> Converting files into the {options.format.upper()} format')
-    print(f'>>> {annotations_dir}')
-    print(f'>>> --> {working_dir}')
+    print(f'    {annotations_dir}')
+    print(f'    --> {working_dir}')
     if options.format == 'mmif':
         convert_into_mmif(annotations_dir, working_dir)
     elif options.format == 'connl':
         convert_into_connl(annotations_dir, working_dir)
 
     if options.export:
-        proj_name = Path(options.project).resolve().name
+        proj_name = Path(options.batch).resolve().name
         repo_dir = (Path(__file__).parent / '..' / '..').resolve()
         gold_dir = repo_dir / 'golds' / 'ner' / proj_name
         gold_dir.mkdir(parents=True, exist_ok=True)
         print(f'>>> Exporting {proj_name} annotations to the gold directory')
-        print(f'>>> --> {gold_dir}')
+        print(f'    --> {gold_dir}')
         if options.format == 'connl':
             for tsv_file in working_dir.glob('*.conll.tsv'):
                 shutil.copy(str(tsv_file), gold_dir)
