@@ -1,0 +1,173 @@
+T1	person 0 14	ROBERT MacNEIL
+T2	person 171 175	Ford
+T3	person 180 186	Carter
+T4	person 351 355	Ford
+T5	person 447 453	Carter
+T6	organization 495 503	Congress
+T7	organization 595 626	National Organization for Women
+T8	person 1183 1191	Mr. Ford
+T9	person 1262 1273	GERALD FORD
+T10	person 1416 1431	Governor Carter
+T11	person 1785 1792	MacNEIL
+T12	person 1934 1946	Jimmy Carter
+T13	person 2168 2178	Mr. Carter
+T14	location 2285 2307	Scranton, Pennsylvania
+T15	person 2390 2400	JIM LEHRER
+T16	person 2481 2493	Jimmy Carter
+T17	location 2563 2567	Iowa
+T18	person 2781 2787	Carter
+T19	person 2839 2845	Carter
+T20	person 3064 3077	Ronald Reagan
+T21	organization 3288 3297	Democrats
+T22	organization 3486 3499	Supreme Court
+T23	person 3610 3625	Ellen McCormick
+T24	location 3631 3642	Long island
+T25	person 3705 3720	ELLEN McCORMICK
+T26	person 3953 3959	LEHRER
+T27	organization 3986 3997	Republicans
+T28	person 4008 4019	Gerald Ford
+T29	person 4099 4112	Ronald Reagan
+T30	person 4306 4313	MacNEIL
+T31	person 4315 4341	The Reverend James Ratigan
+T32	organization 4362 4402	National Federation of Priests` Councils
+T33	person 4404 4418	Father Ratigan
+T34	person 4639 4652	JAMES RATIGAN
+T35	person 4744 4757	Cardinal Cook
+T36	person 5575 5582	MacNEIL
+T38	person 5713 5720	RATIGAN
+T39	person 5998 6005	MacNEIL
+T41	person 6232 6239	RATIGAN
+T43	person 6619 6626	MacNEIL
+T44	organization 6669 6684	Catholic Church
+T46	person 6805 6812	RATIGAN
+T47	person 7207 7214	MacNEIL
+T48	person 7227 7230	Jim
+T49	person 7233 7239	LEHRER
+T50	person 7241 7246	Robin
+T51	person 7248 7270	Monsignor James McHugh
+T52	organization 7290 7327	Pastoral Plan for Pro-Life Activities
+T53	organization 7336 7355	Bishops` Conference
+T54	person 7455 7469	Father Ratigan
+T55	person 7643 7655	JAMES McHUGH
+T56	person 7680 7694	Father Ratigan
+T58	person 8166 8172	LEHRER
+T60	person 8251 8257	McHUGH
+T61	person 8776 8782	LEHRER
+T62	person 8856 8870	President Ford
+T63	person 8875 8887	Jimmy Carter
+T64	person 9120 9126	MCHUGH
+T65	person 9163 9177	President Ford
+T66	person 9582 9597	Governor Carter
+T67	person 9877 9883	LEHRER
+T68	person 9930 9944	Father Ratigan
+T69	person 10031 10037	McHUGH
+T70	person 10470 10476	LEHRER
+T71	person 10502 10508	McHUGH
+T72	person 10984 10990	LEHRER
+T74	organization 11093 11108	Catholic Church
+T75	person 11185 11191	McHUGH
+T78	person 11760 11766	LEHRER
+T79	person 11790 11804	Betsey Stengel
+T80	organization 11834 11873	Religious Coalition for Abortion Rights
+T81	person 11906 11917	Mr. Stengel
+T82	person 12019 12033	BETSEY STENGEL
+T83	person 12334 12344	Mr. Carter
+T84	person 12596 12602	LEHRER
+T85	person 12665 12672	STENGEL
+T86	person 12840 12846	Carter
+T87	person 13006 13014	Mr. Ford
+T88	person 13019 13034	Governor Carter
+T89	person 13067 13073	LEHRER
+T90	person 13109 13116	STENGEL
+T91	person 13160 13166	LEHRER
+T92	person 13198 13205	STENGEL
+T93	person 13358 13364	Carter
+T94	person 13659 13665	LEHRER
+T95	person 13878 13885	STENGEL
+T96	person 13988 13996	Mr. Ford
+T97	person 14028 14043	Governor Carter
+T98	person 14146 14150	Ford
+T99	person 14189 14199	Mr. Carter
+T100	person 14602 14608	LEHRER
+T101	person 14696 14709	Father McHugh
+T102	person 14714 14728	Father Ratigan
+T103	person 14838 14845	STENGEL
+T104	person 15022 15028	LEHRER
+T105	person 15080 15087	STENGEL
+T106	person 15292 15296	Ford
+T107	person 15847 15853	LEHRER
+T108	person 15866 15871	Robin
+T109	person 15874 15881	MacNEIL
+T110	person 15883 15899	Jeffrey Pressman
+T111	organization 15936 15942	M.I.T.
+T112	person 16007 16019	Mr. Pressman
+T113	person 16170 16186	JEFFREY PRESSMAN
+T114	person 16197 16208	Mr. MacNeil
+T115	location 16417 16421	Iowa
+T116	person 16511 16526	Ellen McCormick
+T117	person 16731 16745	President Ford
+T118	person 17313 17320	MacNEIL
+T119	person 17328 17342	President Ford
+T120	person 17363 17374	James Baker
+T121	person 17605 17613	Mr. Ford
+T122	person 17681 17689	PRESSMAN
+T123	person 17920 17930	Mr. Carter
+T124	person 18123 18132	Mr. Baker
+T125	person 18148 18162	President Ford
+T126	person 18346 18353	MacNEIL
+T127	person 18402 18416	Father Ratigan
+T128	person 18708 18715	RATIGAN
+T129	organization 18818 18826	Congress
+T130	person 19320 19327	MacNEIL
+T131	person 19472 19486	Father Ratigan
+T133	person 19569 19575	McHUGH
+T134	person 20419 20426	MacNEIL
+T135	person 20451 20465	Father Ratigan
+T136	location 20605 20609	Rome
+T137	person 20922 20928	McHUGH
+T140	person 21506 21521	Governor Carter
+T141	person 21525 21533	Mr. Ford
+T142	person 21923 21930	MacNEIL
+T143	person 21935 21944	Mr. Baker
+T144	person 22037 22043	McHUGH
+T145	person 22557 22564	MacNEIL
+T146	person 22595 22598	Jim
+T147	person 22601 22607	LEHRER
+T148	person 22668 22673	Robin
+T149	person 22948 22959	Ms. Stengel
+T150	person 22962 22969	STENGEL
+T151	person 23651 23657	LEHRER
+T152	person 23659 23671	Dr. Pressman
+T153	person 23877 23885	PRESSMAN
+T154	person 23893 23903	Mr. Lehrer
+T155	person 24099 24109	Lou Harris
+T156	location 24215 24223	New York
+T157	location 24225 24233	Illinois
+T158	location 24235 24247	Pennsylvania
+T159	location 24252 24260	Michigan
+T160	person 24499 24505	LEHRER
+T161	person 24534 24542	PRESSMAN
+T162	person 24661 24673	Jimmy Carter
+T163	person 24876 24888	Jimmy Carter
+T164	person 25117 25133	Monsignor McHugh
+T165	organization 25430 25443	Supreme Court
+T166	person 25669 25675	LEHRER
+T167	person 25677 25691	Father Ratigan
+T168	person 25822 25834	Dr. Pressman
+T169	person 25850 25857	RATIGAN
+T171	person 26406 26412	LEHRER
+T172	person 26414 26427	Father McHugh
+T173	person 26443 26449	McHUGH
+T174	person 26729 26735	LEHRER
+T175	person 26776 26782	McHUGH
+T176	person 26959 26965	LEHRER
+T177	person 26989 26994	Robin
+T178	person 26997 27004	MacNEIL
+T179	person 27019 27022	Jim
+T180	person 27053 27063	Jim Lehrer
+T181	person 27105 27119	Robert MacNeil
+T182	publication_title 3457 3469	Constitution
+T183	publication_title 5824 5836	Constitution
+T184	organization 17788 17802	New York Times
+T185	organization 17803 17806	CBS
+T186	event 15979 16005	1976 Presidential election

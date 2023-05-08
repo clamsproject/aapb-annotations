@@ -1,0 +1,522 @@
+T1	person 2 12	JIM LEHRER
+T2	person 32 42	Jim Lehrer
+T3	program_title 51 59	NewsHour
+T4	person 172 182	Judd Gregg
+T5	person 187 198	Kent Conrad
+T6	location 243 249	Israel
+T7	person 370 384	John Feinstein
+T8	event 418 428	Super Bowl
+T9	program_title 432 444	NEWS SUMMARY
+T10	person 446 456	JIM LEHRER
+T11	person 458 472	President Bush
+T12	publication_title 482 493	2006 budget
+T13	organization 497 505	Congress
+T14	person 856 868	Nancy Pelosi
+T15	event 909 913	Iraq
+T16	publication_title 918 933	Social Security
+T17	program_title 1019 1031	News Summary
+T18	location 1033 1039	Israel
+T19	person 1171 1200	Israeli Prime Minister Sharon
+T20	location 1257 1262	Egypt
+T21	person 1139 1166	Palestinian President Abbas
+T22	person 1367 1380	RAANAN GISSIN
+T23	person 1644 1654	JIM LEHRER
+T24	location 1756 1765	West Bank
+T25	person 1795 1823	U.S. Secretary of State Rice
+T26	person 1853 1868	President Abbas
+T27	person 1921 1935	President Bush
+T28	location 1939 1949	Washington
+T29	location 1968 1972	U.S.
+T30	person 1873 1894	Prime Minister Sharon
+T31	person 2002 2018	CONDOLEEZZA RICE
+T32	location 2144 2157	United States
+T33	location 2167 2180	United States
+T34	person 2242 2252	JIM LEHRER
+T35	location 2360 2364	Iraq
+T36	location 2375 2382	Baqouba
+T37	location 2451 2456	Mosul
+T38	location 2561 2566	Mosul
+T39	location 2637 2641	U.S.
+T40	location 2724 2728	Iraq
+T41	person 2759 2785	Grand Ayatollah al-Sistani
+T42	organization 3074 3078	U.N.
+T43	person 3079 3102	Secretary-General Annan
+T44	location 3178 3182	Iraq
+T45	person 2934 2955	Prime Minister Allawi
+T46	location 3312 3316	Iraq
+T47	location 3465 3478	Massachusetts
+T48	event 3515 3550	Catholic Church's sex abuse scandal
+T49	person 3569 3581	Paul Shanley
+T50	person 3602 3611	Cambridge
+T51	person 3752 3759	Shanley
+T52	organization 3809 3820	Wall Street
+T53	organization 3832 3860	Dow Jones Industrial Average
+T54	organization 3910 3916	NASDAQ
+T55	location 3964 3970	Boston
+T56	organization 4044 4064	New England Patriots
+T57	event 4081 4091	Super Bowl
+T58	organization 4107 4126	Philadelphia Eagles
+T59	location 4147 4168	Jacksonville, Florida
+T60	organization 4177 4188	New England
+T61	organization 4197 4200	NFL
+T62	event 4276 4286	Super Bowl
+T63	person 4369 4374	Gregg
+T64	person 4379 4385	Conrad
+T65	location 4389 4400	Middle East
+T66	program_title 4431 4462	FOCUS - PRIORITIES AND PROGRAMS
+T67	person 4464 4474	JIM LEHRER
+T68	person 4476 4490	President Bush
+T69	person 4558 4570	Kwame Holman
+T70	person 4594 4606	KWAME HOLMAN
+T71	organization 4625 4647	House Budget Committee
+T72	location 4649 4655	Kansas
+T73	person 4667 4675	Jim Ryun
+T74	person 4856 4868	KWAME HOLMAN
+T75	person 5037 5050	Ronald Reagan
+T76	person 5105 5119	President Bush
+T77	person 5143 5167	PRESIDENT GEORGE W. BUSH
+T78	organization 5321 5329	Congress
+T79	person 5443 5455	KWAME HOLMAN
+T80	organization 5490 5498	Congress
+T81	organization 5772 5778	Senate
+T82	person 5797 5807	Harry Reid
+T83	person 5968 5995	budget director Josh Bolten
+T84	person 6022 6036	President Bush
+T85	person 6047 6058	JOSH BOLTEN
+T86	organization 6153 6157	Hill
+T87	organization 6210 6218	Congress
+T88	organization 6319 6327	Congress
+T89	person 6419 6431	KWAME HOLMAN
+T90	person 6781 6803	Budget Director Bolten
+T91	organization 6812 6820	Congress
+T92	person 6990 7001	JOSH BOLTEN
+T93	organization 7268 7276	Congress
+T94	person 7280 7292	KWAME HOLMAN
+T95	publication_title 7690 7698	Medicaid
+T96	organization 7779 7802	Army Corps of Engineers
+T97	organization 7861 7869	Congress
+T98	organization 7945 7951	Amtrak
+T99	organization 7992 8001	Democrats
+T100	person 8059 8070	John Spratt
+T101	location 8074 8088	South Carolina
+T102	organization 8116 8138	House Budget Committee
+T103	person 8142 8158	REP. JOHN SPRATT
+T104	organization 8494 8502	Congress
+T105	person 8558 8570	KWAME HOLMAN
+T106	organization 8572 8581	Democrats
+T107	location 8742 8746	Iraq
+T108	location 8751 8762	Afghanistan
+T109	publication_title 8816 8831	Social Security
+T110	person 8833 8855	Budget Director Bolten
+T111	person 8859 8870	JOSH BOLTEN
+T112	publication_title 9013 9028	Social Security
+T113	publication_title 9103 9111	Congress
+T114	person 9363 9375	KWAME HOLMAN
+T115	person 9447 9455	Mr. Bush
+T116	organization 9490 9499	Democrats
+T117	location 9570 9582	North Dakota
+T118	person 9585 9596	Kent Conrad
+T119	person 9599 9615	SEN. KENT CONRAD
+T120	publication_title 9750 9765	Social Security
+T121	publication_title 9783 9791	Medicare
+T122	person 9966 9978	KWAME HOLMAN
+T123	organization 9980 9988	Congress
+T124	organization 10080 10085	House
+T125	organization 10090 10096	Senate
+T126	organization 10110 10117	Capitol
+T127	person 10121 10131	JIM LEHRER
+T128	person 10133 10148	Margaret Warner
+T129	person 10206 10221	MARGARET WARNER
+T130	organization 10258 10264	Senate
+T131	person 10354 10369	Sen. Judd Gregg
+T132	location 10373 10386	New Hampshire
+T133	organization 10410 10433	Senate Budget Committee
+T134	person 10439 10455	Sen. Kent Conrad
+T135	location 10459 10471	North Dakota
+T136	person 10530 10540	Sen. Gregg
+T137	person 10687 10702	SEN. JUDD GREGG
+T138	publication_title 10920 10928	Medicaid
+T139	person 11243 11258	MARGARET WARNER
+T140	person 11264 11275	Sen. Conrad
+T141	person 11361 11377	SEN. KENT CONRAD
+T142	publication_title 11810 11825	Social Security
+T143	person 11927 11942	MARGARET WARNER
+T144	person 11959 11975	SEN. KENT CONRAD
+T145	person 12229 12244	MARGARET WARNER
+T146	person 12246 12256	Sen. Gregg
+T147	organization 12328 12337	Democrats
+T148	person 12514 12529	SEN. JUDD GREGG
+T149	location 12931 12935	Iran
+T150	location 12939 12943	Iraq
+T151	location 12953 12957	Iraq
+T152	location 12961 12972	Afghanistan
+T153	location 13108 13120	North Dakota
+T154	person 13402 13417	MARGARET WARNER
+T155	person 13526 13541	SEN. JUDD GREGG
+T156	person 13569 13584	MARGARET WARNER
+T157	event 13667 13675	Iraq War
+T158	person 13679 13694	SEN. JUDD GREGG
+T159	person 14618 14633	MARGARET WARNER
+T160	person 14635 14646	Sen. Conrad
+T161	organization 14666 14675	Democrats
+T162	person 14692 14708	SEN. KENT CONRAD
+T163	organization 14999 15018	Bush administration
+T164	location 15857 15864	America
+T165	person 15918 15933	MARGARET WARNER
+T166	person 15951 15962	Sen. Conrad
+T167	person 15968 15983	SEN. JUDD GREGG
+T168	person 16038 16053	MARGARET WARNER
+T169	person 16062 16077	SEN. JUDD GREGG
+T170	publication_title 16356 16364	Medicare
+T171	publication_title 16481 16489	Medicare
+T172	publication_title 16753 16761	Medicaid
+T173	person 17356 17371	MARGARET WARNER
+T174	person 17384 17395	Sen. Conrad
+T175	person 17732 17748	SEN. KENT CONRAD
+T176	publication_title 17849 17861	cops program
+T177	publication_title 17877 17889	Cops program
+T178	publication_title 18514 18522	Medicaid
+T179	person 19059 19074	MARGARET WARNER
+T180	person 19095 19105	Sen. Gregg
+T181	person 19167 19178	Sen. Conrad
+T182	organization 19299 19305	Amtrak
+T183	organization 19361 19373	Capitol Hill
+T184	organization 19406 19417	Republicans
+T185	person 19475 19490	SEN. JUDD GREGG
+T186	person 19532 19543	Sen. Conrad
+T187	location 19588 19600	North Dakota
+T188	publication_title 19647 19655	Medicaid
+T189	organization 19880 19888	Congress
+T190	organization 19938 19949	White House
+T191	organization 20057 20068	White House
+T192	organization 20115 20123	Congress
+T193	person 20460 20475	MARGARET WARNER
+T194	person 20493 20504	Sen. Conrad
+T195	person 20625 20641	SEN. KENT CONRAD
+T196	person 20686 20696	Sen. Gregg
+T197	person 21011 21026	MARGARET WARNER
+T198	person 21028 21039	Sen. Conrad
+T199	person 21307 21323	SEN. KENT CONRAD
+T200	person 21909 21924	MARGARET WARNER
+T201	person 21926 21936	Sen. Gregg
+T202	person 22019 22034	SEN. JUDD GREGG
+T203	publication_title 22937 22952	Social Security
+T204	publication_title 23267 23282	Social Security
+T205	person 23400 23415	MARGARET WARNER
+T206	person 23421 23431	Sen. Gregg
+T207	publication_title 23479 23494	Social Security
+T208	publication_title 23748 23763	Social Security
+T209	person 23799 23814	SEN. JUDD GREGG
+T210	publication_title 23822 23837	Social Security
+T211	person 24728 24743	MARGARET WARNER
+T212	person 24745 24756	Sen. Conrad
+T213	publication_title 24810 24825	Social Security
+T214	organization 24937 24945	Congress
+T215	organization 24954 24960	Senate
+T216	person 24994 25010	SEN. KENT CONRAD
+T217	publication_title 25342 25357	Social Security
+T218	person 25770 25785	MARGARET WARNER
+T219	person 25787 25798	Sen. Conrad
+T220	person 25803 25817	Chairman Gregg
+T221	person 25837 25852	SEN. JUDD GREGG
+T222	person 25867 25877	JIM LEHRER
+T223	program_title 25900 25908	NewsHour
+T224	location 25952 25963	Middle East
+T225	event 26016 26026	Super Bowl
+T226	program_title 26029 26048	FOCUS- TIME OF HOPE
+T227	person 26050 26060	JIM LEHRER
+T228	location 26066 26077	Middle East
+T229	person 26086 26096	Ray Suarez
+T230	person 26112 26122	RAY SUAREZ
+T231	person 26149 26161	Ariel Sharon
+T232	person 26167 26180	Mahmoud Abbas
+T233	organization 26217 26238	Palestinian Authority
+T234	location 26323 26345	Sharm-el-sheikh, Egypt
+T235	location 26460 26495	Secretary of state Condoleezza Rice
+T236	person 26585 26589	Rice
+T237	organization 26598 26607	U.S. Army
+T238	person 26683 26693	RAY SUAREZ
+T239	program_title 26738 26746	Newsweek
+T240	location 26749 26758	Jerusalem
+T241	person 26774 26784	Dan Ephron
+T242	person 26788 26791	Dan
+T243	person 26807 26811	Rice
+T244	location 26884 26897	United States
+T245	location 26901 26912	Middle East
+T246	person 26926 26936	DAN EPHRON
+T247	person 27217 27230	Mahmoud Abbas
+T248	location 27464 27477	United States
+T249	person 27492 27502	RAY SUAREZ
+T250	person 27512 27533	Lt. Gen. William Ward
+T251	person 27580 27590	DAN EPHRON
+T252	person 27665 27679	Secretary Rice
+T253	location 27737 27750	United States
+T254	location 27855 27864	Jerusalem
+T255	location 27869 27877	Ramallah
+T256	location 27953 27957	U.S.
+T257	location 28148 28161	United States
+T258	location 28205 28211	Israel
+T259	person 28593 28603	RAY SUAREZ
+T260	person 28610 28623	Lt. Gen. Ward
+T261	person 28760 28770	DAN EPHRON
+T262	person 29010 29023	Yasser Arafat
+T263	location 29128 29132	U.S.
+T264	location 29269 29278	West Bank
+T265	location 29283 29287	Gaza
+T266	person 29438 29451	Mahmoud Abbas
+T267	location 29646 29659	United States
+T268	person 29746 29756	RAY SUAREZ
+T269	person 29758 29771	Mahmoud Abbas
+T270	organization 29828 29830	PA
+T271	person 29975 29985	DAN EPHRON
+T272	person 30261 30274	Mahmoud Abbas
+T273	organization 30471 30476	Hamas
+T274	person 30654 30667	Mahmoud Abbas
+T275	person 30752 30762	RAY SUAREZ
+T276	location 30872 30887	Sharm el-Sheikh
+T277	person 30938 30948	DAN EPHRON
+T278	person 31559 31576	President Mubarak
+T279	person 31581 31594	King Abdullah
+T280	location 31598 31603	Egypt
+T281	location 31608 31614	Jordan
+T282	person 31649 31676	Prime Minister Ariel Sharon
+T283	person 31872 31884	Ariel Sharon
+T284	person 31899 31909	RAY SUAREZ
+T285	person 31921 31935	Secretary Rice
+T286	person 32125 32135	DAN EPHRON
+T287	location 32197 32210	United States
+T288	location 32432 32445	United States
+T289	person 32673 32687	Secretary Rice
+T290	organization 32706 32725	Bush administration
+T291	person 32840 32857	President Mubarak
+T292	person 32866 32894	Egyptian President's Mubarak
+T293	person 32942 32955	ecretary Rice
+T294	person 33049 33066	President Mubarak
+T295	person 33070 33080	RAY SUAREZ
+T296	person 33082 33092	Dan Ephron
+T297	publication_title 33099 33116	Newsweek Magazine
+T298	person 33146 33156	DAN EPHRON
+T299	program_title 33171 33193	FOCUS - MEDICAL ERRORS
+T300	person 33195 33205	JIM LEHRER
+T301	person 33279 33292	Susan Dentzer
+T302	organization 33414 33447	Henry J. Kaiser Family Foundation
+T303	person 33451 33468	DR. ROSS FLETCHER
+T304	person 33484 33496	Mr. Hilliard
+T305	person 33519 33532	SUSAN DENTZER
+T306	person 33539 33556	Dr. Ross Fletcher
+T307	organization 33585 33633	Washington, DC Veterans' Administration Hospital
+T308	person 33849 33866	DR. ROSS FLETCHER
+T309	person 33890 33903	SUSAN DENTZER
+T310	person 34015 34023	Fletcher
+T311	organization 34033 34035	VA
+T312	person 34062 34079	DR. ROSS FLETCHER
+T313	person 34584 34597	SUSAN DENTZER
+T314	organization 34603 34605	VA
+T315	organization 34915 34936	Institute of Medicine
+T316	publication_title 34946 34961	to err is human
+T317	location 35015 35019	U.S.
+T318	person 35213 35229	Dr. Lucian Leape
+T319	organization 35237 35268	Harvard School of Public Health
+T320	person 35272 35288	DR. LUCIAN LEAPE
+T321	organization 35294 35315	Institute of Medicine
+T322	person 35551 35564	SUSAN DENTZER
+T323	person 35570 35575	Leape
+T324	person 35655 35672	DR. ROSS FLETCHER
+T325	organization 35701 35709	Congress
+T326	person 35822 35835	SUSAN DENTZER
+T327	person 35847 35865	Dr. Robert Wachter
+T328	organization 35873 35897	University of California
+T329	location 35901 35914	San Francisco
+T330	person 35955 35973	DR. ROBERT WACHTER
+T331	person 36231 36244	SUSAN DENTZER
+T332	organization 36374 36376	VA
+T333	person 36413 36432	Dr. Jonathan Perlin
+T334	organization 36448 36450	VA
+T335	person 36511 36530	DR. JONATHAN PERLIN
+T336	organization 36572 36574	VA
+T337	person 36780 36793	SUSAN DENTZER
+T338	organization 36852 36854	VA
+T339	person 36903 36915	James Bagian
+T340	person 36937 36943	Bagian
+T341	organization 36997 37001	NASA
+T342	person 37072 37084	JAMES BAGIAN
+T343	person 37322 37335	SUSAN DENTZER
+T344	person 37596 37608	JAMES BAGIAN
+T345	person 37863 37876	SUSAN DENTZER
+T346	person 37878 37884	Bagian
+T347	organization 37919 37921	VA
+T348	organization 38045 38047	VA
+T349	organization 38116 38118	VA
+T350	person 38378 38390	JAMES BAGIAN
+T351	person 38651 38664	SUSAN DENTZER
+T352	person 38666 38672	Bagian
+T353	person 38724 38736	JAMES BAGIAN
+T354	person 38799 38812	SUSAN DENTZER
+T355	organization 38814 38816	VA
+T356	person 39025 39031	Bagian
+T357	location 39130 39134	U.S.
+T358	organization 39303 39365	Joint Commission for Accreditation of Healthcare Organizations
+T359	person 39434 39440	Bagian
+T360	organization 39456 39458	VA
+T361	person 39530 39542	JAMES BAGIAN
+T362	person 39816 39829	SUSAN DENTZER
+T363	publication_title 39957 39972	Social Security
+T364	person 39992 40006	William Dreyer
+T365	publication_title 40120 40135	Social Security
+T366	person 40146 40159	SUSAN DENTZER
+T367	organization 40229 40268	Washington, DC Veterans' Medical Center
+T368	person 40270 40276	Bagian
+T369	organization 40331 40333	VA
+T370	organization 40441 40443	VA
+T371	location 40638 40642	U.S.
+T372	organization 40660 40662	VA
+T373	organization 41094 41096	VA
+T374	organization 41207 41209	VA
+T375	person 41330 41336	Perlin
+T376	person 41378 41397	DR. JONATHAN PERLIN
+T377	organization 41423 41425	VA
+T378	person 41537 41550	SUSAN DENTZER
+T379	organization 41776 41778	VA
+T380	organization 41891 41893	VA
+T381	person 41896 41915	DR. JONATHAN PERLIN
+T382	person 42161 42174	SUSAN DENTZER
+T383	organization 42202 42215	Washington VA
+T384	person 42227 42243	Charles Hilliard
+T385	person 42285 42300	CHARLES HILLARD
+T386	person 42316 42325	Hilliards
+T387	person 42440 42453	SUSAN DENTZER
+T388	organization 42459 42461	VA
+T389	organization 42763 42765	VA
+T390	organization 42857 42865	Congress
+T391	organization 42892 42894	VA
+T392	organization 43132 43134	VA
+T393	location 43358 43362	U.S.
+T394	program_title 43398 43425	FOCUS - PATRIOTIC SPECTACLE
+T395	person 43427 43437	JIM LEHRER
+T396	event 43468 43478	Super Bowl
+T397	person 43511 43524	Terence Smith
+T398	person 43607 43613	McNabb
+T399	person 43666 43679	TERENCE SMITH
+T400	organization 43812 43824	Philadelphia
+T401	person 43828 43841	TERENCE SMITH
+T402	organization 43849 43861	Philadelphia
+T403	person 43905 43915	Greg Lewis
+T404	organization 43964 43975	New England
+T405	organization 44001 44009	Patriots
+T406	person 44024 44038	Donovan McNabb
+T407	organization 44147 44155	Patriots
+T408	organization 44186 44194	Patriots
+T409	location 44319 44332	United States
+T410	organization 44373 44395	Neilson Media Research
+T411	person 44505 44519	Paul McCartney
+T412	person 44613 44626	Janet Jackson
+T413	person 44707 44724	Justin Timberlake
+T414	organization 44805 44808	NFL
+T415	organization 44816 44849	Federal Communications Commission
+T416	organization 44853 44861	Congress
+T417	product 44894 44903	Bud Light
+T418	person 44907 44920	TERENCE SMITH
+T419	event 45064 45084	Janet Jackson moment
+T420	organization 45165 45171	Senate
+T421	person 45309 45322	TERENCE SMITH
+T422	organization 45343 45351	Patriots
+T423	event 45384 45394	Super Bowl
+T424	person 45443 45457	John Feinstein
+T425	organization 45493 45509	Baltimore Ravens
+T426	person 45512 45516	John
+T427	person 45561 45575	JOHN FEINSTEIN
+T428	organization 45593 45596	NFL
+T429	person 45604 45618	Paul Tagliabue
+T430	event 45744 45764	Janet Jackson moment
+T431	person 45833 45851	Nicolette Sheridan
+T432	organization 45870 45889	Philadelphia Eagles
+T433	person 45908 45921	Terrell Owens
+T434	person 45952 45961	Tagliabue
+T435	organization 46059 46078	Philadelphia Eagles
+T436	organization 46199 46202	NFL
+T437	person 46328 46342	Paul Tagliabue
+T438	person 46403 46416	TERENCE SMITH
+T439	event 46430 46440	Super Bowl
+T440	person 46508 46522	JOHN FEINSTEIN
+T441	organization 46580 46583	NFL
+T442	person 46680 46690	Diana Ross
+T443	organization 46802 46805	MTV
+T444	person 46843 46860	Justin Timberlake
+T445	person 46865 46878	Janet Jackson
+T446	organization 46908 46911	FCC
+T447	organization 46919 46922	CBS
+T448	organization 46986 46989	NFL
+T449	person 47044 47058	Paul McCartney
+T450	publication_title 47109 47139	Why Don't We Do it in the Road
+T451	organization 47176 47179	NFL
+T452	person 47207 47220	TERENCE SMITH
+T453	person 47327 47341	JOHN FEINSTEIN
+T454	organization 47444 47447	NFL
+T455	organization 47461 47464	Fox
+T456	person 47529 47542	Mickey Rooney
+T457	event 47572 47582	Super Bowl
+T458	organization 47630 47633	Fox
+T459	organization 47652 47655	FCC
+T460	person 47726 47740	Michael Powell
+T461	person 47912 47925	TERENCE SMITH
+T462	organization 47997 48000	NFL
+T463	person 48061 48075	JOHN FEINSTEIN
+T464	organization 48143 48146	NFL
+T465	person 48156 48161	Terry
+T466	organization 48461 48464	NFL
+T467	organization 48479 48489	United Way
+T468	organization 48647 48650	NFL
+T469	person 48836 48849	TERENCE SMITH
+T470	person 48970 48984	JOHN FEINSTEIN
+T471	location 49093 49103	East Coast
+T472	organization 49225 49233	Patriots
+T473	organization 49293 49301	Patriots
+T474	organization 49336 49343	Cowboys
+T475	organization 49354 49361	cowboys
+T476	location 49397 49404	America
+T477	organization 49547 49555	Patriots
+T478	person 49606 49620	Bill Belichick
+T479	person 49690 49703	TERENCE SMITH
+T480	person 49756 49770	JOHN FEINSTEIN
+T481	organization 49875 49878	NFL
+T482	organization 50262 50279	Green Bay Packers
+T483	person 50283 50297	Vince Lombardi
+T484	organization 50334 50341	Packers
+T485	organization 50407 50410	NFL
+T486	person 50527 50540	TERENCE SMITH
+T487	person 50600 50614	JOHN FEINSTEIN
+T488	organization 50645 50653	Patriots
+T489	person 50658 50671	TERENCE SMITH
+T490	person 50695 50709	JOHN FEINSTEIN
+T491	person 50857 50866	Tom Brady
+T492	organization 50905 50908	NFL
+T493	person 50959 50973	Peyton Manning
+T494	organization 50981 50986	Colts
+T495	person 50990 51001	Troy Aikman
+T496	organization 51055 51062	Cowboys
+T497	organization 51317 51320	NFL
+T498	organization 51325 51344	Washington Redskins
+T499	event 51353 51363	Super Bowl
+T500	organization 51561 51569	Patriots
+T501	organization 51823 51831	Redskins
+T502	person 51884 51897	TERENCE SMITH
+T503	person 51984 51998	JOHN FEINSTEIN
+T504	organization 52289 52297	Patriots
+T505	person 52331 52342	Scott Pioli
+T506	person 52368 52382	Bill Belichick
+T507	person 52430 52439	Belichick
+T508	person 52505 52516	Scott Pioli
+T509	person 52546 52555	Belichick
+T510	person 52699 52708	Belichick
+T511	organization 52812 52821	Cleveland
+T512	person 52909 52922	TERENCE SMITH
+T513	person 52924 52938	John Feinstein
+T514	person 52958 52972	JOHN FEINSTEIN
+T515	person 52985 52990	Terry
+T516	program_title 52994 52999	RECAP
+T517	person 53001 53011	JIM LEHRER
+T518	person 53062 53076	President Bush
+T519	organization 53108 53116	Congress
+T520	location 53155 53161	Israel
+T521	location 53270 53274	Iraq
+T522	person 53334 53344	Jim Lehrer
