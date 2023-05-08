@@ -1,0 +1,605 @@
+T1	person 2 12	JIM LEHRER
+T2	person 32 42	Jim Lehrer
+T3	program_title 51 59	NewsHour
+T4	event 84 121	Salt Lake City Olympics investigation
+T5	organization 235 241	Boeing
+T6	location 245 252	Seattle
+T7	location 279 287	Cambodia
+T8	person 323 333	Henry Kamm
+T9	program_title 389 401	NEWS SUMMARY
+T10	person 403 413	JIM LEHRER
+T11	location 486 500	Salt Lake City
+T12	event 509 534	2002 Winter Olympic Games
+T13	organization 584 606	U.S. Olympic Committee
+T14	location 638 652	Salt Lake City
+T15	organization 685 716	International Olympic Committee
+T16	organization 786 789	IOC
+T17	location 911 921	Washington
+T18	organization 836 842	Senate
+T19	person 859 874	George Mitchell
+T20	person 965 980	GEORGE MITCHELL
+T21	person 1445 1455	JIM LEHRER
+T22	program_title 1503 1515	News Summary
+T23	location 1551 1560	Northwest
+T24	location 1631 1637	Oregon
+T25	location 1642 1652	Washington
+T26	organization 1654 1665	Coast Guard
+T27	location 1712 1718	Oregon
+T28	location 1755 1771	Washington State
+T29	location 1831 1840	Southeast
+T30	location 1899 1907	Virginia
+T31	location 2132 2137	Yemen
+T32	location 2165 2182	Arabian peninsula
+T33	location 2462 2466	U.S.
+T34	location 2551 2564	United States
+T35	location 2582 2587	China
+T36	location 2648 2672	Chinese foreign ministry
+T37	location 2707 2712	China
+T38	location 2760 2769	Hong Kong
+T39	location 2952 2960	Cambodia
+T40	organization 3003 3014	Khmer Rouge
+T41	person 3058 3066	Paul Pot
+T42	organization 3157 3168	Khmer Rouge
+T43	person 3221 3243	Prime Minister Hun Sen
+T44	person 3547 3557	JIM LEHRER
+T45	publication_title 3570 3584	New York Times
+T46	person 3599 3609	Henry Kamm
+T47	organization 3622 3633	Khmer Rouge
+T48	location 3638 3646	Cambodia
+T49	person 3663 3676	Terence Smith
+T50	organization 3731 3736	House
+T51	event 3764 3801	President Clinton's impeachment trial
+T52	organization 3850 3875	House Judiciary Committee
+T53	person 3887 3909	Congressman Henry Hyde
+T54	location 3913 3921	Illinois
+T55	organization 3997 4003	Senate
+T56	location 4073 4084	White House
+T57	program_title 4370 4382	News Summary
+T58	event 4411 4434	Salt Lake City Olympics
+T59	organization 4490 4496	Boeing
+T60	location 4523 4531	Cambodia
+T61	program_title 4534 4563	FOCUS - OLYMPIC INVESTIGATION
+T62	person 4566 4576	JIM LEHRER
+T63	person 4578 4589	Tom Bearden
+T64	person 4634 4645	TOM BEARDEN
+T65	location 4647 4661	Salt Lake City
+T66	organization 4729 4760	International Olympic Committee
+T67	event 4793 4810	2002 Winter Games
+T68	person 4813 4835	JUAN ANTONIO SAMARANCH
+T69	organization 4848 4879	International Olympic Committee
+T70	organization 4892 4923	International Olympic Committee
+T71	event 4969 4994	19th Olympic Winter Games
+T72	location 5018 5032	Salt Lake City
+T73	person 5035 5046	TOM BEARDEN
+T74	location 5048 5057	Salt Lake
+T75	location 5104 5110	Quebec
+T76	location 5125 5131	Sweden
+T77	location 5136 5147	Switzerland
+T78	location 5279 5293	Salt Lake City
+T79	organization 5486 5489	IOC
+T80	organization 5606 5609	ICO
+T81	organization 5669 5695	Salt Lake Organizing Group
+T82	organization 5832 5841	US Senate
+T83	person 5858 5873	George Mitchell
+T84	organization 5917 5948	United States Olympic Committee
+T85	organization 5711 5734	U.S. Justice Department
+T86	person 6005 6020	GEORGE MITCHELL
+T87	organization 6620 6642	U.S. Olympic Committee
+T88	person 6819 6830	TOM BEARDEN
+T89	event 6999 7016	2002 winter games
+T90	person 7019 7029	JIM LEHRER
+T91	person 7096 7109	Howard Berkes
+T92	organization 7113 7134	National Public Radio
+T93	person 7140 7157	Christine Brennan
+T94	person 7225 7235	JIM LEHRER
+T95	person 7243 7252	Christine
+T96	organization 7387 7418	International Olympic Committee
+T97	person 7499 7516	CHRISTINE BRENNAN
+T98	person 7648 7661	Princess Anne
+T99	person 7663 7676	Prince Albert
+T100	location 7680 7686	Monaco
+T101	person 7959 7969	JIM LEHRER
+T102	person 8031 8048	CHRISTINE BRENNAN
+T103	location 8119 8126	Atlanta
+T104	organization 8153 8173	US Olympic Committee
+T105	location 8187 8198	Minneapolis
+T106	location 8211 8218	Atlanta
+T107	organization 8361 8364	IOC
+T108	person 8415 8425	JIM LEHRER
+T109	person 8437 8443	Howard
+T110	location 8477 8491	Salt Lake City
+T111	location 8529 8543	Salt Lake City
+T112	organization 8655 8658	IOC
+T113	person 8702 8715	HOWARD BERKES
+T114	organization 8717 8738	National Public Radio
+T115	organization 8801 8839	Salt Lake Olympic organizing committee
+T116	location 8960 8969	Salt Lake
+T117	organization 9063 9066	IOC
+T118	organization 9116 9135	American University
+T119	organization 9171 9174	IOC
+T120	location 9211 9215	Utah
+T121	person 9335 9345	JIM LEHRER
+T122	person 9485 9498	HOWARD BERKES
+T123	organization 9548 9579	International Olympic Committee
+T124	organization 9588 9591	IOC
+T125	event 9708 9726	Salt Lake Olympics
+T126	person 10083 10093	JIM LEHRER
+T127	location 10140 10154	Salt Lake City
+T128	person 10157 10170	HOWARD BERKES
+T129	location 10180 10194	Salt Lake City
+T130	person 10197 10207	JIM LEHRER
+T131	person 10237 10250	HOWARD BERKES
+T132	person 10270 10280	JIM LEHRER
+T133	person 10288 10301	HOWARD BERKES
+T134	person 10321 10331	JIM LEHRER
+T135	person 10338 10347	Christine
+T136	location 10411 10425	Salt Lake City
+T137	person 10439 10456	CHRISTINE BRENNAN
+T138	event 10646 10666	Los Angeles Olympics
+T139	location 10757 10770	United States
+T140	location 10814 10820	Munich
+T141	location 10873 10881	Montreal
+T142	location 10936 10944	Montreal
+T143	location 11237 11247	Manchester
+T144	location 11268 11287	Manchester, England
+T145	organization 11436 11439	IOC
+T146	organization 11544 11547	ICO
+T147	organization 11680 11683	IOC
+T148	person 11838 11841	Jim
+T149	location 11602 11615	Sidney Harbor
+T150	location 11872 11886	Salt Lake City
+T151	location 11927 11941	Salt Lake City
+T152	organization 12021 12024	ICO
+T153	person 12111 12121	JIM LEHRER
+T154	person 12128 12134	Howard
+T155	location 12152 12166	Salt Lake City
+T156	location 12233 12247	Salt Lake City
+T157	location 12361 12375	Salt Lake City
+T158	person 12385 12398	HOWARD BERKES
+T159	location 12426 12440	Salt Lake City
+T160	person 12512 12521	Christine
+T161	location 12538 12547	Salt Lake
+T162	location 12653 12667	Salt Lake City
+T163	organization 12735 12766	International Olympic Committee
+T164	organization 12903 12934	International Olympic Committee
+T165	organization 12943 12963	US Olympic Committee
+T166	location 13003 13017	Salt Lake City
+T167	organization 13248 13279	International Olympic Committee
+T168	organization 13288 13308	US Olympic Committee
+T169	organization 13072 13103	International Olympic Committee
+T170	organization 13408 13439	International Olympic Committee
+T171	location 13592 13606	Salt Lake City
+T172	person 13609 13619	JIM LEHRER
+T173	person 13626 13635	Christine
+T174	person 13859 13876	CHRISTINE BRENNAN
+T175	organization 13908 13911	IOC
+T176	organization 14086 14102	Augusta National
+T177	location 14112 14119	Atlanta
+T178	person 14205 14215	JIM LEHRER
+T179	organization 14256 14263	Augusta
+T180	organization 14288 14291	IOC
+T181	person 14332 14349	CHRISTINE BRENNAN
+T182	organization 14354 14370	Augusta National
+T183	organization 14393 14396	IOC
+T184	organization 14421 14437	Augusta National
+T185	location 14512 14519	Atlanta
+T186	location 14538 14545	Atlanta
+T187	location 14840 14847	Atlanta
+T188	location 14930 14944	Salt Lake City
+T189	location 14995 15009	Salt Lake City
+T190	organization 15077 15080	IOC
+T191	organization 15146 15149	IOC
+T192	person 15538 15548	JIM LEHRER
+T193	organization 15564 15567	IOC
+T194	organization 15639 15658	Mitchell Commission
+T195	person 15741 15754	HOWARD BERKES
+T196	organization 15792 15795	IOC
+T197	organization 15887 15918	International Olympic Committee
+T198	person 15993 16004	Mark Hodler
+T199	organization 16049 16052	IOC
+T200	person 16054 16076	Juan Antonio Samaranch
+T201	organization 16099 16102	IOC
+T202	person 16108 16118	Dick Pound
+T203	organization 15947 15978	International Olympic Committee
+T204	person 16175 16197	Juan Antonio Samaranch
+T205	organization 16426 16429	IOC
+T206	organization 16667 16670	IOC
+T207	organization 16794 16797	IOC
+T208	person 16614 16636	Juan Antonio Samaranch
+T209	organization 16930 16961	International Olympic Committee
+T210	person 17231 17241	JIM LEHRER
+T211	person 17271 17284	HOWARD BERKES
+T212	organization 17411 17429	Justice Department
+T213	person 17449 17459	JIM LEHRER
+T214	person 17468 17481	HOWARD BERKES
+T215	organization 17620 17638	Justice Department
+T216	person 17718 17728	JIM LEHRER
+T217	person 17730 17739	Christine
+T218	person 17889 17906	CHRISTINE BRENNAN
+T219	event 18073 18086	2000 Olympics
+T220	person 18089 18099	JIM LEHRER
+T221	person 18115 18132	CHRISTINE BRENNAN
+T222	location 18172 18181	Australia
+T223	organization 18290 18293	ICO
+T224	organization 18432 18435	IOC
+T225	organization 18663 18694	International Olympic Committee
+T226	person 18888 18898	JIM LEHRER
+T227	person 18973 18990	CHRISTINE BRENNAN
+T228	organization 19030 19061	International Olympic Committee
+T229	person 19064 19074	JIM LEHRER
+T230	person 19076 19085	Christine
+T231	person 19087 19093	Howard
+T232	person 19122 19135	HOWARD BERKES
+T233	person 19148 19151	Jim
+T234	program_title 19154 19179	FOCUS - YEAR OF DISASTERS
+T235	person 19181 19191	JIM LEHRER
+T236	person 19225 19235	Phil Ponce
+T237	person 19238 19248	PHIL PONCE
+T238	location 19396 19405	Indonesia
+T239	location 19410 19418	Malaysia
+T240	location 19686 19691	India
+T241	location 19764 19771	Gujarat
+T242	location 19941 19957	Papua New Guinea
+T243	location 20078 20085	Pacific
+T244	location 20117 20122	China
+T245	location 20125 20138	Yangtze River
+T246	location 20263 20268	China
+T247	organization 20354 20375	World Watch Institute
+T248	location 20479 20489	Bangladesh
+T249	location 20502 20514	Jamuna River
+T250	location 20584 20594	Bangladesh
+T251	location 20716 20725	Caribbean
+T252	location 20730 20745	Central America
+T253	event 20747 20764	Hurricane Georges
+T254	location 20877 20886	Caribbean
+T255	location 20917 20925	Anguilla
+T256	location 20927 20938	Puerto Rico
+T257	location 20940 20958	Dominican Republic
+T258	location 20960 20965	Haiti
+T259	location 20971 20975	Cuba
+T260	location 21020 21032	Florida Keys
+T261	event 21038 21053	Hurricane Mitch
+T262	location 21112 21127	Central America
+T263	location 20898 20915	St. Kitts & Nevis
+T264	location 21229 21237	Honduras
+T265	location 21239 21248	Nicaragua
+T266	location 21250 21261	El Salvador
+T267	location 21263 21272	Guatemala
+T268	location 21278 21284	Mexico
+T269	location 21333 21341	Honduras
+T270	location 21414 21420	Canada
+T271	location 21425 21436	New England
+T272	location 21652 21659	Florida
+T273	location 22032 22039	Florida
+T274	event 22221 22237	Hurricane Bonnie
+T275	location 22286 22298	Florida Keys
+T276	location 22313 22327	North Carolina
+T277	location 22474 22487	United States
+T278	location 22489 22497	Virginia
+T279	location 22546 22554	Virginia
+T280	location 22701 22707	Oregon
+T281	location 22712 22728	Washington State
+T282	person 22781 22791	PHIL PONCE
+T283	person 22812 22828	Janet Abramovitz
+T284	organization 22855 22875	Worldwatch Institute
+T285	person 22917 22927	Bob Watson
+T286	organization 22975 22985	World Bank
+T287	person 22991 23002	John Clizbe
+T288	organization 23047 23065	American Red Cross
+T289	location 14086 14102	Augusta National
+T290	location 14256 14263	Augusta
+T291	location 14354 14370	Augusta National
+T292	location 14421 14437	Augusta National
+T293	person 23081 23091	PHIL PONCE
+T294	person 23093 23107	Ms. Abramovitz
+T295	person 23186 23202	JANET ABRAMOVITZ
+T296	organization 23204 23224	Worldwatch Institute
+T297	person 23597 23607	PHIL PONCE
+T298	person 23741 23757	JANET ABRAMOVITZ
+T299	event 23820 23835	Hurricane Mitch
+T300	event 23841 23861	Yangtze River floods
+T301	location 23875 23885	Bangladesh
+T302	location 23914 23919	India
+T303	location 24093 24102	Indonesia
+T304	location 24117 24123	Brazil
+T305	location 24129 24135	Mexico
+T306	person 24442 24452	PHIL PONCE
+T307	person 24454 24464	Mr. Clizbe
+T308	location 24473 24486	United States
+T309	person 24537 24548	JOHN CLIZBE
+T310	organization 24550 24568	American Red Cross
+T311	location 24625 24638	United States
+T312	organization 24652 24670	American Red Cross
+T313	person 24976 24986	PHIL PONCE
+T314	person 25075 25086	JOHN CLIZBE
+T315	event 25093 25110	Hurricane Georges
+T316	location 25114 25125	Puerto Rico
+T317	location 25143 25154	Puerto Rico
+T318	event 25166 25183	Hurricane Georges
+T319	organization 25219 25237	American Red Cross
+T320	person 25248 25258	PHIL PONCE
+T321	person 25290 25301	JOHN CLIZBE
+T322	location 25356 25367	Puerto Rico
+T323	event 25565 25580	Hurricane Mitch
+T324	location 25584 25592	Honduras
+T325	location 25597 25606	Nicaragua
+T326	location 25649 25660	Puerto Rico
+T327	person 25663 25673	PHIL PONCE
+T328	person 25675 25685	Mr. Watson
+T329	person 25716 25726	BOB WATSON
+T330	organization 25728 25738	World Bank
+T331	person 26046 26056	PHIL PONCE
+T332	person 26218 26228	BOB WATSON
+T333	location 26409 26413	Peru
+T334	location 26431 26440	Indonesia
+T335	location 26500 26505	China
+T336	location 26510 26520	Bangladesh
+T337	location 26640 26653	Yangtze River
+T338	location 26741 26751	Bangladesh
+T339	location 26760 26770	Bangladesh
+T340	person 27294 27304	PHIL PONCE
+T341	location 27409 27416	Pacific
+T342	person 27471 27481	BOB WATSON
+T343	location 27519 27523	Peru
+T344	location 27528 27535	Ecuador
+T345	location 27805 27809	Peru
+T346	person 27932 27942	PHIL PONCE
+T347	person 28037 28047	BOB WATSON
+T348	person 28540 28550	PHIL PONCE
+T349	person 28552 28566	Ms. Abramovitz
+T350	person 28714 28730	JANET ABRAMOVITZ
+T351	event 28813 28828	Hurricane Mitch
+T352	location 28908 28916	Honduras
+T353	location 29007 29018	Tegucigalpa
+T354	location 29034 29049	Central America
+T355	location 29127 29146	Yangtze River Basin
+T356	person 30033 30043	PHIL PONCE
+T357	event 30053 30058	Mitch
+T358	person 30141 30157	JANET ABRAMOVITZ
+T359	organization 30554 30572	Chinese government
+T360	location 30586 30599	Yangtze River
+T361	person 30846 30856	PHIL PONCE
+T362	person 30858 30868	Mr. Clizby
+T363	person 30940 30951	JOHN CLIZBE
+T364	person 31088 31098	PHIL PONCE
+T365	person 31115 31126	JOHN CLIZBE
+T366	location 31165 31178	United States
+T367	location 31249 31268	Southeastern coasts
+T368	person 31510 31520	PHIL PONCE
+T369	location 31568 31589	Texas -- Del Rio area
+T370	person 31609 31620	JOHN CLIZBE
+T371	location 31691 31696	Texas
+T372	location 31702 31707	Texas
+T373	location 31760 31767	Del Rio
+T374	location 31995 32002	Florida
+T375	location 32129 32142	United States
+T376	location 32223 32236	United States
+T377	organization 32411 32420	Red Cross
+T378	person 32592 32602	PHIL PONCE
+T379	person 32755 32766	JOHN CLIZBE
+T380	location 32959 32965	Kansas
+T381	location 33022 33033	Puerto Rico
+T382	location 33219 33240	Spencer, South Dakota
+T383	location 33581 33588	Del Rio
+T384	location 33777 33784	Florida
+T385	location 33790 33797	Alabama
+T386	location 33802 33809	Georgia
+T387	organization 34043 34052	Red Cross
+T388	person 34180 34190	PHIL PONCE
+T389	person 34192 34202	Mr. Watson
+T390	location 34290 34303	United States
+T391	person 34443 34453	BOB WATSON
+T392	location 34696 34700	U.S.
+T393	organization 35574 35584	World Bank
+T394	person 35703 35713	PHIL PONCE
+T395	person 35773 35783	BOB WATSON
+T396	location 35901 35911	Bangladesh
+T397	location 35913 35918	India
+T398	location 35920 35925	China
+T399	person 36063 36073	PHIL PONCE
+T400	person 36138 36148	JIM LEHRER
+T401	program_title 36171 36179	NewsHour
+T402	organization 36204 36210	Boeing
+T403	location 36236 36244	Cambodia
+T404	program_title 36247 36267	FOCUS - SLOWING DOWN
+T405	person 36269 36279	JIM LEHRER
+T406	person 36281 36291	Rod Minott
+T407	organization 36295 36307	KCTS-Seattle
+T408	organization 36320 36326	Boeing
+T409	person 36335 36345	ROD MINOTT
+T410	organization 36366 36372	Boeing
+T411	organization 36570 36576	Boeing
+T412	product 36645 36648	737
+T413	location 36660 36667	Seattle
+T414	person 36719 36732	GRAY RUSSROCK
+T415	organization 36734 36740	Boeing
+T416	person 36989 36999	ROD MINOTT
+T417	person 37011 37025	Anthony Carson
+T418	person 37059 37073	ANTHONY CARSON
+T419	organization 37075 37081	Boeing
+T420	person 37447 37457	ROD MINOTT
+T421	event 37503 37526	economic crisis in Asia
+T422	person 37528 37540	Alan Mulally
+T423	person 37583 37595	ALAN MULALLY
+T424	organization 37608 37643	Boeing Commercial Airplane Division
+T425	location 37722 37726	Asia
+T426	location 37871 37875	Asia
+T427	person 37957 37967	ROD MINOTT
+T428	organization 38058 38064	Boeing
+T429	person 38066 38073	Jin Cho
+T430	organization 38082 38088	Asiana
+T431	product 38140 38150	Boeing 747
+T432	location 38164 38171	Seattle
+T433	location 38175 38180	Seoul
+T434	person 38184 38191	JIN CHO
+T435	organization 38193 38208	Asiana Airlines
+T436	person 38389 38399	ROD MINOTT
+T437	product 38442 38445	747
+T438	organization 38457 38463	Boeing
+T439	product 38545 38548	747
+T440	product 38635 38638	747
+T441	organization 38732 38738	Boeing
+T442	event 38756 38768	Asian crisis
+T443	organization 38845 38851	AirBus
+T444	organization 38931 38955	University of Washington
+T445	person 38966 38978	Charles Hill
+T446	organization 39004 39010	AirBus
+T447	organization 39015 39021	Boeing
+T448	person 39068 39080	CHARLES HILL
+T449	person 39379 39389	ROD MINOTT
+T450	organization 39426 39432	Boeing
+T451	person 39628 39640	CHARLES HILL
+T452	person 40014 40024	ROD MINOTT
+T453	person 40026 40035	Tim Goree
+T454	organization 40080 40086	Boeing
+T455	product 40188 40191	777
+T456	organization 40259 40265	Boeing
+T457	person 40290 40299	TIM GOREE
+T458	person 40535 40545	ROD MINOTT
+T459	person 40547 40552	Goree
+T460	organization 40560 40566	Boeing
+T461	person 40706 40715	TIM GOREE
+T462	person 41008 41018	ROD MINOTT
+T463	organization 41020 41026	Boeing
+T464	organization 41175 41181	AirBus
+T465	organization 41269 41286	McDonnell-Douglas
+T466	person 41375 41379	Hill
+T467	organization 41385 41391	Boeing
+T468	person 41458 41470	CHARLES HILL
+T469	organization 41503 41509	AirBus
+T470	organization 41558 41564	AirBus
+T471	organization 41613 41619	Boeing
+T472	person 41759 41769	ROD MINOTT
+T473	organization 41771 41777	Boeing
+T474	person 41780 41792	Alan Mulally
+T475	organization 41942 41948	Boeing
+T476	person 42068 42080	ALAN MULALLY
+T477	organization 42706 42712	Boeing
+T478	person 42715 42725	ROD MINOTT
+T479	person 42747 42758	Dick Conway
+T480	location 42770 42777	Seattle
+T481	organization 42812 42818	Boeing
+T482	person 42886 42897	DICK CONWAY
+T483	organization 42918 42924	Boeing
+T484	organization 43145 43151	Boeing
+T485	organization 43222 43228	Boeing
+T486	person 43280 43290	ROD MINOTT
+T487	organization 43352 43358	Boeing
+T488	organization 43384 43390	Boeing
+T489	program_title 43506 43518	CONVERSATION
+T490	person 43520 43530	JIM LEHRER
+T491	location 43569 43577	Cambodia
+T492	organization 43668 43679	Khmer Rouge
+T493	person 43717 43749	Cambodian Prime Minister Hun Sen
+T494	organization 43775 43786	Khmer Rouge
+T495	person 43834 43847	Terence Smith
+T496	location 43890 43898	Cambodia
+T497	person 43901 43914	TERENCE SMITH
+T498	location 43958 43966	Cambodia
+T499	publication_title 44089 44126	Cambodia, Report from a Stricken Land
+T500	person 44135 44145	Henry Kamm
+T501	publication_title 44209 44223	New York Times
+T502	person 44256 44269	TERENCE SMITH
+T503	person 44271 44276	Henry
+T504	person 44289 44299	HENRY KAMM
+T505	person 44308 44313	Terry
+T506	person 44316 44329	TERENCE SMITH
+T507	person 44416 44426	HENRY KAMM
+T508	person 44442 44455	TERENCE SMITH
+T509	location 44528 44532	Asia
+T510	person 44535 44545	HENRY KAMM
+T511	location 44570 44574	Asia
+T512	event 44583 44601	Middle Eastern war
+T513	person 44617 44630	TERENCE SMITH
+T514	location 44662 44670	Cambodia
+T515	person 44730 44740	HENRY KAMM
+T516	location 44767 44775	Cambodia
+T517	location 44847 44856	Indochina
+T518	person 45045 45058	TERENCE SMITH
+T519	person 45068 45078	HENRY KAMM
+T520	person 45098 45111	TERENCE SMITH
+T521	person 45141 45151	HENRY KAMM
+T522	person 45159 45172	TERENCE SMITH
+T523	person 45186 45196	HENRY KAMM
+T524	location 45205 45213	Cambodia
+T525	person 45766 45779	TERENCE SMITH
+T526	location 45945 45955	Phnom-Penh
+T527	person 45959 45969	HENRY KAMM
+T528	person 45984 45997	TERENCE SMITH
+T529	person 46018 46028	HENRY KAMM
+T530	person 46354 46367	TERENCE SMITH
+T531	person 46453 46463	HENRY KAMM
+T532	person 46657 46670	TERENCE SMITH
+T533	location 46711 46719	Cambodia
+T534	organization 46777 46788	Khmer Rouge
+T535	person 46901 46908	Hun Sen
+T536	person 46944 46957	King Sihanouk
+T537	person 46985 46995	HENRY KAMM
+T538	organization 47194 47205	Khmer Rouge
+T539	location 47311 47319	Cambodia
+T540	person 47460 47467	Hun Sen
+T541	event 47497 47516	Vietnamese invasion
+T542	location 47623 47631	Cambodia
+T543	organization 47667 47681	United Nations
+T544	organization 47820 47822	UN
+T545	person 47921 47929	Sihanouk
+T546	person 47937 47953	Prince Ranariddh
+T547	location 48079 48087	Cambodia
+T548	person 48096 48103	Hun Sen
+T549	location 48135 48143	Cambodia
+T550	person 48247 48256	Ranariddh
+T551	person 48558 48574	Prince Ranariddh
+T552	person 48608 48615	Hun Sen
+T553	location 48715 48723	Cambodia
+T554	person 48725 48732	Hun Sen
+T555	person 48775 48788	TERENCE SMITH
+T556	person 48794 48807	King Sihanouk
+T557	person 48818 48833	Prince Sihanouk
+T558	person 48896 48906	HENRY KAMM
+T559	person 49004 49012	Sihanouk
+T560	location 49054 49062	Cambodia
+T561	person 49420 49433	TERENCE SMITH
+T562	person 49493 49503	HENRY KAMM
+T563	person 49511 49524	TERENCE SMITH
+T564	organization 49536 49550	United Nations
+T565	person 49626 49636	HENRY KAMM
+T566	person 49646 49659	TERENCE SMITH
+T567	person 49784 49794	HENRY KAMM
+T568	organization 49842 49856	United Nations
+T569	publication_title 49888 49903	Paris agreement
+T570	location 49931 49939	Cambodia
+T571	organization 50096 50107	Khmer Rouge
+T572	location 50286 50294	Cambodia
+T573	organization 50329 50343	United Nations
+T574	person 50482 50495	TERENCE SMITH
+T575	organization 50564 50566	UN
+T576	organization 50636 50638	UN
+T577	person 50654 50664	HENRY KAMM
+T578	organization 50688 50702	United Nations
+T579	organization 50762 50764	UN
+T580	organization 50786 50788	UN
+T581	organization 50847 50861	United Nations
+T582	person 50934 50947	TERENCE SMITH
+T583	person 51073 51083	HENRY KAMM
+T584	person 51115 51120	Terry
+T585	organization 51241 51252	Khmer Rouge
+T586	location 51333 51341	Cambodia
+T587	location 51850 51858	Cambodia
+T588	person 52333 52346	TERENCE SMITH
+T589	person 52380 52390	HENRY KAMM
+T590	location 52511 52519	Cambodia
+T591	person 52647 52660	TERENCE SMITH
+T592	person 52753 52763	HENRY KAMM
+T593	person 52886 52899	TERENCE SMITH
+T594	person 52901 52911	Henry Kamm
+T595	person 52935 52945	HENRY KAMM
+T596	program_title 52959 52964	RECAP
+T597	person 52966 52976	JIM LEHRER
+T598	location 53060 53074	Salt Lake City
+T599	organization 53107 53127	2002 Winter Olympics
+T600	organization 53133 53138	House
+T601	organization 53220 53226	Senate
+T602	event 53166 53197	President Clinton's impeachment
+T603	location 53301 53307	Oregon
+T604	location 53312 53328	Washington State
+T605	person 53389 53399	Jim Lehrer

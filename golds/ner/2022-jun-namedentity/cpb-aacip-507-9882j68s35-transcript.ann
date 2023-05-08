@@ -1,0 +1,124 @@
+T1	person 0 14	ROBERT MacNEIL
+T2	location 58 66	Brooklyn
+T3	person 1399 1402	Jim
+T4	person 1405 1415	JIM LEHRER
+T5	person 1417 1422	Robin
+T6	organization 1670 1691	Ohio State University
+T7	person 3668 3685	Dr. James Scanlon
+T8	organization 3724 3746	University of Illinois
+T9	person 3788 3799	Dr. Scanlon
+T10	person 3854 3871	Dr. JAMES SCANLON
+T11	person 4110 4116	LEHRER
+T12	person 4128 4135	SCANLON
+T13	person 4289 4295	LEHRER
+T14	person 4364 4371	SCANLON
+T15	organization 4377 4380	NCT
+T16	person 4250 4260	Mayor Daly
+T17	person 4704 4714	mayor Daly
+T18	person 5312 5318	LEHRER
+T19	person 5353 5360	SCANLON
+T20	person 5725 5731	LEHRER
+T21	person 5780 5787	SCANLON
+T22	person 5830 5836	LEHRER
+T23	person 5860 5867	SCANLON
+T24	person 5905 5911	LEHRER
+T25	person 6027 6034	SCANLON
+T26	person 6524 6530	LEHRER
+T27	person 6756 6762	SCALON
+T28	organization 7043 7051	Berkeley
+T29	organization 7053 7058	Texas
+T30	organization 7148 7155	Harvard
+T31	organization 7160 7167	Cornell
+T32	person 7499 7505	LEHRER
+T33	person 7526 7531	Robin
+T34	person 7534 7541	MacNEIL
+T35	person 9122 9129	MacNEIL
+T36	person 9131 9146	Dr. Jasper Neel
+T37	organization 9191 9218	Modern Language Association
+T38	location 9222 9230	New York
+T39	organization 9270 9293	University of Tennessee
+T40	organization 9301 9318	Baylor University
+T41	person 9321 9329	Dr. Neel
+T42	person 9479 9494	Dr. JASPER NEEL
+T43	person 11522 11529	MacNEIL
+T44	person 11572 11576	NEEL
+T45	person 12431 12438	MacNEIL
+T46	person 12629 12633	NEEL
+T47	person 12845 12852	MacNEIL
+T48	person 12955 12959	NEEL
+T49	organization 13101 13105	Yale
+T50	person 13450 13457	MacNEIL
+T51	organization 13680 13698	Cornell University
+T52	organization 13820 13844	Bay Area Writing Project
+T53	person 13929 13939	James Gray
+T54	location 14014 14022	Berkeley
+T55	organization 14037 14061	University of California
+T56	person 14064 14072	Mr. Gray
+T57	person 14162 14172	JAMES GRAY
+T58	person 15667 15674	MacNEIL
+T59	person 15819 15823	GRAY
+T60	person 16515 16522	MacNEIL
+T61	person 16587 16591	GRAY
+T62	person 16741 16748	MacNEIL
+T63	person 16847 16851	GRAY
+T64	organization 16879 16887	Berkeley
+T65	person 17023 17030	MacNEIL
+T66	person 17077 17081	GRAY
+T67	person 17838 17845	MacNEIL
+T68	person 17923 17927	GRAY
+T69	person 18466 18473	MacNEIL
+T70	person 18487 18490	Jim
+T71	person 18493 18499	LEHRER
+T72	person 18626 18633	MacNeil
+T73	person 19644 19650	LEHRER
+T74	person 19749 19760	Dr. Scanlon
+T75	person 19937 19944	SCANLON
+T76	person 20323 20329	LEHRER
+T77	person 20440 20447	SCANLON
+T78	person 20731 20737	LEHRER
+T79	person 20881 20888	SCANLON
+T80	person 22467 22473	LEHRER
+T81	person 22503 22511	Dr. Neel
+T82	person 22514 22518	NEEL
+T83	person 22539 22550	Dr. Scanlon
+T84	person 23134 23140	LEHRER
+T85	person 23208 23212	NEEL
+T86	person 23223 23229	LEHRER
+T87	person 23278 23282	NEEL
+T88	person 23363 23369	LEHRER
+T89	person 23378 23382	NEEL
+T90	person 23487 23493	LEHRER
+T91	person 23527 23531	NEEL
+T92	person 23681 23692	Dr. Scanlon
+T93	person 24181 24187	LEHRER
+T94	person 24479 24483	NEEL
+T95	person 25110 25116	LEHRER
+T96	person 25137 25151	Robert MacNeil
+T97	person 25201 25206	Robin
+T98	person 25209 25216	MacNEIL
+T99	person 25218 25227	Churchill
+T100	person 25561 25565	GRAY
+T101	location 26314 26322	Berkeley
+T102	person 26918 26925	MacNEIL
+T103	person 26948 26959	Dr. Scanlon
+T104	person 27161 27168	SCANLON
+T105	organization 27488 27510	University of Illinois
+T106	person 28448 28456	Dr. Gray
+T107	person 28722 28730	Dr. Neel
+T108	person 28704 28711	MaCNEIL
+T109	person 28873 28877	NEEL
+T110	person 29050 29056	Carter
+T111	person 29412 29419	MacNEIL
+T112	location 29525 29535	Washington
+T113	person 29549 29552	Jim
+T114	person 29570 29580	Jim Lehrer
+T115	person 29622 29636	Robert MacNeil
+T116	product 1584 1608	Scholastic Aptitude Test
+T117	product 1612 1615	SAT
+T118	product 11683 11686	SAT
+T119	product 22166 22169	ACT
+T120	product 22211 22214	ACT
+T121	event 4237 4246	Watergate
+T122	event 4352 4361	Watergate
+T123	event 4461 4470	Watergate
+T124	event 4690 4699	Watergate
