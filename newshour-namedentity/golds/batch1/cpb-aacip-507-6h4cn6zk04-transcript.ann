@@ -1,0 +1,599 @@
+T1	person 8 22	ROBERT MacNEIL
+T2	person 74 86	Albert Hakim
+T3	event 96 116	Iran-contra hearings
+T4	person 145 162	Col. Oliver North
+T5	organization 179 198	Independent Counsel
+T6	person 199 213	Lawrence Walsh
+T7	person 260 270	Col. North
+T8	location 272 280	New York
+T9	person 281 305	Congressman Mario Biaggi
+T10	event 342 363	Wedtech investigation
+T11	publication_title 383 396	Sullivan Code
+T12	location 407 411	U.S.
+T13	location 424 436	South Africa
+T14	person 529 532	Jim
+T15	person 536 546	JIM LEHRER
+T16	person 589 632	Assistant Secretary of State Elliott Abrams
+T17	person 637 649	Albert Hakim
+T18	event 661 681	Iran-contra hearings
+T19	person 725 731	Inouye
+T20	person 736 742	Rudman
+T21	organization 748 764	Senate Committee
+T22	organization 837 862	World Health Organization
+T23	person 873 890	Dr. Jonathan Mann
+T24	program_title 892 904	News Summary
+T25	person 907 914	MacNEIL
+T26	person 916 928	Albert Hakim
+T27	event 962 984	Iran-contra operations
+T28	location 1033 1037	Iran
+T29	person 1067 1079	Oliver North
+T30	person 1092 1097	Hakim
+T31	person 1185 1199	Lt. Col. North
+T32	organization 1209 1234	National Security Council
+T33	person 1299 1304	North
+T34	person 1334 1339	North
+T35	person 1351 1363	ALBERT HAKIM
+T36	organization 1382 1401	Sanford Tech. Corp.
+T37	person 1432 1437	Ollie
+T38	person 1586 1591	Ollie
+T39	person 1746 1751	Ollie
+T40	person 1891 1898	MacNEIL
+T41	person 1900 1905	Hakim
+T42	person 1928 1944	President Reagan
+T43	person 2003 2046	Assistant Secretary of State Elliott Abrams
+T44	person 2087 2120	Secretary of State George Schultz
+T45	person 2178 2184	Abrams
+T46	organization 2230 2238	Congress
+T47	person 2240 2243	Jim
+T48	person 2247 2253	LEHRER
+T49	organization 2259 2290	Iran-contra Independent Counsel
+T50	organization 2301 2318	Select Committees
+T51	person 2350 2362	Oliver North
+T52	person 2364 2378	Lawrence Walsh
+T53	organization 2392 2397	House
+T54	organization 2402 2418	Senate Committee
+T55	organization 2507 2524	National Security
+T56	event 2553 2571	Iran-contra affair
+T57	person 2575 2589	LAWRENCE WALSH
+T58	organization 2591 2610	Independent Counsel
+T59	person 2658 2668	Col. North
+T60	organization 2873 2882	Committee
+T61	person 2916 2934	Admiral Poindexter
+T62	person 2984 2994	Col. North
+T63	person 2998 3004	LEHRER
+T64	organization 3010 3026	Senate Committee
+T65	person 3055 3060	North
+T66	person 3132 3153	Senator Warren Rudman
+T67	person 3221 3226	North
+T68	person 3228 3233	North
+T69	organization 3264 3277	Federal Court
+T70	location 3281 3291	Washington
+T71	organization 3359 3378	Independent Counsel
+T72	person 3452 3459	MacNEIL
+T73	organization 3465 3483	government of Iraq
+T74	organization 3598 3606	Pentagon
+T75	location 3629 3633	U.S.
+T76	organization 3672 3676	navy
+T77	location 3838 3842	U.S.
+T78	location 3905 3909	U.S.
+T79	person 3921 3927	LEHRER
+T80	location 3931 3939	New York
+T81	person 4005 4017	Mario Biaggi
+T82	organization 4062 4081	Wedtech Corporation
+T83	location 4085 4093	New York
+T84	organization 4126 4133	Wedtech
+T85	person 4235 4263	Attorney General Edwin Meese
+T86	person 4302 4308	Biaggi
+T87	organization 4339 4346	Wedtech
+T88	organization 4409 4415	Biaggi
+T89	person 4486 4502	RUDOLPH GIULIANI
+T90	location 4504 4508	U.S.
+T91	person 4823 4840	Rep. MARIO BIAGGI
+T92	location 4846 4854	New York
+T93	person 5216 5222	LEHRER
+T94	organization 5226 5246	U.S. Foreign Service
+T95	location 5301 5305	U.S.
+T96	location 5378 5388	Washington
+T97	person 5427 5442	Bernard Fennell
+T98	organization 5454 5470	State Department
+T99	location 5620 5633	Madrid, Spain
+T100	person 5637 5644	MacNEIL
+T101	person 5646 5672	The Reverend Leon Sullivan
+T102	location 5742 5754	South Africa
+T103	location 5770 5774	U.S.
+T104	location 5818 5828	Washington
+T105	location 5844 5856	Philadelphia
+T106	organization 5885 5900	U.S. Government
+T107	location 5965 5977	South Africa
+T108	person 5979 5987	Sullivan
+T109	person 6063 6081	Rev. LEON SULLIVAN
+T110	publication_title 6141 6150	apartheid
+T111	location 6278 6290	South Africa
+T112	person 6417 6424	MacNEIL
+T113	location 6426 6432	Canada
+T114	location 6515 6521	Quebec
+T115	publication_title 6545 6566	Canadian Constitution
+T116	organization 6701 6707	Quebec
+T117	location 6726 6732	Canada
+T118	location 6858 6864	Canada
+T119	location 7029 7035	Quebec
+T120	location 7074 7080	Canada
+T121	person 6626 6655	Prime Minister Brian Mulroney
+T122	person 7110 7116	LEHRER
+T123	person 7118 7134	President Reagan
+T124	location 7147 7152	Italy
+T125	location 7203 7209	Venice
+T126	person 7267 7277	Mr. Reagan
+T127	organization 7297 7308	White House
+T128	person 7517 7524	MacNEIL
+T129	location 7610 7632	Bismarck, North Dakota
+T130	location 7634 7638	U.S.
+T131	person 7655 7671	Bruce Van Sickle
+T132	organization 7685 7720	Federal Farmers Home Administration
+T133	person 7939 7945	LEHRER
+T134	person 7947 7961	Andres Segovia
+T135	location 8046 8059	Madrid, Spain
+T136	person 8147 8161	Elliott Abrams
+T137	person 8166 8178	Albert Hakim
+T138	person 8189 8195	Inouye
+T139	person 8200 8206	Rudman
+T140	organization 8228 8253	World Health Organization
+T141	program_title 8270 8290	Iran-contra Hearings
+T142	location 5604 5616	U.S. Embassy
+T143	person 8293 8299	LEHRER
+T144	event 8329 8349	Irna-contra hearings
+T145	person 8408 8451	Assistant Secretary of State Elliott Abrams
+T146	person 8468 8480	Albert Hakim
+T147	person 8509 8522	Judy Woodruff
+T148	person 8524 8528	Judy
+T149	person 8532 8545	JUDY WOODRUFF
+T150	person 8676 8702	Assistant Secretary Abrams
+T151	organization 8733 8741	Congress
+T152	person 8969 8990	Senator William Cohen
+T153	person 9036 9042	Abrams
+T154	organization 9083 9087	Army
+T155	person 9088 9109	General John Singlaub
+T156	person 9120 9128	Singlaub
+T157	location 9166 9172	Taiwan
+T158	location 9177 9188	South Korea
+T159	person 9215 9233	Sen. WILLIAM COHEN
+T160	location 9239 9244	Maine
+T161	organization 9256 9267	Tower Board
+T162	person 9294 9302	Singlaub
+T163	person 9467 9501	Asst. Sec. of State ELLIOTT ABRAMS
+T164	person 9516 9526	Sen. COHEN
+T165	person 9743 9759	General Singlaub
+T166	person 9927 9937	Mr. Melton
+T167	person 10017 10025	Singlaub
+T168	organization 10172 10180	Congress
+T169	person 10185 10196	Sec. ABRAMS
+T170	person 10216 10226	Mr. Melton
+T171	person 10248 10258	Sen. COHEN
+T172	person 10320 10331	Sec. ABRAMS
+T173	person 10631 10641	Mr. Melton
+T174	person 10855 10871	General Singlaub
+T175	person 11297 11307	Mr. Melton
+T176	person 11402 11418	General Singlaub
+T177	person 11422 11432	Sen. COHEN
+T178	person 11477 11487	Mr. Melton
+T179	person 11510 11521	Sec. ABRAMS
+T180	person 11560 11570	Mr. Melton
+T181	person 11663 11673	Sen. COHEN
+T182	publication_title 11743 11755	Miami Herald
+T183	person 11780 11794	Mr. Abramowitz
+T184	publication_title 11897 11909	Miami Herald
+T185	person 11958 11970	Oliver North
+T186	person 11996 12007	Sec. ABRAMS
+T187	person 12031 12041	Sen. COHEN
+T188	person 12063 12075	Oliver North
+T189	person 12234 12246	Oliver North
+T190	publication_title 12296 12308	Miami Herald
+T191	person 12313 12324	Sec. ABRAMS
+T192	person 12468 12473	Ollie
+T193	location 12625 12634	Nicaragua
+T194	person 12772 12777	Ollie
+T195	person 13316 13321	Ollie
+T196	person 13395 13405	Sen. COHEN
+T197	person 13574 13585	Sec. ABRAMS
+T198	organization 13881 13897	State Department
+T199	organization 13943 13946	NSC
+T200	person 14062 14080	Rep. DANTE FASCELL
+T201	location 14086 14093	Florida
+T202	organization 14298 14306	Congress
+T203	person 14436 14447	Sec. ABRAMS
+T204	person 14535 14547	Rep. FASCELL
+T205	organization 14646 14650	Hill
+T206	organization 14687 14695	Congress
+T207	organization 14932 14935	NSC
+T208	organization 14944 14947	CIA
+T209	organization 14956 14972	State Department
+T210	organization 15060 15066	Senate
+T211	organization 15075 15080	House
+T212	organization 15206 15214	Congress
+T213	organization 15234 15242	Congress
+T214	person 15246 15257	Sec. ABRAMS
+T215	organization 15361 15369	Congress
+T216	organization 15593 15609	State Department
+T217	location 15862 15875	Latin America
+T218	person 15877 15893	Ambassador Habib
+T219	location 16006 16019	Latin America
+T220	location 16029 16044	Central America
+T221	person 16194 16206	Rep. FASCELL
+T222	location 16584 16599	Central America
+T223	organization 16692 16700	Congress
+T224	person 16951 16962	Sec. ABRAMS
+T225	person 17028 17044	Sen. DAVID BOREN
+T226	location 17050 17058	Oklahoma
+T227	organization 17248 17256	Congress
+T228	organization 17291 17318	Foreign Relations Committee
+T229	organization 17331 17353	Intelligence Committee
+T230	organization 17547 17569	Intelligence Committee
+T231	person 17895 17906	Sec. ABRAMS
+T232	person 18154 18164	Sen. BOREN
+T233	location 18360 18375	Central America
+T234	organization 18419 18427	Congress
+T235	organization 18432 18448	Executive Branch
+T236	person 18729 18740	Sec. ABRAMS
+T237	organization 18932 18954	Intelligence Committee
+T238	organization 19102 19110	Congress
+T239	person 19114 19130	Rep. JACK BROOKS
+T240	location 19136 19141	Texas
+T241	organization 19308 19316	Congress
+T242	person 19365 19376	Sec. ABRAMS
+T243	person 19422 19433	Rep. BROOKS
+T244	person 19526 19537	Sec. ABRAMS
+T245	person 19547 19558	Rep. BROOKS
+T246	location 19956 19969	United States
+T247	person 20074 20084	Mr. Abrams
+T248	person 20090 20101	Sec. ABRAMS
+T249	person 20232 20243	Rep. BROOKS
+T250	person 20473 20484	Sec. ABRAMS
+T251	person 20514 20525	Rep. BROOKS
+T252	person 21278 21289	Sec. ABRAMS
+T253	person 21343 21353	Mr. Brooks
+T254	person 21357 21368	Rep. BROOKS
+T255	person 21439 21450	Sec. ABRAMS
+T256	person 21531 21544	George Shultz
+T257	person 21657 21668	Rep. BROOKS
+T258	person 21680 21691	Sec. ABRAMS
+T259	person 21856 21867	Rep. BROOKS
+T260	person 21923 21939	Sen. ORRIN HATCH
+T261	location 21945 21949	Utah
+T262	organization 22113 22135	Intelligence Committee
+T263	organization 22481 22486	House
+T264	organization 22495 22501	Senate
+T265	person 22564 22575	Sec. ABRAMS
+T266	organization 22507 22530	Intelligence Committees
+T267	person 22604 22621	Rep. LEE HAMILTON
+T268	location 22627 22634	Indiana
+T269	location 22951 22964	United States
+T270	organization 23018 23026	Congress
+T271	organization 23170 23178	Congress
+T272	organization 23281 23289	Congress
+T273	organization 23562 23570	Congress
+T274	person 23710 23728	Sen. DANIEL INOUYE
+T275	location 23734 23740	Hawaii
+T276	person 23810 23827	Chairman Hamilton
+T277	person 24012 24028	General Singlaub
+T278	person 24048 24064	Ambassador Tambs
+T279	person 24179 24187	WOODRUFF
+T280	person 24248 24254	Abrams
+T281	person 24366 24377	Sec. ABRAMS
+T282	location 24475 24487	Panama Canal
+T283	location 24492 24498	Mexico
+T284	person 25139 25147	WOODRUFF
+T285	organization 25236 25245	Air Force
+T286	person 25246 25268	General Richard Secord
+T287	person 25299 25311	Albert Hakim
+T288	person 25313 25318	Hakim
+T289	person 25486 25498	Albert Hakim
+T290	person 25503 25517	General Secord
+T291	location 25521 25525	Iran
+T292	person 25548 25554	Secord
+T293	location 25571 25575	U.S.
+T294	organization 25595 25611	Shah's air force
+T295	person 25613 25618	Hakim
+T296	person 25713 25719	Secord
+T297	organization 25737 25746	Air Force
+T298	person 25758 25763	Hakim
+T299	organization 25772 25791	Stanford Technology
+T300	location 25818 25822	U.S.
+T301	location 25834 25838	Iran
+T302	person 25897 25903	Secord
+T303	person 25938 25943	Hakim
+T304	person 26080 26085	Hakim
+T305	person 26111 26117	Secord
+T306	person 26119 26124	Hakim
+T307	person 26222 26253	Chief House Counsel John Nields
+T308	person 26255 26260	Hakim
+T309	organization 26334 26353	Iran-contra network
+T310	location 26392 26405	United States
+T311	person 26409 26421	ALBERT HAKIM
+T312	organization 26439 26458	Stanford Technology
+T313	location 26591 26604	United States
+T314	location 26805 26809	Iran
+T315	organization 26640 26651	White House
+T316	location 27061 27074	United States
+T317	location 27305 27318	United States
+T318	person 27368 27376	WOODRUFF
+T319	person 27378 27384	Nields
+T320	person 27390 27395	Hakim
+T321	organization 27465 27484	Iran-contra network
+T322	person 27551 27562	JOHN NIELDS
+T323	person 27732 27741	Mr. HAKIM
+T324	person 27931 27941	Mr. NIELDS
+T325	person 27972 27981	Mr. HAKIM
+T326	person 28004 28014	Mr. NIELDS
+T327	person 28023 28032	Mr. HAKIM
+T328	person 28034 28048	Lt. Col. North
+T329	person 28052 28062	Mr. NIELDS
+T330	person 28148 28162	Lt. Col. North
+T331	person 28166 28175	Mr. HAKIM
+T332	person 28208 28222	Lt. Col. North
+T333	person 28758 28763	Ollie
+T334	person 29028 29033	Ollie
+T335	person 29189 29194	Ollie
+T336	person 29238 29248	Mr. NIELDS
+T337	person 29263 29273	Col. North
+T338	person 29309 29318	Mr. HAKIM
+T339	person 29353 29363	Col. North
+T340	person 29711 29716	Ollie
+T341	person 29811 29821	Mr. NIELDS
+T342	person 29953 29962	Mr. HAKIM
+T343	person 29995 30005	Mr. Zucker
+T344	person 30248 30253	Ollie
+T345	person 30361 30371	Mrs. North
+T346	person 30425 30435	Mrs. North
+T347	person 30462 30473	Mrs. Zucker
+T348	person 30627 30637	Mr. Zucker
+T349	person 30900 30905	North
+T350	person 30952 30962	Mr. NIELDS
+T351	person 31065 31075	Mrs. North
+T352	person 31160 31169	Mr. HAKIM
+T353	person 31190 31198	WOODRUFF
+T354	person 31200 31205	Hakim
+T355	person 31266 31271	North
+T356	person 31346 31351	Hakim
+T357	organization 31383 31405	Iranian-contra project
+T358	location 31454 31458	Iran
+T359	location 31467 31480	United States
+T360	person 31526 31531	Hakim
+T361	person 31571 31576	Robin
+T362	person 31580 31587	MacNEIL
+T363	organization 31677 31693	Select Committee
+T364	organization 31790 31806	Senate Committee
+T365	person 31817 31830	Daniel Inouye
+T366	location 31834 31840	Hawaii
+T367	person 31856 31869	Warren Rudman
+T368	location 31873 31886	New Hampshire
+T369	person 31926 31940	Senator Inouye
+T370	person 31970 31975	Hakim
+T371	person 32007 32012	North
+T372	person 32025 32036	Sen. INOUYE
+T373	person 32178 32184	Zucker
+T374	location 32301 32313	Philadelphia
+T375	person 32580 32590	Col. North
+T376	person 32498 32508	Mr. Zucker
+T377	person 32652 32659	MacNEIL
+T378	location 32883 32896	United States
+T379	person 32959 32970	Sen. INOUYE
+T380	person 33189 33196	MacNEIL
+T381	person 33198 33212	Senator Rudman
+T382	person 33225 33230	Hakim
+T383	person 33297 33313	President Reagan
+T384	person 33397 33415	Sen. WARREN RUDMAN
+T385	location 33421 33434	New Hampshire
+T386	person 33463 33468	Robin
+T387	location 33528 33532	Iran
+T388	person 33547 33556	Mr. Hakim
+T389	person 33606 33613	MacNEIL
+T390	person 33670 33704	Independent Counsel Lawrence Walsh
+T391	person 33745 33755	Col. North
+T392	person 33794 33808	Senator Inouye
+T393	person 33812 33823	Sen. INOUYE
+T394	person 33825 33834	Mr. Hakim
+T395	person 33911 33920	Mr. North
+T396	person 33975 33984	Mr. Hakim
+T397	location 34045 34058	United States
+T398	location 34129 34142	United States
+T399	person 34233 34243	Col. North
+T400	person 34282 34293	Sen. RUDMAN
+T401	person 34295 34300	Robin
+T402	person 34456 34467	Judge Walsh
+T403	organization 34490 34519	Congress of the United States
+T404	person 34535 34547	Oliver North
+T405	person 34549 34561	Oliver North
+T406	organization 34766 34774	Congress
+T407	person 34848 34860	Oliver North
+T408	person 35008 35018	Col. North
+T409	person 35042 35055	Bud McFarlane
+T410	person 35120 35127	MacNEIL
+T411	person 35143 35152	Mr. Walsh
+T412	person 35320 35331	Sen. RUDMAN
+T413	person 35682 35692	Col. North
+T414	person 35718 35729	Sen. INOUYE
+T415	person 35745 35752	MacNEIL
+T416	person 35761 35771	Mr. Rudman
+T417	person 35786 35800	Senator Inouye
+T418	person 35888 35898	Mr. Abrams
+T419	person 35921 35932	Sen. INOUYE
+T420	person 35942 35952	Mr. Abrams
+T421	organization 36044 36075	government of the United States
+T422	organization 36160 36189	Congress of the United States
+T423	location 36239 36252	United States
+T424	person 36266 36282	Secretary Abrams
+T425	person 36412 36419	MacNEIL
+T426	person 36470 36486	Ambassador Tambs
+T427	person 36490 36501	Sen. INOUYE
+T428	person 36652 36659	MacNEIL
+T429	person 36661 36675	Senator Rudman
+T430	person 36749 36760	Sen. RUDMAN
+T431	person 36845 36855	Mr. Abrams
+T432	event 37083 37102	Hassenfus shootdown
+T433	person 37334 37350	Secretary Abrams
+T434	person 37631 37641	Mr. Abrams
+T435	person 37672 37679	MacNEIL
+T436	person 37681 37695	Senator Inouye
+T437	person 37710 37720	Mr. Abrams
+T438	organization 37745 37753	Congress
+T439	person 37757 37768	Sen. INOUYE
+T440	person 37985 37999	Brother Rudman
+T441	publication_title 38236 38248	Miami Herald
+T442	person 38291 38301	Col. North
+T443	location 38389 38402	United States
+T444	person 38347 38356	Hassenfus
+T445	person 38406 38413	MacNEIL
+T446	person 38454 38465	Sen. INOUYE
+T447	person 38476 38490	Senator Rudman
+T448	person 38543 38554	Sen. RUDMAN
+T449	person 38578 38583	Robin
+T450	person 38614 38620	Abrams
+T451	person 39102 39113	Sen. INOUYE
+T452	event 39119 39137	Hassenfus incident
+T453	location 39163 39172	Nicaragua
+T454	location 39195 39201	Africa
+T455	location 39205 39209	Asia
+T456	person 39236 39243	MacNEIL
+T457	organization 39417 39425	Congress
+T458	person 39490 39501	Sen. INOUYE
+T459	person 39589 39596	MacNEIL
+T460	person 39598 39608	Mr. Rudman
+T461	person 39612 39623	Sen. RUDMAN
+T462	person 39633 39647	Elliott Abrams
+T463	organization 39745 39778	House Foreign Relations Committee
+T464	person 40018 40025	Elliott
+T465	organization 39834 39863	Senate Intelligence Committee
+T466	person 40125 40132	MacNEIL
+T467	person 40154 40168	Senator Inouye
+T468	person 40313 40324	Sen. INOUYE
+T469	person 40369 40387	Admiral Poindexter
+T470	person 40392 40406	Lt. Col. North
+T471	person 40410 40421	Sen. RUDMAN
+T472	person 40456 40465	Don Regan
+T473	organization 40515 40522	Cabinet
+T474	person 40537 40542	Robin
+T475	organization 40647 40650	NSC
+T476	location 40671 40675	Iran
+T477	person 40856 40863	MacNEIL
+T478	person 40896 40910	Senator Rudman
+T479	person 41031 41042	Sen. RUDMAN
+T480	location 41103 41107	Iran
+T481	person 41267 41272	North
+T482	person 41277 41287	Poindexter
+T483	person 41798 41809	Judge Walsh
+T484	person 41882 41889	MacNEIL
+T485	person 41921 41935	Senator Rudman
+T486	person 41941 41955	Senator Inouye
+T487	program_title 41957 41979	AIDS/Dr. Jonathan Mann
+T488	person 41982 41988	LEHRER
+T489	event 42028 42065	third annual International Conference
+T490	location 42113 42123	Washington
+T491	program_title 42194 42213	newsmaker interview
+T492	person 42219 42236	Dr. Jonathan Mann
+T493	organization 42254 42299	AIDS Program of the World Health Organization
+T494	person 42340 42348	Dr. Mann
+T495	person 42361 42378	Dr. JONATHAN MANN
+T496	organization 42380 42405	World Health Organization
+T497	person 42420 42426	LEHRER
+T498	person 42480 42488	Dr. MANN
+T499	organization 42576 42601	World Health Organization
+T500	person 42846 42852	LEHRER
+T501	person 42958 42966	Dr. MANN
+T502	location 43039 43052	South America
+T503	location 43054 43069	Central America
+T504	location 43078 43087	Caribbean
+T505	location 43099 43112	North America
+T506	location 43131 43137	Europe
+T507	location 43164 43170	Africa
+T508	location 43197 43201	Asia
+T509	location 43225 43236	Middle East
+T510	person 43240 43246	LEHRER
+T511	person 43374 43382	Dr. MANN
+T512	location 43447 43455	Americas
+T513	location 43492 43505	United States
+T514	organization 43720 43745	World Health Organization
+T515	person 43749 43755	LEHRER
+T516	person 43768 43776	Dr. MANN
+T517	person 44008 44014	LEHRER
+T518	person 44080 44088	Dr. MANN
+T519	person 44430 44436	LEHRER
+T520	person 44501 44509	Dr. MANN
+T521	person 44853 44859	LEHRER
+T522	person 44943 44951	Dr. MANN
+T523	location 45029 45035	Africa
+T524	location 45040 45046	Africa
+T525	location 45232 45238	Europe
+T526	organization 45323 45348	World Health Organization
+T527	location 45440 45457	SubSaharan Africa
+T528	person 45521 45527	LEHRER
+T529	location 45613 45619	Africa
+T530	person 45671 45679	Dr. MANN
+T531	person 46058 46064	LEHRER
+T532	person 46216 46224	Dr. MANN
+T533	person 46573 46579	LEHRER
+T534	person 46639 46647	Dr. MANN
+T535	person 47047 47053	LEHRER
+T536	person 47136 47144	Dr. MANN
+T537	location 47168 47174	Africa
+T538	person 47394 47400	LEHRER
+T539	person 47420 47428	Dr. MANN
+T540	person 47521 47527	LEHRER
+T541	person 47561 47569	Dr. MANN
+T542	location 47740 47753	United States
+T543	person 47773 47779	LEHRER
+T544	person 47816 47824	Dr. Mann
+T545	person 47973 47981	Dr. MANN
+T546	location 48035 48041	Europe
+T547	location 48055 48069	United Kingdom
+T548	location 48074 48085	Switzerland
+T549	location 48267 48273	LEHRER
+T550	location 48374 48382	Dr. MANN
+T551	person 48476 48482	LEHRER
+T552	person 48492 48500	Dr. MANN
+T553	location 48567 48573	Uganda
+T554	location 48575 48581	Uganda
+T555	location 48951 48960	Australia
+T556	location 48801 48807	Uganda
+T557	person 49179 49185	LEHRER
+T558	person 49277 49285	Dr. MANN
+T559	location 49417 49430	United States
+T560	location 49438 49444	Europe
+T561	person 49739 49745	LEHRER
+T562	person 49901 49909	Dr. MANN
+T563	person 49996 50002	LEHRER
+T564	person 50041 50049	Dr. MANN
+T565	person 50183 50189	LEHRER
+T566	person 50384 50392	Dr. MANN
+T567	person 50651 50657	LEHRER
+T568	event 48729 48754	"Love Carefully" campaign
+T569	person 50692 50700	Dr. MANN
+T570	person 50917 50923	LEHRER
+T571	person 51059 51067	Dr. MANN
+T572	person 51493 51499	LEHRER
+T573	person 51652 51660	Dr. MANN
+T574	person 52219 52225	LEHRER
+T575	organization 52267 52283	Rand Corporation
+T576	person 52321 52329	Dr. MANN
+T577	person 52635 52641	LEHRER
+T578	person 52760 52768	Dr. MANN
+T579	location 52921 52935	Central Africa
+T580	person 53003 53009	LEHRER
+T581	person 53011 53019	Dr. Mann
+T582	person 53086 53093	MacNEIL
+T583	person 53148 53160	Albert Hakim
+T584	organization 53170 53192	Iran-contra committees
+T585	event 53236 53251	Iran arms sales
+T586	person 53256 53268	Oliver North
+T587	organization 53289 53298	Democrats
+T588	person 53326 53369	Assistant Secretary of State Elliott Abrams
+T589	person 53395 53429	Independent Counsel Lawrence Walsh
+T590	person 53471 53481	Col. North
+T591	program_title 53494 53502	NewsHour
+T592	organization 53539 53555	Senate Committee
+T593	person 53566 53579	Daniel Inouye
+T594	person 53584 53597	Warren Rudman
+T595	person 53622 53627	North
+T596	person 53653 53656	Jim
+T597	person 53660 53666	LEHRER
+T598	person 53680 53685	Robin
+T599	person 53721 53731	Jim Lehrer
