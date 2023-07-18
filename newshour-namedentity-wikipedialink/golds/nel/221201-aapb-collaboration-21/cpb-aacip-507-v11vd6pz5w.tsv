@@ -1,0 +1,176 @@
+index	timestamp	GUID	entity	type	instances	wiki_url	QID
+2316	2022-11-18 16:20:53	cpb-aacip-507-v11vd6pz5w-transcript.ann	JIM LEHRER	person	27	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+2317	2022-11-18 16:20:55	cpb-aacip-507-v11vd6pz5w-transcript.ann	Jim Lehrer	person	2	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+2318	2022-11-18 16:20:56	cpb-aacip-507-v11vd6pz5w-transcript.ann	NewsHour	program_title	2	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+2319	2022-11-18 16:21:00	cpb-aacip-507-v11vd6pz5w-transcript.ann	Iraq	location	38	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+2320	2022-11-18 16:21:02	cpb-aacip-507-v11vd6pz5w-transcript.ann	New York Times	publication_title	2	https://en.wikipedia.org/wiki/The_New_York_Times	https://www.wikidata.org/wiki/Q9684
+2321	2022-11-18 16:21:04	cpb-aacip-507-v11vd6pz5w-transcript.ann	Senate Foreign Relations Committee	organization	2	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Foreign_Relations	https://www.wikidata.org/wiki/Q1806257
+2322	2022-11-18 16:21:56	cpb-aacip-507-v11vd6pz5w-transcript.ann	Lugar	person	1	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2323	2022-11-18 16:22:11	cpb-aacip-507-v11vd6pz5w-transcript.ann	Biden	person	1	https://en.wikipedia.org/wiki/Joe_Biden	https://www.wikidata.org/wiki/Q6279
+2324	2022-11-18 16:22:28	cpb-aacip-507-v11vd6pz5w-transcript.ann	Major League Baseball	organization	1	https://en.wikipedia.org/wiki/Major_League_Baseball	https://www.wikidata.org/wiki/Q1163715
+2325	2022-11-18 16:22:30	cpb-aacip-507-v11vd6pz5w-transcript.ann	NEWS SUMMARY	program_title	1		
+2326	2022-11-18 16:22:32	cpb-aacip-507-v11vd6pz5w-transcript.ann	U.S.	location	21	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2327	2022-11-18 16:22:44	cpb-aacip-507-v11vd6pz5w-transcript.ann	Baghdad	location	12	https://en.wikipedia.org/wiki/Baghdad	https://www.wikidata.org/wiki/Q1530
+2328	2022-11-18 16:22:54	cpb-aacip-507-v11vd6pz5w-transcript.ann	Moqtada Sadr	person	1	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2329	2022-11-18 16:23:04	cpb-aacip-507-v11vd6pz5w-transcript.ann	U.S. Military	organization	1	https://en.wikipedia.org/wiki/United_States_Armed_Forces	https://www.wikidata.org/wiki/Q11211
+2330	2022-11-18 16:23:10	cpb-aacip-507-v11vd6pz5w-transcript.ann	al-Sadr	person	17	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2331	2022-11-18 16:23:25	cpb-aacip-507-v11vd6pz5w-transcript.ann	BRIG. GEN. MARK KIMMITT	person	2	https://en.wikipedia.org/wiki/Mark_Kimmitt	https://www.wikidata.org/wiki/Q6768388
+2332	2022-11-18 16:23:38	cpb-aacip-507-v11vd6pz5w-transcript.ann	U.S. Marines	organization	1	https://en.wikipedia.org/wiki/United_States_Marine_Corps	https://www.wikidata.org/wiki/Q11218
+2333	2022-11-18 16:23:48	cpb-aacip-507-v11vd6pz5w-transcript.ann	Fallujah	location	7	https://en.wikipedia.org/wiki/Fallujah	https://www.wikidata.org/wiki/Q191170
+2334	2022-11-18 16:23:57	cpb-aacip-507-v11vd6pz5w-transcript.ann	President Bush	person	4	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+2335	2022-11-18 16:23:58	cpb-aacip-507-v11vd6pz5w-transcript.ann	United States	location	10	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2336	2022-11-18 16:24:00	cpb-aacip-507-v11vd6pz5w-transcript.ann	North Carolina	location	1	https://en.wikipedia.org/wiki/North_Carolina	https://www.wikidata.org/wiki/Q1454
+2337	2022-11-18 16:24:02	cpb-aacip-507-v11vd6pz5w-transcript.ann	PRESIDENT GEORGE W. BUSH	person	2	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+2338	2022-11-18 16:24:03	cpb-aacip-507-v11vd6pz5w-transcript.ann	America	location	1	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2339	2022-11-18 16:24:05	cpb-aacip-507-v11vd6pz5w-transcript.ann	News Summary	program_title	2		
+2340	2022-11-18 16:24:17	cpb-aacip-507-v11vd6pz5w-transcript.ann	Madrid train bombings	event	1	https://en.wikipedia.org/wiki/2004_Madrid_train_bombings	https://www.wikidata.org/wiki/Q213531
+2341	2022-11-18 16:24:25	cpb-aacip-507-v11vd6pz5w-transcript.ann	Madrid	location	1	https://en.wikipedia.org/wiki/Madrid	https://www.wikidata.org/wiki/Q2807
+2342	2022-11-18 16:24:34	cpb-aacip-507-v11vd6pz5w-transcript.ann	March 11 bombing	event	1	https://en.wikipedia.org/wiki/2004_Madrid_train_bombings	https://www.wikidata.org/wiki/Q213531
+2343	2022-11-18 16:24:56	cpb-aacip-507-v11vd6pz5w-transcript.ann	Secretary of State Powell	person	1	https://en.wikipedia.org/wiki/Colin_Powell	https://www.wikidata.org/wiki/Q150851
+2344	2022-11-18 16:24:58	cpb-aacip-507-v11vd6pz5w-transcript.ann	Haiti	location	1	https://en.wikipedia.org/wiki/Haiti	https://www.wikidata.org/wiki/Q790
+2345	2022-11-18 16:25:14	cpb-aacip-507-v11vd6pz5w-transcript.ann	President Aristide	person	1	https://en.wikipedia.org/wiki/Jean-Bertrand_Aristide	https://www.wikidata.org/wiki/Q209617
+2346	2022-11-18 16:25:16	cpb-aacip-507-v11vd6pz5w-transcript.ann	Powell	person	1	https://en.wikipedia.org/wiki/Colin_Powell	https://www.wikidata.org/wiki/Q150851
+2347	2022-11-18 16:25:38	cpb-aacip-507-v11vd6pz5w-transcript.ann	Gerard Latortue	person	1	https://en.wikipedia.org/wiki/G%C3%A9rard_Latortue	https://www.wikidata.org/wiki/Q560895
+2348	2022-11-18 16:25:41	cpb-aacip-507-v11vd6pz5w-transcript.ann	Canada	location	1	https://en.wikipedia.org/wiki/Canada	https://www.wikidata.org/wiki/Q16
+2349	2022-11-18 16:25:42	cpb-aacip-507-v11vd6pz5w-transcript.ann	Mexico	location	2	https://en.wikipedia.org/wiki/Mexico	https://www.wikidata.org/wiki/Q96
+2350	2022-11-18 16:26:09	cpb-aacip-507-v11vd6pz5w-transcript.ann	Piedras Negras	location	1	https://en.wikipedia.org/wiki/Piedras_Negras,_Coahuila	https://www.wikidata.org/wiki/Q1856408
+2351	2022-11-18 16:26:11	cpb-aacip-507-v11vd6pz5w-transcript.ann	San Antonio, Texas	location	1	https://en.wikipedia.org/wiki/San_Antonio	https://www.wikidata.org/wiki/Q975
+2352	2022-11-18 16:26:12	cpb-aacip-507-v11vd6pz5w-transcript.ann	Texas	location	1	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+2353	2022-11-18 16:26:22	cpb-aacip-507-v11vd6pz5w-transcript.ann	New Mexico	location	1	https://en.wikipedia.org/wiki/New_Mexico	https://www.wikidata.org/wiki/Q1522
+2354	2022-11-18 16:26:31	cpb-aacip-507-v11vd6pz5w-transcript.ann	Los Angeles Times	publication_title	1	https://en.wikipedia.org/wiki/Los_Angeles_Times	https://www.wikidata.org/wiki/Q188515
+2355	2022-11-18 16:26:32	cpb-aacip-507-v11vd6pz5w-transcript.ann	California	location	1	https://en.wikipedia.org/wiki/California	https://www.wikidata.org/wiki/Q99
+2356	2022-11-18 16:26:54	cpb-aacip-507-v11vd6pz5w-transcript.ann	The Blade	publication_title	1	https://en.wikipedia.org/wiki/The_Blade_(Toledo,_Ohio)	https://www.wikidata.org/wiki/Q442288
+2357	2022-11-18 16:27:01	cpb-aacip-507-v11vd6pz5w-transcript.ann	Toledo, Ohio	location	1	https://en.wikipedia.org/wiki/Toledo,_Ohio	https://www.wikidata.org/wiki/Q49239
+2358	2022-11-18 16:27:09	cpb-aacip-507-v11vd6pz5w-transcript.ann	U.S. Army	organization	1	https://en.wikipedia.org/wiki/United_States_Army	https://www.wikidata.org/wiki/Q9212
+2359	2022-11-18 16:27:20	cpb-aacip-507-v11vd6pz5w-transcript.ann	tiger force	organization	1	https://en.wikipedia.org/wiki/Tiger_Force	https://www.wikidata.org/wiki/Q1520826
+2360	2022-11-18 16:27:28	cpb-aacip-507-v11vd6pz5w-transcript.ann	Vietnam War	event	1	https://en.wikipedia.org/wiki/Vietnam_War	https://www.wikidata.org/wiki/Q8740
+2361	2022-11-18 16:27:46	cpb-aacip-507-v11vd6pz5w-transcript.ann	William Taubman	person	1	https://en.wikipedia.org/wiki/William_Taubman	https://www.wikidata.org/wiki/Q32678
+2362	2022-11-18 16:27:56	cpb-aacip-507-v11vd6pz5w-transcript.ann	Nikita Khrushchev	person	1	https://en.wikipedia.org/wiki/Nikita_Khrushchev	https://www.wikidata.org/wiki/Q35314
+2363	2022-11-18 16:28:06	cpb-aacip-507-v11vd6pz5w-transcript.ann	Anne Applebaum	person	1	https://en.wikipedia.org/wiki/Anne_Applebaum	https://www.wikidata.org/wiki/Q233479
+2364	2022-11-18 16:28:25	cpb-aacip-507-v11vd6pz5w-transcript.ann	Edward P. Jones	person	1	https://en.wikipedia.org/wiki/Edward_P._Jones	https://www.wikidata.org/wiki/Q942627
+2365	2022-11-18 16:28:35	cpb-aacip-507-v11vd6pz5w-transcript.ann	The Known World	publication_title	1	https://en.wikipedia.org/wiki/The_Known_World	https://www.wikidata.org/wiki/Q7744892
+2366	2022-11-18 16:28:53	cpb-aacip-507-v11vd6pz5w-transcript.ann	Wright	person	1	https://en.wikipedia.org/wiki/Doug_Wright	https://www.wikidata.org/wiki/Q722807
+2367	2022-11-18 16:29:25	cpb-aacip-507-v11vd6pz5w-transcript.ann	Walking to Martha's Vineyard	publication_title	1		
+2368	2022-11-18 16:29:37	cpb-aacip-507-v11vd6pz5w-transcript.ann	Paul Moravec	person	1	https://en.wikipedia.org/wiki/Paul_Moravec	https://www.wikidata.org/wiki/Q7152593
+2369	2022-11-18 16:29:50	cpb-aacip-507-v11vd6pz5w-transcript.ann	Tempest Fantasy	publication_title	1	https://en.wikipedia.org/wiki/Tempest_Fantasy	https://www.wikidata.org/wiki/Q19881238
+2370	2022-11-18 16:30:23	cpb-aacip-507-v11vd6pz5w-transcript.ann	Doug Wright	person	1	https://en.wikipedia.org/wiki/Doug_Wright	https://www.wikidata.org/wiki/Q722807
+2371	2022-11-18 16:30:31	cpb-aacip-507-v11vd6pz5w-transcript.ann	I Am My own Wife	publication_title	1	https://en.wikipedia.org/wiki/I_Am_My_Own_Wife	https://www.wikidata.org/wiki/Q3505056
+2372	2022-11-18 16:30:41	cpb-aacip-507-v11vd6pz5w-transcript.ann	J.C. Penney	organization	1	https://en.wikipedia.org/wiki/JCPenney	https://www.wikidata.org/wiki/Q920037
+2373	2022-11-18 16:30:59	cpb-aacip-507-v11vd6pz5w-transcript.ann	Eckerd	organization	2	https://en.wikipedia.org/wiki/Eckerd_Corporation	https://www.wikidata.org/wiki/Q5332881
+2374	2022-11-18 16:31:13	cpb-aacip-507-v11vd6pz5w-transcript.ann	CVS Corporation	organization	1	https://en.wikipedia.org/wiki/CVS_Health	https://www.wikidata.org/wiki/Q624375
+2375	2022-11-18 16:31:17	cpb-aacip-507-v11vd6pz5w-transcript.ann	CVS	organization	1	https://en.wikipedia.org/wiki/CVS_Health	https://www.wikidata.org/wiki/Q624375
+2376	2022-11-18 16:31:28	cpb-aacip-507-v11vd6pz5w-transcript.ann	Bank of America	organization	1	https://en.wikipedia.org/wiki/Bank_of_America	https://www.wikidata.org/wiki/Q487907
+2377	2022-11-18 16:31:40	cpb-aacip-507-v11vd6pz5w-transcript.ann	Fleet Boston Financial Corporation	organization	1	https://en.wikipedia.org/wiki/FleetBoston_Financial	https://www.wikidata.org/wiki/Q3073513
+2378	2022-11-18 16:31:42	cpb-aacip-507-v11vd6pz5w-transcript.ann	Wall Street	organization	1	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+2379	2022-11-18 16:31:43	cpb-aacip-507-v11vd6pz5w-transcript.ann	Dow Jones Industrial Average	organization	1	https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average	https://www.wikidata.org/wiki/Q180816
+2380	2022-11-18 16:31:45	cpb-aacip-507-v11vd6pz5w-transcript.ann	NASDAQ	organization	1	https://en.wikipedia.org/wiki/Nasdaq_Composite	https://www.wikidata.org/wiki/Q575782
+2381	2022-11-18 16:31:48	cpb-aacip-507-v11vd6pz5w-transcript.ann	FOCUS - TURMOIL	program_title	1		
+2382	2022-11-18 16:32:00	cpb-aacip-507-v11vd6pz5w-transcript.ann	Margaret Warner	person	1	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+2383	2022-11-18 16:32:02	cpb-aacip-507-v11vd6pz5w-transcript.ann	MARGARET WARNER	person	10	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+2384	2022-11-18 16:32:20	cpb-aacip-507-v11vd6pz5w-transcript.ann	Najaf	location	3	https://en.wikipedia.org/wiki/Najaf	https://www.wikidata.org/wiki/Q168193
+2385	2022-11-18 16:32:29	cpb-aacip-507-v11vd6pz5w-transcript.ann	Sadr City	location	3	https://en.wikipedia.org/wiki/Sadr_City	https://www.wikidata.org/wiki/Q1017715
+2386	2022-11-18 16:32:45	cpb-aacip-507-v11vd6pz5w-transcript.ann	Moqtada al Sadr	person	1	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2387	2022-11-18 16:33:07	cpb-aacip-507-v11vd6pz5w-transcript.ann	al Sadr	person	2	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2388	2022-11-18 16:33:17	cpb-aacip-507-v11vd6pz5w-transcript.ann	Paul Bremer	person	2	https://en.wikipedia.org/wiki/Paul_Bremer	https://www.wikidata.org/wiki/Q217683
+2389	2022-11-18 16:33:27	cpb-aacip-507-v11vd6pz5w-transcript.ann	alSadr	person	1	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2390	2022-11-18 16:33:33	cpb-aacip-507-v11vd6pz5w-transcript.ann	L. PAUL BREMER	person	1	https://en.wikipedia.org/wiki/Paul_Bremer	https://www.wikidata.org/wiki/Q217683
+2391	2022-11-18 16:33:45	cpb-aacip-507-v11vd6pz5w-transcript.ann	Brigadier General Mark Kimmitt	person	1	https://en.wikipedia.org/wiki/Mark_Kimmitt	https://www.wikidata.org/wiki/Q6768388
+2392	2022-11-18 16:33:57	cpb-aacip-507-v11vd6pz5w-transcript.ann	al Mahdi army	organization	1	https://en.wikipedia.org/wiki/Peace_Companies	https://www.wikidata.org/wiki/Q861979
+2393	2022-11-18 16:34:11	cpb-aacip-507-v11vd6pz5w-transcript.ann	al Mahdi militia	organization	1	https://en.wikipedia.org/wiki/Peace_Companies	https://www.wikidata.org/wiki/Q861979
+2394	2022-11-18 16:34:24	cpb-aacip-507-v11vd6pz5w-transcript.ann	Jeffrey Gettleman	person	2	https://en.wikipedia.org/wiki/Jeffrey_Gettleman	https://www.wikidata.org/wiki/Q6176001
+2395	2022-11-18 16:34:26	cpb-aacip-507-v11vd6pz5w-transcript.ann	Jeffrey	person	1	https://en.wikipedia.org/wiki/Jeffrey_Gettleman	https://www.wikidata.org/wiki/Q6176001
+2396	2022-11-18 16:34:28	cpb-aacip-507-v11vd6pz5w-transcript.ann	JEFFREY GETTLEMAN	person	8	https://en.wikipedia.org/wiki/Jeffrey_Gettleman	https://www.wikidata.org/wiki/Q6176001
+2397	2022-11-18 16:34:37	cpb-aacip-507-v11vd6pz5w-transcript.ann	Kufa	location	5	https://en.wikipedia.org/wiki/Kufa	https://www.wikidata.org/wiki/Q186234
+2398	2022-11-18 16:34:49	cpb-aacip-507-v11vd6pz5w-transcript.ann	Iraqi police	organization	2	https://en.wikipedia.org/wiki/Iraqi_Police	https://www.wikidata.org/wiki/Q3394187
+2399	2022-11-18 16:35:00	cpb-aacip-507-v11vd6pz5w-transcript.ann	Moqtada al-Sadr	person	7	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2400	2022-11-18 16:35:13	cpb-aacip-507-v11vd6pz5w-transcript.ann	Basra	location	1	https://en.wikipedia.org/wiki/Basra	https://www.wikidata.org/wiki/Q48195
+2401	2022-11-18 16:35:25	cpb-aacip-507-v11vd6pz5w-transcript.ann	Ayatollah Sistani	person	1	https://en.wikipedia.org/wiki/Ali_al-Sistani	https://www.wikidata.org/wiki/Q337489
+2402	2022-11-18 16:35:26	cpb-aacip-507-v11vd6pz5w-transcript.ann	Sistani	person	6	https://en.wikipedia.org/wiki/Ali_al-Sistani	https://www.wikidata.org/wiki/Q337489
+2403	2022-11-18 16:35:33	cpb-aacip-507-v11vd6pz5w-transcript.ann	Sadr	person	10	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2404	2022-11-18 16:35:45	cpb-aacip-507-v11vd6pz5w-transcript.ann	Euphrates River	location	1	https://en.wikipedia.org/wiki/Euphrates	https://www.wikidata.org/wiki/Q34589
+2405	2022-11-18 16:35:48	cpb-aacip-507-v11vd6pz5w-transcript.ann	Gwen Ifill	person	1	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+2406	2022-11-18 16:35:50	cpb-aacip-507-v11vd6pz5w-transcript.ann	GWEN IFILL	person	11	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+2407	2022-11-18 16:36:38	cpb-aacip-507-v11vd6pz5w-transcript.ann	Samer Shehata	person	2		
+2408	2022-11-18 16:36:40	cpb-aacip-507-v11vd6pz5w-transcript.ann	Middle East	location	2	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+2409	2022-11-18 16:36:57	cpb-aacip-507-v11vd6pz5w-transcript.ann	Center for Contemporary Arab Studies	organization	1	https://en.wikipedia.org/wiki/Center_for_Contemporary_Arab_Studies	https://www.wikidata.org/wiki/Q5059565
+2410	2022-11-18 16:37:04	cpb-aacip-507-v11vd6pz5w-transcript.ann	Georgetown University	organization	1	https://en.wikipedia.org/wiki/Georgetown_University	https://www.wikidata.org/wiki/Q333886
+2411	2022-11-18 16:37:18	cpb-aacip-507-v11vd6pz5w-transcript.ann	Adeed Dawisha	person	3		
+2412	2022-11-18 16:37:29	cpb-aacip-507-v11vd6pz5w-transcript.ann	Miami University	organization	1	https://en.wikipedia.org/wiki/Miami_University	https://www.wikidata.org/wiki/Q590643
+2413	2022-11-18 16:37:31	cpb-aacip-507-v11vd6pz5w-transcript.ann	Ohio	location	1	https://en.wikipedia.org/wiki/Ohio	https://www.wikidata.org/wiki/Q1397
+2414	2022-11-18 16:37:49	cpb-aacip-507-v11vd6pz5w-transcript.ann	Professor Shehata	person	5		
+2415	2022-11-18 16:37:51	cpb-aacip-507-v11vd6pz5w-transcript.ann	SAMER SHEHATA	person	5		
+2416	2022-11-18 16:38:04	cpb-aacip-507-v11vd6pz5w-transcript.ann	coalition provisional authority	organization	5	https://en.wikipedia.org/wiki/Coalition_Provisional_Authority	https://www.wikidata.org/wiki/Q965174
+2417	2022-11-18 16:38:06	cpb-aacip-507-v11vd6pz5w-transcript.ann	CPA	organization	7	https://en.wikipedia.org/wiki/Coalition_Provisional_Authority	https://www.wikidata.org/wiki/Q965174
+2418	2022-11-18 16:38:19	cpb-aacip-507-v11vd6pz5w-transcript.ann	Saddam Hussein	person	2	https://en.wikipedia.org/wiki/Saddam_Hussein	https://www.wikidata.org/wiki/Q1316
+2419	2022-11-18 16:38:27	cpb-aacip-507-v11vd6pz5w-transcript.ann	ADEED DAWISHA	person	4		
+2420	2022-11-18 16:38:39	cpb-aacip-507-v11vd6pz5w-transcript.ann	Sunni Triangle	location	3	https://en.wikipedia.org/wiki/Sunni_Triangle	https://www.wikidata.org/wiki/Q687564
+2421	2022-11-18 16:38:54	cpb-aacip-507-v11vd6pz5w-transcript.ann	Ayatollah al Sistani	person	1	https://en.wikipedia.org/wiki/Ali_al-Sistani	https://www.wikidata.org/wiki/Q337489
+2422	2022-11-18 16:38:56	cpb-aacip-507-v11vd6pz5w-transcript.ann	al-Sistani	person	1	https://en.wikipedia.org/wiki/Ali_al-Sistani	https://www.wikidata.org/wiki/Q337489
+2423	2022-11-18 16:38:59	cpb-aacip-507-v11vd6pz5w-transcript.ann	Professor Dawisha	person	2		
+2424	2022-11-18 16:39:22	cpb-aacip-507-v11vd6pz5w-transcript.ann	Mr. Al-Sadr	person	1	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2425	2022-11-18 16:39:26	cpb-aacip-507-v11vd6pz5w-transcript.ann	ADEEDDAWISHA	person	1		
+2426	2022-11-18 16:39:36	cpb-aacip-507-v11vd6pz5w-transcript.ann	Saddam City	location	1	https://en.wikipedia.org/wiki/Sadr_City	https://www.wikidata.org/wiki/Q1017715
+2427	2022-11-18 16:39:47	cpb-aacip-507-v11vd6pz5w-transcript.ann	a Mahdi army	organization	1	https://en.wikipedia.org/wiki/Peace_Companies	https://www.wikidata.org/wiki/Q861979
+2428	2022-11-18 16:39:49	cpb-aacip-507-v11vd6pz5w-transcript.ann	Mahdi army	organization	1	https://en.wikipedia.org/wiki/Peace_Companies	https://www.wikidata.org/wiki/Q861979
+2429	2022-11-18 16:39:56	cpb-aacip-507-v11vd6pz5w-transcript.ann	a Sadr	person	1	https://en.wikipedia.org/wiki/Muqtada_al-Sadr	https://www.wikidata.org/wiki/Q216826
+2430	2022-11-18 16:40:06	cpb-aacip-507-v11vd6pz5w-transcript.ann	Richard Lugar	person	1	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2431	2022-11-18 16:40:08	cpb-aacip-507-v11vd6pz5w-transcript.ann	Indiana	location	1	https://en.wikipedia.org/wiki/Indiana	https://www.wikidata.org/wiki/Q1415
+2432	2022-11-18 16:40:22	cpb-aacip-507-v11vd6pz5w-transcript.ann	Joe Biden	person	3	https://en.wikipedia.org/wiki/Joe_Biden	https://www.wikidata.org/wiki/Q6279
+2433	2022-11-18 16:40:31	cpb-aacip-507-v11vd6pz5w-transcript.ann	Delaware	location	1	https://en.wikipedia.org/wiki/Delaware	https://www.wikidata.org/wiki/Q1393
+2434	2022-11-18 16:40:38	cpb-aacip-507-v11vd6pz5w-transcript.ann	Senator Lugar	person	7	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2435	2022-11-18 16:40:41	cpb-aacip-507-v11vd6pz5w-transcript.ann	SEN. RICHARD LUGAR	person	9	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2436	2022-11-18 16:40:44	cpb-aacip-507-v11vd6pz5w-transcript.ann	Senate	organization	1	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+2437	2022-11-18 16:40:46	cpb-aacip-507-v11vd6pz5w-transcript.ann	Congress	organization	3	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+2438	2022-11-18 16:40:48	cpb-aacip-507-v11vd6pz5w-transcript.ann	Foreign Relations Committee	organization	2	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Foreign_Relations	https://www.wikidata.org/wiki/Q1806257
+2439	2022-11-18 16:40:54	cpb-aacip-507-v11vd6pz5w-transcript.ann	Senator Biden	person	6	https://en.wikipedia.org/wiki/Joe_Biden	https://www.wikidata.org/wiki/Q6279
+2440	2022-11-18 16:40:56	cpb-aacip-507-v11vd6pz5w-transcript.ann	SEN. JOSEPH BIDEN	person	7	https://en.wikipedia.org/wiki/Joe_Biden	https://www.wikidata.org/wiki/Q6279
+2441	2022-11-18 16:41:12	cpb-aacip-507-v11vd6pz5w-transcript.ann	Bremer	person	2	https://en.wikipedia.org/wiki/Paul_Bremer	https://www.wikidata.org/wiki/Q217683
+2442	2022-11-18 16:41:53	cpb-aacip-507-v11vd6pz5w-transcript.ann	Chalabi	person	1		
+2443	2022-11-18 16:41:57	cpb-aacip-507-v11vd6pz5w-transcript.ann	Afghanistan	location	1	https://en.wikipedia.org/wiki/Afghanistan	https://www.wikidata.org/wiki/Q889
+2444	2022-11-18 16:42:20	cpb-aacip-507-v11vd6pz5w-transcript.ann	Loyah Jirga	organization	1	https://en.wikipedia.org/wiki/2003_loya_jirga	https://www.wikidata.org/wiki/Q4602141
+2445	2022-11-18 16:42:49	cpb-aacip-507-v11vd6pz5w-transcript.ann	U. N.	organization	2	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+2446	2022-11-18 16:43:23	cpb-aacip-507-v11vd6pz5w-transcript.ann	Brahimi	person	1	https://en.wikipedia.org/wiki/Lakhdar_Brahimi	https://www.wikidata.org/wiki/Q466995
+2447	2022-11-18 16:43:25	cpb-aacip-507-v11vd6pz5w-transcript.ann	U.N.	organization	1	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+2448	2022-11-18 16:43:41	cpb-aacip-507-v11vd6pz5w-transcript.ann	Dick	person	2	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2449	2022-11-18 16:43:43	cpb-aacip-507-v11vd6pz5w-transcript.ann	U.S. Government	organization	1	https://en.wikipedia.org/wiki/Federal_government_of_the_United_States	https://www.wikidata.org/wiki/Q48525
+2450	2022-11-18 16:43:54	cpb-aacip-507-v11vd6pz5w-transcript.ann	Iraqi government	organization	1	https://en.wikipedia.org/wiki/Federal_government_of_Iraq	https://www.wikidata.org/wiki/Q1672351
+2451	2022-11-18 16:44:06	cpb-aacip-507-v11vd6pz5w-transcript.ann	Iraqi governing council	organization	2	https://en.wikipedia.org/wiki/Iraqi_Governing_Council	https://www.wikidata.org/wiki/Q1672361
+2452	2022-11-18 16:44:08	cpb-aacip-507-v11vd6pz5w-transcript.ann	Pentagon	organization	1	https://en.wikipedia.org/wiki/The_Pentagon	https://www.wikidata.org/wiki/Q11208
+2453	2022-11-18 16:44:11	cpb-aacip-507-v11vd6pz5w-transcript.ann	State Department	organization	2	https://en.wikipedia.org/wiki/United_States_Department_of_State	https://www.wikidata.org/wiki/Q789915
+2454	2022-11-18 16:44:58	cpb-aacip-507-v11vd6pz5w-transcript.ann	Jerry Bremer	person	1	https://en.wikipedia.org/wiki/Paul_Bremer	https://www.wikidata.org/wiki/Q217683
+2455	2022-11-18 16:45:26	cpb-aacip-507-v11vd6pz5w-transcript.ann	Dick Lugar	person	3	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2456	2022-11-18 16:45:27	cpb-aacip-507-v11vd6pz5w-transcript.ann	United States of America	location	1	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2457	2022-11-18 16:46:01	cpb-aacip-507-v11vd6pz5w-transcript.ann	Dr. Rice	person	1	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+2458	2022-11-18 16:46:13	cpb-aacip-507-v11vd6pz5w-transcript.ann	President Chirac	person	1	https://en.wikipedia.org/wiki/Jacques_Chirac	https://www.wikidata.org/wiki/Q2105
+2459	2022-11-18 16:46:15	cpb-aacip-507-v11vd6pz5w-transcript.ann	NATO	organization	1	https://en.wikipedia.org/wiki/NATO	https://www.wikidata.org/wiki/Q7184
+2460	2022-11-18 16:46:32	cpb-aacip-507-v11vd6pz5w-transcript.ann	Brussels	location	1	https://en.wikipedia.org/wiki/Brussels	https://www.wikidata.org/wiki/Q240
+2461	2022-11-18 16:46:34	cpb-aacip-507-v11vd6pz5w-transcript.ann	Europe	location	1	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+2462	2022-11-18 16:46:41	cpb-aacip-507-v11vd6pz5w-transcript.ann	Condi	person	1	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+2463	2022-11-18 16:46:53	cpb-aacip-507-v11vd6pz5w-transcript.ann	Jim	person	2	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+2464	2022-11-18 16:46:57	cpb-aacip-507-v11vd6pz5w-transcript.ann	FOCUS - OUT AT THE OLD BALLGAME	program_title	1		
+2465	2022-11-18 16:47:10	cpb-aacip-507-v11vd6pz5w-transcript.ann	Terence smith	person	1	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+2466	2022-11-18 16:47:11	cpb-aacip-507-v11vd6pz5w-transcript.ann	TERENCE SMITH	person	12	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+2467	2022-11-18 16:47:22	cpb-aacip-507-v11vd6pz5w-transcript.ann	St. Louis	location	1	https://en.wikipedia.org/wiki/St._Louis	https://www.wikidata.org/wiki/Q38022
+2468	2022-11-18 16:47:39	cpb-aacip-507-v11vd6pz5w-transcript.ann	Cardinals	organization	1	https://en.wikipedia.org/wiki/St._Louis_Cardinals	https://www.wikidata.org/wiki/Q504309
+2469	2022-11-18 16:47:41	cpb-aacip-507-v11vd6pz5w-transcript.ann	San Francisco	location	1	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+2470	2022-11-18 16:47:52	cpb-aacip-507-v11vd6pz5w-transcript.ann	Balco	organization	2	https://en.wikipedia.org/wiki/Bay_Area_Laboratory_Co-operative	https://www.wikidata.org/wiki/Q795416
+2471	2022-11-18 16:48:01	cpb-aacip-507-v11vd6pz5w-transcript.ann	Barry Bonds	person	1	https://en.wikipedia.org/wiki/Barry_Bonds	https://www.wikidata.org/wiki/Q314712
+2472	2022-11-18 16:48:05	cpb-aacip-507-v11vd6pz5w-transcript.ann	Washington	organization	1	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+2473	2022-11-18 16:48:16	cpb-aacip-507-v11vd6pz5w-transcript.ann	Senator John McCain	person	1	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+2474	2022-11-18 16:48:18	cpb-aacip-507-v11vd6pz5w-transcript.ann	SEN. JOHN McCAIN	person	1	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+2475	2022-11-18 16:48:29	cpb-aacip-507-v11vd6pz5w-transcript.ann	baseball commissioner Bud Selig	person	1	https://en.wikipedia.org/wiki/Bud_Selig	https://www.wikidata.org/wiki/Q2927496
+2476	2022-11-18 16:48:33	cpb-aacip-507-v11vd6pz5w-transcript.ann	ABC	organization	1	https://en.wikipedia.org/wiki/American_Broadcasting_Company	https://www.wikidata.org/wiki/Q169889
+2477	2022-11-18 16:49:04	cpb-aacip-507-v11vd6pz5w-transcript.ann	This Week	program_title	1	https://en.wikipedia.org/wiki/This_Week_(American_TV_program)	https://www.wikidata.org/wiki/Q3130024
+2478	2022-11-18 16:49:10	cpb-aacip-507-v11vd6pz5w-transcript.ann	BUD SELIG	person	1	https://en.wikipedia.org/wiki/Bud_Selig	https://www.wikidata.org/wiki/Q2927496
+2479	2022-11-18 16:49:37	cpb-aacip-507-v11vd6pz5w-transcript.ann	George	person	1	https://en.wikipedia.org/wiki/George_Stephanopoulos	https://www.wikidata.org/wiki/Q1655924
+2480	2022-11-18 16:50:13	cpb-aacip-507-v11vd6pz5w-transcript.ann	players union	organization	1	https://en.wikipedia.org/wiki/Major_League_Baseball_Players_Association	https://www.wikidata.org/wiki/Q2867557
+2481	2022-11-18 16:50:25	cpb-aacip-507-v11vd6pz5w-transcript.ann	Buster Olney	person	3	https://en.wikipedia.org/wiki/Buster_Olney	https://www.wikidata.org/wiki/Q5002173
+2482	2022-11-18 16:50:46	cpb-aacip-507-v11vd6pz5w-transcript.ann	ESPN	publication_title	1	https://en.wikipedia.org/wiki/ESPN_The_Magazine	https://www.wikidata.org/wiki/Q3046164
+2483	2022-11-18 16:50:52	cpb-aacip-507-v11vd6pz5w-transcript.ann	BUSTER OLNEY	person	9	https://en.wikipedia.org/wiki/Buster_Olney	https://www.wikidata.org/wiki/Q5002173
+2484	2022-11-18 16:51:01	cpb-aacip-507-v11vd6pz5w-transcript.ann	Commissioner Selig	person	3	https://en.wikipedia.org/wiki/Bud_Selig	https://www.wikidata.org/wiki/Q2927496
+2485	2022-11-18 16:51:11	cpb-aacip-507-v11vd6pz5w-transcript.ann	U.S.A. Today	publication_title	1	https://en.wikipedia.org/wiki/USA_Today	https://www.wikidata.org/wiki/Q39681
+2486	2022-11-18 16:51:29	cpb-aacip-507-v11vd6pz5w-transcript.ann	Jim Palmer	person	1	https://en.wikipedia.org/wiki/Jim_Palmer	https://www.wikidata.org/wiki/Q1356627
+2487	2022-11-18 16:51:36	cpb-aacip-507-v11vd6pz5w-transcript.ann	Baltimore Orioles	organization	1	https://en.wikipedia.org/wiki/Baltimore_Orioles	https://www.wikidata.org/wiki/Q650816
+2488	2022-11-18 16:51:48	cpb-aacip-507-v11vd6pz5w-transcript.ann	Cecil Fielder	person	1	https://en.wikipedia.org/wiki/Cecil_Fielder	https://www.wikidata.org/wiki/Q2943695
+2489	2022-11-18 16:51:50	cpb-aacip-507-v11vd6pz5w-transcript.ann	RECAP	program_title	1		
+2490	2022-11-18 16:52:05	cpb-aacip-507-v11vd6pz5w-transcript.ann	NewsHour with Jim Lehrer	program_title	1	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447

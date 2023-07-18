@@ -1,0 +1,201 @@
+index	timestamp	GUID	entity	type	instances	wiki_url	QID
+2491	2022-11-18 16:52:11	cpb-aacip-507-v40js9j432-transcript.ann	Intro	program_title	1		
+2492	2022-11-18 16:52:15	cpb-aacip-507-v40js9j432-transcript.ann	ROBERT MacNEIL	person	1	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+2493	2022-11-18 16:52:18	cpb-aacip-507-v40js9j432-transcript.ann	President Reagan	person	11	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+2494	2022-11-18 16:52:19	cpb-aacip-507-v40js9j432-transcript.ann	Lebanon	location	14	https://en.wikipedia.org/wiki/Lebanon	https://www.wikidata.org/wiki/Q822
+2495	2022-11-18 16:52:21	cpb-aacip-507-v40js9j432-transcript.ann	Syria	location	11	https://en.wikipedia.org/wiki/Syria	https://www.wikidata.org/wiki/Q858
+2496	2022-11-18 16:52:22	cpb-aacip-507-v40js9j432-transcript.ann	Israel	location	19	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+2497	2022-11-18 16:52:25	cpb-aacip-507-v40js9j432-transcript.ann	House	organization	39	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+2498	2022-11-18 16:52:26	cpb-aacip-507-v40js9j432-transcript.ann	Senate	organization	34	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+2499	2022-11-18 16:52:28	cpb-aacip-507-v40js9j432-transcript.ann	Oklahoma	location	4	https://en.wikipedia.org/wiki/Oklahoma	https://www.wikidata.org/wiki/Q1649
+2500	2022-11-18 16:52:30	cpb-aacip-507-v40js9j432-transcript.ann	Jim	person	4	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+2501	2022-11-18 16:52:31	cpb-aacip-507-v40js9j432-transcript.ann	JIM LEHRER	person	1	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+2502	2022-11-18 16:52:33	cpb-aacip-507-v40js9j432-transcript.ann	NewsHour	program_title	3	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+2503	2022-11-21 20:02:40	cpb-aacip-507-v40js9j432-transcript.ann	news of the day	program_title	1		
+2504	2022-11-21 20:02:47	cpb-aacip-507-v40js9j432-transcript.ann	focus segment	program_title	2		
+2505	2022-11-21 20:02:51	cpb-aacip-507-v40js9j432-transcript.ann	newsmaker interview	program_title	4		
+2506	2022-11-21 20:02:55	cpb-aacip-507-v40js9j432-transcript.ann	Senate Foreign Relations Committee	organization	2	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Foreign_Relations	https://www.wikidata.org/wiki/Q1806257
+2507	2022-11-21 20:02:59	cpb-aacip-507-v40js9j432-transcript.ann	Richard Lugar	person	1	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2508	2022-11-21 20:04:46	cpb-aacip-507-v40js9j432-transcript.ann	Jesse Jackson	person	3	https://en.wikipedia.org/wiki/Jesse_Jackson	https://www.wikidata.org/wiki/Q310586
+2509	2022-11-21 20:05:09	cpb-aacip-507-v40js9j432-transcript.ann	Defense Secretary Donald Rumsfeld	person	1	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
+2510	2022-11-21 20:05:13	cpb-aacip-507-v40js9j432-transcript.ann	State Department	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_State	https://www.wikidata.org/wiki/Q789915
+2511	2022-11-21 20:05:28	cpb-aacip-507-v40js9j432-transcript.ann	Joseph Sisco	person	3	https://en.wikipedia.org/wiki/Joseph_J._Sisco	https://www.wikidata.org/wiki/Q521462
+2512	2022-11-21 20:06:11	cpb-aacip-507-v40js9j432-transcript.ann	Focus	program_title	2		
+2513	2022-11-21 20:08:24	cpb-aacip-507-v40js9j432-transcript.ann	Congressman William Gray	person	2	https://en.wikipedia.org/wiki/William_H._Gray_III	https://www.wikidata.org/wiki/Q3511361
+2514	2022-11-21 20:08:47	cpb-aacip-507-v40js9j432-transcript.ann	Senator William Armstrong	person	3	https://en.wikipedia.org/wiki/William_L._Armstrong	https://www.wikidata.org/wiki/Q744037
+2515	2022-11-21 20:08:58	cpb-aacip-507-v40js9j432-transcript.ann	Senator Robert Packwood	person	3	https://en.wikipedia.org/wiki/Bob_Packwood	https://www.wikidata.org/wiki/Q888183
+2516	2022-11-21 20:09:01	cpb-aacip-507-v40js9j432-transcript.ann	Senate Finance Committee	organization	4	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Finance	https://www.wikidata.org/wiki/Q2985424
+2517	2022-11-21 20:09:04	cpb-aacip-507-v40js9j432-transcript.ann	News Summary	program_title	1		
+2518	2022-11-21 20:09:11	cpb-aacip-507-v40js9j432-transcript.ann	LEHRER	person	42	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+2519	2022-11-21 20:09:20	cpb-aacip-507-v40js9j432-transcript.ann	Beirut	location	2	https://en.wikipedia.org/wiki/Beirut	https://www.wikidata.org/wiki/Q3820
+2520	2022-11-21 20:09:23	cpb-aacip-507-v40js9j432-transcript.ann	White House	organization	4	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+2521	2022-11-21 20:09:35	cpb-aacip-507-v40js9j432-transcript.ann	Larry Speakes	person	3	https://en.wikipedia.org/wiki/Larry_Speakes	https://www.wikidata.org/wiki/Q6491144
+2522	2022-11-21 20:09:50	cpb-aacip-507-v40js9j432-transcript.ann	Beirut airport	location	4	https://en.wikipedia.org/wiki/Beirut%E2%80%93Rafic_Hariri_International_Airport	https://www.wikidata.org/wiki/Q668329
+2523	2022-11-21 20:09:53	cpb-aacip-507-v40js9j432-transcript.ann	Mr. Reagan	person	1	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+2524	2022-11-21 20:09:57	cpb-aacip-507-v40js9j432-transcript.ann	Secretary of State Shultz	person	2	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+2525	2022-11-21 20:10:15	cpb-aacip-507-v40js9j432-transcript.ann	Defense Secretary Weinberger	person	1	https://en.wikipedia.org/wiki/Caspar_Weinberger	https://www.wikidata.org/wiki/Q434142
+2526	2022-11-21 20:10:17	cpb-aacip-507-v40js9j432-transcript.ann	Robin	person	5	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+2527	2022-11-21 20:10:19	cpb-aacip-507-v40js9j432-transcript.ann	MacNEIL	person	22	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+2528	2022-11-21 20:11:39	cpb-aacip-507-v40js9j432-transcript.ann	hostage crisis	event	1	https://en.wikipedia.org/wiki/Trans_World_Airlines_Flight_847	https://www.wikidata.org/wiki/Q2302456
+2529	2022-11-21 20:11:50	cpb-aacip-507-v40js9j432-transcript.ann	Speakes	person	1	https://en.wikipedia.org/wiki/Larry_Speakes	https://www.wikidata.org/wiki/Q6491144
+2530	2022-11-21 20:11:52	cpb-aacip-507-v40js9j432-transcript.ann	Washington	organization	4	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+2531	2022-11-21 20:12:04	cpb-aacip-507-v40js9j432-transcript.ann	Prime Minister Shimon Peres	person	1	https://en.wikipedia.org/wiki/Shimon_Peres	https://www.wikidata.org/wiki/Q57410
+2532	2022-11-21 20:12:06	cpb-aacip-507-v40js9j432-transcript.ann	United Nations	organization	1	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+2533	2022-11-21 20:12:20	cpb-aacip-507-v40js9j432-transcript.ann	Secretary-General Javier Perez de Cuellar	person	1	https://en.wikipedia.org/wiki/Javier_P%C3%A9rez_de_Cu%C3%A9llar	https://www.wikidata.org/wiki/Q1259
+2534	2022-11-21 20:12:33	cpb-aacip-507-v40js9j432-transcript.ann	International Red Cross	organization	1	https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross	https://www.wikidata.org/wiki/Q5987345
+2535	2022-11-21 20:12:43	cpb-aacip-507-v40js9j432-transcript.ann	hostage situation	event	1	https://en.wikipedia.org/wiki/Trans_World_Airlines_Flight_847	https://www.wikidata.org/wiki/Q2302456
+2536	2022-11-21 20:12:45	cpb-aacip-507-v40js9j432-transcript.ann	El Salvador	location	2	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+2537	2022-11-21 20:12:47	cpb-aacip-507-v40js9j432-transcript.ann	U.S. Marines	organization	1	https://en.wikipedia.org/wiki/United_States_Marine_Corps	https://www.wikidata.org/wiki/Q11218
+2538	2022-11-21 20:12:49	cpb-aacip-507-v40js9j432-transcript.ann	Marines	organization	1	https://en.wikipedia.org/wiki/United_States_Marine_Corps	https://www.wikidata.org/wiki/Q11218
+2539	2022-11-21 20:13:26	cpb-aacip-507-v40js9j432-transcript.ann	U.S. Embassy in San Salvador	location	1	https://en.wikipedia.org/wiki/List_of_diplomatic_missions_of_the_United_States	https://www.wikidata.org/wiki/Q468512
+2540	2022-11-21 20:13:29	cpb-aacip-507-v40js9j432-transcript.ann	Social Security	publication_title	8	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+2541	2022-11-21 20:13:31	cpb-aacip-507-v40js9j432-transcript.ann	Senate Budget Committee	organization	2	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Budget	https://www.wikidata.org/wiki/Q142538
+2542	2022-11-21 20:13:41	cpb-aacip-507-v40js9j432-transcript.ann	Pete Domenici	person	2	https://en.wikipedia.org/wiki/Pete_Domenici	https://www.wikidata.org/wiki/Q964959
+2543	2022-11-21 20:13:43	cpb-aacip-507-v40js9j432-transcript.ann	Sen. PETE DOMENICI	person	1	https://en.wikipedia.org/wiki/Pete_Domenici	https://www.wikidata.org/wiki/Q964959
+2544	2022-11-21 20:13:45	cpb-aacip-507-v40js9j432-transcript.ann	New Mexico	location	3	https://en.wikipedia.org/wiki/New_Mexico	https://www.wikidata.org/wiki/Q1522
+2545	2022-11-21 20:13:47	cpb-aacip-507-v40js9j432-transcript.ann	Budget Committee	organization	3	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Budget	https://www.wikidata.org/wiki/Q142538
+2546	2022-11-21 20:13:57	cpb-aacip-507-v40js9j432-transcript.ann	Robert Packwood	person	2	https://en.wikipedia.org/wiki/Bob_Packwood	https://www.wikidata.org/wiki/Q888183
+2547	2022-11-21 20:14:49	cpb-aacip-507-v40js9j432-transcript.ann	Lt. JIM KING	person	1		
+2548	2022-11-21 20:15:04	cpb-aacip-507-v40js9j432-transcript.ann	Oklahoma Highway Patrol	organization	1	https://en.wikipedia.org/wiki/Oklahoma_Highway_Patrol	https://www.wikidata.org/wiki/Q7082241
+2549	2022-11-21 20:15:06	cpb-aacip-507-v40js9j432-transcript.ann	Lieutenant King	person	1		
+2550	2022-11-21 20:15:08	cpb-aacip-507-v40js9j432-transcript.ann	Lt. KING	person	2		
+2551	2022-11-21 20:15:44	cpb-aacip-507-v40js9j432-transcript.ann	Aerlex Corporation	organization	1		
+2552	2022-11-21 20:15:59	cpb-aacip-507-v40js9j432-transcript.ann	Hallett, Oklahoma	location	1	https://en.wikipedia.org/wiki/Hallett,_Oklahoma	https://www.wikidata.org/wiki/Q2583513
+2553	2022-11-21 20:16:08	cpb-aacip-507-v40js9j432-transcript.ann	Tulsa	location	1	https://en.wikipedia.org/wiki/Tulsa,_Oklahoma	https://www.wikidata.org/wiki/Q44989
+2554	2022-11-21 20:16:17	cpb-aacip-507-v40js9j432-transcript.ann	Anaheim, California	location	1	https://en.wikipedia.org/wiki/Anaheim,_California	https://www.wikidata.org/wiki/Q49247
+2555	2022-11-21 20:17:11	cpb-aacip-507-v40js9j432-transcript.ann	Marika Gerard	person	1		
+2556	2022-11-21 20:18:19	cpb-aacip-507-v40js9j432-transcript.ann	L.A. News	organization	2		
+2557	2022-11-21 20:18:23	cpb-aacip-507-v40js9j432-transcript.ann	MARIKA GERARD	person	1		
+2558	2022-11-21 20:18:39	cpb-aacip-507-v40js9j432-transcript.ann	Larry Fricker Company	organization	1		
+2559	2022-11-21 20:19:03	cpb-aacip-507-v40js9j432-transcript.ann	Orange County	location	1	https://en.wikipedia.org/wiki/Orange_County,_California	https://www.wikidata.org/wiki/Q5925
+2560	2022-11-21 20:19:13	cpb-aacip-507-v40js9j432-transcript.ann	U.S. Coast Guard	organization	1	https://en.wikipedia.org/wiki/United_States_Coast_Guard	https://www.wikidata.org/wiki/Q11224
+2561	2022-11-21 20:19:16	cpb-aacip-507-v40js9j432-transcript.ann	San Francisco	location	1	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+2562	2022-11-21 20:19:27	cpb-aacip-507-v40js9j432-transcript.ann	Air India	organization	2	https://en.wikipedia.org/wiki/Air_India	https://www.wikidata.org/wiki/Q69906
+2563	2022-11-21 20:19:30	cpb-aacip-507-v40js9j432-transcript.ann	747	product	1	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
+2564	2022-11-21 20:19:46	cpb-aacip-507-v40js9j432-transcript.ann	Atlantic	location	1	https://en.wikipedia.org/wiki/Atlantic_Ocean	https://www.wikidata.org/wiki/Q97
+2565	2022-11-21 20:19:50	cpb-aacip-507-v40js9j432-transcript.ann	Ireland	location	1	https://en.wikipedia.org/wiki/Ireland	https://www.wikidata.org/wiki/Q22890
+2566	2022-11-21 20:20:02	cpb-aacip-507-v40js9j432-transcript.ann	Kate Adie	person	1	https://en.wikipedia.org/wiki/Kate_Adie	https://www.wikidata.org/wiki/Q595257
+2567	2022-11-21 20:20:12	cpb-aacip-507-v40js9j432-transcript.ann	Visnews	organization	2	https://en.wikipedia.org/wiki/Visnews	https://www.wikidata.org/wiki/Q3561097
+2568	2022-11-21 20:20:19	cpb-aacip-507-v40js9j432-transcript.ann	KATE ADIE	person	1	https://en.wikipedia.org/wiki/Kate_Adie	https://www.wikidata.org/wiki/Q595257
+2569	2022-11-21 20:20:34	cpb-aacip-507-v40js9j432-transcript.ann	Royal Navy	organization	1	https://en.wikipedia.org/wiki/Royal_Navy	https://www.wikidata.org/wiki/Q172771
+2570	2022-11-21 20:20:36	cpb-aacip-507-v40js9j432-transcript.ann	Britain	location	2	https://en.wikipedia.org/wiki/United_Kingdom	https://www.wikidata.org/wiki/Q145
+2571	2022-11-21 20:20:47	cpb-aacip-507-v40js9j432-transcript.ann	France	location	1	https://en.wikipedia.org/wiki/France	https://www.wikidata.org/wiki/Q142
+2572	2022-11-21 20:20:56	cpb-aacip-507-v40js9j432-transcript.ann	Spain	location	1	https://en.wikipedia.org/wiki/Spain	https://www.wikidata.org/wiki/Q29
+2573	2022-11-21 20:20:58	cpb-aacip-507-v40js9j432-transcript.ann	Canada	location	2	https://en.wikipedia.org/wiki/Canada	https://www.wikidata.org/wiki/Q16
+2574	2022-11-21 20:21:00	cpb-aacip-507-v40js9j432-transcript.ann	India	location	1	https://en.wikipedia.org/wiki/India	https://www.wikidata.org/wiki/Q668
+2575	2022-11-21 20:21:02	cpb-aacip-507-v40js9j432-transcript.ann	Japan	location	2	https://en.wikipedia.org/wiki/Japan	https://www.wikidata.org/wiki/Q17
+2576	2022-11-21 20:21:25	cpb-aacip-507-v40js9j432-transcript.ann	Air India disaster	event	1	https://en.wikipedia.org/wiki/Air_India_Flight_182	https://www.wikidata.org/wiki/Q406588
+2577	2022-11-21 20:22:15	cpb-aacip-507-v40js9j432-transcript.ann	Tokyo airport	location	1	https://en.wikipedia.org/wiki/Narita_International_Airport	https://www.wikidata.org/wiki/Q36454
+2578	2022-11-21 20:22:52	cpb-aacip-507-v40js9j432-transcript.ann	Canadian Pacific	organization	1	https://en.wikipedia.org/wiki/Canadian_Pacific_Air_Lines	https://www.wikidata.org/wiki/Q986941
+2579	2022-11-21 20:23:02	cpb-aacip-507-v40js9j432-transcript.ann	Vancouver	location	1	https://en.wikipedia.org/wiki/Vancouver	https://www.wikidata.org/wiki/Q24639
+2580	2022-11-21 20:25:29	cpb-aacip-507-v40js9j432-transcript.ann	Lal Singh	person	1		
+2581	2022-11-21 20:25:30	cpb-aacip-507-v40js9j432-transcript.ann	Ammand Singh	person	1		
+2582	2022-11-21 20:25:40	cpb-aacip-507-v40js9j432-transcript.ann	Tokyo	location	1	https://en.wikipedia.org/wiki/Tokyo	https://www.wikidata.org/wiki/Q1490
+2583	2022-11-21 20:25:43	cpb-aacip-507-v40js9j432-transcript.ann	United States	location	11	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2584	2022-11-21 20:25:56	cpb-aacip-507-v40js9j432-transcript.ann	Prime Minister Rajiv Gandhi	person	1	https://en.wikipedia.org/wiki/Rajiv_Gandhi	https://www.wikidata.org/wiki/Q4593
+2585	2022-11-21 20:26:11	cpb-aacip-507-v40js9j432-transcript.ann	U.S. Transportation Department	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_Transportation	https://www.wikidata.org/wiki/Q852211
+2586	2022-11-21 20:26:35	cpb-aacip-507-v40js9j432-transcript.ann	Prime Minister Nakasone	person	1	https://en.wikipedia.org/wiki/Yasuhiro_Nakasone	https://www.wikidata.org/wiki/Q250828
+2587	2022-11-21 20:26:45	cpb-aacip-507-v40js9j432-transcript.ann	U.S. government	organization	1	https://en.wikipedia.org/wiki/Federal_government_of_the_United_States	https://www.wikidata.org/wiki/Q48525
+2588	2022-11-21 20:27:04	cpb-aacip-507-v40js9j432-transcript.ann	Commerce Secretary Baldrige	person	1	https://en.wikipedia.org/wiki/Malcolm_Baldrige_Jr.	https://www.wikidata.org/wiki/Q1886985
+2589	2022-11-21 20:27:14	cpb-aacip-507-v40js9j432-transcript.ann	IBM	organization	1	https://en.wikipedia.org/wiki/IBM	https://www.wikidata.org/wiki/Q37156
+2590	2022-11-21 20:27:26	cpb-aacip-507-v40js9j432-transcript.ann	MCI Communications	organization	1	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+2591	2022-11-21 20:27:30	cpb-aacip-507-v40js9j432-transcript.ann	Flight 847: Weighing Action	program_title	1		
+2592	2022-11-21 20:27:47	cpb-aacip-507-v40js9j432-transcript.ann	TWA hostage crisis	event	1	https://en.wikipedia.org/wiki/Trans_World_Airlines_Flight_847	https://www.wikidata.org/wiki/Q2302456
+2593	2022-11-21 20:28:00	cpb-aacip-507-v40js9j432-transcript.ann	Senator Richard Lugar	person	1	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2594	2022-11-21 20:28:03	cpb-aacip-507-v40js9j432-transcript.ann	Indiana	location	1	https://en.wikipedia.org/wiki/Indiana	https://www.wikidata.org/wiki/Q1415
+2595	2022-11-21 20:28:05	cpb-aacip-507-v40js9j432-transcript.ann	Senator Lugar	person	6	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2596	2022-11-21 20:28:09	cpb-aacip-507-v40js9j432-transcript.ann	Sen. RICHARD LUGAR	person	1	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2597	2022-11-21 20:28:11	cpb-aacip-507-v40js9j432-transcript.ann	Sen. LUGAR	person	14	https://en.wikipedia.org/wiki/Richard_Lugar	https://www.wikidata.org/wiki/Q363079
+2598	2022-11-21 20:28:24	cpb-aacip-507-v40js9j432-transcript.ann	Shimon Peres	person	1	https://en.wikipedia.org/wiki/Shimon_Peres	https://www.wikidata.org/wiki/Q57410
+2599	2022-11-21 20:28:26	cpb-aacip-507-v40js9j432-transcript.ann	George Shultz	person	1	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+2600	2022-11-21 20:29:32	cpb-aacip-507-v40js9j432-transcript.ann	Mr. McFarlane	person	2	https://en.wikipedia.org/wiki/Robert_McFarlane	https://www.wikidata.org/wiki/Q7347218
+2601	2022-11-21 20:29:34	cpb-aacip-507-v40js9j432-transcript.ann	Congress	organization	4	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+2602	2022-11-21 20:30:13	cpb-aacip-507-v40js9j432-transcript.ann	Lebanon crisis	event	1	https://en.wikipedia.org/wiki/Lebanon_hostage_crisis	https://www.wikidata.org/wiki/Q2156347
+2603	2022-11-21 20:30:15	cpb-aacip-507-v40js9j432-transcript.ann	Greece	location	1	https://en.wikipedia.org/wiki/Greece	https://www.wikidata.org/wiki/Q41
+2604	2022-11-21 20:30:30	cpb-aacip-507-v40js9j432-transcript.ann	Secretary Shultz	person	1	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+2605	2022-11-21 20:30:35	cpb-aacip-507-v40js9j432-transcript.ann	CNN	organization	1	https://en.wikipedia.org/wiki/CNN	https://www.wikidata.org/wiki/Q48340
+2606	2022-11-21 20:30:45	cpb-aacip-507-v40js9j432-transcript.ann	WTTW-Chicago	organization	1	https://en.wikipedia.org/wiki/WTTW	https://www.wikidata.org/wiki/Q4017413
+2607	2022-11-21 20:30:47	cpb-aacip-507-v40js9j432-transcript.ann	Donald Rumsfeld	person	2	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
+2608	2022-11-21 20:30:49	cpb-aacip-507-v40js9j432-transcript.ann	President Ford	person	1	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+2609	2022-11-21 20:30:50	cpb-aacip-507-v40js9j432-transcript.ann	Middle East	location	4	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+2610	2022-11-21 20:31:00	cpb-aacip-507-v40js9j432-transcript.ann	Nixon	person	1	https://en.wikipedia.org/wiki/Richard_Nixon	https://www.wikidata.org/wiki/Q9588
+2611	2022-11-21 20:31:02	cpb-aacip-507-v40js9j432-transcript.ann	Ford	person	1	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+2612	2022-11-21 20:31:03	cpb-aacip-507-v40js9j432-transcript.ann	New York	location	1	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+2613	2022-11-21 20:31:19	cpb-aacip-507-v40js9j432-transcript.ann	Navy	organization	1	https://en.wikipedia.org/wiki/United_States_Navy	https://www.wikidata.org/wiki/Q11220
+2614	2022-11-21 20:31:22	cpb-aacip-507-v40js9j432-transcript.ann	U.S.	location	2	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2615	2022-11-21 20:31:35	cpb-aacip-507-v40js9j432-transcript.ann	JOSEPH SISCO	person	1	https://en.wikipedia.org/wiki/Joseph_J._Sisco	https://www.wikidata.org/wiki/Q521462
+2616	2022-11-21 20:31:47	cpb-aacip-507-v40js9j432-transcript.ann	Nabih Berri	person	4	https://en.wikipedia.org/wiki/Nabih_Berri	https://www.wikidata.org/wiki/Q704220
+2617	2022-11-21 20:31:48	cpb-aacip-507-v40js9j432-transcript.ann	DONALD RUMSFELD	person	1	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
+2618	2022-11-21 20:31:50	cpb-aacip-507-v40js9j432-transcript.ann	United States of America	location	1	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2619	2022-11-21 20:33:24	cpb-aacip-507-v40js9j432-transcript.ann	JESSE JACKSON	person	1	https://en.wikipedia.org/wiki/Jesse_Jackson	https://www.wikidata.org/wiki/Q310586
+2620	2022-11-21 20:33:26	cpb-aacip-507-v40js9j432-transcript.ann	Rev. JACKSON	person	4	https://en.wikipedia.org/wiki/Jesse_Jackson	https://www.wikidata.org/wiki/Q310586
+2621	2022-11-21 20:33:38	cpb-aacip-507-v40js9j432-transcript.ann	Joe Sisco	person	1	https://en.wikipedia.org/wiki/Joseph_J._Sisco	https://www.wikidata.org/wiki/Q521462
+2622	2022-11-21 20:33:46	cpb-aacip-507-v40js9j432-transcript.ann	Sec. SISCO	person	3	https://en.wikipedia.org/wiki/Joseph_J._Sisco	https://www.wikidata.org/wiki/Q521462
+2623	2022-11-21 20:33:49	cpb-aacip-507-v40js9j432-transcript.ann	Mr. Rumsfeld	person	4	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
+2624	2022-11-21 20:34:00	cpb-aacip-507-v40js9j432-transcript.ann	Sec. RUMSFELD	person	4	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
+2625	2022-11-21 20:34:02	cpb-aacip-507-v40js9j432-transcript.ann	Europe	location	3	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+2626	2022-11-21 20:34:14	cpb-aacip-507-v40js9j432-transcript.ann	King Hussein	person	1	https://en.wikipedia.org/wiki/Hussein_of_Jordan	https://www.wikidata.org/wiki/Q146906
+2627	2022-11-21 20:34:16	cpb-aacip-507-v40js9j432-transcript.ann	Jordan	location	1	https://en.wikipedia.org/wiki/Jordan	https://www.wikidata.org/wiki/Q810
+2628	2022-11-21 20:35:05	cpb-aacip-507-v40js9j432-transcript.ann	Mr. Assad	person	1	https://en.wikipedia.org/wiki/Hafez_al-Assad	https://www.wikidata.org/wiki/Q118725
+2629	2022-11-21 20:35:06	cpb-aacip-507-v40js9j432-transcript.ann	South Africa	location	1	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+2630	2022-11-21 20:35:15	cpb-aacip-507-v40js9j432-transcript.ann	Mr. Sisco	person	2	https://en.wikipedia.org/wiki/Joseph_J._Sisco	https://www.wikidata.org/wiki/Q521462
+2631	2022-11-21 20:35:23	cpb-aacip-507-v40js9j432-transcript.ann	President Assad	person	1	https://en.wikipedia.org/wiki/Hafez_al-Assad	https://www.wikidata.org/wiki/Q118725
+2632	2022-11-21 20:35:25	cpb-aacip-507-v40js9j432-transcript.ann	Iran	location	1	https://en.wikipedia.org/wiki/Iran	https://www.wikidata.org/wiki/Q794
+2633	2022-11-21 20:35:37	cpb-aacip-507-v40js9j432-transcript.ann	Libya	location	1	https://en.wikipedia.org/wiki/Libya	https://www.wikidata.org/wiki/Q1016
+2634	2022-11-21 20:35:47	cpb-aacip-507-v40js9j432-transcript.ann	Reverend Jackson	person	2	https://en.wikipedia.org/wiki/Jesse_Jackson	https://www.wikidata.org/wiki/Q310586
+2635	2022-11-21 20:35:55	cpb-aacip-507-v40js9j432-transcript.ann	Assad	person	1	https://en.wikipedia.org/wiki/Hafez_al-Assad	https://www.wikidata.org/wiki/Q118725
+2636	2022-11-21 20:35:59	cpb-aacip-507-v40js9j432-transcript.ann	Budget Stalemate	program_title	1		
+2637	2022-11-21 20:36:28	cpb-aacip-507-v40js9j432-transcript.ann	1986 federal budget	publication_title	2		
+2638	2022-11-21 20:36:30	cpb-aacip-507-v40js9j432-transcript.ann	June Cross	person	1	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+2639	2022-11-21 20:36:31	cpb-aacip-507-v40js9j432-transcript.ann	JUNE CROSS	person	1	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+2640	2022-11-21 20:37:05	cpb-aacip-507-v40js9j432-transcript.ann	Bill gray	person	1	https://en.wikipedia.org/wiki/William_H._Gray_III	https://www.wikidata.org/wiki/Q3511361
+2641	2022-11-21 20:37:17	cpb-aacip-507-v40js9j432-transcript.ann	Slade Gorton	person	1	https://en.wikipedia.org/wiki/Slade_Gorton	https://www.wikidata.org/wiki/Q742210
+2642	2022-11-21 20:37:19	cpb-aacip-507-v40js9j432-transcript.ann	Democrats	organization	3	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+2643	2022-11-21 20:37:23	cpb-aacip-507-v40js9j432-transcript.ann	Sen. SLADE GORTON	person	1	https://en.wikipedia.org/wiki/Slade_Gorton	https://www.wikidata.org/wiki/Q742210
+2644	2022-11-21 20:37:33	cpb-aacip-507-v40js9j432-transcript.ann	Rep. BILL HEFNER	person	1	https://en.wikipedia.org/wiki/Bill_Hefner	https://www.wikidata.org/wiki/Q862178
+2645	2022-11-21 20:37:34	cpb-aacip-507-v40js9j432-transcript.ann	North Carolina	location	1	https://en.wikipedia.org/wiki/North_Carolina	https://www.wikidata.org/wiki/Q1454
+2646	2022-11-21 20:37:50	cpb-aacip-507-v40js9j432-transcript.ann	Appalachia Regional Commission	organization	1	https://en.wikipedia.org/wiki/Appalachian_Regional_Commission	https://www.wikidata.org/wiki/Q4780854
+2647	2022-11-21 20:38:56	cpb-aacip-507-v40js9j432-transcript.ann	EDA	organization	1	https://en.wikipedia.org/wiki/Economic_Development_Administration	https://www.wikidata.org/wiki/Q5333366
+2648	2022-11-21 20:39:06	cpb-aacip-507-v40js9j432-transcript.ann	Sen. DOMENICI	person	5	https://en.wikipedia.org/wiki/Pete_Domenici	https://www.wikidata.org/wiki/Q964959
+2649	2022-11-21 20:39:08	cpb-aacip-507-v40js9j432-transcript.ann	CROSS	person	3	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+2650	2022-11-21 20:39:21	cpb-aacip-507-v40js9j432-transcript.ann	Lawton Chiles	person	1	https://en.wikipedia.org/wiki/Lawton_Chiles	https://www.wikidata.org/wiki/Q744098
+2651	2022-11-21 20:39:23	cpb-aacip-507-v40js9j432-transcript.ann	Republicans	organization	2	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+2652	2022-11-21 20:39:25	cpb-aacip-507-v40js9j432-transcript.ann	Sen. LAWTON CHILES	person	1	https://en.wikipedia.org/wiki/Lawton_Chiles	https://www.wikidata.org/wiki/Q744098
+2653	2022-11-21 20:39:27	cpb-aacip-507-v40js9j432-transcript.ann	Florida	location	1	https://en.wikipedia.org/wiki/Florida	https://www.wikidata.org/wiki/Q812
+2654	2022-11-21 20:39:39	cpb-aacip-507-v40js9j432-transcript.ann	Rep. WILLIAM GRAY	person	1	https://en.wikipedia.org/wiki/William_H._Gray_III	https://www.wikidata.org/wiki/Q3511361
+2655	2022-11-21 20:39:41	cpb-aacip-507-v40js9j432-transcript.ann	Pennsylvania	location	1	https://en.wikipedia.org/wiki/Pennsylvania	https://www.wikidata.org/wiki/Q1400
+2656	2022-11-21 20:39:44	cpb-aacip-507-v40js9j432-transcript.ann	Rep. GRAY	person	9	https://en.wikipedia.org/wiki/William_H._Gray_III	https://www.wikidata.org/wiki/Q3511361
+2657	2022-11-21 20:39:46	cpb-aacip-507-v40js9j432-transcript.ann	Gray	person	1	https://en.wikipedia.org/wiki/William_H._Gray_III	https://www.wikidata.org/wiki/Q3511361
+2658	2022-11-21 20:39:49	cpb-aacip-507-v40js9j432-transcript.ann	House Budget Committee	organization	1	https://en.wikipedia.org/wiki/United_States_House_Committee_on_the_Budget	https://www.wikidata.org/wiki/Q11899544
+2659	2022-11-21 20:39:51	cpb-aacip-507-v40js9j432-transcript.ann	William Gray	person	1	https://en.wikipedia.org/wiki/William_H._Gray_III	https://www.wikidata.org/wiki/Q3511361
+2660	2022-11-21 20:39:53	cpb-aacip-507-v40js9j432-transcript.ann	Capitol Hill	organization	1	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
+2661	2022-11-21 20:40:15	cpb-aacip-507-v40js9j432-transcript.ann	Senator Armstrong	person	5	https://en.wikipedia.org/wiki/William_L._Armstrong	https://www.wikidata.org/wiki/Q744037
+2662	2022-11-21 20:40:17	cpb-aacip-507-v40js9j432-transcript.ann	Sen. WILLIAM ARMSTRONG	person	1	https://en.wikipedia.org/wiki/William_L._Armstrong	https://www.wikidata.org/wiki/Q744037
+2663	2022-11-21 20:40:19	cpb-aacip-507-v40js9j432-transcript.ann	Sen. ARMSTRONG	person	11	https://en.wikipedia.org/wiki/William_L._Armstrong	https://www.wikidata.org/wiki/Q744037
+2664	2022-11-21 20:40:21	cpb-aacip-507-v40js9j432-transcript.ann	Colorado	location	1	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+2665	2022-11-21 20:40:28	cpb-aacip-507-v40js9j432-transcript.ann	Congressman Gray	person	6	https://en.wikipedia.org/wiki/William_H._Gray_III	https://www.wikidata.org/wiki/Q3511361
+2666	2022-11-21 20:40:40	cpb-aacip-507-v40js9j432-transcript.ann	Caspar Weinberger	person	1	https://en.wikipedia.org/wiki/Caspar_Weinberger	https://www.wikidata.org/wiki/Q434142
+2667	2022-11-21 20:40:44	cpb-aacip-507-v40js9j432-transcript.ann	Philadelphia	location	1	https://en.wikipedia.org/wiki/Philadelphia	https://www.wikidata.org/wiki/Q1345
+2668	2022-11-21 20:40:54	cpb-aacip-507-v40js9j432-transcript.ann	Jack Kemp	person	1	https://en.wikipedia.org/wiki/Jack_Kemp	https://www.wikidata.org/wiki/Q357676
+2669	2022-11-21 20:41:51	cpb-aacip-507-v40js9j432-transcript.ann	Stockman	person	1	https://en.wikipedia.org/wiki/David_Stockman	https://www.wikidata.org/wiki/Q1176745
+2670	2022-11-21 20:42:13	cpb-aacip-507-v40js9j432-transcript.ann	Mr. Domenici	person	1	https://en.wikipedia.org/wiki/Pete_Domenici	https://www.wikidata.org/wiki/Q964959
+2671	2022-11-21 20:42:16	cpb-aacip-507-v40js9j432-transcript.ann	Amtrak	organization	1	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+2672	2022-11-21 20:43:03	cpb-aacip-507-v40js9j432-transcript.ann	UDAG	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_Housing_and_Urban_Development	https://www.wikidata.org/wiki/Q811595
+2673	2022-11-21 20:43:17	cpb-aacip-507-v40js9j432-transcript.ann	Ex-Im Bank	organization	1	https://en.wikipedia.org/wiki/Export%E2%80%93Import_Bank_of_the_United_States	https://www.wikidata.org/wiki/Q1384697
+2674	2022-11-21 20:43:19	cpb-aacip-507-v40js9j432-transcript.ann	Oregon	location	1	https://en.wikipedia.org/wiki/Oregon	https://www.wikidata.org/wiki/Q824
+2675	2022-11-21 20:43:21	cpb-aacip-507-v40js9j432-transcript.ann	Judy Woodruff	person	1	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+2676	2022-11-21 20:43:22	cpb-aacip-507-v40js9j432-transcript.ann	Judy	person	2	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+2677	2022-11-21 20:43:24	cpb-aacip-507-v40js9j432-transcript.ann	Tax Reform: Fair to All?	program_title	1		
+2678	2022-11-21 20:43:26	cpb-aacip-507-v40js9j432-transcript.ann	JUDY WOODRUFF	person	1	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+2679	2022-11-21 20:43:29	cpb-aacip-507-v40js9j432-transcript.ann	Senator Packwood	person	2	https://en.wikipedia.org/wiki/Bob_Packwood	https://www.wikidata.org/wiki/Q888183
+2680	2022-11-21 20:43:41	cpb-aacip-507-v40js9j432-transcript.ann	Sen. ROBERT PACKWOOD	person	1	https://en.wikipedia.org/wiki/Bob_Packwood	https://www.wikidata.org/wiki/Q888183
+2681	2022-11-21 20:43:44	cpb-aacip-507-v40js9j432-transcript.ann	WOODRUFF	person	18	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+2682	2022-11-21 20:43:46	cpb-aacip-507-v40js9j432-transcript.ann	Sen. PACKWOOD	person	17	https://en.wikipedia.org/wiki/Bob_Packwood	https://www.wikidata.org/wiki/Q888183
+2683	2022-11-21 20:44:09	cpb-aacip-507-v40js9j432-transcript.ann	Chairman Rostenkowski	person	1	https://en.wikipedia.org/wiki/Dan_Rostenkowski	https://www.wikidata.org/wiki/Q963898
+2684	2022-11-21 20:44:28	cpb-aacip-507-v40js9j432-transcript.ann	Treasury Department	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury	https://www.wikidata.org/wiki/Q648666
+2685	2022-11-21 20:45:39	cpb-aacip-507-v40js9j432-transcript.ann	Secretary Baker	person	1	https://en.wikipedia.org/wiki/James_Baker	https://www.wikidata.org/wiki/Q223151
+2686	2022-11-21 20:45:41	cpb-aacip-507-v40js9j432-transcript.ann	Jim Baker	person	1	https://en.wikipedia.org/wiki/James_Baker	https://www.wikidata.org/wiki/Q223151
+2687	2022-11-21 20:45:44	cpb-aacip-507-v40js9j432-transcript.ann	Pat Buchanan	person	1	https://en.wikipedia.org/wiki/Pat_Buchanan	https://www.wikidata.org/wiki/Q149127
+2688	2022-11-21 20:45:46	cpb-aacip-507-v40js9j432-transcript.ann	America	location	1	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+2689	2022-11-21 20:45:48	cpb-aacip-507-v40js9j432-transcript.ann	New York City	location	1	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+2690	2022-11-21 20:45:49	cpb-aacip-507-v40js9j432-transcript.ann	Robert MacNeil	person	1	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
