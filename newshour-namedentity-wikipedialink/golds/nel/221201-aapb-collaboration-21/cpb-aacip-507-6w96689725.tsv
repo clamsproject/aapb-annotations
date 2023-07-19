@@ -1,0 +1,70 @@
+index	timestamp	GUID	entity	type	instances	wiki_url	QID
+895	2022-11-14 21:40:56	cpb-aacip-507-6w96689725-transcript.ann	ROBERT MacNEIL	person	1	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+896	2022-11-14 21:41:31	cpb-aacip-507-6w96689725-transcript.ann	Ford	person	4	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+897	2022-11-14 21:41:53	cpb-aacip-507-6w96689725-transcript.ann	Carter	person	6	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685
+898	2022-11-14 21:41:56	cpb-aacip-507-6w96689725-transcript.ann	Congress	organization	2	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+899	2022-11-14 21:42:11	cpb-aacip-507-6w96689725-transcript.ann	National Organization for Women	organization	1	https://en.wikipedia.org/wiki/National_Organization_for_Women	https://www.wikidata.org/wiki/Q1967556
+900	2022-11-14 21:42:25	cpb-aacip-507-6w96689725-transcript.ann	Mr. Ford	person	5	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+901	2022-11-14 21:42:28	cpb-aacip-507-6w96689725-transcript.ann	GERALD FORD	person	1	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+902	2022-11-14 21:42:37	cpb-aacip-507-6w96689725-transcript.ann	Governor Carter	person	5	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685
+903	2022-11-14 21:42:40	cpb-aacip-507-6w96689725-transcript.ann	MacNEIL	person	14	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+904	2022-11-14 21:42:45	cpb-aacip-507-6w96689725-transcript.ann	Jimmy Carter	person	5	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685
+905	2022-11-14 21:42:49	cpb-aacip-507-6w96689725-transcript.ann	Mr. Carter	person	4	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685
+906	2022-11-14 21:43:01	cpb-aacip-507-6w96689725-transcript.ann	Scranton, Pennsylvania	location	1	https://en.wikipedia.org/wiki/Scranton,_Pennsylvania	https://www.wikidata.org/wiki/Q271395
+907	2022-11-14 21:43:03	cpb-aacip-507-6w96689725-transcript.ann	JIM LEHRER	person	1	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+908	2022-11-14 21:43:06	cpb-aacip-507-6w96689725-transcript.ann	Iowa	location	2	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+909	2022-11-14 21:43:18	cpb-aacip-507-6w96689725-transcript.ann	Ronald Reagan	person	2	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+910	2022-11-14 21:43:22	cpb-aacip-507-6w96689725-transcript.ann	Democrats	organization	1	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+911	2022-11-14 21:43:25	cpb-aacip-507-6w96689725-transcript.ann	Supreme Court	organization	2	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
+912	2022-11-14 21:43:42	cpb-aacip-507-6w96689725-transcript.ann	Ellen McCormick	person	2	https://en.wikipedia.org/wiki/Ellen_McCormack	https://www.wikidata.org/wiki/Q5364939
+913	2022-11-14 21:44:17	cpb-aacip-507-6w96689725-transcript.ann	Long island	location	1	https://en.wikipedia.org/wiki/Long_Island	https://www.wikidata.org/wiki/Q18438
+914	2022-11-14 21:45:16	cpb-aacip-507-6w96689725-transcript.ann	ELLEN McCORMICK	person	1	https://en.wikipedia.org/wiki/Ellen_McCormack	https://www.wikidata.org/wiki/Q5364939
+915	2022-11-14 21:45:19	cpb-aacip-507-6w96689725-transcript.ann	LEHRER	person	22	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+916	2022-11-14 21:45:22	cpb-aacip-507-6w96689725-transcript.ann	Republicans	organization	1	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+917	2022-11-14 21:45:35	cpb-aacip-507-6w96689725-transcript.ann	Gerald Ford	person	1	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+918	2022-11-14 21:46:03	cpb-aacip-507-6w96689725-transcript.ann	The Reverend James Ratigan	person	1		
+919	2022-11-14 21:46:22	cpb-aacip-507-6w96689725-transcript.ann	National Federation of Priests` Councils	organization	1	https://en.wikipedia.org/wiki/National_Federation_of_Priests%27_Councils	https://www.wikidata.org/wiki/Q6972601
+920	2022-11-14 21:46:25	cpb-aacip-507-6w96689725-transcript.ann	Father Ratigan	person	9		
+921	2022-11-14 21:46:27	cpb-aacip-507-6w96689725-transcript.ann	JAMES RATIGAN	person	1		
+922	2022-11-14 21:46:44	cpb-aacip-507-6w96689725-transcript.ann	Cardinal Cook	person	1	https://en.wikipedia.org/wiki/Terence_Cooke	https://www.wikidata.org/wiki/Q1344779
+923	2022-11-14 21:46:47	cpb-aacip-507-6w96689725-transcript.ann	RATIGAN	person	5		
+924	2022-11-14 21:46:55	cpb-aacip-507-6w96689725-transcript.ann	Catholic Church	organization	2	https://en.wikipedia.org/wiki/Catholic_Church	https://www.wikidata.org/wiki/Q9592
+925	2022-11-14 21:46:58	cpb-aacip-507-6w96689725-transcript.ann	Jim	person	3	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+926	2022-11-14 21:47:00	cpb-aacip-507-6w96689725-transcript.ann	Robin	person	4	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+927	2022-11-14 21:47:20	cpb-aacip-507-6w96689725-transcript.ann	Monsignor James McHugh	person	1	https://en.wikipedia.org/wiki/James_T._McHugh	https://www.wikidata.org/wiki/Q15979071
+928	2022-11-14 21:47:45	cpb-aacip-507-6w96689725-transcript.ann	Pastoral Plan for Pro-Life Activities	organization	1		
+929	2022-11-14 21:49:08	cpb-aacip-507-6w96689725-transcript.ann	Bishops` Conference	organization	1	https://en.wikipedia.org/wiki/United_States_Conference_of_Catholic_Bishops	https://www.wikidata.org/wiki/Q2300423
+930	2022-11-14 21:49:22	cpb-aacip-507-6w96689725-transcript.ann	JAMES McHUGH	person	1	https://en.wikipedia.org/wiki/James_T._McHugh	https://www.wikidata.org/wiki/Q15979071
+931	2022-11-14 21:49:25	cpb-aacip-507-6w96689725-transcript.ann	McHUGH	person	9	https://en.wikipedia.org/wiki/James_T._McHugh	https://www.wikidata.org/wiki/Q15979071
+932	2022-11-14 21:49:39	cpb-aacip-507-6w96689725-transcript.ann	President Ford	person	5	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+933	2022-11-14 21:49:49	cpb-aacip-507-6w96689725-transcript.ann	MCHUGH	person	1	https://en.wikipedia.org/wiki/James_T._McHugh	https://www.wikidata.org/wiki/Q15979071
+934	2022-11-14 21:50:32	cpb-aacip-507-6w96689725-transcript.ann	Betsey Stengel	person	1		
+935	2022-11-14 21:51:02	cpb-aacip-507-6w96689725-transcript.ann	Religious Coalition for Abortion Rights	organization	1	https://en.wikipedia.org/wiki/Religious_Coalition_for_Reproductive_Choice	https://www.wikidata.org/wiki/Q7311287
+936	2022-11-14 21:51:09	cpb-aacip-507-6w96689725-transcript.ann	Mr. Stengel	person	1		
+937	2022-11-14 21:51:11	cpb-aacip-507-6w96689725-transcript.ann	BETSEY STENGEL	person	1		
+938	2022-11-14 21:51:14	cpb-aacip-507-6w96689725-transcript.ann	STENGEL	person	7		
+939	2022-11-14 21:51:21	cpb-aacip-507-6w96689725-transcript.ann	Father McHugh	person	2	https://en.wikipedia.org/wiki/James_T._McHugh	https://www.wikidata.org/wiki/Q15979071
+940	2022-11-14 21:51:57	cpb-aacip-507-6w96689725-transcript.ann	Jeffrey Pressman	person	1		
+941	2022-11-14 21:52:09	cpb-aacip-507-6w96689725-transcript.ann	M.I.T.	organization	1	https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology	https://www.wikidata.org/wiki/Q49108
+942	2022-11-14 21:52:12	cpb-aacip-507-6w96689725-transcript.ann	Mr. Pressman	person	1		
+943	2022-11-14 21:52:16	cpb-aacip-507-6w96689725-transcript.ann	JEFFREY PRESSMAN	person	1		
+944	2022-11-14 21:52:36	cpb-aacip-507-6w96689725-transcript.ann	Mr. MacNeil	person	1	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+945	2022-11-14 21:52:53	cpb-aacip-507-6w96689725-transcript.ann	James Baker	person	1	https://en.wikipedia.org/wiki/James_Baker	https://www.wikidata.org/wiki/Q223151
+946	2022-11-14 21:52:56	cpb-aacip-507-6w96689725-transcript.ann	PRESSMAN	person	3		
+947	2022-11-14 21:52:59	cpb-aacip-507-6w96689725-transcript.ann	Mr. Baker	person	2	https://en.wikipedia.org/wiki/James_Baker	https://www.wikidata.org/wiki/Q223151
+948	2022-11-14 21:53:10	cpb-aacip-507-6w96689725-transcript.ann	Rome	location	1	https://en.wikipedia.org/wiki/Rome	https://www.wikidata.org/wiki/Q220
+949	2022-11-14 21:53:13	cpb-aacip-507-6w96689725-transcript.ann	Ms. Stengel	person	1		
+950	2022-11-14 21:53:15	cpb-aacip-507-6w96689725-transcript.ann	Dr. Pressman	person	2		
+951	2022-11-14 21:53:26	cpb-aacip-507-6w96689725-transcript.ann	Mr. Lehrer	person	1	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+952	2022-11-14 21:53:55	cpb-aacip-507-6w96689725-transcript.ann	Lou Harris	person	1	https://en.wikipedia.org/wiki/Louis_Harris	https://www.wikidata.org/wiki/Q6687338
+953	2022-11-14 21:54:14	cpb-aacip-507-6w96689725-transcript.ann	New York	location	1	https://en.wikipedia.org/wiki/New_York_(state)	https://www.wikidata.org/wiki/Q1384
+954	2022-11-14 21:54:16	cpb-aacip-507-6w96689725-transcript.ann	Illinois	location	1	https://en.wikipedia.org/wiki/Illinois	https://www.wikidata.org/wiki/Q1204
+955	2022-11-14 21:54:18	cpb-aacip-507-6w96689725-transcript.ann	Pennsylvania	location	1	https://en.wikipedia.org/wiki/Pennsylvania	https://www.wikidata.org/wiki/Q1400
+956	2022-11-14 21:54:20	cpb-aacip-507-6w96689725-transcript.ann	Michigan	location	1	https://en.wikipedia.org/wiki/Michigan	https://www.wikidata.org/wiki/Q1166
+957	2022-11-14 21:55:07	cpb-aacip-507-6w96689725-transcript.ann	Monsignor McHugh	person	1	https://en.wikipedia.org/wiki/James_T._McHugh	https://www.wikidata.org/wiki/Q15979071
+958	2022-11-14 21:55:09	cpb-aacip-507-6w96689725-transcript.ann	Jim Lehrer	person	1	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+959	2022-11-14 21:55:22	cpb-aacip-507-6w96689725-transcript.ann	Robert MacNeil	person	1	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+960	2022-11-14 21:55:28	cpb-aacip-507-6w96689725-transcript.ann	Constitution	publication_title	2	https://en.wikipedia.org/wiki/Constitution_of_the_United_States	https://www.wikidata.org/wiki/Q11698
+961	2022-11-14 21:55:31	cpb-aacip-507-6w96689725-transcript.ann	New York Times	organization	1	https://en.wikipedia.org/wiki/The_New_York_Times	https://www.wikidata.org/wiki/Q9684
+962	2022-11-14 21:55:43	cpb-aacip-507-6w96689725-transcript.ann	CBS	organization	1	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+963	2022-11-14 21:55:54	cpb-aacip-507-6w96689725-transcript.ann	1976 Presidential election	event	1	https://en.wikipedia.org/wiki/1976_United_States_presidential_election	https://www.wikidata.org/wiki/Q699693

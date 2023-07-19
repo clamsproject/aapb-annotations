@@ -1,0 +1,217 @@
+index	timestamp	GUID	entity	type	instances	wiki_url	QID
+194	2022-11-10 15:57:53	cpb-aacip-507-1v5bc3tf81-transcript.ann	JIM LEHRER	person	29	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+195	2022-11-10 15:57:59	cpb-aacip-507-1v5bc3tf81-transcript.ann	Jim Lehrer	person	2	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+196	2022-11-10 15:58:04	cpb-aacip-507-1v5bc3tf81-transcript.ann	NewsHour	program_title	2	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+197	2022-11-11 15:03:18	cpb-aacip-507-1v5bc3tf81-transcript.ann	Salt Lake City Olympics investigation	event	1	https://en.wikipedia.org/wiki/2002_Winter_Olympic_bid_scandal	https://www.wikidata.org/wiki/Q3081777
+198	2022-11-11 15:03:43	cpb-aacip-507-1v5bc3tf81-transcript.ann	Boeing	organization	28	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+199	2022-11-11 15:03:57	cpb-aacip-507-1v5bc3tf81-transcript.ann	Seattle	location	4	https://en.wikipedia.org/wiki/Seattle	https://www.wikidata.org/wiki/Q5083
+200	2022-11-11 15:04:11	cpb-aacip-507-1v5bc3tf81-transcript.ann	Cambodia	location	23	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+201	2022-11-11 15:04:26	cpb-aacip-507-1v5bc3tf81-transcript.ann	Henry Kamm	person	4	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+202	2022-11-11 15:04:33	cpb-aacip-507-1v5bc3tf81-transcript.ann	NEWS SUMMARY	program_title	1		
+203	2022-11-11 15:04:49	cpb-aacip-507-1v5bc3tf81-transcript.ann	Salt Lake City	location	22	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+204	2022-11-11 15:05:35	cpb-aacip-507-1v5bc3tf81-transcript.ann	2002 Winter Olympic Games	event	1	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+205	2022-11-11 15:05:47	cpb-aacip-507-1v5bc3tf81-transcript.ann	U.S. Olympic Committee	organization	2	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+206	2022-11-11 15:06:22	cpb-aacip-507-1v5bc3tf81-transcript.ann	International Olympic Committee	organization	16	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+207	2022-11-11 15:06:27	cpb-aacip-507-1v5bc3tf81-transcript.ann	IOC	organization	22	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+208	2022-11-11 15:06:31	cpb-aacip-507-1v5bc3tf81-transcript.ann	Washington	location	2	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+209	2022-11-11 15:06:45	cpb-aacip-507-1v5bc3tf81-transcript.ann	Senate	organization	3	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+210	2022-11-11 15:10:17	cpb-aacip-507-1v5bc3tf81-transcript.ann	George Mitchell	person	2	https://en.wikipedia.org/wiki/George_J._Mitchell	https://www.wikidata.org/wiki/Q368920
+211	2022-11-11 15:10:20	cpb-aacip-507-1v5bc3tf81-transcript.ann	GEORGE MITCHELL	person	2	https://en.wikipedia.org/wiki/George_J._Mitchell	https://www.wikidata.org/wiki/Q368920
+212	2022-11-11 15:10:26	cpb-aacip-507-1v5bc3tf81-transcript.ann	News Summary	program_title	2		
+213	2022-11-11 15:10:47	cpb-aacip-507-1v5bc3tf81-transcript.ann	Northwest	location	1	https://en.wikipedia.org/wiki/Northwestern_United_States	https://www.wikidata.org/wiki/Q944857
+214	2022-11-11 15:11:04	cpb-aacip-507-1v5bc3tf81-transcript.ann	Oregon	location	4	https://en.wikipedia.org/wiki/Oregon	https://www.wikidata.org/wiki/Q824
+215	2022-11-11 15:11:24	cpb-aacip-507-1v5bc3tf81-transcript.ann	Coast Guard	organization	1	https://en.wikipedia.org/wiki/United_States_Coast_Guard	https://www.wikidata.org/wiki/Q11224
+216	2022-11-11 15:11:27	cpb-aacip-507-1v5bc3tf81-transcript.ann	Washington State	location	3	https://en.wikipedia.org/wiki/Washington_(state)	https://www.wikidata.org/wiki/Q1223
+217	2022-11-11 15:11:55	cpb-aacip-507-1v5bc3tf81-transcript.ann	Southeast	location	1	https://en.wikipedia.org/wiki/Southeastern_United_States	https://www.wikidata.org/wiki/Q1139046
+218	2022-11-11 15:12:13	cpb-aacip-507-1v5bc3tf81-transcript.ann	Virginia	location	3	https://en.wikipedia.org/wiki/Virginia	https://www.wikidata.org/wiki/Q1370
+219	2022-11-11 15:12:26	cpb-aacip-507-1v5bc3tf81-transcript.ann	Yemen	location	1	https://en.wikipedia.org/wiki/Yemen	https://www.wikidata.org/wiki/Q805
+220	2022-11-11 15:12:39	cpb-aacip-507-1v5bc3tf81-transcript.ann	Arabian peninsula	location	1	https://en.wikipedia.org/wiki/Arabian_Peninsula	https://www.wikidata.org/wiki/Q31945
+221	2022-11-11 15:12:43	cpb-aacip-507-1v5bc3tf81-transcript.ann	U.S.	location	2	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+222	2022-11-11 15:12:47	cpb-aacip-507-1v5bc3tf81-transcript.ann	United States	location	9	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+223	2022-11-11 15:13:04	cpb-aacip-507-1v5bc3tf81-transcript.ann	China	location	6	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+224	2022-11-11 15:13:26	cpb-aacip-507-1v5bc3tf81-transcript.ann	Chinese foreign ministry	location	1	https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_of_the_People's_Republic_of_China	https://www.wikidata.org/wiki/Q1155502
+225	2022-11-11 15:13:40	cpb-aacip-507-1v5bc3tf81-transcript.ann	Hong Kong	location	1	https://en.wikipedia.org/wiki/Hong_Kong	https://www.wikidata.org/wiki/Q8646
+226	2022-11-11 15:13:51	cpb-aacip-507-1v5bc3tf81-transcript.ann	Khmer Rouge	organization	9	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+227	2022-11-11 15:14:02	cpb-aacip-507-1v5bc3tf81-transcript.ann	Paul Pot	person	1	https://en.wikipedia.org/wiki/Pol_Pot	https://www.wikidata.org/wiki/Q39464
+228	2022-11-11 15:14:14	cpb-aacip-507-1v5bc3tf81-transcript.ann	Prime Minister Hun Sen	person	1	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+229	2022-11-11 15:14:29	cpb-aacip-507-1v5bc3tf81-transcript.ann	New York Times	publication_title	2	https://en.wikipedia.org/wiki/The_New_York_Times	https://www.wikidata.org/wiki/Q9684
+230	2022-11-11 15:14:45	cpb-aacip-507-1v5bc3tf81-transcript.ann	Terence Smith	person	2	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+231	2022-11-11 15:14:58	cpb-aacip-507-1v5bc3tf81-transcript.ann	House	organization	2	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+232	2022-11-11 15:15:19	cpb-aacip-507-1v5bc3tf81-transcript.ann	President Clinton's impeachment trial	event	1	https://en.wikipedia.org/wiki/Impeachment_trial_of_Bill_Clinton	https://www.wikidata.org/wiki/Q105715892
+233	2022-11-11 15:15:36	cpb-aacip-507-1v5bc3tf81-transcript.ann	House Judiciary Committee	organization	1	https://en.wikipedia.org/wiki/United_States_House_Committee_on_the_Judiciary	https://www.wikidata.org/wiki/Q1131462
+234	2022-11-11 15:15:49	cpb-aacip-507-1v5bc3tf81-transcript.ann	Congressman Henry Hyde	person	1	https://en.wikipedia.org/wiki/Henry_Hyde	https://www.wikidata.org/wiki/Q3132849
+235	2022-11-11 15:15:56	cpb-aacip-507-1v5bc3tf81-transcript.ann	Illinois	location	1	https://en.wikipedia.org/wiki/Illinois	https://www.wikidata.org/wiki/Q1204
+236	2022-11-11 15:16:10	cpb-aacip-507-1v5bc3tf81-transcript.ann	White House	location	1	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+237	2022-11-11 15:16:23	cpb-aacip-507-1v5bc3tf81-transcript.ann	Salt Lake City Olympics	event	1	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+238	2022-11-11 15:16:28	cpb-aacip-507-1v5bc3tf81-transcript.ann	FOCUS - OLYMPIC INVESTIGATION	program_title	1		
+239	2022-11-11 15:16:59	cpb-aacip-507-1v5bc3tf81-transcript.ann	Tom Bearden	person	1		
+240	2022-11-11 15:17:02	cpb-aacip-507-1v5bc3tf81-transcript.ann	TOM BEARDEN	person	3		
+241	2022-11-11 15:17:11	cpb-aacip-507-1v5bc3tf81-transcript.ann	2002 Winter Games	event	1	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+242	2022-11-11 15:17:26	cpb-aacip-507-1v5bc3tf81-transcript.ann	JUAN ANTONIO SAMARANCH	person	1	https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch	https://www.wikidata.org/wiki/Q171166
+243	2022-11-11 15:17:35	cpb-aacip-507-1v5bc3tf81-transcript.ann	19th Olympic Winter Games	event	1	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+244	2022-11-11 15:17:45	cpb-aacip-507-1v5bc3tf81-transcript.ann	Salt Lake	location	3	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+245	2022-11-11 15:18:04	cpb-aacip-507-1v5bc3tf81-transcript.ann	Quebec	location	1	https://en.wikipedia.org/wiki/Quebec_City	https://www.wikidata.org/wiki/Q2145
+246	2022-11-11 15:18:21	cpb-aacip-507-1v5bc3tf81-transcript.ann	Sweden	location	1	https://en.wikipedia.org/wiki/Sweden	https://www.wikidata.org/wiki/Q34
+247	2022-11-11 15:18:35	cpb-aacip-507-1v5bc3tf81-transcript.ann	Switzerland	location	1	https://en.wikipedia.org/wiki/Switzerland	https://www.wikidata.org/wiki/Q39
+248	2022-11-11 15:18:49	cpb-aacip-507-1v5bc3tf81-transcript.ann	ICO	organization	4	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+249	2022-11-11 15:19:06	cpb-aacip-507-1v5bc3tf81-transcript.ann	Salt Lake Organizing Group	organization	1	https://en.wikipedia.org/wiki/Salt_Lake_Organizing_Committee_for_the_Olympic_and_Paralympic_Winter_Games_of_2002	https://www.wikidata.org/wiki/Q7405890
+250	2022-11-11 15:19:26	cpb-aacip-507-1v5bc3tf81-transcript.ann	US Senate	organization	1	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+251	2022-11-11 15:19:39	cpb-aacip-507-1v5bc3tf81-transcript.ann	United States Olympic Committee	organization	1	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+252	2022-11-11 15:19:49	cpb-aacip-507-1v5bc3tf81-transcript.ann	U.S. Justice Department	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+253	2022-11-11 15:20:15	cpb-aacip-507-1v5bc3tf81-transcript.ann	2002 winter games	event	1	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+254	2022-11-11 15:20:37	cpb-aacip-507-1v5bc3tf81-transcript.ann	Howard Berkes	person	1		
+255	2022-11-11 15:20:50	cpb-aacip-507-1v5bc3tf81-transcript.ann	National Public Radio	organization	2	https://en.wikipedia.org/wiki/NPR	https://www.wikidata.org/wiki/Q671510
+256	2022-11-11 15:21:04	cpb-aacip-507-1v5bc3tf81-transcript.ann	Christine Brennan	person	1	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+257	2022-11-11 15:21:09	cpb-aacip-507-1v5bc3tf81-transcript.ann	Christine	person	6	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+258	2022-11-11 15:21:12	cpb-aacip-507-1v5bc3tf81-transcript.ann	CHRISTINE BRENNAN	person	8	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+259	2022-11-11 15:22:39	cpb-aacip-507-1v5bc3tf81-transcript.ann	Princess Anne	person	1	https://en.wikipedia.org/wiki/Anne,_Princess_Royal	https://www.wikidata.org/wiki/Q151754
+260	2022-11-11 15:22:54	cpb-aacip-507-1v5bc3tf81-transcript.ann	Prince Albert	person	1	https://en.wikipedia.org/wiki/Albert_II,_Prince_of_Monaco	https://www.wikidata.org/wiki/Q3910
+261	2022-11-11 15:23:11	cpb-aacip-507-1v5bc3tf81-transcript.ann	Monaco	location	1	https://en.wikipedia.org/wiki/Monaco	https://www.wikidata.org/wiki/Q235
+262	2022-11-11 15:23:24	cpb-aacip-507-1v5bc3tf81-transcript.ann	Atlanta	location	6	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+263	2022-11-11 15:23:37	cpb-aacip-507-1v5bc3tf81-transcript.ann	US Olympic Committee	organization	3	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+264	2022-11-11 15:23:55	cpb-aacip-507-1v5bc3tf81-transcript.ann	Minneapolis	location	1	https://en.wikipedia.org/wiki/Minneapolis	https://www.wikidata.org/wiki/Q36091
+265	2022-11-11 15:24:11	cpb-aacip-507-1v5bc3tf81-transcript.ann	Howard	person	3		
+266	2022-11-11 15:24:14	cpb-aacip-507-1v5bc3tf81-transcript.ann	HOWARD BERKES	person	10		
+267	2022-11-11 15:24:29	cpb-aacip-507-1v5bc3tf81-transcript.ann	Salt Lake Olympic organizing committee	organization	1	https://en.wikipedia.org/wiki/Salt_Lake_Organizing_Committee_for_the_Olympic_and_Paralympic_Winter_Games_of_2002	https://www.wikidata.org/wiki/Q7405890
+268	2022-11-11 15:24:45	cpb-aacip-507-1v5bc3tf81-transcript.ann	American University	organization	1	https://en.wikipedia.org/wiki/American_University	https://www.wikidata.org/wiki/Q168000
+269	2022-11-11 15:24:57	cpb-aacip-507-1v5bc3tf81-transcript.ann	Utah	location	1	https://en.wikipedia.org/wiki/Utah	https://www.wikidata.org/wiki/Q829
+270	2022-11-11 15:25:11	cpb-aacip-507-1v5bc3tf81-transcript.ann	Salt Lake Olympics	event	1	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+271	2022-11-11 15:25:41	cpb-aacip-507-1v5bc3tf81-transcript.ann	Los Angeles Olympics	event	1	https://en.wikipedia.org/wiki/1984_Summer_Olympics	https://www.wikidata.org/wiki/Q8456
+272	2022-11-11 15:26:28	cpb-aacip-507-1v5bc3tf81-transcript.ann	Munich	location	1	https://en.wikipedia.org/wiki/Munich	https://www.wikidata.org/wiki/Q1726
+273	2022-11-11 15:26:42	cpb-aacip-507-1v5bc3tf81-transcript.ann	Montreal	location	2	https://en.wikipedia.org/wiki/Montreal	https://www.wikidata.org/wiki/Q340
+274	2022-11-11 15:26:58	cpb-aacip-507-1v5bc3tf81-transcript.ann	Manchester	location	1	https://en.wikipedia.org/wiki/Manchester	https://www.wikidata.org/wiki/Q18125
+275	2022-11-11 15:27:01	cpb-aacip-507-1v5bc3tf81-transcript.ann	Manchester, England	location	1	https://en.wikipedia.org/wiki/Manchester	https://www.wikidata.org/wiki/Q18125
+276	2022-11-11 15:27:15	cpb-aacip-507-1v5bc3tf81-transcript.ann	Jim	person	2	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+277	2022-11-11 15:27:34	cpb-aacip-507-1v5bc3tf81-transcript.ann	Sidney Harbor	location	1	https://en.wikipedia.org/wiki/Port_Jackson	https://www.wikidata.org/wiki/Q54504
+278	2022-11-11 15:27:52	cpb-aacip-507-1v5bc3tf81-transcript.ann	Augusta National	organization	6	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+279	2022-11-11 15:28:10	cpb-aacip-507-1v5bc3tf81-transcript.ann	Augusta	organization	2	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+280	2022-11-11 15:28:31	cpb-aacip-507-1v5bc3tf81-transcript.ann	Mitchell Commission	organization	1		
+281	2022-11-11 15:28:56	cpb-aacip-507-1v5bc3tf81-transcript.ann	Mark Hodler	person	1	https://en.wikipedia.org/wiki/Marc_Hodler	https://www.wikidata.org/wiki/Q666757
+282	2022-11-11 15:29:12	cpb-aacip-507-1v5bc3tf81-transcript.ann	Juan Antonio Samaranch	person	3	https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch	https://www.wikidata.org/wiki/Q171166
+283	2022-11-11 15:29:33	cpb-aacip-507-1v5bc3tf81-transcript.ann	Dick Pound	person	1	https://en.wikipedia.org/wiki/Dick_Pound	https://www.wikidata.org/wiki/Q1398503
+284	2022-11-11 15:30:00	cpb-aacip-507-1v5bc3tf81-transcript.ann	Justice Department	organization	2	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+285	2022-11-11 15:30:17	cpb-aacip-507-1v5bc3tf81-transcript.ann	2000 Olympics	event	1	https://en.wikipedia.org/wiki/2000_Summer_Olympics	https://www.wikidata.org/wiki/Q8544
+286	2022-11-11 15:30:36	cpb-aacip-507-1v5bc3tf81-transcript.ann	Australia	location	1	https://en.wikipedia.org/wiki/Australia	https://www.wikidata.org/wiki/Q408
+287	2022-11-11 15:30:39	cpb-aacip-507-1v5bc3tf81-transcript.ann	FOCUS - YEAR OF DISASTERS	program_title	1		
+288	2022-11-11 15:30:51	cpb-aacip-507-1v5bc3tf81-transcript.ann	Phil Ponce	person	1	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+289	2022-11-11 15:30:53	cpb-aacip-507-1v5bc3tf81-transcript.ann	PHIL PONCE	person	20	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+290	2022-11-11 15:31:05	cpb-aacip-507-1v5bc3tf81-transcript.ann	Indonesia	location	3	https://en.wikipedia.org/wiki/Indonesia	https://www.wikidata.org/wiki/Q252
+291	2022-11-11 15:31:26	cpb-aacip-507-1v5bc3tf81-transcript.ann	Malaysia	location	1	https://en.wikipedia.org/wiki/Malaysia	https://www.wikidata.org/wiki/Q833
+292	2022-11-11 15:31:41	cpb-aacip-507-1v5bc3tf81-transcript.ann	India	location	3	https://en.wikipedia.org/wiki/India	https://www.wikidata.org/wiki/Q668
+293	2022-11-11 15:31:56	cpb-aacip-507-1v5bc3tf81-transcript.ann	Gujarat	location	1	https://en.wikipedia.org/wiki/Gujarat	https://www.wikidata.org/wiki/Q1061
+294	2022-11-11 15:32:08	cpb-aacip-507-1v5bc3tf81-transcript.ann	Papua New Guinea	location	1	https://en.wikipedia.org/wiki/Papua_New_Guinea	https://www.wikidata.org/wiki/Q691
+295	2022-11-11 15:32:58	cpb-aacip-507-1v5bc3tf81-transcript.ann	Pacific	location	2	https://en.wikipedia.org/wiki/Pacific_Ocean	https://www.wikidata.org/wiki/Q98
+296	2022-11-11 15:33:16	cpb-aacip-507-1v5bc3tf81-transcript.ann	Yangtze River	location	3	https://en.wikipedia.org/wiki/Yangtze	https://www.wikidata.org/wiki/Q5413
+297	2022-11-11 15:33:28	cpb-aacip-507-1v5bc3tf81-transcript.ann	World Watch Institute	organization	1	https://en.wikipedia.org/wiki/Worldwatch_Institute	https://www.wikidata.org/wiki/Q1427926
+298	2022-11-11 15:33:45	cpb-aacip-507-1v5bc3tf81-transcript.ann	Bangladesh	location	7	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+299	2022-11-11 15:34:02	cpb-aacip-507-1v5bc3tf81-transcript.ann	Jamuna River	location	1	https://en.wikipedia.org/wiki/Jamuna_River_(Bangladesh)	https://www.wikidata.org/wiki/Q150062
+300	2022-11-11 15:34:16	cpb-aacip-507-1v5bc3tf81-transcript.ann	Caribbean	location	2	https://en.wikipedia.org/wiki/Caribbean	https://www.wikidata.org/wiki/Q664609
+301	2022-11-11 15:34:27	cpb-aacip-507-1v5bc3tf81-transcript.ann	Central America	location	3	https://en.wikipedia.org/wiki/Central_America	https://www.wikidata.org/wiki/Q27611
+302	2022-11-11 15:34:50	cpb-aacip-507-1v5bc3tf81-transcript.ann	Hurricane Georges	event	3	https://en.wikipedia.org/wiki/Hurricane_Georges	https://www.wikidata.org/wiki/Q3243975
+303	2022-11-11 15:35:03	cpb-aacip-507-1v5bc3tf81-transcript.ann	Anguilla	location	1	https://en.wikipedia.org/wiki/Anguilla	https://www.wikidata.org/wiki/Q25228
+304	2022-11-11 15:35:18	cpb-aacip-507-1v5bc3tf81-transcript.ann	Puerto Rico	location	6	https://en.wikipedia.org/wiki/Puerto_Rico	https://www.wikidata.org/wiki/Q1183
+305	2022-11-11 15:35:30	cpb-aacip-507-1v5bc3tf81-transcript.ann	Dominican Republic	location	1	https://en.wikipedia.org/wiki/Dominican_Republic	https://www.wikidata.org/wiki/Q786
+306	2022-11-11 15:35:41	cpb-aacip-507-1v5bc3tf81-transcript.ann	Haiti	location	1	https://en.wikipedia.org/wiki/Haiti	https://www.wikidata.org/wiki/Q790
+307	2022-11-11 15:35:51	cpb-aacip-507-1v5bc3tf81-transcript.ann	Cuba	location	1	https://en.wikipedia.org/wiki/Cuba	https://www.wikidata.org/wiki/Q241
+308	2022-11-11 15:36:02	cpb-aacip-507-1v5bc3tf81-transcript.ann	Florida Keys	location	2	https://en.wikipedia.org/wiki/Florida_Keys	https://www.wikidata.org/wiki/Q537749
+309	2022-11-11 15:36:23	cpb-aacip-507-1v5bc3tf81-transcript.ann	Hurricane Mitch	event	4	https://en.wikipedia.org/wiki/Hurricane_Mitch	https://www.wikidata.org/wiki/Q390115
+310	2022-11-11 15:36:40	cpb-aacip-507-1v5bc3tf81-transcript.ann	St. Kitts & Nevis	location	1	https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis	https://www.wikidata.org/wiki/Q763
+311	2022-11-11 15:36:55	cpb-aacip-507-1v5bc3tf81-transcript.ann	Honduras	location	4	https://en.wikipedia.org/wiki/Honduras	https://www.wikidata.org/wiki/Q783
+312	2022-11-11 15:37:04	cpb-aacip-507-1v5bc3tf81-transcript.ann	Nicaragua	location	2	https://en.wikipedia.org/wiki/Nicaragua	https://www.wikidata.org/wiki/Q811
+313	2022-11-11 15:38:12	cpb-aacip-507-1v5bc3tf81-transcript.ann	El Salvador	location	1	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+314	2022-11-11 15:38:21	cpb-aacip-507-1v5bc3tf81-transcript.ann	Guatemala	location	1	https://en.wikipedia.org/wiki/Guatemala	https://www.wikidata.org/wiki/Q774
+315	2022-11-11 15:38:32	cpb-aacip-507-1v5bc3tf81-transcript.ann	Mexico	location	2	https://en.wikipedia.org/wiki/Mexico	https://www.wikidata.org/wiki/Q96
+316	2022-11-11 15:38:48	cpb-aacip-507-1v5bc3tf81-transcript.ann	Canada	location	1	https://en.wikipedia.org/wiki/Canada	https://www.wikidata.org/wiki/Q16
+317	2022-11-11 15:39:02	cpb-aacip-507-1v5bc3tf81-transcript.ann	New England	location	1	https://en.wikipedia.org/wiki/New_England	https://www.wikidata.org/wiki/Q18389
+318	2022-11-11 15:39:14	cpb-aacip-507-1v5bc3tf81-transcript.ann	Florida	location	4	https://en.wikipedia.org/wiki/Florida	https://www.wikidata.org/wiki/Q812
+319	2022-11-11 15:40:04	cpb-aacip-507-1v5bc3tf81-transcript.ann	Hurricane Bonnie	event	1	https://en.wikipedia.org/wiki/Hurricane_Bonnie_(1998)	https://www.wikidata.org/wiki/Q8356944
+320	2022-11-11 15:40:13	cpb-aacip-507-1v5bc3tf81-transcript.ann	North Carolina	location	1	https://en.wikipedia.org/wiki/North_Carolina	https://www.wikidata.org/wiki/Q1454
+321	2022-11-11 15:40:37	cpb-aacip-507-1v5bc3tf81-transcript.ann	Janet Abramovitz	person	1		
+322	2022-11-11 15:40:50	cpb-aacip-507-1v5bc3tf81-transcript.ann	Worldwatch Institute	organization	2	https://en.wikipedia.org/wiki/Worldwatch_Institute	https://www.wikidata.org/wiki/Q1427926
+323	2022-11-11 15:42:06	cpb-aacip-507-1v5bc3tf81-transcript.ann	Bob Watson	person	1		
+324	2022-11-11 15:42:20	cpb-aacip-507-1v5bc3tf81-transcript.ann	World Bank	organization	3	https://en.wikipedia.org/wiki/World_Bank	https://www.wikidata.org/wiki/Q7164
+325	2022-11-11 15:42:37	cpb-aacip-507-1v5bc3tf81-transcript.ann	John Clizbe	person	1		
+326	2022-11-11 15:42:50	cpb-aacip-507-1v5bc3tf81-transcript.ann	American Red Cross	organization	4	https://en.wikipedia.org/wiki/American_Red_Cross	https://www.wikidata.org/wiki/Q470110
+327	2022-11-11 15:42:55	cpb-aacip-507-1v5bc3tf81-transcript.ann	Ms. Abramovitz	person	2		
+328	2022-11-11 15:42:59	cpb-aacip-507-1v5bc3tf81-transcript.ann	JANET ABRAMOVITZ	person	4		
+329	2022-11-11 15:43:13	cpb-aacip-507-1v5bc3tf81-transcript.ann	Yangtze River floods	event	1	https://en.wikipedia.org/wiki/1998_China_floods	https://www.wikidata.org/wiki/Q82549
+330	2022-11-11 15:43:25	cpb-aacip-507-1v5bc3tf81-transcript.ann	Brazil	location	1	https://en.wikipedia.org/wiki/Brazil	https://www.wikidata.org/wiki/Q155
+331	2022-11-11 15:43:28	cpb-aacip-507-1v5bc3tf81-transcript.ann	Mr. Clizbe	person	1		
+332	2022-11-11 15:43:31	cpb-aacip-507-1v5bc3tf81-transcript.ann	JOHN CLIZBE	person	7		
+333	2022-11-11 15:43:37	cpb-aacip-507-1v5bc3tf81-transcript.ann	Mr. Watson	person	2		
+334	2022-11-11 15:43:40	cpb-aacip-507-1v5bc3tf81-transcript.ann	BOB WATSON	person	6		
+335	2022-11-11 15:43:53	cpb-aacip-507-1v5bc3tf81-transcript.ann	Peru	location	3	https://en.wikipedia.org/wiki/Peru	https://www.wikidata.org/wiki/Q419
+336	2022-11-11 15:44:03	cpb-aacip-507-1v5bc3tf81-transcript.ann	Ecuador	location	1	https://en.wikipedia.org/wiki/Ecuador	https://www.wikidata.org/wiki/Q736
+337	2022-11-11 15:44:16	cpb-aacip-507-1v5bc3tf81-transcript.ann	Tegucigalpa	location	1	https://en.wikipedia.org/wiki/Tegucigalpa	https://www.wikidata.org/wiki/Q3238
+338	2022-11-11 15:45:01	cpb-aacip-507-1v5bc3tf81-transcript.ann	Yangtze River Basin	location	1	https://en.wikipedia.org/wiki/Yangtze	https://www.wikidata.org/wiki/Q5413
+339	2022-11-11 15:45:18	cpb-aacip-507-1v5bc3tf81-transcript.ann	Mitch	event	1	https://en.wikipedia.org/wiki/Hurricane_Mitch	https://www.wikidata.org/wiki/Q390115
+340	2022-11-11 15:45:31	cpb-aacip-507-1v5bc3tf81-transcript.ann	Chinese government	organization	1	https://en.wikipedia.org/wiki/Government_of_China	https://www.wikidata.org/wiki/Q936190
+341	2022-11-11 15:45:36	cpb-aacip-507-1v5bc3tf81-transcript.ann	Mr. Clizby	person	1		
+342	2022-11-11 15:46:09	cpb-aacip-507-1v5bc3tf81-transcript.ann	Southeastern coasts	location	1	https://en.wikipedia.org/wiki/Southeastern_United_States	https://www.wikidata.org/wiki/Q1139046
+343	2022-11-11 15:46:59	cpb-aacip-507-1v5bc3tf81-transcript.ann	Texas -- Del Rio area	location	1	https://en.wikipedia.org/wiki/Lower_Rio_Grande_Valley	https://www.wikidata.org/wiki/Q1644904
+344	2022-11-11 15:47:01	cpb-aacip-507-1v5bc3tf81-transcript.ann	Texas	location	2	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+345	2022-11-11 15:47:56	cpb-aacip-507-1v5bc3tf81-transcript.ann	Del Rio	location	2		
+346	2022-11-11 15:49:49	cpb-aacip-507-1v5bc3tf81-transcript.ann	Red Cross	organization	2		
+347	2022-11-11 15:51:22	cpb-aacip-507-1v5bc3tf81-transcript.ann	Texas -- Del Rio area	location	1	https://en.wikipedia.org/wiki/Del_Rio,_Texas	https://www.wikidata.org/wiki/Q970792
+348	2022-11-11 15:51:42	cpb-aacip-507-1v5bc3tf81-transcript.ann	Del Rio	location	2	https://en.wikipedia.org/wiki/Del_Rio,_Texas	https://www.wikidata.org/wiki/Q970792
+349	2022-11-11 15:52:12	cpb-aacip-507-1v5bc3tf81-transcript.ann	Red Cross	organization	2	https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	https://www.wikidata.org/wiki/Q7178
+350	2022-11-11 15:52:38	cpb-aacip-507-1v5bc3tf81-transcript.ann	Kansas	location	1	https://en.wikipedia.org/wiki/Kansas	https://www.wikidata.org/wiki/Q1558
+351	2022-11-11 15:52:54	cpb-aacip-507-1v5bc3tf81-transcript.ann	Spencer, South Dakota	location	1	https://en.wikipedia.org/wiki/Spencer,_South_Dakota	https://www.wikidata.org/wiki/Q2569304
+352	2022-11-11 15:53:09	cpb-aacip-507-1v5bc3tf81-transcript.ann	Alabama	location	1	https://en.wikipedia.org/wiki/Alabama	https://www.wikidata.org/wiki/Q173
+353	2022-11-11 15:53:19	cpb-aacip-507-1v5bc3tf81-transcript.ann	Georgia	location	1	https://en.wikipedia.org/wiki/Georgia_(U.S._state)	https://www.wikidata.org/wiki/Q1428
+354	2022-11-11 15:53:22	cpb-aacip-507-1v5bc3tf81-transcript.ann	FOCUS - SLOWING DOWN	program_title	1		
+355	2022-11-11 15:53:48	cpb-aacip-507-1v5bc3tf81-transcript.ann	Rod Minott	person	1		
+356	2022-11-11 15:54:05	cpb-aacip-507-1v5bc3tf81-transcript.ann	KCTS-Seattle	organization	1	https://en.wikipedia.org/wiki/KCTS-TV	https://www.wikidata.org/wiki/Q6327408
+357	2022-11-11 15:54:07	cpb-aacip-507-1v5bc3tf81-transcript.ann	ROD MINOTT	person	12		
+358	2022-11-11 15:54:20	cpb-aacip-507-1v5bc3tf81-transcript.ann	737	product	1	https://en.wikipedia.org/wiki/Boeing_737	https://www.wikidata.org/wiki/Q6387
+359	2022-11-11 15:54:30	cpb-aacip-507-1v5bc3tf81-transcript.ann	GRAY RUSSROCK	person	1		
+360	2022-11-11 15:54:43	cpb-aacip-507-1v5bc3tf81-transcript.ann	Anthony Carson	person	1		
+361	2022-11-11 15:54:47	cpb-aacip-507-1v5bc3tf81-transcript.ann	ANTHONY CARSON	person	1		
+362	2022-11-11 15:55:30	cpb-aacip-507-1v5bc3tf81-transcript.ann	economic crisis in Asia	event	1	https://en.wikipedia.org/wiki/1997_Asian_financial_crisis	https://www.wikidata.org/wiki/Q80880
+363	2022-11-11 15:55:45	cpb-aacip-507-1v5bc3tf81-transcript.ann	Alan Mulally	person	2	https://en.wikipedia.org/wiki/Alan_Mulally	https://www.wikidata.org/wiki/Q348874
+364	2022-11-11 15:55:48	cpb-aacip-507-1v5bc3tf81-transcript.ann	ALAN MULALLY	person	2	https://en.wikipedia.org/wiki/Alan_Mulally	https://www.wikidata.org/wiki/Q348874
+365	2022-11-11 15:55:56	cpb-aacip-507-1v5bc3tf81-transcript.ann	Boeing Commercial Airplane Division	organization	1	https://en.wikipedia.org/wiki/Boeing_Commercial_Airplanes	https://www.wikidata.org/wiki/Q8793
+366	2022-11-11 15:56:08	cpb-aacip-507-1v5bc3tf81-transcript.ann	Asia	location	4	https://en.wikipedia.org/wiki/Asia	https://www.wikidata.org/wiki/Q48
+367	2022-11-11 15:56:20	cpb-aacip-507-1v5bc3tf81-transcript.ann	Jin Cho	person	1		
+368	2022-11-11 15:56:40	cpb-aacip-507-1v5bc3tf81-transcript.ann	Asiana	organization	1	https://en.wikipedia.org/wiki/Asiana_Airlines	https://www.wikidata.org/wiki/Q211165
+369	2022-11-11 15:57:02	cpb-aacip-507-1v5bc3tf81-transcript.ann	Boeing 747	product	1	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
+370	2022-11-11 15:57:12	cpb-aacip-507-1v5bc3tf81-transcript.ann	Seoul	location	1	https://en.wikipedia.org/wiki/Seoul	https://www.wikidata.org/wiki/Q8684
+371	2022-11-11 15:57:15	cpb-aacip-507-1v5bc3tf81-transcript.ann	JIN CHO	person	1		
+372	2022-11-11 15:57:25	cpb-aacip-507-1v5bc3tf81-transcript.ann	Asiana Airlines	organization	1	https://en.wikipedia.org/wiki/Asiana_Airlines	https://www.wikidata.org/wiki/Q211165
+373	2022-11-11 15:57:33	cpb-aacip-507-1v5bc3tf81-transcript.ann	747	product	3	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
+374	2022-11-11 15:57:43	cpb-aacip-507-1v5bc3tf81-transcript.ann	Asian crisis	event	1	https://en.wikipedia.org/wiki/1997_Asian_financial_crisis	https://www.wikidata.org/wiki/Q80880
+375	2022-11-11 15:57:58	cpb-aacip-507-1v5bc3tf81-transcript.ann	AirBus	organization	5	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+376	2022-11-11 15:58:23	cpb-aacip-507-1v5bc3tf81-transcript.ann	University of Washington	organization	1	https://en.wikipedia.org/wiki/University_of_Washington	https://www.wikidata.org/wiki/Q219563
+377	2022-11-11 16:00:13	cpb-aacip-507-1v5bc3tf81-transcript.ann	Charles Hill	person	1	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+378	2022-11-11 16:00:15	cpb-aacip-507-1v5bc3tf81-transcript.ann	CHARLES HILL	person	3	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+379	2022-11-11 16:00:35	cpb-aacip-507-1v5bc3tf81-transcript.ann	Tim Goree	person	1		
+380	2022-11-11 16:00:49	cpb-aacip-507-1v5bc3tf81-transcript.ann	777	product	1	https://en.wikipedia.org/wiki/Boeing_777	https://www.wikidata.org/wiki/Q6425
+381	2022-11-11 16:00:55	cpb-aacip-507-1v5bc3tf81-transcript.ann	TIM GOREE	person	2		
+382	2022-11-11 16:00:58	cpb-aacip-507-1v5bc3tf81-transcript.ann	Goree	person	1		
+383	2022-11-11 16:01:13	cpb-aacip-507-1v5bc3tf81-transcript.ann	McDonnell-Douglas	organization	1	https://en.wikipedia.org/wiki/McDonnell_Douglas	https://www.wikidata.org/wiki/Q201815
+384	2022-11-11 16:01:23	cpb-aacip-507-1v5bc3tf81-transcript.ann	Hill	person	1	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+385	2022-11-11 16:01:48	cpb-aacip-507-1v5bc3tf81-transcript.ann	Dick Conway	person	1		
+386	2022-11-11 16:01:51	cpb-aacip-507-1v5bc3tf81-transcript.ann	DICK CONWAY	person	1		
+387	2022-11-11 16:01:57	cpb-aacip-507-1v5bc3tf81-transcript.ann	CONVERSATION	program_title	1		
+388	2022-11-11 16:02:08	cpb-aacip-507-1v5bc3tf81-transcript.ann	Cambodian Prime Minister Hun Sen	person	1	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+389	2022-11-11 16:02:27	cpb-aacip-507-1v5bc3tf81-transcript.ann	TERENCE SMITH	person	21	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+390	2022-11-11 16:03:01	cpb-aacip-507-1v5bc3tf81-transcript.ann	Cambodia, Report from a Stricken Land	publication_title	1		
+391	2022-11-11 16:03:17	cpb-aacip-507-1v5bc3tf81-transcript.ann	Henry	person	1	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+392	2022-11-11 16:03:20	cpb-aacip-507-1v5bc3tf81-transcript.ann	HENRY KAMM	person	20	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+393	2022-11-11 16:03:30	cpb-aacip-507-1v5bc3tf81-transcript.ann	Terry	person	2	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+394	2022-11-11 16:06:07	cpb-aacip-507-1v5bc3tf81-transcript.ann	Middle Eastern war	event	1	https://en.wikipedia.org/wiki/List_of_modern_conflicts_in_the_Middle_East	https://www.wikidata.org/wiki/Q4116408
+395	2022-11-11 16:06:18	cpb-aacip-507-1v5bc3tf81-transcript.ann	Indochina	location	1	https://en.wikipedia.org/wiki/Mainland_Southeast_Asia	https://www.wikidata.org/wiki/Q43467
+396	2022-11-11 16:06:31	cpb-aacip-507-1v5bc3tf81-transcript.ann	Phnom-Penh	location	1	https://en.wikipedia.org/wiki/Phnom_Penh	https://www.wikidata.org/wiki/Q1850
+397	2022-11-11 16:06:45	cpb-aacip-507-1v5bc3tf81-transcript.ann	Hun Sen	person	5	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+398	2022-11-11 16:07:02	cpb-aacip-507-1v5bc3tf81-transcript.ann	King Sihanouk	person	2	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+399	2022-11-11 16:07:27	cpb-aacip-507-1v5bc3tf81-transcript.ann	Vietnamese invasion	event	1	https://en.wikipedia.org/wiki/Cambodian%E2%80%93Vietnamese_War	https://www.wikidata.org/wiki/Q635533
+400	2022-11-11 16:07:41	cpb-aacip-507-1v5bc3tf81-transcript.ann	United Nations	organization	6	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+401	2022-11-11 16:07:44	cpb-aacip-507-1v5bc3tf81-transcript.ann	UN	organization	5	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+402	2022-11-11 16:07:53	cpb-aacip-507-1v5bc3tf81-transcript.ann	Sihanouk	person	2	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+403	2022-11-11 16:08:16	cpb-aacip-507-1v5bc3tf81-transcript.ann	Prince Ranariddh	person	2	https://en.wikipedia.org/wiki/Norodom_Ranariddh	https://www.wikidata.org/wiki/Q381817
+404	2022-11-11 16:08:22	cpb-aacip-507-1v5bc3tf81-transcript.ann	Ranariddh	person	1	https://en.wikipedia.org/wiki/Norodom_Ranariddh	https://www.wikidata.org/wiki/Q381817
+405	2022-11-11 16:08:29	cpb-aacip-507-1v5bc3tf81-transcript.ann	Prince Sihanouk	person	1	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+406	2022-11-11 16:09:16	cpb-aacip-507-1v5bc3tf81-transcript.ann	Paris agreement	publication_title	1	https://en.wikipedia.org/wiki/Paris_Agreement	https://www.wikidata.org/wiki/Q21707860
+407	2022-11-11 16:09:18	cpb-aacip-507-1v5bc3tf81-transcript.ann	RECAP	program_title	1		
+408	2022-11-11 16:09:31	cpb-aacip-507-1v5bc3tf81-transcript.ann	2002 Winter Olympics	organization	1	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+409	2022-11-11 16:17:19	cpb-aacip-507-1v5bc3tf81-transcript.ann	President Clinton's impeachment	event	1	https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton	https://www.wikidata.org/wiki/Q4200400
