@@ -1,212 +1,546 @@
-index	timestamp	GUID	entity	type	instances	wiki_url	QID
-410	2022-11-11 16:17:34	cpb-aacip-507-4746q1t25k-transcript.ann	GWEN IFILL	person	28	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
-411	2022-11-11 16:17:39	cpb-aacip-507-4746q1t25k-transcript.ann	Gwen Ifill	person	2	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
-412	2022-11-11 16:17:46	cpb-aacip-507-4746q1t25k-transcript.ann	Jim Lehrer	person	1	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
-413	2022-11-11 16:18:00	cpb-aacip-507-4746q1t25k-transcript.ann	NewsHour	program_title	2	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
-414	2022-11-11 16:18:16	cpb-aacip-507-4746q1t25k-transcript.ann	Ray Suarez	person	3	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
-415	2022-11-11 16:18:35	cpb-aacip-507-4746q1t25k-transcript.ann	Bush cabinet	organization	2	https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush	https://www.wikidata.org/wiki/Q1719914
-416	2022-11-11 16:18:46	cpb-aacip-507-4746q1t25k-transcript.ann	Elizabeth Farnsworth	person	2	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
-417	2022-11-11 16:19:00	cpb-aacip-507-4746q1t25k-transcript.ann	Israel	location	11	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
-418	2022-11-11 16:19:05	cpb-aacip-507-4746q1t25k-transcript.ann	NEWS SUMMARY	program_title	1		
-419	2022-11-11 16:22:11	cpb-aacip-507-4746q1t25k-transcript.ann	Bush cabinet	organization	2	https://en.wikipedia.org/wiki/Presidency_of_George_W._Bush	https://www.wikidata.org/wiki/Q1719918
-420	2022-11-11 16:22:28	cpb-aacip-507-4746q1t25k-transcript.ann	President-elect Bush	person	10	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
-421	2022-11-11 16:22:46	cpb-aacip-507-4746q1t25k-transcript.ann	Commerce Secretary Norman Mineta	person	1	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
-422	2022-11-11 16:22:58	cpb-aacip-507-4746q1t25k-transcript.ann	Transportation Department	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_Transportation	https://www.wikidata.org/wiki/Q852211
-423	2022-11-11 16:23:01	cpb-aacip-507-4746q1t25k-transcript.ann	Reagan administration	organization	2	https://en.wikipedia.org/wiki/Presidency_of_Ronald_Reagan	https://www.wikidata.org/wiki/Q2824573
-424	2022-11-11 16:24:59	cpb-aacip-507-4746q1t25k-transcript.ann	Linda Chavez	person	3	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
-425	2022-11-11 16:25:02	cpb-aacip-507-4746q1t25k-transcript.ann	Michigan	location	2	https://en.wikipedia.org/wiki/Michigan	https://www.wikidata.org/wiki/Q1166
-426	2022-11-11 16:25:16	cpb-aacip-507-4746q1t25k-transcript.ann	Senator Spencer Abraham	person	2	https://en.wikipedia.org/wiki/Spencer_Abraham	https://www.wikidata.org/wiki/Q1285613
-427	2022-11-11 16:25:29	cpb-aacip-507-4746q1t25k-transcript.ann	PRESIDENT-ELECT GEORGE W. BUSH	person	4	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
-428	2022-11-11 16:25:33	cpb-aacip-507-4746q1t25k-transcript.ann	America	location	5	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
-429	2022-11-11 16:25:37	cpb-aacip-507-4746q1t25k-transcript.ann	News Summary	program_title	2		
-430	2022-11-11 16:25:58	cpb-aacip-507-4746q1t25k-transcript.ann	Arafat	person	2	https://en.wikipedia.org/wiki/Yasser_Arafat	https://www.wikidata.org/wiki/Q34211
-431	2022-11-11 16:26:17	cpb-aacip-507-4746q1t25k-transcript.ann	President Clinton	person	7	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
-432	2022-11-11 16:26:22	cpb-aacip-507-4746q1t25k-transcript.ann	White House	location	5	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
-433	2022-11-11 16:26:24	cpb-aacip-507-4746q1t25k-transcript.ann	U.S.	location	3	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
-434	2022-11-11 16:26:37	cpb-aacip-507-4746q1t25k-transcript.ann	Middle East	location	7	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
-435	2022-11-11 16:26:55	cpb-aacip-507-4746q1t25k-transcript.ann	East Jerusalem	location	1	https://en.wikipedia.org/wiki/East_Jerusalem	https://www.wikidata.org/wiki/Q212938
-436	2022-11-11 16:27:06	cpb-aacip-507-4746q1t25k-transcript.ann	Jake Siewert	person	1	https://en.wikipedia.org/wiki/Jake_Siewert	https://www.wikidata.org/wiki/Q6124991
-437	2022-11-11 16:27:08	cpb-aacip-507-4746q1t25k-transcript.ann	JAKE SIEWERT	person	1	https://en.wikipedia.org/wiki/Jake_Siewert	https://www.wikidata.org/wiki/Q6124991
-438	2022-11-11 16:27:19	cpb-aacip-507-4746q1t25k-transcript.ann	Jerusalem	location	1	https://en.wikipedia.org/wiki/Jerusalem	https://www.wikidata.org/wiki/Q1218
-439	2022-11-11 16:27:43	cpb-aacip-507-4746q1t25k-transcript.ann	Prime Minister Barak	person	1	https://en.wikipedia.org/wiki/Ehud_Barak	https://www.wikidata.org/wiki/Q125731
-440	2022-11-11 16:28:24	cpb-aacip-507-4746q1t25k-transcript.ann	Gaza	location	8	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
-441	2022-11-11 16:28:36	cpb-aacip-507-4746q1t25k-transcript.ann	Persian Gulf	location	1	https://en.wikipedia.org/wiki/Persian_Gulf	https://www.wikidata.org/wiki/Q34675
-442	2022-11-11 16:28:56	cpb-aacip-507-4746q1t25k-transcript.ann	"U.S.S. ""Cole"	location	1	https://en.wikipedia.org/wiki/USS_Cole_(DDG-67)	https://www.wikidata.org/wiki/Q848987
-443	2022-11-11 16:28:58	cpb-aacip-507-4746q1t25k-transcript.ann	Pentagon	organization	2	https://en.wikipedia.org/wiki/The_Pentagon	https://www.wikidata.org/wiki/Q11208
-444	2022-11-11 16:29:06	cpb-aacip-507-4746q1t25k-transcript.ann	Cole	location	1	https://en.wikipedia.org/wiki/USS_Cole_(DDG-67)	https://www.wikidata.org/wiki/Q848987
-445	2022-11-11 16:29:19	cpb-aacip-507-4746q1t25k-transcript.ann	Aden, Yemen	location	1	https://en.wikipedia.org/wiki/Aden	https://www.wikidata.org/wiki/Q131694
-446	2022-11-11 16:29:23	cpb-aacip-507-4746q1t25k-transcript.ann	Wall Street	organization	1	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
-447	2022-11-11 16:31:12	cpb-aacip-507-4746q1t25k-transcript.ann	Ashcroft	person	7	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
-448	2022-11-11 16:31:15	cpb-aacip-507-4746q1t25k-transcript.ann	FOCUS - NEW FACES	program_title	1		
-449	2022-11-11 16:31:25	cpb-aacip-507-4746q1t25k-transcript.ann	RAY SUAREZ	person	15	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
-450	2022-11-11 16:31:40	cpb-aacip-507-4746q1t25k-transcript.ann	Austin	location	1	https://en.wikipedia.org/wiki/Austin,_Texas	https://www.wikidata.org/wiki/Q16559
-451	2022-11-11 16:31:56	cpb-aacip-507-4746q1t25k-transcript.ann	Mr. Bush	person	2	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
-452	2022-11-11 16:32:49	cpb-aacip-507-4746q1t25k-transcript.ann	Energy Department	organization	2	https://en.wikipedia.org/wiki/United_States_Department_of_Energy	https://www.wikidata.org/wiki/Q217810
-453	2022-11-11 16:32:57	cpb-aacip-507-4746q1t25k-transcript.ann	Abraham	person	1	https://en.wikipedia.org/wiki/Spencer_Abraham	https://www.wikidata.org/wiki/Q1285613
-454	2022-11-11 16:33:12	cpb-aacip-507-4746q1t25k-transcript.ann	Bush administration	organization	1	https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush	https://www.wikidata.org/wiki/Q1719914
-455	2022-11-11 16:33:23	cpb-aacip-507-4746q1t25k-transcript.ann	Vice President Dan Quayle	person	1	https://en.wikipedia.org/wiki/Dan_Quayle	https://www.wikidata.org/wiki/Q49214
-456	2022-11-11 16:33:37	cpb-aacip-507-4746q1t25k-transcript.ann	Debbie Stabenow	person	1	https://en.wikipedia.org/wiki/Debbie_Stabenow	https://www.wikidata.org/wiki/Q241092
-457	2022-11-11 16:33:46	cpb-aacip-507-4746q1t25k-transcript.ann	SPENCER ABRAHAM	person	1	https://en.wikipedia.org/wiki/Spencer_Abraham	https://www.wikidata.org/wiki/Q1285613
-458	2022-11-11 16:34:02	cpb-aacip-507-4746q1t25k-transcript.ann	Chavez	person	2	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
-459	2022-11-11 16:34:12	cpb-aacip-507-4746q1t25k-transcript.ann	Center for Equal Opportunity	organization	1	https://en.wikipedia.org/wiki/Center_for_Equal_Opportunity	https://www.wikidata.org/wiki/Q5059622
-460	2022-11-11 16:34:28	cpb-aacip-507-4746q1t25k-transcript.ann	U.S. Commission on Civil Rights	organization	1	https://en.wikipedia.org/wiki/United_States_Commission_on_Civil_Rights	https://www.wikidata.org/wiki/Q7889639
-461	2022-11-11 16:34:32	cpb-aacip-507-4746q1t25k-transcript.ann	Senate	organization	9	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
-462	2022-11-11 16:34:45	cpb-aacip-507-4746q1t25k-transcript.ann	Maryland	location	1	https://en.wikipedia.org/wiki/Maryland	https://www.wikidata.org/wiki/Q1391
-463	2022-11-11 16:34:58	cpb-aacip-507-4746q1t25k-transcript.ann	Washington, DC	location	1	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
-464	2022-11-11 16:35:06	cpb-aacip-507-4746q1t25k-transcript.ann	LINDA CHAVEZ	person	1	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
-465	2022-11-11 16:35:22	cpb-aacip-507-4746q1t25k-transcript.ann	Department of Labor	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_Labor	https://www.wikidata.org/wiki/Q628807
-466	2022-11-11 16:35:32	cpb-aacip-507-4746q1t25k-transcript.ann	Norman Mineta	person	1	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
-467	2022-11-11 16:35:36	cpb-aacip-507-4746q1t25k-transcript.ann	Mineta	person	4	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
-468	2022-11-11 16:35:49	cpb-aacip-507-4746q1t25k-transcript.ann	Lockheed Martin	organization	1	https://en.wikipedia.org/wiki/Lockheed_Martin	https://www.wikidata.org/wiki/Q7240
-469	2022-11-11 16:35:52	cpb-aacip-507-4746q1t25k-transcript.ann	California	location	1	https://en.wikipedia.org/wiki/California	https://www.wikidata.org/wiki/Q99
-470	2022-11-11 16:36:03	cpb-aacip-507-4746q1t25k-transcript.ann	San Jose	location	1	https://en.wikipedia.org/wiki/San_Jose,_California	https://www.wikidata.org/wiki/Q16553
-471	2022-11-11 16:36:23	cpb-aacip-507-4746q1t25k-transcript.ann	Aviation Subcommittee	organization	1	https://en.wikipedia.org/wiki/United_States_House_Transportation_Subcommittee_on_Aviation	https://www.wikidata.org/wiki/Q7890079
-472	2022-11-11 16:37:10	cpb-aacip-507-4746q1t25k-transcript.ann	House Committee on Public Works and Transportation	organization	1	https://en.wikipedia.org/wiki/United_States_House_Committee_on_Transportation_and_Infrastructure	https://www.wikidata.org/wiki/Q7889985
-473	2022-11-11 16:37:23	cpb-aacip-507-4746q1t25k-transcript.ann	NORMAN MINETA	person	1	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
-474	2022-11-11 16:37:41	cpb-aacip-507-4746q1t25k-transcript.ann	President Clinton's cabinet	organization	1	https://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton	https://www.wikidata.org/wiki/Q2824550
-475	2022-11-11 16:37:52	cpb-aacip-507-4746q1t25k-transcript.ann	OPEC	organization	3	https://en.wikipedia.org/wiki/OPEC	https://www.wikidata.org/wiki/Q7795
-476	2022-11-11 16:37:55	cpb-aacip-507-4746q1t25k-transcript.ann	United States	location	5	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
-477	2022-11-11 16:38:06	cpb-aacip-507-4746q1t25k-transcript.ann	Mr. Mineta	person	1	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
-478	2022-11-11 16:38:09	cpb-aacip-507-4746q1t25k-transcript.ann	Congress	organization	5	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
-479	2022-11-11 16:38:15	cpb-aacip-507-4746q1t25k-transcript.ann	Norm	person	1	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
-480	2022-11-11 16:38:49	cpb-aacip-507-4746q1t25k-transcript.ann	Capitol Hill	organization	1	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
-481	2022-11-11 16:39:02	cpb-aacip-507-4746q1t25k-transcript.ann	Don Nickles	person	1	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
-482	2022-11-11 16:39:11	cpb-aacip-507-4746q1t25k-transcript.ann	Oklahoma	location	1	https://en.wikipedia.org/wiki/Oklahoma	https://www.wikidata.org/wiki/Q1649
-483	2022-11-11 16:39:22	cpb-aacip-507-4746q1t25k-transcript.ann	Harry Reid	person	1	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
-484	2022-11-11 16:39:30	cpb-aacip-507-4746q1t25k-transcript.ann	Nevada	location	1	https://en.wikipedia.org/wiki/Nevada	https://www.wikidata.org/wiki/Q1227
-485	2022-11-11 16:39:35	cpb-aacip-507-4746q1t25k-transcript.ann	Senator Nickles	person	5	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
-486	2022-11-11 16:39:38	cpb-aacip-507-4746q1t25k-transcript.ann	SEN. DON NICKLES	person	6	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
-487	2022-11-11 16:40:08	cpb-aacip-507-4746q1t25k-transcript.ann	Senator Nickles	person	5	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
-488	2022-11-11 16:41:12	cpb-aacip-507-4746q1t25k-transcript.ann	SEN. DON NICKLES	person	6		
-489	2022-11-11 16:41:16	cpb-aacip-507-4746q1t25k-transcript.ann	SEN. DON NICKLES	person	6	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
-490	2022-11-11 16:41:44	cpb-aacip-507-4746q1t25k-transcript.ann	Norm Mineta	person	5	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
-491	2022-11-11 16:41:48	cpb-aacip-507-4746q1t25k-transcript.ann	House	organization	2	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
-492	2022-11-11 16:41:58	cpb-aacip-507-4746q1t25k-transcript.ann	President Bush	person	1	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
-493	2022-11-11 16:42:11	cpb-aacip-507-4746q1t25k-transcript.ann	Senator Reid	person	6	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
-494	2022-11-11 16:42:13	cpb-aacip-507-4746q1t25k-transcript.ann	SEN. HARRY REID	person	4	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
-495	2022-11-11 16:42:48	cpb-aacip-507-4746q1t25k-transcript.ann	Secretary Cohen	person	1	https://en.wikipedia.org/wiki/William_Cohen	https://www.wikidata.org/wiki/Q710721
-496	2022-11-11 16:42:52	cpb-aacip-507-4746q1t25k-transcript.ann	Bill Cohen	person	1	https://en.wikipedia.org/wiki/William_Cohen	https://www.wikidata.org/wiki/Q710721
-497	2022-11-11 16:43:05	cpb-aacip-507-4746q1t25k-transcript.ann	Colin Powell	person	1	https://en.wikipedia.org/wiki/Colin_Powell	https://www.wikidata.org/wiki/Q150851
-498	2022-11-11 16:43:16	cpb-aacip-507-4746q1t25k-transcript.ann	Don Rumsfeld	person	2	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
-499	2022-11-11 16:43:29	cpb-aacip-507-4746q1t25k-transcript.ann	Dow Jones Industrial Average	organization	1	https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average	https://www.wikidata.org/wiki/Q180816
-500	2022-11-11 16:44:09	cpb-aacip-507-4746q1t25k-transcript.ann	NASDAQ Index	organization	1	https://en.wikipedia.org/wiki/Nasdaq_Composite	https://www.wikidata.org/wiki/Q575782
-501	2022-11-11 16:44:35	cpb-aacip-507-4746q1t25k-transcript.ann	Paul O'Neill	person	2	https://en.wikipedia.org/wiki/Paul_H._O%27Neill	https://www.wikidata.org/wiki/Q456921
-502	2022-11-11 16:44:44	cpb-aacip-507-4746q1t25k-transcript.ann	Bush	person	2	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
-503	2022-11-11 16:44:58	cpb-aacip-507-4746q1t25k-transcript.ann	Democrats	organization	2	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
-504	2022-11-11 16:45:09	cpb-aacip-507-4746q1t25k-transcript.ann	Republicans	organization	2	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
-505	2022-11-11 16:45:21	cpb-aacip-507-4746q1t25k-transcript.ann	John Ashcroft	person	23	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
-506	2022-11-11 16:45:47	cpb-aacip-507-4746q1t25k-transcript.ann	Ray	person	2	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
-507	2022-11-11 16:46:07	cpb-aacip-507-4746q1t25k-transcript.ann	Bork	person	4	https://en.wikipedia.org/wiki/Robert_Bork	https://www.wikidata.org/wiki/Q1365780
-508	2022-11-11 16:46:10	cpb-aacip-507-4746q1t25k-transcript.ann	Supreme Court	organization	2	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
-509	2022-11-11 16:46:23	cpb-aacip-507-4746q1t25k-transcript.ann	Gale Norton	person	2	https://en.wikipedia.org/wiki/Gale_Norton	https://www.wikidata.org/wiki/Q271717
-510	2022-11-11 16:47:11	cpb-aacip-507-4746q1t25k-transcript.ann	Secretary Watt	person	1	https://en.wikipedia.org/wiki/James_G._Watt	https://www.wikidata.org/wiki/Q710501
-511	2022-11-11 16:47:34	cpb-aacip-507-4746q1t25k-transcript.ann	Ronnie White	person	8	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
-512	2022-11-11 16:48:00	cpb-aacip-507-4746q1t25k-transcript.ann	Democratic Party	organization	2	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
-513	2022-11-11 16:48:13	cpb-aacip-507-4746q1t25k-transcript.ann	Missouri	location	10	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
-514	2022-11-11 16:48:27	cpb-aacip-507-4746q1t25k-transcript.ann	Judiciary Committee	location	1	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Judiciary	https://www.wikidata.org/wiki/Q452532
-515	2022-11-11 16:48:47	cpb-aacip-507-4746q1t25k-transcript.ann	Don	person	1	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
-516	2022-11-11 16:48:54	cpb-aacip-507-4746q1t25k-transcript.ann	Washington	organization	3	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
-517	2022-11-11 16:48:58	cpb-aacip-507-4746q1t25k-transcript.ann	FOCUS - CONFIRMATION CONFLICT	program_title	1		
-518	2022-11-11 16:49:09	cpb-aacip-507-4746q1t25k-transcript.ann	SEN. JOHN ASHCROFT	person	2	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
-519	2022-11-11 16:49:20	cpb-aacip-507-4746q1t25k-transcript.ann	Governor Mel Carnahan	person	1	https://en.wikipedia.org/wiki/Mel_Carnahan	https://www.wikidata.org/wiki/Q538609
-520	2022-11-11 16:49:25	cpb-aacip-507-4746q1t25k-transcript.ann	Carnahan	person	1	https://en.wikipedia.org/wiki/Mel_Carnahan	https://www.wikidata.org/wiki/Q538609
-521	2022-11-11 16:49:36	cpb-aacip-507-4746q1t25k-transcript.ann	Jean	person	1	https://en.wikipedia.org/wiki/Jean_Carnahan	https://www.wikidata.org/wiki/Q448619
-522	2022-11-11 16:49:40	cpb-aacip-507-4746q1t25k-transcript.ann	Mrs. Carnahan	person	1	https://en.wikipedia.org/wiki/Jean_Carnahan	https://www.wikidata.org/wiki/Q448619
-523	2022-11-11 16:49:51	cpb-aacip-507-4746q1t25k-transcript.ann	Missouri Supreme Court	organization	1	https://en.wikipedia.org/wiki/Supreme_Court_of_Missouri	https://www.wikidata.org/wiki/Q2493768
-524	2022-11-11 16:50:00	cpb-aacip-507-4746q1t25k-transcript.ann	Senator Ashcroft	person	10	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
-525	2022-11-11 16:50:25	cpb-aacip-507-4746q1t25k-transcript.ann	David	person	1		
-526	2022-11-11 16:50:52	cpb-aacip-507-4746q1t25k-transcript.ann	Kate Michelman	person	3	https://en.wikipedia.org/wiki/Kate_Michelman	https://www.wikidata.org/wiki/Q785671
-527	2022-11-11 16:51:01	cpb-aacip-507-4746q1t25k-transcript.ann	NARAL	organization	1	https://en.wikipedia.org/wiki/NARAL_Pro-Choice_America	https://www.wikidata.org/wiki/Q1160931
-528	2022-11-11 16:51:28	cpb-aacip-507-4746q1t25k-transcript.ann	National Abortion and Reproductive Rights Action League	organization	1	https://en.wikipedia.org/wiki/NARAL_Pro-Choice_America	https://www.wikidata.org/wiki/Q1160931
-529	2022-11-11 16:51:41	cpb-aacip-507-4746q1t25k-transcript.ann	Elaine Jones	person	5	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
-530	2022-11-11 16:51:48	cpb-aacip-507-4746q1t25k-transcript.ann	NAACP Legal Defense Fund	organization	2	https://en.wikipedia.org/wiki/NAACP_Legal_Defense_and_Educational_Fund	https://www.wikidata.org/wiki/Q17008021
-531	2022-11-11 16:52:00	cpb-aacip-507-4746q1t25k-transcript.ann	Clint Bolick	person	6	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
-532	2022-11-11 16:52:12	cpb-aacip-507-4746q1t25k-transcript.ann	Institute for Justice	organization	2	https://en.wikipedia.org/wiki/Institute_for_Justice	https://www.wikidata.org/wiki/Q6039446
-533	2022-11-11 16:52:47	cpb-aacip-507-4746q1t25k-transcript.ann	Ken Conner	person	3		
-534	2022-11-11 16:53:05	cpb-aacip-507-4746q1t25k-transcript.ann	Family Research Council	organization	2	https://en.wikipedia.org/wiki/Family_Research_Council	https://www.wikidata.org/wiki/Q841737
-535	2022-11-11 16:53:18	cpb-aacip-507-4746q1t25k-transcript.ann	ELAINE JONES	person	7	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
-536	2022-11-11 16:53:31	cpb-aacip-507-4746q1t25k-transcript.ann	Gwen	person	1	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
-537	2022-11-11 16:53:41	cpb-aacip-507-4746q1t25k-transcript.ann	CLINT BOLICK	person	4	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
-538	2022-11-11 16:53:54	cpb-aacip-507-4746q1t25k-transcript.ann	United States Senate	organization	1	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
-539	2022-11-11 16:54:11	cpb-aacip-507-4746q1t25k-transcript.ann	Jim Jeffords	person	1	https://en.wikipedia.org/wiki/Jim_Jeffords	https://www.wikidata.org/wiki/Q1386836
-540	2022-11-11 16:54:22	cpb-aacip-507-4746q1t25k-transcript.ann	Arlen Specter	person	1	https://en.wikipedia.org/wiki/Arlen_Specter	https://www.wikidata.org/wiki/Q363055
-541	2022-11-11 16:54:36	cpb-aacip-507-4746q1t25k-transcript.ann	Martin Luther King	person	1	https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.	https://www.wikidata.org/wiki/Q8027
-542	2022-11-11 16:54:40	cpb-aacip-507-4746q1t25k-transcript.ann	Justice Department	organization	4	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
-543	2022-11-11 16:54:43	cpb-aacip-507-4746q1t25k-transcript.ann	KEN CONNER	person	5		
-544	2022-11-11 16:54:55	cpb-aacip-507-4746q1t25k-transcript.ann	Clinton administration	organization	1	https://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton	https://www.wikidata.org/wiki/Q2824550
-545	2022-11-11 16:55:06	cpb-aacip-507-4746q1t25k-transcript.ann	Constitution	publication_title	3	https://en.wikipedia.org/wiki/Constitution_of_the_United_States	https://www.wikidata.org/wiki/Q11698
-546	2022-11-11 16:55:20	cpb-aacip-507-4746q1t25k-transcript.ann	Supreme Court of the United States	organization	2	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
-547	2022-11-11 16:55:29	cpb-aacip-507-4746q1t25k-transcript.ann	KATE MICHELMAN	person	2	https://en.wikipedia.org/wiki/Kate_Michelman	https://www.wikidata.org/wiki/Q785671
-548	2022-11-11 16:55:39	cpb-aacip-507-4746q1t25k-transcript.ann	National Abortion Rights Action League	organization	1	https://en.wikipedia.org/wiki/NARAL_Pro-Choice_America	https://www.wikidata.org/wiki/Q1160931
-549	2022-11-11 16:55:52	cpb-aacip-507-4746q1t25k-transcript.ann	Roe versus Wade	publication_title	7	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
-550	2022-11-11 16:56:14	cpb-aacip-507-4746q1t25k-transcript.ann	Justice Blackman	person	1	https://en.wikipedia.org/wiki/Harry_Blackmun	https://www.wikidata.org/wiki/Q1323255
-551	2022-11-11 16:56:25	cpb-aacip-507-4746q1t25k-transcript.ann	Roe	publication_title	2	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
-552	2022-11-11 16:56:39	cpb-aacip-507-4746q1t25k-transcript.ann	Dred Scott decision	publication_title	1	https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford	https://www.wikidata.org/wiki/Q690462
-553	2022-11-11 16:56:51	cpb-aacip-507-4746q1t25k-transcript.ann	Plessy versus Ferguson	publication_title	1	https://en.wikipedia.org/wiki/Plessy_v._Ferguson	https://www.wikidata.org/wiki/Q656660
-554	2022-11-11 16:57:02	cpb-aacip-507-4746q1t25k-transcript.ann	Attorney General-elect Ashcroft	person	1	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
-555	2022-11-11 16:57:31	cpb-aacip-507-4746q1t25k-transcript.ann	Department of Justice	organization	1	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
-556	2022-11-11 16:57:45	cpb-aacip-507-4746q1t25k-transcript.ann	Supreme Court of Missouri	organization	1	https://en.wikipedia.org/wiki/Supreme_Court_of_Missouri	https://www.wikidata.org/wiki/Q2493768
-557	2022-11-11 16:57:57	cpb-aacip-507-4746q1t25k-transcript.ann	Senate Judiciary Committee	organization	1	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Judiciary	https://www.wikidata.org/wiki/Q452532
-558	2022-11-11 16:58:32	cpb-aacip-507-4746q1t25k-transcript.ann	Judge Ronnie white	person	1	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
-559	2022-11-11 16:58:53	cpb-aacip-507-4746q1t25k-transcript.ann	Clint	person	2	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
-560	2022-11-14 20:01:50	cpb-aacip-507-4746q1t25k-transcript.ann	Western District Court of Appeals	organization	1		
-561	2022-11-14 20:02:10	cpb-aacip-507-4746q1t25k-transcript.ann	john Ashcroft	person	2	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
-562	2022-11-14 20:02:25	cpb-aacip-507-4746q1t25k-transcript.ann	First Amendment	publication_title	1	https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution	https://www.wikidata.org/wiki/Q12616
-563	2022-11-14 20:02:43	cpb-aacip-507-4746q1t25k-transcript.ann	Founders	organization	1	https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States	https://www.wikidata.org/wiki/Q186539
-564	2022-11-14 20:03:10	cpb-aacip-507-4746q1t25k-transcript.ann	Elaine	person	1	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
-565	2022-11-14 20:03:39	cpb-aacip-507-4746q1t25k-transcript.ann	George Bush	person	1	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
-566	2022-11-14 20:03:47	cpb-aacip-507-4746q1t25k-transcript.ann	Governor Bush	person	2	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
-567	2022-11-14 20:03:52	cpb-aacip-507-4746q1t25k-transcript.ann	Texas	location	1	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
-568	2022-11-14 20:04:07	cpb-aacip-507-4746q1t25k-transcript.ann	U.S. Senate	organization	1	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
-569	2022-11-14 20:04:32	cpb-aacip-507-4746q1t25k-transcript.ann	SECOND LOOK - UNSETTLED LIVES	program_title	1		
-570	2022-11-14 20:05:16	cpb-aacip-507-4746q1t25k-transcript.ann	Camp David	location	2	https://en.wikipedia.org/wiki/Camp_David	https://www.wikidata.org/wiki/Q309202
-571	2022-11-14 20:05:29	cpb-aacip-507-4746q1t25k-transcript.ann	West Bank	location	2	https://en.wikipedia.org/wiki/West_Bank	https://www.wikidata.org/wiki/Q36678
-572	2022-11-14 20:05:45	cpb-aacip-507-4746q1t25k-transcript.ann	ELIZABETH FARNSWORTH	person	14	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
-573	2022-11-14 20:06:08	cpb-aacip-507-4746q1t25k-transcript.ann	Rasslan Sukkar	person	2		
-574	2022-11-14 20:06:23	cpb-aacip-507-4746q1t25k-transcript.ann	Jaffa	location	12	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
-575	2022-11-14 20:06:38	cpb-aacip-507-4746q1t25k-transcript.ann	Beach Camp	location	1	https://en.wikipedia.org/wiki/Al-Shati_Camp	https://www.wikidata.org/wiki/Q2829277
-576	2022-11-14 20:06:51	cpb-aacip-507-4746q1t25k-transcript.ann	United Nations	organization	1	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
-577	2022-11-14 20:07:08	cpb-aacip-507-4746q1t25k-transcript.ann	Sukkars	person	7		
-578	2022-11-14 20:07:11	cpb-aacip-507-4746q1t25k-transcript.ann	Europe	location	4	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
-579	2022-11-14 20:07:27	cpb-aacip-507-4746q1t25k-transcript.ann	Yuli Tamir	person	1	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
-580	2022-11-14 20:07:40	cpb-aacip-507-4746q1t25k-transcript.ann	Prime Minister Ehud Barak	person	1	https://en.wikipedia.org/wiki/Ehud_Barak	https://www.wikidata.org/wiki/Q125731
-581	2022-11-14 20:07:47	cpb-aacip-507-4746q1t25k-transcript.ann	YULI TAMIR	person	4	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
-582	2022-11-14 20:07:59	cpb-aacip-507-4746q1t25k-transcript.ann	Poland	location	1	https://en.wikipedia.org/wiki/Poland	https://www.wikidata.org/wiki/Q36
-583	2022-11-14 20:08:12	cpb-aacip-507-4746q1t25k-transcript.ann	Germany	location	1	https://en.wikipedia.org/wiki/Germany	https://www.wikidata.org/wiki/Q183
-584	2022-11-14 20:08:23	cpb-aacip-507-4746q1t25k-transcript.ann	Czechoslovakia	location	1	https://en.wikipedia.org/wiki/Czechoslovakia	https://www.wikidata.org/wiki/Q33946
-585	2022-11-14 20:08:26	cpb-aacip-507-4746q1t25k-transcript.ann	Sukkar family	person	2		
-586	2022-11-14 20:08:28	cpb-aacip-507-4746q1t25k-transcript.ann	RASSLAN SUKKAR	person	2		
-587	2022-11-14 20:08:48	cpb-aacip-507-4746q1t25k-transcript.ann	Jaffa Harbor	location	1	https://en.wikipedia.org/wiki/Jaffa_Port	https://www.wikidata.org/wiki/Q2911475
-588	2022-11-14 20:10:12	cpb-aacip-507-4746q1t25k-transcript.ann	Jewish State in Palestine	location	1	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
-589	2022-11-14 20:10:15	cpb-aacip-507-4746q1t25k-transcript.ann	Egypt	location	2	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
-590	2022-11-14 20:10:17	cpb-aacip-507-4746q1t25k-transcript.ann	UN	organization	1	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
-591	2022-11-14 20:10:32	cpb-aacip-507-4746q1t25k-transcript.ann	AMERA AHMED SUKKAR	person	2		
-592	2022-11-14 20:10:34	cpb-aacip-507-4746q1t25k-transcript.ann	DEEB SUKKAR	person	2		
-593	2022-11-14 20:10:52	cpb-aacip-507-4746q1t25k-transcript.ann	Tel Aviv	location	2	https://en.wikipedia.org/wiki/Tel_Aviv	https://www.wikidata.org/wiki/Q33935
-594	2022-11-14 20:11:53	cpb-aacip-507-4746q1t25k-transcript.ann	Mediterranean coast	location	1	https://en.wikipedia.org/wiki/Israeli_coastal_plain	https://www.wikidata.org/wiki/Q2915532
-595	2022-11-14 20:12:08	cpb-aacip-507-4746q1t25k-transcript.ann	port of Jaffa	location	1	https://en.wikipedia.org/wiki/Jaffa_Port	https://www.wikidata.org/wiki/Q2911475
-596	2022-11-14 20:12:23	cpb-aacip-507-4746q1t25k-transcript.ann	Fakhri Geday	person	1		
-597	2022-11-14 20:12:51	cpb-aacip-507-4746q1t25k-transcript.ann	Geday	person	2		
-598	2022-11-14 20:12:53	cpb-aacip-507-4746q1t25k-transcript.ann	FAKHRI GEDAY	person	1		
-599	2022-11-14 20:13:28	cpb-aacip-507-4746q1t25k-transcript.ann	Sewkawalski	person	1		
-600	2022-11-14 20:13:54	cpb-aacip-507-4746q1t25k-transcript.ann	Etti Barchil	person	1		
-601	2022-11-14 20:14:06	cpb-aacip-507-4746q1t25k-transcript.ann	Iran	location	1	https://en.wikipedia.org/wiki/Iran	https://www.wikidata.org/wiki/Q794
-602	2022-11-14 20:14:12	cpb-aacip-507-4746q1t25k-transcript.ann	ETTI BARCHIL	person	1		
-603	2022-11-14 20:14:46	cpb-aacip-507-4746q1t25k-transcript.ann	Gaby Aldor	person	2		
-604	2022-11-14 20:15:07	cpb-aacip-507-4746q1t25k-transcript.ann	Israeli Housing Authority	organization	1	https://en.wikipedia.org/wiki/Ministry_of_Construction_(Israel)	https://www.wikidata.org/wiki/Q2080931
-605	2022-11-14 20:15:11	cpb-aacip-507-4746q1t25k-transcript.ann	Aldor	person	2		
-606	2022-11-14 20:15:22	cpb-aacip-507-4746q1t25k-transcript.ann	Holocaust	event	1	https://en.wikipedia.org/wiki/The_Holocaust	https://www.wikidata.org/wiki/Q2763
-607	2022-11-14 20:15:25	cpb-aacip-507-4746q1t25k-transcript.ann	GABY ALDOR	person	2		
-608	2022-11-14 20:15:36	cpb-aacip-507-4746q1t25k-transcript.ann	Vienna	location	3	https://en.wikipedia.org/wiki/Vienna	https://www.wikidata.org/wiki/Q1741
-609	2022-11-14 20:15:55	cpb-aacip-507-4746q1t25k-transcript.ann	Cabinet Minister Tamir	person	1	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
-610	2022-11-14 20:16:08	cpb-aacip-507-4746q1t25k-transcript.ann	SALIM TAMARI	person	3	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
-611	2022-11-14 20:16:11	cpb-aacip-507-4746q1t25k-transcript.ann	Salim Tamari	person	1	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
-612	2022-11-14 20:16:24	cpb-aacip-507-4746q1t25k-transcript.ann	Morocco	location	1	https://en.wikipedia.org/wiki/Morocco	https://www.wikidata.org/wiki/Q1028
-613	2022-11-14 20:16:34	cpb-aacip-507-4746q1t25k-transcript.ann	Tunisia	location	1	https://en.wikipedia.org/wiki/Tunisia	https://www.wikidata.org/wiki/Q948
-614	2022-11-14 20:16:46	cpb-aacip-507-4746q1t25k-transcript.ann	Algeria	location	1	https://en.wikipedia.org/wiki/Algeria	https://www.wikidata.org/wiki/Q262
-615	2022-11-14 20:17:00	cpb-aacip-507-4746q1t25k-transcript.ann	Syria	location	1	https://en.wikipedia.org/wiki/Syria	https://www.wikidata.org/wiki/Q858
-616	2022-11-14 20:17:11	cpb-aacip-507-4746q1t25k-transcript.ann	Orient House	location	1	https://en.wikipedia.org/wiki/Orient_House	https://www.wikidata.org/wiki/Q1433121
-617	2022-11-14 20:17:18	cpb-aacip-507-4746q1t25k-transcript.ann	E. Jerusalem	location	1	https://en.wikipedia.org/wiki/East_Jerusalem	https://www.wikidata.org/wiki/Q212938
-618	2022-11-14 20:17:30	cpb-aacip-507-4746q1t25k-transcript.ann	Ottoman Empire	organization	1	https://en.wikipedia.org/wiki/Ottoman_Empire	https://www.wikidata.org/wiki/Q12560
-619	2022-11-14 20:17:42	cpb-aacip-507-4746q1t25k-transcript.ann	Tamari	person	1	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
-620	2022-11-14 20:17:47	cpb-aacip-507-4746q1t25k-transcript.ann	RECAP	program_title	1		
+guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+cpb-aacip-507-4746q1t25k-transcript.ann	T1	person	2	12	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T2	person	32	42	Gwen Ifill	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T3	person	44	54	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-4746q1t25k-transcript.ann	T4	title	76	84	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-4746q1t25k-transcript.ann	T5	person	94	104	Ray Suarez	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T6	organization	155	167	Bush cabinet	https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush	https://www.wikidata.org/wiki/Q1719914
+cpb-aacip-507-4746q1t25k-transcript.ann	T6	organization	155	167	Bush cabinet	https://en.wikipedia.org/wiki/Presidency_of_George_W._Bush	https://www.wikidata.org/wiki/Q1719918
+cpb-aacip-507-4746q1t25k-transcript.ann	T7	person	253	273	Elizabeth Farnsworth	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T8	location	361	367	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T9	title	424	436	NEWS SUMMARY		
+cpb-aacip-507-4746q1t25k-transcript.ann	T10	person	438	448	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T11	person	450	470	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T12	person	524	556	Commerce Secretary Norman Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T13	organization	570	595	Transportation Department	https://en.wikipedia.org/wiki/United_States_Department_of_Transportation	https://www.wikidata.org/wiki/Q852211
+cpb-aacip-507-4746q1t25k-transcript.ann	T14	organization	620	641	Reagan administration	https://en.wikipedia.org/wiki/Presidency_of_Ronald_Reagan	https://www.wikidata.org/wiki/Q2824573
+cpb-aacip-507-4746q1t25k-transcript.ann	T15	person	652	664	Linda Chavez	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
+cpb-aacip-507-4746q1t25k-transcript.ann	T16	location	698	706	Michigan	https://en.wikipedia.org/wiki/Michigan	https://www.wikidata.org/wiki/Q1166
+cpb-aacip-507-4746q1t25k-transcript.ann	T17	person	707	730	Senator Spencer Abraham	https://en.wikipedia.org/wiki/Spencer_Abraham	https://www.wikidata.org/wiki/Q1285613
+cpb-aacip-507-4746q1t25k-transcript.ann	T18	person	811	841	PRESIDENT-ELECT GEORGE W. BUSH	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T19	location	1348	1355	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T20	person	1389	1399	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T21	title	1467	1479	News Summary		
+cpb-aacip-507-4746q1t25k-transcript.ann	T22	person	1500	1506	Arafat	https://en.wikipedia.org/wiki/Yasser_Arafat	https://www.wikidata.org/wiki/Q34211
+cpb-aacip-507-4746q1t25k-transcript.ann	T23	person	1516	1533	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-4746q1t25k-transcript.ann	T24	location	1541	1552	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-4746q1t25k-transcript.ann	T25	location	1587	1591	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T26	location	1608	1619	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-4746q1t25k-transcript.ann	T27	location	1694	1708	East Jerusalem	https://en.wikipedia.org/wiki/East_Jerusalem	https://www.wikidata.org/wiki/Q212938
+cpb-aacip-507-4746q1t25k-transcript.ann	T28	location	1774	1780	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T29	organization	1782	1793	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-4746q1t25k-transcript.ann	T30	person	1804	1816	Jake Siewert	https://en.wikipedia.org/wiki/Jake_Siewert	https://www.wikidata.org/wiki/Q6124991
+cpb-aacip-507-4746q1t25k-transcript.ann	T31	person	1897	1909	JAKE SIEWERT	https://en.wikipedia.org/wiki/Jake_Siewert	https://www.wikidata.org/wiki/Q6124991
+cpb-aacip-507-4746q1t25k-transcript.ann	T32	person	2255	2265	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T33	location	2270	2279	Jerusalem	https://en.wikipedia.org/wiki/Jerusalem	https://www.wikidata.org/wiki/Q1218
+cpb-aacip-507-4746q1t25k-transcript.ann	T34	person	2289	2309	Prime Minister Barak	https://en.wikipedia.org/wiki/Ehud_Barak	https://www.wikidata.org/wiki/Q125731
+cpb-aacip-507-4746q1t25k-transcript.ann	T35	location	2456	2460	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T36	location	2603	2607	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T37	location	2624	2636	Persian Gulf	https://en.wikipedia.org/wiki/Persian_Gulf	https://www.wikidata.org/wiki/Q34675
+cpb-aacip-507-4746q1t25k-transcript.ann	T38	location	2662	2674	"U.S.S. ""Cole"	https://en.wikipedia.org/wiki/USS_Cole_(DDG-67)	https://www.wikidata.org/wiki/Q848987
+cpb-aacip-507-4746q1t25k-transcript.ann	T39	organization	2691	2699	Pentagon	https://en.wikipedia.org/wiki/The_Pentagon	https://www.wikidata.org/wiki/Q11208
+cpb-aacip-507-4746q1t25k-transcript.ann	T40	location	2867	2871	Cole	https://en.wikipedia.org/wiki/USS_Cole_(DDG-67)	https://www.wikidata.org/wiki/Q848987
+cpb-aacip-507-4746q1t25k-transcript.ann	T41	location	2938	2949	Aden, Yemen	https://en.wikipedia.org/wiki/Aden	https://www.wikidata.org/wiki/Q131694
+cpb-aacip-507-4746q1t25k-transcript.ann	T42	organization	2954	2965	Wall Street	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+cpb-aacip-507-4746q1t25k-transcript.ann	T43	title	3197	3209	News Summary		
+cpb-aacip-507-4746q1t25k-transcript.ann	T44	organization	3238	3250	Bush cabinet	https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush	https://www.wikidata.org/wiki/Q1719914
+cpb-aacip-507-4746q1t25k-transcript.ann	T44	organization	3238	3250	Bush cabinet	https://en.wikipedia.org/wiki/Presidency_of_George_W._Bush	https://www.wikidata.org/wiki/Q1719918
+cpb-aacip-507-4746q1t25k-transcript.ann	T45	person	3268	3276	Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T46	location	3332	3338	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T47	title	3342	3359	FOCUS - NEW FACES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T48	person	3361	3371	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T49	person	3447	3457	Ray Suarez	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T50	person	3461	3471	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T51	location	3560	3566	Austin	https://en.wikipedia.org/wiki/Austin,_Texas	https://www.wikidata.org/wiki/Q16559
+cpb-aacip-507-4746q1t25k-transcript.ann	T52	person	3568	3576	Mr. Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T53	organization	3598	3615	Energy Department	https://en.wikipedia.org/wiki/United_States_Department_of_Energy	https://www.wikidata.org/wiki/Q217810
+cpb-aacip-507-4746q1t25k-transcript.ann	T54	location	3617	3625	Michigan	https://en.wikipedia.org/wiki/Michigan	https://www.wikidata.org/wiki/Q1166
+cpb-aacip-507-4746q1t25k-transcript.ann	T55	person	3626	3649	Senator Spencer Abraham	https://en.wikipedia.org/wiki/Spencer_Abraham	https://www.wikidata.org/wiki/Q1285613
+cpb-aacip-507-4746q1t25k-transcript.ann	T56	person	3808	3815	Abraham	https://en.wikipedia.org/wiki/Spencer_Abraham	https://www.wikidata.org/wiki/Q1285613
+cpb-aacip-507-4746q1t25k-transcript.ann	T57	organization	3839	3858	Bush administration	https://en.wikipedia.org/wiki/Presidency_of_George_H._W._Bush	https://www.wikidata.org/wiki/Q1719914
+cpb-aacip-507-4746q1t25k-transcript.ann	T58	person	3887	3912	Vice President Dan Quayle	https://en.wikipedia.org/wiki/Dan_Quayle	https://www.wikidata.org/wiki/Q49214
+cpb-aacip-507-4746q1t25k-transcript.ann	T59	person	3677	3692	Debbie Stabenow	https://en.wikipedia.org/wiki/Debbie_Stabenow	https://www.wikidata.org/wiki/Q241092
+cpb-aacip-507-4746q1t25k-transcript.ann	T60	person	3916	3931	SPENCER ABRAHAM	https://en.wikipedia.org/wiki/Spencer_Abraham	https://www.wikidata.org/wiki/Q1285613
+cpb-aacip-507-4746q1t25k-transcript.ann	T61	organization	3950	3967	Energy Department	https://en.wikipedia.org/wiki/United_States_Department_of_Energy	https://www.wikidata.org/wiki/Q217810
+cpb-aacip-507-4746q1t25k-transcript.ann	T62	person	4372	4382	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T63	person	4384	4396	Linda Chavez	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
+cpb-aacip-507-4746q1t25k-transcript.ann	T64	person	4498	4504	Chavez	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
+cpb-aacip-507-4746q1t25k-transcript.ann	T65	organization	4525	4553	Center for Equal Opportunity	https://en.wikipedia.org/wiki/Center_for_Equal_Opportunity	https://www.wikidata.org/wiki/Q5059622
+cpb-aacip-507-4746q1t25k-transcript.ann	T66	organization	4625	4636	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-4746q1t25k-transcript.ann	T67	organization	4684	4715	U.S. Commission on Civil Rights	https://en.wikipedia.org/wiki/United_States_Commission_on_Civil_Rights	https://www.wikidata.org/wiki/Q7889639
+cpb-aacip-507-4746q1t25k-transcript.ann	T68	organization	4723	4744	Reagan administration	https://en.wikipedia.org/wiki/Presidency_of_Ronald_Reagan	https://www.wikidata.org/wiki/Q2824573
+cpb-aacip-507-4746q1t25k-transcript.ann	T69	organization	4758	4764	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T70	location	4770	4778	Maryland	https://en.wikipedia.org/wiki/Maryland	https://www.wikidata.org/wiki/Q1391
+cpb-aacip-507-4746q1t25k-transcript.ann	T71	person	4805	4811	Chavez	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
+cpb-aacip-507-4746q1t25k-transcript.ann	T72	location	4595	4609	Washington, DC	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-4746q1t25k-transcript.ann	T73	person	4924	4936	LINDA CHAVEZ	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
+cpb-aacip-507-4746q1t25k-transcript.ann	T74	organization	5431	5450	Department of Labor	https://en.wikipedia.org/wiki/United_States_Department_of_Labor	https://www.wikidata.org/wiki/Q628807
+cpb-aacip-507-4746q1t25k-transcript.ann	T75	person	5530	5540	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T76	person	5579	5592	Norman Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T77	person	5625	5645	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T78	person	5701	5718	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-4746q1t25k-transcript.ann	T79	person	5743	5749	Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T80	person	5791	5797	Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T81	organization	5868	5883	Lockheed Martin	https://en.wikipedia.org/wiki/Lockheed_Martin	https://www.wikidata.org/wiki/Q7240
+cpb-aacip-507-4746q1t25k-transcript.ann	T82	location	5928	5938	California	https://en.wikipedia.org/wiki/California	https://www.wikidata.org/wiki/Q99
+cpb-aacip-507-4746q1t25k-transcript.ann	T83	person	6048	6054	Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T84	location	6077	6085	San Jose	https://en.wikipedia.org/wiki/San_Jose,_California	https://www.wikidata.org/wiki/Q16553
+cpb-aacip-507-4746q1t25k-transcript.ann	T85	organization	6025	6046	Aviation Subcommittee	https://en.wikipedia.org/wiki/United_States_House_Transportation_Subcommittee_on_Aviation	https://www.wikidata.org/wiki/Q7890079
+cpb-aacip-507-4746q1t25k-transcript.ann	T86	organization	5966	6016	House Committee on Public Works and Transportation	https://en.wikipedia.org/wiki/United_States_House_Committee_on_Transportation_and_Infrastructure	https://www.wikidata.org/wiki/Q7889985
+cpb-aacip-507-4746q1t25k-transcript.ann	T87	person	6089	6102	NORMAN MINETA	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T88	organization	6252	6279	President Clinton's cabinet	https://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton	https://www.wikidata.org/wiki/Q2824550
+cpb-aacip-507-4746q1t25k-transcript.ann	T89	person	7558	7568	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T90	person	7613	7621	Mr. Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T91	organization	7733	7737	OPEC	https://en.wikipedia.org/wiki/OPEC	https://www.wikidata.org/wiki/Q7795
+cpb-aacip-507-4746q1t25k-transcript.ann	T92	organization	7983	7987	OPEC	https://en.wikipedia.org/wiki/OPEC	https://www.wikidata.org/wiki/Q7795
+cpb-aacip-507-4746q1t25k-transcript.ann	T93	person	8030	8060	PRESIDENT-ELECT GEORGE W. BUSH	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T94	organization	8149	8153	OPEC	https://en.wikipedia.org/wiki/OPEC	https://www.wikidata.org/wiki/Q7795
+cpb-aacip-507-4746q1t25k-transcript.ann	T95	location	8728	8739	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-4746q1t25k-transcript.ann	T96	location	8820	8833	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T97	person	9056	9066	Mr. Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T98	person	9112	9142	PRESIDENT-ELECT GEORGE W. BUSH	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T99	organization	9281	9289	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-4746q1t25k-transcript.ann	T100	person	9406	9410	Norm	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T101	person	9863	9873	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T102	organization	9907	9919	Capitol Hill	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
+cpb-aacip-507-4746q1t25k-transcript.ann	T103	organization	9941	9947	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T104	person	9968	9979	Don Nickles	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T105	location	9983	9991	Oklahoma	https://en.wikipedia.org/wiki/Oklahoma	https://www.wikidata.org/wiki/Q1649
+cpb-aacip-507-4746q1t25k-transcript.ann	T106	person	10037	10047	Harry Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T107	location	10051	10057	Nevada	https://en.wikipedia.org/wiki/Nevada	https://www.wikidata.org/wiki/Q1227
+cpb-aacip-507-4746q1t25k-transcript.ann	T108	person	10079	10094	Senator Nickles	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T108	person	10079	10094	Senator Nickles	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T109	organization	10324	10330	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T110	person	10371	10387	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T110	person	10371	10387	SEN. DON NICKLES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T110	person	10371	10387	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T111	person	10429	10449	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T112	person	10530	10541	Norm Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T113	organization	10580	10585	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-4746q1t25k-transcript.ann	T114	person	10651	10668	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-4746q1t25k-transcript.ann	T115	person	10738	10752	President Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T116	person	10756	10766	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T117	person	10768	10780	Senator Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T118	person	10884	10899	SEN. HARRY REID	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T119	person	10953	10968	Secretary Cohen	https://en.wikipedia.org/wiki/William_Cohen	https://www.wikidata.org/wiki/Q710721
+cpb-aacip-507-4746q1t25k-transcript.ann	T120	location	11004	11011	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T121	person	11074	11085	Norm Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T122	location	11185	11192	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T123	person	11263	11274	Norm Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T124	organization	11334	11339	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-4746q1t25k-transcript.ann	T125	person	11604	11614	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T126	person	11796	11806	Bill Cohen	https://en.wikipedia.org/wiki/William_Cohen	https://www.wikidata.org/wiki/Q710721
+cpb-aacip-507-4746q1t25k-transcript.ann	T127	person	11926	11941	SEN. HARRY REID	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T128	person	12138	12149	Norm Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T129	person	12346	12352	Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T130	person	12492	12502	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T131	person	12504	12519	Senator Nickles	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T131	person	12504	12519	Senator Nickles	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T132	person	12642	12658	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T132	person	12642	12658	SEN. DON NICKLES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T132	person	12642	12658	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T133	person	12713	12733	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T134	person	12807	12819	Colin Powell	https://en.wikipedia.org/wiki/Colin_Powell	https://www.wikidata.org/wiki/Q150851
+cpb-aacip-507-4746q1t25k-transcript.ann	T135	person	12821	12833	Don Rumsfeld	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
+cpb-aacip-507-4746q1t25k-transcript.ann	T136	organization	3049	3077	Dow Jones Industrial Average	https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average	https://www.wikidata.org/wiki/Q180816
+cpb-aacip-507-4746q1t25k-transcript.ann	T137	organization	3118	3130	NASDAQ Index	https://en.wikipedia.org/wiki/Nasdaq_Composite	https://www.wikidata.org/wiki/Q575782
+cpb-aacip-507-4746q1t25k-transcript.ann	T138	person	12835	12847	Paul O'Neill	https://en.wikipedia.org/wiki/Paul_H._O%27Neill	https://www.wikidata.org/wiki/Q456921
+cpb-aacip-507-4746q1t25k-transcript.ann	T139	person	12879	12890	Norm Mineta	https://en.wikipedia.org/wiki/Norman_Mineta	https://www.wikidata.org/wiki/Q553502
+cpb-aacip-507-4746q1t25k-transcript.ann	T140	person	12908	12920	Senator Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T141	location	13306	13313	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T142	person	13386	13396	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T143	person	13463	13467	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T144	person	13719	13735	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T144	person	13719	13735	SEN. DON NICKLES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T144	person	13719	13735	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T145	organization	14377	14385	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-4746q1t25k-transcript.ann	T146	organization	14513	14521	Pentagon	https://en.wikipedia.org/wiki/The_Pentagon	https://www.wikidata.org/wiki/Q11208
+cpb-aacip-507-4746q1t25k-transcript.ann	T147	organization	14528	14536	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-4746q1t25k-transcript.ann	T148	organization	14568	14576	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-4746q1t25k-transcript.ann	T149	organization	14579	14588	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-4746q1t25k-transcript.ann	T150	organization	14593	14604	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-4746q1t25k-transcript.ann	T151	person	14663	14673	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T152	person	14680	14695	Senator Nickles	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T152	person	14680	14695	Senator Nickles	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T153	person	14919	14935	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T153	person	14919	14935	SEN. DON NICKLES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T153	person	14919	14935	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T154	person	15054	15066	Don Rumsfeld	https://en.wikipedia.org/wiki/Donald_Rumsfeld	https://www.wikidata.org/wiki/Q184650
+cpb-aacip-507-4746q1t25k-transcript.ann	T155	person	15091	15103	Paul O'Neill	https://en.wikipedia.org/wiki/Paul_H._O%27Neill	https://www.wikidata.org/wiki/Q456921
+cpb-aacip-507-4746q1t25k-transcript.ann	T156	person	15107	15120	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T157	person	15267	15277	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T158	person	15279	15291	Senator Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T159	person	15314	15329	SEN. HARRY REID	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T160	person	15331	15334	Ray	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T161	organization	15420	15426	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T162	person	15968	15972	Bork	https://en.wikipedia.org/wiki/Robert_Bork	https://www.wikidata.org/wiki/Q1365780
+cpb-aacip-507-4746q1t25k-transcript.ann	T163	person	16015	16019	Bork	https://en.wikipedia.org/wiki/Robert_Bork	https://www.wikidata.org/wiki/Q1365780
+cpb-aacip-507-4746q1t25k-transcript.ann	T164	person	15776	15788	Linda Chavez	https://en.wikipedia.org/wiki/Linda_Chavez	https://www.wikidata.org/wiki/Q6551458
+cpb-aacip-507-4746q1t25k-transcript.ann	T165	organization	16020	16033	Supreme Court	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
+cpb-aacip-507-4746q1t25k-transcript.ann	T166	person	16235	16246	Gale Norton	https://en.wikipedia.org/wiki/Gale_Norton	https://www.wikidata.org/wiki/Q271717
+cpb-aacip-507-4746q1t25k-transcript.ann	T167	person	16290	16304	Secretary Watt	https://en.wikipedia.org/wiki/James_G._Watt	https://www.wikidata.org/wiki/Q710501
+cpb-aacip-507-4746q1t25k-transcript.ann	T168	person	16426	16439	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T169	person	16575	16587	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T170	person	17018	17038	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T171	organization	17198	17204	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T172	person	17248	17252	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T173	person	17392	17402	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T174	person	17410	17425	Senator Nickles	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T174	person	17410	17425	Senator Nickles	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T175	organization	17456	17472	Democratic Party	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-4746q1t25k-transcript.ann	T176	person	17672	17688	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T176	person	17672	17688	SEN. DON NICKLES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T176	person	17672	17688	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T177	person	17703	17706	Ray	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T178	person	17940	17953	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T179	person	17962	17975	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T180	location	18200	18208	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T181	location	18308	18327	Judiciary Committee	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Judiciary	https://www.wikidata.org/wiki/Q452532
+cpb-aacip-507-4746q1t25k-transcript.ann	T182	person	18410	18421	Gale Norton	https://en.wikipedia.org/wiki/Gale_Norton	https://www.wikidata.org/wiki/Q271717
+cpb-aacip-507-4746q1t25k-transcript.ann	T183	person	18576	18596	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T184	person	18768	18772	Bork	https://en.wikipedia.org/wiki/Robert_Bork	https://www.wikidata.org/wiki/Q1365780
+cpb-aacip-507-4746q1t25k-transcript.ann	T185	person	18786	18790	Bork	https://en.wikipedia.org/wiki/Robert_Bork	https://www.wikidata.org/wiki/Q1365780
+cpb-aacip-507-4746q1t25k-transcript.ann	T186	organization	19020	19026	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T187	person	19195	19205	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T188	person	19470	19486	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T188	person	19470	19486	SEN. DON NICKLES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T188	person	19470	19486	SEN. DON NICKLES	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T189	person	19619	19631	Senator Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T190	person	20083	20093	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T191	person	20095	20107	Senator Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T192	person	20181	20196	SEN. HARRY REID	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T193	person	20255	20258	Don	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T194	organization	20431	20442	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-4746q1t25k-transcript.ann	T195	organization	20844	20854	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-4746q1t25k-transcript.ann	T196	organization	21005	21014	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-4746q1t25k-transcript.ann	T197	organization	21019	21030	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-4746q1t25k-transcript.ann	T198	person	21065	21075	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T199	person	21077	21089	Senator Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T200	person	21091	21106	Senator Nickles	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-4746q1t25k-transcript.ann	T200	person	21091	21106	Senator Nickles	https://en.wikipedia.org/wiki/Don_Nickles	https://www.wikidata.org/wiki/Q1239374
+cpb-aacip-507-4746q1t25k-transcript.ann	T201	person	21141	21151	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T202	title	21174	21182	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-4746q1t25k-transcript.ann	T203	person	21196	21204	Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T204	title	21264	21293	FOCUS - CONFIRMATION CONFLICT		
+cpb-aacip-507-4746q1t25k-transcript.ann	T205	person	21295	21305	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T206	person	21431	21444	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T207	person	21490	21508	SEN. JOHN ASHCROFT	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T208	person	21602	21622	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T209	person	21771	21781	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T210	person	21783	21791	Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T211	organization	21895	21901	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T212	location	21914	21922	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T213	person	21923	21944	Governor Mel Carnahan	https://en.wikipedia.org/wiki/Mel_Carnahan	https://www.wikidata.org/wiki/Q538609
+cpb-aacip-507-4746q1t25k-transcript.ann	T214	person	21999	22007	Carnahan	https://en.wikipedia.org/wiki/Mel_Carnahan	https://www.wikidata.org/wiki/Q538609
+cpb-aacip-507-4746q1t25k-transcript.ann	T215	person	22017	22021	Jean	https://en.wikipedia.org/wiki/Jean_Carnahan	https://www.wikidata.org/wiki/Q448619
+cpb-aacip-507-4746q1t25k-transcript.ann	T216	person	22058	22076	SEN. JOHN ASHCROFT	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T217	location	22097	22105	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T218	person	22292	22305	Mrs. Carnahan	https://en.wikipedia.org/wiki/Jean_Carnahan	https://www.wikidata.org/wiki/Q448619
+cpb-aacip-507-4746q1t25k-transcript.ann	T219	person	22309	22319	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T220	person	22321	22329	Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T221	location	22367	22375	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T222	organization	22396	22402	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T223	person	22562	22570	Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T224	person	22658	22670	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T226	organization	22674	22696	Missouri Supreme Court	https://en.wikipedia.org/wiki/Supreme_Court_of_Missouri	https://www.wikidata.org/wiki/Q2493768
+cpb-aacip-507-4746q1t25k-transcript.ann	T227	person	22718	22735	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-4746q1t25k-transcript.ann	T228	person	22939	22955	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T229	person	23103	23133	PRESIDENT-ELECT GEORGE W. BUSH	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T230	person	23149	23154	David		
+cpb-aacip-507-4746q1t25k-transcript.ann	T231	person	23423	23436	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T232	location	23501	23508	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T233	location	23629	23637	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T234	location	23685	23693	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T235	location	23703	23716	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T236	location	23741	23749	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T237	person	24098	24114	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T238	organization	24140	24146	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T239	person	24150	24160	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T240	person	24185	24193	Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T241	person	24250	24264	Kate Michelman	https://en.wikipedia.org/wiki/Kate_Michelman	https://www.wikidata.org/wiki/Q785671
+cpb-aacip-507-4746q1t25k-transcript.ann	T242	organization	24285	24290	NARAL	https://en.wikipedia.org/wiki/NARAL_Pro-Choice_America	https://www.wikidata.org/wiki/Q1160931
+cpb-aacip-507-4746q1t25k-transcript.ann	T243	organization	24296	24351	National Abortion and Reproductive Rights Action League	https://en.wikipedia.org/wiki/NARAL_Pro-Choice_America	https://www.wikidata.org/wiki/Q1160931
+cpb-aacip-507-4746q1t25k-transcript.ann	T244	person	24353	24365	Elaine Jones	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T245	organization	24389	24413	NAACP Legal Defense Fund	https://en.wikipedia.org/wiki/NAACP_Legal_Defense_and_Educational_Fund	https://www.wikidata.org/wiki/Q17008021
+cpb-aacip-507-4746q1t25k-transcript.ann	T246	person	24415	24427	Clint Bolick	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T247	organization	24462	24483	Institute for Justice	https://en.wikipedia.org/wiki/Institute_for_Justice	https://www.wikidata.org/wiki/Q6039446
+cpb-aacip-507-4746q1t25k-transcript.ann	T248	person	24489	24499	Ken Conner		
+cpb-aacip-507-4746q1t25k-transcript.ann	T249	organization	24520	24543	Family Research Council	https://en.wikipedia.org/wiki/Family_Research_Council	https://www.wikidata.org/wiki/Q841737
+cpb-aacip-507-4746q1t25k-transcript.ann	T250	person	24547	24559	Elaine Jones	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T251	person	24599	24612	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T252	person	24712	24724	ELAINE JONES	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T253	organization	24726	24750	NAACP Legal Defense Fund	https://en.wikipedia.org/wiki/NAACP_Legal_Defense_and_Educational_Fund	https://www.wikidata.org/wiki/Q17008021
+cpb-aacip-507-4746q1t25k-transcript.ann	T254	person	24762	24766	Gwen	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T255	person	24848	24861	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T256	person	25158	25171	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T257	person	25546	25556	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T258	person	25558	25570	Clint Bolick	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T259	person	25572	25584	Elaine Jones	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T260	person	25638	25650	CLINT BOLICK	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T261	organization	25652	25673	Institute for Justice	https://en.wikipedia.org/wiki/Institute_for_Justice	https://www.wikidata.org/wiki/Q6039446
+cpb-aacip-507-4746q1t25k-transcript.ann	T262	person	25707	25720	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T263	location	25856	25864	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T264	person	25925	25942	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-4746q1t25k-transcript.ann	T265	person	25989	26001	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T266	organization	26036	26056	United States Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T267	person	26086	26098	Jim Jeffords	https://en.wikipedia.org/wiki/Jim_Jeffords	https://www.wikidata.org/wiki/Q1386836
+cpb-aacip-507-4746q1t25k-transcript.ann	T268	person	26103	26116	Arlen Specter	https://en.wikipedia.org/wiki/Arlen_Specter	https://www.wikidata.org/wiki/Q363055
+cpb-aacip-507-4746q1t25k-transcript.ann	T269	person	26145	26162	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-4746q1t25k-transcript.ann	T270	person	26187	26205	Martin Luther King	https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.	https://www.wikidata.org/wiki/Q8027
+cpb-aacip-507-4746q1t25k-transcript.ann	T271	location	26226	26234	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T272	organization	26317	26335	Justice Department	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-4746q1t25k-transcript.ann	T273	person	26382	26394	Elaine Jones	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T274	person	26536	26549	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T275	person	26553	26563	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T276	person	26565	26575	Ken Conner		
+cpb-aacip-507-4746q1t25k-transcript.ann	T277	person	26646	26659	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T278	person	26781	26791	KEN CONNER		
+cpb-aacip-507-4746q1t25k-transcript.ann	T279	organization	26793	26816	Family Research Council	https://en.wikipedia.org/wiki/Family_Research_Council	https://www.wikidata.org/wiki/Q841737
+cpb-aacip-507-4746q1t25k-transcript.ann	T280	person	26983	26999	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T281	organization	27126	27144	Justice Department	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-4746q1t25k-transcript.ann	T282	organization	27196	27218	Clinton administration	https://en.wikipedia.org/wiki/Presidency_of_Bill_Clinton	https://www.wikidata.org/wiki/Q2824550
+cpb-aacip-507-4746q1t25k-transcript.ann	T283	organization	27397	27413	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T284	person	27506	27516	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T285	person	27614	27624	KEN CONNER		
+cpb-aacip-507-4746q1t25k-transcript.ann	T286	title	27872	27884	Constitution	https://en.wikipedia.org/wiki/Constitution_of_the_United_States	https://www.wikidata.org/wiki/Q11698
+cpb-aacip-507-4746q1t25k-transcript.ann	T287	person	27983	27999	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T288	organization	27824	27858	Supreme Court of the United States	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
+cpb-aacip-507-4746q1t25k-transcript.ann	T289	person	28142	28152	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T290	person	28154	28168	Kate Michelman	https://en.wikipedia.org/wiki/Kate_Michelman	https://www.wikidata.org/wiki/Q785671
+cpb-aacip-507-4746q1t25k-transcript.ann	T291	person	28173	28186	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T292	person	28218	28232	KATE MICHELMAN	https://en.wikipedia.org/wiki/Kate_Michelman	https://www.wikidata.org/wiki/Q785671
+cpb-aacip-507-4746q1t25k-transcript.ann	T293	organization	28234	28272	National Abortion Rights Action League	https://en.wikipedia.org/wiki/NARAL_Pro-Choice_America	https://www.wikidata.org/wiki/Q1160931
+cpb-aacip-507-4746q1t25k-transcript.ann	T294	person	28287	28307	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T295	person	28396	28409	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T296	title	27595	27610	Roe versus Wade	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T297	title	27804	27819	Roe versus Wade	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T298	title	28547	28562	Roe versus Wade	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T299	title	28651	28666	Roe versus Wade	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T300	title	28757	28772	Roe versus Wade	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T301	person	28824	28840	Justice Blackman	https://en.wikipedia.org/wiki/Harry_Blackmun	https://www.wikidata.org/wiki/Q1323255
+cpb-aacip-507-4746q1t25k-transcript.ann	T302	title	28852	28855	Roe	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T303	title	28882	28885	Roe	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T304	person	29046	29059	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T305	title	29600	29615	Roe versus Wade	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T306	person	29748	29758	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T307	person	29760	29772	Clint Bolick	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T308	person	29777	29787	KEN CONNER		
+cpb-aacip-507-4746q1t25k-transcript.ann	T309	title	29840	29859	Dred Scott decision	https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford	https://www.wikidata.org/wiki/Q690462
+cpb-aacip-507-4746q1t25k-transcript.ann	T310	title	29890	29912	Plessy versus Ferguson	https://en.wikipedia.org/wiki/Plessy_v._Ferguson	https://www.wikidata.org/wiki/Q656660
+cpb-aacip-507-4746q1t25k-transcript.ann	T311	person	30083	30099	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T312	person	30270	30282	ELAINE JONES	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T313	person	30388	30419	Attorney General-elect Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T314	person	30513	30529	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T315	location	30954	30967	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T316	person	31030	31040	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T317	person	31059	31071	Clint Bolick	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T318	person	31113	31125	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T319	person	31161	31173	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T320	location	31207	31215	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-4746q1t25k-transcript.ann	T321	person	31249	31261	ELAINE JONES	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T322	location	31422	31435	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T323	organization	31444	31465	Department of Justice	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-4746q1t25k-transcript.ann	T324	person	31605	31617	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T225	organization	31663	31688	Supreme Court of Missouri	https://en.wikipedia.org/wiki/Supreme_Court_of_Missouri	https://www.wikidata.org/wiki/Q2493768
+cpb-aacip-507-4746q1t25k-transcript.ann	T325	person	31813	31829	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T326	organization	31725	31751	Senate Judiciary Committee	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Judiciary	https://www.wikidata.org/wiki/Q452532
+cpb-aacip-507-4746q1t25k-transcript.ann	T327	person	31973	31991	Judge Ronnie white	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T328	person	32050	32055	Clint	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T329	person	32085	32101	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T330	person	32227	32239	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T331	person	32277	32289	CLINT BOLICK	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T332	person	32343	32356	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T333	organization	32399	32409	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-4746q1t25k-transcript.ann	T334	person	32475	32488	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T335	organization	32596	32606	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-4746q1t25k-transcript.ann	T336	person	32856	32866	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T337	person	32908	32920	Ronnie White	https://en.wikipedia.org/wiki/Ronnie_L._White	https://www.wikidata.org/wiki/Q16185660
+cpb-aacip-507-4746q1t25k-transcript.ann	T338	person	32933	32945	CLINT BOLICK	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T339	person	32995	33008	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T340	organization	33071	33104	Western District Court of Appeals		
+cpb-aacip-507-4746q1t25k-transcript.ann	T341	organization	33260	33276	Democratic Party	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-4746q1t25k-transcript.ann	T342	person	33316	33324	Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T343	person	33450	33460	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T344	person	33462	33472	Ken Conner		
+cpb-aacip-507-4746q1t25k-transcript.ann	T345	person	33497	33510	john Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T346	person	33836	33846	KEN CONNER		
+cpb-aacip-507-4746q1t25k-transcript.ann	T347	title	34034	34049	First Amendment	https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution	https://www.wikidata.org/wiki/Q12616
+cpb-aacip-507-4746q1t25k-transcript.ann	T348	person	34174	34190	Senator Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T349	person	34520	34530	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T350	organization	34581	34599	Justice Department	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-4746q1t25k-transcript.ann	T351	person	34624	34634	KEN CONNER		
+cpb-aacip-507-4746q1t25k-transcript.ann	T352	organization	34698	34706	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-4746q1t25k-transcript.ann	T353	title	35043	35055	Constitution	https://en.wikipedia.org/wiki/Constitution_of_the_United_States	https://www.wikidata.org/wiki/Q11698
+cpb-aacip-507-4746q1t25k-transcript.ann	T354	title	35213	35225	Constitution	https://en.wikipedia.org/wiki/Constitution_of_the_United_States	https://www.wikidata.org/wiki/Q11698
+cpb-aacip-507-4746q1t25k-transcript.ann	T355	organization	35263	35271	Founders	https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States	https://www.wikidata.org/wiki/Q186539
+cpb-aacip-507-4746q1t25k-transcript.ann	T356	organization	35448	35482	Supreme Court of the United States	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
+cpb-aacip-507-4746q1t25k-transcript.ann	T357	title	35339	35354	Roe versus Wade	https://en.wikipedia.org/wiki/Roe_v._Wade	https://www.wikidata.org/wiki/Q300950
+cpb-aacip-507-4746q1t25k-transcript.ann	T358	person	35486	35496	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T359	person	35498	35512	Kate Michelman	https://en.wikipedia.org/wiki/Kate_Michelman	https://www.wikidata.org/wiki/Q785671
+cpb-aacip-507-4746q1t25k-transcript.ann	T360	person	35560	35574	KATE MICHELMAN	https://en.wikipedia.org/wiki/Kate_Michelman	https://www.wikidata.org/wiki/Q785671
+cpb-aacip-507-4746q1t25k-transcript.ann	T361	person	35683	35703	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T362	organization	36127	36145	Justice Department	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-4746q1t25k-transcript.ann	T363	person	36178	36184	Elaine	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T364	organization	36330	36343	Supreme Court	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
+cpb-aacip-507-4746q1t25k-transcript.ann	T365	person	36655	36666	George Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T366	person	37052	37065	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T367	person	37201	37211	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T368	person	37213	37225	Elaine Jones	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T369	person	37229	37241	ELAINE JONES	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T370	person	37247	37259	Clint Bolick	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T371	person	37285	37298	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T372	person	37405	37415	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T373	person	37491	37503	ELAINE JONES	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T374	person	37516	37526	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T375	person	37559	37571	ELAINE JONES	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T376	person	37741	37754	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T377	person	38088	38098	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T378	person	38112	38124	Clint Bolick	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T379	person	38128	38140	CLINT BOLICK	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T380	person	38261	38274	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T381	person	38319	38332	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T382	person	38344	38357	John Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T383	person	38383	38396	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T384	location	38429	38434	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-4746q1t25k-transcript.ann	T385	person	38480	38493	john Ashcroft	https://en.wikipedia.org/wiki/John_Ashcroft	https://www.wikidata.org/wiki/Q311141
+cpb-aacip-507-4746q1t25k-transcript.ann	T386	person	38751	38763	ELAINE JONES	https://en.wikipedia.org/wiki/Elaine_Jones	https://www.wikidata.org/wiki/Q5353230
+cpb-aacip-507-4746q1t25k-transcript.ann	T387	person	38768	38773	Clint	https://en.wikipedia.org/wiki/Clint_Bolick	https://www.wikidata.org/wiki/Q5133923
+cpb-aacip-507-4746q1t25k-transcript.ann	T388	organization	38790	38801	U.S. Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-4746q1t25k-transcript.ann	T389	person	38868	38878	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T390	person	38889	38899	Ray Suarez	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-4746q1t25k-transcript.ann	T391	title	38982	39011	SECOND LOOK - UNSETTLED LIVES		
+cpb-aacip-507-4746q1t25k-transcript.ann	T392	person	39013	39023	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T393	location	39083	39094	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-4746q1t25k-transcript.ann	T394	location	39117	39127	Camp David	https://en.wikipedia.org/wiki/Camp_David	https://www.wikidata.org/wiki/Q309202
+cpb-aacip-507-4746q1t25k-transcript.ann	T395	person	39140	39160	Elizabeth Farnsworth	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T396	location	39173	39179	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T397	location	39185	39194	West Bank	https://en.wikipedia.org/wiki/West_Bank	https://www.wikidata.org/wiki/Q36678
+cpb-aacip-507-4746q1t25k-transcript.ann	T398	location	39199	39203	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T399	location	39383	39394	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-4746q1t25k-transcript.ann	T400	person	39412	39432	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T401	person	39537	39551	Rasslan Sukkar		
+cpb-aacip-507-4746q1t25k-transcript.ann	T402	location	39557	39562	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T403	location	39578	39584	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T404	location	39633	39638	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T405	location	39771	39775	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T406	location	39809	39819	Beach Camp	https://en.wikipedia.org/wiki/Al-Shati_Camp	https://www.wikidata.org/wiki/Q2829277
+cpb-aacip-507-4746q1t25k-transcript.ann	T407	organization	39897	39911	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-4746q1t25k-transcript.ann	T408	person	40142	40149	Sukkars		
+cpb-aacip-507-4746q1t25k-transcript.ann	T409	location	40273	40278	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T410	location	40369	40376	Sukkars		
+cpb-aacip-507-4746q1t25k-transcript.ann	T411	location	40464	40470	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-4746q1t25k-transcript.ann	T412	location	40479	40490	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-4746q1t25k-transcript.ann	T413	person	40492	40502	Yuli Tamir	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
+cpb-aacip-507-4746q1t25k-transcript.ann	T414	person	40533	40558	Prime Minister Ehud Barak	https://en.wikipedia.org/wiki/Ehud_Barak	https://www.wikidata.org/wiki/Q125731
+cpb-aacip-507-4746q1t25k-transcript.ann	T415	person	40561	40571	YULI TAMIR	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
+cpb-aacip-507-4746q1t25k-transcript.ann	T416	location	40615	40621	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-4746q1t25k-transcript.ann	T417	location	40643	40649	Poland	https://en.wikipedia.org/wiki/Poland	https://www.wikidata.org/wiki/Q36
+cpb-aacip-507-4746q1t25k-transcript.ann	T418	location	40657	40664	Germany	https://en.wikipedia.org/wiki/Germany	https://www.wikidata.org/wiki/Q183
+cpb-aacip-507-4746q1t25k-transcript.ann	T419	location	40671	40685	Czechoslovakia	https://en.wikipedia.org/wiki/Czechoslovakia	https://www.wikidata.org/wiki/Q33946
+cpb-aacip-507-4746q1t25k-transcript.ann	T420	person	40741	40761	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T421	location	40766	40770	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T422	person	40776	40789	Sukkar family		
+cpb-aacip-507-4746q1t25k-transcript.ann	T423	person	40836	40850	RASSLAN SUKKAR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T424	person	40976	40996	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T425	person	40998	41012	Rasslan Sukkar		
+cpb-aacip-507-4746q1t25k-transcript.ann	T426	location	41057	41069	Jaffa Harbor	https://en.wikipedia.org/wiki/Jaffa_Port	https://www.wikidata.org/wiki/Q2911475
+cpb-aacip-507-4746q1t25k-transcript.ann	T427	location	41160	41185	Jewish State in Palestine	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T429	person	41189	41203	RASSLAN SUKKAR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T430	location	41307	41312	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-4746q1t25k-transcript.ann	T431	location	41367	41371	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T432	organization	41377	41379	UN	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-4746q1t25k-transcript.ann	T433	person	41471	41489	AMERA AHMED SUKKAR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T434	location	41545	41550	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T435	person	41704	41724	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T436	person	41752	41770	AMERA AHMED SUKKAR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T437	person	41928	41939	DEEB SUKKAR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T438	location	42081	42086	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T439	person	42090	42110	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T440	location	42112	42117	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T441	location	42142	42150	Tel Aviv	https://en.wikipedia.org/wiki/Tel_Aviv	https://www.wikidata.org/wiki/Q33935
+cpb-aacip-507-4746q1t25k-transcript.ann	T442	person	42184	42191	Sukkars		
+cpb-aacip-507-4746q1t25k-transcript.ann	T443	location	42193	42197	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T444	location	42229	42248	Mediterranean coast	https://en.wikipedia.org/wiki/Israeli_coastal_plain	https://www.wikidata.org/wiki/Q2915532
+cpb-aacip-507-4746q1t25k-transcript.ann	T445	location	42277	42282	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T446	location	42428	42441	port of Jaffa	https://en.wikipedia.org/wiki/Jaffa_Port	https://www.wikidata.org/wiki/Q2911475
+cpb-aacip-507-4746q1t25k-transcript.ann	T447	person	42490	42497	Sukkars		
+cpb-aacip-507-4746q1t25k-transcript.ann	T448	person	42762	42774	Fakhri Geday		
+cpb-aacip-507-4746q1t25k-transcript.ann	T449	person	42854	42859	Geday		
+cpb-aacip-507-4746q1t25k-transcript.ann	T450	location	42875	42880	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T451	person	42937	42944	Sukkars		
+cpb-aacip-507-4746q1t25k-transcript.ann	T452	location	43076	43081	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T453	location	43093	43101	Tel Aviv	https://en.wikipedia.org/wiki/Tel_Aviv	https://www.wikidata.org/wiki/Q33935
+cpb-aacip-507-4746q1t25k-transcript.ann	T454	person	43136	43141	Geday		
+cpb-aacip-507-4746q1t25k-transcript.ann	T455	location	43180	43185	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T456	person	43201	43208	Sukkars		
+cpb-aacip-507-4746q1t25k-transcript.ann	T457	person	43309	43321	FAKHRI GEDAY		
+cpb-aacip-507-4746q1t25k-transcript.ann	T458	person	43418	43429	Sewkawalski		
+cpb-aacip-507-4746q1t25k-transcript.ann	T459	person	43474	43494	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T460	person	43511	43523	Etti Barchil		
+cpb-aacip-507-4746q1t25k-transcript.ann	T461	location	43695	43699	Iran	https://en.wikipedia.org/wiki/Iran	https://www.wikidata.org/wiki/Q794
+cpb-aacip-507-4746q1t25k-transcript.ann	T462	person	43782	43794	ETTI BARCHIL		
+cpb-aacip-507-4746q1t25k-transcript.ann	T463	person	44177	44197	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T464	person	44199	44209	Gaby Aldor		
+cpb-aacip-507-4746q1t25k-transcript.ann	T465	organization	44269	44294	Israeli Housing Authority	https://en.wikipedia.org/wiki/Ministry_of_Construction_(Israel)	https://www.wikidata.org/wiki/Q2080931
+cpb-aacip-507-4746q1t25k-transcript.ann	T466	person	44358	44363	Aldor		
+cpb-aacip-507-4746q1t25k-transcript.ann	T467	location	44383	44389	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-4746q1t25k-transcript.ann	T468	event	44441	44450	Holocaust	https://en.wikipedia.org/wiki/The_Holocaust	https://www.wikidata.org/wiki/Q2763
+cpb-aacip-507-4746q1t25k-transcript.ann	T469	person	44572	44592	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T470	person	44676	44686	GABY ALDOR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T471	location	44798	44804	Vienna	https://en.wikipedia.org/wiki/Vienna	https://www.wikidata.org/wiki/Q1741
+cpb-aacip-507-4746q1t25k-transcript.ann	T472	person	45160	45180	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T473	person	45185	45190	Aldor		
+cpb-aacip-507-4746q1t25k-transcript.ann	T474	person	45225	45232	Sukkars		
+cpb-aacip-507-4746q1t25k-transcript.ann	T475	person	45252	45262	GABY ALDOR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T476	location	45446	45452	Vienna	https://en.wikipedia.org/wiki/Vienna	https://www.wikidata.org/wiki/Q1741
+cpb-aacip-507-4746q1t25k-transcript.ann	T477	location	45537	45543	Vienna	https://en.wikipedia.org/wiki/Vienna	https://www.wikidata.org/wiki/Q1741
+cpb-aacip-507-4746q1t25k-transcript.ann	T478	person	45568	45588	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T479	person	45590	45600	Gaby Aldor		
+cpb-aacip-507-4746q1t25k-transcript.ann	T480	location	45661	45666	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T481	person	45765	45787	Cabinet Minister Tamir	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
+cpb-aacip-507-4746q1t25k-transcript.ann	T428	person	45801	45811	YULI TAMIR	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
+cpb-aacip-507-4746q1t25k-transcript.ann	T482	location	46049	46060	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-4746q1t25k-transcript.ann	T483	location	46165	46171	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T484	location	46173	46179	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T485	person	46216	46228	SALIM TAMARI	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
+cpb-aacip-507-4746q1t25k-transcript.ann	T486	person	46392	46412	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T487	person	46414	46426	Salim Tamari	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
+cpb-aacip-507-4746q1t25k-transcript.ann	T488	location	46621	46626	Jaffa	https://en.wikipedia.org/wiki/Jaffa	https://www.wikidata.org/wiki/Q180294
+cpb-aacip-507-4746q1t25k-transcript.ann	T489	person	46774	46786	SALIM TAMARI	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
+cpb-aacip-507-4746q1t25k-transcript.ann	T490	person	47045	47055	YULI TAMIR	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
+cpb-aacip-507-4746q1t25k-transcript.ann	T491	location	47362	47369	Morocco	https://en.wikipedia.org/wiki/Morocco	https://www.wikidata.org/wiki/Q1028
+cpb-aacip-507-4746q1t25k-transcript.ann	T492	location	47373	47380	Tunisia	https://en.wikipedia.org/wiki/Tunisia	https://www.wikidata.org/wiki/Q948
+cpb-aacip-507-4746q1t25k-transcript.ann	T493	location	47384	47391	Algeria	https://en.wikipedia.org/wiki/Algeria	https://www.wikidata.org/wiki/Q262
+cpb-aacip-507-4746q1t25k-transcript.ann	T494	location	47398	47403	Syria	https://en.wikipedia.org/wiki/Syria	https://www.wikidata.org/wiki/Q858
+cpb-aacip-507-4746q1t25k-transcript.ann	T495	location	47411	47416	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-4746q1t25k-transcript.ann	T496	person	47482	47502	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T497	location	47562	47574	Orient House	https://en.wikipedia.org/wiki/Orient_House	https://www.wikidata.org/wiki/Q1433121
+cpb-aacip-507-4746q1t25k-transcript.ann	T498	location	47627	47639	E. Jerusalem	https://en.wikipedia.org/wiki/East_Jerusalem	https://www.wikidata.org/wiki/Q212938
+cpb-aacip-507-4746q1t25k-transcript.ann	T499	organization	47747	47761	Ottoman Empire	https://en.wikipedia.org/wiki/Ottoman_Empire	https://www.wikidata.org/wiki/Q12560
+cpb-aacip-507-4746q1t25k-transcript.ann	T500	person	48003	48009	Tamari	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
+cpb-aacip-507-4746q1t25k-transcript.ann	T501	person	48017	48029	SALIM TAMARI	https://en.wikipedia.org/wiki/Salim_Tamari	https://www.wikidata.org/wiki/Q796456
+cpb-aacip-507-4746q1t25k-transcript.ann	T502	person	48398	48418	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T503	person	48466	48476	YULI TAMIR	https://en.wikipedia.org/wiki/Yuli_Tamir	https://www.wikidata.org/wiki/Q2563029
+cpb-aacip-507-4746q1t25k-transcript.ann	T504	location	48591	48597	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T505	location	48491	48497	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T506	location	48760	48766	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T507	person	48917	48937	ELIZABETH FARNSWORTH	https://en.wikipedia.org/wiki/Elizabeth_Farnsworth	https://www.wikidata.org/wiki/Q5362750
+cpb-aacip-507-4746q1t25k-transcript.ann	T508	location	48977	48987	Camp David	https://en.wikipedia.org/wiki/Camp_David	https://www.wikidata.org/wiki/Q309202
+cpb-aacip-507-4746q1t25k-transcript.ann	T509	location	49218	49231	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T510	location	49233	49239	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-4746q1t25k-transcript.ann	T511	person	49332	49345	Sukkar family		
+cpb-aacip-507-4746q1t25k-transcript.ann	T512	location	49349	49353	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T513	person	49473	49484	DEEB SUKKAR		
+cpb-aacip-507-4746q1t25k-transcript.ann	T514	person	49746	49756	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T515	location	49810	49814	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-4746q1t25k-transcript.ann	T516	location	49820	49829	West Bank	https://en.wikipedia.org/wiki/West_Bank	https://www.wikidata.org/wiki/Q36678
+cpb-aacip-507-4746q1t25k-transcript.ann	T517	location	49837	49843	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-4746q1t25k-transcript.ann	T518	title	49896	49901	RECAP		
+cpb-aacip-507-4746q1t25k-transcript.ann	T519	person	49903	49913	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
+cpb-aacip-507-4746q1t25k-transcript.ann	T520	person	49957	49977	President-elect Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-4746q1t25k-transcript.ann	T521	person	50077	50083	Arafat	https://en.wikipedia.org/wiki/Yasser_Arafat	https://www.wikidata.org/wiki/Q34211
+cpb-aacip-507-4746q1t25k-transcript.ann	T522	person	50093	50110	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-4746q1t25k-transcript.ann	T523	location	50118	50129	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-4746q1t25k-transcript.ann	T524	location	50157	50161	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-4746q1t25k-transcript.ann	T525	location	50178	50189	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-4746q1t25k-transcript.ann	T526	person	50267	50277	Gwen Ifill	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430

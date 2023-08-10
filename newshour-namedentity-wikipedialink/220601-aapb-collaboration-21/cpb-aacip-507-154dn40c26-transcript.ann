@@ -1,0 +1,446 @@
+T1	person 7 21	ROBERT MacNEIL
+T2	location 6011 6015	U.S.
+T3	person 5897 5949	Health and Human Services Secretary Margaret Heckler
+T4	organization 5767 5794	Hoffman-LaRoche Corporation
+T5	organization 5681 5684	FDA
+T6	organization 5525 5553	Food and Drug Administration
+T7	person 5511 5519	WOODRUFF
+T8	organization 76 82	Moscow
+T9	organization 141 167	Farm Credit Administration
+T10	location 224 236	South Africa
+T11	organization 273 287	Delta Airlines
+T12	organization 301 304	FAA
+T13	location 327 333	Dallas
+T14	person 407 417	Jim Lehrer
+T15	person 435 448	Judy Woodruff
+T16	location 455 465	Washington
+T17	person 467 471	Judy
+T18	organization 5409 5414	Delta
+T19	organization 5330 5335	Delta
+T20	organization 5164 5195	Federal Aviation Administration
+T21	organization 5112 5117	Delta
+T22	location 5104 5110	Dallas
+T23	product 5726 5732	Valium
+T24	product 5598 5604	Valium
+T25	organization 4950 4955	Delta
+T26	organization 4825 4839	Delta Airlines
+T27	location 4721 4728	Chicago
+T28	location 4652 4662	Washington
+T29	location 4643 4647	Ohio
+T30	location 4629 4641	Pennsylvania
+T31	location 4619 4627	Michigan
+T32	location 4605 4617	Rhode Island
+T33	location 4595 4603	Illinois
+T34	person 4463 4470	MacNEIL
+T35	location 4295 4302	America
+T36	location 4052 4059	America
+T37	person 4007 4013	Reagan
+T38	organization 3806 3811	House
+T39	location 3776 3789	Massachusetts
+T40	person 3748 3770	Rep. THOMAS P. O'NEILL
+T41	person 3671 3681	Mr. Reagan
+T42	person 3644 3651	O'Neill
+T43	location 3637 3642	Texas
+T44	person 3519 3526	O'Neill
+T45	person 3453 3469	President Reagan
+T46	person 3411 3436	House Speaker Tip O'Neill
+T47	organization 3329 3336	Cabinet
+T48	person 3249 3264	Secretary Block
+T49	person 3239 3247	WOODRUFF
+T50	organization 2700 2718	Farm Credit System
+T51	person 2498 2508	JOHN BLOCK
+T52	organization 2456 2477	Reagan administration
+T53	person 2391 2400	Wilkinson
+T54	person 2324 2356	Agriculture Secretary John Block
+T55	publication_title 2089 2108	Wall Street Journal
+T56	organization 2052 2078	Farm Credit Administration
+T57	person 2018 2034	Donald Wilkinson
+T58	person 1808 1816	WOODRUFF
+T59	person 1801 1805	Judy
+T60	location 1668 1681	United States
+T61	organization 1590 1596	Moscow
+T62	location 1573 1577	U.S.
+T63	organization 1551 1555	Tass
+T64	person 1417 1430	Yuri Andropov
+T65	organization 1326 1335	Air Force
+T66	organization 1302 1310	Pentagon
+T67	person 1177 1193	President Reagan
+T68	location 1110 1114	U.S.
+T69	organization 1025 1031	Moscow
+T70	person 1016 1023	MacNEIL
+T71	program_title 1002 1014	News Summary
+T72	program_title 510 518	NewsHour
+T73	person 474 487	JUDY WOODRUFF
+T74	person 11113 11117	Ryan
+T75	location 10963 10978	Kokomo, Indiana
+T76	person 10949 10959	Ryan White
+T77	location 10908 10921	New York City
+T78	person 10818 10823	CROSS
+T79	location 10574 10582	New York
+T80	person 10555 10568	Mayor ED KOCH
+T81	location 10456 10464	New York
+T82	location 10369 10377	New York
+T83	location 10354 10360	Queens
+T84	person 10159 10164	CROSS
+T85	location 10016 10029	New York City
+T86	person 10003 10014	WALTER WARD
+T87	location 9935 9951	Queens, New York
+T88	person 9746 9751	CROSS
+T89	location 9382 9395	New York City
+T90	person 9230 9240	JUNE CROSS
+T91	person 9176 9200	Correspondent June Cross
+T92	person 8843 8851	WOODRUFF
+T93	program_title 8825 8841	Coping With AIDS
+T94	organization 8797 8823	Farm Credit Administration
+T95	person 8531 8538	MacNEIL
+T96	location 8473 8478	Egypt
+T97	organization 8451 8469	Mubarak government
+T98	person 8391 8412	President Anwar Sadat
+T99	location 8352 8357	Egypt
+T100	location 5010 5034	Dallas-Ft. Worth airport
+T101	person 8342 8347	Lotfi
+T102	person 8272 8285	Dr. Ali Lotfi
+T103	person 8242 8265	President Hosni Mubarak
+T104	person 8176 8207	Prime Minister Kamal Hassan Ali
+T105	location 8129 8134	Egypt
+T106	location 7992 7998	Beirut
+T107	location 7912 7924	Bekaa Valley
+T108	location 7848 7853	Zahle
+T109	location 7821 7828	Lebanon
+T110	person 7698 7706	WOODRUFF
+T111	location 7581 7593	South Africa
+T112	location 7488 7500	South Africa
+T113	location 7421 7425	U.S.
+T114	location 7269 7281	South Africa
+T115	person 7247 7262	Gehrard de Kock
+T116	location 7217 7225	New York
+T117	location 7063 7075	South Africa
+T118	person 7054 7061	MacNEIL
+T119	person 7003 7015	Rita Lavelle
+T120	organization 6924 6937	Supreme Court
+T121	organization 6432 6435	EPA
+T122	person 6411 6423	RITA LAVELLE
+T123	organization 6297 6305	Congress
+T124	person 6242 6253	Ms. Lavelle
+T125	location 6230 6240	Pleasanton
+T126	publication_title 6170 6191	Toxic Waste Superfund
+T127	organization 6138 6169	Environmental Protection Agency
+T128	organization 6114 6135	Reagan administration
+T129	person 6077 6089	Rita Lavelle
+T130	location 6059 6069	California
+T131	person 15208 15221	MATHILDE KRIM
+T132	person 15146 15154	Dr. Krim
+T133	organization 15121 15144	AIDS Medical Foundation
+T134	person 15064 15077	Mathilde Krim
+T135	person 14987 14995	WOODRUFF
+T136	location 14757 14768	Los Angeles
+T137	person 14591 14596	CROSS
+T138	organization 14179 14203	Anti-AIDS Citizens Group
+T139	person 14163 14177	CLAUDE LINDSEY
+T140	person 13870 13881	Ms. FLEMING
+T141	person 13835 13840	CROSS
+T142	organization 13729 13753	Anti-AIDS Citizens Group
+T143	person 13714 13727	ELLEN FLEMING
+T144	person 13612 13622	Dr. Newman
+T145	person 13556 13561	CROSS
+T146	location 13462 13481	Carville, Louisiana
+T147	organization 13244 13268	Anti-AIDS Citizens Group
+T148	person 14630 14636	Robert
+T149	person 13927 13935	"ROBERT"
+T150	person 13227 13242	Dr. MATT NEWMAN
+T151	location 13167 13173	Tacoma
+T152	location 13112 13128	Washington State
+T153	person 13072 13077	CROSS
+T154	person 12821 12829	"ROBERT"
+T155	location 12746 12765	Seattle, Washington
+T156	person 12707 12713	Robert
+T157	person 12361 12368	Traynor
+T158	organization 12280 12286	United
+T159	organization 12024 12030	United
+T160	person 12015 12022	Traynor
+T161	person 11980 11985	CROSS
+T162	organization 11613 11619	United
+T163	organization 11559 11565	United
+T164	person 11539 11550	GAR TRAYNOR
+T165	location 11467 11480	San Francisco
+T166	organization 11447 11463	United Air Lines
+T167	person 11395 11406	Gar Traynor
+T168	person 11170 11175	CROSS
+T169	person 11151 11161	RYAN WHITE
+T170	person 20164 20172	Dr. Krim
+T171	person 20119 20129	Dr. Kaplan
+T172	organization 20011 20050	Lambda Legal Defense and Education Fund
+T173	person 19957 19971	Joe Tom Easely
+T174	person 19772 19795	Dr. Helen Singer Kaplan
+T175	person 19477 19484	MacNEIL
+T176	organization 19833 19862	Department of Human Sexuality
+T177	person 19469 19474	Robin
+T178	person 19445 19453	Dr. Krim
+T179	person 19435 19443	WOODRUFF
+T180	person 19401 19409	Dr. KRIM
+T181	person 19320 19328	WOODRUFF
+T182	person 19066 19074	Dr. KRIM
+T183	person 19027 19035	WOODRUFF
+T184	person 18490 18498	Dr. KRIM
+T185	person 18168 18176	WOODRUFF
+T186	location 16744 16750	Africa
+T187	location 16718 16724	Europe
+T188	person 16645 16653	Dr. KRIM
+T189	location 16548 16554	Africa
+T190	person 16401 16409	WOODRUFF
+T191	person 16083 16091	Dr. KRIM
+T192	person 15947 15955	WOODRUFF
+T193	person 15725 15733	Dr. KRIM
+T194	person 15592 15600	WOODRUFF
+T195	person 20307 20330	Dr. HELEN SINGER KAPLAN
+T196	person 20371 20376	"Bob"
+T197	person 20593 20601	Dr. Krim
+T198	person 20998 21005	MacNEIL
+T199	person 21229 21239	Dr. KAPLAN
+T200	person 21345 21353	Dr. KRIM
+T201	person 21385 21395	Dr. KAPLAN
+T202	person 21429 21436	MacNEIL
+T203	person 21465 21475	Dr. KAPLAN
+T204	organization 19870 19911	New Yjork Hospital Cornell Medical Center
+T205	person 21483 21490	MacNEIL
+T206	location 21618 21634	Washington State
+T207	person 21637 21651	JOE TOM EASELY
+T208	person 21702 21710	Dr. Krim
+T209	organization 21999 22024	Lambda Legal Defense Fund
+T210	person 22547 22554	MacNEIL
+T211	person 22573 22583	Mr. EASELY
+T212	person 22733 22740	MacNEIL
+T213	person 22899 22909	Mayor Koch
+T214	person 23012 23022	Mr. EASELY
+T215	person 23127 23135	Dr. Krim
+T216	person 23144 23152	Dr. Krim
+T217	organization 23193 23218	Memorial Sloane Kettering
+T218	organization 23384 23413	National Institutes of Health
+T219	organization 23422 23449	Centers for Disease Control
+T220	person 23530 23538	Dr. Krim
+T221	person 23742 23749	MacNEIL
+T222	person 23751 23761	Dr. Kaplan
+T223	person 23815 23823	Dr. Krim
+T224	person 23897 23907	Dr. KAPLAN
+T225	location 24163 24171	New York
+T226	location 24231 24239	New York
+T227	person 24449 24459	Mr. EASELY
+T228	location 25090 25098	New York
+T229	location 25146 25154	New York
+T230	person 25195 25202	MacNEIL
+T231	location 25258 25266	New York
+T232	person 25269 25277	Dr. KRIM
+T233	person 25330 25337	MacNEIL
+T234	person 25376 25386	Dr. Kaplan
+T235	person 25428 25438	Dr. KAPLAN
+T236	person 25623 25630	MacNEIL
+T237	person 26380 26388	Dr. KRIM
+T238	person 26916 26923	MacNEIL
+T239	person 26950 26960	Dr. KAPLAN
+T240	person 26971 26979	Dr. Krim
+T241	person 27020 27027	MacNEIL
+T242	location 27123 27129	Kokomo
+T243	person 27232 27242	Mr. EASELY
+T244	person 27268 27278	Dr. Kaplan
+T245	location 27407 27413	Kokomo
+T246	location 27438 27460	New Haven, Connecticut
+T247	person 27500 27507	MacNEIL
+T248	person 27592 27600	Dr. KRIM
+T249	location 28127 28140	New York City
+T250	person 28702 28709	MacNEIL
+T251	person 28747 28751	Judy
+T252	person 28754 28762	WOODRUFF
+T253	person 28991 29001	June Cross
+T254	person 29037 29042	CROSS
+T255	organization 29296 29304	Pentagon
+T256	person 29373 29386	WILLIAM MAYER
+T257	organization 29388 29406	Defense Department
+T258	person 29837 29842	CROSS
+T259	person 30100 30105	CROSS
+T260	person 30318 30336	Dr. HERBERT PERKIN
+T261	organization 30338 30363	Irwin Memorial Blood Bank
+T262	location 30365 30378	San Francisco
+T263	person 30579 30584	CROSS
+T264	person 30886 30900	BOBBY REYNOLDS
+T265	person 31104 31109	CROSS
+T266	location 31171 31181	California
+T267	person 31350 31361	PAUL CASTRO
+T268	person 31506 31518	Mr. REYNOLDS
+T269	person 31847 31855	WOODRUFF
+T270	location 31945 31953	Colorado
+T271	person 32101 32118	Dr. Thomas Vernon
+T272	organization 32146 32175	Colorado Department of Health
+T273	person 32177 32187	Dr. Vernon
+T274	person 32254 32271	Dr. THOMAS VERNON
+T275	location 32693 32701	Colorado
+T276	person 32745 32753	WOODRUFF
+T277	person 32836 32846	Dr. VERNON
+T278	person 33118 33126	WOODRUFF
+T279	person 33212 33222	Dr. VERNON
+T280	person 33766 33774	WOODRUFF
+T281	person 33909 33919	Dr. VERNON
+T282	person 34562 34570	WOODRUFF
+T283	person 34688 34698	Dr. VERNON
+T284	person 35275 35283	WOODRUFF
+T285	person 35494 35504	Dr. VERNON
+T286	person 35978 35986	WOODRUFF
+T287	person 36192 36202	Dr. VERNON
+T288	person 36774 36782	WOODRUFF
+T289	person 36784 36794	Dr. Vernon
+T290	person 36810 36815	Robin
+T291	person 36818 36825	MacNEIL
+T292	person 36827 36837	Mr. Easely
+T293	location 36864 36872	Colorado
+T294	person 36880 36890	Mr. EASELY
+T295	person 37242 37252	Dr. Vernon
+T296	organization 37828 37831	FDA
+T297	location 38052 38060	Colorado
+T298	location 38098 38108	New Jersey
+T299	location 38256 38266	New Jersey
+T300	location 38326 38334	Colorado
+T301	location 38398 38404	Denver
+T302	person 38422 38429	MacNEIL
+T303	person 38472 38482	Mr. EASELY
+T304	person 38711 38718	MacNEIL
+T305	person 38734 38742	Dr. Krim
+T306	person 38775 38785	Dr. Vernon
+T307	person 38836 38844	Dr. KRIM
+T308	person 39140 39147	MacNEIL
+T309	person 39356 39364	Dr. KRIM
+T310	person 39377 39384	MacNEIL
+T311	person 39473 39481	Dr. KRIM
+T312	person 39533 39540	MacNEIL
+T313	person 39623 39631	Dr. KRIM
+T314	person 39809 39819	Dr. Kaplan
+T315	person 40182 40189	MacNEIL
+T316	location 40212 40220	Colorado
+T317	person 40236 40246	Dr. KAPLAN
+T318	location 40428 40441	New York City
+T319	location 40473 40483	New Jersey
+T320	person 40683 40690	MacNEIL
+T321	person 40732 40742	Dr. Vernon
+T322	person 40748 40758	Dr. KAPLAN
+T323	person 40784 40792	Dr. Krim
+T324	person 40989 40997	Dr. KRIM
+T325	person 41514 41521	MacNEIL
+T326	person 41549 41559	Dr. Vernon
+T327	person 41565 41575	Mr. Easely
+T328	person 41731 41741	Dr. VERNON
+T329	person 41743 41751	Dr. Krim
+T330	person 41756 41766	Dr. Kaplan
+T331	organization 41919 41928	Red Cross
+T332	person 42273 42280	MacNEIL
+T333	person 42405 42415	Mr. EASELY
+T334	person 42672 42679	MacNEIL
+T335	person 42722 42732	Dr. KAPLAN
+T336	person 42777 42785	Dr. KRIM
+T337	person 42808 42818	Dr. KAPLAN
+T338	person 42950 42958	Dr. KRIM
+T339	person 43257 43264	MacNEIL
+T340	person 43408 43418	Dr. Vernon
+T341	location 43423 43431	Colorado
+T342	person 43433 43441	Dr. Krim
+T343	person 43443 43453	Mr. Easely
+T344	person 43458 43468	Dr. Kaplan
+T345	location 43472 43480	New York
+T346	person 43482 43486	Judy
+T347	program_title 43488 43506	Farm Credit Crunch
+T348	person 43508 43516	WOODRUFF
+T349	person 43809 43825	Donald Wilkinson
+T350	publication_title 43835 43854	Wall Street Journal
+T351	organization 43859 43877	Farm Credit System
+T352	person 43945 43954	Wilkinson
+T353	organization 43722 43748	Farm Credit Administration
+T354	organization 43977 43995	Farm Credit System
+T355	organization 44128 44146	farm credit system
+T356	location 44201 44212	Wall Street
+T357	person 44366 44378	Kwame Holman
+T358	person 44454 44466	KWAME HOLMAN
+T359	location 44501 44508	America
+T360	location 44598 44609	Wall Street
+T361	location 44645 44654	farm belt
+T362	organization 44694 44712	Farm Credit System
+T363	event 44801 44817	Great Depression
+T364	person 45286 45307	Congressman Jim Leach
+T365	location 45281 45285	Iowa
+T366	person 45310 45324	Rep. JIM LEACH
+T367	location 45330 45334	Iowa
+T368	organization 45350 45368	Farm Credit System
+T369	person 45411 45417	HOLMAN
+T370	organization 45821 45839	Farm Credit System
+T371	person 45857 45866	NEIL HARL
+T372	organization 45879 45900	Iowa State University
+T373	person 46084 46090	HOLMAN
+T374	organization 46117 46135	Farm Credit System
+T375	person 46330 46340	Rep. LEACH
+T376	person 46520 46526	HOLMAN
+T377	person 46541 46551	Ray Powell
+T378	location 46602 46615	Creston, Iowa
+T379	person 46618 46628	RAY POWELL
+T380	person 46857 46863	HOLMAN
+T381	location 47102 47115	Creston, Iowa
+T382	location 47233 47238	Omaha
+T383	person 47297 47311	Tom Langemeier
+T384	location 47353 47360	Creston
+T385	person 47363 47377	TOM LANGEMEIER
+T386	person 47714 47727	DON WILKINSON
+T387	organization 47739 47765	Farm Credit Administration
+T388	person 47988 47994	HOLMAN
+T389	organization 48065 48083	farm credit system
+T390	person 48084 48109	Governor Donald Wilkinson
+T391	location 48244 48251	Creston
+T392	organization 48470 48488	farm credit system
+T393	organization 48686 48723	Creston production credit association
+T394	person 48878 48888	LEO TUCKER
+T395	person 49000 49006	HOLMAN
+T396	person 49028 49038	Leo Tucker
+T397	organization 49126 49145	Creston association
+T398	person 49373 49383	Mr. TUCKER
+T399	organization 49395 49413	farm credit system
+T400	organization 49565 49568	PCA
+T401	person 49643 49654	DEBBIE HALL
+T402	person 49664 49682	Governor Wilkinson
+T403	person 50028 50034	HOLMAN
+T404	organization 50064 50083	Creston association
+T405	location 50112 50116	Iowa
+T406	person 50117 50142	Congressman Jim Lightfoot
+T407	person 50194 50212	Rep. JIM LIGHTFOOD
+T408	location 50219 50223	Iowa
+T409	person 50277 50283	HOLMAN
+T410	person 50422 50432	Rep. LEACH
+T411	person 50578 50584	HOLMAN
+T412	person 50630 50651	Congressman Jim Leach
+T413	location 50664 50668	Iowa
+T414	organization 50845 50856	Wall Street
+T415	organization 50876 50894	Farm Credit System
+T416	person 51413 51421	Mr. HARL
+T417	organization 51540 51560	Continental Illinois
+T418	organization 51582 51593	Continental
+T419	organization 51610 51621	Continental
+T420	person 51718 51724	HOLMAN
+T421	location 51901 51920	Spokane, Washington
+T422	location 52015 52020	Omaha
+T423	organization 52059 52078	Creston association
+T424	organization 52132 52150	Farm Credit System
+T425	person 52323 52333	Rep. LEACH
+T426	person 52470 52484	Gov. WILKINSON
+T427	person 52714 52722	Mr. HARL
+T428	organization 52740 52750	Washington
+T429	person 53007 53013	HOLMAN
+T430	location 53231 53238	Creston
+T431	location 53240 53244	Iowa
+T432	organization 53253 53271	Farm Credit System
+T433	person 53274 53282	WOODRUFF
+T434	organization 53329 53347	Farm Credit System
+T435	organization 53555 53563	Congress
+T436	person 53565 53570	Robin
+T437	person 53573 53580	MacNEIL
+T438	organization 53623 53629	Moscow
+T439	organization 53688 53714	Farm Credit Administration
+T440	location 53766 53778	South Africa
+T441	organization 53815 53829	Delta Airlines
+T442	person 53915 53919	Judy
+T443	person 53922 53930	WOODRUFF
+T444	person 53944 53949	Robin
+T445	program_title 53962 53970	NewsHour
+T446	person 54018 54031	Judy Woodruff
