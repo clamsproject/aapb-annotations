@@ -1,9 +1,7 @@
 """Processes Named Entity Linking annotation files
 
-$ process.py [-h] BATCH_DIR ANN_DIR
-
-Reads in the '.tab' annotations file containing grounding information in the 'BATCH_DIR' directory,
-then reads in each brat .ann file in the 'ANN_DIR' directory.
+Reads in the '.tab' annotations file containing grounding information in the `BATCH_DIR` directory,
+then reads in each brat .ann file downloaded from URL specified in `base-ner.url` file in the BATCH_DIR
 Fetches wikidata QIDs using the wikipedia URLs in the data.
 Generates a tsv file for each unique GUID. Exports the results to a "golds" directory
 at the top level of this repository, where they are ready to be committed back
@@ -13,12 +11,15 @@ the automatic commit and push in order to avoid hasty commits.
 """
 
 import argparse
-from brat_parser import get_entities_relations_attributes_groups
-import pandas as pd
 from pathlib import Path
-import requests
 from typing import List, Union
 from urllib.parse import unquote_plus
+
+import pandas as pd
+import requests
+from brat_parser import get_entities_relations_attributes_groups
+
+import goldretriever
 
 
 def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:
@@ -57,8 +58,7 @@ def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:
 def parse_arguments():
     ap = argparse.ArgumentParser(
         description='Process uploaded NER annotation files with named entity links')
-    ap.add_argument('batch', help='Directory containing the annotations file with grounding information (.tab format)')
-    ap.add_argument('annotations', help='Directory containing brat NER annotation files to process (.ann format)')
+    ap.add_argument('batch', help='Directory containing the annotations file with grounding information (.tab format). Must start with YYMMDD- prefix to infer the batch name. Also must contain `base-ner.url` file with the URL to the NER annotations.')
     return ap.parse_args()
 
 
@@ -66,18 +66,17 @@ if __name__ == '__main__':
 
     options = parse_arguments()
 
-    batch_dir = Path(options.batch).resolve()
-    ann_dir = Path(options.annotations).resolve()
+    ann_batch_dir = Path(options.batch).resolve()
+    ner_dir = Path(goldretriever.download_golds(open(Path(options.batch)/'base-ner.url').read().strip()))
 
-    batch = Path(options.batch).resolve().name
-    repo_dir = (Path(__file__).parent / '..' / '..').resolve()
-    gold_dir = repo_dir / 'golds' / 'nel' / batch
+    batch_name = ann_batch_dir.name[7:]
+    gold_dir = ann_batch_dir.parent / 'golds' / batch_name
     gold_dir.mkdir(parents=True, exist_ok=True)
-    print(f'>>> Exporting {batch} annotations to the gold directory')
+    print(f'>>> Exporting {batch_name} annotations to the gold directory')
     print(f'>>> --> {gold_dir}')
 
-    brat_anns = ann_dir.glob('*.ann')
-    tab_file = next(batch_dir.glob('*.tab'))
+    brat_anns = ner_dir.glob('*.ann')
+    tab_file = next(ann_batch_dir.glob('*.tab'))
 
     # read in the relevant information from the annotations.tab
     with open(tab_file) as fh_in:
