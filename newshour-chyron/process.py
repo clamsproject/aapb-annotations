@@ -11,10 +11,10 @@ import os
 if __name__ == '__main__':
     # Parse the input arguments
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_path', type=str, required=True,
+    parser.add_argument('-i', '--input_path', type=str, required=True,
                         help='Path to the directory containing the VIA project files')
-    parser.add_argument('--output_path', type=str, required=True,
-                        help='Path to the output CSV file')
+    parser.add_argument('-o', '--output_path', type=str, required=True, default='golds/',
+                        help='Path to the empty output CSV directory')
     args = parser.parse_args()
 
     # Loop through each file in the input directory and process it
@@ -51,11 +51,15 @@ if __name__ == '__main__':
                             print (annotation_data)
 
     # Write the CSV file, text value may contain new lines
-    with open(args.output_path, 'w') as f:
-        writer = csv.writer(f)
-        writer.writerow(['video_filename', 'start_time', 'end_time', 'text'])
-        for row in csv_data:
-            # escape new lines in final value of row
+    seen_files = set()
+    for row in csv_data:
+        docname = row[0]
+        docname = docname.replace('.mp4', '.csv')
+        file_path = os.path.join(args.output_path, docname)
+        with open(file_path, 'a+', encoding='utf8') as f:
+            writer = csv.writer(f)
+            if docname not in seen_files:
+                writer.writerow(['start_time','end_time','text'])
+                seen_files.add(docname)
             row[-1] = row[-1].replace('\n', '\\n')
-            writer.writerow(row)
-
+            writer.writerow(row[1:])
