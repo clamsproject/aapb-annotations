@@ -1,0 +1,527 @@
+guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+cpb-aacip-507-cf9j38m509-transcript.ann	T1	person	2	12	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T2	person	32	42	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T3	title	51	59	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-cf9j38m509-transcript.ann	T4	person	172	182	Judd Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T5	person	187	198	Kent Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T6	location	243	249	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-cf9j38m509-transcript.ann	T7	person	370	384	John Feinstein	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T8	event	418	428	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T9	title	432	444	NEWS SUMMARY		
+cpb-aacip-507-cf9j38m509-transcript.ann	T10	person	446	456	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T11	person	458	472	President Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T12	title	482	493	2006 budget	https://en.wikipedia.org/wiki/2006_United_States_federal_budget	https://www.wikidata.org/wiki/Q4607094
+cpb-aacip-507-cf9j38m509-transcript.ann	T13	organization	497	505	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T14	person	856	868	Nancy Pelosi	https://en.wikipedia.org/wiki/Nancy_Pelosi	https://www.wikidata.org/wiki/Q170581
+cpb-aacip-507-cf9j38m509-transcript.ann	T15	event	909	913	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T16	title	918	933	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T17	title	1019	1031	News Summary		
+cpb-aacip-507-cf9j38m509-transcript.ann	T18	location	1033	1039	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-cf9j38m509-transcript.ann	T19	person	1171	1200	Israeli Prime Minister Sharon	https://en.wikipedia.org/wiki/Ariel_Sharon	https://www.wikidata.org/wiki/Q60206
+cpb-aacip-507-cf9j38m509-transcript.ann	T20	location	1257	1262	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-cf9j38m509-transcript.ann	T21	person	1139	1166	Palestinian President Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T22	person	1367	1380	RAANAN GISSIN	https://en.wikipedia.org/wiki/Raanan_Gissin	https://www.wikidata.org/wiki/Q4138989
+cpb-aacip-507-cf9j38m509-transcript.ann	T23	person	1644	1654	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T24	location	1756	1765	West Bank	https://en.wikipedia.org/wiki/West_Bank	https://www.wikidata.org/wiki/Q36678
+cpb-aacip-507-cf9j38m509-transcript.ann	T25	person	1795	1823	U.S. Secretary of State Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T26	person	1853	1868	President Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T27	person	1921	1935	President Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T28	location	1939	1949	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-cf9j38m509-transcript.ann	T29	location	1968	1972	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T30	person	1873	1894	Prime Minister Sharon	https://en.wikipedia.org/wiki/Ariel_Sharon	https://www.wikidata.org/wiki/Q60206
+cpb-aacip-507-cf9j38m509-transcript.ann	T31	person	2002	2018	CONDOLEEZZA RICE	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T32	location	2144	2157	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T33	location	2167	2180	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T34	person	2242	2252	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T35	location	2360	2364	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T36	location	2375	2382	Baqouba	https://en.wikipedia.org/wiki/Baqubah	https://www.wikidata.org/wiki/Q270821
+cpb-aacip-507-cf9j38m509-transcript.ann	T37	location	2451	2456	Mosul	https://en.wikipedia.org/wiki/Mosul	https://www.wikidata.org/wiki/Q83317
+cpb-aacip-507-cf9j38m509-transcript.ann	T38	location	2561	2566	Mosul	https://en.wikipedia.org/wiki/Mosul	https://www.wikidata.org/wiki/Q83317
+cpb-aacip-507-cf9j38m509-transcript.ann	T39	location	2637	2641	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T40	location	2724	2728	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T41	person	2759	2785	Grand Ayatollah al-Sistani	https://en.wikipedia.org/wiki/Ali_al-Sistani	https://www.wikidata.org/wiki/Q337489
+cpb-aacip-507-cf9j38m509-transcript.ann	T42	organization	3074	3078	U.N.	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-cf9j38m509-transcript.ann	T43	person	3079	3102	Secretary-General Annan	https://en.wikipedia.org/wiki/Kofi_Annan	https://www.wikidata.org/wiki/Q1254
+cpb-aacip-507-cf9j38m509-transcript.ann	T44	location	3178	3182	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T45	person	2934	2955	Prime Minister Allawi	https://en.wikipedia.org/wiki/Ayad_Allawi	https://www.wikidata.org/wiki/Q313816
+cpb-aacip-507-cf9j38m509-transcript.ann	T46	location	3312	3316	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T47	location	3465	3478	Massachusetts	https://en.wikipedia.org/wiki/Massachusetts	https://www.wikidata.org/wiki/Q771
+cpb-aacip-507-cf9j38m509-transcript.ann	T48	event	3515	3550	Catholic Church's sex abuse scandal	https://en.wikipedia.org/wiki/Catholic_Church_sexual_abuse_cases	https://www.wikidata.org/wiki/Q573565
+cpb-aacip-507-cf9j38m509-transcript.ann	T49	person	3569	3581	Paul Shanley	https://en.wikipedia.org/wiki/Paul_Shanley	https://www.wikidata.org/wiki/Q3566423
+cpb-aacip-507-cf9j38m509-transcript.ann	T50	person	3602	3611	Cambridge	https://en.wikipedia.org/wiki/Cambridge,_Massachusetts	https://www.wikidata.org/wiki/Q49111
+cpb-aacip-507-cf9j38m509-transcript.ann	T51	person	3752	3759	Shanley	https://en.wikipedia.org/wiki/Paul_Shanley	https://www.wikidata.org/wiki/Q3566423
+cpb-aacip-507-cf9j38m509-transcript.ann	T52	organization	3809	3820	Wall Street	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+cpb-aacip-507-cf9j38m509-transcript.ann	T53	organization	3832	3860	Dow Jones Industrial Average	https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average	https://www.wikidata.org/wiki/Q180816
+cpb-aacip-507-cf9j38m509-transcript.ann	T54	organization	3910	3916	NASDAQ	https://en.wikipedia.org/wiki/Nasdaq_Composite	https://www.wikidata.org/wiki/Q575782
+cpb-aacip-507-cf9j38m509-transcript.ann	T55	location	3964	3970	Boston	https://en.wikipedia.org/wiki/Boston	https://www.wikidata.org/wiki/Q100
+cpb-aacip-507-cf9j38m509-transcript.ann	T56	organization	4044	4064	New England Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T57	event	4081	4091	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T58	organization	4107	4126	Philadelphia Eagles	https://en.wikipedia.org/wiki/Philadelphia_Eagles	https://www.wikidata.org/wiki/Q219714
+cpb-aacip-507-cf9j38m509-transcript.ann	T59	location	4147	4168	Jacksonville, Florida	https://en.wikipedia.org/wiki/Jacksonville,_Florida	https://www.wikidata.org/wiki/Q16568
+cpb-aacip-507-cf9j38m509-transcript.ann	T60	organization	4177	4188	New England	https://en.wikipedia.org/wiki/New_England	https://www.wikidata.org/wiki/Q18389
+cpb-aacip-507-cf9j38m509-transcript.ann	T61	organization	4197	4200	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T62	event	4276	4286	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T63	person	4369	4374	Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T64	person	4379	4385	Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T65	location	4389	4400	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-cf9j38m509-transcript.ann	T66	title	4431	4462	FOCUS - PRIORITIES AND PROGRAMS		
+cpb-aacip-507-cf9j38m509-transcript.ann	T67	person	4464	4474	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T68	person	4476	4490	President Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T69	person	4558	4570	Kwame Holman	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T70	person	4594	4606	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T71	organization	4625	4647	House Budget Committee	https://en.wikipedia.org/wiki/United_States_House_Committee_on_the_Budget	https://www.wikidata.org/wiki/Q11899544
+cpb-aacip-507-cf9j38m509-transcript.ann	T72	location	4649	4655	Kansas	https://en.wikipedia.org/wiki/Kansas	https://www.wikidata.org/wiki/Q1558
+cpb-aacip-507-cf9j38m509-transcript.ann	T73	person	4667	4675	Jim Ryun	https://en.wikipedia.org/wiki/Jim_Ryun	https://www.wikidata.org/wiki/Q1345537
+cpb-aacip-507-cf9j38m509-transcript.ann	T74	person	4856	4868	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T75	person	5037	5050	Ronald Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-cf9j38m509-transcript.ann	T76	person	5105	5119	President Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T77	person	5143	5167	PRESIDENT GEORGE W. BUSH	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T78	organization	5321	5329	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T79	person	5443	5455	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T80	organization	5490	5498	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T81	organization	5772	5778	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-cf9j38m509-transcript.ann	T82	person	5797	5807	Harry Reid	https://en.wikipedia.org/wiki/Harry_Reid	https://www.wikidata.org/wiki/Q314459
+cpb-aacip-507-cf9j38m509-transcript.ann	T83	person	5968	5995	budget director Josh Bolten	https://en.wikipedia.org/wiki/Joshua_Bolten	https://www.wikidata.org/wiki/Q649653
+cpb-aacip-507-cf9j38m509-transcript.ann	T84	person	6022	6036	President Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T85	person	6047	6058	JOSH BOLTEN	https://en.wikipedia.org/wiki/Joshua_Bolten	https://www.wikidata.org/wiki/Q649653
+cpb-aacip-507-cf9j38m509-transcript.ann	T86	organization	6153	6157	Hill	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
+cpb-aacip-507-cf9j38m509-transcript.ann	T87	organization	6210	6218	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T88	organization	6319	6327	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T89	person	6419	6431	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T90	person	6781	6803	Budget Director Bolten	https://en.wikipedia.org/wiki/Joshua_Bolten	https://www.wikidata.org/wiki/Q649653
+cpb-aacip-507-cf9j38m509-transcript.ann	T91	organization	6812	6820	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T92	person	6990	7001	JOSH BOLTEN	https://en.wikipedia.org/wiki/Joshua_Bolten	https://www.wikidata.org/wiki/Q649653
+cpb-aacip-507-cf9j38m509-transcript.ann	T93	organization	7268	7276	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T94	person	7280	7292	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T95	title	7690	7698	Medicaid	https://en.wikipedia.org/wiki/Medicaid	https://www.wikidata.org/wiki/Q1141363
+cpb-aacip-507-cf9j38m509-transcript.ann	T96	organization	7779	7802	Army Corps of Engineers	https://en.wikipedia.org/wiki/United_States_Army_Corps_of_Engineers	https://www.wikidata.org/wiki/Q1049334
+cpb-aacip-507-cf9j38m509-transcript.ann	T97	organization	7861	7869	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T98	organization	7945	7951	Amtrak	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+cpb-aacip-507-cf9j38m509-transcript.ann	T99	organization	7992	8001	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-cf9j38m509-transcript.ann	T100	person	8059	8070	John Spratt	https://en.wikipedia.org/wiki/John_Spratt	https://www.wikidata.org/wiki/Q502028
+cpb-aacip-507-cf9j38m509-transcript.ann	T101	location	8074	8088	South Carolina	https://en.wikipedia.org/wiki/South_Carolina	https://www.wikidata.org/wiki/Q1456
+cpb-aacip-507-cf9j38m509-transcript.ann	T102	organization	8116	8138	House Budget Committee	https://en.wikipedia.org/wiki/United_States_House_Committee_on_the_Budget	https://www.wikidata.org/wiki/Q11899544
+cpb-aacip-507-cf9j38m509-transcript.ann	T103	person	8142	8158	REP. JOHN SPRATT	https://en.wikipedia.org/wiki/John_Spratt	https://www.wikidata.org/wiki/Q502028
+cpb-aacip-507-cf9j38m509-transcript.ann	T104	organization	8494	8502	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T105	person	8558	8570	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T106	organization	8572	8581	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-cf9j38m509-transcript.ann	T107	location	8742	8746	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T108	location	8751	8762	Afghanistan	https://en.wikipedia.org/wiki/Afghanistan	https://www.wikidata.org/wiki/Q889
+cpb-aacip-507-cf9j38m509-transcript.ann	T109	title	8816	8831	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T110	person	8833	8855	Budget Director Bolten	https://en.wikipedia.org/wiki/Joshua_Bolten	https://www.wikidata.org/wiki/Q649653
+cpb-aacip-507-cf9j38m509-transcript.ann	T111	person	8859	8870	JOSH BOLTEN	https://en.wikipedia.org/wiki/Joshua_Bolten	https://www.wikidata.org/wiki/Q649653
+cpb-aacip-507-cf9j38m509-transcript.ann	T112	title	9013	9028	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T113	title	9103	9111	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T114	person	9363	9375	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T115	person	9447	9455	Mr. Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T116	organization	9490	9499	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-cf9j38m509-transcript.ann	T117	location	9570	9582	North Dakota	https://en.wikipedia.org/wiki/North_Dakota	https://www.wikidata.org/wiki/Q1207
+cpb-aacip-507-cf9j38m509-transcript.ann	T118	person	9585	9596	Kent Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T119	person	9599	9615	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T120	title	9750	9765	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T121	title	9783	9791	Medicare	https://en.wikipedia.org/wiki/Medicare_(United_States)	https://www.wikidata.org/wiki/Q559392
+cpb-aacip-507-cf9j38m509-transcript.ann	T122	person	9966	9978	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-cf9j38m509-transcript.ann	T123	organization	9980	9988	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T124	organization	10080	10085	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-cf9j38m509-transcript.ann	T125	organization	10090	10096	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-cf9j38m509-transcript.ann	T126	organization	10110	10117	Capitol	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-cf9j38m509-transcript.ann	T127	person	10121	10131	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T128	person	10133	10148	Margaret Warner	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T129	person	10206	10221	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T130	organization	10258	10264	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-cf9j38m509-transcript.ann	T131	person	10354	10369	Sen. Judd Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T132	location	10373	10386	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-cf9j38m509-transcript.ann	T133	organization	10410	10433	Senate Budget Committee	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_the_Budget	https://www.wikidata.org/wiki/Q142538
+cpb-aacip-507-cf9j38m509-transcript.ann	T134	person	10439	10455	Sen. Kent Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T135	location	10459	10471	North Dakota	https://en.wikipedia.org/wiki/North_Dakota	https://www.wikidata.org/wiki/Q1207
+cpb-aacip-507-cf9j38m509-transcript.ann	T136	person	10530	10540	Sen. Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T137	person	10687	10702	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T138	title	10920	10928	Medicaid	https://en.wikipedia.org/wiki/Medicaid	https://www.wikidata.org/wiki/Q1141363
+cpb-aacip-507-cf9j38m509-transcript.ann	T139	person	11243	11258	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T140	person	11264	11275	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T141	person	11361	11377	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T142	title	11810	11825	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T143	person	11927	11942	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T144	person	11959	11975	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T145	person	12229	12244	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T146	person	12246	12256	Sen. Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T147	organization	12328	12337	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-cf9j38m509-transcript.ann	T148	person	12514	12529	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T149	location	12931	12935	Iran	https://en.wikipedia.org/wiki/Iran	https://www.wikidata.org/wiki/Q794
+cpb-aacip-507-cf9j38m509-transcript.ann	T150	location	12939	12943	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T151	location	12953	12957	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T152	location	12961	12972	Afghanistan	https://en.wikipedia.org/wiki/Afghanistan	https://www.wikidata.org/wiki/Q889
+cpb-aacip-507-cf9j38m509-transcript.ann	T153	location	13108	13120	North Dakota	https://en.wikipedia.org/wiki/North_Dakota	https://www.wikidata.org/wiki/Q1207
+cpb-aacip-507-cf9j38m509-transcript.ann	T154	person	13402	13417	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T155	person	13526	13541	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T156	person	13569	13584	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T157	event	13667	13675	Iraq War	https://en.wikipedia.org/wiki/Iraq_War	https://www.wikidata.org/wiki/Q545449
+cpb-aacip-507-cf9j38m509-transcript.ann	T158	person	13679	13694	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T159	person	14618	14633	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T160	person	14635	14646	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T161	organization	14666	14675	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-cf9j38m509-transcript.ann	T162	person	14692	14708	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T163	organization	14999	15018	Bush administration	https://en.wikipedia.org/wiki/Presidency_of_George_W._Bush	https://www.wikidata.org/wiki/Q1719918
+cpb-aacip-507-cf9j38m509-transcript.ann	T164	location	15857	15864	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T165	person	15918	15933	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T166	person	15951	15962	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T167	person	15968	15983	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T168	person	16038	16053	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T169	person	16062	16077	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T170	title	16356	16364	Medicare	https://en.wikipedia.org/wiki/Medicare_(United_States)	https://www.wikidata.org/wiki/Q559392
+cpb-aacip-507-cf9j38m509-transcript.ann	T171	title	16481	16489	Medicare	https://en.wikipedia.org/wiki/Medicare_(United_States)	https://www.wikidata.org/wiki/Q559392
+cpb-aacip-507-cf9j38m509-transcript.ann	T172	title	16753	16761	Medicaid	https://en.wikipedia.org/wiki/Medicaid	https://www.wikidata.org/wiki/Q1141363
+cpb-aacip-507-cf9j38m509-transcript.ann	T173	person	17356	17371	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T174	person	17384	17395	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T175	person	17732	17748	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T176	title	17849	17861	cops program		
+cpb-aacip-507-cf9j38m509-transcript.ann	T176	title	17849	17861	cops program	https://en.wikipedia.org/wiki/Community_Oriented_Policing_Services	https://www.wikidata.org/wiki/Q5154836
+cpb-aacip-507-cf9j38m509-transcript.ann	T177	title	17877	17889	Cops program		
+cpb-aacip-507-cf9j38m509-transcript.ann	T177	title	17877	17889	Cops program	https://en.wikipedia.org/wiki/Community_Oriented_Policing_Services	https://www.wikidata.org/wiki/Q5154836
+cpb-aacip-507-cf9j38m509-transcript.ann	T178	title	18514	18522	Medicaid	https://en.wikipedia.org/wiki/Medicaid	https://www.wikidata.org/wiki/Q1141363
+cpb-aacip-507-cf9j38m509-transcript.ann	T179	person	19059	19074	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T180	person	19095	19105	Sen. Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T181	person	19167	19178	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T182	organization	19299	19305	Amtrak	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+cpb-aacip-507-cf9j38m509-transcript.ann	T183	organization	19361	19373	Capitol Hill	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
+cpb-aacip-507-cf9j38m509-transcript.ann	T184	organization	19406	19417	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-cf9j38m509-transcript.ann	T185	person	19475	19490	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T186	person	19532	19543	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T187	location	19588	19600	North Dakota	https://en.wikipedia.org/wiki/North_Dakota	https://www.wikidata.org/wiki/Q1207
+cpb-aacip-507-cf9j38m509-transcript.ann	T188	title	19647	19655	Medicaid	https://en.wikipedia.org/wiki/Medicaid	https://www.wikidata.org/wiki/Q1141363
+cpb-aacip-507-cf9j38m509-transcript.ann	T189	organization	19880	19888	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T190	organization	19938	19949	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-cf9j38m509-transcript.ann	T191	organization	20057	20068	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-cf9j38m509-transcript.ann	T192	organization	20115	20123	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T193	person	20460	20475	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T194	person	20493	20504	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T195	person	20625	20641	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T196	person	20686	20696	Sen. Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T197	person	21011	21026	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T198	person	21028	21039	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T199	person	21307	21323	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T200	person	21909	21924	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T201	person	21926	21936	Sen. Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T202	person	22019	22034	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T203	title	22937	22952	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T204	title	23267	23282	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T205	person	23400	23415	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T206	person	23421	23431	Sen. Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T207	title	23479	23494	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T208	title	23748	23763	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T209	person	23799	23814	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T210	title	23822	23837	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T211	person	24728	24743	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T212	person	24745	24756	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T213	title	24810	24825	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T214	organization	24937	24945	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T215	organization	24954	24960	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-cf9j38m509-transcript.ann	T216	person	24994	25010	SEN. KENT CONRAD	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T217	title	25342	25357	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T218	person	25770	25785	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-cf9j38m509-transcript.ann	T219	person	25787	25798	Sen. Conrad	https://en.wikipedia.org/wiki/Kent_Conrad	https://www.wikidata.org/wiki/Q553349
+cpb-aacip-507-cf9j38m509-transcript.ann	T220	person	25803	25817	Chairman Gregg	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T221	person	25837	25852	SEN. JUDD GREGG	https://en.wikipedia.org/wiki/Judd_Gregg	https://www.wikidata.org/wiki/Q553116
+cpb-aacip-507-cf9j38m509-transcript.ann	T222	person	25867	25877	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T223	title	25900	25908	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-cf9j38m509-transcript.ann	T224	location	25952	25963	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-cf9j38m509-transcript.ann	T225	event	26016	26026	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T226	title	26029	26048	FOCUS- TIME OF HOPE		
+cpb-aacip-507-cf9j38m509-transcript.ann	T227	person	26050	26060	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T228	location	26066	26077	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-cf9j38m509-transcript.ann	T229	person	26086	26096	Ray Suarez	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T230	person	26112	26122	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T231	person	26149	26161	Ariel Sharon	https://en.wikipedia.org/wiki/Ariel_Sharon	https://www.wikidata.org/wiki/Q60206
+cpb-aacip-507-cf9j38m509-transcript.ann	T232	person	26167	26180	Mahmoud Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T233	organization	26217	26238	Palestinian Authority	https://en.wikipedia.org/wiki/Palestinian_National_Authority	https://www.wikidata.org/wiki/Q42620
+cpb-aacip-507-cf9j38m509-transcript.ann	T234	location	26323	26345	Sharm-el-sheikh, Egypt	https://en.wikipedia.org/wiki/Sharm_El_Sheikh	https://www.wikidata.org/wiki/Q644
+cpb-aacip-507-cf9j38m509-transcript.ann	T235	location	26460	26495	Secretary of state Condoleezza Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T236	person	26585	26589	Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T237	organization	26598	26607	U.S. Army	https://en.wikipedia.org/wiki/United_States_Army	https://www.wikidata.org/wiki/Q9212
+cpb-aacip-507-cf9j38m509-transcript.ann	T238	person	26683	26693	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T239	title	26738	26746	Newsweek	https://en.wikipedia.org/wiki/Newsweek	https://www.wikidata.org/wiki/Q188413
+cpb-aacip-507-cf9j38m509-transcript.ann	T240	location	26749	26758	Jerusalem	https://en.wikipedia.org/wiki/Jerusalem	https://www.wikidata.org/wiki/Q1218
+cpb-aacip-507-cf9j38m509-transcript.ann	T241	person	26774	26784	Dan Ephron		
+cpb-aacip-507-cf9j38m509-transcript.ann	T242	person	26788	26791	Dan		
+cpb-aacip-507-cf9j38m509-transcript.ann	T243	person	26807	26811	Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T244	location	26884	26897	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T245	location	26901	26912	Middle East	https://en.wikipedia.org/wiki/Middle_East	https://www.wikidata.org/wiki/Q7204
+cpb-aacip-507-cf9j38m509-transcript.ann	T246	person	26926	26936	DAN EPHRON		
+cpb-aacip-507-cf9j38m509-transcript.ann	T247	person	27217	27230	Mahmoud Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T248	location	27464	27477	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T249	person	27492	27502	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T250	person	27512	27533	Lt. Gen. William Ward	https://en.wikipedia.org/wiki/William_E._Ward	https://www.wikidata.org/wiki/Q331328
+cpb-aacip-507-cf9j38m509-transcript.ann	T251	person	27580	27590	DAN EPHRON		
+cpb-aacip-507-cf9j38m509-transcript.ann	T252	person	27665	27679	Secretary Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T253	location	27737	27750	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T254	location	27855	27864	Jerusalem	https://en.wikipedia.org/wiki/Jerusalem	https://www.wikidata.org/wiki/Q1218
+cpb-aacip-507-cf9j38m509-transcript.ann	T255	location	27869	27877	Ramallah	https://en.wikipedia.org/wiki/Ramallah	https://www.wikidata.org/wiki/Q158119
+cpb-aacip-507-cf9j38m509-transcript.ann	T256	location	27953	27957	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T257	location	28148	28161	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T258	location	28205	28211	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-cf9j38m509-transcript.ann	T259	person	28593	28603	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T260	person	28610	28623	Lt. Gen. Ward	https://en.wikipedia.org/wiki/William_E._Ward	https://www.wikidata.org/wiki/Q331328
+cpb-aacip-507-cf9j38m509-transcript.ann	T261	person	28760	28770	DAN EPHRON		
+cpb-aacip-507-cf9j38m509-transcript.ann	T262	person	29010	29023	Yasser Arafat	https://en.wikipedia.org/wiki/Yasser_Arafat	https://www.wikidata.org/wiki/Q34211
+cpb-aacip-507-cf9j38m509-transcript.ann	T263	location	29128	29132	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T264	location	29269	29278	West Bank	https://en.wikipedia.org/wiki/West_Bank	https://www.wikidata.org/wiki/Q36678
+cpb-aacip-507-cf9j38m509-transcript.ann	T265	location	29283	29287	Gaza	https://en.wikipedia.org/wiki/Gaza_Strip	https://www.wikidata.org/wiki/Q39760
+cpb-aacip-507-cf9j38m509-transcript.ann	T266	person	29438	29451	Mahmoud Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T267	location	29646	29659	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T268	person	29746	29756	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T269	person	29758	29771	Mahmoud Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T270	organization	29828	29830	PA	https://en.wikipedia.org/wiki/Palestinian_National_Authority	https://www.wikidata.org/wiki/Q42620
+cpb-aacip-507-cf9j38m509-transcript.ann	T271	person	29975	29985	DAN EPHRON		
+cpb-aacip-507-cf9j38m509-transcript.ann	T272	person	30261	30274	Mahmoud Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T273	organization	30471	30476	Hamas	https://en.wikipedia.org/wiki/Hamas	https://www.wikidata.org/wiki/Q38799
+cpb-aacip-507-cf9j38m509-transcript.ann	T274	person	30654	30667	Mahmoud Abbas	https://en.wikipedia.org/wiki/Mahmoud_Abbas	https://www.wikidata.org/wiki/Q127998
+cpb-aacip-507-cf9j38m509-transcript.ann	T275	person	30752	30762	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T276	location	30872	30887	Sharm el-Sheikh	https://en.wikipedia.org/wiki/Sharm_El_Sheikh	https://www.wikidata.org/wiki/Q644
+cpb-aacip-507-cf9j38m509-transcript.ann	T277	person	30938	30948	DAN EPHRON		
+cpb-aacip-507-cf9j38m509-transcript.ann	T278	person	31559	31576	President Mubarak	https://en.wikipedia.org/wiki/Hosni_Mubarak	https://www.wikidata.org/wiki/Q34105
+cpb-aacip-507-cf9j38m509-transcript.ann	T279	person	31581	31594	King Abdullah	https://en.wikipedia.org/wiki/Abdullah_II_of_Jordan	https://www.wikidata.org/wiki/Q57464
+cpb-aacip-507-cf9j38m509-transcript.ann	T280	location	31598	31603	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-cf9j38m509-transcript.ann	T281	location	31608	31614	Jordan	https://en.wikipedia.org/wiki/Jordan	https://www.wikidata.org/wiki/Q810
+cpb-aacip-507-cf9j38m509-transcript.ann	T282	person	31649	31676	Prime Minister Ariel Sharon	https://en.wikipedia.org/wiki/Ariel_Sharon	https://www.wikidata.org/wiki/Q60206
+cpb-aacip-507-cf9j38m509-transcript.ann	T283	person	31872	31884	Ariel Sharon	https://en.wikipedia.org/wiki/Ariel_Sharon	https://www.wikidata.org/wiki/Q60206
+cpb-aacip-507-cf9j38m509-transcript.ann	T284	person	31899	31909	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T285	person	31921	31935	Secretary Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T286	person	32125	32135	DAN EPHRON		
+cpb-aacip-507-cf9j38m509-transcript.ann	T287	location	32197	32210	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T288	location	32432	32445	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T289	person	32673	32687	Secretary Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T290	organization	32706	32725	Bush administration	https://en.wikipedia.org/wiki/Presidency_of_George_W._Bush	https://www.wikidata.org/wiki/Q1719918
+cpb-aacip-507-cf9j38m509-transcript.ann	T291	person	32840	32857	President Mubarak	https://en.wikipedia.org/wiki/Hosni_Mubarak	https://www.wikidata.org/wiki/Q34105
+cpb-aacip-507-cf9j38m509-transcript.ann	T292	person	32866	32894	Egyptian President's Mubarak	https://en.wikipedia.org/wiki/Hosni_Mubarak	https://www.wikidata.org/wiki/Q34105
+cpb-aacip-507-cf9j38m509-transcript.ann	T293	person	32942	32955	ecretary Rice	https://en.wikipedia.org/wiki/Condoleezza_Rice	https://www.wikidata.org/wiki/Q47216
+cpb-aacip-507-cf9j38m509-transcript.ann	T294	person	33049	33066	President Mubarak	https://en.wikipedia.org/wiki/Hosni_Mubarak	https://www.wikidata.org/wiki/Q34105
+cpb-aacip-507-cf9j38m509-transcript.ann	T295	person	33070	33080	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-cf9j38m509-transcript.ann	T296	person	33082	33092	Dan Ephron		
+cpb-aacip-507-cf9j38m509-transcript.ann	T297	title	33099	33116	Newsweek Magazine	https://en.wikipedia.org/wiki/Newsweek	https://www.wikidata.org/wiki/Q188413
+cpb-aacip-507-cf9j38m509-transcript.ann	T298	person	33146	33156	DAN EPHRON		
+cpb-aacip-507-cf9j38m509-transcript.ann	T299	title	33171	33193	FOCUS - MEDICAL ERRORS		
+cpb-aacip-507-cf9j38m509-transcript.ann	T300	person	33195	33205	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T301	person	33279	33292	Susan Dentzer	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T302	organization	33414	33447	Henry J. Kaiser Family Foundation	https://en.wikipedia.org/wiki/Kaiser_Family_Foundation	https://www.wikidata.org/wiki/Q1721589
+cpb-aacip-507-cf9j38m509-transcript.ann	T303	person	33451	33468	DR. ROSS FLETCHER		
+cpb-aacip-507-cf9j38m509-transcript.ann	T304	person	33484	33496	Mr. Hilliard		
+cpb-aacip-507-cf9j38m509-transcript.ann	T305	person	33519	33532	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T306	person	33539	33556	Dr. Ross Fletcher		
+cpb-aacip-507-cf9j38m509-transcript.ann	T307	organization	33585	33633	Washington, DC Veterans' Administration Hospital	https://en.wikipedia.org/wiki/List_of_Veterans_Affairs_medical_facilities	https://www.wikidata.org/wiki/Q6603477
+cpb-aacip-507-cf9j38m509-transcript.ann	T308	person	33849	33866	DR. ROSS FLETCHER		
+cpb-aacip-507-cf9j38m509-transcript.ann	T309	person	33890	33903	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T310	person	34015	34023	Fletcher		
+cpb-aacip-507-cf9j38m509-transcript.ann	T311	organization	34033	34035	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T312	person	34062	34079	DR. ROSS FLETCHER		
+cpb-aacip-507-cf9j38m509-transcript.ann	T313	person	34584	34597	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T314	organization	34603	34605	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T315	organization	34915	34936	Institute of Medicine	https://en.wikipedia.org/wiki/National_Academy_of_Medicine	https://www.wikidata.org/wiki/Q4352382
+cpb-aacip-507-cf9j38m509-transcript.ann	T316	title	34946	34961	to err is human	https://en.wikipedia.org/wiki/To_Err_Is_Human_(report)	https://www.wikidata.org/wiki/Q7810920
+cpb-aacip-507-cf9j38m509-transcript.ann	T317	location	35015	35019	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T318	person	35213	35229	Dr. Lucian Leape	https://en.wikipedia.org/wiki/Lucian_Leape	https://www.wikidata.org/wiki/Q6696712
+cpb-aacip-507-cf9j38m509-transcript.ann	T319	organization	35237	35268	Harvard School of Public Health	https://en.wikipedia.org/wiki/Harvard_T.H._Chan_School_of_Public_Health	https://www.wikidata.org/wiki/Q5676556
+cpb-aacip-507-cf9j38m509-transcript.ann	T320	person	35272	35288	DR. LUCIAN LEAPE	https://en.wikipedia.org/wiki/Lucian_Leape	https://www.wikidata.org/wiki/Q6696712
+cpb-aacip-507-cf9j38m509-transcript.ann	T321	organization	35294	35315	Institute of Medicine	https://en.wikipedia.org/wiki/National_Academy_of_Medicine	https://www.wikidata.org/wiki/Q4352382
+cpb-aacip-507-cf9j38m509-transcript.ann	T322	person	35551	35564	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T323	person	35570	35575	Leape	https://en.wikipedia.org/wiki/Lucian_Leape	https://www.wikidata.org/wiki/Q6696712
+cpb-aacip-507-cf9j38m509-transcript.ann	T324	person	35655	35672	DR. ROSS FLETCHER		
+cpb-aacip-507-cf9j38m509-transcript.ann	T325	organization	35701	35709	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T326	person	35822	35835	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T327	person	35847	35865	Dr. Robert Wachter	https://en.wikipedia.org/wiki/Robert_M._Wachter	https://www.wikidata.org/wiki/Q7347190
+cpb-aacip-507-cf9j38m509-transcript.ann	T328	organization	35873	35897	University of California	https://en.wikipedia.org/wiki/University_of_California	https://www.wikidata.org/wiki/Q184478
+cpb-aacip-507-cf9j38m509-transcript.ann	T329	location	35901	35914	San Francisco	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+cpb-aacip-507-cf9j38m509-transcript.ann	T329	location	35901	35914	San Francisco	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+cpb-aacip-507-cf9j38m509-transcript.ann	T329	location	35901	35914	San Francisco	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+cpb-aacip-507-cf9j38m509-transcript.ann	T330	person	35955	35973	DR. ROBERT WACHTER	https://en.wikipedia.org/wiki/Robert_M._Wachter	https://www.wikidata.org/wiki/Q7347190
+cpb-aacip-507-cf9j38m509-transcript.ann	T331	person	36231	36244	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T332	organization	36374	36376	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T333	person	36413	36432	Dr. Jonathan Perlin		
+cpb-aacip-507-cf9j38m509-transcript.ann	T334	organization	36448	36450	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T335	person	36511	36530	DR. JONATHAN PERLIN		
+cpb-aacip-507-cf9j38m509-transcript.ann	T336	organization	36572	36574	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T337	person	36780	36793	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T338	organization	36852	36854	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T339	person	36903	36915	James Bagian	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T340	person	36937	36943	Bagian	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T341	organization	36997	37001	NASA	https://en.wikipedia.org/wiki/NASA	https://www.wikidata.org/wiki/Q23548
+cpb-aacip-507-cf9j38m509-transcript.ann	T342	person	37072	37084	JAMES BAGIAN	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T343	person	37322	37335	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T344	person	37596	37608	JAMES BAGIAN	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T345	person	37863	37876	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T346	person	37878	37884	Bagian	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T347	organization	37919	37921	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T348	organization	38045	38047	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T349	organization	38116	38118	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T350	person	38378	38390	JAMES BAGIAN	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T351	person	38651	38664	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T352	person	38666	38672	Bagian	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T353	person	38724	38736	JAMES BAGIAN	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T354	person	38799	38812	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T355	organization	38814	38816	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T356	person	39025	39031	Bagian	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T357	location	39130	39134	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T358	organization	39303	39365	Joint Commission for Accreditation of Healthcare Organizations	https://en.wikipedia.org/wiki/Joint_Commission	https://www.wikidata.org/wiki/Q1703687
+cpb-aacip-507-cf9j38m509-transcript.ann	T359	person	39434	39440	Bagian	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T360	organization	39456	39458	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T361	person	39530	39542	JAMES BAGIAN	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T362	person	39816	39829	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T363	title	39957	39972	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T364	person	39992	40006	William Dreyer		
+cpb-aacip-507-cf9j38m509-transcript.ann	T365	title	40120	40135	Social Security	https://en.wikipedia.org/wiki/Social_Security_(United_States)	https://www.wikidata.org/wiki/Q12184791
+cpb-aacip-507-cf9j38m509-transcript.ann	T366	person	40146	40159	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T367	organization	40229	40268	Washington, DC Veterans' Medical Center	https://en.wikipedia.org/wiki/List_of_Veterans_Affairs_medical_facilities	https://www.wikidata.org/wiki/Q6603477
+cpb-aacip-507-cf9j38m509-transcript.ann	T368	person	40270	40276	Bagian	https://en.wikipedia.org/wiki/James_P._Bagian	https://www.wikidata.org/wiki/Q718630
+cpb-aacip-507-cf9j38m509-transcript.ann	T369	organization	40331	40333	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T370	organization	40441	40443	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T371	location	40638	40642	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T372	organization	40660	40662	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T373	organization	41094	41096	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T374	organization	41207	41209	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T375	person	41330	41336	Perlin		
+cpb-aacip-507-cf9j38m509-transcript.ann	T376	person	41378	41397	DR. JONATHAN PERLIN		
+cpb-aacip-507-cf9j38m509-transcript.ann	T377	organization	41423	41425	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T378	person	41537	41550	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T379	organization	41776	41778	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T380	organization	41891	41893	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T381	person	41896	41915	DR. JONATHAN PERLIN		
+cpb-aacip-507-cf9j38m509-transcript.ann	T382	person	42161	42174	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T383	organization	42202	42215	Washington VA	https://en.wikipedia.org/wiki/List_of_Veterans_Affairs_medical_facilities	https://www.wikidata.org/wiki/Q6603477
+cpb-aacip-507-cf9j38m509-transcript.ann	T384	person	42227	42243	Charles Hilliard		
+cpb-aacip-507-cf9j38m509-transcript.ann	T385	person	42285	42300	CHARLES HILLARD		
+cpb-aacip-507-cf9j38m509-transcript.ann	T386	person	42316	42325	Hilliards		
+cpb-aacip-507-cf9j38m509-transcript.ann	T387	person	42440	42453	SUSAN DENTZER	https://en.wikipedia.org/wiki/Susan_Dentzer	https://www.wikidata.org/wiki/Q7647748
+cpb-aacip-507-cf9j38m509-transcript.ann	T388	organization	42459	42461	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T389	organization	42763	42765	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T390	organization	42857	42865	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T391	organization	42892	42894	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T392	organization	43132	43134	VA	https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs	https://www.wikidata.org/wiki/Q592576
+cpb-aacip-507-cf9j38m509-transcript.ann	T393	location	43358	43362	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T394	title	43398	43425	FOCUS - PATRIOTIC SPECTACLE		
+cpb-aacip-507-cf9j38m509-transcript.ann	T395	person	43427	43437	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T396	event	43468	43478	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T397	person	43511	43524	Terence Smith	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T398	person	43607	43613	McNabb	https://en.wikipedia.org/wiki/Donovan_McNabb	https://www.wikidata.org/wiki/Q963185
+cpb-aacip-507-cf9j38m509-transcript.ann	T399	person	43666	43679	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T400	organization	43812	43824	Philadelphia	https://en.wikipedia.org/wiki/Philadelphia	https://www.wikidata.org/wiki/Q1345
+cpb-aacip-507-cf9j38m509-transcript.ann	T401	person	43828	43841	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T402	organization	43849	43861	Philadelphia	https://en.wikipedia.org/wiki/Philadelphia	https://www.wikidata.org/wiki/Q1345
+cpb-aacip-507-cf9j38m509-transcript.ann	T403	person	43905	43915	Greg Lewis	https://en.wikipedia.org/wiki/Greg_Lewis_(wide_receiver)	https://www.wikidata.org/wiki/Q1544953
+cpb-aacip-507-cf9j38m509-transcript.ann	T404	organization	43964	43975	New England	https://en.wikipedia.org/wiki/New_England	https://www.wikidata.org/wiki/Q18389
+cpb-aacip-507-cf9j38m509-transcript.ann	T405	organization	44001	44009	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T406	person	44024	44038	Donovan McNabb	https://en.wikipedia.org/wiki/Donovan_McNabb	https://www.wikidata.org/wiki/Q963185
+cpb-aacip-507-cf9j38m509-transcript.ann	T407	organization	44147	44155	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T408	organization	44186	44194	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T409	location	44319	44332	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T410	organization	44373	44395	Neilson Media Research	https://en.wikipedia.org/wiki/Nielsen_Media_Research	https://www.wikidata.org/wiki/Q699413
+cpb-aacip-507-cf9j38m509-transcript.ann	T411	person	44505	44519	Paul McCartney	https://en.wikipedia.org/wiki/Paul_McCartney	https://www.wikidata.org/wiki/Q2599
+cpb-aacip-507-cf9j38m509-transcript.ann	T412	person	44613	44626	Janet Jackson	https://en.wikipedia.org/wiki/Janet_Jackson	https://www.wikidata.org/wiki/Q131324
+cpb-aacip-507-cf9j38m509-transcript.ann	T413	person	44707	44724	Justin Timberlake	https://en.wikipedia.org/wiki/Justin_Timberlake	https://www.wikidata.org/wiki/Q43432
+cpb-aacip-507-cf9j38m509-transcript.ann	T414	organization	44805	44808	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T415	organization	44816	44849	Federal Communications Commission	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-cf9j38m509-transcript.ann	T416	organization	44853	44861	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T417	product	44894	44903	Bud Light		
+cpb-aacip-507-cf9j38m509-transcript.ann	T418	person	44907	44920	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T419	event	45064	45084	Janet Jackson moment	https://en.wikipedia.org/wiki/Super_Bowl_XXXVIII_halftime_show_controversy	https://www.wikidata.org/wiki/Q541283
+cpb-aacip-507-cf9j38m509-transcript.ann	T420	organization	45165	45171	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-cf9j38m509-transcript.ann	T421	person	45309	45322	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T422	organization	45343	45351	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T423	event	45384	45394	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T424	person	45443	45457	John Feinstein	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T425	organization	45493	45509	Baltimore Ravens	https://en.wikipedia.org/wiki/Baltimore_Ravens	https://www.wikidata.org/wiki/Q276539
+cpb-aacip-507-cf9j38m509-transcript.ann	T426	person	45512	45516	John	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T427	person	45561	45575	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T428	organization	45593	45596	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T429	person	45604	45618	Paul Tagliabue	https://en.wikipedia.org/wiki/Paul_Tagliabue	https://www.wikidata.org/wiki/Q935259
+cpb-aacip-507-cf9j38m509-transcript.ann	T430	event	45744	45764	Janet Jackson moment	https://en.wikipedia.org/wiki/Super_Bowl_XXXVIII_halftime_show_controversy	https://www.wikidata.org/wiki/Q541283
+cpb-aacip-507-cf9j38m509-transcript.ann	T431	person	45833	45851	Nicolette Sheridan	https://en.wikipedia.org/wiki/Nicollette_Sheridan	https://www.wikidata.org/wiki/Q229440
+cpb-aacip-507-cf9j38m509-transcript.ann	T432	organization	45870	45889	Philadelphia Eagles	https://en.wikipedia.org/wiki/Philadelphia_Eagles	https://www.wikidata.org/wiki/Q219714
+cpb-aacip-507-cf9j38m509-transcript.ann	T433	person	45908	45921	Terrell Owens	https://en.wikipedia.org/wiki/Terrell_Owens	https://www.wikidata.org/wiki/Q1395269
+cpb-aacip-507-cf9j38m509-transcript.ann	T434	person	45952	45961	Tagliabue	https://en.wikipedia.org/wiki/Paul_Tagliabue	https://www.wikidata.org/wiki/Q935259
+cpb-aacip-507-cf9j38m509-transcript.ann	T435	organization	46059	46078	Philadelphia Eagles	https://en.wikipedia.org/wiki/Philadelphia_Eagles	https://www.wikidata.org/wiki/Q219714
+cpb-aacip-507-cf9j38m509-transcript.ann	T436	organization	46199	46202	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T437	person	46328	46342	Paul Tagliabue	https://en.wikipedia.org/wiki/Paul_Tagliabue	https://www.wikidata.org/wiki/Q935259
+cpb-aacip-507-cf9j38m509-transcript.ann	T438	person	46403	46416	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T439	event	46430	46440	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T440	person	46508	46522	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T441	organization	46580	46583	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T442	person	46680	46690	Diana Ross	https://en.wikipedia.org/wiki/Diana_Ross	https://www.wikidata.org/wiki/Q36290
+cpb-aacip-507-cf9j38m509-transcript.ann	T443	organization	46802	46805	MTV	https://en.wikipedia.org/wiki/MTV	https://www.wikidata.org/wiki/Q43359
+cpb-aacip-507-cf9j38m509-transcript.ann	T444	person	46843	46860	Justin Timberlake	https://en.wikipedia.org/wiki/Justin_Timberlake	https://www.wikidata.org/wiki/Q43432
+cpb-aacip-507-cf9j38m509-transcript.ann	T445	person	46865	46878	Janet Jackson	https://en.wikipedia.org/wiki/Janet_Jackson	https://www.wikidata.org/wiki/Q131324
+cpb-aacip-507-cf9j38m509-transcript.ann	T446	organization	46908	46911	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-cf9j38m509-transcript.ann	T447	organization	46919	46922	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-cf9j38m509-transcript.ann	T448	organization	46986	46989	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T449	person	47044	47058	Paul McCartney	https://en.wikipedia.org/wiki/Paul_McCartney	https://www.wikidata.org/wiki/Q2599
+cpb-aacip-507-cf9j38m509-transcript.ann	T450	title	47109	47139	Why Don't We Do it in the Road	https://en.wikipedia.org/wiki/Why_Don%27t_We_Do_It_in_the_Road%3F	https://www.wikidata.org/wiki/Q2089654
+cpb-aacip-507-cf9j38m509-transcript.ann	T451	organization	47176	47179	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T452	person	47207	47220	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T453	person	47327	47341	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T454	organization	47444	47447	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T455	organization	47461	47464	Fox	https://en.wikipedia.org/wiki/Fox_Broadcasting_Company	https://www.wikidata.org/wiki/Q166419
+cpb-aacip-507-cf9j38m509-transcript.ann	T456	person	47529	47542	Mickey Rooney	https://en.wikipedia.org/wiki/Mickey_Rooney	https://www.wikidata.org/wiki/Q104081
+cpb-aacip-507-cf9j38m509-transcript.ann	T457	event	47572	47582	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T458	organization	47630	47633	Fox	https://en.wikipedia.org/wiki/Fox_Broadcasting_Company	https://www.wikidata.org/wiki/Q166419
+cpb-aacip-507-cf9j38m509-transcript.ann	T459	organization	47652	47655	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-cf9j38m509-transcript.ann	T460	person	47726	47740	Michael Powell	https://en.wikipedia.org/wiki/Michael_Powell_(lobbyist)	https://www.wikidata.org/wiki/Q1562548
+cpb-aacip-507-cf9j38m509-transcript.ann	T461	person	47912	47925	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T462	organization	47997	48000	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T463	person	48061	48075	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T464	organization	48143	48146	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T465	person	48156	48161	Terry	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T466	organization	48461	48464	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T467	organization	48479	48489	United Way	https://en.wikipedia.org/wiki/United_Way	https://www.wikidata.org/wiki/Q3050859
+cpb-aacip-507-cf9j38m509-transcript.ann	T468	organization	48647	48650	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T469	person	48836	48849	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T470	person	48970	48984	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T471	location	49093	49103	East Coast	https://en.wikipedia.org/wiki/East_Coast_of_the_United_States	https://www.wikidata.org/wiki/Q4268
+cpb-aacip-507-cf9j38m509-transcript.ann	T472	organization	49225	49233	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T473	organization	49293	49301	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T474	organization	49336	49343	Cowboys	https://en.wikipedia.org/wiki/Dallas_Cowboys	https://www.wikidata.org/wiki/Q204862
+cpb-aacip-507-cf9j38m509-transcript.ann	T475	organization	49354	49361	cowboys	https://en.wikipedia.org/wiki/Dallas_Cowboys	https://www.wikidata.org/wiki/Q204862
+cpb-aacip-507-cf9j38m509-transcript.ann	T476	location	49397	49404	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-cf9j38m509-transcript.ann	T477	organization	49547	49555	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T478	person	49606	49620	Bill Belichick	https://en.wikipedia.org/wiki/Bill_Belichick	https://www.wikidata.org/wiki/Q720027
+cpb-aacip-507-cf9j38m509-transcript.ann	T479	person	49690	49703	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T480	person	49756	49770	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T481	organization	49875	49878	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T482	organization	50262	50279	Green Bay Packers	https://en.wikipedia.org/wiki/Green_Bay_Packers	https://www.wikidata.org/wiki/Q213837
+cpb-aacip-507-cf9j38m509-transcript.ann	T483	person	50283	50297	Vince Lombardi	https://en.wikipedia.org/wiki/Vince_Lombardi	https://www.wikidata.org/wiki/Q553321
+cpb-aacip-507-cf9j38m509-transcript.ann	T484	organization	50334	50341	Packers	https://en.wikipedia.org/wiki/Green_Bay_Packers	https://www.wikidata.org/wiki/Q213837
+cpb-aacip-507-cf9j38m509-transcript.ann	T485	organization	50407	50410	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T486	person	50527	50540	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T487	person	50600	50614	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T488	organization	50645	50653	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T489	person	50658	50671	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T490	person	50695	50709	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T491	person	50857	50866	Tom Brady	https://en.wikipedia.org/wiki/Tom_Brady	https://www.wikidata.org/wiki/Q313381
+cpb-aacip-507-cf9j38m509-transcript.ann	T492	organization	50905	50908	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T493	person	50959	50973	Peyton Manning	https://en.wikipedia.org/wiki/Peyton_Manning	https://www.wikidata.org/wiki/Q7539
+cpb-aacip-507-cf9j38m509-transcript.ann	T494	organization	50981	50986	Colts	https://en.wikipedia.org/wiki/Indianapolis_Colts	https://www.wikidata.org/wiki/Q193753
+cpb-aacip-507-cf9j38m509-transcript.ann	T495	person	50990	51001	Troy Aikman	https://en.wikipedia.org/wiki/Troy_Aikman	https://www.wikidata.org/wiki/Q525002
+cpb-aacip-507-cf9j38m509-transcript.ann	T496	organization	51055	51062	Cowboys	https://en.wikipedia.org/wiki/Dallas_Cowboys	https://www.wikidata.org/wiki/Q204862
+cpb-aacip-507-cf9j38m509-transcript.ann	T497	organization	51317	51320	NFL	https://en.wikipedia.org/wiki/National_Football_League	https://www.wikidata.org/wiki/Q1215884
+cpb-aacip-507-cf9j38m509-transcript.ann	T498	organization	51325	51344	Washington Redskins	https://en.wikipedia.org/wiki/Washington_Commanders	https://www.wikidata.org/wiki/Q212654
+cpb-aacip-507-cf9j38m509-transcript.ann	T499	event	51353	51363	Super Bowl	https://en.wikipedia.org/wiki/Super_Bowl	https://www.wikidata.org/wiki/Q32096
+cpb-aacip-507-cf9j38m509-transcript.ann	T500	organization	51561	51569	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T501	organization	51823	51831	Redskins	https://en.wikipedia.org/wiki/Washington_Commanders	https://www.wikidata.org/wiki/Q212654
+cpb-aacip-507-cf9j38m509-transcript.ann	T502	person	51884	51897	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T503	person	51984	51998	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T504	organization	52289	52297	Patriots	https://en.wikipedia.org/wiki/New_England_Patriots	https://www.wikidata.org/wiki/Q193390
+cpb-aacip-507-cf9j38m509-transcript.ann	T505	person	52331	52342	Scott Pioli	https://en.wikipedia.org/wiki/Scott_Pioli	https://www.wikidata.org/wiki/Q2645734
+cpb-aacip-507-cf9j38m509-transcript.ann	T506	person	52368	52382	Bill Belichick	https://en.wikipedia.org/wiki/Bill_Belichick	https://www.wikidata.org/wiki/Q720027
+cpb-aacip-507-cf9j38m509-transcript.ann	T507	person	52430	52439	Belichick	https://en.wikipedia.org/wiki/Bill_Belichick	https://www.wikidata.org/wiki/Q720027
+cpb-aacip-507-cf9j38m509-transcript.ann	T508	person	52505	52516	Scott Pioli	https://en.wikipedia.org/wiki/Scott_Pioli	https://www.wikidata.org/wiki/Q2645734
+cpb-aacip-507-cf9j38m509-transcript.ann	T509	person	52546	52555	Belichick	https://en.wikipedia.org/wiki/Bill_Belichick	https://www.wikidata.org/wiki/Q720027
+cpb-aacip-507-cf9j38m509-transcript.ann	T510	person	52699	52708	Belichick	https://en.wikipedia.org/wiki/Bill_Belichick	https://www.wikidata.org/wiki/Q720027
+cpb-aacip-507-cf9j38m509-transcript.ann	T511	organization	52812	52821	Cleveland	https://en.wikipedia.org/wiki/Cleveland_Browns	https://www.wikidata.org/wiki/Q223527
+cpb-aacip-507-cf9j38m509-transcript.ann	T512	person	52909	52922	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T513	person	52924	52938	John Feinstein	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T514	person	52958	52972	JOHN FEINSTEIN	https://en.wikipedia.org/wiki/John_Feinstein	https://www.wikidata.org/wiki/Q6232897
+cpb-aacip-507-cf9j38m509-transcript.ann	T515	person	52985	52990	Terry	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-cf9j38m509-transcript.ann	T516	title	52994	52999	RECAP		
+cpb-aacip-507-cf9j38m509-transcript.ann	T517	person	53001	53011	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-cf9j38m509-transcript.ann	T518	person	53062	53076	President Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-cf9j38m509-transcript.ann	T519	organization	53108	53116	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-cf9j38m509-transcript.ann	T520	location	53155	53161	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-cf9j38m509-transcript.ann	T521	location	53270	53274	Iraq	https://en.wikipedia.org/wiki/Iraq	https://www.wikidata.org/wiki/Q796
+cpb-aacip-507-cf9j38m509-transcript.ann	T522	person	53334	53344	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148

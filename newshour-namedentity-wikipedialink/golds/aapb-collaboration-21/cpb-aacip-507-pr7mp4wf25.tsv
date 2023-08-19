@@ -1,0 +1,552 @@
+guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T1	person	2	12	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T2	person	32	42	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T3	title	51	59	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T4	location	126	139	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T5	person	158	170	Tom Oliphant	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T6	person	175	187	David Brooks	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T7	person	206	218	Mark Shields	https://en.wikipedia.org/wiki/Mark_Shields	https://www.wikidata.org/wiki/Q6769698
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T8	person	223	233	Paul Gigot	https://en.wikipedia.org/wiki/Paul_Gigot	https://www.wikidata.org/wiki/Q7150895
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T9	person	237	250	Terence Smith	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T10	event	293	312	TV morning news war		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T11	person	320	330	Ray Suarez	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T12	location	370	377	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T13	title	433	445	NEWS SUMMARY		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T14	person	447	457	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T15	person	459	476	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T16	location	880	891	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T17	person	894	911	PRESIDENT CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T18	person	1337	1350	George Orwell	https://en.wikipedia.org/wiki/George_Orwell	https://www.wikidata.org/wiki/Q3335
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T19	title	1354	1358	1984	https://en.wikipedia.org/wiki/Nineteen_Eighty-Four	https://www.wikidata.org/wiki/Q208460
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T20	person	1362	1372	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T21	organization	1462	1473	Wall Street	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T22	organization	1517	1545	Dow Jones Industrial Average	https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average	https://www.wikidata.org/wiki/Q180816
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T23	organization	1582	1594	NASDAQ Index	https://en.wikipedia.org/wiki/Nasdaq_Composite	https://www.wikidata.org/wiki/Q575782
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T24	organization	1786	1792	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T25	location	1861	1867	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T26	location	1876	1885	Caribbean	https://en.wikipedia.org/wiki/Caribbean	https://www.wikidata.org/wiki/Q664609
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T27	location	2081	2088	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T28	location	2119	2125	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T29	location	2207	2215	Chechnya	https://en.wikipedia.org/wiki/Chechnya	https://www.wikidata.org/wiki/Q5187
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T30	organization	2223	2240	Russian air force	https://en.wikipedia.org/wiki/Russian_Air_Force	https://www.wikidata.org/wiki/Q209833
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T31	location	2275	2281	Grozny	https://en.wikipedia.org/wiki/Grozny	https://www.wikidata.org/wiki/Q5196
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T32	location	2377	2383	Moscow	https://en.wikipedia.org/wiki/Moscow	https://www.wikidata.org/wiki/Q649
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T33	location	2385	2389	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T34	person	2390	2430	Deputy Secretary of State Strobe Talbott	https://en.wikipedia.org/wiki/Strobe_Talbott	https://www.wikidata.org/wiki/Q1287886
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T35	person	2440	2471	Russian Foreign Minister Ivanov	https://en.wikipedia.org/wiki/Igor_Ivanov	https://www.wikidata.org/wiki/Q378027
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T36	person	2505	2519	STROBE TALBOTT	https://en.wikipedia.org/wiki/Strobe_Talbott	https://www.wikidata.org/wiki/Q1287886
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T37	location	2540	2546	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T38	organization	2662	2680	Russian federation	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T39	organization	2736	2749	Russian state	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T40	location	2801	2814	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T41	location	2877	2883	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T42	person	3044	3054	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T43	location	3111	3120	Cleveland	https://en.wikipedia.org/wiki/Cleveland	https://www.wikidata.org/wiki/Q37320
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T44	person	3205	3224	Mayor Michael White	https://en.wikipedia.org/wiki/Michael_R._White_(politician)	https://www.wikidata.org/wiki/Q11989277
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T45	title	3299	3321	Cleveland Plain Dealer	https://en.wikipedia.org/wiki/The_Plain_Dealer	https://www.wikidata.org/wiki/Q286036
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T46	location	3407	3428	Columbine High School	https://en.wikipedia.org/wiki/Columbine_High_School	https://www.wikidata.org/wiki/Q1112675
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T47	location	3432	3440	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T48	location	3533	3546	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T49	organization	3608	3625	Dartmouth College	https://en.wikipedia.org/wiki/Dartmouth_College	https://www.wikidata.org/wiki/Q49116
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T50	location	3638	3643	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T51	person	3644	3667	Governor George W. Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T52	title	3779	3791	News Summary		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T53	person	3837	3856	Senator John Chafee	https://en.wikipedia.org/wiki/John_Chafee	https://www.wikidata.org/wiki/Q887338
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T54	person	3864	3870	Chafee	https://en.wikipedia.org/wiki/John_Chafee	https://www.wikidata.org/wiki/Q887338
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T55	person	4005	4022	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T56	organization	4056	4064	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T57	person	4103	4109	Chafee	https://en.wikipedia.org/wiki/John_Chafee	https://www.wikidata.org/wiki/Q887338
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T58	person	4160	4173	Payne Stewart	https://en.wikipedia.org/wiki/Payne_Stewart	https://www.wikidata.org/wiki/Q506891
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T59	location	4183	4190	Orlando	https://en.wikipedia.org/wiki/Orlando,_Florida	https://www.wikidata.org/wiki/Q49233
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T60	product	4241	4248	Learjet	https://en.wikipedia.org/wiki/Learjet	https://www.wikidata.org/wiki/Q1336983
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T61	location	4295	4307	South Dakota	https://en.wikipedia.org/wiki/South_Dakota	https://www.wikidata.org/wiki/Q1211
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T62	person	4317	4328	Tiger Woods	https://en.wikipedia.org/wiki/Tiger_Woods	https://www.wikidata.org/wiki/Q10993
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T63	person	4333	4345	Mark O'Meara	https://en.wikipedia.org/wiki/Mark_O%27Meara	https://www.wikidata.org/wiki/Q723911
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T64	person	4447	4454	Stewart	https://en.wikipedia.org/wiki/Payne_Stewart	https://www.wikidata.org/wiki/Q506891
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T65	product	4535	4542	Learjet	https://en.wikipedia.org/wiki/Learjet	https://www.wikidata.org/wiki/Q1336983
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T66	organization	4673	4688	New York Yankee	https://en.wikipedia.org/wiki/New_York_Yankees	https://www.wikidata.org/wiki/Q213417
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T67	location	4700	4708	Broadway	https://en.wikipedia.org/wiki/Broadway_(Manhattan)	https://www.wikidata.org/wiki/Q11260
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T68	event	4730	4742	World Series	https://en.wikipedia.org/wiki/World_Series	https://www.wikidata.org/wiki/Q265538
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T69	organization	4950	4957	Yankees	https://en.wikipedia.org/wiki/New_York_Yankees	https://www.wikidata.org/wiki/Q213417
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T70	event	4981	4993	World Series	https://en.wikipedia.org/wiki/World_Series	https://www.wikidata.org/wiki/Q265538
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T71	title	5036	5048	News Summary		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T72	organization	5077	5088	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T73	location	5092	5105	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T74	person	5119	5127	Oliphant	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T75	person	5132	5138	Brooks	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T76	event	5161	5177	morning news was		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T77	location	5204	5211	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T78	title	5215	5233	FOCUS - FACING OFF		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T79	person	5235	5245	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T80	organization	5333	5344	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T81	organization	5412	5429	Dartmouth College	https://en.wikipedia.org/wiki/Dartmouth_College	https://www.wikidata.org/wiki/Q49116
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T82	location	5433	5455	Hanover, New Hampshire	https://en.wikipedia.org/wiki/Hanover,_New_Hampshire	https://www.wikidata.org/wiki/Q131908
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T83	location	5457	5462	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T84	person	5463	5486	Governor George W. Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T85	location	5620	5633	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T86	organization	5725	5741	Republican Party	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T87	person	5824	5840	SEN. JOHN McCAIN	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T88	person	6222	6227	Cindy	https://en.wikipedia.org/wiki/Cindy_McCain	https://www.wikidata.org/wiki/Q240628
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T89	location	6290	6297	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T90	location	6446	6453	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T91	title	6802	6818	Second Amendment	https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution	https://www.wikidata.org/wiki/Q210645
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T92	person	6937	6953	SEN. ORRIN HATCH	https://en.wikipedia.org/wiki/Orrin_Hatch	https://www.wikidata.org/wiki/Q381157
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T93	title	7068	7084	second amendment	https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution	https://www.wikidata.org/wiki/Q210645
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T94	title	7233	7249	Second Amendment	https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution	https://www.wikidata.org/wiki/Q210645
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T95	event	8065	8077	war on drugs	https://en.wikipedia.org/wiki/War_on_drugs	https://www.wikidata.org/wiki/Q185517
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T96	person	8081	8091	ALAN KEYES	https://en.wikipedia.org/wiki/Alan_Keyes	https://www.wikidata.org/wiki/Q740470
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T97	person	8722	8731	Mr. Keyes	https://en.wikipedia.org/wiki/Alan_Keyes	https://www.wikidata.org/wiki/Q740470
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T98	person	8735	8745	ALAN KEYES	https://en.wikipedia.org/wiki/Alan_Keyes	https://www.wikidata.org/wiki/Q740470
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T99	person	8981	8991	GARY BAUER	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T100	location	9020	9037	Newport, Kentucky	https://en.wikipedia.org/wiki/Newport,_Kentucky	https://www.wikidata.org/wiki/Q1762809
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T101	location	9419	9432	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T102	organization	9486	9502	Founding Fathers	https://en.wikipedia.org/wiki/Founding_Fathers_of_the_United_States	https://www.wikidata.org/wiki/Q186539
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T103	person	9525	9538	Ronald Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T104	person	10132	10142	Mr. Forbes	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T105	organization	10162	10178	Republican Party	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T106	person	10266	10278	STEVE FORBES	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T107	person	10319	10332	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T108	location	10531	10543	Rhode Island	https://en.wikipedia.org/wiki/Rhode_Island	https://www.wikidata.org/wiki/Q1387
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T109	location	10771	10778	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T110	organization	11063	11073	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T111	person	11106	11119	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T112	person	11332	11345	Senator Hatch	https://en.wikipedia.org/wiki/Orrin_Hatch	https://www.wikidata.org/wiki/Q381157
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T113	person	11349	11365	SEN. ORRIN HATCH	https://en.wikipedia.org/wiki/Orrin_Hatch	https://www.wikidata.org/wiki/Q381157
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T114	title	11454	11462	IRS Code	https://en.wikipedia.org/wiki/Internal_Revenue_Service	https://www.wikidata.org/wiki/Q973587
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T114	title	11454	11462	IRS Code	https://en.wikipedia.org/wiki/Internal_Revenue_Code	https://www.wikidata.org/wiki/Q1666281
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T115	organization	11510	11513	IRS	https://en.wikipedia.org/wiki/Internal_Revenue_Service	https://www.wikidata.org/wiki/Q973587
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T116	organization	11665	11689	Senate Finance Committee	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Finance	https://www.wikidata.org/wiki/Q2985424
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T117	organization	11824	11832	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T118	location	11923	11930	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T119	person	11964	11980	SEN. JOHN McCAIN	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T120	organization	12379	12389	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T121	organization	12781	12795	Washington, DC	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T122	location	12928	12935	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T123	person	13033	13049	Ambassador Keyes	https://en.wikipedia.org/wiki/Alan_Keyes	https://www.wikidata.org/wiki/Q740470
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T124	person	13052	13062	ALAN KEYES	https://en.wikipedia.org/wiki/Alan_Keyes	https://www.wikidata.org/wiki/Q740470
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T125	person	13123	13127	Marx	https://en.wikipedia.org/wiki/Karl_Marx	https://www.wikidata.org/wiki/Q9061
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T126	person	13132	13137	Lenin	https://en.wikipedia.org/wiki/Vladimir_Lenin	https://www.wikidata.org/wiki/Q1394
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T127	title	13349	13361	Constitution	https://en.wikipedia.org/wiki/Constitution_of_the_United_States	https://www.wikidata.org/wiki/Q11698
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T128	person	14157	14173	Ambassador Keyes	https://en.wikipedia.org/wiki/Alan_Keyes	https://www.wikidata.org/wiki/Q740470
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T129	person	14196	14205	Mr. Bauer	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T130	person	14209	14219	GARY BAUER	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T131	location	14422	14429	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T132	person	14653	14658	Steve	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T133	person	14699	14704	Steve	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T134	person	14877	14889	STEVE FORBES	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T135	person	15126	15130	Gary	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T136	person	15267	15279	Daley family	https://en.wikipedia.org/wiki/Daley_family	https://www.wikidata.org/wiki/Q5210822
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T137	location	15283	15304	Exeter, New Hampshire	https://en.wikipedia.org/wiki/Exeter,_New_Hampshire	https://www.wikidata.org/wiki/Q990504
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T138	person	15399	15411	Daley family	https://en.wikipedia.org/wiki/Daley_family	https://www.wikidata.org/wiki/Q5210822
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T139	organization	15576	15579	IRS	https://en.wikipedia.org/wiki/Internal_Revenue_Service	https://www.wikidata.org/wiki/Q973587
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T140	person	16021	16031	Mr. Forbes	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T141	organization	16099	16108	Dartmouth	https://en.wikipedia.org/wiki/Dartmouth_College	https://www.wikidata.org/wiki/Q49116
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T142	title	16130	16152	FOCUS - POLITICAL WRAP		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T143	person	16154	16164	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T144	organization	16228	16237	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T145	title	16275	16287	Boston Globe	https://en.wikipedia.org/wiki/The_Boston_Globe	https://www.wikidata.org/wiki/Q824451
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T146	person	16299	16311	Tom Oliphant	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T147	person	16317	16329	David Brooks	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T148	title	16353	16368	Weekly Standard	https://en.wikipedia.org/wiki/The_Weekly_Standard	https://www.wikidata.org/wiki/Q1790889
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T149	person	16371	16383	Mark Shields	https://en.wikipedia.org/wiki/Mark_Shields	https://www.wikidata.org/wiki/Q6769698
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T150	person	16388	16398	Paul Gigot	https://en.wikipedia.org/wiki/Paul_Gigot	https://www.wikidata.org/wiki/Q7150895
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T151	person	16459	16462	Tom	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T152	person	16525	16537	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T153	person	16559	16563	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T154	person	16593	16606	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T155	person	16614	16625	John McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T156	location	16648	16661	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T157	person	16980	16986	McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T158	person	17156	17166	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T159	person	17179	17184	David	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T160	person	17188	17200	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T161	person	17269	17285	George W. (Bush)	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T162	location	17306	17312	Austin	https://en.wikipedia.org/wiki/Austin,_Texas	https://www.wikidata.org/wiki/Q16559
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T163	organization	17372	17383	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T164	person	17452	17466	George W. Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T165	person	17559	17562	Tom	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T166	person	17590	17601	John McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T167	person	17606	17617	George Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T168	person	17661	17673	New Gingrich	https://en.wikipedia.org/wiki/Newt_Gingrich	https://www.wikidata.org/wiki/Q182788
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T169	person	17678	17688	Dick Armey	https://en.wikipedia.org/wiki/Dick_Armey	https://www.wikidata.org/wiki/Q781336
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T170	person	17693	17708	Barry Goldwater	https://en.wikipedia.org/wiki/Barry_Goldwater	https://www.wikidata.org/wiki/Q319129
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T171	person	17803	17809	McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T172	person	17814	17818	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T173	person	18075	18090	Teddy Roosevelt	https://en.wikipedia.org/wiki/Theodore_Roosevelt	https://www.wikidata.org/wiki/Q33866
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T174	person	18092	18107	Abraham Lincoln	https://en.wikipedia.org/wiki/Abraham_Lincoln	https://www.wikidata.org/wiki/Q91
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T175	person	18132	18147	Teddy Roosevelt	https://en.wikipedia.org/wiki/Theodore_Roosevelt	https://www.wikidata.org/wiki/Q33866
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T176	event	18169	18182	San Juan Hill	https://en.wikipedia.org/wiki/Battle_of_San_Juan_Hill	https://www.wikidata.org/wiki/Q1215310
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T177	person	18306	18317	John McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T178	person	18348	18360	Steve Forbes	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T179	person	18490	18494	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T180	organization	18626	18642	Republican Party	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T181	person	18657	18669	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T182	organization	18738	18753	Forbes campaign		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T183	person	18841	18854	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T184	person	18860	18870	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T185	location	18875	18880	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T186	person	18884	18896	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T187	person	18953	18959	McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T188	person	19217	19230	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T189	person	19263	19273	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T190	person	19293	19296	Tom	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T191	person	19300	19312	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T192	person	19320	19326	McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T193	organization	19422	19430	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T194	person	19435	19442	Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T195	person	19718	19731	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T196	person	19793	19805	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T197	person	19932	19945	Governor Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T198	person	20038	20051	Newt Gingrich	https://en.wikipedia.org/wiki/Newt_Gingrich	https://www.wikidata.org/wiki/Q182788
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T199	person	20056	20066	Dick Armey	https://en.wikipedia.org/wiki/Dick_Armey	https://www.wikidata.org/wiki/Q781336
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T200	person	20133	20139	McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T201	person	20193	20197	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T202	person	20321	20327	McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T203	person	20447	20457	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T204	person	20547	20553	Forbes	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T205	person	20558	20563	Bauer	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T206	person	20642	20654	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T207	person	20889	20895	McCain	https://en.wikipedia.org/wiki/John_McCain	https://www.wikidata.org/wiki/Q10390
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T208	person	20900	20904	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T209	person	20921	20930	Goldwater	https://en.wikipedia.org/wiki/Barry_Goldwater	https://www.wikidata.org/wiki/Q319129
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T210	person	20942	20947	Bauer	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T211	person	20952	20958	Forbes	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T212	person	21099	21111	Steve Forbes	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T213	location	21233	21246	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T214	person	21268	21273	Bauer	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T215	person	21278	21283	Keyes	https://en.wikipedia.org/wiki/Alan_Keyes	https://www.wikidata.org/wiki/Q740470
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T216	person	21288	21293	Hatch	https://en.wikipedia.org/wiki/Orrin_Hatch	https://www.wikidata.org/wiki/Q381157
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T217	person	21376	21381	Bauer	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T218	person	21424	21430	Forbes	https://en.wikipedia.org/wiki/Steve_Forbes	https://www.wikidata.org/wiki/Q780842
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T219	person	21499	21511	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T220	person	21569	21574	Bauer	https://en.wikipedia.org/wiki/Gary_Bauer	https://www.wikidata.org/wiki/Q5524672
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T221	person	21740	21752	Pat Buchanan	https://en.wikipedia.org/wiki/Pat_Buchanan	https://www.wikidata.org/wiki/Q149127
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T222	person	21828	21838	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T223	person	21850	21862	Pat Buchanan	https://en.wikipedia.org/wiki/Pat_Buchanan	https://www.wikidata.org/wiki/Q149127
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T224	person	21872	21884	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T225	location	21998	22011	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T226	person	22137	22147	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T227	person	22211	22225	George W. Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T228	person	22295	22299	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T229	person	22314	22326	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T230	location	22462	22466	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T231	location	22673	22681	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T232	person	22714	22724	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T233	location	22728	22741	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T234	person	22752	22764	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T235	location	22766	22779	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T236	location	22998	23011	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T237	person	23040	23050	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T238	person	23076	23088	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T239	location	23153	23166	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T240	location	23238	23251	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T241	person	23420	23430	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T242	person	23455	23467	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T243	organization	23469	23473	NASA	https://en.wikipedia.org/wiki/NASA	https://www.wikidata.org/wiki/Q23548
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T244	person	23822	23832	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T245	organization	23838	23847	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T246	person	23872	23876	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T247	person	23898	23903	David	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T248	person	23906	23918	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T249	person	23983	23990	Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T250	person	24027	24034	Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T251	person	24126	24133	Al Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T252	product	24169	24175	Viagra	https://en.wikipedia.org/wiki/Sildenafil	https://www.wikidata.org/wiki/Q191521
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T253	person	24212	24222	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T254	product	24251	24257	Viagra	https://en.wikipedia.org/wiki/Sildenafil	https://www.wikidata.org/wiki/Q191521
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T255	person	24260	24272	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T256	person	24647	24654	Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T257	person	24729	24733	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T258	person	24762	24769	Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T259	person	24793	24797	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T260	product	24801	24812	Cheese Whiz	https://en.wikipedia.org/wiki/Cheez_Whiz	https://www.wikidata.org/wiki/Q536691
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T261	person	24866	24873	Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T262	person	24881	24891	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T263	person	24893	24896	Tom	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T264	person	24900	24912	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T265	person	24962	24972	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T266	person	24981	24993	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T267	person	25189	25193	Bush	https://en.wikipedia.org/wiki/George_W._Bush	https://www.wikidata.org/wiki/Q207
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T268	person	25249	25259	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T269	person	25305	25317	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T270	person	25345	25360	Senator Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T271	person	25405	25418	James K. Polk	https://en.wikipedia.org/wiki/James_K._Polk	https://www.wikidata.org/wiki/Q11891
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T272	person	25469	25482	James K. Polk	https://en.wikipedia.org/wiki/James_K._Polk	https://www.wikidata.org/wiki/Q11891
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T273	location	25588	25601	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T274	person	25853	25863	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T275	person	25889	25901	Bill Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T276	person	25905	25921	THOMAS PICKERING	https://en.wikipedia.org/wiki/Thomas_R._Pickering	https://www.wikidata.org/wiki/Q968268
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T277	person	26140	26144	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T278	location	26250	26263	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T279	person	26290	26295	David	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T280	person	26319	26331	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T281	person	26372	26384	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T282	person	26515	26519	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T283	person	26528	26532	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T284	location	26689	26702	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T285	person	27092	27096	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T286	person	27203	27207	Ford	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T287	person	27208	27214	Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T288	person	27309	27319	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T289	person	27535	27547	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T290	person	27583	27587	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T291	location	27591	27604	New Hampshire	https://en.wikipedia.org/wiki/New_Hampshire	https://www.wikidata.org/wiki/Q759
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T292	location	27609	27613	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T293	person	27709	27719	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T294	person	27735	27740	David	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T295	person	27752	27755	Tom	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T296	person	27791	27803	DAVID BROOKS	https://en.wikipedia.org/wiki/David_Brooks_(commentator)	https://www.wikidata.org/wiki/Q938475
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T297	person	27906	27910	Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T298	person	28201	28208	Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T299	person	28245	28252	Bradley	https://en.wikipedia.org/wiki/Bill_Bradley	https://www.wikidata.org/wiki/Q504025
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T300	person	28319	28331	TOM OLIPHANT	https://en.wikipedia.org/wiki/Thomas_Oliphant	https://www.wikidata.org/wiki/Q7792873
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T301	person	28344	28354	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T302	title	28408	28433	FOCUS - MORNING NEWS WARS		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T303	person	28435	28445	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T304	title	28468	28476	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T305	event	28490	28507	morning news wars		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T306	location	28529	28536	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T307	person	28539	28549	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T308	person	28571	28584	Terence Smith	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T309	person	28614	28627	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T310	organization	28655	28663	CBS News	https://en.wikipedia.org/wiki/CBS_News	https://www.wikidata.org/wiki/Q861764
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T311	location	28788	28801	New York City	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T312	event	28873	28901	morning news television wars		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T313	person	28928	28941	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T314	person	28955	28967	Jane Clayson	https://en.wikipedia.org/wiki/Jane_Clayson_Johnson	https://www.wikidata.org/wiki/Q6151252
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T315	location	29152	29164	Fifth Avenue	https://en.wikipedia.org/wiki/Fifth_Avenue	https://www.wikidata.org/wiki/Q109858
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T316	location	29258	29270	Times Square	https://en.wikipedia.org/wiki/Times_Square	https://www.wikidata.org/wiki/Q11259
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T317	person	29273	29287	CHARLIE GIBSON	https://en.wikipedia.org/wiki/Charles_Gibson	https://www.wikidata.org/wiki/Q1656923
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T318	person	29345	29358	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T319	person	29360	29374	Charlie Gibson	https://en.wikipedia.org/wiki/Charles_Gibson	https://www.wikidata.org/wiki/Q1656923
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T320	person	29379	29391	Diane Sawyer	https://en.wikipedia.org/wiki/Diane_Sawyer	https://www.wikidata.org/wiki/Q236402
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T321	organization	29395	29398	ABC	https://en.wikipedia.org/wiki/American_Broadcasting_Company	https://www.wikidata.org/wiki/Q169889
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T322	title	29459	29479	Good Morning America	https://en.wikipedia.org/wiki/Good_Morning_America	https://www.wikidata.org/wiki/Q825946
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T323	person	29523	29533	MATT LAUER	https://en.wikipedia.org/wiki/Matt_Lauer	https://www.wikidata.org/wiki/Q1100609
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T324	person	29539	29549	Matt Lauer	https://en.wikipedia.org/wiki/Matt_Lauer	https://www.wikidata.org/wiki/Q1100609
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T325	person	29561	29573	Katie Couric	https://en.wikipedia.org/wiki/Katie_Couric	https://www.wikidata.org/wiki/Q230739
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T326	person	29622	29635	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T327	organization	29641	29644	NBC	https://en.wikipedia.org/wiki/NBC	https://www.wikidata.org/wiki/Q13974
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T328	title	29647	29657	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T329	location	29742	29760	Rockefeller Center	https://en.wikipedia.org/wiki/Rockefeller_Center	https://www.wikidata.org/wiki/Q11277
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T330	person	29763	29777	STEVE FRIEDMAN	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T331	person	29890	29903	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T332	person	29924	29938	Steve Friedman	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T333	title	29961	29971	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T334	organization	30055	30063	CBS News	https://en.wikipedia.org/wiki/CBS_News	https://www.wikidata.org/wiki/Q861764
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T335	person	30164	30176	Katie Couric	https://en.wikipedia.org/wiki/Katie_Couric	https://www.wikidata.org/wiki/Q230739
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T336	person	30181	30191	Matt Lauer	https://en.wikipedia.org/wiki/Matt_Lauer	https://www.wikidata.org/wiki/Q1100609
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T337	title	30210	30220	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T338	person	30235	30243	Friedman	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T339	person	30260	30272	KATIE COURIC	https://en.wikipedia.org/wiki/Katie_Couric	https://www.wikidata.org/wiki/Q230739
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T340	person	30365	30375	MATT LAUER	https://en.wikipedia.org/wiki/Matt_Lauer	https://www.wikidata.org/wiki/Q1100609
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T341	person	30473	30487	STEVE FRIEDMAN	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T342	person	30731	30744	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T343	title	30887	30897	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T344	person	30961	30973	RICHARD HACK	https://en.wikipedia.org/wiki/Richard_Hack	https://www.wikidata.org/wiki/Q7326198
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T345	person	31328	31341	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T346	person	31350	31362	Richard Hack	https://en.wikipedia.org/wiki/Richard_Hack	https://www.wikidata.org/wiki/Q7326198
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T347	title	31387	31395	TV Guide	https://en.wikipedia.org/wiki/TV_Guide	https://www.wikidata.org/wiki/Q849887
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T348	title	31410	31432	Madness in the Morning		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T349	person	31619	31631	RICHARD HACK	https://en.wikipedia.org/wiki/Richard_Hack	https://www.wikidata.org/wiki/Q7326198
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T350	person	31981	31994	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T351	person	32051	32064	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T352	title	32090	32110	Good Morning America	https://en.wikipedia.org/wiki/Good_Morning_America	https://www.wikidata.org/wiki/Q825946
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T353	person	32353	32367	Steve Friedman	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T354	organization	32378	32381	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T355	person	32478	32492	STEVE FRIEDMAN	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T356	person	32716	32728	Diane Sawyer	https://en.wikipedia.org/wiki/Diane_Sawyer	https://www.wikidata.org/wiki/Q236402
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T357	person	32749	32762	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T358	organization	32785	32788	NBC	https://en.wikipedia.org/wiki/NBC	https://www.wikidata.org/wiki/Q13974
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T359	person	32794	32806	Katie Couric	https://en.wikipedia.org/wiki/Katie_Couric	https://www.wikidata.org/wiki/Q230739
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T360	organization	32852	32855	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T361	person	32961	32974	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T362	organization	32979	32982	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T363	person	33126	33139	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T364	person	33179	33192	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T365	person	33194	33200	Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T366	organization	33246	33249	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T367	title	33263	33273	Public Eye		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T368	person	33311	33324	BRYANT GUMBEL	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T369	organization	33347	33350	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T370	person	33469	33482	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T371	organization	33486	33489	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T372	person	33508	33521	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T373	organization	33529	33532	NBC	https://en.wikipedia.org/wiki/NBC	https://www.wikidata.org/wiki/Q13974
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T374	person	33541	33554	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T375	person	33556	33562	Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T376	person	33680	33694	Steve Friedman	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T377	person	33729	33743	STEVE FRIEDMAN	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T378	person	33745	33758	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T379	person	33904	33910	Bryant	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T380	person	33921	33927	Bryant	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T381	person	34037	34048	Sally Field	https://en.wikipedia.org/wiki/Sally_Field	https://www.wikidata.org/wiki/Q187033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T382	person	34059	34072	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T383	title	34149	34159	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T384	person	34195	34208	Dave Garroway	https://en.wikipedia.org/wiki/Dave_Garroway	https://www.wikidata.org/wiki/Q2377574
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T385	person	34235	34248	J. Fred Muggs	https://en.wikipedia.org/wiki/J._Fred_Muggs	https://www.wikidata.org/wiki/Q6105760
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T386	organization	34261	34264	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T387	person	34292	34307	Walter Cronkite	https://en.wikipedia.org/wiki/Walter_Cronkite	https://www.wikidata.org/wiki/Q31073
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T388	person	34450	34463	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T389	title	34469	34479	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T390	person	34562	34576	JACK LESCOULIE	https://en.wikipedia.org/wiki/Jack_Lescoulie	https://www.wikidata.org/wiki/Q3157247
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T391	location	34694	34705	49th Street	https://en.wikipedia.org/wiki/List_of_numbered_streets_in_Manhattan	https://www.wikidata.org/wiki/Q3278230
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T392	person	34753	34766	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T393	title	34792	34802	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T394	title	34936	34956	Good Morning America	https://en.wikipedia.org/wiki/Good_Morning_America	https://www.wikidata.org/wiki/Q825946
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T395	person	35053	35065	Diane Sawyer	https://en.wikipedia.org/wiki/Diane_Sawyer	https://www.wikidata.org/wiki/Q236402
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T396	person	35109	35121	DIANE SAWYER	https://en.wikipedia.org/wiki/Diane_Sawyer	https://www.wikidata.org/wiki/Q236402
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T397	person	35274	35286	Garth Brooks	https://en.wikipedia.org/wiki/Garth_Brooks	https://www.wikidata.org/wiki/Q216288
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T398	person	35401	35414	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T399	person	35416	35430	Charles Gibson	https://en.wikipedia.org/wiki/Charles_Gibson	https://www.wikidata.org/wiki/Q1656923
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T400	title	35441	35461	Good Morning America	https://en.wikipedia.org/wiki/Good_Morning_America	https://www.wikidata.org/wiki/Q825946
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T401	person	35558	35572	CHARLES GIBSON	https://en.wikipedia.org/wiki/Charles_Gibson	https://www.wikidata.org/wiki/Q1656923
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T402	person	35804	35817	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T403	person	35819	35825	Sawyer	https://en.wikipedia.org/wiki/Diane_Sawyer	https://www.wikidata.org/wiki/Q236402
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T404	person	35923	35937	Antonio Sabato	https://en.wikipedia.org/wiki/Antonio_Sab%C3%A0to_Jr.	https://www.wikidata.org/wiki/Q379461
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T405	person	36079	36085	SAWYER	https://en.wikipedia.org/wiki/Diane_Sawyer	https://www.wikidata.org/wiki/Q236402
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T406	person	36107	36120	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T407	organization	36137	36140	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T408	person	36190	36203	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T409	person	36224	36236	Jane Clayson	https://en.wikipedia.org/wiki/Jane_Clayson_Johnson	https://www.wikidata.org/wiki/Q6151252
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T410	person	36314	36326	BILL CARROLL		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T411	person	36371	36384	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T412	person	36386	36398	Bill Carroll		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T413	organization	36406	36427	Katz Television Group	https://en.wikipedia.org/wiki/Katz_Broadcasting	https://www.wikidata.org/wiki/Q19880682
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T414	organization	36505	36508	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T415	person	36629	36641	BILL CARROLL		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T416	organization	36718	36721	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T417	person	36939	36952	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T418	person	37020	37033	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T419	organization	37064	37067	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T420	person	37185	37197	BILL CARROLL		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T421	person	37234	37247	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T422	person	37315	37327	BILL CARROLL		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T423	title	37398	37422	Bryant Gumbel Early Show	https://en.wikipedia.org/wiki/The_Early_Show	https://www.wikidata.org/wiki/Q2172728
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T424	person	37441	37454	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T425	organization	37456	37459	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T426	person	37567	37580	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T427	person	37660	37673	BRYANT GUMBEL	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T428	person	37921	37934	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T429	person	37949	37957	Friedman	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T430	title	38131	38141	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T431	person	38163	38176	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T432	person	38205	38219	STEVE FRIEDMAN	https://en.wikipedia.org/wiki/Stephen_J._Friedman_(producer)	https://www.wikidata.org/wiki/Q4231940
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T433	title	38248	38258	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T434	person	38369	38382	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T435	person	38384	38396	Katie Couric	https://en.wikipedia.org/wiki/Katie_Couric	https://www.wikidata.org/wiki/Q230739
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T436	person	38416	38428	KATIE COURIC	https://en.wikipedia.org/wiki/Katie_Couric	https://www.wikidata.org/wiki/Q230739
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T437	person	38487	38500	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T438	person	38508	38520	KATIE COURIC	https://en.wikipedia.org/wiki/Katie_Couric	https://www.wikidata.org/wiki/Q230739
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T439	person	38851	38864	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T440	title	38870	38880	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T441	person	38978	38990	Mariah Carey	https://en.wikipedia.org/wiki/Mariah_Carey	https://www.wikidata.org/wiki/Q41076
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T442	organization	38992	38995	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T443	title	39024	39034	Early Show	https://en.wikipedia.org/wiki/The_Early_Show	https://www.wikidata.org/wiki/Q2172728
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T444	person	39042	39047	Carey	https://en.wikipedia.org/wiki/Mariah_Carey	https://www.wikidata.org/wiki/Q41076
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T445	location	39080	39092	Fifth Avenue	https://en.wikipedia.org/wiki/Fifth_Avenue	https://www.wikidata.org/wiki/Q109858
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T446	person	39138	39143	Carey	https://en.wikipedia.org/wiki/Mariah_Carey	https://www.wikidata.org/wiki/Q41076
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T447	title	39174	39183	Today Sow	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T448	person	39186	39196	MATT LAUER	https://en.wikipedia.org/wiki/Matt_Lauer	https://www.wikidata.org/wiki/Q1100609
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T449	person	39282	39295	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T450	organization	39400	39403	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T451	person	39412	39424	Richard Hack	https://en.wikipedia.org/wiki/Richard_Hack	https://www.wikidata.org/wiki/Q7326198
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T452	person	39442	39454	RICHARD HACK	https://en.wikipedia.org/wiki/Richard_Hack	https://www.wikidata.org/wiki/Q7326198
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T453	organization	39470	39473	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T454	title	39486	39496	Early Show	https://en.wikipedia.org/wiki/The_Early_Show	https://www.wikidata.org/wiki/Q2172728
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T455	person	39551	39564	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T456	organization	39619	39622	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T457	title	39825	39835	Today Show	https://en.wikipedia.org/wiki/Today_(American_TV_program)	https://www.wikidata.org/wiki/Q130838
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T458	title	39856	39876	Good Morning America	https://en.wikipedia.org/wiki/Good_Morning_America	https://www.wikidata.org/wiki/Q825946
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T459	organization	39895	39898	CNN	https://en.wikipedia.org/wiki/CNN	https://www.wikidata.org/wiki/Q48340
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T460	organization	39915	39918	CNN	https://en.wikipedia.org/wiki/CNN	https://www.wikidata.org/wiki/Q48340
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T461	organization	39939	39942	CNN	https://en.wikipedia.org/wiki/CNN	https://www.wikidata.org/wiki/Q48340
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T462	person	39945	39958	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T463	person	39964	39977	Bryant Gumbel	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T464	organization	40014	40017	CBS	https://en.wikipedia.org/wiki/CBS	https://www.wikidata.org/wiki/Q43380
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T465	person	40048	40061	BRYANT GUMBEL	https://en.wikipedia.org/wiki/Bryant_Gumbel	https://www.wikidata.org/wiki/Q4980575
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T466	person	40188	40201	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T467	organization	40234	40242	CBS News	https://en.wikipedia.org/wiki/CBS_News	https://www.wikidata.org/wiki/Q861764
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T468	title	40421	40433	CONVERSATION		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T469	person	40435	40445	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T470	location	40477	40484	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T471	location	40501	40511	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T472	person	40513	40523	Ray Suarez	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T473	person	40542	40552	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T474	location	40745	40752	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T475	location	40778	40788	California	https://en.wikipedia.org/wiki/California	https://www.wikidata.org/wiki/Q99
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T476	location	40997	41004	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T477	location	41089	41096	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T478	person	41176	41190	Ken Siro- Wiwa	https://en.wikipedia.org/wiki/Ken_Saro-Wiwa	https://www.wikidata.org/wiki/Q316292
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T479	location	41253	41260	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T480	person	41367	41386	General Sani Abacha	https://en.wikipedia.org/wiki/Sani_Abacha	https://www.wikidata.org/wiki/Q207942
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T481	person	41481	41506	General Olusegun Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T482	person	41555	41563	Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T483	person	41712	41720	Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T484	person	41891	41899	Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T485	person	41935	41952	OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T486	location	41968	41975	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T487	person	42033	42050	Olusegun Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T488	person	42070	42080	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T489	person	42103	42111	Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T490	person	42264	42281	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T491	location	42398	42405	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T492	person	42425	42442	PRESIDENT CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T493	person	42444	42462	President Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T494	location	42508	42515	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T495	location	42536	42542	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T496	location	42563	42570	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T497	location	42588	42595	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T498	location	42699	42706	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T499	location	42860	42867	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T500	location	42979	42986	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T501	location	42995	43001	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T502	person	43004	43014	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T503	person	43016	43034	President Obasanjo	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T504	location	43198	43205	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T505	location	43221	43227	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T506	person	43240	43250	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T507	location	43291	43298	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T508	person	43392	43409	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T509	person	43591	43618	PRESIDENT OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T510	person	43626	43643	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T511	location	43736	43743	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T512	location	44001	44008	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T513	location	44190	44197	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T514	person	44305	44315	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T515	organization	44352	44362	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T516	location	44383	44389	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T517	location	44419	44426	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T518	person	44440	44467	PRESIDENT OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T519	location	44475	44481	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T520	person	45227	45237	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T521	location	45294	45300	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T522	location	45472	45479	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T523	person	45535	45562	PRESIDENT OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T524	person	45843	45853	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T525	location	45968	45974	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T526	location	46032	46039	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T527	location	46044	46056	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T528	person	46221	46248	PRESIDENT OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T529	location	46290	46297	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T530	location	46400	46407	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T531	location	46544	46556	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T532	location	46561	46568	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T533	person	46704	46714	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T534	person	46898	46912	General Abacha	https://en.wikipedia.org/wiki/Sani_Abacha	https://www.wikidata.org/wiki/Q207942
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T535	person	46944	46971	PRESIDENT OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T536	person	47137	47143	Abacha	https://en.wikipedia.org/wiki/Sani_Abacha	https://www.wikidata.org/wiki/Q207942
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T537	location	47294	47301	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T538	person	47659	47669	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T539	product	48018	48031	Mercedes Benz	https://en.wikipedia.org/wiki/List_of_Mercedes-Benz_vehicles	https://www.wikidata.org/wiki/Q722075
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T540	person	48105	48132	PRESIDENT OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T541	location	48362	48369	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T542	location	48813	48820	Nigeria	https://en.wikipedia.org/wiki/Nigeria	https://www.wikidata.org/wiki/Q1033
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T543	person	48987	48997	RAY SUAREZ	https://en.wikipedia.org/wiki/Ray_Suarez	https://www.wikidata.org/wiki/Q7298172
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T544	person	49081	49108	PRESIDENT OLUSEGUN OBASANJO	https://en.wikipedia.org/wiki/Olusegun_Obasanjo	https://www.wikidata.org/wiki/Q202006
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T545	title	49133	49138	RECAP		
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T546	person	49140	49150	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T547	person	49193	49210	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T548	location	49354	49360	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T549	location	49442	49450	Chechnya	https://en.wikipedia.org/wiki/Chechnya	https://www.wikidata.org/wiki/Q5187
+cpb-aacip-507-pr7mp4wf25-transcript.ann	T550	person	49531	49541	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148

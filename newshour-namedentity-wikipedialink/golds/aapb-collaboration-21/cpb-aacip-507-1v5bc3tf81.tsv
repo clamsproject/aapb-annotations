@@ -1,0 +1,611 @@
+guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T1	person	2	12	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T2	person	32	42	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T3	title	51	59	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T4	event	84	121	Salt Lake City Olympics investigation	https://en.wikipedia.org/wiki/2002_Winter_Olympic_bid_scandal	https://www.wikidata.org/wiki/Q3081777
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T5	organization	235	241	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T6	location	245	252	Seattle	https://en.wikipedia.org/wiki/Seattle	https://www.wikidata.org/wiki/Q5083
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T7	location	279	287	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T8	person	323	333	Henry Kamm	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T9	title	389	401	NEWS SUMMARY		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T10	person	403	413	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T11	location	486	500	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T12	event	509	534	2002 Winter Olympic Games	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T13	organization	584	606	U.S. Olympic Committee	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T14	location	638	652	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T15	organization	685	716	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T16	organization	786	789	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T17	location	911	921	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T18	organization	836	842	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T19	person	859	874	George Mitchell	https://en.wikipedia.org/wiki/George_J._Mitchell	https://www.wikidata.org/wiki/Q368920
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T20	person	965	980	GEORGE MITCHELL	https://en.wikipedia.org/wiki/George_J._Mitchell	https://www.wikidata.org/wiki/Q368920
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T21	person	1445	1455	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T22	title	1503	1515	News Summary		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T23	location	1551	1560	Northwest	https://en.wikipedia.org/wiki/Northwestern_United_States	https://www.wikidata.org/wiki/Q944857
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T24	location	1631	1637	Oregon	https://en.wikipedia.org/wiki/Oregon	https://www.wikidata.org/wiki/Q824
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T25	location	1642	1652	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T26	organization	1654	1665	Coast Guard	https://en.wikipedia.org/wiki/United_States_Coast_Guard	https://www.wikidata.org/wiki/Q11224
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T27	location	1712	1718	Oregon	https://en.wikipedia.org/wiki/Oregon	https://www.wikidata.org/wiki/Q824
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T28	location	1755	1771	Washington State	https://en.wikipedia.org/wiki/Washington_(state)	https://www.wikidata.org/wiki/Q1223
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T29	location	1831	1840	Southeast	https://en.wikipedia.org/wiki/Southeastern_United_States	https://www.wikidata.org/wiki/Q1139046
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T30	location	1899	1907	Virginia	https://en.wikipedia.org/wiki/Virginia	https://www.wikidata.org/wiki/Q1370
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T31	location	2132	2137	Yemen	https://en.wikipedia.org/wiki/Yemen	https://www.wikidata.org/wiki/Q805
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T32	location	2165	2182	Arabian peninsula	https://en.wikipedia.org/wiki/Arabian_Peninsula	https://www.wikidata.org/wiki/Q31945
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T33	location	2462	2466	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T34	location	2551	2564	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T35	location	2582	2587	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T36	location	2648	2672	Chinese foreign ministry	https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_of_the_People's_Republic_of_China	https://www.wikidata.org/wiki/Q1155502
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T37	location	2707	2712	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T38	location	2760	2769	Hong Kong	https://en.wikipedia.org/wiki/Hong_Kong	https://www.wikidata.org/wiki/Q8646
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T39	location	2952	2960	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T40	organization	3003	3014	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T41	person	3058	3066	Paul Pot	https://en.wikipedia.org/wiki/Pol_Pot	https://www.wikidata.org/wiki/Q39464
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T42	organization	3157	3168	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T43	person	3221	3243	Prime Minister Hun Sen	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T44	person	3547	3557	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T45	title	3570	3584	New York Times	https://en.wikipedia.org/wiki/The_New_York_Times	https://www.wikidata.org/wiki/Q9684
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T46	person	3599	3609	Henry Kamm	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T47	organization	3622	3633	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T48	location	3638	3646	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T49	person	3663	3676	Terence Smith	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T50	organization	3731	3736	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T51	event	3764	3801	President Clinton's impeachment trial	https://en.wikipedia.org/wiki/Impeachment_trial_of_Bill_Clinton	https://www.wikidata.org/wiki/Q105715892
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T52	organization	3850	3875	House Judiciary Committee	https://en.wikipedia.org/wiki/United_States_House_Committee_on_the_Judiciary	https://www.wikidata.org/wiki/Q1131462
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T53	person	3887	3909	Congressman Henry Hyde	https://en.wikipedia.org/wiki/Henry_Hyde	https://www.wikidata.org/wiki/Q3132849
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T54	location	3913	3921	Illinois	https://en.wikipedia.org/wiki/Illinois	https://www.wikidata.org/wiki/Q1204
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T55	organization	3997	4003	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T56	location	4073	4084	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T57	title	4370	4382	News Summary		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T58	event	4411	4434	Salt Lake City Olympics	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T59	organization	4490	4496	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T60	location	4523	4531	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T61	title	4534	4563	FOCUS - OLYMPIC INVESTIGATION		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T62	person	4566	4576	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T63	person	4578	4589	Tom Bearden		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T64	person	4634	4645	TOM BEARDEN		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T65	location	4647	4661	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T66	organization	4729	4760	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T67	event	4793	4810	2002 Winter Games	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T68	person	4813	4835	JUAN ANTONIO SAMARANCH	https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch	https://www.wikidata.org/wiki/Q171166
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T69	organization	4848	4879	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T70	organization	4892	4923	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T71	event	4969	4994	19th Olympic Winter Games	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T72	location	5018	5032	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T73	person	5035	5046	TOM BEARDEN		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T74	location	5048	5057	Salt Lake	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T75	location	5104	5110	Quebec	https://en.wikipedia.org/wiki/Quebec_City	https://www.wikidata.org/wiki/Q2145
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T76	location	5125	5131	Sweden	https://en.wikipedia.org/wiki/Sweden	https://www.wikidata.org/wiki/Q34
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T77	location	5136	5147	Switzerland	https://en.wikipedia.org/wiki/Switzerland	https://www.wikidata.org/wiki/Q39
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T78	location	5279	5293	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T79	organization	5486	5489	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T80	organization	5606	5609	ICO	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T81	organization	5669	5695	Salt Lake Organizing Group	https://en.wikipedia.org/wiki/Salt_Lake_Organizing_Committee_for_the_Olympic_and_Paralympic_Winter_Games_of_2002	https://www.wikidata.org/wiki/Q7405890
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T82	organization	5832	5841	US Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T83	person	5858	5873	George Mitchell	https://en.wikipedia.org/wiki/George_J._Mitchell	https://www.wikidata.org/wiki/Q368920
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T84	organization	5917	5948	United States Olympic Committee	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T85	organization	5711	5734	U.S. Justice Department	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T86	person	6005	6020	GEORGE MITCHELL	https://en.wikipedia.org/wiki/George_J._Mitchell	https://www.wikidata.org/wiki/Q368920
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T87	organization	6620	6642	U.S. Olympic Committee	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T88	person	6819	6830	TOM BEARDEN		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T89	event	6999	7016	2002 winter games	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T90	person	7019	7029	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T91	person	7096	7109	Howard Berkes		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T92	organization	7113	7134	National Public Radio	https://en.wikipedia.org/wiki/NPR	https://www.wikidata.org/wiki/Q671510
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T93	person	7140	7157	Christine Brennan	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T94	person	7225	7235	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T95	person	7243	7252	Christine	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T96	organization	7387	7418	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T97	person	7499	7516	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T98	person	7648	7661	Princess Anne	https://en.wikipedia.org/wiki/Anne,_Princess_Royal	https://www.wikidata.org/wiki/Q151754
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T99	person	7663	7676	Prince Albert	https://en.wikipedia.org/wiki/Albert_II,_Prince_of_Monaco	https://www.wikidata.org/wiki/Q3910
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T100	location	7680	7686	Monaco	https://en.wikipedia.org/wiki/Monaco	https://www.wikidata.org/wiki/Q235
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T101	person	7959	7969	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T102	person	8031	8048	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T103	location	8119	8126	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T104	organization	8153	8173	US Olympic Committee	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T105	location	8187	8198	Minneapolis	https://en.wikipedia.org/wiki/Minneapolis	https://www.wikidata.org/wiki/Q36091
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T106	location	8211	8218	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T107	organization	8361	8364	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T108	person	8415	8425	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T109	person	8437	8443	Howard		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T110	location	8477	8491	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T111	location	8529	8543	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T112	organization	8655	8658	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T113	person	8702	8715	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T114	organization	8717	8738	National Public Radio	https://en.wikipedia.org/wiki/NPR	https://www.wikidata.org/wiki/Q671510
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T115	organization	8801	8839	Salt Lake Olympic organizing committee	https://en.wikipedia.org/wiki/Salt_Lake_Organizing_Committee_for_the_Olympic_and_Paralympic_Winter_Games_of_2002	https://www.wikidata.org/wiki/Q7405890
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T116	location	8960	8969	Salt Lake	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T117	organization	9063	9066	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T118	organization	9116	9135	American University	https://en.wikipedia.org/wiki/American_University	https://www.wikidata.org/wiki/Q168000
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T119	organization	9171	9174	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T120	location	9211	9215	Utah	https://en.wikipedia.org/wiki/Utah	https://www.wikidata.org/wiki/Q829
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T121	person	9335	9345	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T122	person	9485	9498	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T123	organization	9548	9579	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T124	organization	9588	9591	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T125	event	9708	9726	Salt Lake Olympics	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T126	person	10083	10093	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T127	location	10140	10154	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T128	person	10157	10170	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T129	location	10180	10194	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T130	person	10197	10207	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T131	person	10237	10250	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T132	person	10270	10280	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T133	person	10288	10301	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T134	person	10321	10331	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T135	person	10338	10347	Christine	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T136	location	10411	10425	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T137	person	10439	10456	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T138	event	10646	10666	Los Angeles Olympics	https://en.wikipedia.org/wiki/1984_Summer_Olympics	https://www.wikidata.org/wiki/Q8456
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T139	location	10757	10770	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T140	location	10814	10820	Munich	https://en.wikipedia.org/wiki/Munich	https://www.wikidata.org/wiki/Q1726
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T141	location	10873	10881	Montreal	https://en.wikipedia.org/wiki/Montreal	https://www.wikidata.org/wiki/Q340
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T142	location	10936	10944	Montreal	https://en.wikipedia.org/wiki/Montreal	https://www.wikidata.org/wiki/Q340
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T143	location	11237	11247	Manchester	https://en.wikipedia.org/wiki/Manchester	https://www.wikidata.org/wiki/Q18125
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T144	location	11268	11287	Manchester, England	https://en.wikipedia.org/wiki/Manchester	https://www.wikidata.org/wiki/Q18125
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T145	organization	11436	11439	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T146	organization	11544	11547	ICO	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T147	organization	11680	11683	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T148	person	11838	11841	Jim	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T149	location	11602	11615	Sidney Harbor	https://en.wikipedia.org/wiki/Port_Jackson	https://www.wikidata.org/wiki/Q54504
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T150	location	11872	11886	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T151	location	11927	11941	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T152	organization	12021	12024	ICO	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T153	person	12111	12121	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T154	person	12128	12134	Howard		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T155	location	12152	12166	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T156	location	12233	12247	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T157	location	12361	12375	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T158	person	12385	12398	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T159	location	12426	12440	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T160	person	12512	12521	Christine	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T161	location	12538	12547	Salt Lake	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T162	location	12653	12667	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T163	organization	12735	12766	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T164	organization	12903	12934	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T165	organization	12943	12963	US Olympic Committee	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T166	location	13003	13017	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T167	organization	13248	13279	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T168	organization	13288	13308	US Olympic Committee	https://en.wikipedia.org/wiki/United_States_Olympic_%26_Paralympic_Committee	https://www.wikidata.org/wiki/Q1418438
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T169	organization	13072	13103	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T170	organization	13408	13439	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T171	location	13592	13606	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T172	person	13609	13619	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T173	person	13626	13635	Christine	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T174	person	13859	13876	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T175	organization	13908	13911	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T176	organization	14086	14102	Augusta National	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T177	location	14112	14119	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T178	person	14205	14215	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T179	organization	14256	14263	Augusta	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T180	organization	14288	14291	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T181	person	14332	14349	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T182	organization	14354	14370	Augusta National	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T183	organization	14393	14396	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T184	organization	14421	14437	Augusta National	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T185	location	14512	14519	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T186	location	14538	14545	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T187	location	14840	14847	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T188	location	14930	14944	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T189	location	14995	15009	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T190	organization	15077	15080	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T191	organization	15146	15149	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T192	person	15538	15548	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T193	organization	15564	15567	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T194	organization	15639	15658	Mitchell Commission		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T195	person	15741	15754	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T196	organization	15792	15795	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T197	organization	15887	15918	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T198	person	15993	16004	Mark Hodler	https://en.wikipedia.org/wiki/Marc_Hodler	https://www.wikidata.org/wiki/Q666757
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T199	organization	16049	16052	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T200	person	16054	16076	Juan Antonio Samaranch	https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch	https://www.wikidata.org/wiki/Q171166
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T201	organization	16099	16102	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T202	person	16108	16118	Dick Pound	https://en.wikipedia.org/wiki/Dick_Pound	https://www.wikidata.org/wiki/Q1398503
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T203	organization	15947	15978	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T204	person	16175	16197	Juan Antonio Samaranch	https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch	https://www.wikidata.org/wiki/Q171166
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T205	organization	16426	16429	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T206	organization	16667	16670	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T207	organization	16794	16797	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T208	person	16614	16636	Juan Antonio Samaranch	https://en.wikipedia.org/wiki/Juan_Antonio_Samaranch	https://www.wikidata.org/wiki/Q171166
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T209	organization	16930	16961	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T210	person	17231	17241	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T211	person	17271	17284	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T212	organization	17411	17429	Justice Department	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T213	person	17449	17459	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T214	person	17468	17481	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T215	organization	17620	17638	Justice Department	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T216	person	17718	17728	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T217	person	17730	17739	Christine	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T218	person	17889	17906	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T219	event	18073	18086	2000 Olympics	https://en.wikipedia.org/wiki/2000_Summer_Olympics	https://www.wikidata.org/wiki/Q8544
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T220	person	18089	18099	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T221	person	18115	18132	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T222	location	18172	18181	Australia	https://en.wikipedia.org/wiki/Australia	https://www.wikidata.org/wiki/Q408
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T223	organization	18290	18293	ICO	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T224	organization	18432	18435	IOC	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T225	organization	18663	18694	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T226	person	18888	18898	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T227	person	18973	18990	CHRISTINE BRENNAN	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T228	organization	19030	19061	International Olympic Committee	https://en.wikipedia.org/wiki/International_Olympic_Committee	https://www.wikidata.org/wiki/Q40970
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T229	person	19064	19074	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T230	person	19076	19085	Christine	https://en.wikipedia.org/wiki/Christine_Brennan	https://www.wikidata.org/wiki/Q5110943
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T231	person	19087	19093	Howard		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T232	person	19122	19135	HOWARD BERKES		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T233	person	19148	19151	Jim	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T234	title	19154	19179	FOCUS - YEAR OF DISASTERS		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T235	person	19181	19191	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T236	person	19225	19235	Phil Ponce	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T237	person	19238	19248	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T238	location	19396	19405	Indonesia	https://en.wikipedia.org/wiki/Indonesia	https://www.wikidata.org/wiki/Q252
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T239	location	19410	19418	Malaysia	https://en.wikipedia.org/wiki/Malaysia	https://www.wikidata.org/wiki/Q833
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T240	location	19686	19691	India	https://en.wikipedia.org/wiki/India	https://www.wikidata.org/wiki/Q668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T241	location	19764	19771	Gujarat	https://en.wikipedia.org/wiki/Gujarat	https://www.wikidata.org/wiki/Q1061
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T242	location	19941	19957	Papua New Guinea	https://en.wikipedia.org/wiki/Papua_New_Guinea	https://www.wikidata.org/wiki/Q691
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T243	location	20078	20085	Pacific	https://en.wikipedia.org/wiki/Pacific_Ocean	https://www.wikidata.org/wiki/Q98
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T244	location	20117	20122	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T245	location	20125	20138	Yangtze River	https://en.wikipedia.org/wiki/Yangtze	https://www.wikidata.org/wiki/Q5413
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T246	location	20263	20268	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T247	organization	20354	20375	World Watch Institute	https://en.wikipedia.org/wiki/Worldwatch_Institute	https://www.wikidata.org/wiki/Q1427926
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T248	location	20479	20489	Bangladesh	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T249	location	20502	20514	Jamuna River	https://en.wikipedia.org/wiki/Jamuna_River_(Bangladesh)	https://www.wikidata.org/wiki/Q150062
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T250	location	20584	20594	Bangladesh	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T251	location	20716	20725	Caribbean	https://en.wikipedia.org/wiki/Caribbean	https://www.wikidata.org/wiki/Q664609
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T252	location	20730	20745	Central America	https://en.wikipedia.org/wiki/Central_America	https://www.wikidata.org/wiki/Q27611
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T253	event	20747	20764	Hurricane Georges	https://en.wikipedia.org/wiki/Hurricane_Georges	https://www.wikidata.org/wiki/Q3243975
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T254	location	20877	20886	Caribbean	https://en.wikipedia.org/wiki/Caribbean	https://www.wikidata.org/wiki/Q664609
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T255	location	20917	20925	Anguilla	https://en.wikipedia.org/wiki/Anguilla	https://www.wikidata.org/wiki/Q25228
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T256	location	20927	20938	Puerto Rico	https://en.wikipedia.org/wiki/Puerto_Rico	https://www.wikidata.org/wiki/Q1183
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T257	location	20940	20958	Dominican Republic	https://en.wikipedia.org/wiki/Dominican_Republic	https://www.wikidata.org/wiki/Q786
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T258	location	20960	20965	Haiti	https://en.wikipedia.org/wiki/Haiti	https://www.wikidata.org/wiki/Q790
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T259	location	20971	20975	Cuba	https://en.wikipedia.org/wiki/Cuba	https://www.wikidata.org/wiki/Q241
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T260	location	21020	21032	Florida Keys	https://en.wikipedia.org/wiki/Florida_Keys	https://www.wikidata.org/wiki/Q537749
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T261	event	21038	21053	Hurricane Mitch	https://en.wikipedia.org/wiki/Hurricane_Mitch	https://www.wikidata.org/wiki/Q390115
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T262	location	21112	21127	Central America	https://en.wikipedia.org/wiki/Central_America	https://www.wikidata.org/wiki/Q27611
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T263	location	20898	20915	St. Kitts & Nevis	https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis	https://www.wikidata.org/wiki/Q763
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T264	location	21229	21237	Honduras	https://en.wikipedia.org/wiki/Honduras	https://www.wikidata.org/wiki/Q783
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T265	location	21239	21248	Nicaragua	https://en.wikipedia.org/wiki/Nicaragua	https://www.wikidata.org/wiki/Q811
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T266	location	21250	21261	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T267	location	21263	21272	Guatemala	https://en.wikipedia.org/wiki/Guatemala	https://www.wikidata.org/wiki/Q774
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T268	location	21278	21284	Mexico	https://en.wikipedia.org/wiki/Mexico	https://www.wikidata.org/wiki/Q96
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T269	location	21333	21341	Honduras	https://en.wikipedia.org/wiki/Honduras	https://www.wikidata.org/wiki/Q783
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T270	location	21414	21420	Canada	https://en.wikipedia.org/wiki/Canada	https://www.wikidata.org/wiki/Q16
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T271	location	21425	21436	New England	https://en.wikipedia.org/wiki/New_England	https://www.wikidata.org/wiki/Q18389
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T272	location	21652	21659	Florida	https://en.wikipedia.org/wiki/Florida	https://www.wikidata.org/wiki/Q812
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T273	location	22032	22039	Florida	https://en.wikipedia.org/wiki/Florida	https://www.wikidata.org/wiki/Q812
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T274	event	22221	22237	Hurricane Bonnie	https://en.wikipedia.org/wiki/Hurricane_Bonnie_(1998)	https://www.wikidata.org/wiki/Q8356944
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T275	location	22286	22298	Florida Keys	https://en.wikipedia.org/wiki/Florida_Keys	https://www.wikidata.org/wiki/Q537749
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T276	location	22313	22327	North Carolina	https://en.wikipedia.org/wiki/North_Carolina	https://www.wikidata.org/wiki/Q1454
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T277	location	22474	22487	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T278	location	22489	22497	Virginia	https://en.wikipedia.org/wiki/Virginia	https://www.wikidata.org/wiki/Q1370
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T279	location	22546	22554	Virginia	https://en.wikipedia.org/wiki/Virginia	https://www.wikidata.org/wiki/Q1370
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T280	location	22701	22707	Oregon	https://en.wikipedia.org/wiki/Oregon	https://www.wikidata.org/wiki/Q824
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T281	location	22712	22728	Washington State	https://en.wikipedia.org/wiki/Washington_(state)	https://www.wikidata.org/wiki/Q1223
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T282	person	22781	22791	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T283	person	22812	22828	Janet Abramovitz		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T284	organization	22855	22875	Worldwatch Institute	https://en.wikipedia.org/wiki/Worldwatch_Institute	https://www.wikidata.org/wiki/Q1427926
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T285	person	22917	22927	Bob Watson		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T286	organization	22975	22985	World Bank	https://en.wikipedia.org/wiki/World_Bank	https://www.wikidata.org/wiki/Q7164
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T287	person	22991	23002	John Clizbe		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T288	organization	23047	23065	American Red Cross	https://en.wikipedia.org/wiki/American_Red_Cross	https://www.wikidata.org/wiki/Q470110
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T289	location	14086	14102	Augusta National	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T290	location	14256	14263	Augusta	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T291	location	14354	14370	Augusta National	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T292	location	14421	14437	Augusta National	https://en.wikipedia.org/wiki/Augusta_National_Golf_Club	https://www.wikidata.org/wiki/Q765780
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T293	person	23081	23091	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T294	person	23093	23107	Ms. Abramovitz		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T295	person	23186	23202	JANET ABRAMOVITZ		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T296	organization	23204	23224	Worldwatch Institute	https://en.wikipedia.org/wiki/Worldwatch_Institute	https://www.wikidata.org/wiki/Q1427926
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T297	person	23597	23607	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T298	person	23741	23757	JANET ABRAMOVITZ		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T299	event	23820	23835	Hurricane Mitch	https://en.wikipedia.org/wiki/Hurricane_Mitch	https://www.wikidata.org/wiki/Q390115
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T300	event	23841	23861	Yangtze River floods	https://en.wikipedia.org/wiki/1998_China_floods	https://www.wikidata.org/wiki/Q82549
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T301	location	23875	23885	Bangladesh	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T302	location	23914	23919	India	https://en.wikipedia.org/wiki/India	https://www.wikidata.org/wiki/Q668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T303	location	24093	24102	Indonesia	https://en.wikipedia.org/wiki/Indonesia	https://www.wikidata.org/wiki/Q252
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T304	location	24117	24123	Brazil	https://en.wikipedia.org/wiki/Brazil	https://www.wikidata.org/wiki/Q155
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T305	location	24129	24135	Mexico	https://en.wikipedia.org/wiki/Mexico	https://www.wikidata.org/wiki/Q96
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T306	person	24442	24452	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T307	person	24454	24464	Mr. Clizbe		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T308	location	24473	24486	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T309	person	24537	24548	JOHN CLIZBE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T310	organization	24550	24568	American Red Cross	https://en.wikipedia.org/wiki/American_Red_Cross	https://www.wikidata.org/wiki/Q470110
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T311	location	24625	24638	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T312	organization	24652	24670	American Red Cross	https://en.wikipedia.org/wiki/American_Red_Cross	https://www.wikidata.org/wiki/Q470110
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T313	person	24976	24986	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T314	person	25075	25086	JOHN CLIZBE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T315	event	25093	25110	Hurricane Georges	https://en.wikipedia.org/wiki/Hurricane_Georges	https://www.wikidata.org/wiki/Q3243975
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T316	location	25114	25125	Puerto Rico	https://en.wikipedia.org/wiki/Puerto_Rico	https://www.wikidata.org/wiki/Q1183
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T317	location	25143	25154	Puerto Rico	https://en.wikipedia.org/wiki/Puerto_Rico	https://www.wikidata.org/wiki/Q1183
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T318	event	25166	25183	Hurricane Georges	https://en.wikipedia.org/wiki/Hurricane_Georges	https://www.wikidata.org/wiki/Q3243975
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T319	organization	25219	25237	American Red Cross	https://en.wikipedia.org/wiki/American_Red_Cross	https://www.wikidata.org/wiki/Q470110
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T320	person	25248	25258	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T321	person	25290	25301	JOHN CLIZBE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T322	location	25356	25367	Puerto Rico	https://en.wikipedia.org/wiki/Puerto_Rico	https://www.wikidata.org/wiki/Q1183
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T323	event	25565	25580	Hurricane Mitch	https://en.wikipedia.org/wiki/Hurricane_Mitch	https://www.wikidata.org/wiki/Q390115
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T324	location	25584	25592	Honduras	https://en.wikipedia.org/wiki/Honduras	https://www.wikidata.org/wiki/Q783
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T325	location	25597	25606	Nicaragua	https://en.wikipedia.org/wiki/Nicaragua	https://www.wikidata.org/wiki/Q811
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T326	location	25649	25660	Puerto Rico	https://en.wikipedia.org/wiki/Puerto_Rico	https://www.wikidata.org/wiki/Q1183
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T327	person	25663	25673	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T328	person	25675	25685	Mr. Watson		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T329	person	25716	25726	BOB WATSON		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T330	organization	25728	25738	World Bank	https://en.wikipedia.org/wiki/World_Bank	https://www.wikidata.org/wiki/Q7164
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T331	person	26046	26056	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T332	person	26218	26228	BOB WATSON		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T333	location	26409	26413	Peru	https://en.wikipedia.org/wiki/Peru	https://www.wikidata.org/wiki/Q419
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T334	location	26431	26440	Indonesia	https://en.wikipedia.org/wiki/Indonesia	https://www.wikidata.org/wiki/Q252
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T335	location	26500	26505	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T336	location	26510	26520	Bangladesh	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T337	location	26640	26653	Yangtze River	https://en.wikipedia.org/wiki/Yangtze	https://www.wikidata.org/wiki/Q5413
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T338	location	26741	26751	Bangladesh	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T339	location	26760	26770	Bangladesh	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T340	person	27294	27304	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T341	location	27409	27416	Pacific	https://en.wikipedia.org/wiki/Pacific_Ocean	https://www.wikidata.org/wiki/Q98
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T342	person	27471	27481	BOB WATSON		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T343	location	27519	27523	Peru	https://en.wikipedia.org/wiki/Peru	https://www.wikidata.org/wiki/Q419
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T344	location	27528	27535	Ecuador	https://en.wikipedia.org/wiki/Ecuador	https://www.wikidata.org/wiki/Q736
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T345	location	27805	27809	Peru	https://en.wikipedia.org/wiki/Peru	https://www.wikidata.org/wiki/Q419
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T346	person	27932	27942	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T347	person	28037	28047	BOB WATSON		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T348	person	28540	28550	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T349	person	28552	28566	Ms. Abramovitz		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T350	person	28714	28730	JANET ABRAMOVITZ		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T351	event	28813	28828	Hurricane Mitch	https://en.wikipedia.org/wiki/Hurricane_Mitch	https://www.wikidata.org/wiki/Q390115
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T352	location	28908	28916	Honduras	https://en.wikipedia.org/wiki/Honduras	https://www.wikidata.org/wiki/Q783
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T353	location	29007	29018	Tegucigalpa	https://en.wikipedia.org/wiki/Tegucigalpa	https://www.wikidata.org/wiki/Q3238
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T354	location	29034	29049	Central America	https://en.wikipedia.org/wiki/Central_America	https://www.wikidata.org/wiki/Q27611
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T355	location	29127	29146	Yangtze River Basin	https://en.wikipedia.org/wiki/Yangtze	https://www.wikidata.org/wiki/Q5413
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T356	person	30033	30043	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T357	event	30053	30058	Mitch	https://en.wikipedia.org/wiki/Hurricane_Mitch	https://www.wikidata.org/wiki/Q390115
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T358	person	30141	30157	JANET ABRAMOVITZ		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T359	organization	30554	30572	Chinese government	https://en.wikipedia.org/wiki/Government_of_China	https://www.wikidata.org/wiki/Q936190
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T360	location	30586	30599	Yangtze River	https://en.wikipedia.org/wiki/Yangtze	https://www.wikidata.org/wiki/Q5413
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T361	person	30846	30856	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T362	person	30858	30868	Mr. Clizby		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T363	person	30940	30951	JOHN CLIZBE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T364	person	31088	31098	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T365	person	31115	31126	JOHN CLIZBE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T366	location	31165	31178	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T367	location	31249	31268	Southeastern coasts	https://en.wikipedia.org/wiki/Southeastern_United_States	https://www.wikidata.org/wiki/Q1139046
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T368	person	31510	31520	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T369	location	31568	31589	Texas -- Del Rio area	https://en.wikipedia.org/wiki/Lower_Rio_Grande_Valley	https://www.wikidata.org/wiki/Q1644904
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T369	location	31568	31589	Texas -- Del Rio area	https://en.wikipedia.org/wiki/Del_Rio,_Texas	https://www.wikidata.org/wiki/Q970792
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T370	person	31609	31620	JOHN CLIZBE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T371	location	31691	31696	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T372	location	31702	31707	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T373	location	31760	31767	Del Rio		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T373	location	31760	31767	Del Rio	https://en.wikipedia.org/wiki/Del_Rio,_Texas	https://www.wikidata.org/wiki/Q970792
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T374	location	31995	32002	Florida	https://en.wikipedia.org/wiki/Florida	https://www.wikidata.org/wiki/Q812
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T375	location	32129	32142	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T376	location	32223	32236	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T377	organization	32411	32420	Red Cross		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T377	organization	32411	32420	Red Cross	https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	https://www.wikidata.org/wiki/Q7178
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T378	person	32592	32602	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T379	person	32755	32766	JOHN CLIZBE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T380	location	32959	32965	Kansas	https://en.wikipedia.org/wiki/Kansas	https://www.wikidata.org/wiki/Q1558
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T381	location	33022	33033	Puerto Rico	https://en.wikipedia.org/wiki/Puerto_Rico	https://www.wikidata.org/wiki/Q1183
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T382	location	33219	33240	Spencer, South Dakota	https://en.wikipedia.org/wiki/Spencer,_South_Dakota	https://www.wikidata.org/wiki/Q2569304
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T383	location	33581	33588	Del Rio		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T383	location	33581	33588	Del Rio	https://en.wikipedia.org/wiki/Del_Rio,_Texas	https://www.wikidata.org/wiki/Q970792
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T384	location	33777	33784	Florida	https://en.wikipedia.org/wiki/Florida	https://www.wikidata.org/wiki/Q812
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T385	location	33790	33797	Alabama	https://en.wikipedia.org/wiki/Alabama	https://www.wikidata.org/wiki/Q173
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T386	location	33802	33809	Georgia	https://en.wikipedia.org/wiki/Georgia_(U.S._state)	https://www.wikidata.org/wiki/Q1428
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T387	organization	34043	34052	Red Cross		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T387	organization	34043	34052	Red Cross	https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	https://www.wikidata.org/wiki/Q7178
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T388	person	34180	34190	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T389	person	34192	34202	Mr. Watson		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T390	location	34290	34303	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T391	person	34443	34453	BOB WATSON		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T392	location	34696	34700	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T393	organization	35574	35584	World Bank	https://en.wikipedia.org/wiki/World_Bank	https://www.wikidata.org/wiki/Q7164
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T394	person	35703	35713	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T395	person	35773	35783	BOB WATSON		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T396	location	35901	35911	Bangladesh	https://en.wikipedia.org/wiki/Bangladesh	https://www.wikidata.org/wiki/Q902
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T397	location	35913	35918	India	https://en.wikipedia.org/wiki/India	https://www.wikidata.org/wiki/Q668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T398	location	35920	35925	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T399	person	36063	36073	PHIL PONCE	https://en.wikipedia.org/wiki/Phil_Ponce	https://www.wikidata.org/wiki/Q7182279
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T400	person	36138	36148	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T401	title	36171	36179	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T402	organization	36204	36210	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T403	location	36236	36244	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T404	title	36247	36267	FOCUS - SLOWING DOWN		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T405	person	36269	36279	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T406	person	36281	36291	Rod Minott		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T407	organization	36295	36307	KCTS-Seattle	https://en.wikipedia.org/wiki/KCTS-TV	https://www.wikidata.org/wiki/Q6327408
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T408	organization	36320	36326	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T409	person	36335	36345	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T410	organization	36366	36372	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T411	organization	36570	36576	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T412	product	36645	36648	737	https://en.wikipedia.org/wiki/Boeing_737	https://www.wikidata.org/wiki/Q6387
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T413	location	36660	36667	Seattle	https://en.wikipedia.org/wiki/Seattle	https://www.wikidata.org/wiki/Q5083
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T414	person	36719	36732	GRAY RUSSROCK		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T415	organization	36734	36740	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T416	person	36989	36999	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T417	person	37011	37025	Anthony Carson		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T418	person	37059	37073	ANTHONY CARSON		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T419	organization	37075	37081	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T420	person	37447	37457	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T421	event	37503	37526	economic crisis in Asia	https://en.wikipedia.org/wiki/1997_Asian_financial_crisis	https://www.wikidata.org/wiki/Q80880
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T422	person	37528	37540	Alan Mulally	https://en.wikipedia.org/wiki/Alan_Mulally	https://www.wikidata.org/wiki/Q348874
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T423	person	37583	37595	ALAN MULALLY	https://en.wikipedia.org/wiki/Alan_Mulally	https://www.wikidata.org/wiki/Q348874
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T424	organization	37608	37643	Boeing Commercial Airplane Division	https://en.wikipedia.org/wiki/Boeing_Commercial_Airplanes	https://www.wikidata.org/wiki/Q8793
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T425	location	37722	37726	Asia	https://en.wikipedia.org/wiki/Asia	https://www.wikidata.org/wiki/Q48
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T426	location	37871	37875	Asia	https://en.wikipedia.org/wiki/Asia	https://www.wikidata.org/wiki/Q48
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T427	person	37957	37967	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T428	organization	38058	38064	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T429	person	38066	38073	Jin Cho		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T430	organization	38082	38088	Asiana	https://en.wikipedia.org/wiki/Asiana_Airlines	https://www.wikidata.org/wiki/Q211165
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T431	product	38140	38150	Boeing 747	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T432	location	38164	38171	Seattle	https://en.wikipedia.org/wiki/Seattle	https://www.wikidata.org/wiki/Q5083
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T433	location	38175	38180	Seoul	https://en.wikipedia.org/wiki/Seoul	https://www.wikidata.org/wiki/Q8684
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T434	person	38184	38191	JIN CHO		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T435	organization	38193	38208	Asiana Airlines	https://en.wikipedia.org/wiki/Asiana_Airlines	https://www.wikidata.org/wiki/Q211165
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T436	person	38389	38399	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T437	product	38442	38445	747	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T438	organization	38457	38463	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T439	product	38545	38548	747	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T440	product	38635	38638	747	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T441	organization	38732	38738	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T442	event	38756	38768	Asian crisis	https://en.wikipedia.org/wiki/1997_Asian_financial_crisis	https://www.wikidata.org/wiki/Q80880
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T443	organization	38845	38851	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T444	organization	38931	38955	University of Washington	https://en.wikipedia.org/wiki/University_of_Washington	https://www.wikidata.org/wiki/Q219563
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T445	person	38966	38978	Charles Hill	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T446	organization	39004	39010	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T447	organization	39015	39021	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T448	person	39068	39080	CHARLES HILL	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T449	person	39379	39389	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T450	organization	39426	39432	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T451	person	39628	39640	CHARLES HILL	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T452	person	40014	40024	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T453	person	40026	40035	Tim Goree		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T454	organization	40080	40086	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T455	product	40188	40191	777	https://en.wikipedia.org/wiki/Boeing_777	https://www.wikidata.org/wiki/Q6425
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T456	organization	40259	40265	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T457	person	40290	40299	TIM GOREE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T458	person	40535	40545	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T459	person	40547	40552	Goree		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T460	organization	40560	40566	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T461	person	40706	40715	TIM GOREE		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T462	person	41008	41018	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T463	organization	41020	41026	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T464	organization	41175	41181	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T465	organization	41269	41286	McDonnell-Douglas	https://en.wikipedia.org/wiki/McDonnell_Douglas	https://www.wikidata.org/wiki/Q201815
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T466	person	41375	41379	Hill	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T467	organization	41385	41391	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T468	person	41458	41470	CHARLES HILL	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T469	organization	41503	41509	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T470	organization	41558	41564	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T471	organization	41613	41619	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T472	person	41759	41769	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T473	organization	41771	41777	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T474	person	41780	41792	Alan Mulally	https://en.wikipedia.org/wiki/Alan_Mulally	https://www.wikidata.org/wiki/Q348874
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T475	organization	41942	41948	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T476	person	42068	42080	ALAN MULALLY	https://en.wikipedia.org/wiki/Alan_Mulally	https://www.wikidata.org/wiki/Q348874
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T477	organization	42706	42712	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T478	person	42715	42725	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T479	person	42747	42758	Dick Conway		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T480	location	42770	42777	Seattle	https://en.wikipedia.org/wiki/Seattle	https://www.wikidata.org/wiki/Q5083
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T481	organization	42812	42818	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T482	person	42886	42897	DICK CONWAY		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T483	organization	42918	42924	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T484	organization	43145	43151	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T485	organization	43222	43228	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T486	person	43280	43290	ROD MINOTT		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T487	organization	43352	43358	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T488	organization	43384	43390	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T489	title	43506	43518	CONVERSATION		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T490	person	43520	43530	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T491	location	43569	43577	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T492	organization	43668	43679	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T493	person	43717	43749	Cambodian Prime Minister Hun Sen	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T494	organization	43775	43786	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T495	person	43834	43847	Terence Smith	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T496	location	43890	43898	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T497	person	43901	43914	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T498	location	43958	43966	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T499	title	44089	44126	Cambodia, Report from a Stricken Land		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T500	person	44135	44145	Henry Kamm	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T501	title	44209	44223	New York Times	https://en.wikipedia.org/wiki/The_New_York_Times	https://www.wikidata.org/wiki/Q9684
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T502	person	44256	44269	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T503	person	44271	44276	Henry	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T504	person	44289	44299	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T505	person	44308	44313	Terry	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T506	person	44316	44329	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T507	person	44416	44426	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T508	person	44442	44455	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T509	location	44528	44532	Asia	https://en.wikipedia.org/wiki/Asia	https://www.wikidata.org/wiki/Q48
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T510	person	44535	44545	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T511	location	44570	44574	Asia	https://en.wikipedia.org/wiki/Asia	https://www.wikidata.org/wiki/Q48
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T512	event	44583	44601	Middle Eastern war	https://en.wikipedia.org/wiki/List_of_modern_conflicts_in_the_Middle_East	https://www.wikidata.org/wiki/Q4116408
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T513	person	44617	44630	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T514	location	44662	44670	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T515	person	44730	44740	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T516	location	44767	44775	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T517	location	44847	44856	Indochina	https://en.wikipedia.org/wiki/Mainland_Southeast_Asia	https://www.wikidata.org/wiki/Q43467
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T518	person	45045	45058	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T519	person	45068	45078	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T520	person	45098	45111	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T521	person	45141	45151	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T522	person	45159	45172	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T523	person	45186	45196	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T524	location	45205	45213	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T525	person	45766	45779	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T526	location	45945	45955	Phnom-Penh	https://en.wikipedia.org/wiki/Phnom_Penh	https://www.wikidata.org/wiki/Q1850
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T527	person	45959	45969	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T528	person	45984	45997	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T529	person	46018	46028	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T530	person	46354	46367	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T531	person	46453	46463	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T532	person	46657	46670	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T533	location	46711	46719	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T534	organization	46777	46788	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T535	person	46901	46908	Hun Sen	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T536	person	46944	46957	King Sihanouk	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T537	person	46985	46995	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T538	organization	47194	47205	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T539	location	47311	47319	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T540	person	47460	47467	Hun Sen	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T541	event	47497	47516	Vietnamese invasion	https://en.wikipedia.org/wiki/Cambodian%E2%80%93Vietnamese_War	https://www.wikidata.org/wiki/Q635533
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T542	location	47623	47631	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T543	organization	47667	47681	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T544	organization	47820	47822	UN	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T545	person	47921	47929	Sihanouk	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T546	person	47937	47953	Prince Ranariddh	https://en.wikipedia.org/wiki/Norodom_Ranariddh	https://www.wikidata.org/wiki/Q381817
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T547	location	48079	48087	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T548	person	48096	48103	Hun Sen	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T549	location	48135	48143	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T550	person	48247	48256	Ranariddh	https://en.wikipedia.org/wiki/Norodom_Ranariddh	https://www.wikidata.org/wiki/Q381817
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T551	person	48558	48574	Prince Ranariddh	https://en.wikipedia.org/wiki/Norodom_Ranariddh	https://www.wikidata.org/wiki/Q381817
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T552	person	48608	48615	Hun Sen	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T553	location	48715	48723	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T554	person	48725	48732	Hun Sen	https://en.wikipedia.org/wiki/Hun_Sen	https://www.wikidata.org/wiki/Q57788
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T555	person	48775	48788	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T556	person	48794	48807	King Sihanouk	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T557	person	48818	48833	Prince Sihanouk	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T558	person	48896	48906	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T559	person	49004	49012	Sihanouk	https://en.wikipedia.org/wiki/Norodom_Sihanouk	https://www.wikidata.org/wiki/Q160318
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T560	location	49054	49062	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T561	person	49420	49433	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T562	person	49493	49503	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T563	person	49511	49524	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T564	organization	49536	49550	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T565	person	49626	49636	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T566	person	49646	49659	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T567	person	49784	49794	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T568	organization	49842	49856	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T569	title	49888	49903	Paris agreement	https://en.wikipedia.org/wiki/Paris_Agreement	https://www.wikidata.org/wiki/Q21707860
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T570	location	49931	49939	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T571	organization	50096	50107	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T572	location	50286	50294	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T573	organization	50329	50343	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T574	person	50482	50495	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T575	organization	50564	50566	UN	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T576	organization	50636	50638	UN	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T577	person	50654	50664	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T578	organization	50688	50702	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T579	organization	50762	50764	UN	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T580	organization	50786	50788	UN	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T581	organization	50847	50861	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T582	person	50934	50947	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T583	person	51073	51083	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T584	person	51115	51120	Terry	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T585	organization	51241	51252	Khmer Rouge	https://en.wikipedia.org/wiki/Khmer_Rouge	https://www.wikidata.org/wiki/Q191764
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T586	location	51333	51341	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T587	location	51850	51858	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T588	person	52333	52346	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T589	person	52380	52390	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T590	location	52511	52519	Cambodia	https://en.wikipedia.org/wiki/Cambodia	https://www.wikidata.org/wiki/Q424
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T591	person	52647	52660	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T592	person	52753	52763	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T593	person	52886	52899	TERENCE SMITH	https://en.wikipedia.org/wiki/Terence_Smith_(journalist)	https://www.wikidata.org/wiki/Q7702012
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T594	person	52901	52911	Henry Kamm	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T595	person	52935	52945	HENRY KAMM	https://en.wikipedia.org/wiki/Henry_Kamm	https://www.wikidata.org/wiki/Q5724205
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T596	title	52959	52964	RECAP		
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T597	person	52966	52976	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T598	location	53060	53074	Salt Lake City	https://en.wikipedia.org/wiki/Salt_Lake_City	https://www.wikidata.org/wiki/Q23337
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T599	organization	53107	53127	2002 Winter Olympics	https://en.wikipedia.org/wiki/2002_Winter_Olympics	https://www.wikidata.org/wiki/Q9668
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T600	organization	53133	53138	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T601	organization	53220	53226	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T602	event	53166	53197	President Clinton's impeachment	https://en.wikipedia.org/wiki/Impeachment_of_Bill_Clinton	https://www.wikidata.org/wiki/Q4200400
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T603	location	53301	53307	Oregon	https://en.wikipedia.org/wiki/Oregon	https://www.wikidata.org/wiki/Q824
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T604	location	53312	53328	Washington State	https://en.wikipedia.org/wiki/Washington_(state)	https://www.wikidata.org/wiki/Q1223
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T605	person	53389	53399	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148

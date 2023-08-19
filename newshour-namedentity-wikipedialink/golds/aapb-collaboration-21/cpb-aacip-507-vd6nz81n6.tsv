@@ -1,0 +1,472 @@
+guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T1	person	2	10	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T2	person	30	40	Roger Mudd	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T3	location	44	52	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T4	person	56	66	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T5	person	76	91	Margaret Warner	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T6	location	95	105	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T7	title	117	129	News Summary		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T8	location	166	172	Moscow	https://en.wikipedia.org/wiki/Moscow	https://www.wikidata.org/wiki/Q649
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T9	person	182	199	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T10	person	260	282	Charlayne Hunter-Gault	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T11	person	312	327	Michael O'Neill		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T12	title	329	341	NEWS SUMMARY		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T13	person	344	352	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T14	organization	406	412	Amtrak	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T15	location	474	491	Saraland, Alabama	https://en.wikipedia.org/wiki/Saraland,_Alabama	https://www.wikidata.org/wiki/Q79259
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T16	location	507	513	Mobile	https://en.wikipedia.org/wiki/Mobile,_Alabama	https://www.wikidata.org/wiki/Q79875
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T17	location	827	838	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles	https://www.wikidata.org/wiki/Q65
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T18	location	842	847	Miami	https://en.wikipedia.org/wiki/Miami	https://www.wikidata.org/wiki/Q8652
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T19	organization	892	903	Coast Guard	https://en.wikipedia.org/wiki/United_States_Coast_Guard	https://www.wikidata.org/wiki/Q11224
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T20	location	958	968	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T21	organization	988	994	Amtrak	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T22	person	1030	1044	CLIFFORD BLACK		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T23	organization	1046	1052	Amtrak	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T24	organization	1230	1236	Amtrak	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T25	person	1404	1412	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T26	organization	1547	1565	CSX Transportation	https://en.wikipedia.org/wiki/CSX_Transportation	https://www.wikidata.org/wiki/Q856783
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T27	organization	1597	1633	National Transportation Safety Board	https://en.wikipedia.org/wiki/National_Transportation_Safety_Board	https://www.wikidata.org/wiki/Q1053145
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T28	person	1652	1660	Margaret	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T29	person	1664	1674	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T30	person	1676	1689	Boris Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T31	location	1783	1789	Moscow	https://en.wikipedia.org/wiki/Moscow	https://www.wikidata.org/wiki/Q649
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T32	person	1807	1814	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T33	person	1903	1910	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T34	organization	1938	1956	Russian parliament	https://en.wikipedia.org/wiki/Federal_Assembly_(Russia)	https://www.wikidata.org/wiki/Q457869
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T35	person	2086	2103	Alexander Rutskoi	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T36	person	2211	2218	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T37	person	2325	2342	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T38	person	2369	2376	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T39	person	2390	2401	Mr. Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T40	location	2530	2537	Georgia	https://en.wikipedia.org/wiki/Georgia_(country)	https://www.wikidata.org/wiki/Q230
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T41	location	2621	2628	Sukhumi	https://en.wikipedia.org/wiki/Sukhumi	https://www.wikidata.org/wiki/Q40811
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T42	location	2667	2674	Georgia	https://en.wikipedia.org/wiki/Georgia_(country)	https://www.wikidata.org/wiki/Q230
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T43	location	2825	2834	Black Sea	https://en.wikipedia.org/wiki/Black_Sea	https://www.wikidata.org/wiki/Q166
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T44	person	2960	2968	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T45	person	2970	2987	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T46	organization	3092	3100	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T47	person	3109	3128	Vice President Gore	https://en.wikipedia.org/wiki/Al_Gore	https://www.wikidata.org/wiki/Q19673
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T48	person	3133	3145	Mrs. Clinton	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T49	organization	3201	3212	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T50	person	3329	3346	PRESIDENT CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T51	person	3988	3996	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T52	organization	4076	4079	GOP	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T53	person	4158	4174	SEN. ROBERT DOLE	https://en.wikipedia.org/wiki/Bob_Dole	https://www.wikidata.org/wiki/Q319079
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T54	person	4231	4243	Mrs. Clinton	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T55	person	4561	4579	REP. RICHARD ARMEY	https://en.wikipedia.org/wiki/Dick_Armey	https://www.wikidata.org/wiki/Q781336
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T56	location	4585	4590	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T57	location	4679	4686	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T58	location	4715	4722	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T59	person	5033	5041	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T60	organization	5071	5079	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T61	person	5171	5182	Mr. Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T62	person	5496	5506	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T63	person	5508	5531	Gen. John Shalikashvili	https://en.wikipedia.org/wiki/John_Shalikashvili	https://www.wikidata.org/wiki/Q471428
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T64	person	5533	5550	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T65	organization	5584	5605	Joint Chiefs of Staff	https://en.wikipedia.org/wiki/Joint_Chiefs_of_Staff	https://www.wikidata.org/wiki/Q609474
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T66	organization	5616	5647	Senate Armed Services Committee	https://en.wikipedia.org/wiki/United_States_Senate_Committee_on_Armed_Services	https://www.wikidata.org/wiki/Q508577
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T67	event	5691	5703	World War II	https://en.wikipedia.org/wiki/World_War_II	https://www.wikidata.org/wiki/Q362
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T68	person	5745	5756	Mr. Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T69	organization	5827	5839	Nazi Germany	https://en.wikipedia.org/wiki/Nazi_Germany	https://www.wikidata.org/wiki/Q7318
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T70	organization	5842	5850	Vofen SS	https://en.wikipedia.org/wiki/Waffen-SS	https://www.wikidata.org/wiki/Q153626
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T71	person	5854	5877	GEN. JOHN SHALIKASHVILI	https://en.wikipedia.org/wiki/John_Shalikashvili	https://www.wikidata.org/wiki/Q471428
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T72	organization	5889	5910	Joint Chiefs of Staff	https://en.wikipedia.org/wiki/Joint_Chiefs_of_Staff	https://www.wikidata.org/wiki/Q609474
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T73	organization	6112	6120	Vofen SS	https://en.wikipedia.org/wiki/Waffen-SS	https://www.wikidata.org/wiki/Q153626
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T74	location	6385	6392	Georgia	https://en.wikipedia.org/wiki/Georgia_(country)	https://www.wikidata.org/wiki/Q230
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T75	event	6453	6465	World War II	https://en.wikipedia.org/wiki/World_War_II	https://www.wikidata.org/wiki/Q362
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T76	person	6469	6479	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T77	person	6567	6581	Jane Alexander	https://en.wikipedia.org/wiki/Jane_Alexander	https://www.wikidata.org/wiki/Q242717
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T78	organization	6645	6676	National Endowment for the Arts	https://en.wikipedia.org/wiki/National_Endowment_for_the_Arts	https://www.wikidata.org/wiki/Q1967116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T79	person	6678	6687	Alexander	https://en.wikipedia.org/wiki/Jane_Alexander	https://www.wikidata.org/wiki/Q242717
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T80	organization	6881	6884	NEA	https://en.wikipedia.org/wiki/National_Endowment_for_the_Arts	https://www.wikidata.org/wiki/Q1967116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T81	person	6919	6927	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T82	person	6929	6942	Jon Demjanjuk	https://en.wikipedia.org/wiki/John_Demjanjuk	https://www.wikidata.org/wiki/Q152672
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T83	location	6963	6969	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T84	person	7002	7019	Ivan the Terrible	https://en.wikipedia.org/wiki/Ivan_the_Terrible_(Treblinka_guard)	https://www.wikidata.org/wiki/Q1675953
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T85	location	7034	7038	Ohio	https://en.wikipedia.org/wiki/Ohio	https://www.wikidata.org/wiki/Q1397
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T86	location	7116	7124	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T87	person	7231	7240	Demjanjuk	https://en.wikipedia.org/wiki/John_Demjanjuk	https://www.wikidata.org/wiki/Q152672
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T88	organization	7303	7316	Supreme Court	https://en.wikipedia.org/wiki/Supreme_Court_of_Israel	https://www.wikidata.org/wiki/Q399798
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T89	location	7404	7408	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T90	person	7409	7436	Attorney General Janet Reno	https://en.wikipedia.org/wiki/Janet_Reno	https://www.wikidata.org/wiki/Q236421
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T91	person	7477	7487	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T92	location	7560	7567	Florida	https://en.wikipedia.org/wiki/Florida	https://www.wikidata.org/wiki/Q812
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T93	organization	7570	7590	Kennedy Space Center	https://en.wikipedia.org/wiki/Kennedy_Space_Center	https://www.wikidata.org/wiki/Q48821
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T94	organization	7653	7657	NASA	https://en.wikipedia.org/wiki/NASA	https://www.wikidata.org/wiki/Q23548
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T95	title	7857	7869	News Summary		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T96	title	7884	7892	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T97	location	7910	7916	Moscow	https://en.wikipedia.org/wiki/Moscow	https://www.wikidata.org/wiki/Q649
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T98	person	7922	7929	Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T99	person	7989	8011	Charlayne Hunter-Gault	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T100	title	8026	8043	UPDATE - STANDOFF		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T101	person	8046	8054	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T102	location	8129	8135	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T103	location	8137	8143	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T104	person	8283	8296	Boris Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T105	person	8371	8397	Correspondent Ian Williams		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T106	organization	8401	8428	Independent Television News	https://en.wikipedia.org/wiki/ITV_News	https://www.wikidata.org/wiki/Q4189762
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T107	person	8432	8444	MR. WILLIAMS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T108	location	8466	8477	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T109	person	8572	8589	President Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T110	organization	8693	8711	Russian parliament	https://en.wikipedia.org/wiki/Federal_Assembly_(Russia)	https://www.wikidata.org/wiki/Q457869
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T111	person	8820	8827	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T112	organization	9094	9105	Kalashnikov	https://en.wikipedia.org/wiki/Kalashnikov_Concern	https://www.wikidata.org/wiki/Q7427495
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T113	person	9166	9173	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T114	person	9303	9310	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T115	person	9312	9352	Parliamentary Speaker Ruslan Khasbulatov	https://en.wikipedia.org/wiki/Ruslan_Khasbulatov	https://www.wikidata.org/wiki/Q537251
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T116	person	9410	9427	Alexander Rutskoi	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T117	person	9438	9453	Mr. Khasbulatov	https://en.wikipedia.org/wiki/Ruslan_Khasbulatov	https://www.wikidata.org/wiki/Q537251
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T118	person	9507	9525	RUSLAN KHASBULATOV	https://en.wikipedia.org/wiki/Ruslan_Khasbulatov	https://www.wikidata.org/wiki/Q537251
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T119	organization	9537	9555	Russian Parliament	https://en.wikipedia.org/wiki/Federal_Assembly_(Russia)	https://www.wikidata.org/wiki/Q457869
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T120	person	9612	9619	Rutskoi	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T121	person	9713	9725	MR. WILLIAMS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T122	person	9803	9821	RUSLAN KHASBULATOV	https://en.wikipedia.org/wiki/Ruslan_Khasbulatov	https://www.wikidata.org/wiki/Q537251
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T123	person	10003	10015	MR. WILLIAMS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T124	event	10021	10031	Afghan war	https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War	https://www.wikidata.org/wiki/Q83085
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T125	person	10041	10052	Mr. Rutskoi	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T126	person	10125	10142	ALEXANDER RUTSKOI	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T127	person	10335	10342	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T128	person	10406	10418	MR. WILLIAMS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T129	person	10533	10540	Rutskoi	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T130	person	10554	10561	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T131	person	10869	10876	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T132	person	10888	10905	ALEXANDER RUTSKOI	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T133	person	11122	11134	MR. WILLIAMS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T134	person	11243	11250	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T135	person	11376	11383	Rutskoi	https://en.wikipedia.org/wiki/Alexander_Rutskoy	https://www.wikidata.org/wiki/Q314116
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T136	person	11500	11507	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T137	person	11528	11541	Havel Grachov	https://en.wikipedia.org/wiki/Pavel_Grachev	https://www.wikidata.org/wiki/Q238754
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T138	person	11704	11717	Boris Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T139	location	11752	11758	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T140	person	12153	12164	Khasbulatov	https://en.wikipedia.org/wiki/Ruslan_Khasbulatov	https://www.wikidata.org/wiki/Q537251
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T141	person	12190	12197	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T142	organization	10461	10471	Parliament	https://en.wikipedia.org/wiki/Federal_Assembly_(Russia)	https://www.wikidata.org/wiki/Q457869
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T143	organization	11873	11883	Parliament	https://en.wikipedia.org/wiki/Federal_Assembly_(Russia)	https://www.wikidata.org/wiki/Q457869
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T144	location	12309	12323	Pushkin Square	https://en.wikipedia.org/wiki/Pushkinskaya_Square	https://www.wikidata.org/wiki/Q1110313
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T145	location	12340	12346	Moscow	https://en.wikipedia.org/wiki/Moscow	https://www.wikidata.org/wiki/Q649
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T146	location	12669	12675	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T147	location	12725	12736	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T148	location	12851	12862	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T149	person	12881	12888	Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T150	location	12995	13001	Moscow	https://en.wikipedia.org/wiki/Moscow	https://www.wikidata.org/wiki/Q649
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T151	title	13218	13240	FOCUS - CLINTON'S CURE		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T152	person	13243	13253	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T153	person	13273	13280	Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T154	organization	13407	13415	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T155	person	13624	13636	Kwame Holman	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T156	person	13653	13663	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T157	person	13741	13755	Harris Wofford	https://en.wikipedia.org/wiki/Harris_Wofford	https://www.wikidata.org/wiki/Q323511
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T158	person	13823	13830	Wofford	https://en.wikipedia.org/wiki/Harris_Wofford	https://www.wikidata.org/wiki/Q323511
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T159	person	13832	13839	Wofford	https://en.wikipedia.org/wiki/Harris_Wofford	https://www.wikidata.org/wiki/Q323511
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T160	person	13843	13853	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T161	location	13886	13898	Pennsylvania	https://en.wikipedia.org/wiki/Pennsylvania	https://www.wikidata.org/wiki/Q1400
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T162	organization	13899	13905	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T163	person	13912	13919	Wofford	https://en.wikipedia.org/wiki/Harris_Wofford	https://www.wikidata.org/wiki/Q323511
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T164	person	14070	14077	Wofford	https://en.wikipedia.org/wiki/Harris_Wofford	https://www.wikidata.org/wiki/Q323511
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T165	location	14131	14143	Pennsylvania	https://en.wikipedia.org/wiki/Pennsylvania	https://www.wikidata.org/wiki/Q1400
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T166	person	14144	14171	Governor Richard Thornburgh	https://en.wikipedia.org/wiki/Dick_Thornburgh	https://www.wikidata.org/wiki/Q885091
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T167	person	14175	14189	HARRIS WOFFORD	https://en.wikipedia.org/wiki/Harris_Wofford	https://www.wikidata.org/wiki/Q323511
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T168	person	14268	14278	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T169	person	14287	14294	Wofford	https://en.wikipedia.org/wiki/Harris_Wofford	https://www.wikidata.org/wiki/Q323511
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T170	person	14319	14333	James Carville	https://en.wikipedia.org/wiki/James_Carville	https://www.wikidata.org/wiki/Q1281204
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T171	person	14406	14414	Carville	https://en.wikipedia.org/wiki/James_Carville	https://www.wikidata.org/wiki/Q1281204
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T172	event	14427	14463	Bill Clinton's presidential campaign	https://en.wikipedia.org/wiki/Bill_Clinton_1992_presidential_campaign	https://www.wikidata.org/wiki/Q4908501
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T173	person	14497	14509	BILL CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T174	person	14663	14675	BILL CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T175	person	14881	14893	BILL CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T176	person	15084	15096	BILL CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T177	person	15240	15250	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T178	person	15252	15269	Candidate Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T179	person	15390	15407	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T180	person	15454	15472	First Lady Hillary	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T181	organization	15485	15496	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T182	person	15533	15550	PRESIDENT CLINTON	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T183	person	15823	15833	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T184	person	15874	15896	Hillary Rodham Clinton	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T185	person	16137	16152	HILLARY CLINTON	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T186	location	16749	16762	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T187	person	16766	16776	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T188	person	16795	16812	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T189	organization	16852	16860	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T190	organization	17254	17262	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T191	person	17278	17290	Mrs. Clinton	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T192	organization	17333	17341	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T193	person	17408	17426	REP. ROBERT MICHEL	https://en.wikipedia.org/wiki/Robert_H._Michel	https://www.wikidata.org/wiki/Q3435918
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T194	person	17645	17655	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T195	organization	17693	17699	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T196	person	17716	17724	Bob Dole	https://en.wikipedia.org/wiki/Bob_Dole	https://www.wikidata.org/wiki/Q319079
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T197	person	17728	17744	SENATOR BOB DOLE	https://en.wikipedia.org/wiki/Bob_Dole	https://www.wikidata.org/wiki/Q319079
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T198	person	18010	18020	MR. HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T199	organization	18218	18226	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T200	person	18230	18240	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T201	person	18322	18341	Dr. Bernadine Healy	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T202	organization	18362	18391	National Institutes of Health	https://en.wikipedia.org/wiki/National_Institutes_of_Health	https://www.wikidata.org/wiki/Q390551
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T203	person	18398	18412	President Bush	https://en.wikipedia.org/wiki/George_H._W._Bush	https://www.wikidata.org/wiki/Q23505
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T204	organization	18472	18483	U.S. Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T205	location	18488	18492	Ohio	https://en.wikipedia.org/wiki/Ohio	https://www.wikidata.org/wiki/Q1397
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T206	person	18494	18509	Joseph Califano	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T207	person	18562	18578	President Carter	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T208	person	18624	18641	President Johnson	https://en.wikipedia.org/wiki/Lyndon_B._Johnson	https://www.wikidata.org/wiki/Q9640
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T209	person	18690	18702	Mr. Califano	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T210	person	18797	18809	MR. CALIFANO	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T211	organization	19062	19070	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T212	organization	19116	19124	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T213	person	19578	19588	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T214	person	19604	19613	Dr. Healy	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T215	person	19617	19626	DR. HEALY	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T216	person	20189	20199	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T217	person	20207	20219	Mr. Califano	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T218	title	20426	20440	New York Times	https://en.wikipedia.org/wiki/The_New_York_Times	https://www.wikidata.org/wiki/Q9684
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T219	person	20488	20500	MR. CALIFANO	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T220	person	20678	20691	Richard Nixon	https://en.wikipedia.org/wiki/Richard_Nixon	https://www.wikidata.org/wiki/Q9588
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T221	person	20707	20719	Jimmy Carter	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T222	organization	20788	20791	HEW	https://en.wikipedia.org/wiki/United_States_Department_of_Health_and_Human_Services	https://www.wikidata.org/wiki/Q942326
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T223	location	21020	21032	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T224	person	21775	21785	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T225	person	21787	21796	Dr. Healy	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T226	person	21960	21969	DR. HEALY	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T227	person	22801	22804	Joe	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T228	person	23172	23182	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T229	person	23301	23313	Mrs. Clinton	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T230	person	23393	23405	MR. CALIFANO	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T231	organization	23856	23864	Chrysler	https://en.wikipedia.org/wiki/Chrysler	https://www.wikidata.org/wiki/Q181114
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T232	organization	23909	23912	IBM	https://en.wikipedia.org/wiki/IBM	https://www.wikidata.org/wiki/Q37156
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T233	organization	23924	23929	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T234	person	24613	24625	Mrs. Clinton	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T235	person	24792	24801	Dr. Healy	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T236	person	25305	25315	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T237	person	25317	25326	Dr. Healy	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T238	organization	25366	25377	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T239	organization	25415	25426	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T240	organization	25434	25438	Hill	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T241	person	25465	25474	DR. HEALY	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T242	person	25534	25542	Clintons	https://en.wikipedia.org/wiki/Clinton_family	https://www.wikidata.org/wiki/Q21026250
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T243	organization	25890	25899	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T244	person	26143	26153	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T245	organization	26208	26219	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T246	organization	26352	26363	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T247	person	26402	26414	Mrs. Clinton	https://en.wikipedia.org/wiki/Hillary_Clinton	https://www.wikidata.org/wiki/Q6294
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T248	person	26450	26459	DR. HEALY	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T249	organization	26726	26737	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T250	person	26961	26971	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T251	person	26983	26995	MR. CALIFANO	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T252	organization	27077	27088	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T253	organization	27093	27102	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T254	organization	27781	27789	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T255	organization	27798	27809	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T256	organization	27814	27823	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T257	organization	28088	28100	Capitol Hill	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T258	person	28155	28164	DR. HEALY	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T259	person	28861	28873	MR. CALIFANO	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T260	person	28918	28931	Richard Nixon	https://en.wikipedia.org/wiki/Richard_Nixon	https://www.wikidata.org/wiki/Q9588
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T261	organization	28945	28953	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T262	organization	28981	28989	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T263	person	29170	29182	Bill Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T264	person	29214	29226	Jimmy Carter	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T265	person	29335	29345	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T266	location	29588	29594	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T267	person	29610	29622	MR. CALIFANO	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T268	person	29678	29687	Dr. Healy	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T269	organization	29921	29935	Cleland Clinic	https://en.wikipedia.org/wiki/Cleveland_Clinic	https://www.wikidata.org/wiki/Q4117596
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T270	location	30062	30069	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T271	event	30189	30206	1990/91 recession	https://en.wikipedia.org/wiki/Early_1990s_recession	https://www.wikidata.org/wiki/Q1394220
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T272	organization	30272	30280	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T273	location	30288	30301	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T274	person	30305	30315	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T275	location	30461	30468	Britain	https://en.wikipedia.org/wiki/United_Kingdom	https://www.wikidata.org/wiki/Q145
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T276	location	30663	30676	Great Britain	https://en.wikipedia.org/wiki/United_Kingdom	https://www.wikidata.org/wiki/Q145
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T277	event	30700	30712	World War II	https://en.wikipedia.org/wiki/World_War_II	https://www.wikidata.org/wiki/Q362
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T278	person	30959	30968	Bernadine	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T279	location	31220	31226	Canada	https://en.wikipedia.org/wiki/Canada	https://www.wikidata.org/wiki/Q16
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T280	person	31330	31340	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T281	person	31521	31529	Clintons	https://en.wikipedia.org/wiki/Clinton_family	https://www.wikidata.org/wiki/Q21026250
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T282	person	31699	31708	DR. HEALY	https://en.wikipedia.org/wiki/Bernadine_Healy	https://www.wikidata.org/wiki/Q4793748
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T283	person	31959	31966	Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T284	location	32528	32535	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T285	location	32638	32645	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T286	person	32751	32761	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T287	person	32763	32775	Mr. Califano	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T288	person	32779	32791	MR. CALIFANO	https://en.wikipedia.org/wiki/Joseph_A._Califano_Jr.	https://www.wikidata.org/wiki/Q1706385
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T289	person	33499	33509	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T290	person	33608	33613	Roger	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T291	person	33628	33633	Roger	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T292	title	33635	33659	FOCUS - MODEL FOR CHANGE		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T293	person	33662	33670	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T294	location	33757	33776	Rochester, New York	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T295	person	33815	33832	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T296	person	33891	33909	Fred De Sam Lazaro		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T297	location	33933	33942	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T298	title	33973	33981	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T299	person	33997	34007	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T300	person	34025	34037	Jason Bowman		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T301	person	34156	34168	JASON BOWMAN		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T302	person	34351	34361	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T303	person	34402	34412	JIM BOWMAN		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T304	person	34616	34626	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T305	person	34655	34658	Jim		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T306	person	34663	34677	Barbara Bowman		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T307	person	34806	34811	Jason		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T308	person	34924	34931	Bowmans		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T309	location	34995	34999	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T310	person	35000	35005	Jason		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T311	location	35109	35128	Rochester, New York	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T312	person	35132	35146	BARBARA BOWMAN		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T313	person	35332	35342	JIM BOWMAN		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T314	person	35517	35527	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T315	location	35537	35546	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T316	location	35611	35615	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T317	location	35647	35656	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T318	location	35788	35797	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T319	organization	35855	35877	Blue Cross Blue Shield	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T320	person	36239	36251	Jason Bowman		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T321	location	36381	36390	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T322	organization	36431	36456	Eastman Kodak Corporation	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T323	organization	36458	36463	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T324	location	36489	36498	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T325	person	36620	36634	George Eastman	https://en.wikipedia.org/wiki/George_Eastman	https://www.wikidata.org/wiki/Q189147
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T326	person	36638	36651	DAVID EDWARDS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T327	organization	36653	36658	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T328	organization	36772	36777	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T329	person	36924	36934	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T330	location	37511	37520	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T331	person	37541	37554	David Edwards		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T332	organization	37560	37565	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T333	person	37629	37642	DAVID EDWARDS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T334	organization	37839	37844	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T335	person	38036	38046	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T336	location	38059	38068	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T337	organization	38160	38182	Blue Cross Blue Shield	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T338	location	38186	38195	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T339	person	38278	38288	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T340	organization	38290	38295	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T341	organization	38353	38358	Blues	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T342	organization	38419	38424	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T343	organization	38451	38473	Blue Cross Blue Shield	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T344	location	38493	38502	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T345	person	38563	38576	Howard Berman	https://en.wikipedia.org/wiki/Howard_Berman	https://www.wikidata.org/wiki/Q545221
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T346	organization	38580	38602	Blue Cross Blue Shield	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T347	person	38632	38645	HOWARD BERMAN	https://en.wikipedia.org/wiki/Howard_Berman	https://www.wikidata.org/wiki/Q545221
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T348	organization	38647	38669	Blue Cross Blue Shield	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T349	organization	38773	38794	Eastman Kodak Company	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T350	organization	38812	38834	Blue Cross Blue Shield	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T351	person	38918	38928	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T352	organization	38951	38973	Blue Cross Blue Shield	https://en.wikipedia.org/wiki/Blue_Cross_Blue_Shield_Association	https://www.wikidata.org/wiki/Q4929017
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T353	location	39162	39171	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T354	location	39303	39312	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T355	person	39525	39535	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T356	organization	39620	39625	Kodak	https://en.wikipedia.org/wiki/Kodak	https://www.wikidata.org/wiki/Q486269
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T357	person	39662	39675	DAVID EDWARDS		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T358	location	39677	39686	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T359	person	39869	39884	Derace Schaffer		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T360	location	39967	39976	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T361	person	40034	40046	Dr. Schaffer		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T362	person	40055	40074	DR. DERACE SCHAFFER		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T363	person	40477	40487	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T364	person	40572	40580	Schaffer		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T365	person	40638	40657	DR. DERACE SCHAFFER		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T366	location	40715	40724	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T367	person	40844	40854	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T368	person	40990	41009	DR. DERACE SCHAFFER		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T369	person	41287	41297	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T370	location	41324	41333	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T371	person	41441	41459	Dr. Robert Blendon	https://en.wikipedia.org/wiki/Robert_Blendon	https://www.wikidata.org/wiki/Q21552622
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T372	organization	41463	41494	Harvard School of Public Health	https://en.wikipedia.org/wiki/Harvard_T.H._Chan_School_of_Public_Health	https://www.wikidata.org/wiki/Q5676556
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T373	location	41534	41543	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T374	person	41571	41589	DR. ROBERT BLENDON	https://en.wikipedia.org/wiki/Robert_Blendon	https://www.wikidata.org/wiki/Q21552622
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T375	organization	41591	41622	Harvard School of Public Health	https://en.wikipedia.org/wiki/Harvard_T.H._Chan_School_of_Public_Health	https://www.wikidata.org/wiki/Q5676556
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T376	location	41659	41668	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T377	location	41868	41877	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T378	person	42052	42062	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T379	person	42084	42091	Blendon	https://en.wikipedia.org/wiki/Robert_Blendon	https://www.wikidata.org/wiki/Q21552622
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T380	person	42183	42190	Bowmans		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T381	person	42225	42230	Jason		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T382	location	42263	42269	Denver	https://en.wikipedia.org/wiki/Denver	https://www.wikidata.org/wiki/Q16554
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T383	person	42361	42375	BARBARA BOWMAN		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T384	person	42534	42544	MR. LAZARO		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T385	location	42579	42588	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T386	person	42637	42651	Barbara Bowman		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T387	person	42681	42691	JIM BOWMAN		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T388	person	42863	42881	DR. ROBERT BLENDON	https://en.wikipedia.org/wiki/Robert_Blendon	https://www.wikidata.org/wiki/Q21552622
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T389	location	43011	43018	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T390	person	43257	43265	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T391	location	43271	43280	Rochester	https://en.wikipedia.org/wiki/Rochester,_New_York	https://www.wikidata.org/wiki/Q49218
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T392	person	43324	43331	Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T393	person	43390	43401	Mr. Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T394	organization	43418	43426	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T395	title	43442	43454	CONVERSATION		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T396	person	43457	43467	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T397	person	43504	43527	Charlayne Hunter- Gault	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T398	location	43565	43571	Moscow	https://en.wikipedia.org/wiki/Moscow	https://www.wikidata.org/wiki/Q649
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T399	title	43753	43830	The Roar of the Crowd, How Television and People Power are Changing the World		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T400	title	43847	43866	New York Daily News	https://en.wikipedia.org/wiki/New_York_Daily_News	https://www.wikidata.org/wiki/Q627827
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T401	person	43874	43886	Mike O'Neill		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T402	person	43915	43924	Charlayne	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T403	person	43928	43944	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T404	person	43946	43961	Michael O'Neill		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T405	person	43991	44002	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T406	person	44022	44031	Charlayne	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T407	person	44035	44051	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T408	location	44117	44124	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T409	person	44196	44207	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T410	person	45374	45390	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T411	person	45443	45454	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T412	location	45521	45526	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T413	location	45692	45698	Fujian	https://en.wikipedia.org/wiki/Fujian	https://www.wikidata.org/wiki/Q41705
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T414	location	45703	45712	Guan Dong	https://en.wikipedia.org/wiki/Guangdong	https://www.wikidata.org/wiki/Q15175
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T415	location	46062	46078	Tiananmen Square	https://en.wikipedia.org/wiki/Tiananmen_Square	https://www.wikidata.org/wiki/Q164055
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T416	location	46106	46117	South Korea	https://en.wikipedia.org/wiki/South_Korea	https://www.wikidata.org/wiki/Q884
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T417	location	46165	46181	Tiananmen Square	https://en.wikipedia.org/wiki/Tiananmen_Square	https://www.wikidata.org/wiki/Q164055
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T418	person	46203	46219	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T419	person	46368	46379	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T420	location	46486	46499	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T421	location	47129	47134	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T422	location	47398	47403	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T423	location	47696	47701	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T424	person	48154	48170	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T425	person	48348	48359	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T426	person	48370	48386	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T427	person	48407	48418	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T428	location	48637	48650	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T429	location	48670	48677	Somalia	https://en.wikipedia.org/wiki/Somalia	https://www.wikidata.org/wiki/Q1045
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T430	person	48764	48784	President Mitterrand	https://en.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand	https://www.wikidata.org/wiki/Q2038
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T431	location	48792	48800	Sarajevo	https://en.wikipedia.org/wiki/Sarajevo	https://www.wikidata.org/wiki/Q11194
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T432	person	48922	48938	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T433	person	48977	48988	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T434	organization	49707	49718	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T435	location	49771	49782	Middle West	https://en.wikipedia.org/wiki/Midwestern_United_States	https://www.wikidata.org/wiki/Q186545
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T436	event	49796	49830	riots in South Central Los Angeles	https://en.wikipedia.org/wiki/1992_Los_Angeles_riots	https://www.wikidata.org/wiki/Q696187
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T437	person	50125	50141	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T438	person	50209	50220	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T439	person	50243	50259	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T440	person	50277	50288	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T441	person	50345	50361	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T442	person	50465	50476	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T443	person	50494	50510	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T444	person	50774	50785	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T445	person	50797	50813	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T446	person	50849	50860	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T447	person	51261	51272	George Bush	https://en.wikipedia.org/wiki/George_H._W._Bush	https://www.wikidata.org/wiki/Q23505
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T448	event	51539	51550	World War I	https://en.wikipedia.org/wiki/World_War_I	https://www.wikidata.org/wiki/Q361
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T449	person	51826	51842	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T450	person	51877	51888	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T451	person	51906	51922	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T452	person	52103	52114	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T453	person	52916	52932	MS. HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T454	person	52940	52955	Michael O'Neill		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T455	person	53026	53037	MR. O'NEILL		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T456	title	53050	53055	RECAP		
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T457	person	53058	53066	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T458	organization	53150	53156	Amtrak	https://en.wikipedia.org/wiki/Amtrak	https://www.wikidata.org/wiki/Q23239
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T459	location	53212	53227	Mobile, Alabama	https://en.wikipedia.org/wiki/Mobile,_Alabama	https://www.wikidata.org/wiki/Q79875
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T460	person	53273	53286	Boris Yeltsin	https://en.wikipedia.org/wiki/Boris_Yeltsin	https://www.wikidata.org/wiki/Q34453
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T461	location	53376	53382	Russia	https://en.wikipedia.org/wiki/Russia	https://www.wikidata.org/wiki/Q159
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T462	person	53388	53405	President Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T463	organization	53498	53506	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T464	person	53520	53528	Margaret	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T465	person	53532	53542	MS. WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T466	person	53556	53561	Roger	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T467	title	53574	53582	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T468	organization	53664	53672	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T469	organization	53704	53707	PBS	https://en.wikipedia.org/wiki/PBS	https://www.wikidata.org/wiki/Q215616
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T470	person	53774	53781	Clinton	https://en.wikipedia.org/wiki/Bill_Clinton	https://www.wikidata.org/wiki/Q1124
+cpb-aacip-507-vd6nz81n6r-transcript.ann	T471	person	53792	53807	Margaret Warner	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001

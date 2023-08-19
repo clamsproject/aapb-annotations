@@ -1,10 +1,9 @@
 """Processes Named Entity Linking annotation files
 
-$ process.py [-h] PROJECT_DIR
-
-Reads in each '.tab' annotation file in the 'PROJECT_DIR' directory.
+Reads in the '.tab' annotations file containing grounding information in the `BATCH_DIR` directory,
+then reads in each brat .ann file downloaded from URL specified in `base-ner.url` file in the BATCH_DIR
 Fetches wikidata QIDs using the wikipedia URLs in the data.
-Generates a tsv file for each unique GUID. Exports the results to a "gold" directory
+Generates a tsv file for each unique GUID. Exports the results to a "golds" directory
 at the top level of this repository, where they are ready to be committed back
 into the annotation collection repository and pushed up. The script does not do
 the automatic commit and push in order to avoid hasty commits.
@@ -12,11 +11,15 @@ the automatic commit and push in order to avoid hasty commits.
 """
 
 import argparse
-import pandas as pd
 from pathlib import Path
-import requests
 from typing import List, Union
 from urllib.parse import unquote_plus
+
+import pandas as pd
+import requests
+from brat_parser import get_entities_relations_attributes_groups
+
+import goldretriever
 
 
 def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:
@@ -55,7 +58,7 @@ def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:
 def parse_arguments():
     ap = argparse.ArgumentParser(
         description='Process uploaded NER annotation files with named entity links')
-    ap.add_argument('batch', help='Directory containing the batch the process')
+    ap.add_argument('batch', help='Directory containing the annotations file with grounding information (.tab format). Must start with YYMMDD- prefix to infer the batch name. Also must contain `base-ner.url` file with the URL to the NER annotations.')
     return ap.parse_args()
 
 
@@ -63,22 +66,39 @@ if __name__ == '__main__':
 
     options = parse_arguments()
 
-    batch_dir = Path(options.batch).resolve()
+    ann_batch_dir = Path(options.batch).resolve()
+    ner_dir = Path(goldretriever.download_golds(open(Path(options.batch)/'base-ner.url').read().strip()))
 
-    batch = Path(options.batch).resolve().name
-    repo_dir = (Path(__file__).parent / '..' / '..').resolve()
-    gold_dir = repo_dir / 'golds' / 'nel' / batch
+    batch_name = ann_batch_dir.name[7:]
+    gold_dir = ann_batch_dir.parent / 'golds' / batch_name
     gold_dir.mkdir(parents=True, exist_ok=True)
-    print(f'>>> Exporting {batch} annotations to the gold directory')
+    print(f'>>> Exporting {batch_name} annotations to the gold directory')
     print(f'>>> --> {gold_dir}')
-    for tab_file in batch_dir.glob('*.tab'):
-        with open(tab_file) as fh:
-            df = pd.read_table(fh, sep='\t', encoding='utf-16', header=None)
-        df.dropna(axis=1, how='all', inplace=True)
-        df.columns = ['index', 'timestamp', 'GUID', 'entity', 'type', 'instances', 'wiki_url']
-        df['QID'] = df['wiki_url'].map(fetch_wikidata_qids, na_action='ignore')
-        grouped = df.groupby(['GUID'])
-        unique_guids = list(df["GUID"].unique())
-        for guid in unique_guids:
-            output_df = grouped.get_group(guid)
-            output_df.to_csv(Path(gold_dir, guid.rstrip('-transcript.ann')).with_suffix('.tsv'), sep='\t', index=False)
+
+    brat_anns = ner_dir.glob('*.ann')
+    tab_file = next(ann_batch_dir.glob('*.tab'))
+
+    # read in the relevant information from the annotations.tab
+    with open(tab_file) as fh_in:
+        nel_df = pd.read_table(fh_in, sep='\t', encoding='utf-16', header=None)
+    nel_df.dropna(axis=1, how='all', inplace=True)
+    nel_df.drop(nel_df.columns[[0, 1, 4, 5]], axis=1, inplace=True)
+    nel_df.columns = ['guid', 'text', 'wiki_url']
+
+    # read in the entities for each .ann file
+    for brat_ann in brat_anns:
+        entities, relations, attributes, groups = get_entities_relations_attributes_groups(brat_ann)
+        data = {'guid': brat_ann.name,
+                'anno_id': [entities[e].id for e in entities],
+                'type': [entities[e].type for e in entities],
+                'begin_offset': [entities[e].span[0][0] for e in entities],
+                'end_offset': [entities[e].span[0][1] for e in entities],
+                'text': [entities[e].text for e in entities]}
+        ner_df = pd.DataFrame(data=data, columns=['guid', 'anno_id', 'type', 'begin_offset', 'end_offset', 'text'])
+        # collapse all 'title' subtypes into one category
+        ner_df['type'].mask(ner_df['type'].str.endswith("title"), "title", inplace=True)
+
+        # merge wiki_url column from nel dataframe, fetch qids
+        ner_df = ner_df.merge(nel_df, how='left', on=['guid', 'text'])
+        ner_df['qid'] = ner_df['wiki_url'].map(fetch_wikidata_qids, na_action='ignore')
+        ner_df.to_csv(Path(gold_dir, data['guid'].rstrip('-transcript.ann')).with_suffix('.tsv'), sep='\t', index=False)

@@ -1,0 +1,448 @@
+guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+cpb-aacip-507-154dn40c26-transcript.ann	T1	person	7	21	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T2	location	6011	6015	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T3	person	5897	5949	Health and Human Services Secretary Margaret Heckler	https://en.wikipedia.org/wiki/Margaret_Heckler	https://www.wikidata.org/wiki/Q457633
+cpb-aacip-507-154dn40c26-transcript.ann	T4	organization	5767	5794	Hoffman-LaRoche Corporation	https://en.wikipedia.org/wiki/Roche	https://www.wikidata.org/wiki/Q212646
+cpb-aacip-507-154dn40c26-transcript.ann	T5	organization	5681	5684	FDA	https://en.wikipedia.org/wiki/Food_and_Drug_Administration	https://www.wikidata.org/wiki/Q204711
+cpb-aacip-507-154dn40c26-transcript.ann	T6	organization	5525	5553	Food and Drug Administration	https://en.wikipedia.org/wiki/Food_and_Drug_Administration	https://www.wikidata.org/wiki/Q204711
+cpb-aacip-507-154dn40c26-transcript.ann	T7	person	5511	5519	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T8	organization	76	82	Moscow	https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic	https://www.wikidata.org/wiki/Q2184
+cpb-aacip-507-154dn40c26-transcript.ann	T9	organization	141	167	Farm Credit Administration	https://en.wikipedia.org/wiki/Farm_Credit_Administration	https://www.wikidata.org/wiki/Q5435482
+cpb-aacip-507-154dn40c26-transcript.ann	T10	location	224	236	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-154dn40c26-transcript.ann	T11	organization	273	287	Delta Airlines	https://en.wikipedia.org/wiki/Delta_Air_Lines	https://www.wikidata.org/wiki/Q188920
+cpb-aacip-507-154dn40c26-transcript.ann	T12	organization	301	304	FAA	https://en.wikipedia.org/wiki/Federal_Aviation_Administration	https://www.wikidata.org/wiki/Q335357
+cpb-aacip-507-154dn40c26-transcript.ann	T13	location	327	333	Dallas	https://en.wikipedia.org/wiki/Dallas	https://www.wikidata.org/wiki/Q16557
+cpb-aacip-507-154dn40c26-transcript.ann	T14	person	407	417	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-154dn40c26-transcript.ann	T15	person	435	448	Judy Woodruff	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T16	location	455	465	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-154dn40c26-transcript.ann	T17	person	467	471	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T18	organization	5409	5414	Delta	https://en.wikipedia.org/wiki/Delta_Air_Lines	https://www.wikidata.org/wiki/Q188920
+cpb-aacip-507-154dn40c26-transcript.ann	T19	organization	5330	5335	Delta	https://en.wikipedia.org/wiki/Delta_Air_Lines	https://www.wikidata.org/wiki/Q188920
+cpb-aacip-507-154dn40c26-transcript.ann	T20	organization	5164	5195	Federal Aviation Administration	https://en.wikipedia.org/wiki/Federal_Aviation_Administration	https://www.wikidata.org/wiki/Q335357
+cpb-aacip-507-154dn40c26-transcript.ann	T21	organization	5112	5117	Delta	https://en.wikipedia.org/wiki/Delta_Air_Lines	https://www.wikidata.org/wiki/Q188920
+cpb-aacip-507-154dn40c26-transcript.ann	T22	location	5104	5110	Dallas	https://en.wikipedia.org/wiki/Dallas	https://www.wikidata.org/wiki/Q16557
+cpb-aacip-507-154dn40c26-transcript.ann	T23	product	5726	5732	Valium	https://en.wikipedia.org/wiki/Diazepam	https://www.wikidata.org/wiki/Q210402
+cpb-aacip-507-154dn40c26-transcript.ann	T24	product	5598	5604	Valium	https://en.wikipedia.org/wiki/Diazepam	https://www.wikidata.org/wiki/Q210402
+cpb-aacip-507-154dn40c26-transcript.ann	T25	organization	4950	4955	Delta	https://en.wikipedia.org/wiki/Delta_Air_Lines	https://www.wikidata.org/wiki/Q188920
+cpb-aacip-507-154dn40c26-transcript.ann	T26	organization	4825	4839	Delta Airlines	https://en.wikipedia.org/wiki/Delta_Air_Lines	https://www.wikidata.org/wiki/Q188920
+cpb-aacip-507-154dn40c26-transcript.ann	T27	location	4721	4728	Chicago	https://en.wikipedia.org/wiki/Chicago	https://www.wikidata.org/wiki/Q1297
+cpb-aacip-507-154dn40c26-transcript.ann	T28	location	4652	4662	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-154dn40c26-transcript.ann	T29	location	4643	4647	Ohio	https://en.wikipedia.org/wiki/Ohio	https://www.wikidata.org/wiki/Q1397
+cpb-aacip-507-154dn40c26-transcript.ann	T30	location	4629	4641	Pennsylvania	https://en.wikipedia.org/wiki/Pennsylvania	https://www.wikidata.org/wiki/Q1400
+cpb-aacip-507-154dn40c26-transcript.ann	T31	location	4619	4627	Michigan	https://en.wikipedia.org/wiki/Michigan	https://www.wikidata.org/wiki/Q1166
+cpb-aacip-507-154dn40c26-transcript.ann	T32	location	4605	4617	Rhode Island	https://en.wikipedia.org/wiki/Rhode_Island	https://www.wikidata.org/wiki/Q1387
+cpb-aacip-507-154dn40c26-transcript.ann	T33	location	4595	4603	Illinois	https://en.wikipedia.org/wiki/Illinois	https://www.wikidata.org/wiki/Q1204
+cpb-aacip-507-154dn40c26-transcript.ann	T34	person	4463	4470	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T35	location	4295	4302	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T36	location	4052	4059	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T37	person	4007	4013	Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-154dn40c26-transcript.ann	T38	organization	3806	3811	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-154dn40c26-transcript.ann	T39	location	3776	3789	Massachusetts	https://en.wikipedia.org/wiki/Massachusetts	https://www.wikidata.org/wiki/Q771
+cpb-aacip-507-154dn40c26-transcript.ann	T40	person	3748	3770	Rep. THOMAS P. O'NEILL	https://en.wikipedia.org/wiki/Tip_O%27Neill	https://www.wikidata.org/wiki/Q2094491
+cpb-aacip-507-154dn40c26-transcript.ann	T41	person	3671	3681	Mr. Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-154dn40c26-transcript.ann	T42	person	3644	3651	O'Neill	https://en.wikipedia.org/wiki/Tip_O%27Neill	https://www.wikidata.org/wiki/Q2094491
+cpb-aacip-507-154dn40c26-transcript.ann	T43	location	3637	3642	Texas	https://en.wikipedia.org/wiki/Texas	https://www.wikidata.org/wiki/Q1439
+cpb-aacip-507-154dn40c26-transcript.ann	T44	person	3519	3526	O'Neill	https://en.wikipedia.org/wiki/Tip_O%27Neill	https://www.wikidata.org/wiki/Q2094491
+cpb-aacip-507-154dn40c26-transcript.ann	T45	person	3453	3469	President Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-154dn40c26-transcript.ann	T46	person	3411	3436	House Speaker Tip O'Neill	https://en.wikipedia.org/wiki/Tip_O%27Neill	https://www.wikidata.org/wiki/Q2094491
+cpb-aacip-507-154dn40c26-transcript.ann	T47	organization	3329	3336	Cabinet	https://en.wikipedia.org/wiki/Cabinet_of_the_United_States	https://www.wikidata.org/wiki/Q639738
+cpb-aacip-507-154dn40c26-transcript.ann	T48	person	3249	3264	Secretary Block	https://en.wikipedia.org/wiki/John_Rusling_Block	https://www.wikidata.org/wiki/Q785437
+cpb-aacip-507-154dn40c26-transcript.ann	T49	person	3239	3247	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T50	organization	2700	2718	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T51	person	2498	2508	JOHN BLOCK	https://en.wikipedia.org/wiki/John_Rusling_Block	https://www.wikidata.org/wiki/Q785437
+cpb-aacip-507-154dn40c26-transcript.ann	T52	organization	2456	2477	Reagan administration	https://en.wikipedia.org/wiki/Presidency_of_Ronald_Reagan	https://www.wikidata.org/wiki/Q2824573
+cpb-aacip-507-154dn40c26-transcript.ann	T53	person	2391	2400	Wilkinson		
+cpb-aacip-507-154dn40c26-transcript.ann	T54	person	2324	2356	Agriculture Secretary John Block	https://en.wikipedia.org/wiki/John_Rusling_Block	https://www.wikidata.org/wiki/Q785437
+cpb-aacip-507-154dn40c26-transcript.ann	T55	title	2089	2108	Wall Street Journal	https://en.wikipedia.org/wiki/The_Wall_Street_Journal	https://www.wikidata.org/wiki/Q164746
+cpb-aacip-507-154dn40c26-transcript.ann	T56	organization	2052	2078	Farm Credit Administration	https://en.wikipedia.org/wiki/Farm_Credit_Administration	https://www.wikidata.org/wiki/Q5435482
+cpb-aacip-507-154dn40c26-transcript.ann	T57	person	2018	2034	Donald Wilkinson		
+cpb-aacip-507-154dn40c26-transcript.ann	T58	person	1808	1816	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T59	person	1801	1805	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T60	location	1668	1681	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T61	organization	1590	1596	Moscow	https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic	https://www.wikidata.org/wiki/Q2184
+cpb-aacip-507-154dn40c26-transcript.ann	T62	location	1573	1577	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T63	organization	1551	1555	Tass	https://en.wikipedia.org/wiki/TASS	https://www.wikidata.org/wiki/Q223799
+cpb-aacip-507-154dn40c26-transcript.ann	T64	person	1417	1430	Yuri Andropov	https://en.wikipedia.org/wiki/Yuri_Andropov	https://www.wikidata.org/wiki/Q44071
+cpb-aacip-507-154dn40c26-transcript.ann	T65	organization	1326	1335	Air Force	https://en.wikipedia.org/wiki/United_States_Air_Force	https://www.wikidata.org/wiki/Q11223
+cpb-aacip-507-154dn40c26-transcript.ann	T66	organization	1302	1310	Pentagon	https://en.wikipedia.org/wiki/The_Pentagon	https://www.wikidata.org/wiki/Q11208
+cpb-aacip-507-154dn40c26-transcript.ann	T67	person	1177	1193	President Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-154dn40c26-transcript.ann	T68	location	1110	1114	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T69	organization	1025	1031	Moscow	https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic	https://www.wikidata.org/wiki/Q2184
+cpb-aacip-507-154dn40c26-transcript.ann	T70	person	1016	1023	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T71	title	1002	1014	News Summary		
+cpb-aacip-507-154dn40c26-transcript.ann	T72	title	510	518	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-154dn40c26-transcript.ann	T73	person	474	487	JUDY WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T74	person	11113	11117	Ryan	https://en.wikipedia.org/wiki/Ryan_White	https://www.wikidata.org/wiki/Q320163
+cpb-aacip-507-154dn40c26-transcript.ann	T75	location	10963	10978	Kokomo, Indiana	https://en.wikipedia.org/wiki/Kokomo,_Indiana	https://www.wikidata.org/wiki/Q913209
+cpb-aacip-507-154dn40c26-transcript.ann	T76	person	10949	10959	Ryan White	https://en.wikipedia.org/wiki/Ryan_White	https://www.wikidata.org/wiki/Q320163
+cpb-aacip-507-154dn40c26-transcript.ann	T77	location	10908	10921	New York City	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T78	person	10818	10823	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T79	location	10574	10582	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T80	person	10555	10568	Mayor ED KOCH	https://en.wikipedia.org/wiki/Ed_Koch	https://www.wikidata.org/wiki/Q467122
+cpb-aacip-507-154dn40c26-transcript.ann	T81	location	10456	10464	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T82	location	10369	10377	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T83	location	10354	10360	Queens	https://en.wikipedia.org/wiki/Queens	https://www.wikidata.org/wiki/Q18424
+cpb-aacip-507-154dn40c26-transcript.ann	T84	person	10159	10164	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T85	location	10016	10029	New York City	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T86	person	10003	10014	WALTER WARD	https://en.wikipedia.org/wiki/Walter_Ward_(politician)	https://www.wikidata.org/wiki/Q7966378
+cpb-aacip-507-154dn40c26-transcript.ann	T87	location	9935	9951	Queens, New York	https://en.wikipedia.org/wiki/Queens	https://www.wikidata.org/wiki/Q18424
+cpb-aacip-507-154dn40c26-transcript.ann	T88	person	9746	9751	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T89	location	9382	9395	New York City	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T90	person	9230	9240	JUNE CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T91	person	9176	9200	Correspondent June Cross	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T92	person	8843	8851	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T93	title	8825	8841	Coping With AIDS		
+cpb-aacip-507-154dn40c26-transcript.ann	T94	organization	8797	8823	Farm Credit Administration	https://en.wikipedia.org/wiki/Farm_Credit_Administration	https://www.wikidata.org/wiki/Q5435482
+cpb-aacip-507-154dn40c26-transcript.ann	T95	person	8531	8538	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T96	location	8473	8478	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-154dn40c26-transcript.ann	T97	organization	8451	8469	Mubarak government		
+cpb-aacip-507-154dn40c26-transcript.ann	T98	person	8391	8412	President Anwar Sadat	https://en.wikipedia.org/wiki/Anwar_Sadat	https://www.wikidata.org/wiki/Q42013
+cpb-aacip-507-154dn40c26-transcript.ann	T99	location	8352	8357	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-154dn40c26-transcript.ann	T100	location	5010	5034	Dallas-Ft. Worth airport	https://en.wikipedia.org/wiki/Dallas_Fort_Worth_International_Airport	https://www.wikidata.org/wiki/Q459096
+cpb-aacip-507-154dn40c26-transcript.ann	T101	person	8342	8347	Lotfi	https://en.wikipedia.org/wiki/Aly_Lotfy_Mahmoud	https://www.wikidata.org/wiki/Q1391705
+cpb-aacip-507-154dn40c26-transcript.ann	T102	person	8272	8285	Dr. Ali Lotfi	https://en.wikipedia.org/wiki/Aly_Lotfy_Mahmoud	https://www.wikidata.org/wiki/Q1391705
+cpb-aacip-507-154dn40c26-transcript.ann	T103	person	8242	8265	President Hosni Mubarak	https://en.wikipedia.org/wiki/Hosni_Mubarak	https://www.wikidata.org/wiki/Q34105
+cpb-aacip-507-154dn40c26-transcript.ann	T104	person	8176	8207	Prime Minister Kamal Hassan Ali	https://en.wikipedia.org/wiki/Kamal_Hassan_Ali	https://www.wikidata.org/wiki/Q1722834
+cpb-aacip-507-154dn40c26-transcript.ann	T105	location	8129	8134	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-154dn40c26-transcript.ann	T106	location	7992	7998	Beirut	https://en.wikipedia.org/wiki/Beirut	https://www.wikidata.org/wiki/Q3820
+cpb-aacip-507-154dn40c26-transcript.ann	T107	location	7912	7924	Bekaa Valley	https://en.wikipedia.org/wiki/Beqaa_Valley	https://www.wikidata.org/wiki/Q202322
+cpb-aacip-507-154dn40c26-transcript.ann	T108	location	7848	7853	Zahle	https://en.wikipedia.org/wiki/Zahl%C3%A9	https://www.wikidata.org/wiki/Q26569
+cpb-aacip-507-154dn40c26-transcript.ann	T109	location	7821	7828	Lebanon	https://en.wikipedia.org/wiki/Lebanon	https://www.wikidata.org/wiki/Q822
+cpb-aacip-507-154dn40c26-transcript.ann	T110	person	7698	7706	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T111	location	7581	7593	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-154dn40c26-transcript.ann	T112	location	7488	7500	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-154dn40c26-transcript.ann	T113	location	7421	7425	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T114	location	7269	7281	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-154dn40c26-transcript.ann	T115	person	7247	7262	Gehrard de Kock	https://en.wikipedia.org/wiki/Gerhard_de_Kock	https://www.wikidata.org/wiki/Q5550799
+cpb-aacip-507-154dn40c26-transcript.ann	T116	location	7217	7225	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T117	location	7063	7075	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-154dn40c26-transcript.ann	T118	person	7054	7061	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T119	person	7003	7015	Rita Lavelle	https://en.wikipedia.org/wiki/Rita_Lavelle	https://www.wikidata.org/wiki/Q7336554
+cpb-aacip-507-154dn40c26-transcript.ann	T120	organization	6924	6937	Supreme Court	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201
+cpb-aacip-507-154dn40c26-transcript.ann	T121	organization	6432	6435	EPA	https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency	https://www.wikidata.org/wiki/Q460173
+cpb-aacip-507-154dn40c26-transcript.ann	T122	person	6411	6423	RITA LAVELLE	https://en.wikipedia.org/wiki/Rita_Lavelle	https://www.wikidata.org/wiki/Q7336554
+cpb-aacip-507-154dn40c26-transcript.ann	T123	organization	6297	6305	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-154dn40c26-transcript.ann	T124	person	6242	6253	Ms. Lavelle	https://en.wikipedia.org/wiki/Rita_Lavelle	https://www.wikidata.org/wiki/Q7336554
+cpb-aacip-507-154dn40c26-transcript.ann	T125	location	6230	6240	Pleasanton	https://en.wikipedia.org/wiki/Pleasanton,_California	https://www.wikidata.org/wiki/Q747444
+cpb-aacip-507-154dn40c26-transcript.ann	T126	title	6170	6191	Toxic Waste Superfund	https://en.wikipedia.org/wiki/Superfund	https://www.wikidata.org/wiki/Q3504641
+cpb-aacip-507-154dn40c26-transcript.ann	T127	organization	6138	6169	Environmental Protection Agency	https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency	https://www.wikidata.org/wiki/Q460173
+cpb-aacip-507-154dn40c26-transcript.ann	T128	organization	6114	6135	Reagan administration	https://en.wikipedia.org/wiki/Presidency_of_Ronald_Reagan	https://www.wikidata.org/wiki/Q2824573
+cpb-aacip-507-154dn40c26-transcript.ann	T129	person	6077	6089	Rita Lavelle	https://en.wikipedia.org/wiki/Rita_Lavelle	https://www.wikidata.org/wiki/Q7336554
+cpb-aacip-507-154dn40c26-transcript.ann	T130	location	6059	6069	California	https://en.wikipedia.org/wiki/California	https://www.wikidata.org/wiki/Q99
+cpb-aacip-507-154dn40c26-transcript.ann	T131	person	15208	15221	MATHILDE KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T132	person	15146	15154	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T133	organization	15121	15144	AIDS Medical Foundation	https://en.wikipedia.org/wiki/AmfAR	https://www.wikidata.org/wiki/Q3782571
+cpb-aacip-507-154dn40c26-transcript.ann	T134	person	15064	15077	Mathilde Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T135	person	14987	14995	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T136	location	14757	14768	Los Angeles	https://en.wikipedia.org/wiki/Los_Angeles	https://www.wikidata.org/wiki/Q65
+cpb-aacip-507-154dn40c26-transcript.ann	T137	person	14591	14596	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T138	organization	14179	14203	Anti-AIDS Citizens Group		
+cpb-aacip-507-154dn40c26-transcript.ann	T139	person	14163	14177	CLAUDE LINDSEY		
+cpb-aacip-507-154dn40c26-transcript.ann	T140	person	13870	13881	Ms. FLEMING		
+cpb-aacip-507-154dn40c26-transcript.ann	T141	person	13835	13840	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T142	organization	13729	13753	Anti-AIDS Citizens Group		
+cpb-aacip-507-154dn40c26-transcript.ann	T143	person	13714	13727	ELLEN FLEMING		
+cpb-aacip-507-154dn40c26-transcript.ann	T144	person	13612	13622	Dr. Newman		
+cpb-aacip-507-154dn40c26-transcript.ann	T145	person	13556	13561	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T146	location	13462	13481	Carville, Louisiana	https://en.wikipedia.org/wiki/Carville,_Louisiana	https://www.wikidata.org/wiki/Q5047568
+cpb-aacip-507-154dn40c26-transcript.ann	T147	organization	13244	13268	Anti-AIDS Citizens Group		
+cpb-aacip-507-154dn40c26-transcript.ann	T148	person	14630	14636	Robert		
+cpb-aacip-507-154dn40c26-transcript.ann	T149	person	13927	13935	"""ROBERT"""		
+cpb-aacip-507-154dn40c26-transcript.ann	T150	person	13227	13242	Dr. MATT NEWMAN		
+cpb-aacip-507-154dn40c26-transcript.ann	T151	location	13167	13173	Tacoma	https://en.wikipedia.org/wiki/Tacoma,_Washington	https://www.wikidata.org/wiki/Q199797
+cpb-aacip-507-154dn40c26-transcript.ann	T152	location	13112	13128	Washington State	https://en.wikipedia.org/wiki/Washington_(state)	https://www.wikidata.org/wiki/Q1223
+cpb-aacip-507-154dn40c26-transcript.ann	T153	person	13072	13077	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T154	person	12821	12829	"""ROBERT"""		
+cpb-aacip-507-154dn40c26-transcript.ann	T155	location	12746	12765	Seattle, Washington	https://en.wikipedia.org/wiki/Seattle	https://www.wikidata.org/wiki/Q5083
+cpb-aacip-507-154dn40c26-transcript.ann	T156	person	12707	12713	Robert		
+cpb-aacip-507-154dn40c26-transcript.ann	T157	person	12361	12368	Traynor		
+cpb-aacip-507-154dn40c26-transcript.ann	T158	organization	12280	12286	United	https://en.wikipedia.org/wiki/United_Airlines	https://www.wikidata.org/wiki/Q174769
+cpb-aacip-507-154dn40c26-transcript.ann	T159	organization	12024	12030	United	https://en.wikipedia.org/wiki/United_Airlines	https://www.wikidata.org/wiki/Q174769
+cpb-aacip-507-154dn40c26-transcript.ann	T160	person	12015	12022	Traynor		
+cpb-aacip-507-154dn40c26-transcript.ann	T161	person	11980	11985	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T162	organization	11613	11619	United	https://en.wikipedia.org/wiki/United_Airlines	https://www.wikidata.org/wiki/Q174769
+cpb-aacip-507-154dn40c26-transcript.ann	T163	organization	11559	11565	United	https://en.wikipedia.org/wiki/United_Airlines	https://www.wikidata.org/wiki/Q174769
+cpb-aacip-507-154dn40c26-transcript.ann	T164	person	11539	11550	GAR TRAYNOR		
+cpb-aacip-507-154dn40c26-transcript.ann	T165	location	11467	11480	San Francisco	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+cpb-aacip-507-154dn40c26-transcript.ann	T166	organization	11447	11463	United Air Lines	https://en.wikipedia.org/wiki/United_Airlines	https://www.wikidata.org/wiki/Q174769
+cpb-aacip-507-154dn40c26-transcript.ann	T167	person	11395	11406	Gar Traynor		
+cpb-aacip-507-154dn40c26-transcript.ann	T168	person	11170	11175	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T169	person	11151	11161	RYAN WHITE	https://en.wikipedia.org/wiki/Ryan_White	https://www.wikidata.org/wiki/Q320163
+cpb-aacip-507-154dn40c26-transcript.ann	T170	person	20164	20172	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T171	person	20119	20129	Dr. Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T172	organization	20011	20050	Lambda Legal Defense and Education Fund	https://en.wikipedia.org/wiki/Lambda_Legal	https://www.wikidata.org/wiki/Q1643587
+cpb-aacip-507-154dn40c26-transcript.ann	T173	person	19957	19971	Joe Tom Easely		
+cpb-aacip-507-154dn40c26-transcript.ann	T174	person	19772	19795	Dr. Helen Singer Kaplan	https://en.wikipedia.org/wiki/Lambda_Legal	https://www.wikidata.org/wiki/Q1643587
+cpb-aacip-507-154dn40c26-transcript.ann	T174	person	19772	19795	Dr. Helen Singer Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T175	person	19477	19484	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T176	organization	19833	19862	Department of Human Sexuality		
+cpb-aacip-507-154dn40c26-transcript.ann	T177	person	19469	19474	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T178	person	19445	19453	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T179	person	19435	19443	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T180	person	19401	19409	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T181	person	19320	19328	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T182	person	19066	19074	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T183	person	19027	19035	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T184	person	18490	18498	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T185	person	18168	18176	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T186	location	16744	16750	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-154dn40c26-transcript.ann	T187	location	16718	16724	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-154dn40c26-transcript.ann	T188	person	16645	16653	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T189	location	16548	16554	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-154dn40c26-transcript.ann	T190	person	16401	16409	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T191	person	16083	16091	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T192	person	15947	15955	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T193	person	15725	15733	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T194	person	15592	15600	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T195	person	20307	20330	Dr. HELEN SINGER KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T196	person	20371	20376	"""Bob"""		
+cpb-aacip-507-154dn40c26-transcript.ann	T197	person	20593	20601	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T198	person	20998	21005	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T199	person	21229	21239	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T200	person	21345	21353	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T201	person	21385	21395	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T202	person	21429	21436	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T203	person	21465	21475	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T204	organization	19870	19911	New Yjork Hospital Cornell Medical Center	https://en.wikipedia.org/wiki/Weill_Cornell_Medical_Center	https://www.wikidata.org/wiki/Q7013596
+cpb-aacip-507-154dn40c26-transcript.ann	T205	person	21483	21490	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T206	location	21618	21634	Washington State	https://en.wikipedia.org/wiki/Washington_(state)	https://www.wikidata.org/wiki/Q1223
+cpb-aacip-507-154dn40c26-transcript.ann	T207	person	21637	21651	JOE TOM EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T208	person	21702	21710	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T209	organization	21999	22024	Lambda Legal Defense Fund	https://en.wikipedia.org/wiki/Lambda_Legal	https://www.wikidata.org/wiki/Q1643587
+cpb-aacip-507-154dn40c26-transcript.ann	T210	person	22547	22554	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T211	person	22573	22583	Mr. EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T212	person	22733	22740	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T213	person	22899	22909	Mayor Koch	https://en.wikipedia.org/wiki/Ed_Koch	https://www.wikidata.org/wiki/Q467122
+cpb-aacip-507-154dn40c26-transcript.ann	T214	person	23012	23022	Mr. EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T215	person	23127	23135	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T216	person	23144	23152	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T217	organization	23193	23218	Memorial Sloane Kettering	https://en.wikipedia.org/wiki/Memorial_Sloan_Kettering_Cancer_Center	https://www.wikidata.org/wiki/Q1808012
+cpb-aacip-507-154dn40c26-transcript.ann	T218	organization	23384	23413	National Institutes of Health	https://en.wikipedia.org/wiki/National_Institutes_of_Health	https://www.wikidata.org/wiki/Q390551
+cpb-aacip-507-154dn40c26-transcript.ann	T219	organization	23422	23449	Centers for Disease Control	https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention	https://www.wikidata.org/wiki/Q583725
+cpb-aacip-507-154dn40c26-transcript.ann	T220	person	23530	23538	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T221	person	23742	23749	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T222	person	23751	23761	Dr. Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T223	person	23815	23823	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T224	person	23897	23907	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T225	location	24163	24171	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T226	location	24231	24239	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T227	person	24449	24459	Mr. EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T228	location	25090	25098	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T229	location	25146	25154	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T230	person	25195	25202	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T231	location	25258	25266	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T232	person	25269	25277	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T233	person	25330	25337	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T234	person	25376	25386	Dr. Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T235	person	25428	25438	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T236	person	25623	25630	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T237	person	26380	26388	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T238	person	26916	26923	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T239	person	26950	26960	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T240	person	26971	26979	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T241	person	27020	27027	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T242	location	27123	27129	Kokomo	https://en.wikipedia.org/wiki/Kokomo,_Indiana	https://www.wikidata.org/wiki/Q913209
+cpb-aacip-507-154dn40c26-transcript.ann	T243	person	27232	27242	Mr. EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T244	person	27268	27278	Dr. Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T245	location	27407	27413	Kokomo	https://en.wikipedia.org/wiki/Kokomo,_Indiana	https://www.wikidata.org/wiki/Q913209
+cpb-aacip-507-154dn40c26-transcript.ann	T246	location	27438	27460	New Haven, Connecticut	https://en.wikipedia.org/wiki/New_Haven,_Connecticut	https://www.wikidata.org/wiki/Q49145
+cpb-aacip-507-154dn40c26-transcript.ann	T247	person	27500	27507	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T248	person	27592	27600	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T249	location	28127	28140	New York City	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T250	person	28702	28709	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T251	person	28747	28751	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T252	person	28754	28762	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T253	person	28991	29001	June Cross	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T254	person	29037	29042	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T255	organization	29296	29304	Pentagon	https://en.wikipedia.org/wiki/The_Pentagon	https://www.wikidata.org/wiki/Q11208
+cpb-aacip-507-154dn40c26-transcript.ann	T256	person	29373	29386	WILLIAM MAYER	https://en.wikipedia.org/wiki/William_E._Mayer	https://www.wikidata.org/wiki/Q78187253
+cpb-aacip-507-154dn40c26-transcript.ann	T257	organization	29388	29406	Defense Department	https://en.wikipedia.org/wiki/United_States_Department_of_Defense	https://www.wikidata.org/wiki/Q11209
+cpb-aacip-507-154dn40c26-transcript.ann	T258	person	29837	29842	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T259	person	30100	30105	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T260	person	30318	30336	Dr. HERBERT PERKIN		
+cpb-aacip-507-154dn40c26-transcript.ann	T261	organization	30338	30363	Irwin Memorial Blood Bank	https://en.wikipedia.org/wiki/Blood_Centers_of_the_Pacific	https://www.wikidata.org/wiki/Q4927572
+cpb-aacip-507-154dn40c26-transcript.ann	T262	location	30365	30378	San Francisco	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+cpb-aacip-507-154dn40c26-transcript.ann	T263	person	30579	30584	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T264	person	30886	30900	BOBBY REYNOLDS		
+cpb-aacip-507-154dn40c26-transcript.ann	T265	person	31104	31109	CROSS	https://en.wikipedia.org/wiki/June_Cross	https://www.wikidata.org/wiki/Q111142691
+cpb-aacip-507-154dn40c26-transcript.ann	T266	location	31171	31181	California	https://en.wikipedia.org/wiki/California	https://www.wikidata.org/wiki/Q99
+cpb-aacip-507-154dn40c26-transcript.ann	T267	person	31350	31361	PAUL CASTRO		
+cpb-aacip-507-154dn40c26-transcript.ann	T268	person	31506	31518	Mr. REYNOLDS		
+cpb-aacip-507-154dn40c26-transcript.ann	T269	person	31847	31855	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T270	location	31945	31953	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-154dn40c26-transcript.ann	T271	person	32101	32118	Dr. Thomas Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T272	organization	32146	32175	Colorado Department of Health		
+cpb-aacip-507-154dn40c26-transcript.ann	T273	person	32177	32187	Dr. Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T274	person	32254	32271	Dr. THOMAS VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T275	location	32693	32701	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-154dn40c26-transcript.ann	T276	person	32745	32753	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T277	person	32836	32846	Dr. VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T278	person	33118	33126	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T279	person	33212	33222	Dr. VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T280	person	33766	33774	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T281	person	33909	33919	Dr. VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T282	person	34562	34570	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T283	person	34688	34698	Dr. VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T284	person	35275	35283	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T285	person	35494	35504	Dr. VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T286	person	35978	35986	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T287	person	36192	36202	Dr. VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T288	person	36774	36782	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T289	person	36784	36794	Dr. Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T290	person	36810	36815	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T291	person	36818	36825	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T292	person	36827	36837	Mr. Easely		
+cpb-aacip-507-154dn40c26-transcript.ann	T293	location	36864	36872	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-154dn40c26-transcript.ann	T294	person	36880	36890	Mr. EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T295	person	37242	37252	Dr. Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T296	organization	37828	37831	FDA	https://en.wikipedia.org/wiki/Food_and_Drug_Administration	https://www.wikidata.org/wiki/Q204711
+cpb-aacip-507-154dn40c26-transcript.ann	T297	location	38052	38060	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-154dn40c26-transcript.ann	T298	location	38098	38108	New Jersey	https://en.wikipedia.org/wiki/New_Jersey	https://www.wikidata.org/wiki/Q1408
+cpb-aacip-507-154dn40c26-transcript.ann	T299	location	38256	38266	New Jersey	https://en.wikipedia.org/wiki/New_Jersey	https://www.wikidata.org/wiki/Q1408
+cpb-aacip-507-154dn40c26-transcript.ann	T300	location	38326	38334	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-154dn40c26-transcript.ann	T301	location	38398	38404	Denver	https://en.wikipedia.org/wiki/Denver	https://www.wikidata.org/wiki/Q16554
+cpb-aacip-507-154dn40c26-transcript.ann	T302	person	38422	38429	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T303	person	38472	38482	Mr. EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T304	person	38711	38718	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T305	person	38734	38742	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T306	person	38775	38785	Dr. Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T307	person	38836	38844	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T308	person	39140	39147	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T309	person	39356	39364	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T310	person	39377	39384	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T311	person	39473	39481	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T312	person	39533	39540	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T313	person	39623	39631	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T314	person	39809	39819	Dr. Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T315	person	40182	40189	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T316	location	40212	40220	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-154dn40c26-transcript.ann	T317	person	40236	40246	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T318	location	40428	40441	New York City	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T319	location	40473	40483	New Jersey	https://en.wikipedia.org/wiki/New_Jersey	https://www.wikidata.org/wiki/Q1408
+cpb-aacip-507-154dn40c26-transcript.ann	T320	person	40683	40690	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T321	person	40732	40742	Dr. Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T322	person	40748	40758	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T323	person	40784	40792	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T324	person	40989	40997	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T325	person	41514	41521	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T326	person	41549	41559	Dr. Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T327	person	41565	41575	Mr. Easely		
+cpb-aacip-507-154dn40c26-transcript.ann	T328	person	41731	41741	Dr. VERNON		
+cpb-aacip-507-154dn40c26-transcript.ann	T329	person	41743	41751	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T330	person	41756	41766	Dr. Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T331	organization	41919	41928	Red Cross	https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement	https://www.wikidata.org/wiki/Q7178
+cpb-aacip-507-154dn40c26-transcript.ann	T332	person	42273	42280	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T333	person	42405	42415	Mr. EASELY		
+cpb-aacip-507-154dn40c26-transcript.ann	T334	person	42672	42679	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T335	person	42722	42732	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T336	person	42777	42785	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T337	person	42808	42818	Dr. KAPLAN	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T338	person	42950	42958	Dr. KRIM	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T339	person	43257	43264	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T340	person	43408	43418	Dr. Vernon		
+cpb-aacip-507-154dn40c26-transcript.ann	T341	location	43423	43431	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-154dn40c26-transcript.ann	T342	person	43433	43441	Dr. Krim	https://en.wikipedia.org/wiki/Mathilde_Krim	https://www.wikidata.org/wiki/Q1908707
+cpb-aacip-507-154dn40c26-transcript.ann	T343	person	43443	43453	Mr. Easely		
+cpb-aacip-507-154dn40c26-transcript.ann	T344	person	43458	43468	Dr. Kaplan	https://en.wikipedia.org/wiki/Helen_Singer_Kaplan	https://www.wikidata.org/wiki/Q5703188
+cpb-aacip-507-154dn40c26-transcript.ann	T345	location	43472	43480	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-154dn40c26-transcript.ann	T346	person	43482	43486	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T347	title	43488	43506	Farm Credit Crunch		
+cpb-aacip-507-154dn40c26-transcript.ann	T348	person	43508	43516	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T349	person	43809	43825	Donald Wilkinson		
+cpb-aacip-507-154dn40c26-transcript.ann	T350	title	43835	43854	Wall Street Journal	https://en.wikipedia.org/wiki/The_Wall_Street_Journal	https://www.wikidata.org/wiki/Q164746
+cpb-aacip-507-154dn40c26-transcript.ann	T351	organization	43859	43877	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T352	person	43945	43954	Wilkinson		
+cpb-aacip-507-154dn40c26-transcript.ann	T353	organization	43722	43748	Farm Credit Administration	https://en.wikipedia.org/wiki/Farm_Credit_Administration	https://www.wikidata.org/wiki/Q5435482
+cpb-aacip-507-154dn40c26-transcript.ann	T354	organization	43977	43995	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T355	organization	44128	44146	farm credit system	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T356	location	44201	44212	Wall Street	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+cpb-aacip-507-154dn40c26-transcript.ann	T357	person	44366	44378	Kwame Holman	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T358	person	44454	44466	KWAME HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T359	location	44501	44508	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-154dn40c26-transcript.ann	T360	location	44598	44609	Wall Street	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+cpb-aacip-507-154dn40c26-transcript.ann	T361	location	44645	44654	farm belt		
+cpb-aacip-507-154dn40c26-transcript.ann	T362	organization	44694	44712	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T363	event	44801	44817	Great Depression	https://en.wikipedia.org/wiki/Great_Depression	https://www.wikidata.org/wiki/Q8698
+cpb-aacip-507-154dn40c26-transcript.ann	T364	person	45286	45307	Congressman Jim Leach	https://en.wikipedia.org/wiki/Jim_Leach	https://www.wikidata.org/wiki/Q1689138
+cpb-aacip-507-154dn40c26-transcript.ann	T365	location	45281	45285	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-154dn40c26-transcript.ann	T366	person	45310	45324	Rep. JIM LEACH	https://en.wikipedia.org/wiki/Jim_Leach	https://www.wikidata.org/wiki/Q1689138
+cpb-aacip-507-154dn40c26-transcript.ann	T367	location	45330	45334	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-154dn40c26-transcript.ann	T368	organization	45350	45368	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T369	person	45411	45417	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T370	organization	45821	45839	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T371	person	45857	45866	NEIL HARL		
+cpb-aacip-507-154dn40c26-transcript.ann	T372	organization	45879	45900	Iowa State University	https://en.wikipedia.org/wiki/Iowa_State_University	https://www.wikidata.org/wiki/Q1136919
+cpb-aacip-507-154dn40c26-transcript.ann	T373	person	46084	46090	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T374	organization	46117	46135	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T375	person	46330	46340	Rep. LEACH	https://en.wikipedia.org/wiki/Jim_Leach	https://www.wikidata.org/wiki/Q1689138
+cpb-aacip-507-154dn40c26-transcript.ann	T376	person	46520	46526	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T377	person	46541	46551	Ray Powell		
+cpb-aacip-507-154dn40c26-transcript.ann	T378	location	46602	46615	Creston, Iowa	https://en.wikipedia.org/wiki/Creston,_Iowa	https://www.wikidata.org/wiki/Q745062
+cpb-aacip-507-154dn40c26-transcript.ann	T379	person	46618	46628	RAY POWELL		
+cpb-aacip-507-154dn40c26-transcript.ann	T380	person	46857	46863	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T381	location	47102	47115	Creston, Iowa	https://en.wikipedia.org/wiki/Creston,_Iowa	https://www.wikidata.org/wiki/Q745062
+cpb-aacip-507-154dn40c26-transcript.ann	T382	location	47233	47238	Omaha	https://en.wikipedia.org/wiki/Omaha,_Nebraska	https://www.wikidata.org/wiki/Q43199
+cpb-aacip-507-154dn40c26-transcript.ann	T383	person	47297	47311	Tom Langemeier		
+cpb-aacip-507-154dn40c26-transcript.ann	T384	location	47353	47360	Creston	https://en.wikipedia.org/wiki/Creston,_Iowa	https://www.wikidata.org/wiki/Q745062
+cpb-aacip-507-154dn40c26-transcript.ann	T385	person	47363	47377	TOM LANGEMEIER		
+cpb-aacip-507-154dn40c26-transcript.ann	T386	person	47714	47727	DON WILKINSON		
+cpb-aacip-507-154dn40c26-transcript.ann	T387	organization	47739	47765	Farm Credit Administration	https://en.wikipedia.org/wiki/Farm_Credit_Administration	https://www.wikidata.org/wiki/Q5435482
+cpb-aacip-507-154dn40c26-transcript.ann	T388	person	47988	47994	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T389	organization	48065	48083	farm credit system	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T390	person	48084	48109	Governor Donald Wilkinson		
+cpb-aacip-507-154dn40c26-transcript.ann	T391	location	48244	48251	Creston	https://en.wikipedia.org/wiki/Creston,_Iowa	https://www.wikidata.org/wiki/Q745062
+cpb-aacip-507-154dn40c26-transcript.ann	T392	organization	48470	48488	farm credit system	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T393	organization	48686	48723	Creston production credit association		
+cpb-aacip-507-154dn40c26-transcript.ann	T394	person	48878	48888	LEO TUCKER		
+cpb-aacip-507-154dn40c26-transcript.ann	T395	person	49000	49006	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T396	person	49028	49038	Leo Tucker		
+cpb-aacip-507-154dn40c26-transcript.ann	T397	organization	49126	49145	Creston association		
+cpb-aacip-507-154dn40c26-transcript.ann	T398	person	49373	49383	Mr. TUCKER		
+cpb-aacip-507-154dn40c26-transcript.ann	T399	organization	49395	49413	farm credit system	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T400	organization	49565	49568	PCA		
+cpb-aacip-507-154dn40c26-transcript.ann	T401	person	49643	49654	DEBBIE HALL		
+cpb-aacip-507-154dn40c26-transcript.ann	T402	person	49664	49682	Governor Wilkinson		
+cpb-aacip-507-154dn40c26-transcript.ann	T403	person	50028	50034	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T404	organization	50064	50083	Creston association		
+cpb-aacip-507-154dn40c26-transcript.ann	T405	location	50112	50116	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-154dn40c26-transcript.ann	T406	person	50117	50142	Congressman Jim Lightfoot	https://en.wikipedia.org/wiki/Jim_Ross_Lightfoot	https://www.wikidata.org/wiki/Q1271006
+cpb-aacip-507-154dn40c26-transcript.ann	T407	person	50194	50212	Rep. JIM LIGHTFOOD	https://en.wikipedia.org/wiki/Jim_Ross_Lightfoot	https://www.wikidata.org/wiki/Q1271006
+cpb-aacip-507-154dn40c26-transcript.ann	T408	location	50219	50223	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-154dn40c26-transcript.ann	T409	person	50277	50283	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T410	person	50422	50432	Rep. LEACH	https://en.wikipedia.org/wiki/Jim_Leach	https://www.wikidata.org/wiki/Q1689138
+cpb-aacip-507-154dn40c26-transcript.ann	T411	person	50578	50584	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T412	person	50630	50651	Congressman Jim Leach	https://en.wikipedia.org/wiki/Jim_Leach	https://www.wikidata.org/wiki/Q1689138
+cpb-aacip-507-154dn40c26-transcript.ann	T413	location	50664	50668	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-154dn40c26-transcript.ann	T414	organization	50845	50856	Wall Street	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+cpb-aacip-507-154dn40c26-transcript.ann	T415	organization	50876	50894	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T416	person	51413	51421	Mr. HARL		
+cpb-aacip-507-154dn40c26-transcript.ann	T417	organization	51540	51560	Continental Illinois	https://en.wikipedia.org/wiki/Continental_Illinois	https://www.wikidata.org/wiki/Q5165293
+cpb-aacip-507-154dn40c26-transcript.ann	T418	organization	51582	51593	Continental	https://en.wikipedia.org/wiki/Continental_Illinois	https://www.wikidata.org/wiki/Q5165293
+cpb-aacip-507-154dn40c26-transcript.ann	T419	organization	51610	51621	Continental	https://en.wikipedia.org/wiki/Continental_Illinois	https://www.wikidata.org/wiki/Q5165293
+cpb-aacip-507-154dn40c26-transcript.ann	T420	person	51718	51724	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T421	location	51901	51920	Spokane, Washington	https://en.wikipedia.org/wiki/Spokane,_Washington	https://www.wikidata.org/wiki/Q187805
+cpb-aacip-507-154dn40c26-transcript.ann	T422	location	52015	52020	Omaha	https://en.wikipedia.org/wiki/Omaha,_Nebraska	https://www.wikidata.org/wiki/Q43199
+cpb-aacip-507-154dn40c26-transcript.ann	T423	organization	52059	52078	Creston association		
+cpb-aacip-507-154dn40c26-transcript.ann	T424	organization	52132	52150	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T425	person	52323	52333	Rep. LEACH	https://en.wikipedia.org/wiki/Jim_Leach	https://www.wikidata.org/wiki/Q1689138
+cpb-aacip-507-154dn40c26-transcript.ann	T426	person	52470	52484	Gov. WILKINSON		
+cpb-aacip-507-154dn40c26-transcript.ann	T427	person	52714	52722	Mr. HARL		
+cpb-aacip-507-154dn40c26-transcript.ann	T428	organization	52740	52750	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-154dn40c26-transcript.ann	T429	person	53007	53013	HOLMAN	https://en.wikipedia.org/wiki/Kwame_Holman	https://www.wikidata.org/wiki/Q50410244
+cpb-aacip-507-154dn40c26-transcript.ann	T430	location	53231	53238	Creston	https://en.wikipedia.org/wiki/Creston,_Iowa	https://www.wikidata.org/wiki/Q745062
+cpb-aacip-507-154dn40c26-transcript.ann	T431	location	53240	53244	Iowa	https://en.wikipedia.org/wiki/Iowa	https://www.wikidata.org/wiki/Q1546
+cpb-aacip-507-154dn40c26-transcript.ann	T432	organization	53253	53271	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T433	person	53274	53282	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T434	organization	53329	53347	Farm Credit System	https://en.wikipedia.org/wiki/Farm_Credit_System	https://www.wikidata.org/wiki/Q5435487
+cpb-aacip-507-154dn40c26-transcript.ann	T435	organization	53555	53563	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-154dn40c26-transcript.ann	T436	person	53565	53570	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T437	person	53573	53580	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T438	organization	53623	53629	Moscow	https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic	https://www.wikidata.org/wiki/Q2184
+cpb-aacip-507-154dn40c26-transcript.ann	T439	organization	53688	53714	Farm Credit Administration	https://en.wikipedia.org/wiki/Farm_Credit_Administration	https://www.wikidata.org/wiki/Q5435482
+cpb-aacip-507-154dn40c26-transcript.ann	T440	location	53766	53778	South Africa	https://en.wikipedia.org/wiki/South_Africa	https://www.wikidata.org/wiki/Q258
+cpb-aacip-507-154dn40c26-transcript.ann	T441	organization	53815	53829	Delta Airlines	https://en.wikipedia.org/wiki/Delta_Air_Lines	https://www.wikidata.org/wiki/Q188920
+cpb-aacip-507-154dn40c26-transcript.ann	T442	person	53915	53919	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T443	person	53922	53930	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-154dn40c26-transcript.ann	T444	person	53944	53949	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-154dn40c26-transcript.ann	T445	title	53962	53970	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-154dn40c26-transcript.ann	T446	person	54018	54031	Judy Woodruff	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655

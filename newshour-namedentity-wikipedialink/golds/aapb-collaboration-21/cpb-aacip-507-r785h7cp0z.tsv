@@ -1,0 +1,486 @@
+guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+cpb-aacip-507-r785h7cp0z-transcript.ann	T1	organization	4797	4801	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T2	organization	4773	4779	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-r785h7cp0z-transcript.ann	T3	organization	4719	4741	Department of Commerce	https://en.wikipedia.org/wiki/United_States_Department_of_Commerce	https://www.wikidata.org/wiki/Q503577
+cpb-aacip-507-r785h7cp0z-transcript.ann	T4	organization	4692	4713	Department of Justice	https://en.wikipedia.org/wiki/United_States_Department_of_Justice	https://www.wikidata.org/wiki/Q1553390
+cpb-aacip-507-r785h7cp0z-transcript.ann	T5	organization	4662	4686	House of Representatives	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-r785h7cp0z-transcript.ann	T6	organization	4641	4644	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T7	organization	4632	4635	MCI	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+cpb-aacip-507-r785h7cp0z-transcript.ann	T8	person	4615	4630	WILLIAM McGOWAN	https://en.wikipedia.org/wiki/William_G._McGowan	https://www.wikidata.org/wiki/Q8009555
+cpb-aacip-507-r785h7cp0z-transcript.ann	T9	organization	4608	4611	MCI	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+cpb-aacip-507-r785h7cp0z-transcript.ann	T10	organization	4582	4586	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T11	organization	4558	4561	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T12	organization	4338	4343	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-r785h7cp0z-transcript.ann	T13	person	4263	4288	Congressman Timothy Wirth	https://en.wikipedia.org/wiki/Tim_Wirth	https://www.wikidata.org/wiki/Q1027431
+cpb-aacip-507-r785h7cp0z-transcript.ann	T14	location	4254	4262	Colorado	https://en.wikipedia.org/wiki/Colorado	https://www.wikidata.org/wiki/Q1261
+cpb-aacip-507-r785h7cp0z-transcript.ann	T15	organization	4132	4136	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T16	organization	4118	4121	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T17	organization	4095	4103	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T18	organization	4046	4050	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T19	person	4027	4035	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T20	organization	3851	3859	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T21	organization	3654	3687	Federal Communications Commission	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T22	organization	3407	3412	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-r785h7cp0z-transcript.ann	T23	location	3349	3355	Kansas	https://en.wikipedia.org/wiki/Kansas	https://www.wikidata.org/wiki/Q1558
+cpb-aacip-507-r785h7cp0z-transcript.ann	T24	person	3327	3343	Sen. ROBERT DOLE	https://en.wikipedia.org/wiki/Bob_Dole	https://www.wikidata.org/wiki/Q319079
+cpb-aacip-507-r785h7cp0z-transcript.ann	T25	person	3516	3524	Packwood	https://en.wikipedia.org/wiki/Bob_Packwood	https://www.wikidata.org/wiki/Q888183
+cpb-aacip-507-r785h7cp0z-transcript.ann	T26	organization	3315	3318	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T27	person	3275	3294	Senator Robert Dole	https://en.wikipedia.org/wiki/Bob_Dole	https://www.wikidata.org/wiki/Q319079
+cpb-aacip-507-r785h7cp0z-transcript.ann	T28	organization	3225	3233	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T29	organization	3159	3167	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T30	organization	3120	3123	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T31	organization	2945	2948	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T32	organization	2750	2754	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T33	organization	2626	2629	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T34	organization	2465	2498	Federal Communications Commission	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T35	person	2451	2459	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T37	person	2407	2411	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T38	title	2395	2403	Red Star	https://en.wikipedia.org/wiki/Krasnaya_Zvezda	https://www.wikidata.org/wiki/Q739387
+cpb-aacip-507-r785h7cp0z-transcript.ann	T39	organization	2373	2379	Soviet	https://en.wikipedia.org/wiki/Soviet_Union	https://www.wikidata.org/wiki/Q15180
+cpb-aacip-507-r785h7cp0z-transcript.ann	T40	organization	2324	2328	NATO	https://en.wikipedia.org/wiki/NATO	https://www.wikidata.org/wiki/Q7184
+cpb-aacip-507-r785h7cp0z-transcript.ann	T41	location	2294	2308	Czechoslovakia	https://en.wikipedia.org/wiki/Czechoslovakia	https://www.wikidata.org/wiki/Q33946
+cpb-aacip-507-r785h7cp0z-transcript.ann	T42	location	2277	2289	East Germany	https://en.wikipedia.org/wiki/East_Germany	https://www.wikidata.org/wiki/Q16957
+cpb-aacip-507-r785h7cp0z-transcript.ann	T43	organization	2219	2226	Soviets	https://en.wikipedia.org/wiki/Soviet_Union	https://www.wikidata.org/wiki/Q15180
+cpb-aacip-507-r785h7cp0z-transcript.ann	T44	organization	2131	2142	Warsaw Pact	https://en.wikipedia.org/wiki/Warsaw_Pact	https://www.wikidata.org/wiki/Q41644
+cpb-aacip-507-r785h7cp0z-transcript.ann	T45	organization	2122	2128	Moscow	https://en.wikipedia.org/wiki/Russian_Soviet_Federative_Socialist_Republic	https://www.wikidata.org/wiki/Q2184
+cpb-aacip-507-r785h7cp0z-transcript.ann	T46	location	2107	2116	Stockholm	https://en.wikipedia.org/wiki/Stockholm	https://www.wikidata.org/wiki/Q1754
+cpb-aacip-507-r785h7cp0z-transcript.ann	T47	location	2072	2078	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-r785h7cp0z-transcript.ann	T48	organization	1978	1985	Soviets	https://en.wikipedia.org/wiki/Soviet_Union	https://www.wikidata.org/wiki/Q15180
+cpb-aacip-507-r785h7cp0z-transcript.ann	T49	person	1955	1965	Mr. Shultz	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+cpb-aacip-507-r785h7cp0z-transcript.ann	T50	location	1947	1953	Europe	https://en.wikipedia.org/wiki/Europe	https://www.wikidata.org/wiki/Q46
+cpb-aacip-507-r785h7cp0z-transcript.ann	T51	organization	1872	1876	NATO	https://en.wikipedia.org/wiki/NATO	https://www.wikidata.org/wiki/Q7184
+cpb-aacip-507-r785h7cp0z-transcript.ann	T52	location	1863	1867	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T53	organization	1800	1807	Soviets	https://en.wikipedia.org/wiki/Soviet_Union	https://www.wikidata.org/wiki/Q15180
+cpb-aacip-507-r785h7cp0z-transcript.ann	T54	person	1787	1794	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T55	person	1610	1621	Mr. Gromyko	https://en.wikipedia.org/wiki/Andrei_Gromyko	https://www.wikidata.org/wiki/Q184267
+cpb-aacip-507-r785h7cp0z-transcript.ann	T56	person	1540	1553	GEORGE SHULTZ	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+cpb-aacip-507-r785h7cp0z-transcript.ann	T57	person	1516	1526	Mr. Shultz	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+cpb-aacip-507-r785h7cp0z-transcript.ann	T58	location	1490	1496	Geneva	https://en.wikipedia.org/wiki/Geneva	https://www.wikidata.org/wiki/Q71
+cpb-aacip-507-r785h7cp0z-transcript.ann	T59	organization	1453	1460	Soviets	https://en.wikipedia.org/wiki/Soviet_Union	https://www.wikidata.org/wiki/Q15180
+cpb-aacip-507-r785h7cp0z-transcript.ann	T60	location	1411	1420	Stockholm	https://en.wikipedia.org/wiki/Stockholm	https://www.wikidata.org/wiki/Q1754
+cpb-aacip-507-r785h7cp0z-transcript.ann	T61	organization	1273	1293	Norwegian government	https://en.wikipedia.org/wiki/Politics_of_Norway	https://www.wikidata.org/wiki/Q1153694
+cpb-aacip-507-r785h7cp0z-transcript.ann	T62	location	1255	1259	Oslo	https://en.wikipedia.org/wiki/Oslo	https://www.wikidata.org/wiki/Q585
+cpb-aacip-507-r785h7cp0z-transcript.ann	T63	person	1237	1243	Shultz	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+cpb-aacip-507-r785h7cp0z-transcript.ann	T64	person	1211	1225	Andrei Gromyko	https://en.wikipedia.org/wiki/Andrei_Gromyko	https://www.wikidata.org/wiki/Q184267
+cpb-aacip-507-r785h7cp0z-transcript.ann	T65	person	1081	1113	Secretary of State George Shultz	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+cpb-aacip-507-r785h7cp0z-transcript.ann	T66	person	1072	1079	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T67	location	1040	1049	Cleveland	https://en.wikipedia.org/wiki/Cleveland	https://www.wikidata.org/wiki/Q37320
+cpb-aacip-507-r785h7cp0z-transcript.ann	T68	person	951	963	Sister MARIA		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T69	location	900	911	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T70	location	834	843	Nicaragua	https://en.wikipedia.org/wiki/Nicaragua	https://www.wikidata.org/wiki/Q811
+cpb-aacip-507-r785h7cp0z-transcript.ann	T71	organization	812	816	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T72	location	783	792	Argentina	https://en.wikipedia.org/wiki/Argentina	https://www.wikidata.org/wiki/Q414
+cpb-aacip-507-r785h7cp0z-transcript.ann	T73	location	771	777	Poland	https://en.wikipedia.org/wiki/Poland	https://www.wikidata.org/wiki/Q36
+cpb-aacip-507-r785h7cp0z-transcript.ann	T74	location	732	736	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T75	organization	677	684	Soviets	https://en.wikipedia.org/wiki/Soviet_Union	https://www.wikidata.org/wiki/Q15180
+cpb-aacip-507-r785h7cp0z-transcript.ann	T76	person	601	626	Secretary of State Shultz	https://en.wikipedia.org/wiki/George_Shultz	https://www.wikidata.org/wiki/Q313411
+cpb-aacip-507-r785h7cp0z-transcript.ann	T77	person	561	574	JUDY WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T78	person	554	558	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T79	location	542	552	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-r785h7cp0z-transcript.ann	T80	person	523	536	Judy Woodruff	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T81	person	505	515	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-r785h7cp0z-transcript.ann	T82	organization	399	411	Urban League	https://en.wikipedia.org/wiki/National_Urban_League	https://www.wikidata.org/wiki/Q777636
+cpb-aacip-507-r785h7cp0z-transcript.ann	T83	person	335	342	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T84	organization	224	245	National Urban League	https://en.wikipedia.org/wiki/National_Urban_League	https://www.wikidata.org/wiki/Q777636
+cpb-aacip-507-r785h7cp0z-transcript.ann	T85	person	212	222	JOHN JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T86	location	201	208	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T87	organization	117	120	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T88	person	8	22	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T89	person	8985	8994	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T90	person	8884	8893	Tim Wirth	https://en.wikipedia.org/wiki/Tim_Wirth	https://www.wikidata.org/wiki/Q1027431
+cpb-aacip-507-r785h7cp0z-transcript.ann	T91	organization	8846	8860	Congress Watch	https://en.wikipedia.org/wiki/Public_Citizen	https://www.wikidata.org/wiki/Q7257343
+cpb-aacip-507-r785h7cp0z-transcript.ann	T92	person	8838	8843	Nader	https://en.wikipedia.org/wiki/Ralph_Nader	https://www.wikidata.org/wiki/Q193156
+cpb-aacip-507-r785h7cp0z-transcript.ann	T93	organization	8788	8791	MCI	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+cpb-aacip-507-r785h7cp0z-transcript.ann	T94	person	8759	8771	Senator Dole	https://en.wikipedia.org/wiki/Bob_Dole	https://www.wikidata.org/wiki/Q319079
+cpb-aacip-507-r785h7cp0z-transcript.ann	T95	person	8706	8713	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T96	organization	8286	8290	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T97	organization	8095	8106	Bell System	https://en.wikipedia.org/wiki/Bell_System	https://www.wikidata.org/wiki/Q4883269
+cpb-aacip-507-r785h7cp0z-transcript.ann	T98	person	8078	8087	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T99	person	7859	7866	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T100	person	7799	7808	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T101	person	7570	7577	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T102	person	7526	7535	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T103	person	7435	7442	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T104	organization	7380	7388	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T105	organization	7286	7298	Capitol Hill	https://en.wikipedia.org/wiki/Capitol_Hill	https://www.wikidata.org/wiki/Q2305815
+cpb-aacip-507-r785h7cp0z-transcript.ann	T106	person	7049	7058	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T107	organization	6841	6844	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T108	person	6823	6830	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T109	person	6798	6807	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T110	person	6670	6677	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T111	person	6524	6533	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T112	person	6463	6470	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T113	organization	6456	6459	MCI	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+cpb-aacip-507-r785h7cp0z-transcript.ann	T114	organization	6353	6357	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T115	organization	6244	6247	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T116	organization	6135	6139	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T117	person	6110	6119	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T118	person	5924	5931	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T119	person	5583	5596	MERRILL BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T120	person	5390	5399	Mr. Brown	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T121	title	5373	5388	Washington Post	https://en.wikipedia.org/wiki/The_Washington_Post	https://www.wikidata.org/wiki/Q166032
+cpb-aacip-507-r785h7cp0z-transcript.ann	T122	person	5320	5333	Merrill Brown	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T123	organization	5256	5260	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T124	person	5159	5166	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T125	organization	6746	6757	Wall Street	https://en.wikipedia.org/wiki/Wall_Street	https://www.wikidata.org/wiki/Q11690
+cpb-aacip-507-r785h7cp0z-transcript.ann	T126	person	14360	14369	Mr. Jacob	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T127	person	14305	14314	Mr. Jacob	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T128	location	14281	14288	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T129	person	14227	14247	president John Jacob	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T130	organization	14214	14226	Urban League	https://en.wikipedia.org/wiki/National_Urban_League	https://www.wikidata.org/wiki/Q777636
+cpb-aacip-507-r785h7cp0z-transcript.ann	T131	organization	13771	13792	National Urban League	https://en.wikipedia.org/wiki/National_Urban_League	https://www.wikidata.org/wiki/Q777636
+cpb-aacip-507-r785h7cp0z-transcript.ann	T132	location	13756	13766	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-r785h7cp0z-transcript.ann	T133	person	13524	13540	President Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T134	person	12686	12694	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T135	person	12634	12638	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T136	person	12612	12621	Mr. Brown	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T137	person	12597	12604	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T138	organization	12573	12577	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T139	organization	12463	12467	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T140	organization	12429	12433	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T141	organization	12352	12356	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T142	person	12207	12216	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T143	person	12070	12077	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T144	organization	12015	12019	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T145	organization	11696	11702	Allnet	https://en.wikipedia.org/wiki/Computacenter	https://www.wikidata.org/wiki/Q211237
+cpb-aacip-507-r785h7cp0z-transcript.ann	T146	organization	11686	11692	Sprint	https://en.wikipedia.org/wiki/Sprint_Corporation	https://www.wikidata.org/wiki/Q301965
+cpb-aacip-507-r785h7cp0z-transcript.ann	T147	organization	11679	11682	MCI	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+cpb-aacip-507-r785h7cp0z-transcript.ann	T148	organization	11650	11654	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T149	organization	11571	11575	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T150	organization	11452	11455	MCI	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+cpb-aacip-507-r785h7cp0z-transcript.ann	T151	organization	11357	11361	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T152	organization	11188	11192	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T153	person	10933	10942	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T154	organization	10730	10733	MCI	https://en.wikipedia.org/wiki/MCI_Communications	https://www.wikidata.org/wiki/Q17089784
+cpb-aacip-507-r785h7cp0z-transcript.ann	T155	organization	10691	10695	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
+cpb-aacip-507-r785h7cp0z-transcript.ann	T156	person	10581	10588	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T157	person	10549	10558	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T158	person	10423	10430	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T159	person	10181	10197	Senator Packwood	https://en.wikipedia.org/wiki/Bob_Packwood	https://www.wikidata.org/wiki/Q888183
+cpb-aacip-507-r785h7cp0z-transcript.ann	T160	organization	10066	10086	United States Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
+cpb-aacip-507-r785h7cp0z-transcript.ann	T161	organization	9963	9966	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T162	organization	9853	9861	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T163	person	9792	9801	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T164	person	9607	9614	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T165	organization	9590	9593	FCC	https://en.wikipedia.org/wiki/Federal_Communications_Commission	https://www.wikidata.org/wiki/Q128831
+cpb-aacip-507-r785h7cp0z-transcript.ann	T166	organization	9376	9381	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-r785h7cp0z-transcript.ann	T167	person	9353	9362	Mr. BROWN	https://en.wikipedia.org/wiki/Merrill_Brown	https://www.wikidata.org/wiki/Q6820166
+cpb-aacip-507-r785h7cp0z-transcript.ann	T168	organization	9306	9311	House	https://en.wikipedia.org/wiki/United_States_House_of_Representatives	https://www.wikidata.org/wiki/Q11701
+cpb-aacip-507-r785h7cp0z-transcript.ann	T169	person	9290	9297	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T170	title	13809	13831	State of Black America		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T171	person	14447	14457	JOHN JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T172	location	14879	14886	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T173	location	14898	14905	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T174	person	14947	14955	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T175	person	15138	15147	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T176	event	15439	15452	the recession	https://en.wikipedia.org/wiki/Early_1980s_recession	https://www.wikidata.org/wiki/Q5326569
+cpb-aacip-507-r785h7cp0z-transcript.ann	T177	person	16433	16441	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T178	person	16470	16479	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T179	person	18554	18562	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T180	location	18025	18032	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T181	person	17906	17915	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T182	person	17838	17846	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T183	title	13626	13652	State of the Union address		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T184	location	13062	13073	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-r785h7cp0z-transcript.ann	T36	location	17827	17834	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T185	person	17190	17199	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T186	location	17179	17186	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T187	person	17124	17137	Ronald Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T188	organization	17111	17120	Democrats	https://en.wikipedia.org/wiki/Democratic_Party_(United_States)	https://www.wikidata.org/wiki/Q29552
+cpb-aacip-507-r785h7cp0z-transcript.ann	T189	organization	17092	17103	Republicans	https://en.wikipedia.org/wiki/Republican_Party_(United_States)	https://www.wikidata.org/wiki/Q29468
+cpb-aacip-507-r785h7cp0z-transcript.ann	T190	person	17012	17020	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T191	location	17001	17008	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T192	location	16983	16990	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T193	person	21196	21205	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T194	person	21163	21173	John Jacob	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T195	person	21121	21129	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T196	location	21106	21117	White House	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-r785h7cp0z-transcript.ann	T197	person	20896	20906	Mr. Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T198	person	20844	20853	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T199	person	20769	20782	Ronald Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T200	person	20732	20740	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T201	location	20704	20728	1600 Pennsylvania Avenue	https://en.wikipedia.org/wiki/White_House	https://www.wikidata.org/wiki/Q35525
+cpb-aacip-507-r785h7cp0z-transcript.ann	T202	person	20646	20656	Mr. Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T203	person	20298	20308	Mr. Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T204	person	20263	20272	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T205	person	20129	20142	Ronald Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T206	person	20115	20123	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T207	location	20059	20066	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T208	person	19930	19939	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T209	person	19892	19900	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T210	location	19881	19888	America	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T211	person	19550	19559	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T212	organization	19538	19546	Congress	https://en.wikipedia.org/wiki/United_States_Congress	https://www.wikidata.org/wiki/Q11268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T213	person	19324	19337	Ronald Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T214	person	19253	19262	Mr. Jacob	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T215	person	19239	19247	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T216	person	18633	18642	Mr. JACOB	https://en.wikipedia.org/wiki/John_Edward_Jacob	https://www.wikidata.org/wiki/Q6231301
+cpb-aacip-507-r785h7cp0z-transcript.ann	T217	location	25152	25156	Rome	https://en.wikipedia.org/wiki/Rome	https://www.wikidata.org/wiki/Q220
+cpb-aacip-507-r785h7cp0z-transcript.ann	T218	organization	25087	25109	Polish Catholic Church	https://en.wikipedia.org/wiki/Catholic_Church_in_Poland	https://www.wikidata.org/wiki/Q1152005
+cpb-aacip-507-r785h7cp0z-transcript.ann	T219	person	25049	25069	Cardinal Jozef Glemp	https://en.wikipedia.org/wiki/J%C3%B3zef_Glemp	https://www.wikidata.org/wiki/Q365238
+cpb-aacip-507-r785h7cp0z-transcript.ann	T220	organization	24992	25022	Communist government of Poland	https://en.wikipedia.org/wiki/Polish_People%27s_Republic	https://www.wikidata.org/wiki/Q211274
+cpb-aacip-507-r785h7cp0z-transcript.ann	T221	organization	24976	24983	Vatican	https://en.wikipedia.org/wiki/Holy_See	https://www.wikidata.org/wiki/Q159583
+cpb-aacip-507-r785h7cp0z-transcript.ann	T222	person	24881	24895	Pope John Paul	https://en.wikipedia.org/wiki/Pope_John_Paul_II	https://www.wikidata.org/wiki/Q989
+cpb-aacip-507-r785h7cp0z-transcript.ann	T223	location	24875	24879	Rome	https://en.wikipedia.org/wiki/Rome	https://www.wikidata.org/wiki/Q220
+cpb-aacip-507-r785h7cp0z-transcript.ann	T224	location	24791	24804	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T225	organization	24706	24729	Polish national airline	https://en.wikipedia.org/wiki/LOT_Polish_Airlines	https://www.wikidata.org/wiki/Q204268
+cpb-aacip-507-r785h7cp0z-transcript.ann	T226	person	24684	24700	President Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T227	location	24664	24670	Poland	https://en.wikipedia.org/wiki/Poland	https://www.wikidata.org/wiki/Q36
+cpb-aacip-507-r785h7cp0z-transcript.ann	T228	organization	24585	24601	State Department	https://en.wikipedia.org/wiki/United_States_Department_of_State	https://www.wikidata.org/wiki/Q789915
+cpb-aacip-507-r785h7cp0z-transcript.ann	T229	title	2413	2448	Long Distance Charges -- FCC Ruling		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T230	title	12640	12683	"Black America: ""Out of Sight, Out of Mind""?"		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T231	title	25189	25213	Missionaries in Salvador		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T232	title	36602	36620	Birth Control Pill		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T233	location	24569	24579	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-r785h7cp0z-transcript.ann	T234	location	24416	24421	Sidon	https://en.wikipedia.org/wiki/Sidon	https://www.wikidata.org/wiki/Q163490
+cpb-aacip-507-r785h7cp0z-transcript.ann	T235	location	24279	24286	Tripoli	https://en.wikipedia.org/wiki/Tripoli,_Lebanon	https://www.wikidata.org/wiki/Q168954
+cpb-aacip-507-r785h7cp0z-transcript.ann	T236	organization	24183	24202	American University	https://en.wikipedia.org/wiki/American_University	https://www.wikidata.org/wiki/Q168000
+cpb-aacip-507-r785h7cp0z-transcript.ann	T237	location	24059	24065	Beirut	https://en.wikipedia.org/wiki/Beirut	https://www.wikidata.org/wiki/Q3820
+cpb-aacip-507-r785h7cp0z-transcript.ann	T238	location	24034	24041	Lebanon	https://en.wikipedia.org/wiki/Lebanon	https://www.wikidata.org/wiki/Q822
+cpb-aacip-507-r785h7cp0z-transcript.ann	T239	title	24004	24027	Israeli-Egyptian treaty	https://en.wikipedia.org/wiki/Egypt%E2%80%93Israel_peace_treaty	https://www.wikidata.org/wiki/Q1129412
+cpb-aacip-507-r785h7cp0z-transcript.ann	T240	location	23832	23838	Israel	https://en.wikipedia.org/wiki/Israel	https://www.wikidata.org/wiki/Q801
+cpb-aacip-507-r785h7cp0z-transcript.ann	T241	location	23780	23785	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-r785h7cp0z-transcript.ann	T242	location	23743	23748	Egypt	https://en.wikipedia.org/wiki/Egypt	https://www.wikidata.org/wiki/Q79
+cpb-aacip-507-r785h7cp0z-transcript.ann	T243	organization	23684	23715	Islamic Conference Organization	https://en.wikipedia.org/wiki/Organisation_of_Islamic_Cooperation	https://www.wikidata.org/wiki/Q47543
+cpb-aacip-507-r785h7cp0z-transcript.ann	T244	location	23668	23678	Casablanca	https://en.wikipedia.org/wiki/Casablanca	https://www.wikidata.org/wiki/Q7903
+cpb-aacip-507-r785h7cp0z-transcript.ann	T245	person	23656	23663	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T246	location	23620	23652	Sugarland Mountain, Pennsylvania		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T247	person	23474	23490	Senator Danforth	https://en.wikipedia.org/wiki/John_Danforth	https://www.wikidata.org/wiki/Q1287554
+cpb-aacip-507-r785h7cp0z-transcript.ann	T248	location	23466	23472	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-r785h7cp0z-transcript.ann	T249	location	23384	23397	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T250	person	23371	23378	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T251	organization	22974	22978	CARE	https://en.wikipedia.org/wiki/Care_International	https://www.wikidata.org/wiki/Q699385
+cpb-aacip-507-r785h7cp0z-transcript.ann	T252	location	22835	22845	Mozambique	https://en.wikipedia.org/wiki/Mozambique	https://www.wikidata.org/wiki/Q1029
+cpb-aacip-507-r785h7cp0z-transcript.ann	T253	location	22272	22278	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-r785h7cp0z-transcript.ann	T254	location	22240	22248	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-r785h7cp0z-transcript.ann	T255	person	22216	22234	Sen. JOHN DANFORTH	https://en.wikipedia.org/wiki/John_Danforth	https://www.wikidata.org/wiki/Q1287554
+cpb-aacip-507-r785h7cp0z-transcript.ann	T256	person	22143	22159	President Reagan	https://en.wikipedia.org/wiki/Ronald_Reagan	https://www.wikidata.org/wiki/Q9960
+cpb-aacip-507-r785h7cp0z-transcript.ann	T257	person	22089	22105	Senator Danforth	https://en.wikipedia.org/wiki/John_Danforth	https://www.wikidata.org/wiki/Q1287554
+cpb-aacip-507-r785h7cp0z-transcript.ann	T258	person	22001	22029	Majority Leader Howard Baker	https://en.wikipedia.org/wiki/Howard_Baker	https://www.wikidata.org/wiki/Q1337643
+cpb-aacip-507-r785h7cp0z-transcript.ann	T259	location	21968	21976	Missouri	https://en.wikipedia.org/wiki/Missouri	https://www.wikidata.org/wiki/Q1581
+cpb-aacip-507-r785h7cp0z-transcript.ann	T260	location	21956	21962	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-r785h7cp0z-transcript.ann	T261	person	21868	21889	Senator John Danforth	https://en.wikipedia.org/wiki/John_Danforth	https://www.wikidata.org/wiki/Q1287554
+cpb-aacip-507-r785h7cp0z-transcript.ann	T262	location	21856	21866	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-r785h7cp0z-transcript.ann	T263	organization	21715	21719	U.N.	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-r785h7cp0z-transcript.ann	T264	location	21520	21526	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-r785h7cp0z-transcript.ann	T265	organization	21416	21419	FAO	https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization	https://www.wikidata.org/wiki/Q82151
+cpb-aacip-507-r785h7cp0z-transcript.ann	T266	location	21347	21353	Africa	https://en.wikipedia.org/wiki/Africa	https://www.wikidata.org/wiki/Q15
+cpb-aacip-507-r785h7cp0z-transcript.ann	T267	person	21239	21246	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T268	person	21230	21235	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T269	person	21220	21228	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T270	organization	21252	21266	United Nations	https://en.wikipedia.org/wiki/United_Nations	https://www.wikidata.org/wiki/Q1065
+cpb-aacip-507-r785h7cp0z-transcript.ann	T271	organization	21267	21301	Food and Agricultural Organization	https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization	https://www.wikidata.org/wiki/Q82151
+cpb-aacip-507-r785h7cp0z-transcript.ann	T272	person	25183	25187	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T273	location	30900	30910	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T274	person	30856	30876	Sister MARIA BERLICH		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T275	location	30826	30836	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T276	person	30757	30769	Sister Maria		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T277	person	30675	30681	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T278	person	29868	29876	Cypriana		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T279	person	29780	29795	La Nina Chinita		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T280	location	29629	29638	Guadalupe	https://en.wikipedia.org/wiki/Guadalupe,_San_Vicente	https://www.wikidata.org/wiki/Q3778063
+cpb-aacip-507-r785h7cp0z-transcript.ann	T281	person	29574	29586	Father DAVID		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T282	location	29427	29435	El Cucol		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T283	location	29324	29334	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T284	person	29262	29268	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T285	person	28737	28756	Father DAVID FALLON		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T286	organization	28716	28733	Chirilagua church		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T287	organization	28680	28697	Cleveland mission		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T288	location	28623	28634	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T289	person	28598	28610	Father David		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T290	person	28577	28583	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T291	person	28365	28379	Sister THERESE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T292	location	28270	28280	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T293	location	28196	28205	Cleveland	https://en.wikipedia.org/wiki/Cleveland	https://www.wikidata.org/wiki/Q37320
+cpb-aacip-507-r785h7cp0z-transcript.ann	T294	person	28140	28154	Sister Therese		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T295	person	28119	28125	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T296	location	27971	27984	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T297	person	27892	27914	Sister THERESE OSBORNE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T298	location	27750	27761	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T299	person	27633	27646	Maria Berlich		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T300	person	27610	27625	Therese Osborne		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T301	person	27578	27597	Father David Fallon		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T302	location	27562	27572	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T303	person	27505	27521	Father John Loya		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T304	person	27484	27490	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T305	person	27140	27156	Father JOHN LOYA		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T306	location	27093	27108	Cleveland, Ohio	https://en.wikipedia.org/wiki/Cleveland	https://www.wikidata.org/wiki/Q37320
+cpb-aacip-507-r785h7cp0z-transcript.ann	T307	organization	27028	27045	Chirilagua parish		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T308	organization	26909	26937	Our Lady of Guadalupe Church		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T309	location	26843	26853	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T310	location	26717	26728	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T311	location	26686	26696	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T312	location	26542	26552	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T313	location	26418	26428	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T314	person	26389	26403	CHARLES KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T315	person	26217	26231	Charles Krause		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T316	location	26113	26123	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T317	location	25921	25932	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T318	location	25880	25891	Lempa River	https://en.wikipedia.org/wiki/Lempa_River	https://www.wikidata.org/wiki/Q1511554
+cpb-aacip-507-r785h7cp0z-transcript.ann	T319	location	25733	25744	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T320	location	25587	25593	Mexico	https://en.wikipedia.org/wiki/Mexico	https://www.wikidata.org/wiki/Q96
+cpb-aacip-507-r785h7cp0z-transcript.ann	T321	location	25572	25581	Argentina	https://en.wikipedia.org/wiki/Argentina	https://www.wikidata.org/wiki/Q414
+cpb-aacip-507-r785h7cp0z-transcript.ann	T322	person	25542	25550	Alfonsin	https://en.wikipedia.org/wiki/Ra%C3%BAl_Alfons%C3%ADn	https://www.wikidata.org/wiki/Q193062
+cpb-aacip-507-r785h7cp0z-transcript.ann	T323	location	25531	25540	Nicaragua	https://en.wikipedia.org/wiki/Nicaragua	https://www.wikidata.org/wiki/Q811
+cpb-aacip-507-r785h7cp0z-transcript.ann	T324	location	25454	25467	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T325	location	25397	25412	Central America	https://en.wikipedia.org/wiki/Central_America	https://www.wikidata.org/wiki/Q27611
+cpb-aacip-507-r785h7cp0z-transcript.ann	T326	person	25287	25310	President Raul Alfonsin	https://en.wikipedia.org/wiki/Ra%C3%BAl_Alfons%C3%ADn	https://www.wikidata.org/wiki/Q193062
+cpb-aacip-507-r785h7cp0z-transcript.ann	T327	location	25226	25235	Argentina	https://en.wikipedia.org/wiki/Argentina	https://www.wikidata.org/wiki/Q414
+cpb-aacip-507-r785h7cp0z-transcript.ann	T328	location	35981	36004	Allenwood, Pennyslvania	https://en.wikipedia.org/wiki/Allenwood,_Pennsylvania	https://www.wikidata.org/wiki/Q4732088
+cpb-aacip-507-r785h7cp0z-transcript.ann	T329	person	35905	35913	Williams	https://en.wikipedia.org/wiki/Harrison_A._Williams	https://www.wikidata.org/wiki/Q1586255
+cpb-aacip-507-r785h7cp0z-transcript.ann	T330	person	35836	35844	Williams	https://en.wikipedia.org/wiki/Harrison_A._Williams	https://www.wikidata.org/wiki/Q1586255
+cpb-aacip-507-r785h7cp0z-transcript.ann	T331	organization	35774	35805	Second Circuit Court of Appeals	https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Second_Circuit	https://www.wikidata.org/wiki/Q250479
+cpb-aacip-507-r785h7cp0z-transcript.ann	T332	event	35698	35718	Abscam investigation	https://en.wikipedia.org/wiki/Abscam	https://www.wikidata.org/wiki/Q331875
+cpb-aacip-507-r785h7cp0z-transcript.ann	T333	person	35614	35639	Senator Harrison Williams	https://en.wikipedia.org/wiki/Harrison_A._Williams	https://www.wikidata.org/wiki/Q1586255
+cpb-aacip-507-r785h7cp0z-transcript.ann	T334	location	35603	35613	New Jersey	https://en.wikipedia.org/wiki/New_Jersey	https://www.wikidata.org/wiki/Q1408
+cpb-aacip-507-r785h7cp0z-transcript.ann	T335	location	35518	35526	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60
+cpb-aacip-507-r785h7cp0z-transcript.ann	T336	person	35505	35513	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T337	location	35479	35501	Cade's Cove, Tennessee	https://en.wikipedia.org/wiki/Cades_Cove	https://www.wikidata.org/wiki/Q5016395
+cpb-aacip-507-r785h7cp0z-transcript.ann	T338	location	35417	35427	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T339	location	35354	35363	Cleveland	https://en.wikipedia.org/wiki/Cleveland	https://www.wikidata.org/wiki/Q37320
+cpb-aacip-507-r785h7cp0z-transcript.ann	T340	organization	35237	35258	Salvadoran government	https://en.wikipedia.org/wiki/Government_of_El_Salvador	https://www.wikidata.org/wiki/Q5589203
+cpb-aacip-507-r785h7cp0z-transcript.ann	T341	organization	35155	35171	State Department	https://en.wikipedia.org/wiki/United_States_Department_of_State	https://www.wikidata.org/wiki/Q789915
+cpb-aacip-507-r785h7cp0z-transcript.ann	T342	location	35101	35112	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T343	person	35020	35028	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T344	title	35010	35016	Gospel	https://en.wikipedia.org/wiki/Gospel	https://www.wikidata.org/wiki/Q34274
+cpb-aacip-507-r785h7cp0z-transcript.ann	T345	person	34667	34679	Father DAVID		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T346	location	34539	34548	Cleveland	https://en.wikipedia.org/wiki/Cleveland	https://www.wikidata.org/wiki/Q37320
+cpb-aacip-507-r785h7cp0z-transcript.ann	T347	location	34446	34455	Cleveland	https://en.wikipedia.org/wiki/Cleveland	https://www.wikidata.org/wiki/Q37320
+cpb-aacip-507-r785h7cp0z-transcript.ann	T348	person	34369	34381	Sister MARIA		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T349	person	33900	33914	Sister THERESE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T350	person	33594	33605	Father JOHN		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T351	person	33417	33429	Father DAVID		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T352	location	33403	33413	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T353	location	33160	33173	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T354	person	32980	32985	Maria		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T355	person	32968	32975	Therese		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T356	person	32954	32958	John		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T357	person	32944	32949	David		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T358	location	32568	32578	Chirilagua	https://en.wikipedia.org/wiki/Chirilagua	https://www.wikidata.org/wiki/Q3675145
+cpb-aacip-507-r785h7cp0z-transcript.ann	T359	person	32425	32431	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T360	person	32206	32218	Sister MARIA		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T361	person	32054	32066	Sister Maria		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T362	location	32003	32014	El Salvador	https://en.wikipedia.org/wiki/El_Salvador	https://www.wikidata.org/wiki/Q792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T363	person	31853	31859	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T364	person	31447	31459	Sister MARIA		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T365	organization	31413	31430	Cleveland mission		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T366	person	31225	31239	Sister Therese		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T367	person	31123	31129	KRAUSE		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T368	location	40882	40886	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T369	person	40351	40358	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T370	person	40028	40040	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T371	location	39634	39638	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T372	person	39327	39334	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T373	person	39264	39276	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T374	person	39175	39182	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T375	person	39070	39082	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T376	person	39036	39050	Dr. HOWARD ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T377	location	39008	39015	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-r785h7cp0z-transcript.ann	T378	organization	38795	38798	CDC	https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention	https://www.wikidata.org/wiki/Q583725
+cpb-aacip-507-r785h7cp0z-transcript.ann	T379	person	38996	39003	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T380	person	38927	38934	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T381	location	38918	38925	Atlanta	https://en.wikipedia.org/wiki/Atlanta	https://www.wikidata.org/wiki/Q23556
+cpb-aacip-507-r785h7cp0z-transcript.ann	T382	person	38739	38753	Dr. Howard Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T383	organization	38546	38573	Centers for Disease Control	https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention	https://www.wikidata.org/wiki/Q583725
+cpb-aacip-507-r785h7cp0z-transcript.ann	T384	person	37618	37640	CHARLAYNE HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T385	person	37605	37614	Charlayne	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T386	person	37565	37587	Charlayne Hunter-Gault	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T387	location	36834	36843	Baltimore	https://en.wikipedia.org/wiki/Baltimore	https://www.wikidata.org/wiki/Q5092
+cpb-aacip-507-r785h7cp0z-transcript.ann	T388	organization	36806	36830	Johns Hopkins University	https://en.wikipedia.org/wiki/Johns_Hopkins_University	https://www.wikidata.org/wiki/Q193727
+cpb-aacip-507-r785h7cp0z-transcript.ann	T389	person	36622	36629	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T390	person	36595	36600	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T391	person	36566	36572	Owenby		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T392	organization	36456	36459	FBI	https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation	https://www.wikidata.org/wiki/Q8333
+cpb-aacip-507-r785h7cp0z-transcript.ann	T393	organization	36156	36160	Army	https://en.wikipedia.org/wiki/United_States_Army	https://www.wikidata.org/wiki/Q9212
+cpb-aacip-507-r785h7cp0z-transcript.ann	T394	person	36123	36150	Major General Robert Owenby		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T395	location	36086	36104	San Antonio, Texas	https://en.wikipedia.org/wiki/San_Antonio	https://www.wikidata.org/wiki/Q975
+cpb-aacip-507-r785h7cp0z-transcript.ann	T396	person	44937	44944	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T397	location	44920	44933	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T398	person	44626	44637	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T399	person	44500	44507	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T400	person	43765	43772	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T401	person	43733	43744	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T402	location	43974	43987	United States	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
+cpb-aacip-507-r785h7cp0z-transcript.ann	T403	person	43627	43634	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T404	person	43490	43497	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T405	person	43005	43016	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T406	person	42948	42955	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T407	person	42880	42891	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T408	person	42841	42848	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T409	person	42513	42530	Dr. DIANA PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T410	person	42443	42450	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T411	person	42425	42436	Dr. Pettiti		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T412	organization	42419	42423	KQED	https://en.wikipedia.org/wiki/KQED_(TV)	https://www.wikidata.org/wiki/Q766792
+cpb-aacip-507-r785h7cp0z-transcript.ann	T413	person	42264	42275	Dr. Pettiti		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T414	person	42188	42205	Dr. Diana Petitti		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T415	person	42124	42131	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T416	organization	42331	42355	University of California	https://en.wikipedia.org/wiki/University_of_California	https://www.wikidata.org/wiki/Q184478
+cpb-aacip-507-r785h7cp0z-transcript.ann	T417	location	42359	42372	San Francisco	https://en.wikipedia.org/wiki/San_Francisco	https://www.wikidata.org/wiki/Q62
+cpb-aacip-507-r785h7cp0z-transcript.ann	T418	person	42115	42120	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T419	person	42062	42074	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T420	person	41685	41692	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T421	person	41424	41436	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T422	person	41115	41122	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T423	person	40897	40909	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T424	person	47965	47970	Diana		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T425	person	47875	47882	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T426	person	47841	47848	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T427	person	47827	47839	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T428	person	47798	47804	Howard		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T429	person	47765	47776	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T430	person	47754	47761	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T431	person	47711	47723	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T432	person	47468	47479	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T433	person	47381	47393	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T434	person	47149	47156	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T435	person	47100	47111	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T436	person	46820	46831	Dr. Petitti		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T437	person	46806	46818	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T438	person	46462	46469	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T439	person	46243	46254	Dr. Petitti		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T440	person	46215	46222	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T441	person	46201	46213	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T442	person	46188	46197	Charlayne	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T443	person	46162	46169	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T444	person	45753	45764	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T445	person	45698	45705	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T446	person	45659	45670	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T447	person	45592	45599	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T448	person	45484	45495	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T449	person	45358	45365	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T450	person	45038	45049	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T451	person	53073	53087	Robert MacNeil	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T452	title	53015	53023	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-r785h7cp0z-transcript.ann	T453	person	52998	53002	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T454	person	52977	52984	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T455	person	52968	52973	Robin	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
+cpb-aacip-507-r785h7cp0z-transcript.ann	T456	person	52902	52910	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T457	organization	52328	52347	World Wildlife Fund	https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature	https://www.wikidata.org/wiki/Q117892
+cpb-aacip-507-r785h7cp0z-transcript.ann	T458	person	52307	52326	Dr. GEORGE SCHALLER	https://en.wikipedia.org/wiki/George_Schaller	https://www.wikidata.org/wiki/Q977573
+cpb-aacip-507-r785h7cp0z-transcript.ann	T459	location	52241	52251	Washington	https://en.wikipedia.org/wiki/Washington,_D.C.	https://www.wikidata.org/wiki/Q61
+cpb-aacip-507-r785h7cp0z-transcript.ann	T460	organization	52195	52214	World Wildlife Fund	https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature	https://www.wikidata.org/wiki/Q117892
+cpb-aacip-507-r785h7cp0z-transcript.ann	T461	location	51746	51751	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
+cpb-aacip-507-r785h7cp0z-transcript.ann	T462	person	51679	51687	WOODRUFF	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T463	person	51671	51675	Judy	https://en.wikipedia.org/wiki/Judy_Woodruff	https://www.wikidata.org/wiki/Q6304655
+cpb-aacip-507-r785h7cp0z-transcript.ann	T464	person	51616	51627	Dr. Petitti		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T465	person	51526	51538	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T466	person	51340	51345	Diana		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T467	person	51095	51102	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T468	person	50897	50904	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T469	person	50883	50895	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T470	person	50474	50484	Dr. Vessey		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T471	person	50443	50451	Dr. Pike		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T472	person	50062	50069	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T473	person	50021	50032	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T474	person	49729	49734	Diana		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T475	person	49691	49698	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T476	person	49669	49681	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T477	person	49632	49639	Dr. ORY		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T478	person	49607	49614	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T479	person	49593	49605	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T480	person	49239	49250	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T481	person	49024	49036	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
+cpb-aacip-507-r785h7cp0z-transcript.ann	T482	person	48826	48833	Dr. Ory		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T483	person	48569	48580	Dr. PETITTI		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T484	person	48554	48565	Dr. Petitti		
+cpb-aacip-507-r785h7cp0z-transcript.ann	T485	person	48523	48535	HUNTER-GAULT	https://en.wikipedia.org/wiki/Charlayne_Hunter-Gault	https://www.wikidata.org/wiki/Q5074602
