@@ -39,7 +39,10 @@ def convert_directory(source_directory, destination_directory):
     for filename in os.listdir(source_directory):
         if filename.endswith('.srt'):
             source_path = os.path.join(source_directory, filename)
-            dest_path = os.path.join(destination_directory, filename.replace('.srt', '.tsv'))
+            batchname =  source_path.split(os.sep)[-2][7:]
+            if not os.path.exists(os.path.join(destination_directory,batchname)):
+                os.makedirs(os.path.join(destination_directory,batchname))
+            dest_path = os.path.join(destination_directory,batchname,filename.replace('.srt', '.tsv'))
             srt_to_tsv(source_path, dest_path)
 
 if __name__ == '__main__':
