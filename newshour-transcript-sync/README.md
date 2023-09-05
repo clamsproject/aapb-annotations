@@ -1,1 +1,112 @@
-***Needs to be updated***
+[CLAMS.ai](https://clams.ai/) team  
+Original Author: Gabriel Michael Alexander, Annotator  
+Editor: Jeremy Huey, Data Annotation Manager @jarumihooi    
+readme.md: version b.b - this version still requires gold generation information.   
+08/28/2023  
+# News Hour Transcript Synchronization
+
+## Goal of the Project
+To annotate the start times/end times of a written text transcript of audible speech within videos.  
+In other words, providing the timestamps for speech recognition in closed captioning.  
+
+### Project Information
+```
+Annotation project name - NewsHour Transcript Sync
+Annotator Demographics (1) -  
+Gabriel Michael Alexander (College student age, (other demographic information), Lang: Eng US native speaker, Organization: GBH)  
+Annotation Environment information -    
+    Name: CADET  
+    Version: Unknown  
+    Link/Tool Used/User Manual: (See below Installation of CADET)  
+Project changes -  
+    Project Version: Unknown/1.0  
+    Number of Batches: 1
+    Other Version Control Information: None
+```
+
+### Data Overview
+INPUT - Videos with audible speech to be annotated.  
+INTERMEDIATE RAW OUTPUT - `.srt` file of lines of labels.  
+```
+FORMAT:
+label_number  
+starting_time --> ending_time (UNITS NEEDED)  
+10_words_of_the_closed_captioning_spoken  
+empty_line  
+```
+```
+EXAMPLE:
+1
+00:02:42,210 --> 00:02:46,860
+Good evening. Energy Secretary James Schlesinger today uttered the direst
+
+2
+00:02:46,870 --> 00:02:50,990
+warnings about the economic future unless the country replaces oil
+```
+FINAL PREPARED GOLD OUTPUT - (tba) a cleaned and appropriate file format for input to the software tools of the CLAMS.ai project. 
+```
+Final Format has not been determined
+```
+ 
+
+## Tool Installation: CADET
+CADET - Caption and Description Editing Tool  
+[CADET and Installation Instructions](https://www.wgbh.org/foundation/services/ncam/cadet)   
+There are three basic ingredients to working with CADET. A video, its transcript, and the application itself.  
+You'll have to have downloaded all of these before you can properly begin.  
+  
+To import the transcript, go to _File_, then _Import..._.  
+Doing so will open up a window with the heading **Import Timed-Text File**.  
+At the top left, you'll find a dropdown menu labeled _Import Type:_. You'll want to select Plain, otherwise, no transcripts will appear.  
+Go to where you have the transcripts downloaded on your computer, and then select the appropriate one.  
+  
+Importing the video is even simpler. Go to _File_, then _open Media..._.  
+This will open up a window with the heading **Open Media File**.  
+Then you will mostly follow the same process as importing a transcript, without the dropdown menu to select _Import Type:_.  
+Go to where the videos are downloaded on your computer, then select the video.  
+With both video and transcript downloaded, you can now do the closed captioning.  
+
+## Annotation Guidelines: Transcribing/Closed Captioning
+### Preparation
+First, you'll want to break the transcript up into groups of 10 words. For every 10th word spoken, make a new line.  
+* If a word is included within the transcript but isn't spoken in the video, delete it and don't count it when making new lines.  
+* CC exists to relay what is being spoken, so headers and descriptors in brackets aren't needed.  
+Headers and descriptors in brackets include script instructions, stage directions, who is speaking, usually denoted by capital text or text in brackets eg.  (`JIM LEHRER`: I am done speaking. `[MUSIC PLAYS]`)     
+Once the transcript has be into groups of 10 words, you can begin assigning those words to the appropriate times in the video.  
+  
+First off, you’re going to want to go to _Player_, then hit _Play slower_ twice. This will play the video at .5x normal speed.  
+### Timestamping
+When you hear the first word of the first line, hit the control and comma keys at the same time. (Different computers may have different hotkeys.)  
+If you go to _Events_, the proper shortcut will be next to the option that says _Insert start time_.  
+  
+When you hear the first word of the second line, do the same thing, and so on and so forth.  
+As you continue to do this, you'll go further down the transcript until you've gone through the whole thing.  
+This can be a very long and tedious process, but it demands your complete attention for proper timing.  
+That's also why you want the video at .5x normal speed.  
+
+(Annotator:) I would go through videos with one finger over control and the other on comma.
+This was probably the most demanding thing that I did during my time at WGBH. If you have any further questions, notify me (Gabriel) on Slack. 
+
+### Decisions and Differentiations during Annotation
+**Start Times** - In  Nov 01, 2022 (221101) when this first annotation was done, only start times were considered and annotated.  
+**End Times** -  were automatically generated by the CADET tool as 10ms prior to the next start time.  
+**Long Pauses** - This means that if there was a long pause, the duration will continue to span until the next start-of-10-words was annotated.
+Eg. in `cpb-aacip-507-1v5bc3tf81.srt`, annotation #6 has a duration of 40s instead of the usual 4-5s.  
+  
+**Text Mismatch to tool's given transcript** - As noted above, the transcript was edited and changed to remove non-spoken material. 
+At the same time, it is possible that the text was also transformed by conjoining the spoken lines of different people. 
+Further investigation is required. The issue is [mismatch of given ML transcript to gold annotation](https://github.com/clamsproject/aapb-annotations/issues/5).  
+  
+**Other Difficulties and Interjections** - Closed Captioning/Subtitling of live interviews is difficult due to messy original data such as people speaking over each other. 
+Here, "what the best subtitle would be" was used to guide annotator intuition.  
+In cases where people spoke over each other (continuing=1st, interjecting=2nd), the given transcript often included what the interjector said after the transcription of what the continuing person said. 
+The start time of the interjection is set at the moment when the first word of the interjection text is, and the continuing phrase from the previous line is annotated with an earlier end time (stopping where the interjection occurs).  
+There are possible cases of multiple interjections, complete talking-over of people, pure unintelligible garble. The annotation of start times was done to the best of a reasonable ability.  
+There is also little that could be done if the transcript did not confirm to the audio, and annotation would have to continue generally as best as possible with the mismatch as correcting it likely led to a slippery slope of revisions and decisions.  
+  
+Exact measurements of margin of error of when start times are clocked is not known, nor how much interjection or garble there was.  
+However, with the above method of slowing down the audio to 50% speed and careful annotation, general beginning times should be as close as possible.    
+
+## Gold Generation and Dependencies - Codebase
+_TODO: to be added_
