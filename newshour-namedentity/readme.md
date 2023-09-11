@@ -72,7 +72,7 @@ _(Note, Wikipedia link is not used in this project. It's used in the [next proje
 For example, Washington can refer to the US capital, the organization within it, or the northwestern state. 
 A similar issue can arise with colleges, many of whom are named after the state or city they're located in. In these cases, context is key. 
 A relatively reliable rule of thumb is, if a location is mentioned, but no politicians or professors are brought up, then file it under location. Otherwise, file it under organization. 
-Aside from that, it's a relatively this annotation does not tend to be too demanding.  
+Aside from that, this annotation does not tend to be too demanding.  
 
 Please ensure the transcripts accurately reflect the video that they are supposed to match.  
 Please also consider whether the transcripts and labelling should label only spoken text or also extraneous script information such as the name of who is speaking, non-spoken information, etc. 
