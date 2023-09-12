@@ -1,9 +1,9 @@
 # AAPB-CLAMS Annotation Repository
-## Project Information
-> This repository contains datasets from manual annotation projects in [AAPB](https://americanarchive.org/) - [CLAMS](https://clams.ai) collaboration.
+This repository contains datasets from manual annotation projects in [AAPB](https://americanarchive.org/) - [CLAMS](https://clams.ai) collaboration.
 
+## Project Information
 AAPB has involved the CLAMS team in a collaboration to develop archiving technology for public media 
-(primarily video and audio from publically-funded tv shows and radio broadcasts). 
+(primarily video and audio from publicly-funded tv shows and radio broadcasts). 
 This will facilitate the research and preservation of significant historical content from such media.  
 The process of archiving, summarizing and extracting-metadata from this media could eventually be automatic.  
 This repository/endeavor provides training and evaluation data for the Computer Vision and Machine Learning tools in this process.  
@@ -11,55 +11,75 @@ Data collected is used to evaluate the success of the tools. Then, the tools wil
 information important to the archival process.
 
 ## Structure of This Repository/Directory
- - `batches` subdirectory (1)
- - project subdirectories (5)
- - this repository's `readme.md`
+ - `batches` subdirectory
+ - project subdirectories
+ - this README file
 
-### Batches Subdirectory 
-The first directory is the special `batches` directory. This special directory maintains tracking information for the whole repository/annotation effort -  
-Batches are the identity tags of a group of media/GUID annotated for a project-found-below in one go. 
+### `batches` Subdirectory 
+The first directory is the special `batches` directory. This special directory maintains tracking information for the whole repository/annotation effort. 
+Batches are the identity tags of a group of AAPB-GUID annotated for a project-found-below in one go. 
 There are possibly multiple times/events where data is annotated/created for this dataset. Each event is a batch.
 Specifically, this directory contains `.txt` files named after the batch name. Batches are usually named after their relevant GitHub issue from [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration).  
-  * Each line in a `.txt` file _must_ be a single AAPB GUID, with an exception of any lines starts with `#` which denotes a comment.  
-  * A GUID is a unique identifying string that can be used at the AAPB website to find one particular media and its supporting files, eg. `cpb-aacip-96d289b264c` at https://americanarchive.org/catalog/cpb-aacip-96d289b264c.
+* Each line in a `.txt` file _must_ be a single AAPB GUID, with an exception to any lines starts with `#` which denotes a comment.  
+* A GUID is a unique identifying string that can be used at the AAPB website to find one particular media and its supporting files, eg. `cpb-aacip-96d289b264c` at https://americanarchive.org/catalog/cpb-aacip-96d289b264c.
+
+> [!NOTE]
+> AAPB-GUID is not [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), but just a naming convention for AAPB media entries. 
 
 ### Project Subdirectories 
 Each directory in this repository represents a specific annotation project, its datasets and processing tools.    
-This includes its `raw annotated data file`, `software-suite for converting from raw to gold`, `gold-formatted-final-output data file for tool ingestion`,
-and that project's `readme.md` explaining it and its annotation guidelines.  
+This includes its raw annotated data file, gold-formatted final output data file for tool ingestion, software-suite for converting from raw to gold, and a project-specific `readme.md` explaining it and its annotation guidelines.
+
 The directory name is the name of the project. Each directory contains the following files:
 
-* **RAW INTERMEDIATE DATASET FILES**: `YYMMDD-batchName` directory - these sub-directories contains raw output files from the manual annotation process created by the annotation tool (or by hand like a `.csv` file). 
-Different annotation tools create different file formats with diverse formatting. 
-  * The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted. 
-E.g. the date an annotation guideline is established and the batch to annotate is decided.  
+#### Raw intermediate dataset files
+> [!IMPORTANT]
+> `YYMMDD-batchName` directory 
+ 
+These sub-directories contains raw output files from the manual annotation process created by the annotation tool (or by hand like a `.csv` file). 
+Different annotation tools create different file formats with diverse formatting. The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted. (e.g., when the batch is decided to be annotated)
+These prefixes are important for easy sorting of annotation processes and machine ingestion of the raw data. 
 The `batchName` part of the directory name _must_ match only one of `.txt` files in the batches. 
-* **CODEBASE FOR CONVERSION**: `process.{sh,py}` - a script to process the raw manual annotations and generate the publically-available "gold" dataset. 
-In addition to this file, if the code requires additional dependencies/scripts, they can stay in the same directory. 
-In case the dependencies are managed by a package manager, 
-the project manager _must_ provide relevant information in the `README.md` file or 
-in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
-* **FINAL READY-TO-USE DATASET FILES**: `golds` directory - this directory contains the public "gold" dataset generated by `process.py` script. The script _must_ generate one file per GUID (video/audio/text document) and the number of gold files in this directory _must_ match the sum of GUIDs in all batches annotated. 
+
+#### Codebase for conversion
+> [!IMPORTANT]
+> (usually) `process.{sh,py}` and dependencies
+ 
+A piece of software to process the raw manual annotations and generate the publicly-available "gold" dataset. 
+In addition to the main code file, if the code requires additional dependencies/scripts, they can stay in the same directory. 
+The dependencies information can be written down in in the `README.md` (below) file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
+
+#### Final "Gold" dataset files
+> [!IMPORTANT]
+> `golds` directory
+
+This directory contains the public "gold" dataset generated by the above script. The script _must_ generate one file per GUID (video/audio/text document) and the number of gold files in this directory _must_ match the sum of GUIDs in all batches (`YYMMDD-xxx` subdirectories) annotated. 
 The gold dataset is a set of files that are in a format that is ready for use with the newly developed tools. I.e. The raw file must be properly formatted so that tools in the next step of the process can use this dataset.
-* **INFORMATION README** `README.md` - project-specific information:
-    * annotation project name
-    * annotator demographics - Possibly age range, sex/gender (maybe?), language proficiency, occupational characteristics    
-    * annotation environment information (name, version, link, tool used, user manual, etc.)
-    * project changes: eg: version changes, addition of new batches, change in annotator personnel, etc.
-    * raw-to-gold generation code explanation - (dependencies, short description of process.py, file formats of raw+gold, column description + _datatype_, version/progress differences, discarded info during process.py, added info during process.py, etc.)  
-    * _ANNOTATION GUIDELINES_ - sometimes this is a separate file: `guidelines.md`. How to annotate in this project, aka scheme. This section should give sufficient information for the replication of the annotation to produce almost exact similar raw datasets.
-      * How the tool is used
-      * What to annotate
-      * Options of label choices
-      * Label formatting. eg. Time format in the annotation tool
-        * e.g. The standardized time format for the entire repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601).
-`hr:mn:sc.msc`, specifically, precision of milliseconds/3-digits placed after seconds with a **DOT**. 
-Frame times are converted to milliseconds with loss of precision past 3-digits, however, due to exact time->image fetching being dependent
-on the video compression/codec/player, there is no expected need for precision past 3-digits. 
-          * _TODO - Change to the time format was agreed upon by Owen King, Keigh Rim, Jeremy Huey on 2023-09-11. Dev work is still required to conform to this change._
-      * Differentiation between labels, edge cases, other decisions made during annotation. 
-      * Concerns, limitations, accuracy details. (e.g. Annotation of time accuracy is likely only down to 0.1-0.2 seconds)
-  > `readme.md` files are supposed to be actively maintained by the project manager. All `guideline.md` files are recommended to be version-controlled.  
+
+#### Information README
+> [!IMPORTANT] 
+> `README.md` (and possibly `guidelines.md`)
+
+Project-specific information, including but not limited to:
+* Annotation project name
+* Annotator summary: Some basic demographic information about the annotators. Age group, native languages, language proficiency, occupational characteristics, etc.
+* Annotation environment/tool information (name, version, link, tool used, user manual, etc.)
+* Project changes: version changes, addition of new batches, change in annotator personnel, etc.
+* Raw-to-gold conversion code explanation 
+  * dependencies, short description of `process.py`
+  * file formats of raw and gold
+  * field description, _datatype_
+  * differences, added information, discarded information during `process.py`, added info during process.py, etc.)  
+* Annotation guidelines - sometimes this is a separate file: `guidelines.md`: How to annotate in this project, aka scheme. This section should give sufficient information for the replication of the annotation to produce almost exact similar raw datasets.
+  * What tool is used, and how it is used. In most cases there is a separate codebase (ideally on `clamsproject` GitHub) for the annotation tool, and it should be linked in the project-specific `README.md`.
+  * What to annotate
+  * Options of label choices
+  * Label formatting. 
+  * Differentiation between labels, edge cases, other decisions made during annotation.
+  * Concerns, limitations, accuracy details. (e.g. Annotation of time accuracy is likely only down to 0.1-0.2 seconds)
+
+> [!NOTE]
+> `readme.md` files are supposed to be actively maintained by the project manager. All `guideline.md` files are recommended to be version-controlled.  
 
 ## List of Current Projects/Subdirectories
 _This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._  
@@ -79,3 +99,18 @@ an extra label of which wikimedia link referred to the named entity annotated, e
 ## Issue Tracking and Conversation Archive
 Progress and other discussion by AAPB/CLAMS/WBGH is tracked via the open and closed [Github Issues](https://github.com/clamsproject/aapb-annotations/issues) feature.  
 Finally, please email [CLAMS.ai admin](admin@clams.ai) for other inquiries.  
+
+## Recommended Data Formats
+
+This section lists recommendations for the "gold" data formats used in this repository.
+
+### Time point notation
+Different annotation environment may use different time formats.
+The following is the recommended time format for all "gold" datasets in this repository, but if configurable, the annotation tool should be configured to use this format.
+Sometimes annotators may have to manually write down the time, in such a case, the annotator should also be instructed to use this format.
+
+The recommended time format for all datasets in this repository is an adoption of [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601). 
+Specifically, with precision of up to hours and down to milliseconds/3-digits placed after seconds with a **DOT** (`HH:MM:sc.msc`), where `00:00:00.000` means the very beginning of a time-based media, but the midnight.
+
+For MPEG-based video files, frame numbers are converted to milliseconds with loss of precision past 3-digits. 
+However, due to exact time -> still image fetching being dependent on the video compression/codec/player, there is no expected need for precision past 3-digits.
