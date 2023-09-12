@@ -2,10 +2,13 @@
 ## Project Information
 > This repository contains datasets from manual annotation projects in [AAPB](https://americanarchive.org/) - [CLAMS](https://clams.ai) collaboration.
 
-AAPB has involved the CLAMS team in a collaboration to develop archiving technology for public media (primarily video and audio from publically-funded tv shows and radio broadcasts). This will facilitate the research and preservation of significant historical content from such media.  
+AAPB has involved the CLAMS team in a collaboration to develop archiving technology for public media 
+(primarily video and audio from publically-funded tv shows and radio broadcasts). 
+This will facilitate the research and preservation of significant historical content from such media.  
 The process of archiving, summarizing and extracting-metadata from this media could eventually be automatic.  
 This repository/endeavor provides training and evaluation data for the Computer Vision and Machine Learning tools in this process.  
-Data collected is used to evaluate the success of the tools. Then, the tools will be trained on larger batches of data to automatically retrieve information important to the archival process.
+Data collected is used to evaluate the success of the tools. Then, the tools will be trained on larger batches of data to automatically retrieve 
+information important to the archival process.
 
 ## Structure of This Repository/Directory
  - `batches` subdirectory (1)
@@ -23,7 +26,7 @@ Specifically, this directory contains `.txt` files named after the batch name. B
 ### Project Subdirectories 
 Each directory in this repository represents a specific annotation project, its datasets and processing tools.    
 This includes its `raw annotated data file`, `software-suite for converting from raw to gold`, `gold-formatted-final-output data file for tool ingestion`,
-and `that project's readme.md explaining it plus its annotation guidelines`.  
+and that project's `readme.md` explaining it and its annotation guidelines.  
 The directory name is the name of the project. Each directory contains the following files:
 
 * **RAW INTERMEDIATE DATASET FILES**: `YYMMDD-batchName` directory - these sub-directories contains raw output files from the manual annotation process created by the annotation tool (or by hand like a `.csv` file). 
@@ -40,23 +43,26 @@ in a machine-friendly file with the list of dependencies (e.g. `requirements.txt
 The gold dataset is a set of files that are in a format that is ready for use with the newly developed tools. I.e. The raw file must be properly formatted so that tools in the next step of the process can use this dataset.
 * **INFORMATION README** `README.md` - project-specific information:
     * annotation project name
-    * annotator demographics _TODO - Confirm: Possibly age range, sex/gender (maybe?), language proficiency, occupational characteristics_  
+    * annotator demographics - Possibly age range, sex/gender (maybe?), language proficiency, occupational characteristics    
     * annotation environment information (name, version, link, tool used, user manual, etc.)
     * project changes: eg: version changes, addition of new batches, change in annotator personnel, etc.
     * raw-to-gold generation code explanation - (dependencies, short description of process.py, file formats of raw+gold, column description + _datatype_, version/progress differences, discarded info during process.py, added info during process.py, etc.)  
-    * _ANNOTATION GUIDELINES_ - sometimes this is a separate file `guidelines.md`. How to annotate in this project, aka scheme. This section should give sufficient information for the replication of the annotation to produce almost exact similar raw datasets.
+    * _ANNOTATION GUIDELINES_ - sometimes this is a separate file: `guidelines.md`. How to annotate in this project, aka scheme. This section should give sufficient information for the replication of the annotation to produce almost exact similar raw datasets.
       * How the tool is used
       * What to annotate
       * Options of label choices
       * Label formatting. eg. Time format in the annotation tool
-        * eg. Raw format is `seconds:1000th_sec` `123:4567` 
-        * _TODO - Time format should be made consistent by CLAMS management for the gold formats. Likely either `seconds:1000th_sec` or `hr:mn:sc:ms`._
+        * e.g. The standardized time format for the entire repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601).
+`hr:mn:sc.msc`, specifically, precision of milliseconds/3-digits placed after seconds with a **DOT**. 
+Frame times are converted to milliseconds with loss of precision past 3-digits, however, due to exact time->image fetching being dependent
+on the video compression/codec/player, there is no expected need for precision past 3-digits. 
+          * _TODO - Change to the time format was agreed upon by Owen King, Keigh Rim, Jeremy Huey on 2023-09-11. Dev work is still required to conform to this change._
       * Differentiation between labels, edge cases, other decisions made during annotation. 
-      * Concerns, limitations, accuracy details. (eg. Annotation of time accuracy is likely only down to 0.1-0.2 seconds)
+      * Concerns, limitations, accuracy details. (e.g. Annotation of time accuracy is likely only down to 0.1-0.2 seconds)
   > `readme.md` files are supposed to be actively maintained by the project manager. All `guideline.md` files are recommended to be version-controlled.  
 
 ## List of Current Projects/Subdirectories
-_This section is currently manually updated and may be incomplete. It contains information up to the above editing date._  
+_This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._  
 * (`batches`)
 * `january-slates` - slates are actual visible frames within the video media that contain the metadata and other identifying information of that video. 
   * eg. program name, director, producer, etc.
