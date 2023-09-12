@@ -1,8 +1,3 @@
-[CLAMS.ai](https://clams.ai/) team  
-Author: Jeremy Huey, Data Annotation Manager @jarumihooi  
-Annotators: Unknown (GBH), Samantha Driscoll (GBH)
-Slates readme.md: version a.a - this version still requires gold generation information.   
-09/02/2023
 # Slates
 
 ## Goal of the Project
@@ -17,7 +12,7 @@ This detected information could be used to verify and update metadata about that
 
 ### Project Information
 ```
-Annotation project name - January Slates
+Annotation project name - january-slates
 Annotator Demographics (2) -  
 Unknown (Unknown age, (other demographic information), Lang: Unknown, Organization: GBH)  
 Samantha Driscoll (Working Professional age, (other demographic information), Lang: Eng US native speaker, Organization: GBH)  
@@ -33,9 +28,9 @@ Project changes -
 
 ### Data Overview
 INPUT - a set of video files to be annotated. _TODO: Which tool?_   
-INTERMEDIATE RAW OUTPUT - `.csv` file where each line is the time of when the slate frames appear in that video. 
+INTERMEDIATE RAW OUTPUT - `.csv` file where each line is the time of when the slate frames appear in that video.
 ```
-FORMAT:
+FORMAT: 
 GUID,",","Series/Group              ,","Slate Start ,","Slate End   ,","Writing Types,",Recorded/Digital,,,",",format of most of the information,",",Anything moving on screen during slate?,
 Note the extra commas added in and extra blank columns and extra space within the column names. 
 ```
@@ -53,10 +48,10 @@ cpb-aacip-29-01pg4g2x,Prime Time Wisconsin,00:00:00;00,00:00:08;14,typed,digital
 ```
 
 ## Tool Installation: Unknown
-_TODO: Tool used is unknown. Follow up questions with Sammy should illuminate this._
+_TODO: Tool used is unknown. Follow-up questions with Sammy should illuminate this._
 
 ## Annotation Guidelines: Transcribing/Closed Captioning
-_What guidelines were used for this?_
+_TODO: What guidelines were used for this?_
 ### Preparation
 Multiple videos must be prepared for annotation.  
 ### Process of Annotating
@@ -82,11 +77,13 @@ The final number which includes letters is the unique guid number.
 
 _Note: in some columns there is a comma within the raw value of the column._
 
-### Decisions and Differentiations during Annotation
+### Decisions, Differentiations, and Precision during Annotation
 **What denotes start and end** - Decisions as to what exactly constitutes the start and end of the slate times is unknown. Is it when it first starts fading in, or when its fully done fading? 
 
 **Errors in the raw** - There are errors in the raw format, notably, in `CLAMS_slate_annotation_metadata.csv` line 203 "cpb-aacip-394-150gbd75", column(Writing Types F) is a typo "typeed" instead of "typed". 
 Further work should be done to check for other errors of this type. A bash script search would likely need to be run to find out if that error made it into the gold format `.tsv` files also.
+
+**Time format non-conformant** - This is an older project. The time format does not conform to ISO 8601 `hr:mn:sc.msc` yet.
 
 **Time format check** - It is not fully verified what the time format is, however the assumption is as above since the highest last number goes up to 29.
 Yet another typo seems to appear however in two cases of numbers like this: `CLAMS_slate_annotation_metadata.csv` line 77 Slate End "00:00:27;110,",
@@ -100,6 +97,8 @@ Shift of time format to only 3 numbers: "xx:xx:xx" assumptively "mn:sc:fr"(?).
 **Skip to new material in raw** - The raw `.csv` file also has an area that is skipped and annotation moved onto new/different videos. 
 It starts at line 624 and it resumes at line 1409. This might be because all of those GUIDs are the same and more variety in the dataset was needed for better results.
 Annotation by Sammy paused/ended with line 1672 being the last annotated row.  
+
+**Time Accuracy** - Recollection and discussion from the annotators (in-progress) is required to note precision levels. 
 
 ## Gold Generation and Dependencies - Codebase
 `requirements.txt` for running the codebase is stored here.  
