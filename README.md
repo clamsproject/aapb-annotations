@@ -81,6 +81,68 @@ Project-specific information, including but not limited to:
 > [!NOTE]
 > `readme.md` files are supposed to be actively maintained by the project manager. All `guideline.md` files are recommended to be version-controlled.  
 
+
+
+## Repository-level Conventions
+### Time Point Notation
+> `HH:MM:sc.msc` with a DOT 
+
+The time format for all (gold) datasets in this repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601). 
+Specifically, with time precision of up to hours and down to 3-digits in milliseconds placed after seconds with a **DOT**, where `00:00:00.000` means the very beginning of a time-based media (not midnight real-time).
+
+This instruction is specifically to be  required for the "gold" data formats throughout this repository, except where exceptions are required and documented.  
+(_TODO: Current/Old gold datasets and tools have yet to be converted._)  
+During raw annotation however, the tool environments may use different time formats because of non-project authors. 
+Moving forward, the expectation for any in-house tools and apps are to use this standard. 
+If configurable, the annotation tool should be configured to use this format. If possible, the annotator should also be instructed to use this format. 
+
+For MPEG-based video files, frame numbers are converted to milliseconds with loss of precision past 3-digits. 
+However, due to exact time -> still image fetching being dependent on the video compression/codec/player, there is no expected need for precision past 3-digits. 
+It is assumed that different video players will regenerate images on screen slightly differently based on the decompression algorithms. 
+To that end, it is unlikely that even given a specific time moment that a person in one place would be able to extract exactly the same pixels 
+in a frame as another person doing it somewhere else.  
+This convention was put forth upon consultation of the needs of GBH and CLAMS. 
+### Imprecision in Annotation in General
+Data Quality processes are currently still being built. Currently, datasets do not have a data quality checklist applied to them. 
+This means there are possible typos in anything that must be typed. Other general data messiness is also possible. 
+Two semi-preventative measures are: 
+1. If only a few value options are expected in one column, using a pie chart/counter in Excel to search/count for typos to manually correct is possible. 
+2. Annotators should use copy-paste wherever possible instead of typing, and annotation tools should have buttons to add items, 
+reducing typos during typing.  
+
+The current convention is that annotators are asked to be as careful as meaningfully possible, and some datasets are "quality-assumed" upon 
+faith in annotators/environment until such time a quantitative analysis of errors is done.  
+
+### Imprecision in Time-based Annotation
+Time-based annotations are almost inherently imprecise. Usually either perception or manipulation of the tool within the limits of meaningful
+task-speed constraints are at hand.  
+The conventions in place attempt to provide clarity for when generally the annotations can be considered precise or not. 
+
+1. **MARGIN OF ERROR** _(+/- in both directions)_- The margin of error depends on the tool/process of conducting an annotation project happens. For instance, 
+if the annotator is playing a video at half speed (audio listenable) and pressing a button when a chyron appears (and not stopping to correct or precisely verify), we can assume:
+   1. Precision is limited by on-screen-and-discern-to-press [reaction time](https://www.reddit.com/r/truegaming/comments/hu0p3a/comment/fylge12/?utm_source=reddit&utm_medium=web2x&context=3),
+which is approximately .200 to .250 seconds. This time amount is somewhat similarly shown in feedback from musicians using digital keyboards and video gamers complaining about [ping or framerate](https://www.pcgamer.com/how-many-frames-per-second-can-the-human-eye-really-see/).
+   2. As an assumption, if the video is playing at half speed, we can then assume the margin of error from this factor is within 0.100-0.200 seconds. 
+   3. Being able to pause and visually move a time slider with high precision would increase the precision but likely lead to excessive annotation labor cost. 
+   4. It is highly likely there will be cases where margin of error will pass over the directionality limit given below. 
+However, the convention requested during annotation is to attempt to preserve **Directionality** over reducing **Margin of Error**.   
+  
+2. **DIRECTIONALITY** _(as close to a certain boundary but not past it)_ - We attempt to give instructions and explanation for when we want 
+an annotation to be up to the limit of something as close as possible. E.g. We're annotating a fading-in-and-out slate. 
+We want the start time of the slate to be "as close as possible but after" the moment when the slate is fully solid and no longer transparent.
+And we want the end time of the slate to be "as close as possible but before" the moment when the slate begins to start fading-out. 
+Here are two ways to describe the Directionality convention: 
+   1. **Instructions for human annotators** - For time-based media, annotated times are to be labeled as within the duration of the phenomenon.
+Eg. if a text-based label fades on-and-off screen, 
+the annotated start time should be the moment it has become fully solid and the end time should be the moment just before it begins to fade.  
+   2. **For interpreting MMIF/annotations** - 
+For time-based media, assume that the interval defined in the MMIF annotation is contained within the relevant interval in the actual media.
+
+Finally, a reminder must be placed that at 30 frames per second, each frame is 0.033_ seconds long, meaning a tenth of a second has 3 frames within it.
+Practically speaking, there is only a small percentage of cases where the variation between one frame to its neighbor is relevant,
+especially in cases of human perception.
+The conventions for precision hold until new needs of the project are required. 
+  
 ## List of Current Projects/Subdirectories
 _This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._  
 * (`batches`)
@@ -99,18 +161,3 @@ an extra label of which wikimedia link referred to the named entity annotated, e
 ## Issue Tracking and Conversation Archive
 Progress and other discussion by AAPB/CLAMS/WBGH is tracked via the open and closed [Github Issues](https://github.com/clamsproject/aapb-annotations/issues) feature.  
 Finally, please email [CLAMS.ai admin](admin@clams.ai) for other inquiries.  
-
-## Recommended Data Formats
-
-This section lists recommendations for the "gold" data formats used in this repository.
-
-### Time point notation
-Different annotation environment may use different time formats.
-The following is the recommended time format for all "gold" datasets in this repository, but if configurable, the annotation tool should be configured to use this format.
-Sometimes annotators may have to manually write down the time, in such a case, the annotator should also be instructed to use this format.
-
-The recommended time format for all datasets in this repository is an adoption of [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601). 
-Specifically, with precision of up to hours and down to milliseconds/3-digits placed after seconds with a **DOT** (`HH:MM:sc.msc`), where `00:00:00.000` means the very beginning of a time-based media, but the midnight.
-
-For MPEG-based video files, frame numbers are converted to milliseconds with loss of precision past 3-digits. 
-However, due to exact time -> still image fetching being dependent on the video compression/codec/player, there is no expected need for precision past 3-digits.
