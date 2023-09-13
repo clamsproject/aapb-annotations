@@ -27,31 +27,33 @@ Project changes -
 ```
 
 ### Data Overview
-INPUT - a set of video files to be annotated. _TODO: Which tool?_   
-INTERMEDIATE RAW OUTPUT - `.csv` file where each line is the time of when the slate frames appear in that video.
-```
-FORMAT: 
-GUID,",","Series/Group              ,","Slate Start ,","Slate End   ,","Writing Types,",Recorded/Digital,,,",",format of most of the information,",",Anything moving on screen during slate?,
-Note the extra commas added in and extra blank columns and extra space within the column names. 
-```
-```
-EXAMPLE:
-cpb-aacip-81-881jx33t,",","Woman                     ,","00:00:00;00 ,","00:00:05;04 ,","handwriting  ,",recorded,,,",",boxes to fill in,",",no,
-cpb-aacip-41-34fn32g7,",","Carolina Journal          ,","00:00:00;00 ,","00:00:14;28 ,","typed        ,",digital?,,,",",key-value pairs,",",countdown,
-```
-FINAL PREPARED GOLD OUTPUT - `.tsv` file that seems to be actually comma-separated anyway. The gold files conform to the repository readme guideline that each 
+* INPUT - a set of video files to be annotated. _TODO: Which tool?_   
+* INTERMEDIATE RAW OUTPUT - `.csv` file where each line is the time of when the slate frames appear in that video.
+  * Format  
+    * Fields: ```GUID,",","Series/Group              ,","Slate Start ,","Slate End   ,","Writing Types,",Recorded/Digital,,,",",format of most of the information,",",Anything moving on screen during slate?,```
+[!Note] there are extra commas added in and extra blank columns and extra space within the column names.
+    * Example:
+        ```
+        cpb-aacip-81-881jx33t,",","Woman                     ,","00:00:00;00 ,","00:00:05;04 ,","handwriting  ,",recorded,,,",",boxes to fill in,",",no,
+        cpb-aacip-41-34fn32g7,",","Carolina Journal          ,","00:00:00;00 ,","00:00:14;28 ,","typed        ,",digital?,,,",",key-value pairs,",",countdown,
+        ```
+* FINAL PREPARED GOLD OUTPUT - `.tsv` file that seems to be actually comma-separated anyway. The gold files conform to the repository readme guideline that each 
 gold must relate to only one GUID. Therefore, each of these gold files is only 1 video/GUID each. Note: the column headers are added to each file.  
-```
-FORMAT & EXAMPLE:
-GUID,Series/Group,Slate Start,Slate End,Writing Types,Recorded/Digital,format of most of the information,Anything moving on screen during slate?
-cpb-aacip-29-01pg4g2x,Prime Time Wisconsin,00:00:00;00,00:00:08;14,typed,digital,key-value pairs,no
-```
+  * Format
+    * Fields: `GUID,Series/Group,Slate Start,Slate End,Writing Types,Recorded/Digital,format of most of the information,Anything moving on screen during slate?`
+    * Example:
+    ```
+    GUID,Series/Group,Slate Start,Slate End,Writing Types,Recorded/Digital,format of most of the information,Anything moving on screen during slate?
+    cpb-aacip-29-01pg4g2x,Prime Time Wisconsin,00:00:00;00,00:00:08;14,typed,digital,key-value pairs,no
+    ```
+    [!Note] Each file has the column header in it. 
 
 ## Tool Installation: Unknown
 _TODO: Tool used is unknown. Follow-up questions with Sammy should illuminate this._
 
 ## Annotation Guidelines: Transcribing/Closed Captioning
 _TODO: What guidelines were used for this?_
+This documented [slate types](https://docs.google.com/document/d/1Xf43EpVzQbIOB-7KTadEyU3eam9xIvLlSGkjy4Ff2v4/edit) but is not a complete guideline.  
 ### Preparation
 Multiple videos must be prepared for annotation.  
 ### Process of Annotating
@@ -80,7 +82,7 @@ _Note: in some columns there is a comma within the raw value of the column._
 ### Decisions, Differentiations, and Precision during Annotation
 **What denotes start and end** - Decisions as to what exactly constitutes the start and end of the slate times is unknown. Is it when it first starts fading in, or when its fully done fading? 
 
-**Errors in the raw** - There are errors in the raw format, notably, in `CLAMS_slate_annotation_metadata.csv` line 203 "cpb-aacip-394-150gbd75", column(Writing Types F) is a typo "typeed" instead of "typed". 
+**Errors in the raw** - There are errors in the raw format, notably, in `CLAMS_slate_annotation_metadata.csv` [line 203](https://github.com/clamsproject/aapb-annotations/blob/f884e10d0b9d4b1d68e294d83c6e838528d2c249/january-slates/230101-aapb-collaboration-7/CLAMS_slate_annotation_metadata.csv?plain=1#L203) "cpb-aacip-394-150gbd75", column(Writing Types F) is a typo "typeed" instead of "typed". 
 Further work should be done to check for other errors of this type. A bash script search would likely need to be run to find out if that error made it into the gold format `.tsv` files also.
 
 **Time format non-conformant** - This is an older project. The time format does not conform to ISO 8601 `hr:mn:sc.msc` yet.
@@ -99,6 +101,8 @@ It starts at line 624 and it resumes at line 1409. This might be because all of 
 Annotation by Sammy paused/ended with line 1672 being the last annotated row.  
 
 **Time Accuracy** - Recollection and discussion from the annotators (in-progress) is required to note precision levels. 
+
+> [Validation dataset](https://docs.google.com/spreadsheets/d/1VHEpYmAtBHkIHTzbYtUexRNqALEHLi-3rwzIXtfQG-E/edit#gid=0) was used. More info is to come. 
 
 ## Gold Generation and Dependencies - Codebase
 `requirements.txt` for running the codebase is stored here.  
