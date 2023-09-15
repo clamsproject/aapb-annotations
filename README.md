@@ -2,7 +2,7 @@
 This repository contains datasets from manual annotation projects in [AAPB](https://americanarchive.org/) - [CLAMS](https://clams.ai) collaboration.
 
 ## Project Information
-AAPB has involved the CLAMS team in a collaboration to develop archiving technology for public media 
+[GBH](https://www.wgbh.org/) and the American Archive of Public Broadcasting (AAPB) have involved the CLAMS team in a collaboration to develop metadata creation systems for digital archives of public media 
 (primarily video and audio from publicly-funded tv shows and radio broadcasts). 
 This will facilitate the research and preservation of significant historical content from such media.  
 The process of archiving, summarizing and extracting-metadata from this media could eventually be automatic.  
@@ -16,15 +16,16 @@ information important to the archival process.
  - this README file
 
 ### `batches` Subdirectory 
-The first directory is the special `batches` directory. This special directory maintains tracking information for the whole repository/annotation effort. 
-Batches are the identity tags of a group of AAPB-GUID annotated for a project-found-below in one go. 
-There are possibly multiple times/events where data is annotated/created for this dataset. Each event is a batch.
+The first directory is the special `batches` directory. 
+This special directory maintains tracking information for the whole repository/annotation effort. 
+Annotation projects are done in batches, which denote a moment/event/period of an annotation effort on a set of media assets.
+The batches are set of the identifying tags for those respective media assets.
 Specifically, this directory contains `.txt` files named after the batch name. Batches are usually named after their relevant GitHub issue from [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration).  
-* Each line in a `.txt` file _must_ be a single AAPB GUID, with an exception to any lines starts with `#` which denotes a comment.  
+* Each line in a `.txt` file _must_ be a single AAPB GUID, with an exception to any lines starts with `#` - which denotes a comment.  
 * A GUID is a unique identifying string that can be used at the AAPB website to find one particular media and its supporting files, eg. `cpb-aacip-96d289b264c` at https://americanarchive.org/catalog/cpb-aacip-96d289b264c.
 
 > [!NOTE]
-> AAPB-GUID is not [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), but just a naming convention for AAPB media entries. 
+> AAPB-GUID is not [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), but just a unique identifier within the scope of the AAPB system.   
 
 ### Project Subdirectories 
 Each directory in this repository represents a specific annotation project, its datasets and processing tools.    
@@ -46,8 +47,9 @@ The `batchName` part of the directory name _must_ match only one of `.txt` files
 > (usually) `process.{sh,py}` and dependencies
  
 A piece of software to process the raw manual annotations and generate the publicly-available "gold" dataset. 
+The input file format to the tools/apps can vary (e.g. `.csv`, `.json`). 
 In addition to the main code file, if the code requires additional dependencies/scripts, they can stay in the same directory. 
-The dependencies information can be written down in in the `README.md` (below) file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
+The dependencies information can be written down in the `README.md` (below) file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
 
 #### Final "Gold" dataset files
 > [!IMPORTANT]
@@ -70,13 +72,13 @@ Project-specific information, including but not limited to:
   * file formats of raw and gold
   * field description, _datatype_
   * differences, added information, discarded information during `process.py`, added info during process.py, etc.)  
-* Annotation guidelines - sometimes this is a separate file: `guidelines.md`: How to annotate in this project, aka scheme. This section should give sufficient information for the replication of the annotation to produce almost exact similar raw datasets.
+* Annotation guidelines - sometimes this is a separate file: `guidelines.md`: How to annotate in this project, aka scheme. This section should give sufficient information for the reproduction of the annotation to produce almost exact similar raw datasets.
   * What tool is used, and how it is used. In most cases there is a separate codebase (ideally on `clamsproject` GitHub) for the annotation tool, and it should be linked in the project-specific `README.md`.
   * What to annotate
   * Options of label choices
   * Label formatting. 
   * Differentiation between labels, edge cases, other decisions made during annotation.
-  * Concerns, limitations, accuracy details. (e.g. Annotation of time accuracy is likely only down to 0.1-0.2 seconds)
+  * Concerns, limitations, precision details. (e.g. Annotation of time is likely only down to 0.100-0.200 seconds of precision.)
 
 > [!NOTE]
 > `readme.md` files are supposed to be actively maintained by the project manager. All `guideline.md` files are recommended to be version-controlled.  
@@ -85,14 +87,14 @@ Project-specific information, including but not limited to:
 
 ## Repository-level Conventions
 ### Time Point Notation
-> `HH:MM:sc.msc` with a DOT 
+> `hh:mm:ss.mmm` with a DOT 
 
-The time format for all (gold) datasets in this repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601). 
+The time format for all (gold) datasets in this repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601#Times). 
 Specifically, with time precision of up to hours and down to 3-digits in milliseconds placed after seconds with a **DOT**, where `00:00:00.000` means the very beginning of a time-based media (not midnight real-time).
 
 This instruction is specifically to be  required for the "gold" data formats throughout this repository, except where exceptions are required and documented.  
 (_TODO: Current/Old gold datasets and tools have yet to be converted._)  
-During raw annotation however, the tool environments may use different time formats because of non-project authors. 
+During raw annotation however, the tool environments may use different time formats because of non-in-house authors. 
 Moving forward, the expectation for any in-house tools and apps are to use this standard. 
 If configurable, the annotation tool should be configured to use this format. If possible, the annotator should also be instructed to use this format. 
 
@@ -114,20 +116,23 @@ The current convention is that annotators are asked to be as careful as meaningf
 faith in annotators/environment until such time a quantitative analysis of errors is done.  
 
 ### Imprecision in Time-based Annotation
-Time-based annotations are almost inherently imprecise. Usually either perception or manipulation of the tool within the limits of meaningful
-task-speed constraints are at hand.  
+Time-based annotations are almost inherently imprecise. This is due usually to either perception or manipulation of the tool within the limits of meaningful
+task-speed constraints are at hand. 
+Furthermore, the features of audiovisual materials do not always have clear-cut beginning and end points.    
 The conventions in place attempt to provide clarity for when generally the annotations can be considered precise or not. 
 
-1. **MARGIN OF ERROR** _(+/- in both directions)_- The margin of error depends on the tool/process of conducting an annotation project happens. For instance, 
+1. **MARGIN OF ERROR** _(+/- in both directions)_- 
+The margin of error depends on the process of how an annotation project was conducted and the tool used. 
+For instance, 
 if the annotator is playing a video at half speed (audio listenable) and pressing a button when a chyron appears (and not stopping to correct or precisely verify), we can assume:
    1. Precision is limited by on-screen-and-discern-to-press [reaction time](https://www.reddit.com/r/truegaming/comments/hu0p3a/comment/fylge12/?utm_source=reddit&utm_medium=web2x&context=3),
 which is approximately .200 to .250 seconds. This time amount is somewhat similarly shown in feedback from musicians using digital keyboards and video gamers complaining about [ping or framerate](https://www.pcgamer.com/how-many-frames-per-second-can-the-human-eye-really-see/).
-   2. As an assumption, if the video is playing at half speed, we can then assume the margin of error from this factor is within 0.100-0.200 seconds. 
+   2. As an assumption, if the video is playing at half speed, we can then assume the margin of error from this factor is relatively reasonably represented as around 0.100-0.200 seconds. 
    3. Being able to pause and visually move a time slider with high precision would increase the precision but likely lead to excessive annotation labor cost. 
-   4. It is highly likely there will be cases where margin of error will pass over the directionality limit given below. 
-However, the convention requested during annotation is to attempt to preserve **Directionality** over reducing **Margin of Error**.   
+   4. It is highly likely there will be cases where margin of error will pass over the Directionality limit given below. 
+However, the convention requested during annotation is to attempt to preserve **Directionality** instructions over reducing **Margin of Error**.   
   
-2. **DIRECTIONALITY** _(as close to a certain boundary but not past it)_ - We attempt to give instructions and explanation for when we want 
+3. **DIRECTIONALITY** _(as close to a certain boundary but not past it)_ - We attempt to give instructions and explanation for when we want 
 an annotation to be up to the limit of something as close as possible. E.g. We're annotating a fading-in-and-out slate. 
 We want the start time of the slate to be "as close as possible but after" the moment when the slate is fully solid and no longer transparent.
 And we want the end time of the slate to be "as close as possible but before" the moment when the slate begins to start fading-out. 
