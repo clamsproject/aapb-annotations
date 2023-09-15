@@ -13,12 +13,10 @@ This detected information could be used to verify and update metadata about that
 ### Project Information
 ```
 Annotation project name - january-slates
-Annotator Demographics (2) -  
-Unknown (Unknown age, (other demographic information), Lang: Unknown, Organization: GBH)  
-Samantha Driscoll (Working Professional age, (other demographic information), Lang: Eng US native speaker, Organization: GBH)  
+Annotator Demographics (2) - Public Broadcasting Organization Media Librarians and Volunteers, age range 20-30, college or masters education  
 Annotation Environment information -    
-    Name: TODO - Unknown  
-    Version: Unknown  
+    Name: Manual google sheets entry + AAPB video viewer + unknown video viewer with frame time 
+    Version: n/a  
     Link/Tool Used/User Manual: (See below Tool Installation)  
 Project changes -  
     Project Version: Unknown/1.0  
@@ -27,18 +25,18 @@ Project changes -
 ```
 
 ### Data Overview
-* INPUT - a set of video files to be annotated. _TODO: Which tool?_   
+* INPUT - a set of video files to be annotated, preferably openable in mass in a video viewer/tool that has some fraction of a second denomination.  
 * INTERMEDIATE RAW OUTPUT - `.csv` file where each line is the time of when the slate frames appear in that video.
   * Format  
-    * Fields: ```GUID,",","Series/Group              ,","Slate Start ,","Slate End   ,","Writing Types,",Recorded/Digital,,,",",format of most of the information,",",Anything moving on screen during slate?,```
-[!Note] there are extra commas added in and extra blank columns and extra space within the column names.
+    * Fields: ```GUID,",","Series/Group              ,","Slate Start ,","Slate End   ,","Writing Types,",Recorded/Digital,,,",",format of most of the information,",",Anything moving on screen during slate?,```  
+    [!Note] there are extra commas added in and extra blank columns and extra space within the column names.
     * Example:
         ```
         cpb-aacip-81-881jx33t,",","Woman                     ,","00:00:00;00 ,","00:00:05;04 ,","handwriting  ,",recorded,,,",",boxes to fill in,",",no,
         cpb-aacip-41-34fn32g7,",","Carolina Journal          ,","00:00:00;00 ,","00:00:14;28 ,","typed        ,",digital?,,,",",key-value pairs,",",countdown,
         ```
 * FINAL PREPARED GOLD OUTPUT - `.tsv` file that seems to be actually comma-separated anyway. The gold files conform to the repository readme guideline that each 
-gold must relate to only one GUID. Therefore, each of these gold files is only 1 video/GUID each. Note: the column headers are added to each file.  
+gold must relate to only one GUID. Therefore, each of these gold files is only 1 video/GUID each. 
   * Format
     * Fields: `GUID,Series/Group,Slate Start,Slate End,Writing Types,Recorded/Digital,format of most of the information,Anything moving on screen during slate?`
     * Example:
@@ -52,10 +50,10 @@ gold must relate to only one GUID. Therefore, each of these gold files is only 1
 _TODO: Tool used is unknown. Follow-up questions with Sammy should illuminate this._
 
 ## Annotation Guidelines: Transcribing/Closed Captioning
-_TODO: What guidelines were used for this?_
-This documented [slate types](https://docs.google.com/document/d/1Xf43EpVzQbIOB-7KTadEyU3eam9xIvLlSGkjy4Ff2v4/edit) but is not a complete guideline.  
+For a quick overview of [slate types](https://docs.google.com/document/d/1Xf43EpVzQbIOB-7KTadEyU3eam9xIvLlSGkjy4Ff2v4/edit) please see this.  
+The verbal guidelines for this project were to annotate as a superinterval/superset times the slate appeared, and details about its appearance.  
 ### Preparation
-Multiple videos must be prepared for annotation.  
+Multiple videos must be prepared to be opened for annotation.  
 ### Process of Annotating
 
 Per column:  
