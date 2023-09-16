@@ -1,13 +1,13 @@
 # AAPB-CLAMS Annotation Repository
-This repository contains datasets from manual annotation projects in [AAPB](https://americanarchive.org/) - [CLAMS](https://clams.ai) collaboration.
+This repository contains datasets from manual annotation projects in [GBH](https://www.wgbh.org/) & [AAPB](https://americanarchive.org/) - [CLAMS](https://clams.ai) collaboration.
 
 ## Project Information
-[GBH](https://www.wgbh.org/) and the American Archive of Public Broadcasting (AAPB) have involved the CLAMS team in a collaboration to develop metadata creation systems for digital archives of public media 
+GBH and AAPB have involved the CLAMS team to develop metadata creation systems for digital archives of public media 
 (primarily video and audio from publicly-funded tv shows and radio broadcasts). 
-This will facilitate the research and preservation of significant historical content from such media.  
-The process of archiving, summarizing and extracting-metadata from this media could eventually be automatic.  
+This will facilitate the research and preservation of significant historical content from this media collection.  
+Parts of the process of archiving, summarizing and extracting metadata from media assets could eventually be automatic.  
 This repository/endeavor provides training and evaluation data for the Computer Vision and Machine Learning tools in this process.  
-Data collected is used to evaluate the success of the tools. Then, the tools will be trained on larger batches of data to automatically retrieve 
+Data collected is used to evaluate the success of the tools. Then, the tools will be trained on large batches of data to automatically retrieve 
 information important to the archival process.
 
 ## Structure of This Repository/Directory
@@ -17,9 +17,9 @@ information important to the archival process.
 
 ### `batches` Subdirectory 
 The first directory is the special `batches` directory. 
-This special directory maintains tracking information for the whole repository/annotation effort. 
-Annotation projects are done in batches, which denote a moment/event/period of an annotation effort on a set of media assets.
-The batches are set of the identifying tags for those respective media assets.
+This special directory maintains tracking information for the whole repository/annotation endeavor. 
+Annotation projects are done in batches, which denote a moment/event/period of annotation on a set of media assets.
+A batch is set of the identifying tags for those respective media assets.
 Specifically, this directory contains `.txt` files named after the batch name. Batches are usually named after their relevant GitHub issue from [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration).  
 * Each line in a `.txt` file _must_ be a single AAPB GUID, with an exception to any lines starts with `#` - which denotes a comment.  
 * A GUID is a unique identifying string that can be used at the AAPB website to find one particular media and its supporting files, eg. `cpb-aacip-96d289b264c` at https://americanarchive.org/catalog/cpb-aacip-96d289b264c.
@@ -37,19 +37,19 @@ The directory name is the name of the project. Each directory contains the follo
 > [!IMPORTANT]
 > `YYMMDD-batchName` directory 
  
-These sub-directories contains raw output files from the manual annotation process created by the annotation tool (or by hand like a `.csv` file). 
+These sub-directories contain raw output files from the manual annotation process created by the annotation tool (or by hand like a `.csv` file). 
 Different annotation tools create different file formats with diverse formatting. The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted. (e.g., when the batch is decided to be annotated)
-These prefixes are important for easy sorting of annotation processes and machine ingestion of the raw data. 
+These prefixes are used for the sorting of annotation processes and machine ingestion of the raw data. 
 The `batchName` part of the directory name _must_ match only one of `.txt` files in the batches. 
 
 #### Codebase for conversion
 > [!IMPORTANT]
-> (usually) `process.{sh,py}` and dependencies
+> _(usually)_ `process.{sh,py}` _and dependencies_
  
 A piece of software to process the raw manual annotations and generate the publicly-available "gold" dataset. 
 The input file format to the tools/apps can vary (e.g. `.csv`, `.json`). 
 In addition to the main code file, if the code requires additional dependencies/scripts, they can stay in the same directory. 
-The dependencies information can be written down in the `README.md` (below) file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
+The dependencies information can be written down in the `README.md` file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
 
 #### Final "Gold" dataset files
 > [!IMPORTANT]
@@ -60,11 +60,11 @@ The gold dataset is a set of files that are in a format that is ready for use wi
 
 #### Information README
 > [!IMPORTANT] 
-> `README.md` (and possibly `guidelines.md`)
+> `README.md` _(and possibly `guidelines.md`)_
 
 Project-specific information, including but not limited to:
 * Annotation project name
-* Annotator summary: Some basic demographic information about the annotators. Age group, native languages, language proficiency, occupational characteristics, etc.
+* Annotator summary: Some basic demographic information about the annotators. Age group, language proficiency, occupational characteristics, etc.
 * Annotation environment/tool information (name, version, link, tool used, user manual, etc.)
 * Project changes: version changes, addition of new batches, change in annotator personnel, etc.
 * Raw-to-gold conversion code explanation 
@@ -83,70 +83,18 @@ Project-specific information, including but not limited to:
 > [!NOTE]
 > `readme.md` files are supposed to be actively maintained by the project manager. All `guideline.md` files are recommended to be version-controlled.  
 
-
-
-## Repository-level Conventions
+## Repository-level Conventions (in brief)
+### Conventions
+> Please see the [Repository-level Conventions file](https://github.com/clamsproject/aapb-annotations/blob/main/repository_level_conventions.md) for standardizations, explanations and conventions.  
 ### Time Point Notation
-> `hh:mm:ss.mmm` with a DOT 
-
-The time format for all (gold) datasets in this repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601#Times). 
-Specifically, with time precision of up to hours and down to 3-digits in milliseconds placed after seconds with a **DOT**, where `00:00:00.000` means the very beginning of a time-based media (not midnight real-time).
-
-This instruction is specifically to be  required for the "gold" data formats throughout this repository, except where exceptions are required and documented.  
-(_TODO: Current/Old gold datasets and tools have yet to be converted._)  
-During raw annotation however, the tool environments may use different time formats because of non-in-house authors. 
-Moving forward, the expectation for any in-house tools and apps are to use this standard. 
-If configurable, the annotation tool should be configured to use this format. If possible, the annotator should also be instructed to use this format. 
-
-For MPEG-based video files, frame numbers are converted to milliseconds with loss of precision past 3-digits. 
-However, due to exact time -> still image fetching being dependent on the video compression/codec/player, there is no expected need for precision past 3-digits. 
-It is assumed that different video players will regenerate images on screen slightly differently based on the decompression algorithms. 
-To that end, it is unlikely that even given a specific time moment that a person in one place would be able to extract exactly the same pixels 
-in a frame as another person doing it somewhere else.  
-This convention was put forth upon consultation of the needs of GBH and CLAMS. 
+> [!IMPORTANT] 
+> `hh:mm:ss.mmm` with a **DOT**  
+The time format for all (gold) datasets in this repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601#Times).  
 ### Imprecision in Annotation in General
-Data Quality processes are currently still being built. Currently, datasets do not have a data quality checklist applied to them. 
-This means there are possible typos in anything that must be typed. Other general data messiness is also possible. 
-Two semi-preventative measures are: 
-1. If only a few value options are expected in one column, using a pie chart/counter in Excel to search/count for typos to manually correct is possible. 
-2. Annotators should use copy-paste wherever possible instead of typing, and annotation tools should have buttons to add items, 
-reducing typos during typing.  
-
-The current convention is that annotators are asked to be as careful as meaningfully possible, and some datasets are "quality-assumed" upon 
-faith in annotators/environment until such time a quantitative analysis of errors is done.  
-
+_(See other file)_
 ### Imprecision in Time-based Annotation
-Time-based annotations are almost inherently imprecise. This is due usually to either perception or manipulation of the tool within the limits of meaningful
-task-speed constraints are at hand. 
-Furthermore, the features of audiovisual materials do not always have clear-cut beginning and end points.    
-The conventions in place attempt to provide clarity for when generally the annotations can be considered precise or not. 
-
-1. **MARGIN OF ERROR** _(+/- in both directions)_- 
-The margin of error depends on the process of how an annotation project was conducted and the tool used. 
-For instance, 
-if the annotator is playing a video at half speed (audio listenable) and pressing a button when a chyron appears (and not stopping to correct or precisely verify), we can assume:
-   1. Precision is limited by on-screen-and-discern-to-press [reaction time](https://www.reddit.com/r/truegaming/comments/hu0p3a/comment/fylge12/?utm_source=reddit&utm_medium=web2x&context=3),
-which is approximately .200 to .250 seconds. This time amount is somewhat similarly shown in feedback from musicians using digital keyboards and video gamers complaining about [ping or framerate](https://www.pcgamer.com/how-many-frames-per-second-can-the-human-eye-really-see/).
-   2. As an assumption, if the video is playing at half speed, we can then assume the margin of error from this factor is relatively reasonably represented as around 0.100-0.200 seconds. 
-   3. Being able to pause and visually move a time slider with high precision would increase the precision but likely lead to excessive annotation labor cost. 
-   4. It is highly likely there will be cases where margin of error will pass over the Directionality limit given below. 
-However, the convention requested during annotation is to attempt to preserve **Directionality** instructions over reducing **Margin of Error**.   
-  
-3. **DIRECTIONALITY** _(as close to a certain boundary but not past it)_ - We attempt to give instructions and explanation for when we want 
-an annotation to be up to the limit of something as close as possible. E.g. We're annotating a fading-in-and-out slate. 
-We want the start time of the slate to be "as close as possible but after" the moment when the slate is fully solid and no longer transparent.
-And we want the end time of the slate to be "as close as possible but before" the moment when the slate begins to start fading-out. 
-Here are two ways to describe the Directionality convention: 
-   1. **Instructions for human annotators** - For time-based media, annotated times are to be labeled as within the duration of the phenomenon.
-Eg. if a text-based label fades on-and-off screen, 
-the annotated start time should be the moment it has become fully solid and the end time should be the moment just before it begins to fade.  
-   2. **For interpreting MMIF/annotations** - 
-For time-based media, assume that the interval defined in the MMIF annotation is contained within the relevant interval in the actual media.
-
-Finally, a reminder must be placed that at 30 frames per second, each frame is 0.033_ seconds long, meaning a tenth of a second has 3 frames within it.
-Practically speaking, there is only a small percentage of cases where the variation between one frame to its neighbor is relevant,
-especially in cases of human perception.
-The conventions for precision hold until new needs of the project are required. 
+1. **MARGIN OF ERROR** _(+/- in both directions)_  
+2. **DIRECTIONALITY** _(Close as can to bound but not past it)_  
   
 ## List of Current Projects/Subdirectories
 _This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._  
