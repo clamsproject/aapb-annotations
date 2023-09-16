@@ -15,6 +15,7 @@ However, due to exact time -> still-image-fetching being dependent on the video 
 It is assumed that different video players will regenerate images on screen slightly differently based on the decompression algorithms. 
 To that end, it is unlikely that even given a specific time moment that a person in one place would be able to extract exactly the same pixels 
 in a frame as another person doing it somewhere else.  
+The other reason frames was not chosen to split seconds is that the collection also contains radio assets with audio only. Audio does not have frames.  
 ### Imprecision in Annotation in General
 Data Quality processes are currently still being built. Currently, datasets do not have a data quality checklist applied to them. 
 This means there are possible typos in anything that must be typed. Other general data messiness is also possible. 
