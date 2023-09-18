@@ -1,11 +1,12 @@
 # AAPB-CLAMS Annotation Repository
-This repository contains datasets from manual annotation projects in [GBH](https://www.wgbh.org/) & [AAPB](https://americanarchive.org/) - [CLAMS](https://clams.ai) collaboration.
+This repository contains datasets from manual annotation projects in [GBH](https://www.wgbh.org/) / [AAPB](https://americanarchive.org/) 
+with [Brandeis Lab for Linguistics and Computation](https://brandeis-llc.github.io/)  / [CLAMS](https://clams.ai) collaboration.
 
 ## Project Information
-GBH and AAPB have involved the CLAMS team to develop metadata creation systems for digital archives of public media 
+GBH and the American Archive of Public Broadcasting AAPB have involved the CLAMS team to develop metadata creation systems for digital archives of public media 
 (primarily video and audio from publicly-funded tv shows and radio broadcasts). 
 This will facilitate the research and preservation of significant historical content from this media collection.  
-Parts of the process of archiving, summarizing and extracting metadata from media assets could eventually be automatic.  
+Some parts of the process of archiving, summarizing and extracting metadata from media assets could eventually be automatic.  
 This repository/endeavor provides training and evaluation data for the Computer Vision and Machine Learning tools in this process.  
 Data collected is used to evaluate the success of the tools. Then, the tools will be trained on large batches of data to automatically retrieve 
 information important to the archival process.
@@ -16,29 +17,40 @@ information important to the archival process.
  - this README file
 
 ### `batches` Subdirectory 
-The first directory is the special `batches` directory. 
-This special directory maintains tracking information for the whole repository/annotation endeavor. 
-Annotation projects are done in batches, which denote a moment/event/period of annotation on a set of media assets.
-A batch is set of the identifying tags for those respective media assets.
-Specifically, this directory contains `.txt` files named after the batch name. Batches are usually named after their relevant GitHub issue from [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration).  
-* Each line in a `.txt` file _must_ be a single AAPB GUID, with an exception to any lines starts with `#` - which denotes a comment.  
+The first subdirectory is the special `batches` subdirectory. 
+This special subdirectory maintains tracking information for the whole repository/annotation endeavor. 
+
+Smaller selections of the AAPB collection are chosen and cataloged as batches in this subdirectory. 
+These sets are chosen for variety or utility needed for the applications developed here.   
+A batch is the set of the identifying GUIDS/tags for those that group of media assets.  
+
+Batches are decided sometime before annotations begin. 
+Annotation projects then choose appropriate batches for each moment/period of annotation work.
+(See raw annotation section.)
+
+Specifically, this directory contains `.txt` files named after the batch name. 
+* Batches are usually named after their relevant GitHub issue from [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration).  
 * A GUID is a unique identifying string that can be used at the AAPB website to find one particular media and its supporting files, eg. `cpb-aacip-96d289b264c` at https://americanarchive.org/catalog/cpb-aacip-96d289b264c.
+* **Each line in the file _must_ be a single AAPB GUID**, with an exception to any lines starts with `#` - which denotes a comment.
 
 > [!NOTE]
 > AAPB-GUID is not [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), but just a unique identifier within the scope of the AAPB system.   
 
 ### Project Subdirectories 
-Each directory in this repository represents a specific annotation project, its datasets and processing tools.    
-This includes its raw annotated data file, gold-formatted final output data file for tool ingestion, software-suite for converting from raw to gold, and a project-specific `readme.md` explaining it and its annotation guidelines.
+Every other subdirectory in this repository represents a specific annotation project, its datasets and processing tools.    
+This includes its raw annotated data file, gold-formatted final output data file for tool ingestion, software-suite for converting from raw to gold, 
+and a project-specific `readme.md` explaining it and its annotation guidelines.
 
-The directory name is the name of the project. Each directory contains the following files:
+The subdirectory name is the name of the project. Each subdirectory contains the following files:
 
 #### Raw intermediate dataset files
 > [!IMPORTANT]
 > `YYMMDD-batchName` directory 
  
-These sub-directories contain raw output files from the manual annotation process created by the annotation tool (or by hand like a `.csv` file). 
-Different annotation tools create different file formats with diverse formatting. The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted. (e.g., when the batch is decided to be annotated)
+This contains raw output files from the manual annotation process created by the annotation tool (or by hand like a `.csv` file). 
+Different annotation tools create different file formats with diverse formatting. 
+The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted. 
+(e.g., when the batch is decided to be annotated)
 These prefixes are used for the sorting of annotation processes and machine ingestion of the raw data. 
 The `batchName` part of the directory name _must_ match only one of `.txt` files in the batches. 
 
@@ -48,19 +60,19 @@ The `batchName` part of the directory name _must_ match only one of `.txt` files
  
 A piece of software to process the raw manual annotations and generate the publicly-available "gold" dataset. 
 The input file format to the tools/apps can vary (e.g. `.csv`, `.json`). 
-In addition to the main code file, if the code requires additional dependencies/scripts, they can stay in the same directory. 
+In addition to the main code file, if the code requires additional dependencies/scripts, they can stay in the same label at that subdirectory. 
 The dependencies information can be written down in the `README.md` file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
 
 #### Final "Gold" dataset files
 > [!IMPORTANT]
 > `golds` directory
 
-This directory contains the public "gold" dataset generated by the above script. The script _must_ generate one file per GUID (video/audio/text document) and the number of gold files in this directory _must_ match the sum of GUIDs in all batches (`YYMMDD-xxx` subdirectories) annotated. 
+This contains the public "gold" dataset generated by the above script. The script _must_ generate one file per GUID (video/audio/text document) and the number of gold files in this subdirectory _must_ match the sum of GUIDs in all batches (`YYMMDD-xxx` subdirectories) annotated. 
 The gold dataset is a set of files that are in a format that is ready for use with the newly developed tools. I.e. The raw file must be properly formatted so that tools in the next step of the process can use this dataset.
 
 #### Information README
 > [!IMPORTANT] 
-> `README.md` _(and possibly `guidelines.md`)_
+> `README.md` (_and possibly `guidelines.{md,ppt}`_)
 
 Project-specific information, including but not limited to:
 * Annotation project name
@@ -72,29 +84,28 @@ Project-specific information, including but not limited to:
   * file formats of raw and gold
   * field description, _datatype_
   * differences, added information, discarded information during `process.py`, added info during process.py, etc.)  
-* Annotation guidelines - sometimes this is a separate file: `guidelines.md`: How to annotate in this project, aka scheme. This section should give sufficient information for the reproduction of the annotation to produce almost exact similar raw datasets.
+* Annotation guidelines - sometimes this is a separate file: `guidelines.{md,ppt}`: How to annotate in this project, aka scheme. 
+This section should give sufficient documentation for how the annotation was done and the conditions/assumptions under which the dataset exists. 
   * What tool is used, and how it is used. In most cases there is a separate codebase (ideally on `clamsproject` GitHub) for the annotation tool, and it should be linked in the project-specific `README.md`.
   * What to annotate
   * Options of label choices
   * Label formatting. 
   * Differentiation between labels, edge cases, other decisions made during annotation.
-  * Concerns, limitations, precision details. (e.g. Annotation of time is likely only down to 0.100-0.200 seconds of precision.)
+  * Concerns, limitations, precision details. (e.g. time imprecision)
 
 > [!NOTE]
-> `readme.md` files are supposed to be actively maintained by the project manager. All `guideline.md` files are recommended to be version-controlled.  
+> `readme.md` & `guidelines.{md,ppt}` files are supposed to be actively maintained by the project manager. All guideline files are recommended to be version-controlled.  
 
-## Repository-level Conventions (in brief)
+## Repository-level Conventions
 ### Conventions
 > Please see the [Repository-level Conventions file](https://github.com/clamsproject/aapb-annotations/blob/main/repository_level_conventions.md) for standardizations, explanations and conventions.  
-### Time Point Notation
-> [!IMPORTANT] 
-> `hh:mm:ss.mmm` with a **DOT**  
-The time format for all (gold) datasets in this repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601#Times).  
-### Imprecision in Annotation in General
-_(See other file)_
-### Imprecision in Time-based Annotation
-1. **MARGIN OF ERROR** _(+/- in both directions)_  
-2. **DIRECTIONALITY** _(Close as can to bound but not past it)_  
+
+> [!IMPORTANT]  
+> TL;DR   
+> Media Time = `hh:mm:ss.mmm` with a **DOT**   
+> Annotations are usually a little imprecise because audiovisual phenomena are, or visualizing/labelling of such is. 
+> Some estimates of imprecision are given by Margin of Error.
+> Directionality definitions help frame the boundaries meant by annotated times.
   
 ## List of Current Projects/Subdirectories
 _This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._  
@@ -113,4 +124,4 @@ an extra label of which wikimedia link referred to the named entity annotated, e
 
 ## Issue Tracking and Conversation Archive
 Progress and other discussion by AAPB/CLAMS/WBGH is tracked via the open and closed [Github Issues](https://github.com/clamsproject/aapb-annotations/issues) feature.  
-Finally, please email [CLAMS.ai admin](admin@clams.ai) for other inquiries.  
+Finally, please email [CLAMS.ai admin](mailto:admin@clams.ai) for other inquiries.  
