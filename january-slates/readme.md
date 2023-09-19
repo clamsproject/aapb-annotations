@@ -86,7 +86,7 @@ This means the annotation will begin on a time/frame without the slate where pos
 and is annotated as ending after the slate has disappeared.
 (This is currently unvalidated.)
 > [!Note]  
->  This is opposite to the decision made in the January Chyrons project. 
+>  This is opposite to the decision made in the Chyrons project. 
 
 **Errors in the raw** - There are errors in the raw format, notably, in `CLAMS_slate_annotation_metadata.csv` [line 203](https://github.com/clamsproject/aapb-annotations/blob/f884e10d0b9d4b1d68e294d83c6e838528d2c249/january-slates/230101-aapb-collaboration-7/CLAMS_slate_annotation_metadata.csv?plain=1#L203) "cpb-aacip-394-150gbd75", column(Writing Types F) is a typo "typeed" instead of "typed". 
 Further work should be done to check for other errors of this type. A bash script search would likely need to be run to find out if that error made it into the gold format `.tsv` files also.
