@@ -46,13 +46,16 @@ gold must relate to only one GUID. Therefore, each of these gold files is only 1
     ```
     [!Note] Each file has the column header in it. 
 
-## Tool Installation: Unknown
-_TODO: Tool used is unknown. Follow-up questions with Sammy should illuminate this._
+## Tool Installation: None
+This annotation was done manually by entering information into a Google Sheet. 
+Multiple videos were prepared or downloaded or were accessed from an AAPB terminal. 
+Videos were opened in the AAPB viewer or in some unknown tool that had time information up to division by 30 frames per second.  
 
 ## Annotation Guidelines: Transcribing/Closed Captioning
 For a quick overview of [slate types](https://docs.google.com/document/d/1Xf43EpVzQbIOB-7KTadEyU3eam9xIvLlSGkjy4Ff2v4/edit) please see this.  
 The verbal guidelines for this project were to annotate as a superinterval/superset times the slate appeared, and details about its appearance.  
 ### Preparation
+A google sheet must be prepared to annotate the below columns.  
 Multiple videos must be prepared to be opened for annotation.  
 ### Process of Annotating
 
@@ -67,7 +70,7 @@ The final number which includes letters is the unique guid number.
 * Slate Start ,- When the slate starts appearing. (See Decisions). Format likely "hr:mn:se:fr" out of 30 fps.     
 * Slate End   ,- When the slate stops being shown on screen. (See Decisions)  
 * Writing Types,- Slates contain written information. Much of this material is from the early days of tv. eg. "handwritten", "typed" or "other"   
-* Recorded/Digital - _unknown what this column pertains to_  
+* Recorded/Digital - _TODO:unknown what this column pertains to_  
 * (empty)  
 * (empty)  
 * (comma)  
@@ -78,19 +81,24 @@ The final number which includes letters is the unique guid number.
 _Note: in some columns there is a comma within the raw value of the column._
 
 ### Decisions, Differentiations, and Precision during Annotation
-**What denotes start and end** - Decisions as to what exactly constitutes the start and end of the slate times is unknown. Is it when it first starts fading in, or when its fully done fading? 
+**What denotes start and end** - This project was done with the annotation time as a superinterval.
+This means the annotation will begin on a time/frame without the slate where possible (or 00:00:00.000) 
+and is annotated as ending after the slate has disappeared.
+(This is currently unvalidated.)
+> [!Note]  
+>  This is opposite to the decision made in the January Chyrons project. 
 
 **Errors in the raw** - There are errors in the raw format, notably, in `CLAMS_slate_annotation_metadata.csv` [line 203](https://github.com/clamsproject/aapb-annotations/blob/f884e10d0b9d4b1d68e294d83c6e838528d2c249/january-slates/230101-aapb-collaboration-7/CLAMS_slate_annotation_metadata.csv?plain=1#L203) "cpb-aacip-394-150gbd75", column(Writing Types F) is a typo "typeed" instead of "typed". 
 Further work should be done to check for other errors of this type. A bash script search would likely need to be run to find out if that error made it into the gold format `.tsv` files also.
 
 **Time format non-conformant** - This is an older project. The time format does not conform to ISO 8601 `hr:mn:sc.msc` yet.
 
-**Time format check** - It is not fully verified what the time format is, however the assumption is as above since the highest last number goes up to 29.
-Yet another typo seems to appear however in two cases of numbers like this: `CLAMS_slate_annotation_metadata.csv` line 77 Slate End "00:00:27;110,",
+**Time format typos** - A typo seems to appear however in two cases of numbers like this: `CLAMS_slate_annotation_metadata.csv` line 77 Slate End "00:00:27;110,",
 `CLAMS_slate_annotation_metadata.csv` line 97 Slate Start "00:00:05;119,", 
 
-**Time format change** - At around line203 or 202 is a note that "sammy started annotating here.". 
-Shift of time format to only 3 numbers: "xx:xx:xx" assumptively "mn:sc:fr"(?).  
+**Time format change** - At around line203 is a note that "sammy started annotating here.". 
+Shift of time format to only 3 numbers: "xx:xx:xx". This is confirmed as hh:mm:ss (no frames!) since the AAPB viewer used did not
+offer frame precision. 
 
 **No slate** - there are valid instances where a video does not have slate information shown within the actual video. Annotate as "no slate" in both Slate Start and Slate End.  
 
@@ -98,10 +106,17 @@ Shift of time format to only 3 numbers: "xx:xx:xx" assumptively "mn:sc:fr"(?).
 It starts at line 624 and it resumes at line 1409. This might be because all of those GUIDs are the same and more variety in the dataset was needed for better results.
 Annotation by Sammy paused/ended with line 1672 being the last annotated row.  
 
-**Time Accuracy** - Recollection and discussion from the annotators (in-progress) is required to note precision levels. 
+**Time Precision** - Because of the time format change, it should be assumed that the numbers without frames is only precise down to the second.
+The precision of the other annotations with frame precision is unverified. 
 
-> [Validation dataset](https://docs.google.com/spreadsheets/d/1VHEpYmAtBHkIHTzbYtUexRNqALEHLi-3rwzIXtfQG-E/edit#gid=0) was used. More info is to come. 
+
 
 ## Gold Generation and Dependencies - Codebase
 `requirements.txt` for running the codebase is stored here.  
 _TODO: to be added_
+
+## Evaluation Dataset   
+> [Evaluation dataset](https://docs.google.com/spreadsheets/d/1VHEpYmAtBHkIHTzbYtUexRNqALEHLi-3rwzIXtfQG-E/edit#gid=0)  
+ 
+In 2020, an evaluation of the performance of the slates app tool was done by GBH. This is the result of it, comparing the output 
+prediction of the app to the judgment of a human annotator. 
