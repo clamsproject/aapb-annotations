@@ -87,6 +87,8 @@ To ensure consistency between data consumption software, there are a few require
 In addition to the main code file, if the code requires additional dependencies/scripts, they can stay in the same level at that subdirectory.
 The dependencies information can be written down in the `README.md` file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
 
+And finally, check the [conventions section](#repository-level-conventions) for the naming conventions for common field/column names for `golds` data. 
+
 #### Information README
 > [!IMPORTANT] 
 > `README.md` (_and possibly `guidelines.{md,ppt}`_)
@@ -117,15 +119,22 @@ This section should give sufficient documentation for how the annotation was don
 > `readme.md` & `guidelines.{md,ppt}` files are supposed to be actively maintained by the project manager. All guideline files are recommended to be version-controlled. 
 
 ## Repository-level Conventions
-### Conventions
-> Please see the [Repository-level Conventions file](https://github.com/clamsproject/aapb-annotations/blob/main/repository_level_conventions.md) for standardizations, explanations and conventions. 
 
+> Please see the [Repository-level Conventions file](repository_level_conventions.md) for standardizations, explanations and conventions. 
+
+### Time notation formats
 > [!IMPORTANT] 
 > TL;DR  
 > Media Time = `hh:mm:ss.mmm` with a **DOT**  
 > Annotations are usually a little imprecise because audiovisual phenomena are, or visualizing/labelling of such is. 
 > Some estimates of imprecision are given by Margin of Error.
 > Directionality definitions help frame the boundaries meant by annotated times.
+ 
+### Field naming conventions for gold datasets
+> [!IMPORTANT]
+> TL;DR
+> * `GUID` (all caps) - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
+> * For "anchor" columns (e.g., character offsets, time intervals, etc.) use `start`, `end` for the column names.
  
 ## List of Current Projects/Subdirectories
 _This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._ 
