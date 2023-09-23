@@ -112,14 +112,14 @@ The precision of the other annotations with frame precision is unverified.
     cpb-aacip-41-34fn32g7,",","Carolina Journal          ,","00:00:00;00 ,","00:00:14;28 ,","typed        ,",digital?,,,",",key-value pairs,",",countdown,
     ```
 
-### `process.py`
+### [`process.py`](process.py)
 This script takes the raw data and converts it into a more usable format, by 
 1. removing the extra commas and spaces in the raw data,
 2. taking out the extra comma suffixes in the raw data,
 3. normalizing column names based on repository conventions,
 4. normalizing some values, possibly fixing typos, (see below)
 
-### `gold` data
+### `golds` data
 `.tsv` tabular format separated with tab (`U+0009`) characters. The gold files conform to the repository readme guideline that each gold must relate to only one GUID. Therefore, each of these gold files is only 1 video/GUID each.
 * Fields:
     * `GUID` - the same as the raw data
