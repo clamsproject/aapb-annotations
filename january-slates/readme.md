@@ -1,6 +1,6 @@
 # Slates
 
-## Goal of the Project
+## Project Overview
 
 ### What is a film slate? 
 > "The term film slate is still used to reference the clapper board that appears on the screen when filming. Just like early clappers.  The slate is shown at the beginning of a take immediately prior to the commencement of action." - [Beverly Boy Productions](https://beverlyboy.com/filmmaking/what-does-slate-mean-in-film/#:~:text=The%20term%20film%20slate%20is,the%20term%20slate%20in%20film.).  
@@ -13,11 +13,11 @@ This dataset is needed to power automatic detection of slate information in the 
 Many of the collection pieces have incomplete or unverified information about what the video is. 
 This detected information could be used to verify and update metadata about that collection piece.
 
-### Project Information
+### Specs
 * Annotation project name - `january-slates`
 * Annotator Demographics
     * Number of annotators - Two
-    * Occupational description - Two Public Broadcasting Organization Media Librarians and Volunteers
+    * Occupational description - Two Public Broadcasting Organization git Media Librarians and Volunteers
     * Age range - 20s
     * Education - college or masters education
 * Annotation Environment information
@@ -33,7 +33,7 @@ This annotation was done manually by entering information into a Google Sheet.
 Multiple videos were prepared or downloaded or were accessed from an AAPB terminal. 
 Videos were opened in the AAPB viewer or in some unknown tool that had time information up to division by 30 frames per second.  
 
-## Annotation Guidelines: Transcribing/Closed Captioning
+## Annotation Guidelines
 For a quick overview of [slate types](https://docs.google.com/document/d/1Xf43EpVzQbIOB-7KTadEyU3eam9xIvLlSGkjy4Ff2v4/edit) please see this.  
 The verbal guidelines for this project were to annotate as a superinterval/superset times the slate appeared, and details about its appearance.  
 
@@ -41,7 +41,7 @@ The verbal guidelines for this project were to annotate as a superinterval/super
 A google sheet must be prepared to annotate the below columns.  
 A set of video videos must be prepared to be opened for annotation, preferably openable in mass in a video viewer that has some fraction of a second denomination.
 
-### Process of Annotating
+### What to Annotate
 Per column:  
 * `GUID` - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t".
     > [!Note]
@@ -53,15 +53,20 @@ Per column:
 * `Slate Start` - When the slate starts appearing. (See Decisions). Format likely "hr:mn:se:fr" out of 30 fps.     
 * `Slate End` - When the slate stops being shown on screen. (See Decisions)  
 * `Writing Types` - Slates contain written information. Much of this material is from the early days of tv. eg. "handwritten", "typed" or "other"   
-* `Recorded/Digital` - Whether the video is recorded by camera or digitally encoded. 
+* `Recorded/Digital` - Whether the slate is recorded by camera or digitally encoded into the video. 
 * `format of most of the information` - visually how is the textual information presented in the slate? e.g. "boxes to fill in", "key-value pairs", "free text"  
 * `Anything moving on screen during slate?` - are there things like animations and other things that are moving during the slate information
+
+### How to Annotate It 
+Move along in the video until the start of the slate is seen. Annotate the time right before that, or 00:00:00.000 if it starts the video. 
+Find the end of the slate, annotate the moment right after it fully disappears. 
+Add the other information as needed. 
 
 ### Decisions, Differentiations, and Precision during Annotation
 * **What denotes start and end** - This project was done with the annotation time as a superinterval.
 This means the annotation will begin on a time/frame without the slate where possible (or 00:00:00.000) 
 and is annotated as ending after the slate has disappeared.
-(This is currently unvalidated.)
+_(This is currently unvalidated.)_
     > [!Warning]  
     > This is opposite to the decision made in the Chyrons project. 
 
