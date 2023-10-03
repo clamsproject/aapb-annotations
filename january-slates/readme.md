@@ -17,7 +17,7 @@ This detected information could be used to verify and update metadata about that
 * Annotation project name - `january-slates`
 * Annotator Demographics
     * Number of annotators - Two
-    * Occupational description - Two Public Broadcasting Organization git Media Librarians and Volunteers
+    * Occupational description - Two Public Broadcasting Organization Media Librarians and Volunteers
     * Age range - 20s
     * Education - college or masters education
 * Annotation Environment information
