@@ -7,16 +7,12 @@ $ process.py --input_path /your/input/path --output_path /your/output/path
 
 import argparse
 import pandas as pd
+import numpy as np
 import os
 
 
 def process_csv(input_directory, output_directory):
-    desired_columns = [
-        "GUID", "Series/Group", "Slate Start", "Slate End",
-        "Writing Types", "Recorded/Digital", "format of most of the information",
-        "Anything moving on screen during slate?"
-    ]
-    batchname = os.path.basename(input_directory)[7:]  # chopping date prefix
+    desired_columns = ["GUID", "collection", "start", "end", "type", "digital", "format-summary", "moving-elements"]
     for filename in os.listdir(input_directory):
         if filename.endswith(".csv"):
             filepath = os.path.join(input_directory, filename)
@@ -26,11 +22,13 @@ def process_csv(input_directory, output_directory):
             df.columns = [col.replace('"', '') for col in df.columns]
             df.columns = [col.replace(' ', '') for col in df.columns]
             df.rename(columns={
-                'SlateStart': 'Slate Start',
-                'SlateEnd': 'Slate End',
-                'WritingTypes': 'Writing Types',
-                'formatofmostoftheinformation': 'format of most of the information',
-                'Anythingmovingonscreenduringslate?': 'Anything moving on screen during slate?'
+                'Series/Group': 'collection',
+                'SlateStart': 'start',
+                'SlateEnd': 'end',
+                'WritingTypes': 'type',
+                'Recorded/Digital': 'digital',
+                'formatofmostoftheinformation': 'format-summary',
+                'Anythingmovingonscreenduringslate?': 'moving-elements'
             }, inplace=True)
             for col in df.columns:
                 if df[col].dtype == 'object':
@@ -38,11 +36,42 @@ def process_csv(input_directory, output_directory):
             for _, row in df.iterrows():
                 guid = row['GUID']
                 tsv_filename = f"{guid}.tsv"
-                tsv_filepath = os.path.join(output_directory, batchname, tsv_filename)
+                tsv_filepath = os.path.join(output_directory, tsv_filename)
                 os.makedirs(os.path.dirname(tsv_filepath), exist_ok=True)
                 row_df = pd.DataFrame([row[desired_columns]])
-                if row_df['Slate Start'].values[0]:
-                    row_df.to_csv(tsv_filepath, index=False)
+                for time_col in ['start', 'end']:
+                    v = row_df[time_col].values[0]
+                    if v.startswith('no'):
+                        row_df[time_col] = 'NO'
+                    elif ';' in v:
+                        # standard format is 00:00:00.000, which is 12 characters
+                        row_df[time_col] = '.'.join(v.split(';')) + '0' * (12 - len(v))
+                    elif ':' in v:
+                        row_df[time_col] = f'{v}.000'
+                v = row_df['type'].values[0]
+                if pd.isnull(v):
+                    continue
+                elif v.lower().startswith('hand') or v.lower().startswith('fixed'):
+                    row_df['type'] = 'h'
+                elif v.lower().startswith('type'):
+                    row_df['type'] = 't'
+                elif len(v) == 0:
+                    continue
+                else:
+                    raise ValueError(f"Unknown type: {v}")
+                v = row_df['digital'].values[0]
+                if pd.isnull(v):
+                    continue
+                elif v.lower().startswith('digit'):
+                    row_df['digital'] = True
+                elif v.lower().startswith('record'):
+                    row_df['digital'] = False
+                # elif len(v) == 0:
+                #     continue
+                else:
+                    raise ValueError(f"Unknown type: {v}")
+                if row_df['start'].values[0]:
+                    row_df.to_csv(tsv_filepath, index=False, sep='\t')
 
 
 if __name__ == '__main__':
