@@ -20,13 +20,13 @@
     * Other Version Control Information - (enter, if applicable)
 
 ## Tool Installation: Name of Tool
-(link for download, if applicable)
-(link for source code, if applicable)
-(link for installation instructions, if applicable)
-(link for documentation, if applicable)
-(link for user manual, if applicable)
-(Any intro needed for tool)
-
+(link for download, if applicable)  
+(link for source code, if applicable)  
+(link for installation instructions, if applicable)  
+(link for documentation, if applicable)  
+(link for user manual, if applicable)  
+(Any intro needed for tool)  
+  
 ## Annotation Guidelines
 (link for guidelines.{md/ppt/pdf/etc}, if separate file)
 (Generally, prefer also to have a file copy of the current guidelines. More editable links to ppt/videos may be acceptable where pictures,etc are needed. Sometimes projects may not have a second file needed for guidelines.)
@@ -41,7 +41,7 @@
 ### How to Annotate It
 (Explanation of the physical process how to do the annotation, what to press etc. Where needed.)
 
-### Decisions, Differentiation, and Precision level during Annotation
+### Decisions, Differentiation, and Precision Level during Annotation
 **Problem  Name** - Information about Decisions that must be made during Annotation, for instance, Differentiation between two slate types. 
 **Problem  Name** - Information on accuracy, precision, error that may be present in the dataset.
 
