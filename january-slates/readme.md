@@ -62,7 +62,7 @@ Move along in the video until the start of the slate is seen. Annotate the time 
 Find the end of the slate, annotate the moment right after it fully disappears. 
 Add the other information as needed. 
 
-### Decisions, Differentiations, and Precision during Annotation
+### Decisions, Differentiation, and Precision Level during Annotation
 * **What denotes start and end** - This project was done with the annotation time as a superinterval.
 This means the annotation will begin on a time/frame without the slate where possible (or 00:00:00.000) 
 and is annotated as ending after the slate has disappeared.
