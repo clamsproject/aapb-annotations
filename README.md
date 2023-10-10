@@ -53,7 +53,7 @@ Namely, a single "period" of the annotation is the whole process of a single bat
 The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted. 
 (e.g., when the batch is decided to be annotated)
 These prefixes are used for the sorting of annotation processes and machine ingestion of the raw data. 
-The `batchName` part of the directory name _must_ match only one of `.txt` files in the batches. 
+The `batchName` part of the directory name _must_ match only one of `.txt` files in the [`batches` directory](#batches-subdirectory). 
 
 Different annotation tools create different file formats with diverse formatting. 
 Hence, we need conversion of the raw annotation files to files with a common format that we call `golds`.
