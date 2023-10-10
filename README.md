@@ -28,6 +28,9 @@ Specifically, this directory contains `.txt` files named after the batch name.
 * Batches are usually named after their relevant GitHub issue from [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration). 
 * A GUID is a unique identifying string that can be used at the AAPB website to find one particular media and its supporting files, eg. `cpb-aacip-96d289b264c` at https://americanarchive.org/catalog/cpb-aacip-96d289b264c.
 * **Each line in the file _must_ be a single AAPB GUID**, with an exception to any lines starts with `#` - which denotes a comment.
+* The first line of each batch now is a comment that explains the Github issue that documents how that batch was created. 
+* All the batches for projects should be saved in this `batches` folder, and each project's raw directory will be named with which batch was used. 
+This can then be used to collate a list of all the used batches, by which projects.
 
 > [!NOTE]
 > AAPB-GUID is not [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), but just a unique identifier within the scope of the AAPB system.  
@@ -50,7 +53,7 @@ Namely, a single "period" of the annotation is the whole process of a single bat
 The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted. 
 (e.g., when the batch is decided to be annotated)
 These prefixes are used for the sorting of annotation processes and machine ingestion of the raw data. 
-The `batchName` part of the directory name _must_ match only one of `.txt` files in the batches. 
+The `batchName` part of the directory name _must_ match only one of `.txt` files in the [`batches` directory](#batches-subdirectory). 
 
 Different annotation tools create different file formats with diverse formatting. 
 Hence, we need conversion of the raw annotation files to files with a common format that we call `golds`.
