@@ -25,6 +25,7 @@ _The following section is recalled from memory and may not be fully accurate._
 A video must be imported. Docker is likely used.  
 
 ## Annotation Guidelines
+> [!Note]  
 > This `readme.md` is the guideline for this project. 
 
 ### Preparation
@@ -33,9 +34,9 @@ The annotator watches a video using the annotation tool, and labels chyrons in t
 
 ### What to Annotate
 Usually, chyrons will fade in and out.  
-**START TIME** - When a chyron has fully appeared/solid and is no longer see through, pause the video and highlight the chyron via a bounding box. It's not too dissimilar from taking a screenshot.  
-**TEXT** - When the chyron is highlighted, double-click it and in the DESCRIPTION box, copy/write out what was said in the chyron exactly as it was displayed. When a chyron consists of more than one line, use the enter/return key (becomes \n in the gold output) to make a new line in the description.  
-**END TIME** - After that, submit how long the chyron was onscreen: annotating the end time as when it begins to become transparent.  
+* **START TIME** - When a chyron has fully appeared/solid and is no longer see through, pause the video and highlight the chyron via a bounding box. It's not too dissimilar from taking a screenshot.  
+* **TEXT** - When the chyron is highlighted, double-click it and in the DESCRIPTION box, copy/write out what was said in the chyron exactly as it was displayed. When a chyron consists of more than one line, use the enter/return key (becomes \n in the gold output) to make a new line in the description.  
+* **END TIME** - After that, submit how long the chyron was onscreen: annotating the end time as when it begins to become transparent.  
 _Time format: (sec.ten-thousandths of sec)_   
 
 ### How to Annotate It
