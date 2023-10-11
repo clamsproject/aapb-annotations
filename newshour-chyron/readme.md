@@ -5,7 +5,7 @@ This project provides a dataset used for the detection of chyrons/banner-text th
 [Chyron](https://www.merriam-webster.com/dictionary/chyron) - a caption superimposed over *usually* the lower part of a video image (as during a news broadcast). Note, not neccesarily lower third. Sometimes they are temporary and will fade/blink in and out. 
 Named after the company that made this technology. aka: the text that appears under people during broadcasts.  
 ### Specs
-* Annotation project name - newshour-chyron
+* Annotation project name - `newshour-chyron`
 * Annotator Demographics
     * Number of annotators - 1 
     * Occupational description - College Student
@@ -16,7 +16,7 @@ Named after the company that made this technology. aka: the text that appears un
     * Version - Unknown
     * Link/Tool Used/User Manual - (See below Tool Installation)
 * Project changes
-    * Number of Batches - 1, (The batch is named batch2 likely as a name - there seems to be only one batch used.)
+    * Number of Batches - 1, the batch is named "batch2", but there seems to be only one batch for this project.
     * Other Version Control Information - Unknown/1.0
 
 ## Tool Installation: VIA tool
@@ -45,30 +45,30 @@ Please see VIA link for tool usage on step by step how to use the tool.
 ### Decisions, Differentiation, and Precision Level during Annotation
 Some decisions within the annotation process are described above.  
 
-> Precision Details
+#### Precision Details
 
-**Boundaries** - This project was done with the annotation time as a subinterval. 
+* **Boundaries** - This project was done with the annotation time as a subinterval. 
 This means the annotation will be fully within the time/frame where the chyron is occurring and is annotated as lasting up to while the chyron is still onscreen. 
 To repeat above, the choice was made to annotate the chyron as the first moment it stopped being transitory/fading-in, and the moment right before it begins to transition-out/fade-out. 
 (This is currently unvalidated.)  
-    > [!Note]  
-    > This is opposite the decision made for the Slates project. 
+> [!Note]  
+> This is opposite the decision made for the Slates project.  
 
-**Lack of Fine-Tuned Controls** - There is some lack of granularity in the annotator's creation. Even at slower speeds, precise accuracy beyond .1-.2sec is suspect. 
+* **Lack of Fine-Tuned Controls** - There is some lack of granularity in the annotator's creation. Even at slower speeds, precise accuracy beyond .1-.2sec is suspect. 
 The project data here has divisions of seconds of ".5271, .7771, .2371". 
 It is assumed this is some default in the tool, and therefore, precision of the annotation beyond xx.x is not recorded.  
 
-**Margin of Error** - As per [this](https://github.com/clamsproject/aapb-annotations/blob/main/repository_level_conventions.md), moving through the video with a video player can lead to some imprecision. 
+* **Margin of Error** - As per [this](https://github.com/clamsproject/aapb-annotations/blob/main/repository_level_conventions.md), moving through the video with a video player can lead to some imprecision. 
 Therefore, while the decision was followed above, it is possible that some data will not be entirely exact to the subinterval concept.
 
-> Other Notes  
+#### Other Notes  
 
-**Raw and Golds Time format** -  
+* **Raw and Golds Time format** -  
 This project was done before the decision to standardize to the ISO format. It was also done with an outside tool which outputted time as this format: 
 _Raw Time format: (sec.ten-thousandths of sec)_.  
 This remains true of the gold also. 
 
-**Gold column headers not conforming** - The gold data column headers should be just `start` and `end` as according to conventions. This has yet to be changed. 
+* **Gold column headers not conforming** - The gold data column headers should be just `start` and `end` as according to conventions. This has yet to be changed. 
 
 ## Data Format and `process.py`
 ### `raw` data
