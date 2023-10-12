@@ -21,23 +21,24 @@ Using Wikipedia as this authoritative source is a common practice in similar tec
     * Number of batches: 1
     * Other version control information: None
 
-## Tool Installation: Brat
-brat rapid annotation tool    
-[Brat and Installation Instructions](https://brat.nlplab.org/index.html)
+## Tool Installation: ELA
+Entity Link Annotator (Tool env)    
+[aapb-annenv-entitylinking](https://github.com/clamsproject/aapb-annenv-entitylinking) by @marcverhagen.  
+To install, see [this](https://github.com/clamsproject/aapb-annenv-entitylinking/blob/main/docs/install.md).  
 
 ## Annotation Guidelines: Transcribing/Closed Captioning
 > [!Important]  
 > This project builds upon Named Entity Project [aka the previous project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity/guidelines.md).  
-> The `guidelines.md` for [this project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity-wikipedialink/guidelines.md) is currently an exact copy of the one previous. 
+> The `guidelines.md` for [this project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity-wikipedialink/guidelines.md) is currently an exact copy of the one previous.  
+> Because that contains no new information, the guidelines needed for the "smaller" task of adding only a wikipedia link is in this `readme.md`.
 ### Preparation
-Import the transcripts through brat. This tool seems to require a mouse.  
+Import brat transcripts into the above tool along with the set of source files. 
 `.txt` transcript that has already had named entities annotated in brat.   
-`.tab` file for collecting the annotations with duplicate entities squashed into a number. 
+The annenv seems to create the `.tab` file for collecting the annotations with duplicate entities squashed into a number. 
 
 #### Preprocessing before Raw Annotation
-_TODO: Locate the preprocessing files for linking._  
 The input to this annotation project was from the `newshour-namedentity` project in this repository. 
-It is assumed either the brat tool handles the deduplication or a pre-processing for raw annotation in this project does that. 
+It is assumed pre-processing for raw annotation does that. 
 Each file also squishes duplicate entities into one entry and writes how many times that entry appeared.
 The [base-ner.url](https://github.com/clamsproject/aapb-annotations/tree/b5de0d6b48ba9835c9bf6eaacbf46019dcc12203/newshour-namedentity/golds/aapb-collaboration-21
 ) file seems to be the url where the transcriptions from the NAMED ENTITY project to be used for this project.   
@@ -92,9 +93,7 @@ line 15 is "Judy Woodruff" while line 54 is "JUDY WOODRUFF".
 
 ### [`process.py`](process.py)
 _TODO: Needs summary._  
-Please see the docstring of [`process.py`](process.py).  
-_TODO: It is suggested to possibly place code that is required for pre-processing for raw to either use "preprocessing" in the name,
-or be placed into a directory to avoid tangling with the expected process code that transforms raw -> post-process -> gold._  
+Please see the docstring of [`process.py`](process.py).   
 
 The wikidata QID link has been automatically appended to the previous columns by `process.py`.
 The gold generation process automatically adds the QID.  
@@ -120,5 +119,5 @@ cpb-aacip-507-1v5bc3tf81-transcript.ann	T3	title	51	59	NewsHour	https://en.wikip
 ```
 
 ## Evaluation Information
-_(Link here for evaluation code and information where available.)_  
+Evaluation [here](https://github.com/clamsproject/aapb-evaluations/tree/main/nel_eval).  
 For purposes of evaluation, the subtypes of the 'title' category are collapsed into one group.  
