@@ -26,7 +26,7 @@ Entity Link Annotator (Tool env)
 [aapb-annenv-entitylinking](https://github.com/clamsproject/aapb-annenv-entitylinking) by @marcverhagen.  
 To install, see [this](https://github.com/clamsproject/aapb-annenv-entitylinking/blob/main/docs/install.md).  
 
-## Annotation Guidelines: Transcribing/Closed Captioning
+## Annotation Guidelines
 > [!Important]  
 > This project builds upon Named Entity Project [aka the previous project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity/guidelines.md).  
 > The `guidelines.md` for [this project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity-wikipedialink/guidelines.md) is currently an exact copy of the one previous.  
