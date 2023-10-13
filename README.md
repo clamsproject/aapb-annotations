@@ -125,19 +125,13 @@ This section should give sufficient documentation for how the annotation was don
 
 > Please see the [Repository-level Conventions file](repository_level_conventions.md) for standardizations, explanations and conventions. 
 
-### Time notation formats
-> [!IMPORTANT] 
-> TL;DR  
-> Media Time = `hh:mm:ss.mmm` with a **DOT**  
-> Annotations are usually a little imprecise because audiovisual phenomena are, or visualizing/labelling of such is. 
-> Some estimates of imprecision are given by Margin of Error.
-> Directionality definitions help frame the boundaries meant by annotated times.
- 
-### Field naming conventions for gold datasets
+### TL;DR
 > [!IMPORTANT]
-> TL;DR
-> * `GUID` (all caps) - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
-> * For "anchor" columns (e.g., character offsets, time intervals, etc.) use `start`, `end` for the column names.
+> Media Time = `hh:mm:ss.mmm` with a **DOT**  
+> Annotation times are usually a little imprecise because audiovisual phenomena are, or visualizing/labelling of such is.  
+> Some estimates of imprecision are given by Margin of Error.  
+> Directionality definitions help frame the boundaries meant by annotated times.  
+> The fields in the gold datasets should be standardized.
  
 ## List of Current Projects/Subdirectories
 _This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._ 
@@ -153,6 +147,10 @@ found within the video _transcript_ along with which characters denoted that nam
 * `newshour-namedentity-wikipedialink` - from NewsHour. This project used the previous project's dataset and added
 an extra label of which wikimedia link referred to the named entity annotated, eg. https://www.wikidata.org/wiki/Q931148.
 * `newshour-transcript` - from NewsHour. This project found the start and end times for 10 tokens of closed captioning at a time from the transcript to the video. 
+* `role-filler-binding` - This project uses the [role filler binding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8019313/#:~:text=These%20structures%20can,understand%20new%20situations.) linguistic theory to attempt to extract and organize Optical Character Recognized (OCR) text into a structured and readable set of metadata pairs. 
+The pairs are usually a role of a production-collaborator or role of a person-within-the-video... and the named, capitalized person name that fills that role. 
+* `scene-recogntion` - This project builds the dataset meant to train ML models to recognize scenes/frames/timeframes that interest GBH/AAPB/CLAMS for extracting metadata such as slates, chyrons, credits, important-people-being-interviewed. 
+This is a combined effort to recognize these kinds of frames and find the timeframes where they exist in aggregate, drawing upon findings in previous projects.
 
 ## Issue Tracking and Conversation Archive
 Progress and other discussion by AAPB/CLAMS/WBGH is tracked via the open and closed [Github Issues](https://github.com/clamsproject/aapb-annotations/issues) feature. 
