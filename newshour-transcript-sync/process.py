@@ -26,6 +26,7 @@ def srt_to_tsv(srt_filename, tsv_filename):
     subs = pysrt.open(srt_filename, encoding='utf-8')
     with open(tsv_filename, 'w', encoding='utf-8') as out:
         out.write("index\tstarts\tends\tcontent\n")
+        # sub means subtitles
         for sub in subs:
             index = sub.index
             starts = str(sub.start).replace(',', '.')
@@ -39,7 +40,7 @@ def convert_directory(source_directory, destination_directory):
     for filename in os.listdir(source_directory):
         if filename.endswith('.srt'):
             source_path = os.path.join(source_directory, filename)
-            batchname =  source_path.split(os.sep)[-2][7:]
+            batchname = source_path.split(os.sep)[-2][7:]
             if not os.path.exists(os.path.join(destination_directory,batchname)):
                 os.makedirs(os.path.join(destination_directory,batchname))
             dest_path = os.path.join(destination_directory,batchname,filename.replace('.srt', '.tsv'))
