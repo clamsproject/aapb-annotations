@@ -210,9 +210,13 @@ T2	person 32 42	Jim Lehrer
 T3	program_title 51 59	NewsHour
 ```
 ### [`process.py`](process.py)
-_TODO (discrepancy): It seems that the `process.py` and all other `.py` files used to transform from raw to gold is no longer needed. If the process here is no longer necessary, it should be deleted and moved to version control or named to denote previous versioning._  
-Because the golds data is exactly the same as the raw data. The process.py and other scripts included in this directory are no longer needed.  
-Previously, various methods were attempted to make the data more useful in some way, however, in the end these processes were abandoned. 
+Historically, the `process.py` used for this project simply copies the `.ann` files from the raw directory into new directories based on batches for the golds.
+This is done by requesting `.ann` as the format during the running of the `process.py`. 
+This script can also convert the `.ann` files to other formats and to create `.mmif`. 
+
+The other code files (`anntoconll.py`, `sentencesplit.py`, `ssplit.py`, `sspostproc.py`) in this repository were copied from the brat repository for conversion into other formats such as `.conll.tsv`. 
+
+Please see the docstring of [`process.py`](process.py) for further information. 
 
 ### `golds` data
 exact same `.ann` file again.  
