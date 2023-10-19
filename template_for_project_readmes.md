@@ -43,13 +43,14 @@
 
 ### Decisions, Differentiation, and Precision Level during Annotation
 **Problem  Name** - Information about Decisions that must be made during Annotation, for instance, Differentiation between two slate types. 
+#### Data Quality Efforts (or other subheaders)
 **Problem  Name** - Information on accuracy, precision, error that may be present in the dataset.
 
 ## Data format and `process.py`
 
 ### `raw` data
 `.format` file - explanation.
-* Fields (possibly referring back to the "what to annotate" section above)
+* Fields: (possibly referring back to the "what to annotate" section above)
     * `field-text1`
     * `field-text2`
 * Example:
