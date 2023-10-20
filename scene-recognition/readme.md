@@ -16,9 +16,9 @@ and post-processing (and data smoothening) could be used to determine when the p
 * Annotation project name - `scene-recognition`
 * Annotator Demographics
     * Number of annotators - 2
-    * Occupational description - College Student and Public Broadcasting Organization Media Librarian
+    * Occupational description - College Student and Metadata Operation Specialist GBH
     * Age range - 20-40s
-    * Education - College
+    * Education - College & PhD
 * Annotation Environment information
     * Name - Keystroke Labeler
     * Version - unknown
