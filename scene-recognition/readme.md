@@ -24,7 +24,9 @@ and post-processing (and data smoothening) could be used to determine when the p
     * Version - unknown
     * Tool Documentation - (see below tool installation)
 * Project changes
-    * Number of Batches - 1
+    * Number of Batches - 2 
+        * Batch Information: There are two batches used for training and evaluation split during the first iteration: Scenes With Text. `batchA` was densely-seen/labeled (20 GUIDs), while `batchB` was sparsely-seen/labeled (21 GUIDs). 
+        * It seems likely that the split is done at the video/image_set level to avoid adding similar images from one video in training to evaluation also. 
     * Other Version Control Information - (enter, if applicable)
     
 ## Tool Installation: Keystroke Labeler
@@ -62,11 +64,13 @@ In [keystroke mode](https://github.com/WGBH-MLA/keystrokelabeler/tree/main#start
 
 (Other columns are not used)
 
-Other non-data-field terminology:  
+Other non-data-field terminology/hyper-definitions:  
 - "proceed" - This means to move onto the next frame, without "seeing" it. 
 - "jump factor" - Not to be confused with the already sampled rate of the frames set from the video. Now that the frame set is loaded, you can skip through the frames by using the jump factor to increase the size of step.  
 - "mode" - Mode of the tool.
 - "sample rate" - This is a parameter that is used before the annotation tool is ready to use. It refers to how the frame set is extracted from the video; at what sampling rate. 
+- "seen-density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `batchA`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. 
+Conversely, `batchB` is sparesely-seen, which means that only some of the images from the image set are annotated/labeled/seen. The rest are "held out" from use in training, as they have no label whatsoever. 
 
 The most important types to annotate are highlighted in (green) on the `types of frames` above. These should be clearly delineated from each other in the guideline. 
 The subtypes of slates (blue) is also important to annotate.  
@@ -114,7 +118,12 @@ The file can contain arbitrary amounts of frames that are "unseen"; these are ba
     * `note` (string) - not implemented; not used; always an empty string
 * Example:
 ```
-example of raw data file here. 
+$ head -5 cpb-aacip-08fb0e1f287.csv
+"filename","seen","type label","subtype label","modifier","transcript","note"
+"cpb-aacip-08fb0e1f287_02194825_00000000.jpg",true,"","",false,"",""
+"cpb-aacip-08fb0e1f287_02194825_00002002.jpg",true,"","",false,"",""
+"cpb-aacip-08fb0e1f287_02194825_00004004.jpg",true,"B","",false,"",""
+"cpb-aacip-08fb0e1f287_02194825_00006006.jpg",true,"B","",false,"",""
 ```
 
 ### [`process.py`](process.py)
