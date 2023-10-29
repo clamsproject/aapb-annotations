@@ -2,22 +2,22 @@
 (Name for human reader, use capitalization and spaces as usual)
 
 ## Project Overview
-(About the project goals. Sub-sections may be used for domain-specific knowledge terminology, etc. )
+(About the project goals. Subsections may be used for domain-specific knowledge terminology, etc. )
 
 ### Specs
-* Annotation project name - (Name for machine consumers, **must be** exactly same typing as the directory name, which usually all lowercase without any spaces or special characters)
+* Annotation Project Name - `Name for machine consumers` (**must be** exactly same typing as the directory name, which usually all lowercase without any spaces or special characters)
 * Annotator Demographics
     * Number of annotators - (enter)
     * Occupational description - (enter)
     * Age range - (enter)
     * Education - (enter)
-* Annotation Environment information
+* Annotation Environment Information
     * Name - (enter)
     * Version - (enter)
-    * Tool Documentation - (see below tool installation)
-* Project changes
-    * Number of Batches - (enter)
-    * Other Version Control Information - (enter, if applicable)
+    * Tool documentation - (see below tool installation)
+* Project Changes
+    * Number of batches - (enter)
+    * Other version control information - (enter, if applicable)
 
 ## Tool Installation: Name of Tool
 (link for download, if applicable)  
@@ -42,14 +42,14 @@
 (Explanation of the physical process how to do the annotation, what to press etc. Where needed.)
 
 ### Decisions, Differentiation, and Precision Level during Annotation
-**Problem  Name** - Information about Decisions that must be made during Annotation, for instance, Differentiation between two slate types. 
-**Problem  Name** - Information on accuracy, precision, error that may be present in the dataset.
+* **Problem  Name** - Information about Decisions that must be made during Annotation, for instance, Differentiation between two slate types. 
+* **Problem  Name** - Information on accuracy, precision, error that may be present in the dataset.
 
-## Data format and `process.py`
+## Data Format and `process.py`
 
 ### `raw` data
 `.format` file - explanation.
-* Fields (possibly referring back to the "what to annotate" section above)
+* Fields: (possibly referring back to the "what to annotate" section above)
     * `field-text1`
     * `field-text2`
 * Example:
@@ -65,7 +65,6 @@ example of raw data file here.
 * Fields:
     * `field-text1` - blah
     * `field-text2` - blah
-    * all other columns from the raw data are removed
 * Example:
 ```
 example here. 
