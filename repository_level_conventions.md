@@ -1,10 +1,14 @@
 # Repository-level Conventions
-> TL;DR  
-> Media Time = `hh:mm:ss.mmm` with a **DOT**   
-> Annotations are usually a little imprecise because audiovisual phenomena are, or visualizing/labelling of such is. 
-> Some estimates of imprecision are given by Margin of Error.
-> Directionality definitions help frame the boundaries meant by annotated times.
 
+## TL;DR
+> [!IMPORTANT]
+> Media Time = `hh:mm:ss.mmm` with a **DOT**  
+> Annotation times are usually a little imprecise because audiovisual phenomena are, or visualizing/labelling of such is.  
+> Some estimates of imprecision are given by Margin of Error.  
+> Directionality definitions help frame the boundaries meant by annotated times.  
+> The fields in the gold datasets should be standardized.
+
+## Conventions
 ### Time Point Notation
 > [!IMPORTANT]
 > `hh:mm:ss.mmm` with a **DOT**  
@@ -73,3 +77,15 @@ Finally, a reminder that at 30 frames per second, each frame is 0.033_ seconds l
 Practically speaking, there is only a small percentage of cases where the variation between one frame to its neighbor is relevant,
 especially in cases of human perception.
 The conventions for precision hold until new needs of the project are required. 
+
+### Field Naming Conventions for Gold Datasets
+* `GUID` (all caps) - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
+* `start`, `end` - For "anchor" columns annotating a time duration of a phenomenon (e.g., character offsets, time intervals, etc.) use `start`, `end` for the column names.
+* `entry` - this is also called index, or the tag number for how many annotations there are. e.g. The first piece of labelled data is "1".
+
+The tracking for conforming to this convention is [this issue](https://github.com/clamsproject/aapb-annotations/issues/56). 
+Updating for ISO time conformance, and field naming of `GUID`, `start`, `end`, and `entry`.
+
+#### Not Yet Standardized
+* _`text` - it remains under discussion whether it is ideal to use a standardized column name for the text we are annotating with an entry label. 
+An issue could arise in that each project is seeking different kinds of texts and perhaps in different ways. This standardization could then be confusing._
