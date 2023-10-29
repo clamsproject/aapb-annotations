@@ -13,8 +13,8 @@ Using Wikipedia as this authoritative source is a common practice in similar tec
     * Age range - 20s
     * Education - College
 * Annotation Environment Information  
-    * Name: Brat  
-    * Version: Unknown  
+    * Name: `entitylinking` tool
+    * Version: [5ed0ad7](https://github.com/clamsproject/aapb-annenv-entitylinking/tree/5ed0ad7ac8504f928ca9225a5c8c50f75bb615d3)
     * Link/Tool Used/User Manual: (See below Tool Installation)  
 * Project Changes -  
     * Project version: Unknown/1.0  
@@ -93,6 +93,7 @@ line 15 is "Judy Woodruff" while line 54 is "JUDY WOODRUFF".
 
 ### [`process.py`](process.py)
 _TODO: Needs summary._  
+_TODO: get rid og goldretriver and change the proc.py to alway read in local "raw" files_
 Please see the docstring of [`process.py`](process.py).   
 
 The wikidata QID link has been automatically appended to the previous columns by `process.py`.
@@ -119,5 +120,5 @@ cpb-aacip-507-1v5bc3tf81-transcript.ann	T3	title	51	59	NewsHour	https://en.wikip
 ```
 
 ## Evaluation Information
-Evaluation [here](https://github.com/clamsproject/aapb-evaluations/tree/main/nel_eval).  
+A number of evaluation of NEL tools have been done. Evalutions can be found at [here](https://github.com/clamsproject/aapb-evaluations/tree/main/nel_eval).  
 For purposes of evaluation, the subtypes of the 'title' category are collapsed into one group.  
