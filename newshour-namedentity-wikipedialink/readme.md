@@ -27,14 +27,21 @@ Entity Link Annotator (Tool env)
 To install, see [this](https://github.com/clamsproject/aapb-annenv-entitylinking/blob/main/docs/install.md).  
 
 ## Annotation Guidelines
+
+### Overview
+
+Named entity linking, also known as grounding. The idea is to provide a link from a named entity to some authority. The authority we now use is [Wikipedia](https://www.wikipedia.org/), but we may introduce others, for example the [Library of Congress Authorities](https://authorities.loc.gov/). The link is provided as a property on one of the annotation types above. The annotator should have the Wikipedia main page open and type in the named entity. If this resolves to a Wikipedia article which is about the same entity as mentioned in the text, then add the wikipedia link.
+
+Grounding is not always possible, but in a case like "Jim Lehrer was a news anchor for the PBS NewsHour on PBS" we can add a link to [https://en.wikipedia.org/wiki/Jim_Lehrer](https://en.wikipedia.org/wiki/Jim_Lehrer) for "Jim Lehrer".
+
 > [!Important]  
-> This project builds upon Named Entity Project [aka the previous project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity/guidelines.md).  
-> The `guidelines.md` for [this project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity-wikipedialink/guidelines.md) is currently an exact copy of the one previous.  
-> Because that contains no new information, the guidelines needed for the "smaller" task of adding only a wikipedia link is in this `readme.md`.
+> This project builds upon Named Entity Project [aka the previous project](https://github.com/clamsproject/aapb-annotations/blob/main/newshour-namedentity).  
+> See the guidelines for that project for more information on what named entities are and how they were annotated. 
+
 ### Preparation
-Import brat transcripts into the above tool along with the set of source files. 
-`.txt` transcript that has already had named entities annotated in brat.   
-The annenv seems to create the `.tab` file for collecting the annotations with duplicate entities squashed into a number. 
+Import brat outputs (`.ann` files) from the base NE annotation project into the above tool along with the set of source files (`.txt` files). 
+The `ann`-`txt` pairs must already have named entities annotated in brat.   
+The NEL annotation environment will start by creating `.tab` files for collecting the annotations with duplicate entities squashed into a number. 
 
 #### Preprocessing before Raw Annotation
 The input to this annotation project was from the `newshour-namedentity` project in this repository. 
@@ -92,8 +99,8 @@ line 15 is "Judy Woodruff" while line 54 is "JUDY WOODRUFF".
 > Also, see below for single link only issue.  
 
 ### [`process.py`](process.py)
-_TODO: Needs summary._  
-_TODO: get rid og goldretriver and change the proc.py to alway read in local "raw" files_
+_TODO: Add detail to summary._  
+_TODO: get rid of `goldretriever.py` and change `process.py` to always read in local "raw" files_  
 Please see the docstring of [`process.py`](process.py).   
 
 The wikidata QID link has been automatically appended to the previous columns by `process.py`.
@@ -120,5 +127,5 @@ cpb-aacip-507-1v5bc3tf81-transcript.ann	T3	title	51	59	NewsHour	https://en.wikip
 ```
 
 ## Evaluation Information
-A number of evaluation of NEL tools have been done. Evalutions can be found at [here](https://github.com/clamsproject/aapb-evaluations/tree/main/nel_eval).  
-For purposes of evaluation, the subtypes of the 'title' category are collapsed into one group.  
+A number of [evaluations](https://github.com/clamsproject/aapb-evaluations/tree/main/nel_eval) of NEL tools have been done. 
+For the purposes of evaluation, the subtypes of the 'title' category are collapsed into one group.  
