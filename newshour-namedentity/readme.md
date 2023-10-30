@@ -17,15 +17,16 @@ The namedentity project was the first annotation project annotated for GBH. It p
     * Education - College
 * Annotation Environment Information
     * Name - Brat
-    * Version - Unknown
+    * Version - 1.3
     * Tool documentation - (see below tool installation)
 * Project Changes
     * Number of batches - 1
     * Other version control information - None
     
 ## Tool Installation: Brat
-brat rapid annotation tool    
-[Brat and Installation Instructions](https://brat.nlplab.org/index.html)    
+
+[A dockerized Brat](https://github.com/cassj/brat-docker) is used with [shell script wrappers](https://github.com/clamsproject/aapb-annenv-brat) to run the tool and upload annotation outputs
+brat rapid annotation tool. See [the wrapper repository](https://github.com/clamsproject/aapb-annenv-brat) for details on how the tool is installed and run with source text input files. 
 
 ## Annotation Guidelines
 
@@ -169,8 +170,7 @@ Titles of books, songs, films, plays and other creations such as awards, stock p
 This could probably be discussed more, but the current tool has actually four separate categories: ProgramTitle, PublicationTitle, ArtworkTitle and WebsiteTitle. ProgramTitle is for program and film titles. PublicationTitle is for titles of books, book series, journals, newspapers, magazines and other published items. ArtworkTitle is for other artworks like paintings, sculptures, albums and songs.
 
 ### Preparation
-Import the transcripts through brat. This tool seems to require a mouse.   
-INPUT - transcripts in `.txt` format that match the audio or other information in a video.  
+Prepare transcripts in `.txt` format that match the audio or other information in a video in a directory and use the directory to start ([start.sh](https://github.com/clamsproject/aapb-annenv-brat/blob/d481f78ec9aadf5d2f1521301b025a73d5823d26/start.sh)) the brat tool.
 
 ### How to Annotate
 * **Named Entity Phrase Text** - Text that symbolizes the whole named entity. Labelling is done by highlighting words or phrases.  
@@ -179,6 +179,7 @@ Options include `person, organization, program_title, publication_title, product
 * **Character Start Offset** & **Character End Offset** - These two numbers entail which chars in the text file span the named entity's text. 
 This information is **automatically added** to the raw dataset file by the brat tool. 
 e.g. "Jim Lehrer" spans from character 32 inclusive to character 42 exclusive, taking up 10 letters. The first character of a file is 0.
+* For detailed instructions on how to use the brat tool, see the [brat tool documentation](https://brat.nlplab.org/manual.html).
 
 ### Decisions, Differentiation, and Precision Level during Annotation
 * **Category Disambiguation** - While this process is relatively straightforward, there are times when it can be difficult to place an item under one category umbrella. 
@@ -214,7 +215,7 @@ Historically, the `process.py` used for this project simply copies the `.ann` fi
 This is done by requesting `.ann` as the format during the running of the `process.py`. 
 This script can also convert the `.ann` files to other formats and to create `.mmif`. 
 
-The other code files (`anntoconll.py`, `sentencesplit.py`, `ssplit.py`, `sspostproc.py`) in this repository were copied from the brat repository for conversion into other formats such as `.conll.tsv`. 
+The other code files (`anntoconll.py`, `sentencesplit.py`, `ssplit.py`, `sspostproc.py`) in this repository were copied from [the brat source code](https://github.com/nlplab/brat/tree/master/tools) for conversion into other formats such as `.conll.tsv`. 
 
 Please see the docstring of [`process.py`](process.py) for further information. 
 
