@@ -31,7 +31,7 @@ This annotation project then provides the top-bottom-left-right reading order, o
     * Number of Batches - _TODO: confirm_. There are likely multiple batches to avoid contamination of training data into evaluation data. 
         * One batch can be found [here](aapb-annenv-role-filler-binder-11.txt).
     * Other Version Control Information - Previous versions of the guidelines can be found at the end of the `guidelines.ppt`.
-        * The first run of this project will focus on Scenes With Text, while later runs may focus on other Scenes/images without text such as ones with people only.
+        * The first run of this project will focus on textual frames and credits for video production rf-pairs, while later runs may focus on other images such as identifying chyrons.  
 
 ## Tool Installation: annenv-creditparsing
 Annotation Tool is developed in-house specifically for this workflow.  
@@ -44,11 +44,10 @@ This requires a Brandeis account.
 
 ## Annotation Guidelines
 > [!Important]  
-> The following section in this readme is simply an overview or repeat of what is said in the `guidelines.ppt`. 
-> That `.ppt` document will be the final say on how to annotate this project, in case discrepancies occur in the updating of the two documents. 
-> [guidelines.ppt](https://docs.google.com/presentation/d/1vjCeJFLF62PxYs8MJnmR4ipHZ_Q241l5It6PpCRsxHs/edit#slide=id.g1e6db24b1c6_0_0)  
+> The following section in this readme is simply an overview or repeat of what is said in the [`guidelines.ppt`](https://docs.google.com/presentation/d/1vjCeJFLF62PxYs8MJnmR4ipHZ_Q241l5It6PpCRsxHs/edit#slide=id.g1e6db24b1c6_0_0). 
+> The above `.ppt` document and link will be the final say on how to annotate this project, in case discrepancies occur in the updating of the two documents.
 
-_TODO: Add the `guidelines.ppt` to the project folder when it stabilizes._
+_TODO: Add the `guidelines.ppt` as a file to the project folder when it stabilizes._
 ### Preparation
 INPUT - Still images with OCR-able text are loaded into the annotation tool.  
 
@@ -104,7 +103,7 @@ _TODO: Add the number of differences over the number of frames, along with other
 * Fields (possibly referring back to the "what to annotate" section above)
     * `role` - What the Role is, sometimes is blank, usually has 0-1 texts. 
     * `filler` - What the Filler is, sometimes blank, sometimes has multiple texts, 0+ texts. 
-    * `frame annotation` - Overarching annotation of what hte frame is, eg. "duplicate", or "skip" with reasons. (See `guidelines.ppt` for reasons.)
+    * `frame annotation` - Overarching annotation of what the frame is, eg. "duplicate", or "skip" with reasons. (See `guidelines.ppt` for reasons.)
 * Example:
     ```
     [
