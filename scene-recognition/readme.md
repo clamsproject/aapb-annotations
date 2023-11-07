@@ -4,13 +4,13 @@
 This project is a new attempt at detecting "frames of interest" or "scenes with text" in general as an update to the previous efforts of seeking different frames out separately. 
 "Frames of Interest" tend to be frames from a video that contain textual information on screen that is useful for archiving purposes. This can include slates, chyrons, images of people/video subjects, and credits. 
 
-From the annotation side, the project is done by sampling videos at a certain rate (e.g. currently 1 frame every 2 seconds) to create a diverse set of frames as a collection of stills. 
+From the annotation side, the project is done by sampling videos at a certain rate (e.g. currently 1 frame every 2 seconds) to create a diverse set of frames as a collection of stills (going forward called "image sets"). 
 The frames are then annotated for if they fit one of the interest categories or not. 
 
-Later, results from the Scene Recognition detection can be used to stitch together larger time intervals that describe a time interval containing an audiovisual phenomenon in time within the video. 
-Conceptually, while the annotation project simply annotates stills found at recurring intervals (but arbitrarily chosen) that do not themselves describe
-the start and end times of a phenomena, a model trained with this information could label up to a certain segment all as one kind of phenomena, 
-and post-processing (and data smoothening) could be used to determine when the phenomena truly starts and ends via computer vision.
+Downstream to this project, results from the Scene Recognition detection can be used to stitch together time intervals of when an audiovisual phenomenon takes place in the video. 
+Conceptually, the annotation project simply annotates stills found at recurring intervals (but arbitrarily chosen) that do not themselves describe
+the start and end times of a phenomena. A model trained with this information could label more fine-grained-ly when moments display a phenomenon,
+and post-processing/data-smoothening can determine when the phenomena truly starts and ends via computer vision.
 
 ### Specs
 * Annotation Project Name - `scene-recognition`
@@ -26,12 +26,12 @@ and post-processing (and data smoothening) could be used to determine when the p
 * Project Changes
     * Number of batches - 2 
         * Batch information: There are two batches used for training and evaluation split during the first iteration: Scenes With Text. [`27-a`](231002-aapb-collaboration-27-a) was densely-seen/labeled (20 GUIDs), while [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). 
-        * The split is done at the video/image_set level to avoid adding similar images from one video in training into evaluation also. 
+        * The split is done at the video/image-set level to avoid adding similar images from one video in training into evaluation also. 
     * Other version control information - none
     
 ## Tool Installation: Keystroke Labeler
 [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler) Annotation Tool is developed in collaboration with GBH by Owen King.  
-Explanation of inner parts and fields in the labeler [here](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md)  
+Documentation: Explanation of inner parts and fields in the labeler [here](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md).  
 Please see the first link for installation and usage.  
 
 #### Tool Access
@@ -53,30 +53,30 @@ This tool creates an annotation file that has different columns for each frame.
 For each frame, pick which category of Frame of Interest or none.   
 Then choose a subtype if needed.   
 Enter the needed keystrokes, including modifier key if needed.  
-In [keystroke mode](https://github.com/WGBH-MLA/keystrokelabeler/tree/main#starting-and-restarting:~:text=explicitly%20defined%20categories%22.-,Modes%3A,-The%20labeler%20has), the tool will move on to the next frame. In editor mode, you can add subtype. 
+In [keystroke mode](https://github.com/WGBH-MLA/keystrokelabeler/tree/main#starting-and-restarting:~:text=explicitly%20defined%20categories%22.-,Modes%3A,-The%20labeler%20has), the tool will move on to the next frame. In editor mode, you can add a `subtype label`. 
 
 - `seen` (bool) - This attribute describes whether the annotator/tool has annotated the frame. If "seen", that piece of data can be used for ML training.  
 - `type label` (char) - This is which category of Frame of Interest or none. "No label" plus "seen" is the same as not a frame of interest. 
-- `subtype label` (char) - Indicates if there is a `subtype` within that Frame category/`type label`. e.g. "Slates (`type`)" can be "Handwritten (`subtype`)", or "Digital (`subtype`)" or other options. Only "Slates" currently have a `subtype`. 
+- `subtype label` (char) - Indicates if there is a `subtype` within that frame category/`type label`. E.g. "Slates (`type`)" can be "Handwritten (`subtype`)", or "Digital (`subtype`)" or other options. Only "Slates" currently have a `subtype`. 
 - `modifier` (bool) - This indicates if there is a modifier to the `type label`. e.g. Currently the only `modifier` is "[Transitional](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit#heading=h.xnfilznsrhpe)" meaning the frame in question is fading in or out from one `type`/category to another.  
 
 (Other columns are not used)
 
 Other non-data-field terminology/hyper-definitions:  
-- "proceed" - This means to move onto the next frame, without "seeing" it. 
-- "jump factor" - Not to be confused with the already sampled rate of the frames set from the video. Now that the frame set is loaded, you can skip through the frames by using the jump factor to increase the size of step.  
+- "proceed" - This means to move onto the next image, without "seeing" it. 
+- "jump factor" - Not to be confused with the already sampled rate of the image set from the video. Now that the image set is loaded, you can skip through the images by using the jump factor to increase the size of step.  
 - "mode" - Mode of the tool.
-- "sample rate" - This is a parameter that is used before the annotation tool is ready to use. It refers to how the frame set is extracted from the video; at what sampling rate. 
+- "sample rate" - This is a parameter that is used before the annotation tool is ready to use. It refers to how the image set is extracted from the video; at what sampling rate. 
 - "seen-density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `27-a`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. 
 Conversely, `27-b` is sparsely-seen, which means that only some images from the image set are annotated/labeled/seen. The rest are "held out" from use in training, as they have no label whatsoever. 
 
 The most important types to annotate are highlighted in (green) on the `types of frames` above. These should be clearly delineated from each other in the guideline. 
 The subtypes of slates (blue) is also important to annotate.  
-However, the non-important cases (grey) are various different negative cases that are not frames of interest. These may be similar to positive cases. These are sometimes less distinct between each other. Do the best possible, but move on if too much time is spent.  
+However, the non-important cases (grey) are various different negative cases that are not frames of interest. These may be similar to positive cases. These are sometimes less distinct between each other. Do the best possible, but move on if too much time is spent figuring out the distinctions.  
 Add the [modifier](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit#heading=h.xnfilznsrhpe) where needed. I.e. Pick the most preferred, clearest `type label`, add "Shift" when making the key combo. 
 
 ### How to Annotate It
-The tool uses one key-combination press to annotate the different kinds of frames. A key combination can be a single key, or could be a combo like "Shift P". Press the relevant one to annotate the `type`. 
+The tool uses one or two key-combination presses to annotate the different kinds of frames. A key combination can be a single key, or could be a combo like "Shift P". Press the relevant one to annotate the `type`. 
 To add a `subtype`, you will need to enter editor mode, use "Esc" key to do that. 
 In editor mode, you will be able to use the up and down arrows to move between `type` and `subtype` entering.
 Press the key combo needed to annotate the main `type`. The press down to move to `subtype` and press another key combo for the relevant choice. Move on with "Enter" or "Return". 
@@ -90,7 +90,7 @@ Leaving the browser tab for a short moment is fine. However, extended absence wi
 At the end of your session, "Export" both "JS array" and "CSV".
 
 Tip: Zoom in your browser with "Ctrl/Cmd Plus" if the text is too small. You will only need "Export"s at the end.  
-Tip2: You should stay in Editor until you get out of slates.  
+Tip2: You should stay in Editor Mode until you get out of labelling Slates.  
 
 ### Decisions, Differentiations and Precision during Annotation
 Please see the guidelines for the differentiation guide.  
