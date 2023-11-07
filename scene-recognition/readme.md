@@ -13,21 +13,21 @@ the start and end times of a phenomena, a model trained with this information co
 and post-processing (and data smoothening) could be used to determine when the phenomena truly starts and ends via computer vision.
 
 ### Specs
-* Annotation project name - `scene-recognition`
+* Annotation Project Name - `scene-recognition`
 * Annotator Demographics
     * Number of annotators - 2
     * Occupational description - College Student and Metadata Operation Specialist GBH
     * Age range - 20-40s
     * Education - College & PhD
-* Annotation Environment information
+* Annotation Environment Information
     * Name - Keystroke Labeler
     * Version - unknown
-    * Tool Documentation - (see below tool installation)
-* Project changes
-    * Number of Batches - 2 
-        * Batch Information: There are two batches used for training and evaluation split during the first iteration: Scenes With Text. `batchA` was densely-seen/labeled (20 GUIDs), while `batchB` was sparsely-seen/labeled (21 GUIDs). 
-        * It seems likely that the split is done at the video/image_set level to avoid adding similar images from one video in training to evaluation also. 
-    * Other Version Control Information - (enter, if applicable)
+    * Tool documentation - (see below tool installation)
+* Project Changes
+    * Number of batches - 2 
+        * Batch information: There are two batches used for training and evaluation split during the first iteration: Scenes With Text. [`27-a`](231002-aapb-collaboration-27-a) was densely-seen/labeled (20 GUIDs), while [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). 
+        * The split is done at the video/image_set level to avoid adding similar images from one video in training into evaluation also. 
+    * Other version control information - none
     
 ## Tool Installation: Keystroke Labeler
 [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler) Annotation Tool is developed in collaboration with GBH by Owen King.  
@@ -39,7 +39,7 @@ Currently CLAMS annotators are accessing the tool via a local-host instance buil
 
 ## Annotation Guidelines
 > [!Important]  
-> Please read this explanationof the types of frames first. 
+> Please read this explanation of the types of frames first. 
 > [`Types of frames`](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit) is the guidelines for this project along with more specific instructions from this `readme.md`.   
 ### Preparation
 The tool must be downloaded or accessed via Ivanti.  
@@ -47,8 +47,6 @@ Then still images must be extracted from chosen videos.
 A sampling rate is recommended, e.g. 1 frame every 2 seconds. 
 This intends to give some diversity to the frames extracted from the video. 
 The set of frames must be then loaded into the [tool](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md). 
-
-
 
 ### What to Annotate
 This tool creates an annotation file that has different columns for each frame.  
@@ -69,8 +67,8 @@ Other non-data-field terminology/hyper-definitions:
 - "jump factor" - Not to be confused with the already sampled rate of the frames set from the video. Now that the frame set is loaded, you can skip through the frames by using the jump factor to increase the size of step.  
 - "mode" - Mode of the tool.
 - "sample rate" - This is a parameter that is used before the annotation tool is ready to use. It refers to how the frame set is extracted from the video; at what sampling rate. 
-- "seen-density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `batchA`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. 
-Conversely, `batchB` is sparesely-seen, which means that only some of the images from the image set are annotated/labeled/seen. The rest are "held out" from use in training, as they have no label whatsoever. 
+- "seen-density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `27-a`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. 
+Conversely, `27-b` is sparsely-seen, which means that only some images from the image set are annotated/labeled/seen. The rest are "held out" from use in training, as they have no label whatsoever. 
 
 The most important types to annotate are highlighted in (green) on the `types of frames` above. These should be clearly delineated from each other in the guideline. 
 The subtypes of slates (blue) is also important to annotate.  
@@ -97,9 +95,25 @@ Tip2: You should stay in Editor until you get out of slates.
 ### Decisions, Differentiations and Precision during Annotation
 Please see the guidelines for the differentiation guide.  
 
-#### Data Quality Efforts 
-No data validation checks were conducted. 
+#### Data Quality Efforts
 It is assumed, due to the low difficulty of the annotation, that high accuracy of the data in one pass is reasonably plausible.
+
+One annotation check was done on the 10 videos added to `27-a` batch by @jarumihooi. 2 videos were checked closely, the other 8 were checked only for beginning Slate labels. 
+The check only looked at frames that were labeled and at the transitions between different labels. 
+Sections with all the same label were also skimmed unless something caught the eye of the checker. 
+No `.csv` files were edited to corrections/checker-decisions.  
+
+Results:  
+* `cpb-aacip-516-8c9r20sq57.csv` #1 
+  * There are many ones where Shift should have been used. Not counting these, but suspect about 12/920. 
+  * Important errors: 3/920 (all classified as positive, should be negative. False Pos.) 
+  * Non-important Non-shift errors: 3/920 
+  * **0.3%** Important Non-shift Error rate (ie. less than 1%).
+* Approximately after `cpb-aacip-516-8c9r20sq57.csv` #1, `cpb-aacip-512-3f4kk95f7h.csv` #2, `cpb-aacip-512-416sx65d21.csv` #3 The annotator started using Shift+ for Transitional modifiers. 
+* `cpb-aacip-d8ebafee30e.csv` #10
+  * Important errors: 0/902 
+  * Non-important errors: 27/902
+  * **0.0%** Important Error rate 
 
 #### Bounding 
 * **subinterval** - Because of the sampling, it is typically best to think of the annotation of frames (at a certain time) as enclosing borders for a subinterval. The annotation should be within the timeframe of the phenomena. Eg. The real onscreen time for a chyron might peek past its annotated time. 

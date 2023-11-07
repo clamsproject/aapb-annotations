@@ -7,8 +7,9 @@
 > Some estimates of imprecision are given by Margin of Error.  
 > Directionality definitions help frame the boundaries meant by annotated times.  
 > The fields in the gold datasets should be standardized.
+> Naming conventions - batches: `issue-number-identifiers.txt`
 
-## Conventions
+## Data Formatting and Precision Conventions
 ### Time Point Notation
 > [!IMPORTANT]
 > `hh:mm:ss.mmm` with a **DOT**  
@@ -78,7 +79,20 @@ Practically speaking, there is only a small percentage of cases where the variat
 especially in cases of human perception.
 The conventions for precision hold until new needs of the project are required. 
 
-### Field Naming Conventions for Gold Datasets
+## File Naming Conventions
+Batches should be named all in lower case in this format: `issue-number-identifiers.txt`. 
+Where the issue number is the repository (usually [AAPB Collaborations Repo Issues](https://github.com/clamsproject/aapb-collaboration)) that is the discussion/documentation
+of how this batch was chosen and created. This includes an issue number. 
+Any other identifiers come after this, and can be used to denote different batches created from the same issue. 
+Because batches can be reused for disparate projects, identifiers should indicate some property about the GUIDs in that batch, 
+as opposed to what happens to that batch during a project. 
+If no real discerning quality can be used as an identifier, use `abcd` lettering to denote numbering. 
+Finally, the whole name of the batch should use lowercase and `-`dashes.  
+
+E.g. `aapb-collaboration-27-a.txt` and `aapb-collaboration-27-b.txt`
+
+
+## Field Naming Conventions for Gold Datasets
 * `GUID` (all caps) - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
 * `start`, `end` - For "anchor" columns annotating a time duration of a phenomenon (e.g., character offsets, time intervals, etc.) use `start`, `end` for the column names.
 * `entry` - this is also called index, or the tag number for how many annotations there are. e.g. The first piece of labelled data is "1".
