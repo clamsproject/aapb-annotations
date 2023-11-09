@@ -1,16 +1,17 @@
 # Scene Recognition 
 
 ## Project Overview
-This project is a new attempt at detecting "frames of interest" or "scenes with text" in general as an update to the previous efforts of seeking different frames out separately. 
-"Frames of Interest" tend to be frames from a video that contain textual information on screen that is useful for archiving purposes. This can include slates, chyrons, images of people/video subjects, and credits. 
+
+> The essential goal for scene recognition is to assign the semantic labels to the given images, these semantic labels are defined by human beings including different natural views, indoor scenes, outdoor environments and etc.
+> -- [Scene recognition: A comprehensive survey](https://www.sciencedirect.com/science/article/pii/S003132032030011X)
+
+This project is an attempt at developing a dataset for a new CLAMS app that detects "frames of interest" or "scene recognition" in general as an update to the previous efforts of seeking different frames out separately. 
+"Frames of Interest" tend to be frames from a video that contain information (primarily in some overlaying textual forms) on screen that is useful for archiving purposes. This can include slates, chyrons, credits, images of people or other visual objects. 
 
 From the annotation side, the project is done by sampling videos at a certain rate (e.g. currently 1 frame every 2 seconds) to create a diverse set of frames as a collection of stills (going forward called "image sets"). 
 The frames are then annotated for if they fit one of the interest categories or not. 
 
-Downstream to this project, results from the Scene Recognition detection can be used to stitch together time intervals of when an audiovisual phenomenon takes place in the video. 
-Conceptually, the annotation project simply annotates stills found at recurring intervals (but arbitrarily chosen) that do not themselves describe
-the start and end times of a phenomena. A model trained with this information could label more fine-grained-ly when moments display a phenomenon,
-and post-processing/data-smoothening can determine when the phenomena truly starts and ends via computer vision.
+Conceptually, the annotation project simply annotates stills found at recurring intervals (but arbitrarily chosen) that do not themselves describe the start and end times of a _scene_. Additional post-processing by software can stitch together these still level annotations into time interval annotations, but manually annotating time intervals is not under scope of the project. 
 
 ### Specs
 * Annotation Project Name - `scene-recognition`
@@ -18,7 +19,7 @@ and post-processing/data-smoothening can determine when the phenomena truly star
     * Number of annotators - 2
     * Occupational description - College Student and Metadata Operation Specialist GBH
     * Age range - 20-40s
-    * Education - College & PhD
+    * Education - Higher education
 * Annotation Environment Information
     * Name - Keystroke Labeler
     * Version - unknown
@@ -28,27 +29,26 @@ and post-processing/data-smoothening can determine when the phenomena truly star
         * Batch information: There are two batches used for training and evaluation split during the first iteration: Scenes With Text. [`27-a`](231002-aapb-collaboration-27-a) was densely-seen/labeled (20 GUIDs), while [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). 
         * The split is done at the video/image-set level to avoid adding similar images from one video in training into evaluation also. 
     * Other version control information - none
-    
-## Tool Installation: Keystroke Labeler
-[Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler) Annotation Tool is developed in collaboration with GBH by Owen King.  
-Documentation: Explanation of inner parts and fields in the labeler [here](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md).  
-Please see the first link for installation and usage.  
 
-#### Tool Access
-Currently CLAMS annotators are accessing the tool via a local-host instance built through Ivanti. Each instance is one GUID/video on its own, and changing the name of the saved file is not possible nor necessary. 
+## Tool Installation: Keystroke Labeler
+We use [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler), an annotation tool that is developed in collaboration with GBH by Owen King for this project.  
+Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [here](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md).  
+Please refer to the tool source code repository for instructions for installation and usage.  
+
+### Tool Access
+Currently CLAMS annotators are accessing the tool via web app instances deployed on servers that CLAMS team manages. Each instance is one GUID/video on its own, and once annotation is done for a video, annotators must _export_ the annotation data into csv or json file and upload to a shared cloud storage space (google drive). This is because the tool doesn't support save-on-server, and during the export process annotators must rename the file name to match the video GUID. 
 
 ## Annotation Guidelines
 > [!Important]  
 > Please read this explanation of the types of frames first. 
 > [`Types of frames`](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit) is the guidelines for this project along with more specific instructions from this `readme.md`.   
-### Preparation
-The tool must be downloaded or accessed via Ivanti.  
-Then still images must be extracted from chosen videos. 
-A sampling rate is recommended, e.g. 1 frame every 2 seconds. 
+
+### Preparation (Project manager)
+The annotation project manager first need to extract still images from chosen videos, using the extraction script included in the tool source code (so far all annotation is done with images sampled at 1 frame every 2 seconds). 
 This intends to give some diversity to the frames extracted from the video. 
 The set of frames must be then loaded into the [tool](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md). 
 
-### What to Annotate
+### What to Annotate (Annotator)
 This tool creates an annotation file that has different columns for each frame.  
 For each frame, pick which category of Frame of Interest or none.   
 Then choose a subtype if needed.   
@@ -75,8 +75,8 @@ The subtypes of slates (blue) is also important to annotate.
 However, the non-important cases (grey) are various different negative cases that are not frames of interest. These may be similar to positive cases. These are sometimes less distinct between each other. Do the best possible, but move on if too much time is spent figuring out the distinctions.  
 Add the [modifier](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit#heading=h.xnfilznsrhpe) where needed. I.e. Pick the most preferred, clearest `type label`, add "Shift" when making the key combo. 
 
-### How to Annotate It
-The tool uses one or two key-combination presses to annotate the different kinds of frames. A key combination can be a single key, or could be a combo like "Shift P". Press the relevant one to annotate the `type`. 
+### How to Annotate It (Annotators)
+The tool uses one or two key-combination presses to annotate the different kinds of frames. A key combination can be a single key, or could be a combo like "Shift + P". Press the relevant one to annotate the `type`. 
 To add a `subtype`, you will need to enter editor mode, use "Esc" key to do that. 
 In editor mode, you will be able to use the up and down arrows to move between `type` and `subtype` entering.
 Press the key combo needed to annotate the main `type`. The press down to move to `subtype` and press another key combo for the relevant choice. Move on with "Enter" or "Return". 
@@ -104,6 +104,7 @@ Sections with all the same label were also skimmed unless something caught the e
 No `.csv` files were edited to corrections/checker-decisions.  
 
 Results:  
+
 * `cpb-aacip-516-8c9r20sq57.csv` #1 
   * There are many ones where Shift should have been used. Not counting these, but suspect about 12/920. 
   * Important errors: 3/920 (all classified as positive, should be negative. False Pos.) 

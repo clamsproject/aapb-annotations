@@ -7,7 +7,7 @@
 > Some estimates of imprecision are given by Margin of Error.  
 > Directionality definitions help frame the boundaries meant by annotated times.  
 > The fields in the gold datasets should be standardized.
-> Naming conventions - batches: `issue-number-identifiers.txt`
+> Naming conventions - batches: `repoName-issueNumber(-identifier).txt`
 
 ## Data Formatting and Precision Conventions
 ### Time Point Notation
@@ -80,12 +80,11 @@ especially in cases of human perception.
 The conventions for precision hold until new needs of the project are required. 
 
 ## File Naming Conventions
-Batches should be named all in lower case in this format: `issue-number-identifiers.txt`. 
-Where the issue number is the repository (usually [AAPB Collaborations Repo Issues](https://github.com/clamsproject/aapb-collaboration)) that is the discussion/documentation
-of how this batch was chosen and created. This includes an issue number. 
-Any other identifiers come after this, and can be used to denote different batches created from the same issue. 
-Because batches can be reused for disparate projects, identifiers should indicate some property about the GUIDs in that batch, 
-as opposed to what happens to that batch during a project. 
+Batches should be named all in lower case in this format: `repoName-issueNumber(-identifier).txt` (parenthesis means optional parts).
+The `repoName-issueNumber` part points to a GitHub issue (usually on [AAPB Collaborations Repo Issues](https://github.com/clamsproject/aapb-collaboration)) that contains the discussion/documentation of how this batch was chosen and created. 
+Any other `identifier`s come after this, and can be used to denote different batches created from the same issue. This will allow a family of batches stay together in usual "listing" operations in file systems. 
+Because batches can be reused for disparate projects, an identifier can indicate some property about the GUIDs in that batch, 
+but should not indicate particularity of the annotation project that the batch was used. 
 If no real discerning quality can be used as an identifier, use `abcd` lettering to denote numbering. 
 Finally, the whole name of the batch should use lowercase and `-`dashes.  
 
