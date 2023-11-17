@@ -43,12 +43,12 @@ Currently CLAMS annotators are accessing the tool via web app instances deployed
 > Please read this explanation of the types of frames first. 
 > [`Types of frames`](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit) is the guidelines for this project along with more specific instructions from this `readme.md`.   
 
-### Preparation (Project manager)
-The annotation project manager first need to extract still images from chosen videos, using the extraction script included in the tool source code (so far all annotation is done with images sampled at 1 frame every 2 seconds). 
+### Preparation
+The annotation project manager first needs to extract still images from chosen videos, using the extraction script included in the tool source code (so far all annotation is done with images sampled at 1 frame every 2 seconds). 
 This intends to give some diversity to the frames extracted from the video. 
 The set of frames must be then loaded into the [tool](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md). 
 
-### What to Annotate (Annotator)
+### What to Annotate
 This tool creates an annotation file that has different columns for each frame.  
 For each frame, pick which category of Frame of Interest or none.   
 Then choose a subtype if needed.   
@@ -75,7 +75,7 @@ The subtypes of slates (blue) is also important to annotate.
 However, the non-important cases (grey) are various different negative cases that are not frames of interest. These may be similar to positive cases. These are sometimes less distinct between each other. Do the best possible, but move on if too much time is spent figuring out the distinctions.  
 Add the [modifier](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit#heading=h.xnfilznsrhpe) where needed. I.e. Pick the most preferred, clearest `type label`, add "Shift" when making the key combo. 
 
-### How to Annotate It (Annotators)
+### How to Annotate It
 The tool uses one or two key-combination presses to annotate the different kinds of frames. A key combination can be a single key, or could be a combo like "Shift + P". Press the relevant one to annotate the `type`. 
 To add a `subtype`, you will need to enter editor mode, use "Esc" key to do that. 
 In editor mode, you will be able to use the up and down arrows to move between `type` and `subtype` entering.
