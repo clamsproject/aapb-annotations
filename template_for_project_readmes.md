@@ -42,8 +42,9 @@
 (Explanation of the physical process how to do the annotation, what to press etc. Where needed.)
 
 ### Decisions, Differentiation, and Precision Level during Annotation
-* **Problem  Name** - Information about Decisions that must be made during Annotation, for instance, Differentiation between two slate types. 
-* **Problem  Name** - Information on accuracy, precision, error that may be present in the dataset.
+- **Problem  Name** - Information about Decisions that must be made during Annotation, for instance, Differentiation between two slate types. 
+#### Data Quality Efforts (or other subheaders, optional)
+- **Problem  Name** - Information on accuracy, precision, error that may be present in the dataset.
 
 ## Data Format and `process.py`
 

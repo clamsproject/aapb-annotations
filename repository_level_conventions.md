@@ -7,8 +7,9 @@
 > Some estimates of imprecision are given by Margin of Error.  
 > Directionality definitions help frame the boundaries meant by annotated times.  
 > The fields in the gold datasets should be standardized.
+> Naming conventions - batches: `repoName-issueNumber(-identifier).txt`
 
-## Conventions
+## Data Formatting and Precision Conventions
 ### Time Point Notation
 > [!IMPORTANT]
 > `hh:mm:ss.mmm` with a **DOT**  
@@ -78,7 +79,19 @@ Practically speaking, there is only a small percentage of cases where the variat
 especially in cases of human perception.
 The conventions for precision hold until new needs of the project are required. 
 
-### Field Naming Conventions for Gold Datasets
+## File Naming Conventions
+Batches should be named all in lower case in this format: `repoName-issueNumber(-identifier).txt` (parenthesis means optional parts).
+The `repoName-issueNumber` part points to a GitHub issue (usually on [AAPB Collaborations Repo Issues](https://github.com/clamsproject/aapb-collaboration)) that contains the discussion/documentation of how this batch was chosen and created. 
+Any other `identifier`s come after this, and can be used to denote different batches created from the same issue. This will allow a family of batches stay together in usual "listing" operations in file systems. 
+Because batches can be reused for disparate projects, an identifier can indicate some property about the GUIDs in that batch, 
+but should not indicate particularity of the annotation project that the batch was used. 
+If no real discerning quality can be used as an identifier, use `abcd` lettering to denote numbering. 
+Finally, the whole name of the batch should use lowercase and `-`dashes.  
+
+E.g. `aapb-collaboration-27-a.txt` and `aapb-collaboration-27-b.txt`
+
+
+## Field Naming Conventions for Gold Datasets
 * `GUID` (all caps) - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
 * `start`, `end` - For "anchor" columns annotating a time duration of a phenomenon (e.g., character offsets, time intervals, etc.) use `start`, `end` for the column names.
 * `entry` - this is also called index, or the tag number for how many annotations there are. e.g. The first piece of labelled data is "1".
