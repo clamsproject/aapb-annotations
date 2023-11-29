@@ -6,7 +6,7 @@
 > "The term film slate is still used to reference the clapper board that appears on the screen when filming. Just like early clappers.  The slate is shown at the beginning of a take immediately prior to the commencement of action." - [Beverly Boy Productions](https://beverlyboy.com/filmmaking/what-does-slate-mean-in-film/#:~:text=The%20term%20film%20slate%20is,the%20term%20slate%20in%20film.).  
 
 * [More information about slates](https://www.youtube.com/watch?v=Heg6kDxXZ8k&t=13).  
-* [What goes on a slate](theblackandblue.com/2012/11/05/deciphering-film-slate-1/).  
+* [What goes on a slate](https://www.theblackandblue.com/2012/11/05/deciphering-film-slate-1/).  
 
 This project creates a dataset that annotates where informational frames about the video are located timewise from many videos/GUIDs. 
 This dataset is needed to power automatic detection of slate information in the video collection at the AAPB. 
@@ -149,6 +149,7 @@ This script takes the raw data and converts it into a more usable format, by
     > [!Note] 
     > Each file has the column header in it.
 
+This project's `golds` files conform to both conventions for field-name and time format.  
 ## See also 
 
 ### 2020 Evaluation Dataset   
