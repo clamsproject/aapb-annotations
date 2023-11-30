@@ -1,4 +1,4 @@
-# News Hour Named Entity Wikipedia Link
+# NewsHour Named Entity Wikipedia Link
 
 ## Project Overview
 This project adds a wikipedia media [QID](https://en.wikipedia.org/wiki/Wikidata#:~:text=Obligatorily%2C%20an%20identifier%20(the%20QID)) link to the previous annotated dataset from the [Named Entity project](https://github.com/clamsproject/aapb-annotations/tree/main/newshour-namedentity).  
