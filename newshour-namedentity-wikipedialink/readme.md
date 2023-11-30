@@ -1,4 +1,4 @@
-# News Hour Named Entity Wikipedia Link
+# NewsHour Named Entity Wikipedia Link
 
 ## Project Overview
 This project adds a wikipedia media [QID](https://en.wikipedia.org/wiki/Wikidata#:~:text=Obligatorily%2C%20an%20identifier%20(the%20QID)) link to the previous annotated dataset from the [Named Entity project](https://github.com/clamsproject/aapb-annotations/tree/main/newshour-namedentity).  
@@ -74,7 +74,7 @@ In those cases, search the web for other acceptable/wikipedia links, but when no
 ## Data Format and `process.py`
 
 ### `raw` data
-`.tab` file where each line is a new instance of a named entity. This seems to be a tab spaced text file.
+`.tab` file where each line is a new instance of a named entity. This seems to be a [tab](https://file.org/extension/tab) spaced text file.
 * Format:
 ```
 anno_id_tag#\tdate_time_of_annotation\tsource_transcript.ann_file\tentity_text\tcategory\tduplicate_count\tWikipedia_link(normal_url)

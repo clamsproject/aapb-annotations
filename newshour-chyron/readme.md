@@ -63,10 +63,10 @@ Therefore, while the decision was followed above, it is possible that some data 
 
 #### Other Notes  
 
-* **Raw and Golds Time format** -  
+* **Raw and Golds Time format** -
 This project was done before the decision to standardize to the ISO format. It was also done with an outside tool which outputted time as this format: 
-_Raw Time format: (sec.ten-thousandths of sec)_.  
-This remains true of the gold also. 
+_Raw and Golds Time format: (sec.ten-thousandths of sec)_.  
+Thus, The time format in the golds is non-conforming. (Raws do not need to conform as its output from disparately-sourced tools.)  
 
 * **Gold column headers not conforming** - The gold data column headers should be just `start` and `end` as according to conventions. This has yet to be changed. 
 
@@ -76,7 +76,7 @@ This remains true of the gold also.
 See [batch2 comments](https://github.com/clamsproject/aapb-annotations/issues/24#issuecomment-1638870043) for more information. 
 (See one of the [files](https://github.com/clamsproject/aapb-annotations/blob/feaf342477fc27e57dcdcbb74c067aba4a02e40d/newshour-chyron/220701-batch2/3a054b38_18Jul2022_16h18m12s.json) for format.)
  
-### `process.py`
+### [`process.py`](process.py)
 This script takes the raw data and converts it into a more usable format, by
 1. reorganizing the chyron results based on which video_filename/GUID they came from.
 2. removing the extra columns, leaving only start_time, end_time, text.
