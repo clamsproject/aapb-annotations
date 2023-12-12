@@ -1,4 +1,4 @@
-"""Processes Named Entity Linking annotation files
+"""Processes Named Entity Linking annotation files.
 
 Reads in the '.tab' annotations file containing grounding information in the `BATCH_DIR` directory,
 then reads in each brat .ann file downloaded from URL specified in `base-ner.url` file in the BATCH_DIR
@@ -56,8 +56,7 @@ def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:
 
 
 def parse_arguments():
-    ap = argparse.ArgumentParser(
-        description='Process uploaded NER annotation files with named entity links')
+    ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('batch', help='Directory containing the annotations file with grounding information (.tab format). Must start with YYMMDD- prefix to infer the batch name. Also must contain `base-ner.url` file with the URL to the NER annotations.')
     return ap.parse_args()
 

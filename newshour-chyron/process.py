@@ -1,8 +1,8 @@
-'''
+"""
 This script takes as input a directory containing VIA version 3 project files containing video annotations and
 generates a CSV file with the following columns: video_filename, start_time, end_time, text
 for each annotation in the project file.
-'''
+"""
 import argparse
 import json
 import csv
@@ -10,7 +10,7 @@ import os
 
 if __name__ == '__main__':
     # Parse the input arguments
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('-i', '--input_path', type=str, required=True,
                         help='Path to the directory containing the VIA project files')
     parser.add_argument('-o', '--output_path', type=str, required=True, default='golds/',

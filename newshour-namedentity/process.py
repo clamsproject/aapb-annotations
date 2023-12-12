@@ -28,25 +28,22 @@ The latter two are because they are not defined as a dependency for the former.
 
 """
 
-import sys
-from pathlib import Path
-import shutil
 import argparse
+import shutil
+from pathlib import Path
 
+from lapps.discriminators import Uri
 from mmif import Mmif, DocumentTypes
 from mmif import __specver__ as mmif_version
-from lapps.discriminators import Uri
 
 import anntoconll
-
 
 ANNOTATIONS_DIR = Path('./annotations')
 WORKING_DIR = Path('./working')
 
 
 def parse_arguments():
-    ap = argparse.ArgumentParser(
-        description='Convert uploaded Brat annotation files with named entities')
+    ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('batch', help='Batch to convert files for')
     ap.add_argument('--format', default="ann",
                     help='Desired output format: "mmif" (default) or "connl"')

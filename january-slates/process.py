@@ -1,4 +1,4 @@
-"""Processes Slate annotation files
+"""Processes Slate annotation files. 
 To read all the tabular files from in the YYMMDD-batchname directories and generate one file per GUID in golds
 
 $ process.py --input_path /your/input/path --output_path /your/output/path
@@ -6,9 +6,9 @@ $ process.py --input_path /your/input/path --output_path /your/output/path
 """
 
 import argparse
-import pandas as pd
-import numpy as np
 import os
+
+import pandas as pd
 
 
 def process_csv(input_directory, output_directory):
@@ -75,7 +75,7 @@ def process_csv(input_directory, output_directory):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
+    parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('input_path', type=str,
                         help='Path to the directory containing the CLAMS slate annotation metadata files')
     parser.add_argument('--output_path', type=str, default='golds',
