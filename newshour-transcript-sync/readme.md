@@ -125,18 +125,17 @@ This script processes the `.srt` raw files into the `.tsv` gold files, and organ
 2. For each subtitle entry, it extracts the index, start time, end time, and content of the subtitle. 
 The start and end times are converted from the original format (with commas as decimal separators) to a format with periods as decimal separators. 
 Any newline characters in the content are replaced with spaces.  
-3. The extracted information is then written to the output .tsv file in a tab-separated format with headers for "index," "starts," "ends," and "content".
+3. The extracted information is then written to the output .tsv file in a tab-separated format with headers for "index," "start," "end," and "content".
 
 
 ### `golds` data
 `.tsv` file  
 * Fields:
     * `index` - entry number 
-    * `starts` - start time. 
-    * `ends` - end time.
+    * `start` - start time. 
+    * `end` - end time.
     * `content` - text of transcription.
-_TODO: (discrepancy) note that the gold file format should conform to repo conventions to use `start` and `end` as a timeframe duration column header. 
-The use of `content` is possibly ok, as `text` as a standardized format is still under discussion and may be too general of a term since each project is seeking different kinds of texts._  
+
 * Example:
 ```
 $ head -4 cpb-aacip-507-1v5bc3tf81.tsv
