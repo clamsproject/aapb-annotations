@@ -1,9 +1,10 @@
 """Processes Named Entity Linking annotation files.
 
-Reads in the '.tab' annotations file containing grounding information in the `BATCH_DIR` directory,
-then reads in each brat .ann file downloaded from URL specified in `base-ner.url` file in the BATCH_DIR
-Fetches wikidata QIDs using the wikipedia URLs in the data.
-Generates a tsv file for each unique GUID. Exports the results to a "golds" directory
+Reads in the NEL `.tab` annotations file containing grounding/linking information in the `BATCH` directory,
+then reads in each brat .ann file (from previous `newshour-namedentity`/NER annotation project)
+downloaded from URL specified in `base-ner.url` file in the same BATCH directory, 
+then outputs a tsv file for each unique GUID. During the conversion, it also fetches wikidata 
+QIDs using the wikipedia URLs in the data. Converted tsv files are exported to a `golds` directory
 at the top level of this repository, where they are ready to be committed back
 into the annotation collection repository and pushed up. The script does not do
 the automatic commit and push in order to avoid hasty commits.
@@ -19,7 +20,7 @@ import pandas as pd
 import requests
 from brat_parser import get_entities_relations_attributes_groups
 
-import goldretriever
+from clams_utils.aapb import goldretriever
 
 
 def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:

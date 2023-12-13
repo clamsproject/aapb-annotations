@@ -99,12 +99,8 @@ line 15 is "Judy Woodruff" while line 54 is "JUDY WOODRUFF".
 > Also, see below for single link only issue.  
 
 ### [`process.py`](process.py)
-_TODO: Add detail to summary._  
-_TODO: get rid of `goldretriever.py` and change `process.py` to always read in local "raw" files_  
-Please see the docstring of [`process.py`](process.py).   
-
-The wikidata QID link has been automatically appended to the previous columns by `process.py`.
-The gold generation process automatically adds the QID.  
+Converts `tab` raw NEL annotation and `ann` NER annotations into `tsv` gold files, while doing so, append QID links to the NEL annotations.
+For more details, read help message of `process.py` by running `python process.py --help`.
 
 ### `golds` data
 `.tsv` file named after the GUID of the transcript.
