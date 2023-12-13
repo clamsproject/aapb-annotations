@@ -1,7 +1,7 @@
 """Processes Named Entity Linking annotation files:
 
-Reads in the `.tab` annotations file containing grounding information in the `BATCH` directory,
-then reads in each brat .ann file (from previous `newshour-namedentity` annotation project) 
+Reads in the NEL `.tab` annotations file containing grounding/linking information in the `BATCH` directory,
+then reads in each brat .ann file (from previous `newshour-namedentity`/NER annotation project)
 downloaded from URL specified in `base-ner.url` file in the same BATCH directory, 
 then outputs a tsv file for each unique GUID. During the conversion, it also fetches wikidata 
 QIDs using the wikipedia URLs in the data. Converted tsv files are exported to a `golds` directory
@@ -59,7 +59,7 @@ def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:
 def parse_arguments():
     ap = argparse.ArgumentParser(
         description=__doc__)
-    ap.add_argument('BATCH', help='Directory containing the annotations file with grounding information (.tab format). Must start with YYMMDD- prefix to infer the batch name. Also must contain `base-ner.url` file with the URL to the NER annotations.')
+    ap.add_argument('BATCH', help='Directory containing the NEL annotations file with grounding information (.tab format). Must start with YYMMDD- prefix to infer the batch name. Also must contain `base-ner.url` file with the URL to the NER annotations.')
     return ap.parse_args()
 
 
