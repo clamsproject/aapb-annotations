@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-9882j68s35-transcript.ann	T1	person	0	14	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-9882j68s35-transcript.ann	T2	location	58	66	Brooklyn	https://en.wikipedia.org/wiki/Brooklyn	https://www.wikidata.org/wiki/Q18419
 cpb-aacip-507-9882j68s35-transcript.ann	T3	person	1399	1402	Jim	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148

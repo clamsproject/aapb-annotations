@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-6h4cn6zk04-transcript.ann	T1	person	8	22	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-6h4cn6zk04-transcript.ann	T2	person	74	86	Albert Hakim	https://en.wikipedia.org/wiki/Albert_Hakim	https://www.wikidata.org/wiki/Q4710394
 cpb-aacip-507-6h4cn6zk04-transcript.ann	T3	event	96	116	Iran-contra hearings	https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair	https://www.wikidata.org/wiki/Q273659

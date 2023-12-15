@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-154dn40c26-transcript.ann	T1	person	7	21	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-154dn40c26-transcript.ann	T2	location	6011	6015	U.S.	https://en.wikipedia.org/wiki/United_States	https://www.wikidata.org/wiki/Q30
 cpb-aacip-507-154dn40c26-transcript.ann	T3	person	5897	5949	Health and Human Services Secretary Margaret Heckler	https://en.wikipedia.org/wiki/Margaret_Heckler	https://www.wikidata.org/wiki/Q457633

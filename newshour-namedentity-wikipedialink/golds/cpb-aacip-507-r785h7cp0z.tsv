@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-r785h7cp0z-transcript.ann	T1	organization	4797	4801	AT&T	https://en.wikipedia.org/wiki/AT%26T	https://www.wikidata.org/wiki/Q35476
 cpb-aacip-507-r785h7cp0z-transcript.ann	T2	organization	4773	4779	Senate	https://en.wikipedia.org/wiki/United_States_Senate	https://www.wikidata.org/wiki/Q66096
 cpb-aacip-507-r785h7cp0z-transcript.ann	T3	organization	4719	4741	Department of Commerce	https://en.wikipedia.org/wiki/United_States_Department_of_Commerce	https://www.wikidata.org/wiki/Q503577

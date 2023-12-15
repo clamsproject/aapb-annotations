@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-vd6nz81n6r-transcript.ann	T1	person	2	10	MR. MUDD	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
 cpb-aacip-507-vd6nz81n6r-transcript.ann	T2	person	30	40	Roger Mudd	https://en.wikipedia.org/wiki/Roger_Mudd	https://www.wikidata.org/wiki/Q7358696
 cpb-aacip-507-vd6nz81n6r-transcript.ann	T3	location	44	52	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60

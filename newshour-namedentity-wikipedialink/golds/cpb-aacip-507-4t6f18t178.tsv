@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-4t6f18t178-transcript.ann	T1	person	0	14	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-4t6f18t178-transcript.ann	T2	person	30	64	Energy Secretary James Schlesinger	https://en.wikipedia.org/wiki/James_R._Schlesinger	https://www.wikidata.org/wiki/Q171989
 cpb-aacip-507-4t6f18t178-transcript.ann	T3	location	180	188	New York	https://en.wikipedia.org/wiki/New_York_City	https://www.wikidata.org/wiki/Q60

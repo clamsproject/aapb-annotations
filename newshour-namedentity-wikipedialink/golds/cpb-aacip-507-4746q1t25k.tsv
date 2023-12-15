@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-4746q1t25k-transcript.ann	T1	person	2	12	GWEN IFILL	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
 cpb-aacip-507-4746q1t25k-transcript.ann	T2	person	32	42	Gwen Ifill	https://en.wikipedia.org/wiki/Gwen_Ifill	https://www.wikidata.org/wiki/Q5623430
 cpb-aacip-507-4746q1t25k-transcript.ann	T3	person	44	54	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148

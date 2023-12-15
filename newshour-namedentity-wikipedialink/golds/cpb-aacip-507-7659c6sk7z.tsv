@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-7659c6sk7z-transcript.ann	T1	person	9	23	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-7659c6sk7z-transcript.ann	T2	location	162	167	China	https://en.wikipedia.org/wiki/China	https://www.wikidata.org/wiki/Q148
 cpb-aacip-507-7659c6sk7z-transcript.ann	T3	person	350	357	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648

@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-6w96689725-transcript.ann	T1	person	0	14	ROBERT MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-6w96689725-transcript.ann	T2	person	171	175	Ford	https://en.wikipedia.org/wiki/Gerald_Ford	https://www.wikidata.org/wiki/Q9582
 cpb-aacip-507-6w96689725-transcript.ann	T3	person	180	186	Carter	https://en.wikipedia.org/wiki/Jimmy_Carter	https://www.wikidata.org/wiki/Q23685

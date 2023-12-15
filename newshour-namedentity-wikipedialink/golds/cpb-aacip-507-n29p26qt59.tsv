@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-n29p26qt59-transcript.ann	T1	person	2	17	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001
 cpb-aacip-507-n29p26qt59-transcript.ann	T2	title	546	558	NEWS SUMMARY		
 cpb-aacip-507-n29p26qt59-transcript.ann	T3	person	560	575	MARGARET WARNER	https://en.wikipedia.org/wiki/Margaret_Warner	https://www.wikidata.org/wiki/Q6760001

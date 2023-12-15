@@ -11,7 +11,7 @@ the automatic commit and push in order to avoid hasty commits.
 
 """
 
-import argparse
+import pathlib
 from pathlib import Path
 from typing import List, Union
 from urllib.parse import unquote_plus
@@ -19,86 +19,99 @@ from urllib.parse import unquote_plus
 import pandas as pd
 import requests
 from brat_parser import get_entities_relations_attributes_groups
-
 from clams_utils.aapb import goldretriever
+
+qid_map = {}
 
 
 def fetch_wikidata_qids(urls: Union[str, List[str]]) -> Union[str, List[str]]:
     """
     Fetch wikidata QIDs from English Wikipedia URLs.
     """
+    qids = []
     api = "https://en.wikipedia.org/w/api.php?"
     # headers
     reqheaders = {'Accept': 'application/json'}
-    if isinstance(urls, list):
-        titles = [unquote_plus(url.split("/")[-1]) for url in urls]
-        titles = " | ".join(titles)
-    else:
-        titles = unquote_plus(urls.split("/")[-1])
-    # parameters to use
-    params = {
-        'action': 'query',
-        'prop': 'pageprops',
-        'ppprop': 'wikibase_item',
-        'titles': titles,
-        'redirects': 1,
-        'format': 'json'
-    }
-    json_data = requests.post(api, data=params, headers=reqheaders).json()
-    # parse resulting json for QIDs
-    qids = []
-    for page in json_data['query']['pages'].values():
-        qid = page['pageprops']['wikibase_item']
-        qids.append("https://www.wikidata.org/wiki/" + qid)
+    if isinstance(urls, str):
+        urls = [urls]
+    for title in urls:
+        title = unquote_plus(title.split("/")[-1])
+        # parameters to use
+        if title in qid_map:
+            qids.append(qid_map[title])
+        else:
+            params = {
+                'action': 'query',
+                'prop': 'pageprops',
+                'ppprop': 'wikibase_item',
+                'titles': title,
+                'redirects': 1,
+                'format': 'json'
+            }
+            json_data = requests.post(api, data=params, headers=reqheaders).json()
+            # parse resulting json for QIDs
+            for page in json_data['query']['pages'].values():
+                qid = page['pageprops']['wikibase_item']
+                qid_url = "https://www.wikidata.org/wiki/" + qid
+                qid_map[title] = qid_url
+                qids.append(qid_url)
     if len(qids) > 1:
+        print('TWO OR MORE QIDS')
         return list(reversed(qids))
     else:
         return qids[0]
 
 
-def parse_arguments():
-    ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument('batch', help='Directory containing the annotations file with grounding information (.tab format). Must start with YYMMDD- prefix to infer the batch name. Also must contain `base-ner.url` file with the URL to the NER annotations.')
-    return ap.parse_args()
+def process(ner_ann_dir, nel_tab_dir, golds_dir):
 
+    if isinstance(ner_ann_dir, str):
+        ner_ann_dir = pathlib.Path(ner_ann_dir)
+    if isinstance(nel_tab_dir, str):
+        nel_tab_dir = pathlib.Path(nel_tab_dir)
+    if isinstance(golds_dir, str):
+        golds_dir = pathlib.Path(golds_dir)
 
-if __name__ == '__main__':
+    golds_dir.mkdir(parents=True, exist_ok=True)
+    print(f'>>> Exporting {nel_tab_dir.name[7:]} annotations to the gold directory')
+    print(f'>>> --> {golds_dir}')
 
-    options = parse_arguments()
-
-    ann_batch_dir = Path(options.batch).resolve()
-    ner_dir = Path(goldretriever.download_golds(open(Path(options.batch)/'base-ner.url').read().strip()))
-
-    batch_name = ann_batch_dir.name[7:]
-    gold_dir = ann_batch_dir.parent / 'golds' / batch_name
-    gold_dir.mkdir(parents=True, exist_ok=True)
-    print(f'>>> Exporting {batch_name} annotations to the gold directory')
-    print(f'>>> --> {gold_dir}')
-
-    brat_anns = ner_dir.glob('*.ann')
-    tab_file = next(ann_batch_dir.glob('*.tab'))
+    brat_anns = ner_ann_dir.glob('*.ann')
+    tab_file = next(nel_tab_dir.glob('*.tab'))
 
     # read in the relevant information from the annotations.tab
     with open(tab_file) as fh_in:
         nel_df = pd.read_table(fh_in, sep='\t', encoding='utf-16', header=None)
     nel_df.dropna(axis=1, how='all', inplace=True)
     nel_df.drop(nel_df.columns[[0, 1, 4, 5]], axis=1, inplace=True)
-    nel_df.columns = ['guid', 'text', 'wiki_url']
+    nel_df.columns = ['src_ann', 'text', 'wiki_url']
 
     # read in the entities for each .ann file
     for brat_ann in brat_anns:
         entities, relations, attributes, groups = get_entities_relations_attributes_groups(brat_ann)
-        data = {'guid': brat_ann.name,
-                'anno_id': [entities[e].id for e in entities],
+        data = {'src_ann': brat_ann.name,
+                'src_ann_id': [entities[e].id for e in entities],
                 'type': [entities[e].type for e in entities],
-                'begin_offset': [entities[e].span[0][0] for e in entities],
-                'end_offset': [entities[e].span[0][1] for e in entities],
+                'start': [entities[e].span[0][0] for e in entities],
+                'end': [entities[e].span[0][1] for e in entities],
                 'text': [entities[e].text for e in entities]}
-        ner_df = pd.DataFrame(data=data, columns=['guid', 'anno_id', 'type', 'begin_offset', 'end_offset', 'text'])
+        ner_df = pd.DataFrame(data=data, columns=['src_ann', 'src_ann_id', 'type', 'start', 'end', 'text'])
         # collapse all 'title' subtypes into one category
         ner_df['type'].mask(ner_df['type'].str.endswith("title"), "title", inplace=True)
 
         # merge wiki_url column from nel dataframe, fetch qids
-        ner_df = ner_df.merge(nel_df, how='left', on=['guid', 'text'])
+        ner_df = ner_df.merge(nel_df, how='left', on=['src_ann', 'text'])
         ner_df['qid'] = ner_df['wiki_url'].map(fetch_wikidata_qids, na_action='ignore')
-        ner_df.to_csv(Path(gold_dir, data['guid'].rstrip('-transcript.ann')).with_suffix('.tsv'), sep='\t', index=False)
+        print(f'\tQid: {ner_df["qid"]}')
+        ner_df.to_csv(Path(golds_dir, data['src_ann'].rstrip('-transcript.ann')).with_suffix('.tsv'), sep='\t', index=False)
+
+if __name__ == '__main__':
+
+    root_dir = pathlib.Path(__file__).parent
+    for nel_tab_dir in root_dir.glob('*'):
+        if nel_tab_dir.is_dir() and len(nel_tab_dir.name) > 7 and nel_tab_dir.name[6] == '-' and all([c.isdigit() for c in nel_tab_dir.name[:6]]):
+            base_ner_url = open(nel_tab_dir / 'base-ner.url').read().strip()
+            print(f'Downloading the base NER annotations from {base_ner_url} ...')
+            ner_ann_dir = Path(goldretriever.download_golds(base_ner_url))
+            gold_dir = nel_tab_dir.parent / 'golds'
+            print(f'Processing {nel_tab_dir.name}...')
+            process(ner_ann_dir, nel_tab_dir, root_dir / 'golds')

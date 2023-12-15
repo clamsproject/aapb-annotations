@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T1	person	2	12	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T2	person	32	42	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T3	title	51	59	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
@@ -446,10 +446,10 @@ cpb-aacip-507-1v5bc3tf81-transcript.ann	T439	product	38545	38548	747	https://en.
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T440	product	38635	38638	747	https://en.wikipedia.org/wiki/Boeing_747	https://www.wikidata.org/wiki/Q179
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T441	organization	38732	38738	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T442	event	38756	38768	Asian crisis	https://en.wikipedia.org/wiki/1997_Asian_financial_crisis	https://www.wikidata.org/wiki/Q80880
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T443	organization	38845	38851	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T443	organization	38845	38851	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q2311
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T444	organization	38931	38955	University of Washington	https://en.wikipedia.org/wiki/University_of_Washington	https://www.wikidata.org/wiki/Q219563
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T445	person	38966	38978	Charles Hill	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T446	organization	39004	39010	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T446	organization	39004	39010	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q2311
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T447	organization	39015	39021	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T448	person	39068	39080	CHARLES HILL	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T449	person	39379	39389	ROD MINOTT		
@@ -467,13 +467,13 @@ cpb-aacip-507-1v5bc3tf81-transcript.ann	T460	organization	40560	40566	Boeing	htt
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T461	person	40706	40715	TIM GOREE		
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T462	person	41008	41018	ROD MINOTT		
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T463	organization	41020	41026	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T464	organization	41175	41181	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T464	organization	41175	41181	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q2311
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T465	organization	41269	41286	McDonnell-Douglas	https://en.wikipedia.org/wiki/McDonnell_Douglas	https://www.wikidata.org/wiki/Q201815
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T466	person	41375	41379	Hill	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T467	organization	41385	41391	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T468	person	41458	41470	CHARLES HILL	https://en.wikipedia.org/wiki/Charles_W._L._Hill	https://www.wikidata.org/wiki/Q23303093
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T469	organization	41503	41509	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T470	organization	41558	41564	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q67
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T469	organization	41503	41509	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q2311
+cpb-aacip-507-1v5bc3tf81-transcript.ann	T470	organization	41558	41564	AirBus	https://en.wikipedia.org/wiki/Airbus	https://www.wikidata.org/wiki/Q2311
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T471	organization	41613	41619	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T472	person	41759	41769	ROD MINOTT		
 cpb-aacip-507-1v5bc3tf81-transcript.ann	T473	organization	41771	41777	Boeing	https://en.wikipedia.org/wiki/Boeing	https://www.wikidata.org/wiki/Q66

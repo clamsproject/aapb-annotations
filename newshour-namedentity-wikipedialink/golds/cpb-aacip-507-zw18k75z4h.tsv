@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-zw18k75z4h-transcript.ann	T1	person	4825	4833	Mr. LOEB	https://en.wikipedia.org/wiki/Marshall_Loeb	https://www.wikidata.org/wiki/Q6773687
 cpb-aacip-507-zw18k75z4h-transcript.ann	T2	person	4756	4763	MacNEIL	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-zw18k75z4h-transcript.ann	T3	person	4298	4306	Mr. LOEB	https://en.wikipedia.org/wiki/Marshall_Loeb	https://www.wikidata.org/wiki/Q6773687

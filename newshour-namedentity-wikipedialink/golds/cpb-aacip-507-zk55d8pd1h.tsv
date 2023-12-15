@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-zk55d8pd1h-transcript.ann	T1	person	2	13	MR. MacNeil	https://en.wikipedia.org/wiki/Robert_MacNeil	https://www.wikidata.org/wiki/Q573648
 cpb-aacip-507-zk55d8pd1h-transcript.ann	T2	location	62	71	Nicaragua	https://en.wikipedia.org/wiki/Nicaragua	https://www.wikidata.org/wiki/Q811
 cpb-aacip-507-zk55d8pd1h-transcript.ann	T3	organization	161	178	The Supreme Court	https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States	https://www.wikidata.org/wiki/Q11201

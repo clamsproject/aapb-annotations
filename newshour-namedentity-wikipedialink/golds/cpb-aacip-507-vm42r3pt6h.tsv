@@ -1,4 +1,4 @@
-guid	anno_id	type	begin_offset	end_offset	text	wiki_url	qid
+src_ann	src_ann_id	type	start	end	text	wiki_url	qid
 cpb-aacip-507-vm42r3pt6h-transcript.ann	T1	person	2	12	MR. LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
 cpb-aacip-507-vm42r3pt6h-transcript.ann	T2	organization	59	62	CIA	https://en.wikipedia.org/wiki/Central_Intelligence_Agency	https://www.wikidata.org/wiki/Q37230
 cpb-aacip-507-vm42r3pt6h-transcript.ann	T3	person	63	77	Director Gates	https://en.wikipedia.org/wiki/Robert_Gates	https://www.wikidata.org/wiki/Q212979
