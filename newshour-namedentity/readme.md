@@ -24,13 +24,11 @@ The namedentity project was the first annotation project annotated for GBH. It p
     * Other version control information - None
     
 ## Tool Installation: Brat
-
 [A dockerized Brat](https://github.com/cassj/brat-docker) is used with [shell script wrappers](https://github.com/clamsproject/aapb-annenv-brat) to run the tool and upload annotation outputs
 brat rapid annotation tool. See [the wrapper repository](https://github.com/clamsproject/aapb-annenv-brat) for details on how the tool is installed and run with source text input files. 
 
 ## Annotation Guidelines
-
-### What to annotate
+### What To Annotate
 
 These guidelines are based on the [OntoNotes guidelines](https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/AnotGuideEnNE.pdf), the [EuroParl Named Entity Annotation Guidelines](https://people.csail.mit.edu/andreeab/corpus/annotationGuidelines.pdf) and the [ELDA MAPA guidelines](http://portal.elda.org/media/filer_public/2022/05/10/mapa_annotation-guidelines-v6.pdf).
 
@@ -172,7 +170,7 @@ This could probably be discussed more, but the current tool has actually four se
 ### Preparation
 Prepare transcripts in `.txt` format that match the audio or other information in a video in a directory and use the directory to start ([start.sh](https://github.com/clamsproject/aapb-annenv-brat/blob/d481f78ec9aadf5d2f1521301b025a73d5823d26/start.sh)) the brat tool.
 
-### How to Annotate
+### How to Annotate It
 * **Named Entity Phrase Text** - Text that symbolizes the whole named entity. Labelling is done by highlighting words or phrases.  
 * **Category** - Which category of entity is this an example of. Right click to categorize the highlighted phrase. 
 Options include `person, organization, program_title, publication_title, product, location, & event`.  
@@ -211,17 +209,11 @@ T2	person 32 42	Jim Lehrer
 T3	program_title 51 59	NewsHour
 ```
 ### [`process.py`](process.py)
-Historically, the `process.py` used for this project simply copies the `.ann` files from the raw directory into new directories based on batches for the golds.
-This is done by requesting `.ann` as the format during the running of the `process.py`. 
-This script can also convert the `.ann` files to other formats and to create `.mmif`. 
-
-The other code files (`anntoconll.py`, `sentencesplit.py`, `ssplit.py`, `sspostproc.py`) in this repository were copied from [the brat source code](https://github.com/nlplab/brat/tree/master/tools) for conversion into other formats such as `.conll.tsv`. 
-
-Please see the docstring of [`process.py`](process.py) for further information. 
+The `process.py` used for this project simply copies the `.ann` files from the raw directory into new directories based on batches for the golds.
+_Previous versions of this script could also convert the `.ann` files to other formats and to create `.mmif`. 
+Previous version code files (`anntoconll.py`, `sentencesplit.py`, `ssplit.py`, `sspostproc.py`) were copied
+from [the brat source code](https://github.com/nlplab/brat/tree/master/tools) for conversion into other formats such as `.conll.tsv`._  
 
 ### `golds` data
-exact same `.ann` file again.  
-* Fields:  
-    * (See Above)
-* Example:  
-    * (See Above)
+Exact same `.ann` file again.  
+(See Above)

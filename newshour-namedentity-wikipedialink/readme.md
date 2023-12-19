@@ -27,11 +27,8 @@ Entity Link Annotator (Tool env)
 To install, see [this](https://github.com/clamsproject/aapb-annenv-entitylinking/blob/main/docs/install.md).  
 
 ## Annotation Guidelines
-
 ### Overview
-
-Named entity linking, also known as grounding. The idea is to provide a link from a named entity to some authority. The authority we now use is [Wikipedia](https://www.wikipedia.org/), but we may introduce others, for example the [Library of Congress Authorities](https://authorities.loc.gov/). The link is provided as a property on one of the annotation types above. The annotator should have the Wikipedia main page open and type in the named entity. If this resolves to a Wikipedia article which is about the same entity as mentioned in the text, then add the wikipedia link.
-
+Named entity linking, also known as grounding. The idea is to provide a link from a named entity to some authority. The authority we now use is [Wikipedia](https://www.wikipedia.org/), but we may introduce others, for example the [Library of Congress Authorities](https://authorities.loc.gov/). The link is provided as a property on one of the annotation types above. The annotator should have the Wikipedia main page open and type in the named entity. If this resolves to a Wikipedia article which is about the same entity as mentioned in the text, then add the wikipedia link.  
 Grounding is not always possible, but in a case like "Jim Lehrer was a news anchor for the PBS NewsHour on PBS" we can add a link to [https://en.wikipedia.org/wiki/Jim_Lehrer](https://en.wikipedia.org/wiki/Jim_Lehrer) for "Jim Lehrer".
 
 > [!Important]  
@@ -39,7 +36,7 @@ Grounding is not always possible, but in a case like "Jim Lehrer was a news anch
 > See the guidelines for that project for more information on what named entities are and how they were annotated. 
 
 ### Preparation
-Import brat outputs (`.ann` files) from the base NE annotation project into the above tool along with the set of source files (`.txt` files). 
+Import brat outputs (`.ann` files) from the base NER/namedentity annotation project into the above tool along with the set of source files (`.txt` files). 
 The `ann`-`txt` pairs must already have named entities annotated in brat.   
 The NEL annotation environment will start by creating `.tab` files for collecting the annotations with duplicate entities squashed into a number. 
 
@@ -47,8 +44,8 @@ The NEL annotation environment will start by creating `.tab` files for collectin
 The input to this annotation project was from the `newshour-namedentity` project in this repository. 
 It is assumed pre-processing for raw annotation does that. 
 Each file also squishes duplicate entities into one entry and writes how many times that entry appeared.
-The [base-ner.url](https://github.com/clamsproject/aapb-annotations/tree/b5de0d6b48ba9835c9bf6eaacbf46019dcc12203/newshour-namedentity/golds/aapb-collaboration-21
-) file seems to be the url where the transcriptions from the NAMED ENTITY project to be used for this project.   
+The [base-ner.url](https://github.com/clamsproject/aapb-annotations/tree/b5de0d6b48ba9835c9bf6eaacbf46019dcc12203/newshour-namedentity/golds/aapb-collaboration-21)
+file is the url to where the transcriptions from the NAMED ENTITY project are to be used for this project.   
 
 ### What to Annotate
 * `Wikipedia human-searchable link` - to the correct entity described in the videos. 
@@ -72,7 +69,6 @@ Since there's no way to give different links to annotations that have the same l
 * **Lack of Authoritative Mention/Article** - Not everything mentioned in broadcasts has a wikipedia article. 
 In those cases, search the web for other acceptable/wikipedia links, but when no such source exists, the annotator must simply move on.  
 ## Data Format and `process.py`
-
 ### `raw` data
 `.tab` file where each line is a new instance of a named entity. This seems to be a [tab](https://file.org/extension/tab) spaced text file.
 * Format:
@@ -105,21 +101,21 @@ For more details, read help message of `process.py` by running `python process.p
 ### `golds` data
 `.tsv` file named after the GUID of the transcript.
 * Fields:
-  - __guid__: The AAPB GUID of the annotated transcript. (_string_)
-  - __anno_id__: The text-bound annotation ID, in other words, the entry number. (_string_)
+  - __src_ann__: The AAPB GUID of the annotated transcript. (_string_)
+  - __src_ann_id__: The text-bound annotation ID, in other words, the index/entry number. (_string_) _This could be conformed into `index` in the future for fieldname convention._
   - __type__: The entity category-- person, location, event, organization, title (_string_)
-  - __begin_offset__: The character offset beginning the text span. (_int_)
-  - __end_offset__: The character offset ending the text span. (_int_)
+  - __start__: The character offset beginning the text span. (_int_)
+  - __end__: The character offset ending the text span. (_int_)
   - __text__: The entity. (_string_)
-  - __type__: The entity category. (_string_)
   - __wiki_url__: The Wikipedia URL grounding the entity. (_string_)
   - __qid__: The Wikidata URI linking the entity via Q identifier. (_string_)  
 * Example:
 ```
-guid	anno_id (tag)	type	begin_offset	end_offset	text	wiki_url	qid
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T1	person	2	12	JIM LEHRER	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T2	person	32	42	Jim Lehrer	https://en.wikipedia.org/wiki/Jim_Lehrer	https://www.wikidata.org/wiki/Q931148
-cpb-aacip-507-1v5bc3tf81-transcript.ann	T3	title	51	59	NewsHour	https://en.wikipedia.org/wiki/PBS_NewsHour	https://www.wikidata.org/wiki/Q7118447
+src_ann src_ann_id      type    start   end     text    wiki_url        qid
+cpb-aacip-507-1v5bc3tf81-transcript.ann T1      person  2       12      JIM LEHRER      https://en.wikipedia.org/wiki/Jim_Lehrer        https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann T2      person  32      42      Jim Lehrer      https://en.wikipedia.org/wiki/Jim_Lehrer        https://www.wikidata.org/wiki/Q931148
+cpb-aacip-507-1v5bc3tf81-transcript.ann T3      title   51      59      NewsHour        https://en.wikipedia.org/wiki/PBS_NewsHour      https://www.wikidata.org/wiki/Q7118447
+cpb-aacip-507-1v5bc3tf81-transcript.ann T4      event   84      121     Salt Lake City Olympics investigation   https://en.wikipedia.org/wiki/2002_Winter_Olympic_bid_scandal   https://www.wikidata.org/wiki/Q3081777
 ```
 
 ## Evaluation Information

@@ -1,8 +1,8 @@
 """Processing NER uploads.
 
 NER annotation for this project is done with Brat tool and the output format is 
-Brat standalone `ann` format. We will use thr ann format as the gold format as
-well. Thus processing these "raw" into golds files is simply just copying files.
+Brat standalone `.ann` format. We will use the `.ann` format as the gold format as
+well. Thus processing these "raws" into golds files is simply just copying files.
 """
 import pathlib
 import shutil

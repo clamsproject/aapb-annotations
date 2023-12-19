@@ -91,14 +91,13 @@ Finally, the whole name of the batch should use lowercase and `-`dashes.
 E.g. `aapb-collaboration-27-a.txt` and `aapb-collaboration-27-b.txt`
 
 
-## Field Naming Conventions for Gold Datasets
+## Fieldnaming Conventions for Gold Datasets
+This convention only applies to golds data, not raws.  
 * `GUID` (all caps) - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
 * `start`, `end` - For "anchor" columns annotating a time duration of a phenomenon (e.g., character offsets, time intervals, etc.) use `start`, `end` for the column names.
 * `entry` - this is also called index, or the tag number for how many annotations there are. e.g. The first piece of labelled data is "1".
 
-The tracking for conforming to this convention is [this issue](https://github.com/clamsproject/aapb-annotations/issues/56). 
-Updating for ISO time conformance, and field naming of `GUID`, `start`, `end`, and `entry`.
-
-#### Not Yet Standardized
+#### Not Yet Standardized Fieldnames
 * _`text` - it remains under discussion whether it is ideal to use a standardized column name for the text we are annotating with an entry label. 
 An issue could arise in that each project is seeking different kinds of texts and perhaps in different ways. This standardization could then be confusing._
+* _`index` - the index numbering of the examples. For instance, there could be three chyrons in one GUID detected; they would be labeled "1", "2", "3". This standardization has not been adopted yet._

@@ -1,5 +1,4 @@
 # NewsHour Transcript Sync
-
 ## Project Overview
 To annotate the start times/end times of a written text transcript of audible speech within videos.  
 In other words, providing the timestamps for speech recognition in closed captioning.  
@@ -127,7 +126,6 @@ The start and end times are converted from the original format (with commas as d
 Any newline characters in the content are replaced with spaces.  
 3. The extracted information is then written to the output .tsv file in a tab-separated format with headers for "index," "start," "end," and "content".
 
-
 ### `golds` data
 `.tsv` file  
 * Fields:
@@ -139,9 +137,9 @@ Any newline characters in the content are replaced with spaces.
 * Example:
 ```
 $ head -4 cpb-aacip-507-1v5bc3tf81.tsv
-index	starts	ends	content
+index	start	end	content
 1	00:02:05.570	00:02:08.570	Good evening. I'm Jim Lehrer. On the NewsHour tonight coverage
 2	00:02:08.580	00:02:12.390	of the Salt Lake City Olympics investigation, some perspective on
 3	00:02:12.400	00:02:16.540	this year of devastating storms and other natural disasters, a
 ```
-Note, the time format does conform to the ISO standard of hh:mm:ss.mmm.  
+_The golds data conforms to fieldname and time conventions._  
