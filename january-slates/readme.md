@@ -73,11 +73,8 @@ _(This is currently unvalidated.)_
 * **Valid Annotation: No Slate** - there are valid instances where a video does not have slate information shown within the actual video. Annotate as "no slate" in both Slate Start and Slate End.
 
 #### Notes about the `raws` data
-* **Raws Data Entry Errors** - There are errors in the raw format, notably, in `CLAMS_slate_annotation_metadata.csv` [line 203](https://github.com/clamsproject/aapb-annotations/blob/f884e10d0b9d4b1d68e294d83c6e838528d2c249/january-slates/230101-aapb-collaboration-7/CLAMS_slate_annotation_metadata.csv?plain=1#L203) "cpb-aacip-394-150gbd75", column(Writing Types F) is a typo "typeed" instead of "typed". 
-Further work should be done to check for other errors of this type. The `process.py` script should also be aware of these obvious errors, and fix and/or clean them up in the gold files.
-* **Raws time format** - Likely `hr:min:sc;fr` likely a semicolon followed by frame number (30 fps).
-* **Time format typos** - A typo seems to appear however in two cases of numbers like this: `CLAMS_slate_annotation_metadata.csv` line 77 Slate End "00:00:27;110,",
-`CLAMS_slate_annotation_metadata.csv` line 97 Slate Start "00:00:05;119,",
+* **Raws Data Entry Errors** - There a small typo in the raw data, in `CLAMS_slate_annotation_metadata.csv` line 203, there is a typo "typeed" instead of "typed" .
+* **Raws time format** - Likely `hr:min:sc;fr` likely a semicolon followed by frame number (30 fps), with some possible typos (line 77, Slate End "00:00:27;110,", line 97 Slate Start "00:00:05;119,").
 * **Time format change** - At around line203 is a note that `sammy started annotating here.`. 
 Shift of time format to only 3 numbers: "xx:xx:xx". This is confirmed as hh:mm:ss (no milliseconds!) since the AAPB viewer used did not offer sub-seconds precision.
 * **Time Precision** - Because of the time format change, it should be assumed that the numbers without frames is only precise down to the second.
@@ -119,7 +116,9 @@ This script takes the raw data and converts it into a more machine-ingestible fo
 1. removing the extra commas and spaces in the raw data,
 2. taking out the extra comma suffixes in the raw data,
 3. normalizing column names based on repository conventions,
-4. normalizing some values, possibly fixing typos, (see below)
+4. normalizing some values, possibly fixing typos
+    * normalizes `typeed` type equivalent to `typed`
+    * normalizes timestamps with semicolons, converting only the first two digits after the semicolon to milliseconds, assuming 30 fps.
 5. process.py and golds were updated on [23/12/14](https://github.com/clamsproject/aapb-annotations/pull/77) to follow golds field-naming conventions. 
 
 ### `golds` data

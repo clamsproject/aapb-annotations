@@ -43,7 +43,9 @@ def process_csv(input_directory, output_directory):
                         row_df[time_col] = 'NO'
                     elif ';' in v:
                         # standard format is 00:00:00.000, which is 12 characters
-                        row_df[time_col] = '.'.join(v.split(';')) + '0' * (12 - len(v))
+                        time, frnum = v.split(';')
+                        millisecs = int(frnum[:2]) / 30 * 1000
+                        row_df[time_col] = f'{time}.{millisecs:03.0f}'
                     elif ':' in v:
                         row_df[time_col] = f'{v}.000'
                 v = row_df['type'].values[0]
