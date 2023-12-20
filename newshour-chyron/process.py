@@ -1,29 +1,33 @@
-'''
+"""
 This script takes as input a directory containing VIA version 3 project files containing video annotations and
 generates a CSV file with the following columns: video_filename, start_time, end_time, text
 for each annotation in the project file.
-'''
-import argparse
-import json
+"""
 import csv
-import os
+import json
+import pathlib
+from collections import defaultdict as ddict
 
-if __name__ == '__main__':
-    # Parse the input arguments
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-i', '--input_path', type=str, required=True,
-                        help='Path to the directory containing the VIA project files')
-    parser.add_argument('-o', '--output_path', type=str, required=True, default='golds/',
-                        help='Path to the empty output CSV directory')
-    args = parser.parse_args()
 
+def timeformat(sec_dot_ms):
+    if isinstance(sec_dot_ms, str):
+        s, ms = map(int, sec_dot_ms.split('.'))
+    else:
+        s, ms = divmod(sec_dot_ms, 1)
+        s = int(s)
+        ms = int(ms*1000)
+    m, s = divmod(s, 60)
+    h, m = divmod(m, 60)
+    return f'{h:02d}:{m:02d}:{s:02d}.{ms:03d}'
+
+def process(raw_dir, golds_dir):
+    golds_dir.mkdir(exist_ok=True)
     # Loop through each file in the input directory and process it
     csv_data = []
-    for filename in os.listdir(args.input_path):
-        if filename.endswith('.json'):
+    for via_f in pathlib.Path(raw_dir).glob('*'):
+        if via_f.suffix == '.json':
             # Load the VIA project file
-            with open(os.path.join(args.input_path, filename), 'r') as f:
-                data = json.load(f)
+            data = json.load(open(via_f))
 
             # Loop through each annotation in the VIA project file, if it contains 2 z values, add it to a dictionary
             # with the key being the first z value and the value being the second z value
@@ -45,21 +49,28 @@ if __name__ == '__main__':
                     end_time = z_dict[start_time]
                     if end_time > z_value:
                         try:
-                            csv_data.append([video_filename, start_time, end_time, annotation_data['av']["text-boxes"]])
+                            csv_data.append([video_filename, timeformat(start_time), timeformat(end_time), annotation_data['av']["text-boxes"]])
                         except KeyError as e:
-                            print (e)
-                            print (annotation_data)
+                            print(e)
+                            print(annotation_data)
 
     # Write the CSV file, text value may contain new lines
-    seen_files = set()
+    guid_annotation_map = ddict(list)
     for row in csv_data:
-        docname = row[0]
-        docname = docname.replace('.mp4', '.csv')
-        file_path = os.path.join(args.output_path, docname)
-        with open(file_path, 'a+', encoding='utf8') as f:
+        guid = row[0].replace('.mp4', '')
+        guid_annotation_map[guid].append(row[1:])
+    for guid, annotations in guid_annotation_map.items():
+        annotations.sort()
+        outf_path = (pathlib.Path(golds_dir) / guid).with_suffix('.csv')
+        with open(outf_path, 'a+', encoding='utf8') as f:
             writer = csv.writer(f)
-            if docname not in seen_files:
-                writer.writerow(['start_time','end_time','text'])
-                seen_files.add(docname)
-            row[-1] = row[-1].replace('\n', '\\n')
-            writer.writerow(row[1:])
+            writer.writerow(['index', 'start', 'end', 'text'])
+            for i, annotation in enumerate(annotations, 1):
+                annotation[-1] = annotation[-1].replace('\n', '\\n')
+                writer.writerow([i] + annotation)
+                
+if __name__ == '__main__':
+    root_dir = pathlib.Path(__file__).parent
+    for batch_dir in root_dir.glob('*'):
+        if batch_dir.is_dir() and len(batch_dir.name) > 7 and batch_dir.name[6] == '-' and all([c.isdigit() for c in batch_dir.name[:6]]):
+            process(batch_dir, root_dir / 'golds')

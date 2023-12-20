@@ -63,12 +63,10 @@ Therefore, while the decision was followed above, it is possible that some data 
 
 #### Other Notes  
 
-* **Raw and Golds Time format** -
-This project was done before the decision to standardize to the ISO format. It was also done with an outside tool which outputted time as this format: 
-_Raw and Golds Time format: (sec.ten-thousandths of sec)_.  
-Thus, The time format in the golds is non-conforming. (Raws do not need to conform as its output from disparately-sourced tools.)  
+* **Raws Time format** -
+This project was done with an outside tool which outputted time as this format: `sec.ten-thousandths of sec`.
 
-* **Gold column headers not conforming** - The gold data column headers should be just `start` and `end` as according to conventions. This has yet to be changed. 
+_The golds data now conforms to fieldname and time conventions._  
 
 ## Data Format and `process.py`
 ### `raw` data
@@ -78,31 +76,24 @@ See [batch2 comments](https://github.com/clamsproject/aapb-annotations/issues/24
  
 ### [`process.py`](process.py)
 This script takes the raw data and converts it into a more usable format, by
-1. reorganizing the chyron results based on which video_filename/GUID they came from.
-2. removing the extra columns, leaving only start_time, end_time, text.
-```
-$ head -5 process.py 
-'''
-This script takes as input a directory containing VIA version 3 project files containing video annotations and
-generates a CSV file with the following columns: video_filename, start_time, end_time, text
-for each annotation in the project file.
-'''
-```
+1. reorganizing the chyron results into files based on video_filename/GUID.
+2. removing extra columns; leaving only start, end, text, then adding entry index, sorted by start time.
 
 ### `golds` data
-`.csv` file of which chyrons appear within one GUID/media. 
+`.csv` file of which chyrons appear within one GUID/media. Row are sorted by values of `start` column. 
 * Fields:
-    * `start_time` - renamed from z[0] or z[1]. Whichever was earlier. 
-    * `end_time` - renamed from z[0] or z[1]. Whichever was later. 
+    * `index` - 1-indexed integer number for each chyron instances
+    * `start` - renamed from z[0] or z[1]. Whichever was earlier. 
+    * `end` - renamed from z[0] or z[1]. Whichever was later. 
     * `text` - from "text-boxes", what text was the chyron saying.
-_Note: Again as above, the fields here should be changed to `start` and `end`( and `text` remains the same)._ 
 
 * Example:
 ```
-start_time  end_time    text  
-1162.43976  1168.06476  MATHILDE KRIM, PhD.\nAIDS Medical Foundation  
-275.7771    279.7771    JOHN BLOCK\nSecretary of Agriculture  
-923.5271    927.5271    "ROBERT"  
+index,start,end,text
+1,00:04:35.777,00:04:39.777,JOHN BLOCK\nSecretary of Agriculture
+2,00:05:56.777,00:05:59.527,REP. THOMAS P. O'NEILL\nSpeaker of the House
+3,00:08:36.527,00:08:40.527,RITA LAVELLE\nFormer E.P.A. Official
+4,00:12:35.527,00:12:40.027,WALTER WARD\nN.Y.C. Councilman
+5,00:13:05.777,00:13:11.027,MAYOR ED KOCH
+...
 ```
-
-
