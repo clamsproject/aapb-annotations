@@ -1,5 +1,5 @@
 # full metadata is available at https://docs.google.com/spreadsheets/d/1C1s7tJErZL3mEME78oTjaRxhWjD2Ke9pIIKFQcSyM8E/edit#gid=0 and for information on selection please visit: https://github.com/clamsproject/aapb-collaboration/issues/27
-# This batch contains varied handpicked videos for scene recognition with variability in the slates/chyrons/credits. this batch is the sparsely-labelled one used in SR.
+# This batch contains varied handpicked videos for scene recognition with variability in the slates/chyrons/credits. This batch-27-c was used as another densely-labelled set in SR, similar to batch-27-a, also dense.
 # This batch has 20 items.
 cpb-aacip-0d338c39a45
 cpb-aacip-0acac5e9db7
