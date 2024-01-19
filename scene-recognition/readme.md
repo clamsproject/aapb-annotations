@@ -25,18 +25,17 @@ Conceptually, the annotation project simply annotates stills found at recurring 
     * Version - unknown
     * Tool documentation - (see below tool installation)
 * Project Changes
-    * Number of batches - 2 
-        * Batch information: There are two batches used for training and evaluation split during the first iteration: Scenes With Text. [`27-a`](231002-aapb-collaboration-27-a) was densely-seen/labeled (20 GUIDs), while [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). 
-        * The split is done at the video/image-set level to avoid adding similar images from one video in training into evaluation also. 
+    * Number of batches - 3
+        * Batch information: There are three batches annotated in two ways. [`27-a`](231002-aapb-collaboration-27-a) and [`27-c`](231204-aapb-collaboration-27-c) were densely-seen/labeled (40 GUIDs), while [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). See below for more information on the differences between "dense" and "sparse" ways of annotating.
     * Other version control information - none
 
 ## Tool Installation: Keystroke Labeler
-We use [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler), an annotation tool that is developed in collaboration with GBH by Owen King for this project.  
-Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [here](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md).  
+We use [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler), an annotation tool that is developed in GBH for this project.  
+Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [in its repository](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md).  
 Please refer to the tool source code repository for instructions for installation and usage.  
 
 ### Tool Access
-Currently CLAMS annotators are accessing the tool via web app instances deployed on servers that CLAMS team manages. Each instance is one GUID/video on its own, and once annotation is done for a video, annotators must _export_ the annotation data into csv or json file and upload to a shared cloud storage space (google drive). This is because the tool doesn't support save-on-server, and during the export process annotators must rename the file name to match the video GUID. 
+Currently, annotators are accessing the tool via web app instances locally on their personal devices or deployed on servers that Brandeis team manages. When deployed to remote servers, each instance is one GUID/video on its own, and once annotation is done for a video, annotators must _export_ the annotation data into csv or json file and upload to a shared cloud storage space (google drive). This is because the tool doesn't support save-on-server, and during the export process annotators must rename the file name to match the video GUID. 
 
 ## Annotation Guidelines
 > [!Important]  
@@ -67,8 +66,8 @@ Other non-data-field terminology/hyper-definitions:
 - "jump factor" - Not to be confused with the already sampled rate of the image set from the video. Now that the image set is loaded, you can skip through the images by using the jump factor to increase the size of step.  
 - "mode" - Mode of the tool.
 - "sample rate" - This is a parameter that is used before the annotation tool is ready to use. It refers to how the image set is extracted from the video; at what sampling rate. 
-- "seen-density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `27-a`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. 
-Conversely, `27-b` is sparsely-seen, which means that only some images from the image set are annotated/labeled/seen. The rest are "held out" from use in training, as they have no label whatsoever. 
+- "annotation density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `27-a` & `27-c`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. 
+Conversely, `27-b` is sparsely-seen, which means that only some images from the image set are annotated/labeled/seen. The rest are essentially providing no manual annotation (and thus are "held out" from being used in training our in-house SR model).
 
 The most important types to annotate are highlighted in (green) on the `types of frames` above. These should be clearly delineated from each other in the guideline. 
 The subtypes of slates (blue) is also important to annotate.  
