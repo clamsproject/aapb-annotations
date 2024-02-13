@@ -1,74 +1,66 @@
 # Role Filler Binding
 
 ## Project Overview
-### What is Role Filler Binding? 
-[Explanation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8019313/#:~:text=These%20structures%20can,understand%20new%20situations.).  
-[Explanation 2](https://arxiv.org/pdf/1902.09006.pdf).  
-Given a frame of context (such as looking for personnel metadata in videos), linguistics theorizes we do role filler binding, which is when we look to fill categories/roles with more specific Proper Nouns based on the situation.  
-e.g. "Director: James Cameron" where "Director" is the role, "James Cameron" is the filler. Binding refers to connecting these two things. 
+### What is Role Filler Binding?  
+[Explanation](https://arxiv.org/pdf/1902.09006.pdf).  
+Given a frame/schema of context (such as looking for video production metadata in videos), the role-filler binding concept (RFB) is when we look to fill categories/roles with new specific fillers/proper-nouns based on the situation. 
+In doing so, we use the expected similarities of a situation to understand a new but similar situation. 
+e.g. Our minds have a schema of expected information we would learn from watching a video. We watch a new video, with the goal of understanding the new video in a similar way.  
+"Director: James Cameron" where "Director" is a role, "James Cameron" is a filler. Binding refers to connecting these two things. 
 
-Provide an annotated dataset of the textual information shown in videos, mostly preferring information related to credits shown usually 
-at the start or at the end of the program. Still frames/images are detected by another tool
-where OCR (Optical Character Recognition) results upstream can detect and transcribe text from that still image.  
-The OCR results often detect text boxes without regard for how a human would read/parse it.   
-This annotation project then provides the top-bottom-left-right reading order, other chunk structuring, and corrects OCR spelling.
+Provide an annotated dataset of the textual information shown in videos, starting from an inputted set of frames from a video, outputting a dataset of structurally-paired text of expected rf-pairs. 
 
-> This endeavor allows the CLAMS project to return structured, ordered OCR text from pixel data!  
-> This information could be used to improve the metadata by which projects are archived by.   
+Videos are converted to sets of still images. 
+OCR (Optical Character Recognition) and RO (Reading Order apps) transcribes/annotates text from each image into a simple, barely-ordered string.
+This annotation project then provides the top-bottom-left-right reading order, and chunk structuring guidance for structured key information extraction from videos.
+The RFB annotation dataset provides the ground truth labels for how humans would read a video image and structure the text information that is presented. 
+
+> This endeavor allows the CLAMS project to return structured, ordered OCR text from pixel data!   
 
 ### Specs
 * Annotation project name - `role-filler-binding`
 * Annotator Demographics
-    * Number of annotators - 3
+    * Number of annotators - 3 (1 currently uploaded as raws, College Student)
     * Occupational description - College Student, Data Professional
     * Age range - 20s
     * Education - College and Computational Linguistics MSc
 * Annotation Environment information
-    * Name - annenv-creditparsing, created by: Sam Newman and Keigh Rim
+    * Name - [annenv-rfbparsing](https://github.com/clamsproject/aapb-annenv-role-filler-binder)  (a.k.a creditparsing)  
     * Version - unknown
     * Tool Documentation - (see below tool installation)
 * Project changes
-    * Number of Batches - _TODO: confirm_. There are likely multiple batches to avoid contamination of training data into evaluation data. 
-        * One batch can be found [here](aapb-annenv-role-filler-binder-11.txt).
+    * Number of Batches - (1 uploaded). 
+        * "Round2" - Raws are from the [aapb-annotations-44.txt](batches/aapb-annotations-44.txt). These are un-adjudicated raws annotated by annotator20007. The scope of this round was solely "credits" scenes. 
+        * "Round1" - a practice batch can be found [here](batches/aapb-annenv-role-filler-binder-11.txt). The raws from this batch are not uploaded and were used to develop the annotation tool and guidelines. 
     * Other Version Control Information - Previous versions of the guidelines can be found at the end of the `guidelines.ppt`.
         * The first run of this project will focus on textual frames and credits for video production rf-pairs, while later runs may focus on other images such as identifying chyrons.  
 
-## Tool Installation: annenv-creditparsing
+## Tool Installation: annenv-rfbparsing
 Annotation Tool is developed in-house specifically for this workflow.  
-[The Credit Parsing Project](https://github.com/clamsproject/aapb-annenv-creditparsing) including other information later.  
-[An Example Instance](http://shannon.cs-i.brandeis.edu:20001/)  
-The above example instance is only a demo instance of the tool.  
-
-The tool must be accessed via log in through Brandeis VPN called [Ivanti](https://www.brandeis.edu/its/services/network-connectivity/vpn.html).
-This requires a Brandeis account. 
+[The Credit Parsing Project](https://github.com/clamsproject/aapb-annenv-creditparsing) including other information later.
 
 ## Annotation Guidelines
 > [!Important]  
-> The following section in this readme is simply an overview or repeat of what is said in the [`guidelines.ppt`](https://docs.google.com/presentation/d/1vjCeJFLF62PxYs8MJnmR4ipHZ_Q241l5It6PpCRsxHs/edit#slide=id.g1e6db24b1c6_0_0). 
-> The above `.ppt` document and link will be the final say on how to annotate this project, in case discrepancies occur in the updating of the two documents.
+> The following section in this readme is simply an overview or repeat of what is said in the [`current guidelines link`](https://docs.google.com/document/d/1Kxa99JMfDuy-y2xFqmgPkuLnLqEGhNB8iMxBT3E1Tx4/edit?usp=sharing). 
+> The most updated guideline will be linked here. 
+> Access to this link must be approved due to IP/copyright issues. 
+> The above live link document will be the final say on how to annotate this project, in case discrepancies occur in the updating between this read and the above live link.
 
-_TODO: Add the `guidelines.ppt` as a file to the project folder when it stabilizes._
 ### Preparation
 INPUT - Still images with OCR-able text are loaded into the annotation tool.  
 
-
-This tool requires a mouse and keyboard. 
-You may wish to zoom your screen out to be able to see most of the "Add Annotation buttons"  
 ### What to Annotate
-The goal is to capture metadata information from the video that is in the role-filler pair format from its credits, slates and titles. 
-This generally means from these three categories: Production Roles, Video Subjects, and Video Archival Metadata. 
+The goal is to capture metadata information from the video that is in the role-filler pair format from suspected images with text. 
+This generally means from these three categories: Production Roles, Thematic Content Roles, and Video Archival Metadata. 
 1. Production Roles - personnel roles for the production of the video, (e.g. "Videographer", "Producer", "Payroll", "Director")
-2. Video Subjects - also roles, but usually within context of the video's subject. 
-This often can be a guest speaker or topic of the video.
+2. Thematic Content Roles - roles of people/information based on the video's subject and content. 
+This often can be a guest speaker or topic of the video. It can also include Named Entities related to the video content. 
    (E.g. "US President: George H. W. Bush", "Author: LIU Cixin", "Whistleblower: Shelley Smith")
+   (E.g. "(implied date role):Dec 7, 1941" <- this date is informative about the subject of a Pearl Harbor video)  
 3. Video Archival Metadata - this is a blanket category for other metadata useful for archival purposes.
    (E.g. "Show Title: Sesame Street", Series Title: "New York NOW", "Copyright 1984 Walt Disney Corporation")
 
-As role-filler/rf pairs, this project is looking to recognize:  
-1. Personnel/organization roles in the video (e.g. "Videographer", "Special thanks") usually as Role
-2. Person/organizations including corresponding information (e.g. "Michael Scott", "Michael Scott Foundation Durham, NC") usually as Filler 
-3. Video/Media/Program metadata (e.g. "show title") usually as Role
-4. The value of that information (e.g. "Sesame Street") usually as Filler
+For a more comprehensive guide on expected rf-pairs, please see the guideline. 
 
 
 ### How to Annotate It
@@ -87,23 +79,32 @@ Since this is not time based, generally, the errors will be typos. Else, it will
 
 #### Data Quality Efforts 
 The planned execution is as follows.  
-Annotation team will confer in a meeting together what all the annotations should be. Then, Annotation Manager, one Annotator and two Developers will all annotate the same sample set. The resulting json raws will be compared to see how much variation lies between them.
+Annotation team confers together on what the guidelines should be. 
+Then, different members will all annotate the same sample set. The resulting raws will be compared to see how much variation lies between them.
 
 * **Inter-Annotation Agreement** - Because this task is closer to a "parsing" type of project than a simple classification, the complexity scope is much higher than classification projects. 
 To quantify the variation between how trained annotators would annotate the same material, a small subset was used to test the differences between in-house annotators and 
 to test whether the guidelines along with training sufficiently conveyed the same requested information. 
-This will be used to determine what level of annotation cross check is required - single annotation no check, single annotation adjudicated, double annotation, etc. 
-An ongoing effort to automatically calculate differences per frame and per character will be (TODO:link here).  
+This will be used to determine what level of annotation cross-check is required - single annotation no check, single annotation adjudicated, double annotation, etc. 
+A visualizer for the RFB annotations and for understanding inter-annotator agreement is [here](https://github.com/clamsproject/RFB_annotation_visualizer).   
+Inter-annotation agreement calculation and "evaluation" is [here](https://github.com/clamsproject/aapb-annenv-role-filler-binder/tree/iaa_calculation).
 
-_TODO: Add the number of differences over the number of frames, along with other metrics._
+#### Current Numbers for Round 2
+Total images: 3700
+Non-skip images from annotator20007: 367
+Non-skip images from annotator20008: 236
+Non-skip images intersection across both annotators: 171
+
 
 ## Data format and `process.py`
 ### `raw` data
-`.json` file of the annotation role-filler pairs of that frame or a set of frames.  
-* Fields (possibly referring back to the "what to annotate" section above)
+`.json` file of the annotation role-filler pairs of that frame.  
+* Fields 
+    * (Fields listed here do not have field-names explicitly named. The square brackets denote the structure.)
     * `role` - What the Role is, sometimes is blank, usually has 0-1 texts. 
     * `filler` - What the Filler is, sometimes blank, sometimes has multiple texts, 0+ texts. 
     * `frame annotation` - Overarching annotation of what the frame is, eg. "duplicate", or "skip" with reasons. (See `guidelines.ppt` for reasons.)
+    * (each set of roles and fillers are keyed by the frame number in the video)
 * Example:
     ```
     [
