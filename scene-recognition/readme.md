@@ -31,8 +31,10 @@ Conceptually, the annotation project simply annotates stills found at recurring 
 
 ## Tool Installation: Keystroke Labeler
 We use [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler), an annotation tool that is developed in GBH for this project.  
-Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [in its repository](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md).  
+Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [in its repository](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/docs/labeler_data_structure.md).  
 Please refer to the tool source code repository for instructions for installation and usage.  
+
+![Keystroke Labeler screenshot](keystrokelabeler.png)
 
 ### Tool Access
 Currently, annotators are accessing the tool via web app instances locally on their personal devices or deployed on servers that Brandeis team manages. When deployed to remote servers, each instance is one GUID/video on its own, and once annotation is done for a video, annotators must _export_ the annotation data into csv or json file and upload to a shared cloud storage space (google drive). This is because the tool doesn't support save-on-server, and during the export process annotators must rename the file name to match the video GUID. 
