@@ -31,7 +31,7 @@ Conceptually, the annotation project simply annotates stills found at recurring 
 
 ## Tool Installation: Keystroke Labeler
 We use [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler), an annotation tool that is developed in GBH for this project.  
-Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [in its repository](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md).  
+Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [in its repository](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/docs/labeler_data_structure.md).  
 Please refer to the tool source code repository for instructions for installation and usage.  
 
 ### Tool Access
