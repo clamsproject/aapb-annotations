@@ -33,9 +33,9 @@ def process_csv(input_directory, output_directory):
                     df[col] = df[col].str.strip().str.replace(r'\s+', ' ')
             for _, row in df.iterrows():
                 guid = row['GUID']
-                tsv_filename = f"{guid}.tsv"
-                tsv_filepath = os.path.join(output_directory, tsv_filename)
-                os.makedirs(os.path.dirname(tsv_filepath), exist_ok=True)
+                csv_filename = f"{guid}.csv"
+                csv_filepath = os.path.join(output_directory, csv_filename)
+                os.makedirs(os.path.dirname(csv_filepath), exist_ok=True)
                 row_df = pd.DataFrame([row[desired_columns]])
                 for time_col in ['start', 'end']:
                     v = row_df[time_col].values[0]
@@ -71,7 +71,7 @@ def process_csv(input_directory, output_directory):
                 else:
                     raise ValueError(f"Unknown type: {v}")
                 if row_df['start'].values[0]:
-                    row_df.to_csv(tsv_filepath, index=False, sep='\t')
+                    row_df.to_csv(csv_filepath, index=False, sep=',')
 
 
 if __name__ == '__main__':
