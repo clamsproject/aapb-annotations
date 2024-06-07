@@ -1,10 +1,9 @@
 # process script to copy raw csv into new golds directory
 # iterate through each raw directory (use yy-mm-dd pattern to find directories)
 # copy each csv file to golds directory
-# e.g for subdirectory(matches date format) in this workspace:
-#       for csv file in subdirectory:
-#           add file to scene-recognition/golds
 
+
+from pathlib import Path
 import os
 import re
 import shutil
@@ -39,21 +38,19 @@ def truncate_convert_ISO(value):
     return timestamp
 
 
-path = os.getcwd()
-folder = os.fsencode(path)
-goldpath = path + '\\golds'
+folder = Path.cwd()
+goldpath = folder / 'golds'
 # iterate through files in scene-recognition
 # if a directory starts w/ yy-mm-dd pattern, copy contents to the golds directory
-for directory in os.listdir(folder):
-    dirname = str(os.fsdecode(directory))
-    if re.match("[0-9]{2}[0-1][0-9][0-3][0-9]", dirname):
+for directory in folder.glob('*'):
+    if directory.is_dir() and re.match("[0-9]{2}[0-1][0-9][0-3][0-9]", directory.name):
         # copy contents by iterating
-        for file in os.listdir(directory):
-            source = os.path.join(directory, file)
-            destination = os.path.join(os.fsencode(goldpath), file)
+        for file in directory.glob('*'):
+            source = file
+            destination = goldpath / file.name
             shutil.copy2(source, destination)
             # read in as dataframe to more easily manipulate columns
-            df = pd.read_csv(os.fsdecode(destination))
+            df = pd.read_csv(destination)
             # create new timestamp column and fill with values
             df.insert(1, 'timestamp', "")
             df['timestamp'] = df['filename'].apply(truncate_convert_ISO)
@@ -64,4 +61,4 @@ for directory in os.listdir(folder):
             # remove first column (filename)
             df = df.drop('filename', axis=1)
             # output to csv with same filename
-            df.to_csv(os.fsdecode(destination), index=False)
+            df.to_csv(destination, index=False)
