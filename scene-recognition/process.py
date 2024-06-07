@@ -4,28 +4,30 @@
 
 
 from pathlib import Path
-import os
+import numpy as np
 import re
 import shutil
 import pandas as pd
 
-def truncate_total(value):
+def truncate(value, is_total = False):
     """
     This method takes in strings of filenames from the original format (filename column)
-    and truncates to just the total_ms value.
+    and truncates to either the total_ms value or the timestamp value based on boolean is_total
     """
-    truncated = value.split("_")[-2]
+    if is_total:
+        truncated = value.split("_")[-2]
+    else:
+        # get last portion of value, delimited by underscores
+        truncated = value.split("_")[-1]
+        # remove file extension
+        truncated = truncated[:-4]
     return truncated
-def truncate_convert_ISO(value):
+def convert_ISO(value, is_total):
     """
-    This method takes in strings of filenames from the original format (filename column)
-    and truncates it to just the millisecond value, and then converts the milliseconds to
+    This method takes in a string of milliseconds and then converts the milliseconds to
     ISO standard timestamps.
     """
-    # get last portion of value, delimited by underscores
-    truncated = value.split("_")[-1]
-    # remove file extension
-    truncated = truncated[:-4]
+    truncated = truncate(value, is_total)
     ms = int(truncated)
     # 3600000 milliseconds per hour, 60000 milliseconds per minute, 1000 miliseconds per second
     hours = ms // 3600000
@@ -53,12 +55,20 @@ for directory in folder.glob('*'):
             df = pd.read_csv(destination)
             # create new timestamp column and fill with values
             df.insert(1, 'timestamp', "")
-            df['timestamp'] = df['filename'].apply(truncate_convert_ISO)
+            df['timestamp'] = df['filename'].apply(convert_ISO, is_total=False)
             # add total column (total_ms, second to last set of numbers in filename)
-            df.insert(2, 'total', df['filename'].apply(truncate_total))
+            df.insert(2, 'total', df['filename'].apply(convert_ISO, is_total=True))
             # remove unseen
             df = df[(df.seen != "false") & (df.seen != "False")]
+            # remove seen column
+            df = df.drop('seen', axis=1)
+            # any that are left have been seen. therefore, any rows with label = "" are negative
+            # so their labels should be changed to "-"
+            df['type label'] = np.where(df['type label'] == "", "-", df['type label'])
             # remove first column (filename)
             df = df.drop('filename', axis=1)
+            # remove transcript and note columns
+            df = df.drop('transcript', axis=1)
+            df = df.drop('note', axis=1)
             # output to csv with same filename
             df.to_csv(destination, index=False)
