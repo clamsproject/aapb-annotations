@@ -64,7 +64,7 @@ for directory in folder.glob('*'):
             df = df.drop('seen', axis=1)
             # any that are left have been seen. therefore, any rows with label = "" are negative
             # so their labels should be changed to "-"
-            df['type label'] = np.where(df['type label'] == "", "-", df['type label'])
+            df.loc[df['type label'].isna(), 'type label'] = '-'
             # remove first column (filename)
             df = df.drop('filename', axis=1)
             # remove transcript and note columns
