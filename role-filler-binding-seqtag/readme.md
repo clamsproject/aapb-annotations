@@ -19,9 +19,9 @@ the RFB model. All annotations were inspected and adjudicated by human annotator
     * Number of batches - 1
     * Other version control information - None
 
-## Tool Installation: Name of Tool
-(link for source code, if applicable)  
-(link for documentation, if applicable)  
+## Tool Installation
+
+The code and instructions for using the Streamlit annotation environments can be found in the [`aapb-annenv-role-filler-binder`](https://github.com/clamsproject/aapb-annenv-role-filler-binder) repository, under the directory `llm-silver-anno`.
   
 ## Annotation Guidelines
 Due to the ad hoc nature of the project, formal annotation guidelines were not prepared in advance. 
