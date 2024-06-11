@@ -76,7 +76,7 @@ Claude 3 Haiku by Anthropic was used to generate labels for each OCR token seque
 For each token, the model was instructed to append a BIO tag (with "R" for Role; "F" for Filler), and an index to bind each filler to its corresponding role.
 Labels were appended to tokens using an arbitrary `@` delimiter, resulting in a format that looks like `token@tag:index`.
 Two versions of a prompt were written for the Haiku model (one for annotating credits, the other for chyrons). The prompt templates
-used are available [here]().
+used are available [here](prompt_templates.txt).
 
 ### What to Annotate
 
