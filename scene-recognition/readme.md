@@ -143,16 +143,26 @@ $ head -5 cpb-aacip-08fb0e1f287.csv
 ```
 
 ### [`process.py`](process.py)
-_TODO: This does not exist yet and the gold format has not been determined._  
+This processing script cleans up the raw data files by performing the following:
+1. Adding (ISO-converted) 'timestamp' and 'total' columns. Data was contained in 'filename' column.
+2. Unseen files are dropped (i.e rows with 'seen'=False).
+3. Empty tags on seen files replaced with "-"
+4. Adding each csv into _golds_ directory, removing intermediate batch directories
+5. Removing unnecessary/redundant columns
 
 ### `golds` data
-_TODO: This does not exist yet and the gold format has not been determined._  
-`.format` file - tba.  
+`.csv` file in which each row is a frame timestamped and with relevant labels.
 * Fields:
-    * `field-text1` - tba
-    * `field-text2` - tba
+    * `timestamp` - string representing ISO timestamp of frame
+    * `total` - string representing total duration of frames in file, ISO format
+    * `type label` - string representing type label
+    * `subtype label` - string representing subtype label, if applicable
+    * `modifier` - boolean representing presence of modifier, default False
     * all other columns from the raw data are removed
 * Example:
 ```
-example here. 
+timestamp,total,type label,subtype label,modifier
+00:00:00.000,00:32:46.664,B,,False
+00:00:02.001,00:32:46.664,B,,False
+00:00:04.003,00:32:46.664,B,,False
 ```
