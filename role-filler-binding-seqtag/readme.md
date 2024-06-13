@@ -21,14 +21,14 @@ the RFB model. All annotations were inspected and adjudicated by human annotator
 
 ## Tool Installation
 
-The code and instructions for using the Streamlit annotation environments can be found in the [`aapb-annenv-role-filler-binder`](https://github.com/clamsproject/aapb-annenv-role-filler-binder) repository, under the directory `llm-silver-anno`.
+The code and instructions for using the Streamlit annotation environments can be found in the [`aapb-annenv-role-filler-binder`](https://github.com/clamsproject/aapb-annenv-role-filler-binder) repository, under the directory [`llm-silver-anno`](https://github.com/clamsproject/aapb-annenv-role-filler-binder/tree/4e6c254a9f2acbc292ad5b0c08413c61e04183fd/llm-silver-anno).
   
 ## Annotation Guidelines
 Due to the ad hoc nature of the project, formal annotation guidelines were not prepared in advance. 
 
 Three custom annotation environments were created using Streamlit for different phases of the task.
 
-### Phase One
+### Phase One ([tool](https://github.com/clamsproject/aapb-annenv-role-filler-binder/blob/4e6c254a9f2acbc292ad5b0c08413c61e04183fd/llm-silver-anno/review_ocr.py))
 The first environment consisted of an interface displaying:
 * a still frame from a video displaying text
 * the docTR OCR results from that image
@@ -41,14 +41,14 @@ scene label, (iv) Delete the instance from the corpus. The third option was chos
 but the OCR was too poor to analyze, while the fourth option was chosen in cases where the image did not actually
 contain credits or a chyron.
 
-### Phase Two
+### Phase Two (tool same as above)
 
 The second environment was created for human adjudication, and the goal of this task was to resolve disagreements between the two annotators during the first phase. 
 The environment once again displayed the images and OCR results for each item in the corpus, but this time it also displayed the initial choice made by each annotator on either side of the image
 (one on the left, and one on the right). Adjudication was conducted jointly by both annotators, who discussed 
 each image and decided to either "Keep Left" or "Keep Right" (the initial choice made on the left or right).
 
-### Phase Three
+### Phase Three ([Tool](https://github.com/clamsproject/aapb-annenv-role-filler-binder/blob/4e6c254a9f2acbc292ad5b0c08413c61e04183fd/llm-silver-anno/llm_adjudicator.py))
 
 The third environment, called "Claude Adjudicator," consisted of:
 * the video frame
@@ -104,7 +104,7 @@ Button press, or by using specified key-binds mapped to the buttons.
 ## Data Format and `process.py`
 
 ### `raw` data
-`.CSV` file - explanation.
+`annotations.csv` file - explanation.
 * Fields:
     * `guid` - Identifier for the video
     * `timePoint` - The time point in the video where the text was captured.
@@ -118,16 +118,10 @@ Button press, or by using specified key-binds mapped to the buttons.
 | cpb-aacip-507-154dn40c26 | 3218218   | chyron      | DEBBE HALL Farmer                    | DEBBE@BF:1 HALL@IF:1 Farmer@BR:1                                   |
 | cpb-aacip-526-dj58c9s78v | 3471471   | credits     | DIRECTED BY Barry Stoner Fred Wessel | DIRECTED@BR:1 BY@IR:1 Barry@BF:1 Stoner@IF:1 Fred@BF:1 Wessel@IF:1 |
 
-### [`process.py`](process.py)
-Converts the data set annotated by the Claude 3 Haiku LLM into a format ready for training the BERT model to perform token classification. To prepare the model inputs, 
-the script prepends the corresponding scene label to each ocr text sequence before splitting the sequence into a list of tokens.
-To prepare the labels, for each ocr text sequence annotated by Haiku (format: `token@tag:index`), all the tags are
-extracted and compiled into a list the same length as the token sequence. The end result is a dataframe consisting of just the text tokens
-and their corresponding tags. Finally, this dataframe is shuffled and partitioned into train, validation, and test splits
-(8:1:1 ratio) in JSON format.
+This file is consumed by the RFB app's training pipeline (after loaded by [this script](https://github.com/clamsproject/app-role-filler-binder-new/blob/8038c37a1b34da9a3b59b8a19191d20062308b09/utils/prepare_data.py)). 
 
-### `golds` data
-N/A -- This annotation project was not prepared on a media-file basis. Rather, since our annotation effort resulted in a
+### `golds` data and `process.py`
+None -- This annotation project was not prepared on a media-file basis. Rather, since our annotation effort resulted in a
 CSV containing one row per OCR result (and consequently, multiple rows per GUID), these items were shuffled randomly, irrespective of the GUID,
 before being split into partitions for training and evaluating the model. Generating a separate CSV for each GUID would 
 result in a format that does not replicate the procedure used for training the model.
