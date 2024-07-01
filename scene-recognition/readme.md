@@ -8,7 +8,7 @@
 This project is an attempt at developing a dataset for a new CLAMS app that detects "frames of interest" or "scene recognition" in general as an update to the previous efforts of seeking different frames out separately. 
 "Frames of Interest" tend to be frames from a video that contain information (primarily in some overlaying textual forms) on screen that is useful for archiving purposes. This can include slates, chyrons, credits, images of people or other visual objects. 
 
-From the annotation side, the project is done by sampling videos at a certain rate (e.g. currently 1 frame every 2 seconds) to create a diverse set of frames as a collection of stills (going forward called "image sets"). 
+From the annotation side, the project is done by sampling videos at a certain rate (e.g., 1 frame every 2 seconds) to create a diverse set of frames as a collection of stills (going forward called "image sets"). 
 The frames are then annotated for if they fit one of the interest categories or not. 
 
 Conceptually, the annotation project simply annotates stills found at recurring intervals (but arbitrarily chosen) that do not themselves describe the start and end times of a _scene_. Additional post-processing by software can stitch together these still level annotations into time interval annotations, but manually annotating time intervals is not under scope of the project. 
@@ -25,8 +25,11 @@ Conceptually, the annotation project simply annotates stills found at recurring 
     * Version - unknown
     * Tool documentation - (see below tool installation)
 * Project Changes
-    * Number of batches - 3
-        * Batch information: There are three batches annotated in two ways. [`27-a`](231002-aapb-collaboration-27-a) and [`27-c`](231204-aapb-collaboration-27-c) were densely-seen/labeled (40 GUIDs), while [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). See below for more information on the differences between "dense" and "sparse" ways of annotating.
+    * Number of batches - 4 batches annotated in three ways. 
+        * [`27-d`](240117-aapb-collaboration-27-d) was labeled at "maximum" density (1 GUID), 
+        * [`27-a`](231002-aapb-collaboration-27-a) and [`27-c`](231204-aapb-collaboration-27-c) were densely-seen/labeled (40 GUIDs), 
+        * [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). 
+        * See below [guidelines](#what-to-annotate) for more information on the differences between "max", "dense" and "sparse" ways of annotating.
     * Other version control information - none
 
 ## Tool Installation: Keystroke Labeler
@@ -68,7 +71,7 @@ Other non-data-field terminology/hyper-definitions:
 - "jump factor" - Not to be confused with the already sampled rate of the image set from the video. Now that the image set is loaded, you can skip through the images by using the jump factor to increase the size of step.  
 - "mode" - Mode of the tool.
 - "sample rate" - This is a parameter that is used before the annotation tool is ready to use. It refers to how the image set is extracted from the video; at what sampling rate. 
-- "annotation density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `27-a` & `27-c`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. 
+- "annotation density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `27-a` & `27-c`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. The "max" density (`27-d`) is done in the densely-seen way, but the entire still frames from the video are annotated, while other batches, frames are samepled at every 2 seconds.
 Conversely, `27-b` is sparsely-seen, which means that only some images from the image set are annotated/labeled/seen. The rest are essentially providing no manual annotation (and thus are "held out" from being used in training our in-house SR model).
 
 The most important types to annotate are highlighted in (green) on the `types of frames` above. These should be clearly delineated from each other in the guideline. 

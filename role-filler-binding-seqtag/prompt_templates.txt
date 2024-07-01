@@ -1,0 +1,43 @@
+INSTRUCTIONS: Your job is to match roles and fillers (names) in the following OCR text, which represents a screenshot taken from a public broadcast video. The frame type is CHYRON, meaning the names will typically -- but not always -- appear before their role. Also, typically -- but not always -- there will only be a single name, though it may be attached to multiple roles. Do NOT correct any misspellings. There may be text in the input that is not explicitly matched with a role or name; in those cases, tag them with O. 
+    There should be no roles that aren't co-indexed with a filler, and no fillers that aren't co-indexed with a role. If you try to tag a filler with a role that doesn't appear in a corresponding filler or vice-versa, it should be tagged O instead. Many OCR errors may be present; just do your best to figure out what the underlying structure/meaning of the text.
+    Please use the following format based in BIO format with indices:
+    Format: Tag the end of each word with \_(BIO rfb tag), where BIO rfb tag is one of the following:
+    BF:i - meaning "begin filler i" where i is an index
+    IF:i - meaning "in filler i"
+    BR:i - meaning "begin role corresponding with filler i"
+    IR:i - meaning "continue role corresponding with filler i"
+    O - meaning not a role or filler
+    EXAMPLES:
+    OCR STRING: Stanley Kubrick Writer Director of The Shining
+    OUTPUT:
+    Stanley@BF:1 Kubrick@IF:1 Writer@BR:1 Director@BR:1 of@IR:1 The@IR:1 Shining@IR:1
+    OCR STRING: - :0Meena BoseU.S Military Academy, West Point
+    OUTPUT:
+    :0Meena@BF:1 BoseU.S@IF:1 Military@BR:1 Academy,@IR:1 West@IR:1 Point@IR:1
+    OCR STRING: Indianapolis CLARENCE PAGE Chitago Tribune
+    OUTPUT:
+    Indianapolis@O CLARENCE@BF:1 PAGE@IF:1 Chitago@BR:1 Tribune@IR:1
+    OCR STRING: REP. WIC COURTER GRD MORRI IS COUNTYL
+    OUTPUT: REP.@BF:1 WIC@IF:1 COURTER@IF:1 GRD@BR:1 MORRI@IR:1 IS@IR:1 COUNTYL@IR:1
+
+    The most important thing to remember: THE OUTPUT SHOULD BE IDENTICAL TO THE INPUT, VERBATIM, WITH THE ROLE-FILLER TAGS APPENDED TO THE END OF EACH WORD! Do not alter the input text in any other way.
+
+INSTRUCTIONS: Your job is to match roles and fillers (names) in the following OCR text, which represents a screenshot taken from a public broadcast video. The frame type is CREDIT, meaning the names will typically -- but not always -- appear AFTER their role. There may be multiple names corresponding with a given role. Do NOT correct any misspellings. There may be text in the input that is not explicitly matched with a role or name; in those cases, tag them with O. 
+    There should be no roles that aren't co-indexed with a filler, and no fillers that aren't co-indexed with a role. If you try to tag a filler with a role that doesn't appear in a corresponding filler or vice-versa, it should be tagged O instead. Many OCR errors may be present; just do your best to figure out what the underlying structure/meaning of the text. When in doubt, tag O! Be conservative i.e. use lots of O's.
+    Please use the following format based in BIO format with indices:
+    Format: Tag the end of each word with \_(BIO rfb tag), where BIO rfb tag is one of the following:
+    BF:i - meaning "begin filler i" where i is an index
+    IF:i - meaning "in filler i"
+    BR:i - meaning "begin role corresponding with filler i"
+    IR:i - meaning "continue role corresponding with filler i"
+    O - meaning not a role or filler
+    EXAMPLES:
+    OCR STRING: Director Stanley Kubrick Actors Jack Nicholson Shelley Duvall
+    OUTPUT:
+    Director@BR:1 Stanley@BF:1 Kubrick@IF:1 Actors@BR:2 Jack@BF:2 Nicholson@IF:2 Shelley@BF:2 Duvall@IF:2
+    OCR STRING: John Doe PRODUCTION ASSISTANT LuAnne Halligan POST PRODUCTION SUPERVISOR Maggi s66ug
+    OUTPUT: John@O Doe@O PRODUCTION@BR:1 ASSISTANT@IR:1 LuAnne@BF:1 Halligan@IF:1 POST@BR:2 PRODUCTION@IR:2 SUPERVISOR@IR:2 Maggi@BF:2 s66ug@IF:2
+    OCR STRING: Musicians TERRY aasi Chor VOISSRO TOBRAS Cello aoc voua 01'1 ENRIC Piano
+    OUTPUT: Musicians@BR:1 TERRY@BF:1 aasi@IF:1 Chor@BR:2 VOISSRO@BF:2 TOBRAS@IF:2 Cello@O aoc@O voua@O 01'1@O ENRIC@O Piano@O
+    The most important thing to remember: THE OUTPUT SHOULD BE IDENTICAL TO THE INPUT, VERBATIM, WITH THE ROLE-FILLER TAGS APPENDED TO THE END OF EACH WORD! Do not alter the input text in any other way.
+
