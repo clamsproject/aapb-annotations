@@ -8,8 +8,14 @@ import re
 import shutil
 import csv
 from pathlib import Path
-import numpy as np
 import pandas as pd
+
+
+# Set this to True if you want the TimeFrames to be sensitive to sublabels, with a
+# sequence [S:D, S:H] you would get a TimeFrame of type S with the current setting,
+# but two TimeFrames with labels S:D and S:H if you include the sublabel. Given the 
+# way the current classifier is trained the former makes much more sense.
+USE_SUBLABEL = False
 
 
 def truncate(value, is_total = False):
@@ -60,26 +66,24 @@ def copy_timeframes(source, destination):
     current_label = None
     current_sublabel = None
     current_frame = []
-    frames = []
     with open(destination, "w") as csv_file:
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(['start', 'end', 'type label', 'subtype label', 'modifier'])
+        csv_writer.writerow(get_column_names())
         for index, row in df.iterrows():
             ts = row['timestamp']
             label = row['type label']
             sublabel = row['subtype label']
             sublabel = '-' if type(sublabel) is float else sublabel
             modifier = row['modifier']
-            if current_label == label and current_sublabel == sublabel:
+            if labels_match(current_label, label, current_sublabel, sublabel):
                 current_frame.append((ts, label, sublabel))
             else:
                 if current_frame and current_frame[0][1] != '-':
                     # this takes the modifier of the last timepoint
-                    timeframe = (current_frame[0][0], current_frame[-1][0],
-                                 current_label, current_sublabel, modifier)
-                    frames.append(timeframe)
+                    timeframe = create_timeframe(
+                        current_frame, current_label, current_sublabel, modifier)
                     csv_writer.writerow(timeframe)
-                current_frame = []
+                current_frame = [(ts, label, sublabel)]
                 current_label = label
                 current_sublabel = sublabel
 
@@ -105,6 +109,25 @@ def amend_dataframe(df):
     return df
 
 
+def get_column_names():
+    if USE_SUBLABEL:
+        return ['start', 'end', 'type label', 'subtype label', 'modifier']
+    return ['start', 'end', 'type label', 'modifier']
+
+
+def labels_match(current_label, label, current_sublabel, sublabel):
+    if USE_SUBLABEL:
+        return current_label == label and current_sublabel == sublabel
+    else:
+        return current_label == label
+
+
+def create_timeframe(frame, label, sublabel, modifier):
+    sub = [sublabel] if USE_SUBLABEL else []
+    return [frame[0][0], frame[-1][0], label] + sub + [modifier]
+
+
+
 if __name__ == '__main__':
 
     folder = Path.cwd()
@@ -116,9 +139,9 @@ if __name__ == '__main__':
             # copy contents by iterating
             print(directory.name)
             for file in directory.glob('*'):
-                #print('   ', file.name)
+                print('   ', file.name)
                 source = file
                 destination_points = goldpath / 'timepoints' / file.name
                 destination_frames = goldpath / 'timeframes' / file.name
-                copy_timepoints(source, destination_points)
+                #copy_timepoints(source, destination_points)
                 copy_timeframes(source, destination_frames)
