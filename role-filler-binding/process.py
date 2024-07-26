@@ -89,8 +89,9 @@ def main():
         for ann in anns:
             write_csv(
                 process_golds(os.path.join(root, ann)),
-                os.path.join(out_dir, guidhandler.get_aapb_guid_from(ann) + "-gold.csv")
+                os.path.join(out_dir, guidhandler.get_aapb_guid_from(ann) + ".gold.csv")
             )
+
 
 if __name__ == "__main__":
     main()
