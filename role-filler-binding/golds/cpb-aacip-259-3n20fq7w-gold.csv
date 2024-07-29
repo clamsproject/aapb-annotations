@@ -1,53 +1,53 @@
-GUID,FRAME,SKIPPED,ANNOTATIONS
-cpb-aacip-259-3n20fq7w,11130,True,not K-V
-cpb-aacip-259-3n20fq7w,11145,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,11160,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,11175,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,11190,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,11205,True,no text in image
-cpb-aacip-259-3n20fq7w,22980,True,not K-V
-cpb-aacip-259-3n20fq7w,22995,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,23010,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,23025,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,23040,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,23055,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,39810,True,no text in image
-cpb-aacip-259-3n20fq7w,39825,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,39840,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,39855,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,39870,True,not K-V
-cpb-aacip-259-3n20fq7w,39885,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,39900,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,39915,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,40890,True,no text in image
-cpb-aacip-259-3n20fq7w,40905,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,40920,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,40935,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,40950,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,40965,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,40980,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,40995,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,41010,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,41025,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,41040,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,41055,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42300,False,
-cpb-aacip-259-3n20fq7w,42315,True,no text in image
-cpb-aacip-259-3n20fq7w,42330,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42345,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42360,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42375,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42390,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42405,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42420,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42435,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42450,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42465,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42540,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42555,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42570,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42585,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42600,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42615,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42630,True,DUPLICATE
-cpb-aacip-259-3n20fq7w,42645,False,
+GUID,FRAME,SWT-TYPE,SKIPPED,ANNOTATIONS
+cpb-aacip-259-3n20fq7w,11130,credits,True,not K-V
+cpb-aacip-259-3n20fq7w,11145,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,11160,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,11175,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,11190,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,11205,credits,True,no text in image
+cpb-aacip-259-3n20fq7w,22980,credits,True,not K-V
+cpb-aacip-259-3n20fq7w,22995,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,23010,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,23025,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,23040,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,23055,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,39810,credits,True,no text in image
+cpb-aacip-259-3n20fq7w,39825,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,39840,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,39855,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,39870,credits,True,not K-V
+cpb-aacip-259-3n20fq7w,39885,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,39900,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,39915,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,40890,credits,True,no text in image
+cpb-aacip-259-3n20fq7w,40905,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,40920,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,40935,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,40950,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,40965,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,40980,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,40995,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,41010,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,41025,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,41040,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,41055,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42300,credits,False,
+cpb-aacip-259-3n20fq7w,42315,credits,True,no text in image
+cpb-aacip-259-3n20fq7w,42330,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42345,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42360,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42375,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42390,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42405,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42420,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42435,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42450,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42465,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42540,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42555,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42570,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42585,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42600,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42615,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42630,credits,True,DUPLICATE
+cpb-aacip-259-3n20fq7w,42645,credits,False,

@@ -1,9 +1,9 @@
-GUID,FRAME,SKIPPED,ANNOTATIONS
-cpb-aacip-526-6q1sf2n94w,95700,False,",FILE TAPE,SANTA CLARA CO."
-cpb-aacip-526-6q1sf2n94w,95715,True,DUPLICATE
-cpb-aacip-526-6q1sf2n94w,95730,True,DUPLICATE
-cpb-aacip-526-6q1sf2n94w,95745,True,DUPLICATE
-cpb-aacip-526-6q1sf2n94w,95760,True,DUPLICATE
-cpb-aacip-526-6q1sf2n94w,95775,True,DUPLICATE
-cpb-aacip-526-6q1sf2n94w,95790,True,DUPLICATE
-cpb-aacip-526-6q1sf2n94w,95805,True,DUPLICATE
+GUID,FRAME,SWT-TYPE,SKIPPED,ANNOTATIONS
+cpb-aacip-526-6q1sf2n94w,95700,credits,False,",FILE TAPE,SANTA CLARA CO."
+cpb-aacip-526-6q1sf2n94w,95715,credits,True,DUPLICATE
+cpb-aacip-526-6q1sf2n94w,95730,credits,True,DUPLICATE
+cpb-aacip-526-6q1sf2n94w,95745,credits,True,DUPLICATE
+cpb-aacip-526-6q1sf2n94w,95760,credits,True,DUPLICATE
+cpb-aacip-526-6q1sf2n94w,95775,credits,True,DUPLICATE
+cpb-aacip-526-6q1sf2n94w,95790,credits,True,DUPLICATE
+cpb-aacip-526-6q1sf2n94w,95805,credits,True,DUPLICATE

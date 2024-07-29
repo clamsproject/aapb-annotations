@@ -1,159 +1,159 @@
-GUID,FRAME,SKIPPED,ANNOTATIONS
-cpb-aacip-283-61rfjj43,100110,True,DUPLICATE
-cpb-aacip-283-61rfjj43,100125,True,DUPLICATE
-cpb-aacip-283-61rfjj43,100140,True,DUPLICATE
-cpb-aacip-283-61rfjj43,100155,True,DUPLICATE
-cpb-aacip-283-61rfjj43,100170,True,DUPLICATE
-cpb-aacip-283-61rfjj43,100185,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102630,False,",PRODUCER/DIRECTOR,David Davis"
-cpb-aacip-283-61rfjj43,102645,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102660,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102675,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102690,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102705,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102720,False,",PRODUCER/DIRECTOR,David Davis"
-cpb-aacip-283-61rfjj43,102735,False,",PRODUCER/DIRECTOR,David Davis
+GUID,FRAME,SWT-TYPE,SKIPPED,ANNOTATIONS
+cpb-aacip-283-61rfjj43,100110,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,100125,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,100140,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,100155,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,100170,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,100185,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102630,credits,False,",PRODUCER/DIRECTOR,David Davis"
+cpb-aacip-283-61rfjj43,102645,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102660,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102675,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102690,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102705,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102720,credits,False,",PRODUCER/DIRECTOR,David Davis"
+cpb-aacip-283-61rfjj43,102735,credits,False,",PRODUCER/DIRECTOR,David Davis
 ,CAMERA,Jerry Weissman"
-cpb-aacip-283-61rfjj43,102750,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102765,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102780,False,",PRODUCER/DIRECTOR,David Davis
+cpb-aacip-283-61rfjj43,102750,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102765,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102780,credits,False,",PRODUCER/DIRECTOR,David Davis
 ,CAMERA,Jerry Weissman"
-cpb-aacip-283-61rfjj43,102795,False,",CAMERA,Jerry Weissman"
-cpb-aacip-283-61rfjj43,102810,False,",CAMERA,Jerry Weissman
+cpb-aacip-283-61rfjj43,102795,credits,False,",CAMERA,Jerry Weissman"
+cpb-aacip-283-61rfjj43,102810,credits,False,",CAMERA,Jerry Weissman
 ,AUDIO,Toby Higashi"
-cpb-aacip-283-61rfjj43,102825,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102840,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102855,False,",CAMERA,Jerry Weissman
+cpb-aacip-283-61rfjj43,102825,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102840,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102855,credits,False,",CAMERA,Jerry Weissman
 ,AUDIO,Toby Higashi"
-cpb-aacip-283-61rfjj43,102870,False,",CAMERA,Jerry Weissman
+cpb-aacip-283-61rfjj43,102870,credits,False,",CAMERA,Jerry Weissman
 ,AUDIO,Toby Higashi
 ,EDITOR,David Davis"
-cpb-aacip-283-61rfjj43,102885,False,",*Camera,Jerry Weissman
+cpb-aacip-283-61rfjj43,102885,credits,False,",*Camera,Jerry Weissman
 ,AUDIO,Toby Higashi
 ,EDITOR,David Davis"
-cpb-aacip-283-61rfjj43,102900,False,",AUDIO,Toby Higashi
+cpb-aacip-283-61rfjj43,102900,credits,False,",AUDIO,Toby Higashi
 ,EDITOR,David Davis with"
-cpb-aacip-283-61rfjj43,102915,False,",AUDIO,Toby Higashi
+cpb-aacip-283-61rfjj43,102915,credits,False,",AUDIO,Toby Higashi
 ,Editor,David Davis with Tom Speer"
-cpb-aacip-283-61rfjj43,102930,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102945,True,DUPLICATE
-cpb-aacip-283-61rfjj43,102960,False,",EDITOR,David Davis with Tom Speer"
-cpb-aacip-283-61rfjj43,102975,False,",EDITOR,David Davis with Tom Speer"
-cpb-aacip-283-61rfjj43,102990,False,",EDITOR,David Davis with Tom Speer
+cpb-aacip-283-61rfjj43,102930,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102945,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,102960,credits,False,",EDITOR,David Davis with Tom Speer"
+cpb-aacip-283-61rfjj43,102975,credits,False,",EDITOR,David Davis with Tom Speer"
+cpb-aacip-283-61rfjj43,102990,credits,False,",EDITOR,David Davis with Tom Speer
 ,NARRATOR,Ted d'Arms"
-cpb-aacip-283-61rfjj43,103005,True,DUPLICATE
-cpb-aacip-283-61rfjj43,103170,False,",RESEARCH,LuAnne Halligan
+cpb-aacip-283-61rfjj43,103005,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,103170,credits,False,",RESEARCH,LuAnne Halligan
 ,RESEARCH,Sharon Fisher
 ,RESEARCH,Susan Lerbinger
 ,RESEARCH,Julia Gonzalez"
-cpb-aacip-283-61rfjj43,103185,False,",RESEARCH,LuAnne Halligan
+cpb-aacip-283-61rfjj43,103185,credits,False,",RESEARCH,LuAnne Halligan
 ,RESEARCH,Sharon Fisher
 ,RESEARCH,Susan Lerbinger
 ,RESEARCH,Julia Gonzalez
 ,PRODUCTION ASSISTANT,LuAnne Halligan*"
-cpb-aacip-283-61rfjj43,103200,False,",RESEARCH,LuAnne Halligan
+cpb-aacip-283-61rfjj43,103200,credits,False,",RESEARCH,LuAnne Halligan
 ,RESEARCH,Sharon Fisher
 ,RESEARCH,Susan Lerbinger
 ,RESEARCH,Julia Gonzalez
 ,PRODUCTION ASSISTANT,LuAnne Halligan"
-cpb-aacip-283-61rfjj43,103215,False,",PRODUCTION ASSISTANT,LuAnne Halligan"
-cpb-aacip-283-61rfjj43,103230,False,",PRODUCTION ASSISTANT,LuAnne Halligan"
-cpb-aacip-283-61rfjj43,103245,False,",PRODUCTION ASSISTANT,LuAnne Halligan"
-cpb-aacip-283-61rfjj43,103260,False,",PRODUCTION ASSISTANT,LuAnne Halligan
+cpb-aacip-283-61rfjj43,103215,credits,False,",PRODUCTION ASSISTANT,LuAnne Halligan"
+cpb-aacip-283-61rfjj43,103230,credits,False,",PRODUCTION ASSISTANT,LuAnne Halligan"
+cpb-aacip-283-61rfjj43,103245,credits,False,",PRODUCTION ASSISTANT,LuAnne Halligan"
+cpb-aacip-283-61rfjj43,103260,credits,False,",PRODUCTION ASSISTANT,LuAnne Halligan
 ,POST PRODUCTION SUPERVISOR,Maggi Briggs"
-cpb-aacip-283-61rfjj43,103275,False,",PRODUCTION ASSISTANT,LuAnne Halligan
+cpb-aacip-283-61rfjj43,103275,credits,False,",PRODUCTION ASSISTANT,LuAnne Halligan
 ,POST PRODUCTION SUPERVISOR,Maggi Briggs"
-cpb-aacip-283-61rfjj43,103290,True,DUPLICATE
-cpb-aacip-283-61rfjj43,103305,False,",PRODUCTION ASSISTANT,LuAnne Halligan
+cpb-aacip-283-61rfjj43,103290,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,103305,credits,False,",PRODUCTION ASSISTANT,LuAnne Halligan
 ,POST PRODUCTION SUPERVISOR,Maggi Briggs"
-cpb-aacip-283-61rfjj43,103320,True,DUPLICATE
-cpb-aacip-283-61rfjj43,103335,False,",PRODUCTION ASSISTANT,LuAnne Halligan
+cpb-aacip-283-61rfjj43,103320,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,103335,credits,False,",PRODUCTION ASSISTANT,LuAnne Halligan
 ,POST PRODUCTION SUPERVISOR,Maggi Briggs
 ,AUDIO SUPERVISOR,Bill Fast"
-cpb-aacip-283-61rfjj43,103500,False,",VIDEOTAPE EDITOR,Ernie Sauerland
+cpb-aacip-283-61rfjj43,103500,credits,False,",VIDEOTAPE EDITOR,Ernie Sauerland
 ,GRAPHIC DESIGN,Robert Turner"
-cpb-aacip-283-61rfjj43,103515,False,",VIDEOTAPE EDITOR,Ernie Sauerland
+cpb-aacip-283-61rfjj43,103515,credits,False,",VIDEOTAPE EDITOR,Ernie Sauerland
 ,GRAPHIC DESIGN,Robert Turner"
-cpb-aacip-283-61rfjj43,103530,True,DUPLICATE
-cpb-aacip-283-61rfjj43,103545,False,",VIDEOTAPE EDITOR,Ernie Sauerland
+cpb-aacip-283-61rfjj43,103530,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,103545,credits,False,",VIDEOTAPE EDITOR,Ernie Sauerland
 ,GRAPHIC DESIGN,Robert Turner
 ,ADDITIONAL VIDEOGRAPHY,Tom Speer"
-cpb-aacip-283-61rfjj43,103560,False,",GRAPHIC DESIGN,Robert Turner
+cpb-aacip-283-61rfjj43,103560,credits,False,",GRAPHIC DESIGN,Robert Turner
 ,ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko"
-cpb-aacip-283-61rfjj43,103575,False,",GRAPHIC DESIGN,Robert Turner
+cpb-aacip-283-61rfjj43,103575,credits,False,",GRAPHIC DESIGN,Robert Turner
 ,ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko"
-cpb-aacip-283-61rfjj43,103590,False,",GRAPHIC DESIGN,Robert Turner
+cpb-aacip-283-61rfjj43,103590,credits,False,",GRAPHIC DESIGN,Robert Turner
 ,ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko
 ,ADDITIONAL VIDEOGRAPHY,Ted Overman"
-cpb-aacip-283-61rfjj43,103605,True,DUPLICATE
-cpb-aacip-283-61rfjj43,103620,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
+cpb-aacip-283-61rfjj43,103605,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,103620,credits,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko
 ,ADDITIONAL VIDEOGRAPHY,Ted Overman"
-cpb-aacip-283-61rfjj43,103635,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
+cpb-aacip-283-61rfjj43,103635,credits,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko
 ,ADDITIONAL VIDEOGRAPHY,Ted Overman"
-cpb-aacip-283-61rfjj43,103650,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
+cpb-aacip-283-61rfjj43,103650,credits,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko
 ,ADDITIONAL VIDEOGRAPHY,Ted Overman
 ,ADDITIONAL AUDIO,Fugate Holt"
-cpb-aacip-283-61rfjj43,103665,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
+cpb-aacip-283-61rfjj43,103665,credits,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko
 ,ADDITIONAL VIDEOGRAPHY,Ted Overman
 ,ADDITIONAL AUDIO,Fugate Holt"
-cpb-aacip-283-61rfjj43,103680,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
+cpb-aacip-283-61rfjj43,103680,credits,False,",ADDITIONAL VIDEOGRAPHY,Tom Speer
 ,ADDITIONAL VIDEOGRAPHY,David Ko
 ,ADDITIONAL VIDEOGRAPHY,Ted Overman
 ,ADDITIONAL AUDIO,Fugate Holt
 ,ADDITIONAL AUDIO,Ron Baker"
-cpb-aacip-283-61rfjj43,103695,False,",ADDITIONAL AUDIO,Fugate Holt
+cpb-aacip-283-61rfjj43,103695,credits,False,",ADDITIONAL AUDIO,Fugate Holt
 ,ADDITIONAL AUDIO,Ron Baker
 ,ADDITIONAL AUDIO,Cliff Hackel"
-cpb-aacip-283-61rfjj43,103710,False,",ADDITIONAL AUDIO,Fugate Holt
+cpb-aacip-283-61rfjj43,103710,credits,False,",ADDITIONAL AUDIO,Fugate Holt
 ,ADDITIONAL AUDIO,Ron Baker
 ,ADDITIONAL AUDIO,Cliff Hackel"
-cpb-aacip-283-61rfjj43,103725,True,DUPLICATE
-cpb-aacip-283-61rfjj43,104280,False,
-cpb-aacip-283-61rfjj43,104295,False,
-cpb-aacip-283-61rfjj43,104310,False,
-cpb-aacip-283-61rfjj43,104325,False,
-cpb-aacip-283-61rfjj43,104340,False,
-cpb-aacip-283-61rfjj43,104355,False,
-cpb-aacip-283-61rfjj43,104520,False,",EXECUTIVE PRODUCER,Ron Rubin"
-cpb-aacip-283-61rfjj43,104535,True,DUPLICATE
-cpb-aacip-283-61rfjj43,104550,True,DUPLICATE
-cpb-aacip-283-61rfjj43,104565,True,DUPLICATE
-cpb-aacip-283-61rfjj43,104580,False,",EXECUTIVE PRODUCER,Ron Rubin"
-cpb-aacip-283-61rfjj43,104595,True,DUPLICATE
-cpb-aacip-283-61rfjj43,104610,True,DUPLICATE
-cpb-aacip-283-61rfjj43,104625,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105240,True,no text in image
-cpb-aacip-283-61rfjj43,105255,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105270,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105285,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105300,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105315,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105330,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105345,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105360,True,DUPLICATE
-cpb-aacip-283-61rfjj43,105375,True,DUPLICATE
-cpb-aacip-283-61rfjj43,38640,True,DUPLICATE
-cpb-aacip-283-61rfjj43,38655,True,DUPLICATE
-cpb-aacip-283-61rfjj43,38670,True,DUPLICATE
-cpb-aacip-283-61rfjj43,38685,True,DUPLICATE
-cpb-aacip-283-61rfjj43,38700,True,DUPLICATE
-cpb-aacip-283-61rfjj43,38715,True,DUPLICATE
-cpb-aacip-283-61rfjj43,57690,True,DUPLICATE
-cpb-aacip-283-61rfjj43,57705,True,DUPLICATE
-cpb-aacip-283-61rfjj43,57720,True,DUPLICATE
-cpb-aacip-283-61rfjj43,57735,True,DUPLICATE
-cpb-aacip-283-61rfjj43,57750,True,DUPLICATE
-cpb-aacip-283-61rfjj43,57765,True,DUPLICATE
-cpb-aacip-283-61rfjj43,58890,True,DUPLICATE
-cpb-aacip-283-61rfjj43,58905,True,DUPLICATE
-cpb-aacip-283-61rfjj43,58920,True,DUPLICATE
-cpb-aacip-283-61rfjj43,58935,True,DUPLICATE
-cpb-aacip-283-61rfjj43,58950,True,DUPLICATE
-cpb-aacip-283-61rfjj43,58965,True,DUPLICATE
+cpb-aacip-283-61rfjj43,103725,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,104280,credits,False,
+cpb-aacip-283-61rfjj43,104295,credits,False,
+cpb-aacip-283-61rfjj43,104310,credits,False,
+cpb-aacip-283-61rfjj43,104325,credits,False,
+cpb-aacip-283-61rfjj43,104340,credits,False,
+cpb-aacip-283-61rfjj43,104355,credits,False,
+cpb-aacip-283-61rfjj43,104520,credits,False,",EXECUTIVE PRODUCER,Ron Rubin"
+cpb-aacip-283-61rfjj43,104535,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,104550,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,104565,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,104580,credits,False,",EXECUTIVE PRODUCER,Ron Rubin"
+cpb-aacip-283-61rfjj43,104595,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,104610,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,104625,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105240,credits,True,no text in image
+cpb-aacip-283-61rfjj43,105255,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105270,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105285,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105300,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105315,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105330,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105345,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105360,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,105375,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,38640,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,38655,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,38670,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,38685,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,38700,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,38715,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,57690,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,57705,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,57720,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,57735,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,57750,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,57765,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,58890,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,58905,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,58920,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,58935,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,58950,credits,True,DUPLICATE
+cpb-aacip-283-61rfjj43,58965,credits,True,DUPLICATE

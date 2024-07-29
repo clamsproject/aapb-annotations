@@ -1,70 +1,70 @@
-GUID,FRAME,SKIPPED,ANNOTATIONS
-cpb-aacip-398-72p5hz1h,10980,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,10995,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,11010,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,11025,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,11040,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,11055,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,11070,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,11085,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,1680,True,no text in image
-cpb-aacip-398-72p5hz1h,1695,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,1710,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,1725,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,1740,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,1755,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,1770,True,DUPLICATE
-cpb-aacip-398-72p5hz1h,1785,True,not K-V
-cpb-aacip-398-72p5hz1h,18570,False,",News Team,SCOTT CENTRELLA
+GUID,FRAME,SWT-TYPE,SKIPPED,ANNOTATIONS
+cpb-aacip-398-72p5hz1h,10980,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,10995,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,11010,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,11025,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,11040,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,11055,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,11070,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,11085,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,1680,credits,True,no text in image
+cpb-aacip-398-72p5hz1h,1695,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,1710,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,1725,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,1740,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,1755,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,1770,credits,True,DUPLICATE
+cpb-aacip-398-72p5hz1h,1785,credits,True,not K-V
+cpb-aacip-398-72p5hz1h,18570,credits,False,",News Team,SCOTT CENTRELLA
 ,News Team,LALIE GIORDANO
 ,News Team,RICH HOYER
 ,News Team,JOANNE LEGOMSKY
 ,News Team,FABIENNE MARSH
 ,News Team,RICKIE MILLER
 ,News Team,*TAISHA WEISNER"
-cpb-aacip-398-72p5hz1h,18585,False,",*News Team,SCOTT CENTRELLA
+cpb-aacip-398-72p5hz1h,18585,credits,False,",*News Team,SCOTT CENTRELLA
 ,*News Team,LALIE GIORDANO
 ,*News Team,RICH HOYER
 ,*News Team,JOANNE LEGOMSKY
 ,*News Team,FABIENNE MARSH
 ,*News Team,RICKIE MILLER
 ,*News Team,TRISHA WEISNER"
-cpb-aacip-398-72p5hz1h,18600,False,
-cpb-aacip-398-72p5hz1h,18615,False,",Segment Producers,JOANNE CARRIERA"
-cpb-aacip-398-72p5hz1h,18630,False,",Segment Producers,JOANNE CARRIERA
+cpb-aacip-398-72p5hz1h,18600,credits,False,
+cpb-aacip-398-72p5hz1h,18615,credits,False,",Segment Producers,JOANNE CARRIERA"
+cpb-aacip-398-72p5hz1h,18630,credits,False,",Segment Producers,JOANNE CARRIERA
 ,Segment Producers,GRACI DUFFIELD"
-cpb-aacip-398-72p5hz1h,18645,False,",Segment Producers,JOANNE CARRIERA
+cpb-aacip-398-72p5hz1h,18645,credits,False,",Segment Producers,JOANNE CARRIERA
 ,Segment Producers,GRACI DUFFIELD
 ,Segment Producers,TOM GUARCELLO"
-cpb-aacip-398-72p5hz1h,18660,False,",Segment Producers,JOANNE CARRIERA
+cpb-aacip-398-72p5hz1h,18660,credits,False,",Segment Producers,JOANNE CARRIERA
 ,Segment Producers,GRACI DUFFIELD
 ,Segment Producers,TOM GUARCELLO
 ,Segment Producers,MARY KAY HARRELY*
 ,Segment Producers,ALAN JACOBS"
-cpb-aacip-398-72p5hz1h,18675,False,",Segment Producers,JOANNE CARRIERA
+cpb-aacip-398-72p5hz1h,18675,credits,False,",Segment Producers,JOANNE CARRIERA
 ,Segment Producers,GRACI DUFFIELD
 ,Segment Producers,TOM GUARCELLO
 ,Segment Producers,MARY KAY HARRITY
 ,Segment Producers,ALAN JACOBS
 ,Segment Producers,COLIN KEELEHER"
-cpb-aacip-398-72p5hz1h,18690,False,
-cpb-aacip-398-72p5hz1h,18705,False,
-cpb-aacip-398-72p5hz1h,18720,False,
-cpb-aacip-398-72p5hz1h,18735,False,
-cpb-aacip-398-72p5hz1h,18810,False,",Production Crew,ERMILINDA DE MAIO
+cpb-aacip-398-72p5hz1h,18690,credits,False,
+cpb-aacip-398-72p5hz1h,18705,credits,False,
+cpb-aacip-398-72p5hz1h,18720,credits,False,
+cpb-aacip-398-72p5hz1h,18735,credits,False,
+cpb-aacip-398-72p5hz1h,18810,credits,False,",Production Crew,ERMILINDA DE MAIO
 ,Production Crew,GRACI DUFFIELD
 ,Production Crew,ED GONSALVES
 ,Production Crew,TOM GUARCELLO
 ,Production Crew,STAN HIRIAK
 ,Production Crew,JANET LYONS
 ,Production Crew,MARTHA MAGNUSON"
-cpb-aacip-398-72p5hz1h,18825,False,
-cpb-aacip-398-72p5hz1h,18840,False,",News Advisor,JOHN SCHOEN"
-cpb-aacip-398-72p5hz1h,18855,False,",News Advisor,JOHN SCHOEN"
-cpb-aacip-398-72p5hz1h,18870,False,",News Advisor,JOHN SCHOEN"
-cpb-aacip-398-72p5hz1h,18885,False,",News Advisor,JOHN SCHOEN
+cpb-aacip-398-72p5hz1h,18825,credits,False,
+cpb-aacip-398-72p5hz1h,18840,credits,False,",News Advisor,JOHN SCHOEN"
+cpb-aacip-398-72p5hz1h,18855,credits,False,",News Advisor,JOHN SCHOEN"
+cpb-aacip-398-72p5hz1h,18870,credits,False,",News Advisor,JOHN SCHOEN"
+cpb-aacip-398-72p5hz1h,18885,credits,False,",News Advisor,JOHN SCHOEN
 ,Script Editor,ARTHUR RIEL"
-cpb-aacip-398-72p5hz1h,18900,False,",News Advisor,JOHN SCHOEN
+cpb-aacip-398-72p5hz1h,18900,credits,False,",News Advisor,JOHN SCHOEN
 ,Script Editor,ARTHUR RIEL"
-cpb-aacip-398-72p5hz1h,18915,False,",Script Editor,ARTHUR RIEL
+cpb-aacip-398-72p5hz1h,18915,credits,False,",Script Editor,ARTHUR RIEL
 ,*Director,DIANE DUSICK"

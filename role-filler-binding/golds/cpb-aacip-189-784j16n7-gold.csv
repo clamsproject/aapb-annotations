@@ -1,7 +1,7 @@
-GUID,FRAME,SKIPPED,ANNOTATIONS
-cpb-aacip-189-784j16n7,49350,True,not K-V
-cpb-aacip-189-784j16n7,49365,True,DUPLICATE
-cpb-aacip-189-784j16n7,49380,True,DUPLICATE
-cpb-aacip-189-784j16n7,49395,True,DUPLICATE
-cpb-aacip-189-784j16n7,49410,True,DUPLICATE
-cpb-aacip-189-784j16n7,49425,True,no text in image
+GUID,FRAME,SWT-TYPE,SKIPPED,ANNOTATIONS
+cpb-aacip-189-784j16n7,49350,credits,True,not K-V
+cpb-aacip-189-784j16n7,49365,credits,True,DUPLICATE
+cpb-aacip-189-784j16n7,49380,credits,True,DUPLICATE
+cpb-aacip-189-784j16n7,49395,credits,True,DUPLICATE
+cpb-aacip-189-784j16n7,49410,credits,True,DUPLICATE
+cpb-aacip-189-784j16n7,49425,credits,True,no text in image

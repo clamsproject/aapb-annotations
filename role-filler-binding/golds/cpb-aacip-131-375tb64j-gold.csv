@@ -1,38 +1,38 @@
-GUID,FRAME,SKIPPED,ANNOTATIONS
-cpb-aacip-131-375tb64j,48570,True,no text in image
-cpb-aacip-131-375tb64j,48585,False,",Managing Editor/Host,Matt Ryan"
-cpb-aacip-131-375tb64j,48600,False,",Producer/Co-Host,Casey Seiler"
-cpb-aacip-131-375tb64j,48615,False,",Director,Dave Povero"
-cpb-aacip-131-375tb64j,48630,False,
-cpb-aacip-131-375tb64j,48645,False,",Editor,Mike Melita
+GUID,FRAME,SWT-TYPE,SKIPPED,ANNOTATIONS
+cpb-aacip-131-375tb64j,48570,credits,True,no text in image
+cpb-aacip-131-375tb64j,48585,credits,False,",Managing Editor/Host,Matt Ryan"
+cpb-aacip-131-375tb64j,48600,credits,False,",Producer/Co-Host,Casey Seiler"
+cpb-aacip-131-375tb64j,48615,credits,False,",Director,Dave Povero"
+cpb-aacip-131-375tb64j,48630,credits,False,
+cpb-aacip-131-375tb64j,48645,credits,False,",Editor,Mike Melita
 ,Editor,Matt Ryan"
-cpb-aacip-131-375tb64j,48660,False,",Studio Camera,Bill Forst*"
-cpb-aacip-131-375tb64j,48675,False,",Studio Camera*,Bill Forst
+cpb-aacip-131-375tb64j,48660,credits,False,",Studio Camera,Bill Forst*"
+cpb-aacip-131-375tb64j,48675,credits,False,",Studio Camera*,Bill Forst
 ,Studio Camera*,Dominick Figliomeni"
-cpb-aacip-131-375tb64j,48690,False,",ENG Camera,Mike Melita"
-cpb-aacip-131-375tb64j,48705,False,
-cpb-aacip-131-375tb64j,48720,False,",Teleprompter,Leslie Thaxton"
-cpb-aacip-131-375tb64j,48735,False,",CG Operator,Jayne Robinson*"
-cpb-aacip-131-375tb64j,48750,False,",CG Operator*,Jayne Robinson"
-cpb-aacip-131-375tb64j,48765,False,",Production Engineer,David Lastarza"
-cpb-aacip-131-375tb64j,48780,False,",Audio,Mike Melita"
-cpb-aacip-131-375tb64j,48795,False,
-cpb-aacip-131-375tb64j,48810,False,",IT Support*,Michael Lumb
+cpb-aacip-131-375tb64j,48690,credits,False,",ENG Camera,Mike Melita"
+cpb-aacip-131-375tb64j,48705,credits,False,
+cpb-aacip-131-375tb64j,48720,credits,False,",Teleprompter,Leslie Thaxton"
+cpb-aacip-131-375tb64j,48735,credits,False,",CG Operator,Jayne Robinson*"
+cpb-aacip-131-375tb64j,48750,credits,False,",CG Operator*,Jayne Robinson"
+cpb-aacip-131-375tb64j,48765,credits,False,",Production Engineer,David Lastarza"
+cpb-aacip-131-375tb64j,48780,credits,False,",Audio,Mike Melita"
+cpb-aacip-131-375tb64j,48795,credits,False,
+cpb-aacip-131-375tb64j,48810,credits,False,",IT Support*,Michael Lumb
 ,IT Support*,Anthony Tassarotti"
-cpb-aacip-131-375tb64j,48825,False,",Set Design,Creatator"
-cpb-aacip-131-375tb64j,48840,False,
-cpb-aacip-131-375tb64j,48855,False,",Production Manager,Dominick Figliomeni"
-cpb-aacip-131-375tb64j,48870,False,",Production Assistance ,Ron McGowty
+cpb-aacip-131-375tb64j,48825,credits,False,",Set Design,Creatator"
+cpb-aacip-131-375tb64j,48840,credits,False,
+cpb-aacip-131-375tb64j,48855,credits,False,",Production Manager,Dominick Figliomeni"
+cpb-aacip-131-375tb64j,48870,credits,False,",Production Assistance ,Ron McGowty
 ,Production Assistance ,Ken Girard*"
-cpb-aacip-131-375tb64j,48885,False,
-cpb-aacip-131-375tb64j,48900,False,
-cpb-aacip-131-375tb64j,48915,False,",Executive in Charge of Production,Paul Hoagland"
-cpb-aacip-131-375tb64j,48930,False,
-cpb-aacip-131-375tb64j,48945,False,",The Public Broadcasting Stations of New York,WNED Buffalo
+cpb-aacip-131-375tb64j,48885,credits,False,
+cpb-aacip-131-375tb64j,48900,credits,False,
+cpb-aacip-131-375tb64j,48915,credits,False,",Executive in Charge of Production,Paul Hoagland"
+cpb-aacip-131-375tb64j,48930,credits,False,
+cpb-aacip-131-375tb64j,48945,credits,False,",The Public Broadcasting Stations of New York,WNED Buffalo
 ,The Public Broadcasting Stations of New York,WPRS Watertown*"
-cpb-aacip-131-375tb64j,48960,False,
-cpb-aacip-131-375tb64j,48975,False,
-cpb-aacip-131-375tb64j,48990,False,
-cpb-aacip-131-375tb64j,49005,True,not K-V
-cpb-aacip-131-375tb64j,49020,True,DUPLICATE
-cpb-aacip-131-375tb64j,49035,True,DUPLICATE
+cpb-aacip-131-375tb64j,48960,credits,False,
+cpb-aacip-131-375tb64j,48975,credits,False,
+cpb-aacip-131-375tb64j,48990,credits,False,
+cpb-aacip-131-375tb64j,49005,credits,True,not K-V
+cpb-aacip-131-375tb64j,49020,credits,True,DUPLICATE
+cpb-aacip-131-375tb64j,49035,credits,True,DUPLICATE
