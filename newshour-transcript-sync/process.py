@@ -13,7 +13,10 @@ the output looks like this:
 '''
 index	start	end	content
 1	00:02:05.570	00:02:08.570	Good evening. I'm Jim Lehrer. On the NewsHour tonight coverage
+
+In doing so, the script also replaces the underlying text in the CADET srt files with the gold transcript text.
 '''
+
 
 """
 import os
@@ -105,7 +108,7 @@ def convert_directory(source_directory, destination_directory, gold_transcript_d
 
 if __name__ == '__main__':
     arg_parser = argparse.ArgumentParser()
-    arg_parser.add_argument('--gold_txt_dir', required=True,
+    arg_parser.add_argument('--gold-txt-dir', required=True,
                             help='the directory to the gold transcripts which should be txt files.')
     parsed_args = arg_parser.parse_args()
     root_dir = pathlib.Path(__file__).parent
