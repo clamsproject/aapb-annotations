@@ -21,7 +21,7 @@ import pathlib
 import pysrt
 import difflib
 import argparse
-from clams_utils.aapb.newshour_transcript_cleanup import file_cleaner
+from clams_utils.aapb.newshour_transcript_cleanup import clean
 
 
 def get_tokens_aligned(non_gold:str, gold:str):
@@ -30,7 +30,7 @@ def get_tokens_aligned(non_gold:str, gold:str):
     return their token-to-token mappings.
     """
     tokens1 = non_gold.strip().split()
-    tokens2 = file_cleaner(gold.strip()).strip().split()
+    tokens2 = clean("\n"+gold.strip()).strip().split()
     sequence_matcher = difflib.SequenceMatcher(None, tokens1, tokens2)
     mappings = {}
 
@@ -43,7 +43,8 @@ def get_tokens_aligned(non_gold:str, gold:str):
             # Regex can make mistakes, so sometimes the cleaner can remove a whole sentence/paragraph
             # this step saves the text in non_gold with more than 10 tokens whose corresponding text in gold is
             # mistakenly deleted by regex (this does not 100% save the mistake but at least helps)
-            mappings.update({int(i1): {'srt': " ".join(tokens1[i1:i2]), 'txt': " ".join(tokens2[i1:i2])}})
+            for i in range(0, i2-i1):
+                mappings.update({int(i1+i): {'srt': tokens1[i1+i:i1+i+1][0], 'txt': tokens1[i1+i:i1+i+1][0]}})
         else:
             mappings.update({int(i1): {'srt': " ".join(tokens1[i1:i2]), 'txt': " ".join(tokens2[j1:j2])}})
 
@@ -59,7 +60,7 @@ def srt_to_tsv(srt_filename, gold_transcript_filename, tsv_filename):
     subs = pysrt.open(srt_filename, encoding='utf-8')
     non_gold = ""
     for sub in subs:
-        non_gold += sub.text.replace('\n', ' ')
+        non_gold += sub.text.replace('\n', ' ') + " "
     with open(gold_transcript_filename, 'r') as f:
         gold = f.read()
 
@@ -92,23 +93,24 @@ def convert_directory(source_directory, destination_directory, gold_transcript_d
         os.makedirs(destination_directory)
     for filename in os.listdir(source_directory):
         if filename.endswith('.srt'):
-            gold_transcript_path = filename.split(".")[0]+".txt"
+            gold_transcript_path = filename.split(".")[0]+"-transcript.txt"
             if gold_transcript_path in os.listdir(gold_transcript_directory):
                 source_path = os.path.join(source_directory, filename)
+                gold_transcript_path = os.path.join(gold_transcript_directory, gold_transcript_path)
                 dest_path = os.path.join(destination_directory, filename.replace('.srt', '.tsv'))
-                srt_to_tsv(source_path, dest_path, gold_transcript_path)
+                srt_to_tsv(source_path, gold_transcript_path, dest_path)
             else:
                 print(filename, "has no corresponding gold transcript in", gold_transcript_directory)
 
 
 if __name__ == '__main__':
     arg_parser = argparse.ArgumentParser()
-    arg_parser.add_argument('--goldTranscriptsDir', required=True,
+    arg_parser.add_argument('--gold_txt_dir', required=True,
                             help='the directory to the gold transcripts which should be txt files.')
     parsed_args = arg_parser.parse_args()
     root_dir = pathlib.Path(__file__).parent
     for batch_dir in root_dir.glob('*'):
         if batch_dir.is_dir() and len(batch_dir.name) > 7 and batch_dir.name[6] == '-' and all([c.isdigit() for c in batch_dir.name[:6]]):
             print(f'Processing {batch_dir.name}...')
-            convert_directory(batch_dir.name, root_dir / 'golds', parsed_args.goldTranscriptsDir)
+            convert_directory(batch_dir.name, root_dir / 'golds', parsed_args.gold_txt_dir)
     print("Processing complete.")
