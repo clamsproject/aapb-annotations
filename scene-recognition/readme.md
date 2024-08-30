@@ -25,11 +25,12 @@ Conceptually, the annotation project simply annotates stills found at recurring 
     * Version - unknown
     * Tool documentation - (see below tool installation)
 * Project Changes
-    * Number of batches - 4 batches annotated in three ways. 
+    * Number of batches - 5 batches annotated in four different ways. 
         * [`27-d`](240117-aapb-collaboration-27-d) was labeled at "maximum" density (1 GUID), 
         * [`27-a`](231002-aapb-collaboration-27-a) and [`27-c`](231204-aapb-collaboration-27-c) were densely-seen/labeled (40 GUIDs), 
         * [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). 
         * See below [guidelines](#what-to-annotate) for more information on the differences between "max", "dense" and "sparse" ways of annotating.
+        * [`27-e`](240814-aapb-collaboration-27-e) was labeled with "challenging" images, without a fixed sampling rate (or density). Specifically, the annotator ran a SWT model (`20240409-093229.convnext_tiny.kfold_012` model from v4.4) with 500ms sample rate, then re-annotated some images under certain circumstances - 1) top softmax score is too low, 2) sandwiched between different labels.
     * Other version control information - none
 
 ## Tool Installation: Keystroke Labeler
@@ -143,6 +144,16 @@ $ head -5 cpb-aacip-08fb0e1f287.csv
 "cpb-aacip-08fb0e1f287_02194825_00002002.jpg",true,"","",false,"",""
 "cpb-aacip-08fb0e1f287_02194825_00004004.jpg",true,"B","",false,"",""
 "cpb-aacip-08fb0e1f287_02194825_00006006.jpg",true,"B","",false,"",""
+# same for batches a-d
+
+$ head -5 cpb-aacip-00a9ed7f2ba.csv
+filename,seen,type label,subtype label,modifier,transcript,note
+cpb-aacip-00a9ed7f2ba_03482649_00041508_00041508.jpg,true,S,G,false,,S: 0.43 Low confidence
+cpb-aacip-00a9ed7f2ba_03482649_00047014_00047047.jpg,true,S,G,false,,G: 0.95 Sandwich
+cpb-aacip-00a9ed7f2ba_03482649_00050017_00050050.jpg,true,S,G,false,,S: 0.54 Low confidence
+cpb-aacip-00a9ed7f2ba_03482649_00062529_00062529.jpg,true,S,G,false,,G: 0.96 Sandwich
+# for batch e, the filename column is formatted differently `{guid}_{total_time}_{seek_timestamp}_{found_timestamp}.jpg`. Also the annotator left notes on the reason of image selection
+
 ```
 
 ### [`process.py`](process.py)
