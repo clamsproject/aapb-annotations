@@ -135,7 +135,7 @@ The file can contain arbitrary amounts of frames that are "unseen"; these are ba
     * `subtype label` (char) - indicates the subtype label, if any, of items with type labels
     * `modifier` (bool) - indicates whether the label has the "modifier" status
     * `transcript` (string) - not implemented; not used; always an empty string
-    * `note` (string) - not implemented; not used; always an empty string
+    * `note` (string) - content varies; for stills chosen based on model predictions, this may indicate the predicted label, score, and reason it was chosen for labeling
 * Example:
 ```
 $ head -5 cpb-aacip-08fb0e1f287.csv
