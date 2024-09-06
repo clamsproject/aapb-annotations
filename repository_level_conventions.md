@@ -25,7 +25,7 @@ The time format for all (gold) datasets in this repository is [ISO 8601 Time For
 
 > _TODO: Current/Old gold datasets and tools have yet to be converted._
 
-During raw annotation however, third-party annotation tools may use different time formats. Moving forward, the expectation for any in-house tools and apps are to use this standard. If configurable, annotations tool should be configured to use this format. If possible, the annotator should also be instructed to use this format.
+During raw annotation however, third-party annotation tools may use different time formats. The expectation for any in-house tools and apps is to use this standard. If configurable, annotations tool should be configured to use this format. If possible, the annotator should also be instructed to use this format.
 
 > _TODO: the following prose is unclear_
 
@@ -39,15 +39,14 @@ The other reason frames was not chosen to divide seconds is that the collection 
 
 ### Imprecision in Annotation in General
 
-Data Quality processes are currently still being built. Currently, datasets do not have a data quality checklist applied to them. This means there are possible typos in anything that must be typed. Other general data messiness is also possible.
+Currently, data Quality processes are currently still being designed and datasets do not have a data quality checklist applied to them. This means that general data messiness including typos are always possible.
  
 Two semi-preventative measures are: 
 
 1. If only a few value options are expected in one column, using a pie chart/counter in Excel to search/count for typos to manually correct is possible. 
-2. Annotators should use copy-paste wherever possible instead of typing, and annotation tools should have buttons to add items, 
-reducing typos during typing.  
+2. Annotators should use copy-paste wherever possible instead of typing, and annotation tools should have buttons to add items, reducing typos during typing.  
 
-The current convention is that annotators are asked to be as careful as meaningfully possible, and some datasets are "quality-assumed" upon faith in annotators/environment until such time a quantitative analysis of errors is done.
+The current convention is that annotators are asked to be as careful as possible, and some datasets are "quality-assumed" upon faith in annotators/environment until such time a quantitative analysis of errors is done.
 
 
 ### Imprecision in Time-based Annotation
@@ -56,7 +55,7 @@ Time-based annotations are almost inherently imprecise. This is due usually to e
 
 The conventions here attempt to provide clarity for when generally the annotations can be considered precise or not. 
 
-1. **MARGIN OF ERROR** _(+/- in both directions)_. The margin of error depends on the process of how an annotation project was conducted and how the tool was used. For instance, if the annotator is playing a video at half speed (audio listenable) and pressing a button when a chyron appears (and not stopping to correct or precisely verify), we can assume the following:
+1. **MARGIN OF ERROR** _(+/- in both directions)_. The margin of error depends on how an annotation project was conducted and how the tool was used. For instance, if the annotator is playing a video at half speed (audio listenable) and pressing a button when a chyron appears (and not stopping to correct or precisely verify), we can assume the following:
 
    1. Precision is limited by on-screen-and-discern-to-press [reaction time](https://www.reddit.com/r/truegaming/comments/hu0p3a/comment/fylge12/?utm_source=reddit&utm_medium=web2x&context=3),
 which is approximately .200 to .250 seconds. This time amount is somewhat similarly shown in feedback from musicians using digital keyboards and video gamers complaining about [ping or framerate](https://www.pcgamer.com/how-many-frames-per-second-can-the-human-eye-really-see/).
@@ -86,23 +85,29 @@ Finally, a reminder that at 30 frames per second, each frame is 0.033_ seconds l
 
 ## File Naming Conventions
 
-Batches should be named all in lower case. If a batch is named after a GItHub issue it should be in this format: `repoName-issueNumber(-identifier).txt` (parenthesis means optional parts). The `repoName-issueNumber` part points to a GitHub issue (usually on [AAPB Collaborations Repo Issues](https://github.com/clamsproject/aapb-collaboration)) that contains the discussion/documentation of how this batch was chosen and created.  Any other `identifier`s come after this, and can be used to denote different batches created from the same issue. This will allow a family of batches stay together in usual "listing" operations in file systems. Because batches can be reused for disparate projects, an identifier can indicate some property about the GUIDs in that batch, but should not indicate particularity of the annotation project that the batch was used. If no real discerning quality can be used as an identifier, use `abcd` lettering to denote numbering. 
-Finally, the whole name of the batch should use lowercase and `-`dashes.  
+Batch names should be in lower case. If a batch is named after a GitHub issue it should be in this format:
+
+```
+issueName-issueNumber(-identifier+).txt
+```
+
+The `issueName-issueNumber` part points to a GitHub issue (usually on the [AAPB Collaborations Repository](https://github.com/clamsproject/aapb-collaboration)) that contains the discussion/documentation of how this batch was chosen and created. Optionally, any other `identifier` come after this, and can be used to denote different batches created from the same issue. Because batches can be reused for disparate projects, an identifier can indicate some property about the GUIDs in that batch, but should not indicate any particulars of the annotation project that the batch was used for. If no real discerning quality can be used as an identifier, use `abcd` lettering to denote numbering.
 
 Examples: `aapb-collaboration-27-a.txt` and `aapb-collaboration-27-b.txt`
 
-
-## Fieldnaming Conventions for Gold Datasets
-
-This convention only applies to gold data, not raw data.
-
-* `GUID` (all caps) - the AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
-* `start`, `end` - For "anchor" columns annotating a time duration of a phenomenon (e.g., character offsets, time intervals, etc.) use `start`, `end` for the column names.
-* `entry` - this is also called index, or the tag number for how many annotations there are. e.g. The first piece of labelled data is "1".
+If a batch is not named after a GitHub issue then the name should be informative and be a decent abbreviation of the description in the batch comment.
 
 
-#### Not Yet Standardized Fieldnames
+## Field Naming Conventions for Gold Datasets
 
-* _`text` - it remains under discussion whether it is ideal to use a standardized column name for the text we are annotating with an entry label. 
-An issue could arise in that each project is seeking different kinds of texts and perhaps in different ways. This standardization could then be confusing._
-* _`index` - the index numbering of the examples. For instance, there could be three chyrons in one GUID detected; they would be labeled "1", "2", "3". This standardization has not been adopted yet._
+These conventions only apply to gold data, not raw data. The following column/field names are standardized:
+
+* `GUID` (all caps) - The AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
+* `start`, `end` - Anchor columns annotating a time duration of a phenomenon (e.g., character offsets and time intervals).
+
+Common, but not yet standardized, field names:
+
+* `index` - An autonumber counting the annotations. The first piece of labelled data is "1".
+* `text` - It remains under discussion whether it is ideal to use a standardized column name for the text we are annotating with an entry label. An issue could arise in that each project is seeking different kinds of texts and perhaps in different ways. This standardization could then be confusing.
+* `timestamp` - An anchor colum for a time point.
+* `label` - The label for an annotation, similar to the MMIF Vocabulary [label](https://mmif.clams.ai/vocabulary/Annotation/v5/) property.

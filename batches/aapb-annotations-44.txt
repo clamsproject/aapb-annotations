@@ -1,4 +1,10 @@
-# see https://github.com/clamsproject/aapb-annotations/issues/44 for selection process
+# --------------------------------------------------------------------------------
+# A set of videos that have various instances of "scenes with text" that are ideal
+# for creating labeled data for roles and fillers (key-value pairs) extraction.
+#
+# See https://github.com/clamsproject/aapb-annotations/issues/44 for the selection
+# process and other additional information.
+# --------------------------------------------------------------------------------
 # /llc_data/clams/wgbh/NewsHour
 cpb-aacip-507-6t0gt5g28c
 cpb-aacip-507-rj48p5w80b

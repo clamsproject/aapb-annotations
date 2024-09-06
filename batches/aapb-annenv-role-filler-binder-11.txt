@@ -1,5 +1,9 @@
-# for more details, see https://github.com/clamsproject/aapb-annenv-role-filler-binder/issues/11
-# this batch was used in RFB for practice OR round1.
+# --------------------------------------------------------------------------------
+# A small set of data that can used to train new annotators for the role-filler
+# task. Sometimes also used for round1 annotation.
+#
+# See https://github.com/clamsproject/aapb-annenv-role-filler-binder/issues/11.
+# --------------------------------------------------------------------------------
 cpb-aacip-259-nv998n13
 cpb-aacip-507-930ns0mg7g
 cpb-aacip-512-cj87h1fh8t

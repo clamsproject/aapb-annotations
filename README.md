@@ -65,7 +65,13 @@ The gold dataset is a set of files that are in a format that is ready for machin
 2. evaluation of CLAMS app outputs,
 3. other public usage
 
-As we keep some rules for how `golds` files are organized (see below), users of the AAPB-CLAMS dataset may find it easier to use gold data than raw data for machine consumption.
+There are some rules on the content and structure of the gold directory:
+ 
+1. There _must_ be one file per GUID, and the GUID should be part of the filename.
+2. The number of gold files in this directory _must_ match the sum of GUIDs in all batches annotated. This means that there cannot be any overlap between assets in batches.
+3. The `golds` directory _may_ have subdirectories, but these subdirectories should not reflect batch structure. An example of this is for the `scene-recognition` project, where there are subdirectories for time points and for time frames. No further directory structure is allowed.
+
+Given these rules, which are followed by the conversion code below, users of the AAPB-CLAMS dataset may find it easier to use gold data than raw data for machine consumption.
 
 
 #### Scripts for format conversion
@@ -73,7 +79,7 @@ As we keep some rules for how `golds` files are organized (see below), users of 
 > [!IMPORTANT]
 > _(usually)_ `process.{sh,py}` _and dependencies_
 
-This is typically a single script to process the raw annotation files and generate the gold dataset.
+This is typically a single script to process the raw annotation files and generate the gold data.
 The input file format (i.e., direct output from the annotation process) can vary (e.g. `.csv`, `.json`, `.txt`). The output file format must be a common machine-readable data format (CSV, JSON, but definitely not MMIF), and is **subject to change** for any future requirements in the consumption software. 
 Thus, users of a gold dataset should be aware of the version of the gold dataset they are using, and are recommended to use [permalinks](https://docs.github.com/en/repositories/working-with-files/using-files/getting-permanent-links-to-files) to refer to a specific version of the gold dataset in their code or documentation.
 
@@ -82,12 +88,6 @@ Removed link associated with "definitely not MMIF" since it does not seem useful
 for refernece
 [definitely not MMIF](https://github.com/clamsproject/mmif/issues/153#issuecomment-1485513488))
 -->
-
-To ensure consistency between data consumption software, there are a few requirements for the `process.py` script:
-
-1. The script _must_ generate one file per GUID.
-2. The number of gold files in this directory _must_ match the sum of GUIDs in all batches (`YYMMDD-xxx` subdirectories) annotated. This means that there cannot be any overlap between assets in batches.
-3. The `golds` directory _may_ have subdirectories, but these subdirectories should not reflect batch structure. An example of this is for the `scene-recognition` project, where there are subdirectories for time points and for timeframes.
 
 In addition to the main script, if the code requires additional dependencies/scripts, they should be in the same level at that subdirectory. Dependencies on third-party modules can be documented in the `README.md` file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
 
@@ -132,11 +132,6 @@ Project-specific information, including but not limited to:
 <a name='repository-level-conventions'></a>
 ## Repository-level Conventions
 
-> Please see the [Repository-level Conventions file](repository_level_conventions.md) for standardizations, explanations and conventions. 
-
-
-### TL;DR
-
 > [!IMPORTANT]
 > Media Time = `hh:mm:ss.mmm` with a **DOT**  
 > Annotation times are usually a little imprecise because audiovisual phenomena are, or visualizing/labelling of such is.  
@@ -144,27 +139,29 @@ Project-specific information, including but not limited to:
 > Directionality definitions help frame the boundaries meant by annotated times.  
 > The fields in the gold datasets should be standardized.
 
+Please see the [Repository-level Conventions file](repository_level_conventions.md) for more on standardizations and conventions. 
+
 
 ## List of Current Projects/Subdirectories
 
-_This section is currently manually updated and may be incomplete. It contains information up to the readme's editing date._ 
+_This section is manually updated and may be incomplete._ 
 
-* (`batches`)
 * `january-slates` - slates are actual visible frames within the video media that contain the metadata and other identifying information of that video. 
     * eg. program name, director, producer, etc.
     * Project done in January. This is an outdated naming convention.
+
 * `newshour-chyron` - drawn from the [NewsHour](https://americanarchive.org/special_collections/newshour) TV broadcast, 
 this project annotates text appearing on screen, usually above or below the main action saying things such as "Breaking News", "Joan, author".
-* `newshour-namedentity` - from NewsHour. This project annotated [named entities](https://www.techtarget.com/searchbusinessanalytics/definition/named-entity#:~:text=In%20data%20mining%2C%20a%20named,phone%20numbers%2C%20companies%20and%20addresses.)
-found within the video _transcript_ along with which characters denoted that named entity and its type
- (see `newshour-namedentity/{guidelines,readme}.md`).
-* `newshour-namedentity-wikipedialink` - from NewsHour. This project used the previous project's dataset and added
-an extra label of which wikimedia link referred to the named entity annotated, eg. https://www.wikidata.org/wiki/Q931148.
+
+* `newshour-namedentity` - from NewsHour. This project annotated [named entities](https://www.techtarget.com/searchbusinessanalytics/definition/named-entity#:~:text=In%20data%20mining%2C%20a%20named,phone%20numbers%2C%20companies%20and%20addresses.) found within the video _transcript_ along with which characters denoted that named entity and its type (see `newshour-namedentity/{guidelines,readme}.md`).
+
+* `newshour-namedentity-wikipedialink` - from NewsHour. This project used the previous project's dataset and added an extra label of which wikimedia link referred to the named entity annotated, eg. https://www.wikidata.org/wiki/Q931148.
+
 * `newshour-transcript` - from NewsHour. This project found the start and end times for 10 tokens of closed captioning at a time from the transcript to the video. 
-* `role-filler-binding` - This project uses the [role filler binding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8019313/#:~:text=These%20structures%20can,understand%20new%20situations.) linguistic theory to attempt to extract and organize Optical Character Recognized (OCR) text into a structured and readable set of metadata pairs. 
-The pairs are usually a role of a production-collaborator or role of a person-within-the-video... and the named, capitalized person name that fills that role. 
-* `scene-recogntion` - This project builds the dataset meant to train ML models to recognize scenes/frames/timeframes that interest GBH/AAPB/CLAMS for extracting metadata such as slates, chyrons, credits, important-people-being-interviewed. 
-This is a combined effort to recognize these kinds of frames and find the timeframes where they exist in aggregate, drawing upon findings in previous projects.
+
+* `role-filler-binding` - This project uses the [role filler binding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8019313/#:~:text=These%20structures%20can,understand%20new%20situations.) linguistic theory to attempt to extract and organize Optical Character Recognized (OCR) text into a structured and readable set of metadata pairs. The pairs are usually a role of a production-collaborator or role of a person-within-the-video... and the named, capitalized person name that fills that role. 
+
+* `scene-recogntion` - This project builds the dataset meant to train ML models to recognize scenes/frames/timeframes that interest GBH/AAPB/CLAMS for extracting metadata such as slates, chyrons, credits, important-people-being-interviewed. This is a combined effort to recognize these kinds of frames and find the timeframes where they exist in aggregate, drawing upon findings in previous projects.
 
 
 ## Issue Tracking and Conversation Archive
