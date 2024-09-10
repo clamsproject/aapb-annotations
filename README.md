@@ -30,6 +30,18 @@ Batches precede annotation projects, but some batches may be created just for th
 
 * Each line in the file must be either a single AAPB GUID or a comment starting with a `#`. The first lines are typically batch-level comments, while later comment lines may specify sources for subsequent AAPB GUIDs.
 
+Typically, batch-level comments start and end with a comment line with just hyphens, for example, for aapb-annotations-44 we have:
+
+```
+# --------------------------------------------------------------------------------
+# A set of videos that have various instances of "scenes with text" that are ideal
+# for creating labeled data for roles and fillers (key-value pairs) extraction.
+#
+# See https://github.com/clamsproject/aapb-annotations/issues/44 for the selection
+# process and other additional information.
+# --------------------------------------------------------------------------------
+```
+
 <!--
 * The first comment lines of each batch, up to an empty line, is understood to be a batch-level comment with a description of the batch and often a link to the Github issue that the batch was named after.
 -->
