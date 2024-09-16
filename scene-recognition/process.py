@@ -24,7 +24,7 @@ def truncate(value, is_total = False):
     and truncates to either the total_ms value or the timestamp value based on boolean is_total
     """
     if is_total:
-        truncated = value.split("_")[-2]
+        truncated = value.split("_")[1]
     else:
         # get last portion of value, delimited by underscores
         truncated = value.split("_")[-1]
