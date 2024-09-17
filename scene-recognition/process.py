@@ -143,5 +143,5 @@ if __name__ == '__main__':
                 source = file
                 destination_points = goldpath / 'timepoints' / file.name
                 destination_frames = goldpath / 'timeframes' / file.name
-                #copy_timepoints(source, destination_points)
+                copy_timepoints(source, destination_points)
                 copy_timeframes(source, destination_frames)
