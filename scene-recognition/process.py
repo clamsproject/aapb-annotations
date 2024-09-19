@@ -9,6 +9,7 @@ import re
 import shutil
 import pandas as pd
 
+
 def truncate(value, is_total = False):
     """
     This method takes in strings of filenames from the original format (filename column)
@@ -22,6 +23,8 @@ def truncate(value, is_total = False):
         # remove file extension
         truncated = truncated[:-4]
     return truncated
+
+
 def convert_ISO(value, is_total):
     """
     This method takes in a string of milliseconds and then converts the milliseconds to
