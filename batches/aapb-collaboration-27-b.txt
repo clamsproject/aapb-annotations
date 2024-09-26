@@ -1,6 +1,13 @@
-# full metadata is available at https://docs.google.com/spreadsheets/d/1C1s7tJErZL3mEME78oTjaRxhWjD2Ke9pIIKFQcSyM8E/edit#gid=0 and for information on selection please visit: https://github.com/clamsproject/aapb-collaboration/issues/27
-# This batch contains varied handpicked videos for scene recognition with variability in the slates/chyrons/credits. this batch is the sparsely-labelled one used in SR.
-# This batch has 21 items.
+# --------------------------------------------------------------------------------
+# This batch contains 21 handpicked videos for scene recognition with variability
+# in slates, chyrons and credits. It was originally intended for sparse time point
+# labeling for the Scene Recognition application.
+#
+# See https://github.com/clamsproject/aapb-collaboration/issues/27 for the issue 
+# on time frame detection that motivated this batch and related batches.
+#
+# Full metadata is available at https://docs.google.com/spreadsheets/d/1C1s7tJErZL3mEME78oTjaRxhWjD2Ke9pIIKFQcSyM8E/edit#gid=0
+# --------------------------------------------------------------------------------
 cpb-aacip-254-75r7szdz
 cpb-aacip-259-4j09zf95
 cpb-aacip-526-hd7np1xn78
