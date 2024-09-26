@@ -18,7 +18,6 @@ import pandas as pd
 USE_SUBLABEL = False
 
 
->>>>>>> 99-documentation
 def truncate(value, is_total = False):
     """
     This method takes in strings of filenames from the original format (filename column)
