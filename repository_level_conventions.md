@@ -23,18 +23,22 @@ Conventions on data formatting and precision, file names and data field names.
 
 The time format for all (gold) datasets in this repository is [ISO 8601 Time Format](https://en.wikipedia.org/wiki/ISO_8601#Times), with time precision of up to hours and down to milliseconds placed after seconds with a **DOT**, where `00:00:00.000` means the very beginning of a time-based media (not midnight real-time). This instruction is for the "gold" data formats throughout this repository, except where exceptions are required and documented.
 
-> _TODO: Current/Old gold datasets and tools have yet to be converted._
+> _TODO: Some gold datasets and tools have not yet been converted._
 
 During raw annotation however, third-party annotation tools may use different time formats. The expectation for any in-house tools and apps is to use this standard. If configurable, annotations tool should be configured to use this format. If possible, the annotator should also be instructed to use this format.
 
 > _TODO: the following prose is unclear_
 
+Due to algorithmic differences in compression/decompression and their implementations in video players for human watchers, we may lose temporal precision. However, this is most likely to be in the order of a few milliseconds and hence not a significant problem.
+
+<!--
 For MPEG-based video files, frame numbers are converted to milliseconds with loss of precision past 3-digits. 
 However, due to exact time -> still-image-fetching being dependent on the video compression/codec/player, there is no expected need for precision past 3-digits. 
 It is assumed that different video players will regenerate images on screen slightly differently based on the decompression algorithms. 
 To that end, it is unlikely that even given a specific time moment that a person in one place would be able to extract exactly the same pixels 
 in a frame as another person doing it somewhere else.  
 The other reason frames was not chosen to divide seconds is that the collection also contains radio assets with audio only. Audio does not have frames.  
+-->
 
 
 ### Imprecision in Annotation in General

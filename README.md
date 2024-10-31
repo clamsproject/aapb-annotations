@@ -24,7 +24,7 @@ Annotation batches are stored in the `batches` subdirectory, which tracks source
 
 Smaller selections of the AAPB collection are chosen and cataloged as batches in this subdirectory. These sets are chosen for a variety of reasons, but are typically designed to help evaluate or improve CLAMS  applications. A batch is the set of the identifying GUIDs/tags for a group of media assets. An AAPB GUID is a unique identifying string that can be used at the AAPB website to find one particular media and its supporting files, eg. `cpb-aacip-96d289b264c` at [https://americanarchive.org/catalog/cpb-aacip-96d289b264c](https://americanarchive.org/catalog/cpb-aacip-96d289b264c). The AAPB GUID is not a [Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier), it is unique only within the scope of the AAPB.
 
-Batches precede annotation projects, but some batches may be created just for the purpose of a single annotation project. Annotation projects then choose appropriate batches to structure the work (see the [raw annotation data](#raw-annotation-files) section). Each batch is defined by a `BATCH_NAME.txt` file in this directory.
+Batches precede annotation projects, but some batches may be created just for the purpose of a single annotation project. Annotation projects then choose appropriate batches to structure the work (see the [raw annotation data](#raw-annotation-data) section). Each batch is defined by a `BATCH_NAME.txt` file in this directory.
 
 * Batches are often named after their relevant GitHub issue from the [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration).
 
@@ -52,6 +52,7 @@ Typically, batch-level comments start and end with a comment line with just hyph
 Every other directory in this repository represents a specific annotation project. The subdirectory name is the name of the project. A project directory includes raw output from the annotation process, gold-formatted final output data files for tool ingestion, a software-suite for converting files from raw to gold, and a project-specific `readme.md` explaining the project and its annotation guidelines.
 
 
+<a name='raw-annotation-files'></a>
 #### Raw annotation data
 
 > [!IMPORTANT]

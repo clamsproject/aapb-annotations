@@ -2,10 +2,7 @@
 # A batch with 887 videos for slate annotation. Originally part of a set of about
 # 4000 videos that were selected for this task.
 # 
-# See https://github.com/clamsproject/aapb-collaboration/issues/79 for more info.
-#
-# Note that the issue identifier on this batch does not match the related issue,
-# probably due to a human error somewhere in the loop.
+# See https://github.com/clamsproject/aapb-collaboration/issues/7 for more info.
 # --------------------------------------------------------------------------------
 cpb-aacip-129-000003cx
 cpb-aacip-129-000003dn
