@@ -1,4 +1,10 @@
-# see https://github.com/clamsproject/aapb-annotations/issues/79 for more info
+# --------------------------------------------------------------------------------
+# Originally, a set of about 4000 videos was selected for slate annotation. This 
+# batch has the GUIDs that were not include in batch aapb-collaboration-7, which
+# contains the GUIDs of assets that were annotated.
+# 
+# See https://github.com/clamsproject/aapb-collaboration/issues/7 for more info.
+# --------------------------------------------------------------------------------
 cpb-aacip-129-29p2npfh
 cpb-aacip-129-29p2npg7
 cpb-aacip-129-29p2nphz
