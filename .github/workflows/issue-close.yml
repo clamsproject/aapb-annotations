@@ -1,0 +1,15 @@
+name: "🙅 Unassign assignees"
+
+on:
+  issues:
+    types:
+      - closed
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  call-unassign:
+    name: "🤙 Call unassignment workflow"
+    uses: clamsproject/.github/.github/workflows/repo-issue-close.yml@main
+    secrets: inherit

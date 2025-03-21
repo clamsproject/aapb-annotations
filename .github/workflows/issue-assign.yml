@@ -1,0 +1,11 @@
+name: "🙆 Assign issue"
+
+on:
+  create:
+
+jobs:
+  call-assign:
+    if: github.ref_type == 'branch'
+    name: "🤙 Call assignment workflow"
+    uses: clamsproject/.github/.github/workflows/repo-issue-assign.yml@main
+    secrets: inherit
