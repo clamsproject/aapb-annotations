@@ -6,7 +6,9 @@ for each annotation in the project file.
 import csv
 import json
 import pathlib
+import shutil
 from collections import defaultdict as ddict
+from pathlib import Path
 
 
 def timeformat(sec_dot_ms):
@@ -20,11 +22,11 @@ def timeformat(sec_dot_ms):
     h, m = divmod(m, 60)
     return f'{h:02d}:{m:02d}:{s:02d}.{ms:03d}'
 
+
 def process(raw_dir, golds_dir):
-    golds_dir.mkdir(exist_ok=True)
     # Loop through each file in the input directory and process it
     csv_data = []
-    for via_f in pathlib.Path(raw_dir).glob('*'):
+    for via_f in Path(raw_dir).glob('*'):
         if via_f.suffix == '.json':
             # Load the VIA project file
             data = json.load(open(via_f))
@@ -61,16 +63,24 @@ def process(raw_dir, golds_dir):
         guid_annotation_map[guid].append(row[1:])
     for guid, annotations in guid_annotation_map.items():
         annotations.sort()
-        outf_path = (pathlib.Path(golds_dir) / guid).with_suffix('.csv')
+        outf_path = (Path(golds_dir) / guid).with_suffix('.csv')
         with open(outf_path, 'a+', encoding='utf8') as f:
             writer = csv.writer(f)
-            writer.writerow(['index', 'start', 'end', 'text'])
+            writer.writerow(['index', 'start', 'end', 'text-transcript'])
             for i, annotation in enumerate(annotations, 1):
                 annotation[-1] = annotation[-1].replace('\n', '\\n')
                 writer.writerow([i] + annotation)
-                
+
+
 if __name__ == '__main__':
-    root_dir = pathlib.Path(__file__).parent
-    for batch_dir in root_dir.glob('*'):
-        if batch_dir.is_dir() and len(batch_dir.name) > 7 and batch_dir.name[6] == '-' and all([c.isdigit() for c in batch_dir.name[:6]]):
-            process(batch_dir, root_dir / 'golds')
+    task_dir = pathlib.Path(__file__).parent
+    golds_dir = task_dir / 'golds'
+
+    # delete golds directory if it exists
+    shutil.rmtree(golds_dir, ignore_errors=True)
+    # then start from clean slate
+    golds_dir.mkdir(exist_ok=True)
+
+    # find all directories starts with six digits and a dash
+    for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
+        process(batch_dir, golds_dir)
