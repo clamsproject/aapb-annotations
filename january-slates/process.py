@@ -5,11 +5,12 @@ To read all the tabular files from in the YYMMDD-batchname directories and gener
 
 import os
 import pathlib
+import shutil
 
 import pandas as pd
 
 
-def process_csv(input_directory, output_directory):
+def process(input_directory, output_directory):
     desired_columns = ["GUID", "collection", "start", "end", "type", "digital", "format-summary", "moving-elements"]
     for filename in os.listdir(input_directory):
         if filename.endswith(".csv"):
@@ -80,10 +81,14 @@ def process_csv(input_directory, output_directory):
 
 
 if __name__ == '__main__':
-    root_dir = pathlib.Path(__file__).parent
-    for batch_dir in root_dir.glob('*'):
-        if batch_dir.is_dir() and len(batch_dir.name) > 7 and batch_dir.name[6] == '-' and all([c.isdigit() for c in batch_dir.name[:6]]):
-            print(f'Processing {batch_dir.name}...')
-            process_csv(batch_dir.name, root_dir / 'golds')
+    task_dir = pathlib.Path(__file__).parent
+    golds_dir = task_dir / 'golds'
 
+    # delete golds directory if it exists
+    shutil.rmtree(golds_dir, ignore_errors=True)
+    # then start from clean slate
+    golds_dir.mkdir(exist_ok=True)
 
+    # find all directories starts with six digits and a dash
+    for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
+        process(batch_dir, golds_dir)
