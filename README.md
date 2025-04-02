@@ -60,7 +60,7 @@ Every other directory in this repository represents a specific annotation projec
  
 This directory contains output files from the manual annotation process created by an annotation tool or by hand. 
 
-The raw annotation files are organized by batch name and starting date of the annotation. A single "period" of the annotation is the whole process of a single batch of source data (AAPB assets) being annotated. The `YYMMDD-` prefix _must_ indicate the time when a batch of annotation is conducted (that is, when the batch is first prepared and used for annotation). The `batchName` part of the directory name _must_ match the basename of one of the `.txt` files in the [annotation batches directory](#annotation-batches). The date and batch name prefixes are used for sorting annotation processes and machine ingestion of the raw data. 
+The raw annotation files are organized by batch name and starting date of the annotation. A single "period" of the annotation is the whole process of a single batch of source data (AAPB assets) being annotated. The `YYMMDD-` prefix _must_ indicate an associated time to a batch of annotation (usually that is when the batch is first prepared and used for annotation, or completed and delivered). The `batchName` part of the directory name _must_ match the basename of one of the `.txt` files in the [annotation batches directory](#annotation-batches). The date and batch name prefixes are used for sorting annotation processes and machine ingestion of the raw data. 
 
 Different annotation tools create different file formats, hence we need conversion of the raw annotation files to files with a common format for the gold data.
 
@@ -82,18 +82,17 @@ There are some rules on the content and structure of the gold directory:
  
 1. There _must_ be one file per GUID, and the GUID should be part of the filename.
 2. The number of gold files in this directory _must_ match the sum of GUIDs in all batches annotated. This means that there cannot be any overlap between assets in batches.
-3. The `golds` directory _may_ have subdirectories, but these subdirectories should not reflect batch structure. An example of this is for the `scene-recognition` project, where there are subdirectories for time points and for time frames. No further directory structure is allowed.
+3. The `golds` directory _may_ have subdirectories, but these subdirectories should not reflect batch structure, but rather different division of annotation type (e.g. pure named entity span annotation vs. named entity span + some grounding annotation) or format (same information but formated as timepoints vs. time intervals).
 
 Given these rules, which are followed by the conversion code below, users of the AAPB-CLAMS dataset may find it easier to use gold data than raw data for machine consumption.
-
 
 #### Scripts for format conversion
 
 > [!IMPORTANT]
-> _(usually)_ `process.{sh,py}` _and dependencies_
+> _(usually)_ `process.{sh,py}`
 
 This is typically a single script to process the raw annotation files and generate the gold data.
-The input file format (i.e., direct output from the annotation process) can vary (e.g. `.csv`, `.json`, `.txt`). The output file format must be a common machine-readable data format (CSV, JSON, but definitely not MMIF), and is **subject to change** for any future requirements in the consumption software. 
+The input file format (i.e., direct output from the annotation process) can vary (e.g. `.csv`, `.json`, `.txt`). The output file format must be a common machine-readable data format (CSV, TSV, JSON, but definitely not MMIF), and is **subject to change** for any future requirements in the consumption software. 
 Thus, users of a gold dataset should be aware of the version of the gold dataset they are using, and are recommended to use [permalinks](https://docs.github.com/en/repositories/working-with-files/using-files/getting-permanent-links-to-files) to refer to a specific version of the gold dataset in their code or documentation.
 
 <!--
