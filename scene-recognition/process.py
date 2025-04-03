@@ -24,8 +24,9 @@ def format_timecode(value):
     This method takes in a string of milliseconds and then converts the milliseconds to
     ISO standard timestamps.
     """
-    guid, cur, _ = value.split('.')[0].split("_", maxsplit=2)
-    ms = int(cur)
+    _, cur = value.split('.')[0].rsplit("_", maxsplit=1)
+    # remove extension and cast type 
+    ms = int(cur.split(".")[0])
     # 3600000 milliseconds per hour, 60000 milliseconds per minute, 1000 miliseconds per second
     hours = ms // 3600000
     ms %= 3600000
