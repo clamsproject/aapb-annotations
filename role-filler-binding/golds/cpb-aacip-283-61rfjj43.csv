@@ -1,0 +1,103 @@
+at,scene-type,skipped,role-fillers
+00:55:40.340,credits,True,DUPLICATE
+00:55:40.840,credits,True,DUPLICATE
+00:55:41.341,credits,True,DUPLICATE
+00:55:41.841,credits,True,DUPLICATE
+00:55:42.342,credits,True,DUPLICATE
+00:55:42.842,credits,True,DUPLICATE
+00:57:04.424,credits,False,PRODUCER/DIRECTOR=David Davis
+00:57:04.924,credits,True,DUPLICATE
+00:57:05.425,credits,True,DUPLICATE
+00:57:05.925,credits,True,DUPLICATE
+00:57:06.426,credits,True,DUPLICATE
+00:57:06.926,credits,True,DUPLICATE
+00:57:07.427,credits,False,PRODUCER/DIRECTOR=David Davis
+00:57:07.927,credits,False,PRODUCER/DIRECTOR=David Davis|CAMERA=Jerry Weissman
+00:57:08.428,credits,True,DUPLICATE
+00:57:08.928,credits,True,DUPLICATE
+00:57:09.429,credits,False,PRODUCER/DIRECTOR=David Davis|CAMERA=Jerry Weissman
+00:57:09.929,credits,False,CAMERA=Jerry Weissman
+00:57:10.430,credits,False,CAMERA=Jerry Weissman|AUDIO=Toby Higashi
+00:57:10.930,credits,True,DUPLICATE
+00:57:11.431,credits,True,DUPLICATE
+00:57:11.931,credits,False,CAMERA=Jerry Weissman|AUDIO=Toby Higashi
+00:57:12.432,credits,False,CAMERA=Jerry Weissman|AUDIO=Toby Higashi|EDITOR=David Davis
+00:57:12.932,credits,False,*Camera=Jerry Weissman|AUDIO=Toby Higashi|EDITOR=David Davis
+00:57:13.433,credits,False,AUDIO=Toby Higashi|EDITOR=David Davis with
+00:57:13.933,credits,False,AUDIO=Toby Higashi|Editor=David Davis with Tom Speer
+00:57:14.434,credits,True,DUPLICATE
+00:57:14.934,credits,True,DUPLICATE
+00:57:15.435,credits,False,EDITOR=David Davis with Tom Speer
+00:57:15.935,credits,False,EDITOR=David Davis with Tom Speer
+00:57:16.436,credits,False,EDITOR=David Davis with Tom Speer|NARRATOR=Ted d'Arms
+00:57:16.936,credits,True,DUPLICATE
+00:57:22.442,credits,False,RESEARCH=LuAnne Halligan|RESEARCH=Sharon Fisher|RESEARCH=Susan Lerbinger|RESEARCH=Julia Gonzalez
+00:57:22.942,credits,False,RESEARCH=LuAnne Halligan|RESEARCH=Sharon Fisher|RESEARCH=Susan Lerbinger|RESEARCH=Julia Gonzalez|PRODUCTION ASSISTANT=LuAnne Halligan*
+00:57:23.443,credits,False,RESEARCH=LuAnne Halligan|RESEARCH=Sharon Fisher|RESEARCH=Susan Lerbinger|RESEARCH=Julia Gonzalez|PRODUCTION ASSISTANT=LuAnne Halligan
+00:57:23.943,credits,False,PRODUCTION ASSISTANT=LuAnne Halligan
+00:57:24.444,credits,False,PRODUCTION ASSISTANT=LuAnne Halligan
+00:57:24.944,credits,False,PRODUCTION ASSISTANT=LuAnne Halligan
+00:57:25.445,credits,False,PRODUCTION ASSISTANT=LuAnne Halligan|POST PRODUCTION SUPERVISOR=Maggi Briggs
+00:57:25.945,credits,False,PRODUCTION ASSISTANT=LuAnne Halligan|POST PRODUCTION SUPERVISOR=Maggi Briggs
+00:57:26.446,credits,True,DUPLICATE
+00:57:26.946,credits,False,PRODUCTION ASSISTANT=LuAnne Halligan|POST PRODUCTION SUPERVISOR=Maggi Briggs
+00:57:27.447,credits,True,DUPLICATE
+00:57:27.947,credits,False,PRODUCTION ASSISTANT=LuAnne Halligan|POST PRODUCTION SUPERVISOR=Maggi Briggs|AUDIO SUPERVISOR=Bill Fast
+00:57:33.453,credits,False,VIDEOTAPE EDITOR=Ernie Sauerland|GRAPHIC DESIGN=Robert Turner
+00:57:33.953,credits,False,VIDEOTAPE EDITOR=Ernie Sauerland|GRAPHIC DESIGN=Robert Turner
+00:57:34.454,credits,True,DUPLICATE
+00:57:34.954,credits,False,VIDEOTAPE EDITOR=Ernie Sauerland|GRAPHIC DESIGN=Robert Turner|ADDITIONAL VIDEOGRAPHY=Tom Speer
+00:57:35.455,credits,False,GRAPHIC DESIGN=Robert Turner|ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko
+00:57:35.955,credits,False,GRAPHIC DESIGN=Robert Turner|ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko
+00:57:36.456,credits,False,GRAPHIC DESIGN=Robert Turner|ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko|ADDITIONAL VIDEOGRAPHY=Ted Overman
+00:57:36.956,credits,True,DUPLICATE
+00:57:37.457,credits,False,ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko|ADDITIONAL VIDEOGRAPHY=Ted Overman
+00:57:37.957,credits,False,ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko|ADDITIONAL VIDEOGRAPHY=Ted Overman
+00:57:38.458,credits,False,ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko|ADDITIONAL VIDEOGRAPHY=Ted Overman|ADDITIONAL AUDIO=Fugate Holt
+00:57:38.958,credits,False,ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko|ADDITIONAL VIDEOGRAPHY=Ted Overman|ADDITIONAL AUDIO=Fugate Holt
+00:57:39.459,credits,False,ADDITIONAL VIDEOGRAPHY=Tom Speer|ADDITIONAL VIDEOGRAPHY=David Ko|ADDITIONAL VIDEOGRAPHY=Ted Overman|ADDITIONAL AUDIO=Fugate Holt|ADDITIONAL AUDIO=Ron Baker
+00:57:39.959,credits,False,ADDITIONAL AUDIO=Fugate Holt|ADDITIONAL AUDIO=Ron Baker|ADDITIONAL AUDIO=Cliff Hackel
+00:57:40.460,credits,False,ADDITIONAL AUDIO=Fugate Holt|ADDITIONAL AUDIO=Ron Baker|ADDITIONAL AUDIO=Cliff Hackel
+00:57:40.960,credits,True,DUPLICATE
+00:57:59.479,credits,False,
+00:57:59.979,credits,False,
+00:58:00.480,credits,False,
+00:58:00.980,credits,False,
+00:58:01.481,credits,False,
+00:58:01.981,credits,False,
+00:58:07.487,credits,False,EXECUTIVE PRODUCER=Ron Rubin
+00:58:07.987,credits,True,DUPLICATE
+00:58:08.488,credits,True,DUPLICATE
+00:58:08.988,credits,True,DUPLICATE
+00:58:09.489,credits,False,EXECUTIVE PRODUCER=Ron Rubin
+00:58:09.989,credits,True,DUPLICATE
+00:58:10.490,credits,True,DUPLICATE
+00:58:10.990,credits,True,DUPLICATE
+00:58:31.511,credits,True,no text in image
+00:58:32.012,credits,True,DUPLICATE
+00:58:32.512,credits,True,DUPLICATE
+00:58:33.013,credits,True,DUPLICATE
+00:58:33.513,credits,True,DUPLICATE
+00:58:34.014,credits,True,DUPLICATE
+00:58:34.514,credits,True,DUPLICATE
+00:58:35.015,credits,True,DUPLICATE
+00:58:35.515,credits,True,DUPLICATE
+00:58:36.016,credits,True,DUPLICATE
+00:21:29.289,credits,True,DUPLICATE
+00:21:29.789,credits,True,DUPLICATE
+00:21:30.290,credits,True,DUPLICATE
+00:21:30.790,credits,True,DUPLICATE
+00:21:31.291,credits,True,DUPLICATE
+00:21:31.791,credits,True,DUPLICATE
+00:32:04.924,credits,True,DUPLICATE
+00:32:05.425,credits,True,DUPLICATE
+00:32:05.925,credits,True,DUPLICATE
+00:32:06.426,credits,True,DUPLICATE
+00:32:06.926,credits,True,DUPLICATE
+00:32:07.427,credits,True,DUPLICATE
+00:32:44.964,credits,True,DUPLICATE
+00:32:45.465,credits,True,DUPLICATE
+00:32:45.965,credits,True,DUPLICATE
+00:32:46.466,credits,True,DUPLICATE
+00:32:46.966,credits,True,DUPLICATE
+00:32:47.467,credits,True,DUPLICATE
