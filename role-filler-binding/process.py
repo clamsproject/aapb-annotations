@@ -1,29 +1,21 @@
-#!/usr/bin/env python3
-
 import csv
 import json
-import os
-import sys
+import pathlib
+import shutil
+from mmif.utils import timeunit_helper as tuh
 
-from typing import Dict, List, Union, Tuple
-from clams_utils.aapb import guidhandler
+from typing import Dict, Tuple
+
+FPS = 29.97  # we know all videos in aapb-ann-44 batch are encoded with 29.97 fps. For a future (very unlikley) event of adding more batches to this RFB work, this might need to be double-checked
 
 
 def build_csv_string(annos: Dict) -> Tuple[bool, str]:
-    """Convert a dictionary to a csv string.
-    this is done mainly for portability
-    ### params
-    + annos := dictionary of Role/Filler pairs
-    ### returns
-    + indicates if the annotation was skipped
-    + raw CSV string
-    """
     pruned_annos = {k: v for k, v in annos.items() if k and k[0] != "_" and v}
     is_skipped = False
 
-    out = "\n".join(
+    out = "|".join(
         [
-            f",{role},{filler}"
+            f"{role}={filler}"
             for role, fillers in pruned_annos.items()
             for filler in fillers
         ]
@@ -37,61 +29,38 @@ def build_csv_string(annos: Dict) -> Tuple[bool, str]:
     return is_skipped, out
 
 
-def process_golds(fname: Union[str, os.PathLike]) -> List[Tuple[str, str, str, bool, str]]:
-    """Process a directory of gold files
-    ### params
-    + fname := input raw annotation file name
-    ### returns
-    a list of tuples, each representing a line of the csv
-    """
+def process(raw_dir, golds_dir):
     swt_type_dict = {
         '231117': 'credits'
     }
-    swt_type = swt_type_dict[fname.split('-')[0]]
-    out = []
-    with open(fname, "r", encoding='utf-8') as f:
-        fp_golds = json.load(f)
-        for frame, annotations in fp_golds.items():
-            guid = guidhandler.get_aapb_guid_from(annotations['_image_id'])
+    swt_type = swt_type_dict[raw_dir.name.split('-')[0]]
+    for fname in raw_dir.glob('*.json'):
+        annotations = json.load(open(fname, "r", encoding='utf-8'))
+        out = []
+        for frame, annotation in annotations.items():
+            timecode = tuh._second_to_isoformat(int(frame) / FPS)
             csv_line = (
-                guid,
-                frame,
+                timecode,
                 swt_type,
-                *build_csv_string(annotations)
+                *build_csv_string(annotation)
             )
             out.append(csv_line)
-    return out
+        outfname = golds_dir / fname.with_suffix('.csv').name
+        with open(outfname, "w", encoding='utf-8') as f:
+            writer = csv.writer(f, lineterminator='\n')
+            writer.writerow(["at", "scene-type", "skipped", "role-fillers"])
+            writer.writerows(out)
 
 
-def write_csv(csvs: List[Tuple[str, str, str, bool, str]], outfname: Union[str, os.PathLike]):
-    """Write csv lines to file
+if __name__ == '__main__':
+    task_dir = pathlib.Path(__file__).parent
+    golds_dir = task_dir / 'golds'
 
-    ### params
-    + csvs := list of tuples that represent csv lines
-    + outfname := name of output .csv file
-    ### returns
-    void
-    """
-    with open(outfname, "w", encoding='utf-8') as f:
-        writer = csv.writer(f, lineterminator='\n')
-        writer.writerow(["GUID", "FRAME", "SWT-TYPE", "SKIPPED", "ANNOTATIONS"])
-        writer.writerows(csvs)
+    # delete golds directory if it exists
+    shutil.rmtree(golds_dir, ignore_errors=True)
+    # then start from clean slate
+    golds_dir.mkdir(exist_ok=True)
 
-
-def main():
-    """Main function for processing gold annotations
-    """
-    source_gold_anns_dir = sys.argv[1]
-    out_dir = 'golds'
-    if not os.path.exists(out_dir):
-        os.makedirs(out_dir)
-    for root, _, anns in os.walk(source_gold_anns_dir):
-        for ann in anns:
-            write_csv(
-                process_golds(os.path.join(root, ann)),
-                os.path.join(out_dir, guidhandler.get_aapb_guid_from(ann) + ".gold.csv")
-            )
-
-
-if __name__ == "__main__":
-    main()
+    # find all directories starts with six digits and a dash
+    for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
+        process(batch_dir, golds_dir)

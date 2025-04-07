@@ -19,8 +19,9 @@ In doing so, the script also replaces the underlying text in the CADET srt files
 
 
 """
-import os
 import pathlib
+import shutil
+
 import pysrt
 import difflib
 import argparse
@@ -72,7 +73,7 @@ def srt_to_tsv(srt_filename, gold_transcript_filename, tsv_filename):
     current_length = 0
 
     with open(tsv_filename, 'w', encoding='utf-8') as out:
-        out.write("index\tstart\tend\tcontent\n")
+        out.write("index\tstart\tend\tspeech-transcript\n")
         # sub means subtitles
         for sub in subs:
             index = sub.index
@@ -91,19 +92,15 @@ def srt_to_tsv(srt_filename, gold_transcript_filename, tsv_filename):
             out.write(f"{index}\t{start}\t{end}\t{text_content}\n")
 
 
-def convert_directory(source_directory, destination_directory, gold_transcript_directory):
-    if not os.path.exists(destination_directory):
-        os.makedirs(destination_directory)
-    for filename in os.listdir(source_directory):
-        if filename.endswith('.srt'):
-            gold_transcript_path = filename.split(".")[0]+"-transcript.txt"
-            if gold_transcript_path in os.listdir(gold_transcript_directory):
-                source_path = os.path.join(source_directory, filename)
-                gold_transcript_path = os.path.join(gold_transcript_directory, gold_transcript_path)
-                dest_path = os.path.join(destination_directory, filename.replace('.srt', '.tsv'))
-                srt_to_tsv(source_path, gold_transcript_path, dest_path)
-            else:
-                print(filename, "has no corresponding gold transcript in", gold_transcript_directory)
+def process(source_directory, destination_directory, gold_transcript_directory):
+    for source_path in source_directory.glob('*.srt'):
+        gold_transcript_path = source_path.name.split(".")[0]+"-transcript.txt"
+        gold_txt_path = gold_transcript_directory / gold_transcript_path
+        if gold_txt_path.exists():
+            dest_path = destination_directory / source_path.with_suffix('.tsv').name
+            srt_to_tsv(source_path, gold_txt_path, dest_path)
+        else:
+            print(source_path, "has no corresponding gold transcript in", gold_transcript_directory)
 
 
 if __name__ == '__main__':
@@ -111,9 +108,16 @@ if __name__ == '__main__':
     arg_parser.add_argument('--gold-txt-dir', required=True,
                             help='the directory to the gold transcripts which should be txt files.')
     parsed_args = arg_parser.parse_args()
-    root_dir = pathlib.Path(__file__).parent
-    for batch_dir in root_dir.glob('*'):
-        if batch_dir.is_dir() and len(batch_dir.name) > 7 and batch_dir.name[6] == '-' and all([c.isdigit() for c in batch_dir.name[:6]]):
-            print(f'Processing {batch_dir.name}...')
-            convert_directory(batch_dir.name, root_dir / 'golds', parsed_args.gold_txt_dir)
-    print("Processing complete.")
+    
+    task_dir = pathlib.Path(__file__).parent
+    golds_dir = task_dir / 'golds'
+
+    # delete golds directory if it exists
+    shutil.rmtree(golds_dir, ignore_errors=True)
+    # then start from clean slate
+    golds_dir.mkdir(exist_ok=True)
+
+    # find all directories starts with six digits and a dash
+    for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
+        process(batch_dir, golds_dir, pathlib.Path(parsed_args.gold_txt_dir))
+

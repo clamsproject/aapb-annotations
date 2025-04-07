@@ -1,12 +1,6 @@
-# process script to copy raw csv into new golds directory
-# iterate through each raw directory (use yy-mm-dd pattern to find directories)
-# copy each csv file to golds directory
-
-
-from pathlib import Path
-import numpy as np
-import re
+import pathlib
 import shutil
+
 import pandas as pd
 
 
@@ -25,13 +19,14 @@ def truncate(value, is_total = False):
     return truncated
 
 
-def convert_ISO(value, is_total):
+def format_timecode(value):
     """
     This method takes in a string of milliseconds and then converts the milliseconds to
     ISO standard timestamps.
     """
-    truncated = truncate(value, is_total)
-    ms = int(truncated)
+    _, cur = value.split('.')[0].rsplit("_", maxsplit=1)
+    # remove extension and cast type 
+    ms = int(cur.split(".")[0])
     # 3600000 milliseconds per hour, 60000 milliseconds per minute, 1000 miliseconds per second
     hours = ms // 3600000
     ms %= 3600000
@@ -43,35 +38,46 @@ def convert_ISO(value, is_total):
     return timestamp
 
 
-folder = Path.cwd()
-goldpath = folder / 'golds'
-# iterate through files in scene-recognition
-# if a directory starts w/ yy-mm-dd pattern, copy contents to the golds directory
-for directory in folder.glob('*'):
-    if directory.is_dir() and re.match("[0-9]{2}[0-1][0-9][0-3][0-9]", directory.name):
-        # copy contents by iterating
-        for file in directory.glob('*'):
-            source = file
-            destination = goldpath / file.name
-            shutil.copy2(source, destination)
-            # read in as dataframe to more easily manipulate columns
-            df = pd.read_csv(destination)
-            # create new timestamp column and fill with values
-            df.insert(1, 'timestamp', "")
-            df['timestamp'] = df['filename'].apply(convert_ISO, is_total=False)
-            # add total column (total_ms, second to last set of numbers in filename)
-            df.insert(2, 'total', df['filename'].apply(convert_ISO, is_total=True))
-            # remove unseen
-            df = df[(df.seen != "false") & (df.seen != "False")]
-            # remove seen column
-            df = df.drop('seen', axis=1)
-            # any that are left have been seen. therefore, any rows with label = "" are negative
-            # so their labels should be changed to "-"
-            df.loc[df['type label'].isna(), 'type label'] = '-'
-            # remove first column (filename)
-            df = df.drop('filename', axis=1)
-            # remove transcript and note columns
-            df = df.drop('transcript', axis=1)
-            df = df.drop('note', axis=1)
-            # output to csv with same filename
-            df.to_csv(destination, index=False)
+def process(raw_dir, golds_dir):
+    for file in raw_dir.glob('*'):
+        source = file
+        destination = golds_dir / file.with_suffix('.csv').name
+        # read in as dataframe to more easily manipulate columns
+        df = pd.read_csv(source)
+        # create new timestamp column and fill with values
+        df.insert(1, 'at', "")
+        df['at'] = df['filename'].apply(format_timecode)
+        # remove unseen
+        df = df[(df.seen != "false") & (df.seen != "False")]
+        # remove seen column
+        df = df.drop('seen', axis=1)
+        # any that are left have been seen. therefore, any rows with label = "" are negative
+        # so their labels should be changed to "-"
+        df.loc[df['type label'].isna(), 'type label'] = '-'
+        # then rename columns
+        df = df.rename(columns={
+            'type label': 'scene-type',
+            'subtype label': 'scene-subtype',
+            'modifier': 'transitional',
+        })
+        # remove first column (filename)
+        df = df.drop('filename', axis=1)
+        # remove transcript and note columns
+        df = df.drop('transcript', axis=1)
+        df = df.drop('note', axis=1)
+        # output to csv with same filename
+        df.to_csv(destination, index=False)
+
+
+if __name__ == '__main__':
+    task_dir = pathlib.Path(__file__).parent
+    golds_dir = task_dir / 'golds'
+
+    # delete golds directory if it exists
+    shutil.rmtree(golds_dir, ignore_errors=True)
+    # then start from clean slate
+    golds_dir.mkdir(exist_ok=True)
+
+    # find all directories starts with six digits and a dash
+    for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
+        process(batch_dir, golds_dir)

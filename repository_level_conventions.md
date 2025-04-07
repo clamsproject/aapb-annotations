@@ -16,6 +16,25 @@ Conventions on data formatting and precision, file names and data field names.
 
 ## Data Formatting and Precision Conventions
 
+### Field Naming Conventions
+
+> [!NOTE]
+Also, often referred as "column names" (mainly, we tend to use tabular data formats like CSV, TSV, etc.). 
+
+The field name in the "gold" data should indicate the type of data in the field. 
+That is, fields that contains the same (or similar enough) data should have the same name across different annotation task subdirectories.
+For now, we are keeping the ledger for commonly used names and their data types as follows (see [#117](https://github.com/clamsproject/aapb-annotations/issues/107) for discussion):
+
+| Field(s) Name | Description                                                                         |
+|---------------|-------------------------------------------------------------------------------------|
+| `at` | A time point in a time-based source media.                                          |
+| `start`/`end` | A time interval in a time-based source media.                                       |
+| `scene-label` | A label used for classifying a still shot or a scene from video source.             |
+| `text-transcript` | A text transcription of text visually appearing in the video or image source media. |
+| `speech-transcript` | A text transcription of language spoken in the video or audio source media.         |
+
+As we organized the file named based on the identifiers of the underlying source media, it is not generally recommended to add a field for media identifiers (e.g. `GUID` or `id`).
+
 ### Time Point Notation
 
 > [!IMPORTANT]
