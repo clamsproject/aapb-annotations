@@ -12,13 +12,6 @@ from pathlib import Path
 import pandas as pd
 
 
-# Set this to True if you want the TimeFrames to be sensitive to sublabels, with a
-# sequence [S:D, S:H] you would get a TimeFrame of type S with the current setting,
-# but two TimeFrames with labels S:D and S:H if you include the sublabel. Given the 
-# way the current classifier is trained the former makes much more sense.
-USE_SUBLABEL = False
-
-
 def truncate(value, is_total = False):
     """
     This method takes in strings of filenames from the original format (filename column)
@@ -87,6 +80,11 @@ def copy_timeframes(source, destination):
     """This was used at some point to create timeframes from timepoints, but we are not
     storing derivable data anymore. Keeping it around for a while in case it is useful,
     but this function will be removed at some point."""
+    # Set this to True if you want the TimeFrames to be sensitive to sublabels, with a
+    # sequence [S:D, S:H] you would get a TimeFrame of type S with the current setting,
+    # but two TimeFrames with labels S:D and S:H if you include the sublabel. Given the 
+    # way the current classifier is trained the former makes much more sense.
+    use_sublabel = False
     df = pd.read_csv(source)
     df = amend_dataframe(df)
     current_label = None
@@ -94,36 +92,36 @@ def copy_timeframes(source, destination):
     current_frame = []
     with open(destination, "w") as csv_file:
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(_get_column_names())
+        csv_writer.writerow(_get_column_names(use_sublabel))
         for index, row in df.iterrows():
-            ts = row['timestamp']
-            label = row['type label']
-            sublabel = row['subtype label']
+            ts = row['at']
+            label = row['scene-type']
+            sublabel = row['scene-subtype']
             sublabel = '-' if type(sublabel) is float else sublabel
-            modifier = row['modifier']
+            modifier = row['transitional']
             if _labels_match(current_label, label, current_sublabel, sublabel):
                 current_frame.append((ts, label, sublabel))
             else:
                 if current_frame and current_frame[0][1] != '-':
                     # this takes the modifier of the last timepoint
                     timeframe = _create_timeframe(
-                        current_frame, current_label, current_sublabel, modifier)
+                        current_frame, current_label, current_sublabel, modifier, use_sublabel)
                     csv_writer.writerow(timeframe)
                 current_frame = [(ts, label, sublabel)]
                 current_label = label
                 current_sublabel = sublabel
 
 
-def _get_column_names():
+def _get_column_names(use_sublabel):
     """Helper method for copy_timeframes."""
-    if USE_SUBLABEL:
+    if use_sublabel:
         return ['start', 'end', 'type label', 'subtype label', 'modifier']
     return ['start', 'end', 'type label', 'modifier']
 
 
-def _labels_match(current_label, label, current_sublabel, sublabel):
+def _labels_match(current_label, label, current_sublabel, sublabel, use_sublabel):
     """Helper method for copy_timeframes."""
-    if USE_SUBLABEL:
+    if use_sublabel:
         return current_label == label and current_sublabel == sublabel
     else:
         return current_label == label
