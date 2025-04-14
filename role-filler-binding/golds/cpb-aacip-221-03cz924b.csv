@@ -1,0 +1,55 @@
+at,scene-type,skipped,role-fillers
+00:27:38.658,credits,True,no text in image
+00:27:39.159,credits,True,DUPLICATE
+00:27:39.659,credits,True,not K-V
+00:27:40.160,credits,True,DUPLICATE
+00:27:40.660,credits,True,DUPLICATE
+00:27:41.161,credits,True,DUPLICATE
+00:27:41.661,credits,True,DUPLICATE
+00:27:42.162,credits,True,DUPLICATE
+00:27:42.662,credits,True,no text in image
+00:27:43.163,credits,True,DUPLICATE
+00:27:43.663,credits,True,DUPLICATE
+00:27:44.164,credits,True,DUPLICATE
+00:27:44.664,credits,True,DUPLICATE
+00:27:45.165,credits,False,EXECUTIVE PRODUCER=Jim Cooper
+00:27:45.665,credits,True,DUPLICATE
+00:27:46.166,credits,False,EXECUTIVE PRODUCER=Jim Cooper
+00:27:46.666,credits,False,EXECUTIVE PRODUCER=Jim Cooper|PRODUCER=Ed Miskevich
+00:27:47.167,credits,False,EXECUTIVE PRODUCER=Jim Cooper|PRODUCER=Ed Miskevich
+00:27:47.667,credits,False,EXECUTIVE PRODUCER=Jim Cooper|PRODUCER=Ed Miskevich|DIRECTOR=Harry Ratner
+00:27:48.168,credits,False,PRODUCER=Ed Miskevich|DIRECTOR=Harry Ratner
+00:27:48.668,credits,False,PRODUCER=Ed Miskevich|DIRECTOR=Harry Ratner|COMMUNITY OUTREACH=Jo Caines
+00:27:49.169,credits,False,DIRECTOR=Harry Ratner|COMMUNITY OUTREACH=Jo Caines
+00:27:49.669,credits,False,DIRECTOR=Harry Ratner|COMMUNITY OUTREACH=Jo Caines|TECHNICAL DIRECTOR=Martin Lewis
+00:27:50.170,credits,True,DUPLICATE
+00:27:50.670,credits,False,COMMUNITY OUTREACH=Jo Caines|TECHNICAL DIRECTOR=Martin Lewis
+00:27:51.171,credits,False,COMMUNITY OUTREACH=Jo Caines|TECHNICAL DIRECTOR=Martin Lewis|STAGE MANAGER=Roger Genereux
+00:27:51.671,credits,False,TECHNICAL DIRECTOR=Martin Lewis|STAGE MANAGER=Roger Genereux
+00:27:52.172,credits,False,TECHNICAL DIRECTOR=Martin Lewis|STAGE MANAGER=Roger Genereux|AUDIO=Bob Holden
+00:27:52.672,credits,True,DUPLICATE
+00:27:53.173,credits,False,STAGE MANAGER=Roger Genereux|AUDIO=Bob Holden
+00:27:53.673,credits,False,STAGE MANAGER=Roger Genereux|AUDIO=Bob Holden|VIDEO CONTROL=Walt Eby
+00:27:54.174,credits,False,AUDIO=Bob Holden|VIDEO CONTROL=Walt Eby
+00:27:54.674,credits,False,AUDIO=Bob Holden|VIDEO CONTROL=Walt Eby|VIDEOTAPE=Roger Yoakum
+00:27:55.175,credits,False,VIDEO CONTROL=Walt Eby
+00:27:55.675,credits,False,VIDEO CONTROL=Walt Eby|VIDEOTAPE=Roger Yoakum|CAMERAS=Terry Otto
+00:27:56.176,credits,False,VIDEOTAPE=Roger Yoakum|CAMERAS=Terry Otto|CAMERAS=John Doss|CAMERAS=Ray Si??ss
+00:27:56.676,credits,False,VIDEOTAPE=Roger Yoakum|CAMERAS=Terry Otto|CAMERAS=John Doss|CAMERAS=Ray Siposs
+00:27:57.177,credits,False,VIDEOTAPE=Roger Yoakum|CAMERAS=Terry Otto|CAMERAS=John Doss|CAMERAS=Ray Siposs
+00:27:57.677,credits,False,CAMERAS=Terry Otto|CAMERAS=John Doss|CAMERAS=Ray Siposs|GRAPHICS/PHOTOGRAPHY=Susan Miura
+00:27:58.178,credits,False,CAMERAS=Terry Otto|CAMERAS=John Doss|CAMERAS=Ray Siposs|GRAPHICS/PHOTOGRAPHY=Susan Miura
+00:27:58.678,credits,False,CAMERAS=Terry Otto|CAMERAS=John Doss|CAMERAS=Ray Siposs|GRAPHICS/PHOTOGRAPHY=Susan Miura|PRODUCTION SECRETARY=Pat Adams
+00:27:59.179,credits,False,GRAPHICS/PHOTOGRAPHY=Susan Miura|PRODUCTION SECRETARY=Pat Adams
+00:27:59.679,credits,False,GRAPHICS/PHOTOGRAPHY=Susan Miura|PRODUCTION SECRETARY=Pat Adams|MAKE-UP=Carolyn Dennison
+00:28:00.180,credits,True,DUPLICATE
+00:28:00.680,credits,False,PRODUCTION SECRETARY=Pat Adams|MAKE-UP=Carolyn Dennison
+00:28:01.181,credits,False,PRODUCTION SECRETARY=Pat Adams|MAKE-UP=Carolyn Dennison|ELECTRONIC TITLES=Karen Mahaffey
+00:28:01.681,credits,False,MAKE-UP=Carolyn Dennison|ELECTRONIC TITLES=Karen Mahaffey
+00:28:02.182,credits,False,MAKE-UP=Carolyn Dennison|ELECTRONIC TITLES=Karen Mahaffey|INTERN/RESEARCHER=Mike Monahan
+00:28:02.682,credits,False,ELECTRONIC TITLES=Karen Mahaffey|INTERN/RESEARCHER=Mike Monahan|INTERN/RESEARCHER=Heather Wilson
+00:28:03.183,credits,True,DUPLICATE
+00:28:03.683,credits,True,DUPLICATE
+00:28:04.184,credits,False,INTERN/RESEARCHER=Mike Monahan|INTERN/RESEARCHER=Heather Wilson
+00:28:04.684,credits,True,DUPLICATE
+00:28:05.185,credits,True,DUPLICATE

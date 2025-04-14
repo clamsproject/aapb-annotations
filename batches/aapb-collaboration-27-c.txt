@@ -1,6 +1,14 @@
-# full metadata is available at https://docs.google.com/spreadsheets/d/1C1s7tJErZL3mEME78oTjaRxhWjD2Ke9pIIKFQcSyM8E/edit#gid=0 and for information on selection please visit: https://github.com/clamsproject/aapb-collaboration/issues/27
-# This batch contains varied handpicked videos for scene recognition with variability in the slates/chyrons/credits. This batch-27-c was used as another densely-labelled set in SR, similar to batch-27-a, also dense.
-# This batch has 20 items.
+# --------------------------------------------------------------------------------
+# This batch contains 20 handpicked videos for scene recognition with variability
+# in slates, chyrons and credits. It was originally intended for dense time point
+# labeling for the Scene Recognition application (similar to an earlier batch named
+# aapb-collaboration-27-a).
+#
+# See https://github.com/clamsproject/aapb-collaboration/issues/27 for the issue 
+# on time frame detection that motivated this batch and related batches.
+#
+# Full metadata is available at https://docs.google.com/spreadsheets/d/1C1s7tJErZL3mEME78oTjaRxhWjD2Ke9pIIKFQcSyM8E/edit#gid=0
+# --------------------------------------------------------------------------------
 cpb-aacip-0d338c39a45
 cpb-aacip-0acac5e9db7
 cpb-aacip-0bdc7c8ecc5

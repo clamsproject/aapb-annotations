@@ -1,15 +1,11 @@
-"""
-Processes Slate annotation files. 
-To read all the tabular files from in the YYMMDD-batchname directories and generate one file per GUID in golds
-"""
-
 import os
 import pathlib
+import shutil
 
 import pandas as pd
 
 
-def process_csv(input_directory, output_directory):
+def process(input_directory, output_directory):
     desired_columns = ["GUID", "collection", "start", "end", "type", "digital", "format-summary", "moving-elements"]
     for filename in os.listdir(input_directory):
         if filename.endswith(".csv"):
@@ -31,6 +27,7 @@ def process_csv(input_directory, output_directory):
             for col in df.columns:
                 if df[col].dtype == 'object':
                     df[col] = df[col].str.strip().str.replace(r'\s+', ' ')
+            pos, neg = 0, 0
             for _, row in df.iterrows():
                 guid = row['GUID']
                 csv_filename = f"{guid}.csv"
@@ -56,34 +53,41 @@ def process_csv(input_directory, output_directory):
                         is_annotated = True
                         has_slate = True
                 if not is_annotated:
-                    print(f"Start or end time not annotated for {row_df['GUID'].values[0]}")
+                    # print(f"Start or end time not annotated for {row_df['GUID'].values[0]}")
                     continue
-                v = row_df['type'].values[0]
-                if not has_slate:
-                    row_df['type'] = '-'
-                elif v.lower().startswith('hand') or v.lower().startswith('fixed'):
-                    row_df['type'] = 'h'
-                elif v.lower().startswith('type'):
-                    row_df['type'] = 't'
                 else:
-                    raise ValueError(f"Unknown type: {v}")
-                v = row_df['digital'].values[0]
-                if not has_slate:
-                    row_df['digital'] = False
-                elif v.lower().startswith('digit'):
-                    row_df['digital'] = True
-                elif v.lower().startswith('record'):
-                    row_df['digital'] = False
+                    if has_slate:
+                        pos += 1
+                        # print(f"positive annotation: {pos}")
+                    else:
+                        neg += 1
+                        # print(f"negative annotation: {neg}")
+                # manual inspection of the raw annotation shows that 
+                # "digital" always implied "typed", and "recorded" always implied "handwriting"
+                # there's one instance of "fixed-recorded" combination, but we will treat it 
+                # as "handwriting" for now
+                if has_slate:
+                    subtype = "digital" if row_df['digital'].values[0].startswith('digit') else "handwriting"
                 else:
-                    raise ValueError(f"Unknown type: {v}")
+                    subtype = '-'
+                # drop unnecessary columns
+                row_df.drop(columns=['GUID', 'digital', 'type'], inplace=True)
+                # then add "scene-type" and "scene-subtype" columns based on has_slate and subtype values
+                row_df.insert(3, 'scene-type', 'slate' if has_slate else '-')
+                row_df.insert(4, 'scene-subtype', subtype)
+                # row_df['scene-subtype'] = subtype
                 row_df.to_csv(csv_filepath, index=False, sep=',')
 
 
 if __name__ == '__main__':
-    root_dir = pathlib.Path(__file__).parent
-    for batch_dir in root_dir.glob('*'):
-        if batch_dir.is_dir() and len(batch_dir.name) > 7 and batch_dir.name[6] == '-' and all([c.isdigit() for c in batch_dir.name[:6]]):
-            print(f'Processing {batch_dir.name}...')
-            process_csv(batch_dir.name, root_dir / 'golds')
+    task_dir = pathlib.Path(__file__).parent
+    golds_dir = task_dir / 'golds'
 
+    # delete golds directory if it exists
+    shutil.rmtree(golds_dir, ignore_errors=True)
+    # then start from clean slate
+    golds_dir.mkdir(exist_ok=True)
 
+    # find all directories starts with six digits and a dash
+    for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
+        process(batch_dir, golds_dir)

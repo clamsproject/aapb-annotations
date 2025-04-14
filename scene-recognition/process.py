@@ -34,13 +34,14 @@ def truncate(value, is_total = False):
     return truncated
 
 
-def convert_ISO(value, is_total):
+def format_timecode(value):
     """
     This method takes in a string of milliseconds and then converts the milliseconds to
     ISO standard timestamps.
     """
-    truncated = truncate(value, is_total)
-    ms = int(truncated)
+    _, cur = value.split('.')[0].rsplit("_", maxsplit=1)
+    # remove extension and cast type 
+    ms = int(cur.split(".")[0])
     # 3600000 milliseconds per hour, 60000 milliseconds per minute, 1000 miliseconds per second
     hours = ms // 3600000
     ms %= 3600000
@@ -63,7 +64,7 @@ def copy_timepoints(source, destination):
 def amend_dataframe(df):
     # create new timestamp column and fill with values
     df.insert(1, 'at', "")
-    df['at'] = df['filename'].apply(convert_ISO, is_total=False)
+    df['at'] = df['filename'].apply(format_timecode)
     # Remove unseen rows and the seen column
     # Note: as of April 2025 this does not appear to ever happen
     df = df[(df.seen != "false") & (df.seen != "False")]
@@ -84,7 +85,8 @@ def amend_dataframe(df):
 
 def copy_timeframes(source, destination):
     """This was used at some point to create timeframes from timepoints, but we are not
-    storing derivable data anymore. Keeping it around for a while in case it is useful."""
+    storing derivable data anymore. Keeping it around for a while in case it is useful,
+    but this function will be removed at some point."""
     df = pd.read_csv(source)
     df = amend_dataframe(df)
     current_label = None
