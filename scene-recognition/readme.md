@@ -190,7 +190,7 @@ A set of `.csv` files in which each row is a frame timestamped and with relevant
 Example:
 
 ```
-at,scene-type,subtype label,modifier
+at,scene-type,scene-subtype,transitional
 00:00:41.508,S,G,False
 00:00:47.047,S,G,False
 00:00:50.050,S,G,False
