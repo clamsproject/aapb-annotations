@@ -75,8 +75,7 @@ def amend_dataframe(df):
             'type label': 'scene-type',
             'subtype label': 'scene-subtype',
             'modifier': 'transitional'})
-    # remove old type label column, remove filename, transcript and note columns
-    df = df.drop('type label', axis=1)
+    # remove filename, transcript and note columns
     df = df.drop('filename', axis=1)
     df = df.drop('transcript', axis=1)
     df = df.drop('note', axis=1)
