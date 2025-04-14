@@ -13,7 +13,9 @@ The frames are then annotated for if they fit one of the interest categories or 
 
 Conceptually, the annotation project simply annotates stills found at recurring intervals (but arbitrarily chosen) that do not themselves describe the start and end times of a _scene_. Additional post-processing by software can stitch together these still level annotations into time interval annotations, but manually annotating time intervals is not under scope of the project. 
 
+
 ### Specs
+
 * Annotation Project Name - `scene-recognition`
 * Annotator Demographics
     * Number of annotators - 2
@@ -33,32 +35,36 @@ Conceptually, the annotation project simply annotates stills found at recurring 
         * [`27-e`](240814-aapb-collaboration-27-e) was labeled with "challenging" images, without a fixed sampling rate (or density). Specifically, the annotator ran a SWT model (`20240409-093229.convnext_tiny.kfold_012` model from v4.4) with 500ms sample rate, then re-annotated some images under certain circumstances - 1) top softmax score is too low, 2) sandwiched between different labels.
     * Other version control information - none
 
+
 ## Tool Installation: Keystroke Labeler
-We use [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler), an annotation tool that is developed in GBH for this project.  
-Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [in its repository](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/docs/labeler_data_structure.md).  
-Please refer to the tool source code repository for instructions for installation and usage.  
+
+We use the [Keystroke Labeler](https://github.com/WGBH-MLA/keystrokelabeler), an annotation tool that is developed in GBH for this project. Documentation of the tool, including explanation of inner parts and fields in the labeler can be found [in its repository](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/docs/labeler_data_structure.md). Please refer to the tool source code repository for instructions for installation and usage.  
 
 ![Keystroke Labeler screenshot](keystrokelabeler.png)
 
+
 ### Tool Access
+
 Currently, annotators are accessing the tool via web app instances locally on their personal devices or deployed on servers that Brandeis team manages. When deployed to remote servers, each instance is one GUID/video on its own, and once annotation is done for a video, annotators must _export_ the annotation data into csv or json file and upload to a shared cloud storage space (google drive). This is because the tool doesn't support save-on-server, and during the export process annotators must rename the file name to match the video GUID. 
 
+
 ## Annotation Guidelines
+
 > [!Important]  
 > Please read this explanation of the types of frames first. 
 > [`Types of frames`](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit) is the guidelines for this project along with more specific instructions from this `readme.md`.   
 
+
 ### Preparation
+
 The annotation project manager first needs to extract still images from chosen videos, using the extraction script included in the tool source code (so far all annotation is done with images sampled at 1 frame every 2 seconds). 
 This intends to give some diversity to the frames extracted from the video. 
 The set of frames must be then loaded into the [tool](https://github.com/WGBH-MLA/keystrokelabeler/blob/main/labeler_data_readme.md). 
 
+
 ### What to Annotate
-This tool creates an annotation file that has different columns for each frame.  
-For each frame, pick which category of Frame of Interest or none.   
-Then choose a subtype if needed.   
-Enter the needed keystrokes, including modifier key if needed.  
-In [keystroke mode](https://github.com/WGBH-MLA/keystrokelabeler/tree/main#starting-and-restarting:~:text=explicitly%20defined%20categories%22.-,Modes%3A,-The%20labeler%20has), the tool will move on to the next frame. In editor mode, you can add a `subtype label`. 
+
+This tool creates an annotation file that has different columns for each frame. For each frame, pick which category of Frame of Interest or none. Then choose a subtype if needed. Enter the needed keystrokes, including modifier key if needed. In [keystroke mode](https://github.com/WGBH-MLA/keystrokelabeler/tree/main#starting-and-restarting:~:text=explicitly%20defined%20categories%22.-,Modes%3A,-The%20labeler%20has), the tool will move on to the next frame. In editor mode, you can add a `subtype label`. 
 
 - `seen` (bool) - This attribute describes whether the annotator/tool has annotated the frame. If "seen", that piece of data can be used for ML training.  
 - `type label` (char) - This is which category of Frame of Interest or none. "No label" plus "seen" is the same as not a frame of interest. 
@@ -68,6 +74,7 @@ In [keystroke mode](https://github.com/WGBH-MLA/keystrokelabeler/tree/main#start
 (Other columns are not used)
 
 Other non-data-field terminology/hyper-definitions:  
+
 - "proceed" - This means to move onto the next image, without "seeing" it. 
 - "jump factor" - Not to be confused with the already sampled rate of the image set from the video. Now that the image set is loaded, you can skip through the images by using the jump factor to increase the size of step.  
 - "mode" - Mode of the tool.
@@ -75,38 +82,31 @@ Other non-data-field terminology/hyper-definitions:
 - "annotation density" - This is a qualitative distinction of image sets and how annotated/labeled/seen they are. In the densely-seen `27-a` & `27-c`, each image from the image set is seen by an annotator and labeled. No label is synonymous with a negative-case: seen, labeled as not-of-interest. The "max" density (`27-d`) is done in the densely-seen way, but the entire still frames from the video are annotated, while other batches, frames are samepled at every 2 seconds.
 Conversely, `27-b` is sparsely-seen, which means that only some images from the image set are annotated/labeled/seen. The rest are essentially providing no manual annotation (and thus are "held out" from being used in training our in-house SR model).
 
-The most important types to annotate are highlighted in (green) on the `types of frames` above. These should be clearly delineated from each other in the guideline. 
-The subtypes of slates (blue) is also important to annotate.  
-However, the non-important cases (grey) are various different negative cases that are not frames of interest. These may be similar to positive cases. These are sometimes less distinct between each other. Do the best possible, but move on if too much time is spent figuring out the distinctions.  
-Add the [modifier](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit#heading=h.xnfilznsrhpe) where needed. I.e. Pick the most preferred, clearest `type label`, add "Shift" when making the key combo. 
+The most important types to annotate are highlighted in (green) on the `types of frames` above. These should be clearly delineated from each other in the guideline. The subtypes of slates (blue) is also important to annotate. However, the non-important cases (grey) are various different negative cases that are not frames of interest. These may be similar to positive cases. These are sometimes less distinct between each other. Do the best possible, but move on if too much time is spent figuring out the distinctions. Add the [modifier](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit#heading=h.xnfilznsrhpe) where needed. I.e. Pick the most preferred, clearest `type label`, add "Shift" when making the key combo. 
 
-### How to Annotate It
-The tool uses one or two key-combination presses to annotate the different kinds of frames. A key combination can be a single key, or could be a combo like "Shift + P". Press the relevant one to annotate the `type`. 
-To add a `subtype`, you will need to enter editor mode, use "Esc" key to do that. 
-In editor mode, you will be able to use the up and down arrows to move between `type` and `subtype` entering.
-Press the key combo needed to annotate the main `type`. The press down to move to `subtype` and press another key combo for the relevant choice. Move on with "Enter" or "Return". 
-This will keep you in Editor Mode. To leave editor mode, press "esc". 
-Only Slates has `subtype`s.    
+
+### How to Annotate
+
+The tool uses one or two key-combination presses to annotate the different kinds of frames. A key combination can be a single key, or could be a combo like "Shift + P". Press the relevant one to annotate the `type`. To add a `subtype`, you will need to enter editor mode, use "Esc" key to do that. 
+In editor mode, you will be able to use the up and down arrows to move between `type` and `subtype` entering. Press the key combo needed to annotate the main `type`. The press down to move to `subtype` and press another key combo for the relevant choice. Move on with "Enter" or "Return". This will keep you in Editor Mode. To leave editor mode, press "esc". Only Slates has `subtype`s.    
 
 Add the `modifier` by holding "Shift" and the key of the preferred label. Pick the most preferred, clearest `type label`, add "Shift" when making the key combo. 
 
-If you are using the annotation tool via local-host instance, note that there is no save feature. You must do the annotation in one session. 
-Leaving the browser tab for a short moment is fine. However, extended absence will likely cause the browser to refresh, losing your progress. 
-At the end of your session, "Export" both "JS array" and "CSV".
+If you are using the annotation tool via local-host instance, note that there is no save feature. You must do the annotation in one session. Leaving the browser tab for a short moment is fine. However, extended absence will likely cause the browser to refresh, losing your progress. At the end of your session, "Export" both "JS array" and "CSV".
 
 Tip: Zoom in your browser with "Ctrl/Cmd Plus" if the text is too small. You will only need "Export"s at the end.  
 Tip2: You should stay in Editor Mode until you get out of labelling Slates.  
 
+
 ### Decisions, Differentiations and Precision during Annotation
+
 Please see the guidelines for the differentiation guide.  
 
 #### Data Quality Efforts
+
 It is assumed, due to the low difficulty of the annotation, that high accuracy of the data in one pass is reasonably plausible.
 
-One annotation check was done on the 10 videos added to `27-a` batch by @jarumihooi. 2 videos were checked closely, the other 8 were checked only for beginning Slate labels. 
-The check only looked at frames that were labeled and at the transitions between different labels. 
-Sections with all the same label were also skimmed unless something caught the eye of the checker. 
-No `.csv` files were edited to corrections/checker-decisions.  
+One annotation check was done on the 10 videos added to `27-a` batch by @jarumihooi. 2 videos were checked closely, the other 8 were checked only for beginning Slate labels. The check only looked at frames that were labeled and at the transitions between different labels. Sections with all the same label were also skimmed unless something caught the eye of the checker. No `.csv` files were edited to corrections/checker-decisions.  
 
 Results:  
 
@@ -121,13 +121,18 @@ Results:
   * Non-important errors: 27/902
   * **0.0%** Important Error rate 
 
+
 #### Bounding 
+
 * **subinterval** - Because of the sampling, it is typically best to think of the annotation of frames (at a certain time) as enclosing borders for a subinterval. The annotation should be within the timeframe of the phenomena. Eg. The real onscreen time for a chyron might peek past its annotated time. 
 
+
 ## Data format and `process.py`
+
 ### `raw` data
-`.csv` file - The file contains columns of the labeling of each frame. 
-The file can contain arbitrary amounts of frames that are "unseen"; these are basically not used for ML Training. 
+
+`.csv` file - The file contains columns of the labeling of each frame. The file can contain arbitrary amounts of frames that are "unseen"; these are basically not used for ML Training. 
+
 * Fields:
     * `filename` (string) - the filename of the image to be labeled. Included within the filename of the image is also its time information in ISO format. 
     * `seen` (bool) - indicates whether the item has been seen
@@ -136,7 +141,9 @@ The file can contain arbitrary amounts of frames that are "unseen"; these are ba
     * `modifier` (bool) - indicates whether the label has the "modifier" status
     * `transcript` (string) - not implemented; not used; always an empty string
     * `note` (string) - content varies; for stills chosen based on model predictions, this may indicate the predicted label, score, and reason it was chosen for labeling
+
 * Example:
+
 ```
 $ head -5 cpb-aacip-08fb0e1f287.csv
 "filename","seen","type label","subtype label","modifier","transcript","note"
@@ -144,6 +151,7 @@ $ head -5 cpb-aacip-08fb0e1f287.csv
 "cpb-aacip-08fb0e1f287_02194825_00002002.jpg",true,"","",false,"",""
 "cpb-aacip-08fb0e1f287_02194825_00004004.jpg",true,"B","",false,"",""
 "cpb-aacip-08fb0e1f287_02194825_00006006.jpg",true,"B","",false,"",""
+
 # same for batches a-d
 
 $ head -5 cpb-aacip-00a9ed7f2ba.csv
@@ -153,30 +161,40 @@ cpb-aacip-00a9ed7f2ba_03482649_00047014_00047047.jpg,true,S,G,false,,G: 0.95 San
 cpb-aacip-00a9ed7f2ba_03482649_00050017_00050050.jpg,true,S,G,false,,S: 0.54 Low confidence
 cpb-aacip-00a9ed7f2ba_03482649_00062529_00062529.jpg,true,S,G,false,,G: 0.96 Sandwich
 # for batch e, the filename column is formatted differently `{guid}_{total_time}_{seek_timestamp}_{found_timestamp}.jpg`. Also the annotator left notes on the reason of image selection
-
 ```
+
 
 ### [`process.py`](process.py)
+
 This processing script cleans up the raw data files by performing the following:
-1. Adding (ISO-converted) 'timestamp' and 'total' columns. Data was contained in 'filename' column.
+
+1. Adding an (ISO-converted) 'at' columns, the data was contained in the 'filename' column.
 2. Unseen files are dropped (i.e rows with 'seen'=False).
-3. Empty tags on seen files replaced with "-"
-4. Adding each csv into _golds_ directory, removing intermediate batch directories
-5. Removing unnecessary/redundant columns
+3. Empty tags on seen files are replaced with "-".
+4. Adding each csv to the _golds_ directory, removing intermediate batch directories.
+5. Removing unnecessary/redundant columns.
+6. Renaming some columns.
+
 
 ### `golds` data
-`.csv` file in which each row is a frame timestamped and with relevant labels.
+
+A set of `.csv` files in which each row is a frame timestamped and with relevant labels.
+
 * Fields:
-    * `timestamp` - string representing ISO timestamp of frame
-    * `total` - string representing total duration of frames in file, ISO format
-    * `type label` - string representing type label
-    * `subtype label` - string representing subtype label, if applicable
-    * `modifier` - boolean representing presence of modifier, default False
+    * `at` - string representing the ISO timestamp of the frame
+    * `scene-type` - string representing the type label (from `type label` in raw data)
+    * `scene-subtype` - string representing the subtype label, if applicable (from `subtype label` in raw data)
+    * `transitional` - boolean representing if the image is _transitional_ between two scene types (from `modifier` in raw data)
     * all other columns from the raw data are removed
-* Example:
+
+Example:
+
 ```
-timestamp,total,type label,subtype label,modifier
-00:00:00.000,00:32:46.664,B,,False
-00:00:02.001,00:32:46.664,B,,False
-00:00:04.003,00:32:46.664,B,,False
+at,scene-type,scene-subtype,transitional
+00:00:41.508,S,G,False
+00:00:47.047,S,G,False
+00:00:50.050,S,G,False
+00:01:02.529,S,G,False
+00:01:08.535,O,,False
+00:01:09.536,O,,False
 ```
