@@ -71,9 +71,10 @@ def amend_dataframe(df):
     # Any rows that are left have been seen, therefore, any rows with label = "" are
     # negative so their labels should be changed to "-"
     df.loc[df['type label'].isna(), 'type label'] = '-'
-    # add a scene type column which gets the type label from the original data frame
-    df.insert(2, 'scene-type', "")
-    df['scene-type'] = df['type label']
+    df = df.rename(columns={
+            'type label': 'scene-type',
+            'subtype label': 'scene-subtype',
+            'modifier': 'transitional'})
     # remove old type label column, remove filename, transcript and note columns
     df = df.drop('type label', axis=1)
     df = df.drop('filename', axis=1)
@@ -139,7 +140,7 @@ if __name__ == '__main__':
     folder = Path.cwd()
     goldpath = folder / 'golds'
     for directory in folder.glob('*'):
-        # assume that directories starting with yy-mm-dd pattern are batch directories
+        # assume that directories starting with yy-mm-dd are batch directories
         if directory.is_dir() and re.match("[0-9]{2}[0-1][0-9][0-3][0-9]", directory.name):
             print(directory.name)
             for file in directory.glob('*'):
