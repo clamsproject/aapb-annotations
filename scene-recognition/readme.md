@@ -40,6 +40,8 @@ Conceptually, the annotation project simply annotates stills found at recurring 
                 * Specifically, the annotator ran a SWT model (`20240409-093229.convnext_tiny.kfold_012` model from v4.4) with 500ms sample rate, then re-annotated some images under certain circumstances - 1) top softmax score is too low, 2) sandwiched between different labels. The reason why an image is picked is left in the "note" column. 
                 * For some part of this batch, specifically "peabody award" sub-collection, is annotated in two passes, and the images annotated in [the second pass](https://github.com/clamsproject/app-swt-detection/issues/116#issuecomment-2408144544) don't have "note" values. 
                 * raw annotations are stored in [240814-aapb-collaboration-27-e](240814-aapb-collaboration-27-e)
+            * [`aapb-collaboration-27-f`](241016-aapb-collaboration-27-f) is a collection of confirmed "slate" images from non-overlapping 1118 videos.
+                * raw annotations are stored in [241016-aapb-collaboration-27-f](241016-aapb-collaboration-27-f)
     * Other version control information - none
 
 
@@ -167,7 +169,7 @@ cpb-aacip-00a9ed7f2ba_03482649_00041508_00041508.jpg,true,S,G,false,,S: 0.43 Low
 cpb-aacip-00a9ed7f2ba_03482649_00047014_00047047.jpg,true,S,G,false,,G: 0.95 Sandwich
 cpb-aacip-00a9ed7f2ba_03482649_00050017_00050050.jpg,true,S,G,false,,S: 0.54 Low confidence
 cpb-aacip-00a9ed7f2ba_03482649_00062529_00062529.jpg,true,S,G,false,,G: 0.96 Sandwich
-# for batch e, the filename column is formatted differently `{guid}_{total_time}_{seek_timestamp}_{found_timestamp}.jpg`. 
+# for sub-sampled annotations (batch e and f), the filename column is formatted differently `{guid}_{total_time}_{seek_timestamp}_{found_timestamp}.jpg`. 
 ```
 
 
