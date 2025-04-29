@@ -27,12 +27,19 @@ Conceptually, the annotation project simply annotates stills found at recurring 
     * Version - unknown
     * Tool documentation - (see below tool installation)
 * Project Changes
-    * Number of batches - 5 batches annotated in four different ways. 
-        * [`27-d`](240117-aapb-collaboration-27-d) was labeled at "maximum" density (1 GUID), 
-        * [`27-a`](231002-aapb-collaboration-27-a) and [`27-c`](231204-aapb-collaboration-27-c) were densely-seen/labeled (40 GUIDs), 
-        * [`27-b`](231002-aapb-collaboration-27-b) was sparsely-seen/labeled (21 GUIDs). 
-        * See below [guidelines](#what-to-annotate) for more information on the differences between "max", "dense" and "sparse" ways of annotating.
-        * [`27-e`](240814-aapb-collaboration-27-e) was labeled with "challenging" images, without a fixed sampling rate (or density). Specifically, the annotator ran a SWT model (`20240409-093229.convnext_tiny.kfold_012` model from v4.4) with 500ms sample rate, then re-annotated some images under certain circumstances - 1) top softmax score is too low, 2) sandwiched between different labels.
+    * Used batches - 5 batches annotated in two different ways
+        1. sequential annotation: images are picked "sequentially" from the target videos. See below [guidelines](#what-to-annotate) for more information on the differences between "max", "dense" and "sparse" ways of annotating.
+            * [`aapb-collaboration-27-d`](../batches/aapb-collaboration-27-d.txt) batch was labeled at "maximum" density (1 GUID)
+                * raw annotations are stored in [240117-aapb-collaboration-27-d](240117-aapb-collaboration-27-d)
+            * [`aapb-collaboration-27-a`](../batches/aapb-collaboration-27-a.txt) and [`aapb-collaboration-27-c`](../batches/aapb-collaboration-27-c.txt) batches were densely-seen/labeled (40 GUIDs)
+                * raw annotations are stored in [231002-aapb-collaboration-27-a](231002-aapb-collaboration-27-a) and [231204-aapb-collaboration-27-c](231204-aapb-collaboration-27-c)
+            * [`aapb-collaboration-27-b`](../batches/aapb-collaboration-27-b.txt) batch was sparsely-seen/labeled (21 GUIDs). 
+                * raw annotations are stored in [231002-aapb-collaboration-27-b](231002-aapb-collaboration-27-b)
+        1. sub-sampled annotation: images are picked arbitrarily from the target videos in the batches.
+            * [`aapb-collaboration-27-e`](../batches/aapb-collaboration-27-e.txt) batch was labeled with "challenging" images, without a fixed sampling rate (or density). 
+                * Specifically, the annotator ran a SWT model (`20240409-093229.convnext_tiny.kfold_012` model from v4.4) with 500ms sample rate, then re-annotated some images under certain circumstances - 1) top softmax score is too low, 2) sandwiched between different labels. The reason why an image is picked is left in the "note" column. 
+                * For some part of this batch, specifically "peabody award" sub-collection, is annotated in two passes, and the images annotated in [the second pass](https://github.com/clamsproject/app-swt-detection/issues/116#issuecomment-2408144544) don't have "note" values. 
+                * raw annotations are stored in [240814-aapb-collaboration-27-e](240814-aapb-collaboration-27-e)
     * Other version control information - none
 
 
@@ -131,7 +138,7 @@ Results:
 
 ### `raw` data
 
-`.csv` file - The file contains columns of the labeling of each frame. The file can contain arbitrary amounts of frames that are "unseen"; these are basically not used for ML Training. 
+`.csv` files named after the source asset GUID - The file contains columns of the labeling of each frame. The file can contain arbitrary amounts of frames that are "unseen"; these are basically not used for ML Training. 
 
 * Fields:
     * `filename` (string) - the filename of the image to be labeled. Included within the filename of the image is also its time information in ISO format. 
@@ -160,7 +167,7 @@ cpb-aacip-00a9ed7f2ba_03482649_00041508_00041508.jpg,true,S,G,false,,S: 0.43 Low
 cpb-aacip-00a9ed7f2ba_03482649_00047014_00047047.jpg,true,S,G,false,,G: 0.95 Sandwich
 cpb-aacip-00a9ed7f2ba_03482649_00050017_00050050.jpg,true,S,G,false,,S: 0.54 Low confidence
 cpb-aacip-00a9ed7f2ba_03482649_00062529_00062529.jpg,true,S,G,false,,G: 0.96 Sandwich
-# for batch e, the filename column is formatted differently `{guid}_{total_time}_{seek_timestamp}_{found_timestamp}.jpg`. Also the annotator left notes on the reason of image selection
+# for batch e, the filename column is formatted differently `{guid}_{total_time}_{seek_timestamp}_{found_timestamp}.jpg`. 
 ```
 
 
@@ -178,7 +185,7 @@ This processing script cleans up the raw data files by performing the following:
 
 ### `golds` data
 
-A set of `.csv` files in which each row is a frame timestamped and with relevant labels.
+A set of `.csv` files in which each row is a frame timestamped and with relevant labels. Rows are sorted by the timestamp.
 
 * Fields:
     * `at` - string representing the ISO timestamp of the frame

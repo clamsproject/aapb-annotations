@@ -65,6 +65,8 @@ def process(raw_dir, golds_dir):
         # remove transcript and note columns
         df = df.drop('transcript', axis=1)
         df = df.drop('note', axis=1)
+        # sort by `at` col
+        df = df.sort_values(by=['at'])
         # output to csv with same filename
         df.to_csv(destination, index=False)
 
