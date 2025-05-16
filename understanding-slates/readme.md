@@ -85,7 +85,37 @@ Annotations for each batch are stored in a `.js` file. This JavaScript file defi
 * `note-4` (string) - a _re-formatted_ structured understanding based on the verbatim text from the previous column. The method for re-formatting by structuring the text to key-value pairs is written with more details in the annotation guidelines above.
 
 ### [`process.py`](process.py)
-TODO
+Again, the processing script does the same clean-up and re-organization ([relevant section in the previous project](https://github.com/clamsproject/aapb-annotations/tree/main/scene-recognition#processpy])), then add `note-3` and `note-4` values to new columns. 
+
+> [!NOTE]
+> In the previous project, both the raw and gold data are serialized in CSV format, while the current project uses JSON for both. The decision was to avoid the complexity of encoding structured text in a plain text format, and to leverage the inherent structural syntax of the JSON format.
 
 ### `golds` data
-TODO
+A set of `.json` files in which each row is a frame timestamped and with relevant labels and transcripts. Rows are sorted by the timestamp.
+
+* Fields:
+    * `at` - string representing the ISO timestamp of the frame
+    * `scene-type` - string representing the type label (from `type label` in raw data)
+    * `scene-subtype` - string representing the subtype label, if applicable (from `subtype label` in raw data)
+    * `transitional` - boolean representing if the image is _transitional_ between two scene types (from `modifier` in raw data)
+    * `text-transcript` - string transferred from `note-3` (verbatim) column in the raw data. Line break markers are replaced with actual line breaks (U+000A). 
+    * `keyed-information` - object (string-string) transferred from `note-4` (key-value) column in the raw data, parsed based on these delimiters; `\\n` between pairs, `:` between keys and values
+    * all other columns from the raw data are removed
+* Example:
+```
+$ cat golds/cpb-aacip-27def972f9c.json 
+[
+  {
+    "at": "00:01:07.000",
+    "scene-type": "S",
+    "scene-subtype": "D",
+    "transitional": false,
+    "text-transcript": "Wild Florida\nShow # 209\n\"DRY TORTUGAS\"\nTRT: 26:42\nSTEREO",
+    "keyed-information": {
+      "episode-title": " Dry Tortugas",
+      "series-title": " Wild Florida",
+      "episode-no": " 209"
+    }
+  }
+]0
+```
