@@ -36,7 +36,7 @@ The previous project was mostly focused on categorizing extracted still images, 
 1. re-format the text into structured data based on human understanding of the text
 
 ### How to Annotate It
-Tool usage hasn't changed from the previous project. However since this annotation started from pre-compiled confirmed images of slates, the `type` was pre-filled as "S" (slate).  The annotator's primary job was to fill in the `note-3` and `note-4` fields, following the guidelines below.
+Tool usage hasn't changed from the previous project. However since this annotation started from pre-compiled confirmed images of slates, the `type` was pre-filled as "S" (slate).  The annotator was asked to choose the correct sub-type for the Slate, and also set the modifier flag if the slate frame should be considered "transitional".  The annotator's primary job was to fill in the `note-3` and `note-4` fields, following the guidelines below.
 
 ### Decisions, Differentiation, and Precision Level during Annotation
 The guidelines in this section are copied from the `conf.js` file used in the KSL for the annotation. The original guidelines were written in HTML syntax and have been adapted here for markdown syntax.
@@ -80,7 +80,7 @@ Annotations for each batch are stored in a `.js` file. This JavaScript file defi
 * `seen` (bool) - indicates whether the item has been seen
 * `type-label` (char) - indicates the type label, if any, of seen items
 * `subtype-label` (char) - indicates the subtype label, if any, of items with type labels
-* `modifier` (bool) - indicates whether the label has the "modifier" status
+* `modifier` (bool) - indicates whether the label has the "modifier" status, indicating the frame was "transitional" in the sense that the still image was captured as the text was fading in or out of view
 * `note-3` (string) - a _verbatim_ transcription of the text in the source image, where a best attempt is made to keep the original reading order intact using spaces and newlines.
 * `note-4` (string) - a _re-formatted_ structured understanding based on the verbatim text from the previous column. The method for re-formatting by structuring the text to key-value pairs is written with more details in the annotation guidelines above.
 
@@ -117,5 +117,5 @@ $ cat golds/cpb-aacip-27def972f9c.json
       "episode-no": " 209"
     }
   }
-]0
+]
 ```
