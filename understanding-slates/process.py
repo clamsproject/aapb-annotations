@@ -27,7 +27,6 @@ def format_timecode(value):
     This method takes in a string of milliseconds and then converts the milliseconds to
     ISO standard timestamps.
     """
-    print(value)
     _, cur = value.split('.')[0].rsplit("_", maxsplit=1)
     # remove extension and cast type 
     ms = int(cur.split(".")[0])
@@ -66,7 +65,7 @@ def process(raw_dir, golds_dir):
             ann['transitional'] = bool(modifier)
             ann['text-transcript'] = note_3.replace(r'\n', '\n')
             ann['text-transcript'] = ann['text-transcript'].replace(r'\"', '"')
-            ann['keyed-information'] = dict(pair.split(':', 1) for pair in note_4.split('\n') if pair.strip())
+            ann['keyed-information'] = dict(map(lambda x: x.strip(), pair.split(':', 1)) for pair in note_4.split('\n') if pair.strip())
             reformatted[guid].append(ann)
         for guid, anns in reformatted.items():
             with open(golds_dir / f'{guid}.json', 'w') as f:

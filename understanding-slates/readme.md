@@ -112,9 +112,9 @@ $ cat golds/cpb-aacip-27def972f9c.json
     "transitional": false,
     "text-transcript": "Wild Florida\nShow # 209\n\"DRY TORTUGAS\"\nTRT: 26:42\nSTEREO",
     "keyed-information": {
-      "episode-title": " Dry Tortugas",
-      "series-title": " Wild Florida",
-      "episode-no": " 209"
+      "episode-title": "Dry Tortugas",
+      "series-title": "Wild Florida",
+      "episode-no": "209"
     }
   }
 ]
