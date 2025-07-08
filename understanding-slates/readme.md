@@ -14,7 +14,7 @@ This annotation project is a follow-up effort to [`scene-recognition`](../scene-
     * Version - unknown
     * Tool documentation - (see below tool installation)
 * Project Changes
-    * Used batch: [`aapb-collaboration-27-e`](../batches/aapb-collaboration-27-e.txt), a part of this batch (503 out of 1118 video assets) was annotated for transcribing their "slates". 
+    * Used batch: [`aapb-collaboration-27-f`](../batches/aapb-collaboration-27-f.txt), a part of this batch (503 out of 1118 video assets) was annotated for transcribing their "slates". 
         * This dataset is also available on [Kaggle](https://www.kaggle.com/datasets/madisoncourtney/transcribed-slates)
         * This dataset is based on the *version 7* of the Kaggle distribution.
     * Other version control information - N/A
