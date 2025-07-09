@@ -1,0 +1,89 @@
+[
+  {
+    "at": "00:04:20.893",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Carl Linden\n\nDiagnostic Laboratory Services",
+    "keyed-information": {
+      "name-as-written": "Carl Linden",
+      "name-normalized": "Linden, Carl",
+      "attributes": [
+        "Diagnostic Laboratory Services"
+      ]
+    }
+  },
+  {
+    "at": "00:10:31.897",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Mark Batchelor\n\nDirector of Sales & Marketing, Aloha Satellites\n\nwww.alohasatellites.com",
+    "keyed-information": {
+      "name-as-written": "March Batchelor",
+      "name-normalized": "Batchelor, Mark",
+      "attributes": [
+        "Director of Sales & Marketing, Aloha Satellites",
+        "www.alohasatellites.com"
+      ]
+    }
+  },
+  {
+    "at": "00:10:48.014",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Joshua Beil\n\nPresident & CEO, Skywave Broadband\n\nwww.skywavebroadband.net",
+    "keyed-information": {
+      "name-as-written": "Joshua Beil",
+      "name-normalized": "Beil, Joshua",
+      "attributes": [
+        "President & CEO, Skywave Broadband",
+        "www.skywavebroadband.net"
+      ]
+    }
+  },
+  {
+    "at": "00:21:01.893",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Denise M. Hayashi\n\nDirector of Community Relations\n\nNCL America",
+    "keyed-information": {
+      "name-as-written": "Denise M. Hayashi",
+      "name-normalized": "Hayashi, Denise M.",
+      "attributes": [
+        "Director of Community Relations",
+        "NCL America"
+      ]
+    }
+  },
+  {
+    "at": "00:21:56.648",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Lynne Waters\n\nPrincipal, Lynne Waters Communications",
+    "keyed-information": {
+      "name-as-written": "Lynne Waters",
+      "name-normalized": "Waters, Lynne",
+      "attributes": [
+        "Principal, Lynne Waters Communications"
+      ]
+    }
+  },
+  {
+    "at": "00:26:41.132",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  }
+]

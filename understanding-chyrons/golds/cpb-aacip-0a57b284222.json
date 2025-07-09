@@ -1,0 +1,86 @@
+[
+  {
+    "at": "00:10:18.150",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Mary Behling\nPRESIDENT, COLORADO SENIOR SPORTS\nDEVELOPMENT COUNCIL",
+    "keyed-information": {
+      "name-as-written": "Mary Behling",
+      "name-normalized": "Behling, Mary",
+      "attributes": [
+        "PRESIDENT, COLORADO SENIOR SPORTS DEVELOPMENT COUNCIL"
+      ]
+    }
+  },
+  {
+    "at": "00:11:29.155",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Frank Remes\nPARTICIPANT",
+    "keyed-information": {
+      "name-as-written": "Frank Remes",
+      "name-normalized": "Remes, Frank",
+      "attributes": [
+        "PARTICIPANT"
+      ]
+    }
+  },
+  {
+    "at": "00:14:13.519",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Connie Larschiedt\nDENVER PARKS & RECREATION",
+    "keyed-information": {
+      "name-as-written": "Connie Larschiedt",
+      "name-normalized": "Larschiedt, Connie",
+      "attributes": [
+        "DENVER PARKS & RECREATION"
+      ]
+    }
+  },
+  {
+    "at": "00:17:03.655",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Jim Riesberg\nGAMES COORDINATOR",
+    "keyed-information": {
+      "name-as-written": "Jim Riesberg",
+      "name-normalized": "Riesberg, Jim",
+      "attributes": [
+        "GAMES COORDINATOR"
+      ]
+    }
+  },
+  {
+    "at": "00:19:30.402",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Mary Behling\nPRESIDENT, COLORADO SENIOR SPORTS\nDEVELOPMENT COUNCIL",
+    "keyed-information": {
+      "name-as-written": "Mary Behling",
+      "name-normalized": "Behling, Mary",
+      "attributes": [
+        "PRESIDENT, COLORADO SENIOR SPORTS DEVELOPMENT COUNCIL"
+      ]
+    }
+  },
+  {
+    "at": "00:23:25.504",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Frank Remes\nPARTICIPANT",
+    "keyed-information": {
+      "name-as-written": "Frank Remes",
+      "name-normalized": "Remes, Frank",
+      "attributes": [
+        "PARTICIPANT"
+      ]
+    }
+  }
+]

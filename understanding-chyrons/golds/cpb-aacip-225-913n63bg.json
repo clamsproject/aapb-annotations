@@ -1,0 +1,32 @@
+[
+  {
+    "at": "00:04:41.281",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Sam Shomaker\n\nInterim Dean\n\nJohn A. Burns School of Medicine",
+    "keyed-information": {
+      "name-as-written": "Sam Shomaker",
+      "name-normalized": "Shomaker, Sam",
+      "attributes": [
+        "Interim Dean",
+        "John A. Burns School of Medicine"
+      ]
+    }
+  },
+  {
+    "at": "00:09:19.125",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Steve Little\n\nDirector\n\nHonolulu Academy of Arts",
+    "keyed-information": {
+      "name-as-written": "Steve Little",
+      "name-normalized": "Little, Steve",
+      "attributes": [
+        "Director",
+        "Honolulu Academy of Arts"
+      ]
+    }
+  }
+]

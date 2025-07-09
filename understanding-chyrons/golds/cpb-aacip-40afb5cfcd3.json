@@ -1,0 +1,38 @@
+[
+  {
+    "at": "00:12:27.646",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harry Tuft",
+    "keyed-information": {
+      "name-as-written": "Harry Tuft",
+      "name-normalized": "\nTuft, Harry",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:13:56.902",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Hank Troy",
+    "keyed-information": {
+      "name-as-written": "Hank Troy",
+      "name-normalized": "\nTroy, Hank",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:14:19.758",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harry Tuft",
+    "keyed-information": {
+      "name-as-written": "Harry Tuft",
+      "name-normalized": "\nTuft, Harry",
+      "attributes": []
+    }
+  }
+]

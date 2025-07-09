@@ -1,0 +1,44 @@
+[
+  {
+    "at": "00:04:38.511",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Roger Kaiwi\n\nCaptain Cook Coffee Co.",
+    "keyed-information": {
+      "name-as-written": "Roger Kaiwi",
+      "name-normalized": "Kaiwi, Roger",
+      "attributes": [
+        "Captain Cook Coffee Co."
+      ]
+    }
+  },
+  {
+    "at": "00:11:37.630",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Cary Tagawa\n\nActor",
+    "keyed-information": {
+      "name-as-written": "Cary Tagawa",
+      "name-normalized": "Tagawa, Cary",
+      "attributes": [
+        "Actor"
+      ]
+    }
+  },
+  {
+    "at": "00:20:17.649",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Uilani Mokiao\n\nPacific Handcrafters Guild",
+    "keyed-information": {
+      "name-as-written": "Uilani Mokiao",
+      "name-normalized": "Mokiao, Uilani",
+      "attributes": [
+        "Pacific Handcrafters Guild"
+      ]
+    }
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "at": "00:02:14.634",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WARREN PRICE\n\nState Attorney General",
+    "keyed-information": {
+      "name-as-written": "WARREN PRICE",
+      "name-normalized": "Price, Warren",
+      "attributes": [
+        "State Attorney General"
+      ]
+    }
+  },
+  {
+    "at": "00:03:27.407",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "SEN. RON MENOR (D)\n\nJudiciary Committee Chair",
+    "keyed-information": {
+      "name-as-written": "SEN. RON MENOR (D)",
+      "name-normalized": "Menor, Ron",
+      "attributes": [
+        "Judiciary Committee Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:04:11.384",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "MAJ. MIKE CARVALHO\n\nHPD Narcotics Division",
+    "keyed-information": {
+      "name-as-written": "MAJ. MIKE CARVALHO",
+      "name-normalized": "Carvalho, Mike",
+      "attributes": [
+        "HPD Narcotics Division"
+      ]
+    }
+  },
+  {
+    "at": "00:04:55.528",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WARREN PRICE\n\nState Attorney General",
+    "keyed-information": {
+      "name-as-written": "WARREN PRICE",
+      "name-normalized": "Price, Warren",
+      "attributes": [
+        "State Attorney General"
+      ]
+    }
+  },
+  {
+    "at": "00:05:21.254",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "KELLY DEAN\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "KELLY DEAN",
+      "name-normalized": "Dean, Kelly",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:06:00.126",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "SEN. RON MENOR (D)\n\nJudiciary Committee Chair",
+    "keyed-information": {
+      "name-as-written": "SEN. RON MENOR (D)",
+      "name-normalized": "Menor, Ron",
+      "attributes": [
+        "Judiciary Committee Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:06:27.019",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "DR. BLASE HARRIS\n\nPsychiatrist",
+    "keyed-information": {
+      "name-as-written": "DR. BLASE HARRIS",
+      "name-normalized": "Harris, Blase",
+      "attributes": [
+        "Psychiatrist"
+      ]
+    }
+  },
+  {
+    "at": "00:07:58.644",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "AARON PEAK\n\nLife Foundation",
+    "keyed-information": {
+      "name-as-written": "AARON PEAK",
+      "name-normalized": "Peak, Aaron",
+      "attributes": [
+        "Life Foundation"
+      ]
+    }
+  },
+  {
+    "at": "00:08:14.894",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "DAN BENT\n\nUS Attorney",
+    "keyed-information": {
+      "name-as-written": "DAN BENT",
+      "name-normalized": "Bent, Dan",
+      "attributes": [
+        "US Attorney"
+      ]
+    }
+  },
+  {
+    "at": "00:08:30.510",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "NANCY PARTIKA\n\nExec. Director\n\nGovernor's Committee on AIDS",
+    "keyed-information": {
+      "name-as-written": "NANCY PARTIKA",
+      "name-normalized": "Partika, Nancy",
+      "attributes": [
+        "Exec. Director",
+        "Governor's Committe on AIDS"
+      ]
+    }
+  },
+  {
+    "at": "00:08:46.626",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ANN deMEURERS\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "ANN deMEURERS",
+      "name-normalized": "deMeurers, Ann",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:08:56.769",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "AARON PEAK\n\nLife Foundation",
+    "keyed-information": {
+      "name-as-written": "AARON PEAK",
+      "name-normalized": "Peak, Aaron",
+      "attributes": [
+        "Life Foundation"
+      ]
+    }
+  },
+  {
+    "at": "00:09:21.394",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "DAN BENT\n\nUS Attorney",
+    "keyed-information": {
+      "name-as-written": "DAN BENT",
+      "name-normalized": "Bent, Dan",
+      "attributes": [
+        "US Attorney"
+      ]
+    }
+  },
+  {
+    "at": "00:09:39.879",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "NANCY PARTIKA\n\nExec. Director\n\nGovernor's Committee on AIDS",
+    "keyed-information": {
+      "name-as-written": "NANCY PARTIKA",
+      "name-normalized": "Partika, Nancy",
+      "attributes": [
+        "Exec. Director",
+        "Governor's Committe on AIDS"
+      ]
+    }
+  },
+  {
+    "at": "00:10:22.388",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "REP. JIM SHON (D)\n\nChair, House Health Committee",
+    "keyed-information": {
+      "name-as-written": "REP. JIM SHON (D)",
+      "name-normalized": "Shon, Jim",
+      "attributes": [
+        "Chair, House Health Committee"
+      ]
+    }
+  },
+  {
+    "at": "00:11:13.506",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "KEITH KANESHIRO\n\nCity Prosecutor",
+    "keyed-information": {
+      "name-as-written": "KEITH KANESHIRO",
+      "name-normalized": "Kaneshiro, Keith",
+      "attributes": [
+        "City Prosecutor"
+      ]
+    }
+  },
+  {
+    "at": "00:12:43.395",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "KEITH KANESHIRO\n\nCity Prosecutor",
+    "keyed-information": {
+      "name-as-written": "KEITH KANESHIRO",
+      "name-normalized": "Kaneshiro, Keith",
+      "attributes": [
+        "City Prosecutor"
+      ]
+    }
+  },
+  {
+    "at": "00:16:05.130",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "REP. JIM SHON (D)\n\nChair, House Health Committee",
+    "keyed-information": {
+      "name-as-written": "REP. JIM SHON (D)",
+      "name-normalized": "Shon, Jim",
+      "attributes": [
+        "Chair, House Health Committee"
+      ]
+    }
+  },
+  {
+    "at": "00:17:25.010",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CHRISTINE HALL\n\nGuide Dog User",
+    "keyed-information": {
+      "name-as-written": "CHRISTINE HALL",
+      "name-normalized": "Hall, Christine",
+      "attributes": [
+        "Guide Dog User"
+      ]
+    }
+  },
+  {
+    "at": "00:18:11.657",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CHRISTINE HALL\n\nGuide Dog User",
+    "keyed-information": {
+      "name-as-written": "CHRISTINE HALL",
+      "name-normalized": "Hall, Christine",
+      "attributes": [
+        "Guide Dog User"
+      ]
+    }
+  },
+  {
+    "at": "00:18:30.375",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "DR. ALLEN MIYAHARA\n\nVeterinarian",
+    "keyed-information": {
+      "name-as-written": "DR. ALLEN MIYAHARA",
+      "name-normalized": "Miyahara, Allen",
+      "attributes": [
+        "Veterinarian"
+      ]
+    }
+  },
+  {
+    "at": "00:19:00.639",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "VERA BENEDEK\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "VERA BENEDEK",
+      "name-normalized": "Benedek, Vera",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:20:14.379",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:20:41.406",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  },
+  {
+    "at": "00:21:58.884",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:22:38.757",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  },
+  {
+    "at": "00:23:03.648",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:25:06.404",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  }
+]

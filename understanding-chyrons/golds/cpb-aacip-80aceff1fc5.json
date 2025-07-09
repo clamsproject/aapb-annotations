@@ -1,0 +1,442 @@
+[
+  {
+    "at": "00:02:42.028",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "Lisa Stanley\nSTATELINE",
+    "keyed-information": {
+      "name-as-written": "Lisa Stanley",
+      "name-normalized": "\nStanley, Lisa",
+      "attributes": [
+        "\nSTATELINE"
+      ]
+    }
+  },
+  {
+    "at": "00:03:57.637",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Alma De Alva\nKERR DRUGS",
+    "keyed-information": {
+      "name-as-written": "Alma De Alva",
+      "name-normalized": "\nDe Alva, Alma",
+      "attributes": [
+        "\nKERR DRUGS"
+      ]
+    }
+  },
+  {
+    "at": "00:04:55.762",
+    "scene-type": "N",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Putting It In Layman's Terms",
+    "keyed-information": null
+  },
+  {
+    "at": "00:05:34.634",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. Walter Jones\n(D) PITT CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. Walter Jones",
+      "name-normalized": "\nJones, Walter",
+      "attributes": [
+        "\n(D) PITT CO."
+      ]
+    }
+  },
+  {
+    "at": "00:05:44.644",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Brian Washington\nREPORTING",
+    "keyed-information": {
+      "name-as-written": "Brian Washington",
+      "name-normalized": "\nWashington, Brian",
+      "attributes": [
+        "\nREPORTING"
+      ]
+    }
+  },
+  {
+    "at": "00:06:11.003",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. Martin Nesbitt\n(D) BUNCOMBE CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. Martin Nesbitt",
+      "name-normalized": "\nNesbitt, Martin",
+      "attributes": [
+        "\n(D) BUNCOMBE CO."
+      ]
+    }
+  },
+  {
+    "at": "00:06:28.254",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Sen. Ted Kaplan\n(D) FORSYTH CO.",
+    "keyed-information": {
+      "name-as-written": "Sen. Ted Kaplan",
+      "name-normalized": "\nKaplan, Ted",
+      "attributes": [
+        "\n(D) FORSYTH CO."
+      ]
+    }
+  },
+  {
+    "at": "00:06:49.142",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. Joe Mavretic\n(D) EDGECOMBE CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. Joe Mavretic",
+      "name-normalized": "\nMavretic, Joe",
+      "attributes": [
+        "\n(D) EDGECOMBE CO."
+      ]
+    }
+  },
+  {
+    "at": "00:08:36.282",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Maria Lundberg\nLEGISLATIVE REPORT",
+    "keyed-information": {
+      "name-as-written": "Maria Lundberg",
+      "name-normalized": "\nLundberg, Maria",
+      "attributes": [
+        "\nLEGISLATIVE REPORT"
+      ]
+    }
+  },
+  {
+    "at": "00:09:45.885",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "Sen. Aaron Plyler\n(D) UNION CO.",
+    "keyed-information": {
+      "name-as-written": "Sen. Aaron Plyler",
+      "name-normalized": "\nPlyler, Aaron",
+      "attributes": [
+        "\n(D) UNION CO."
+      ]
+    }
+  },
+  {
+    "at": "00:10:14.880",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "Sen. Russell Walker\n(D) RANDOPLH CO.",
+    "keyed-information": {
+      "name-as-written": "Sen. Russell Walker",
+      "name-normalized": "\nWalker, Russell",
+      "attributes": [
+        "\n(D) RANDOLPH CO."
+      ]
+    }
+  },
+  {
+    "at": "00:10:22.521",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Sen. Helen Marvin\n(D) GASTON CO.",
+    "keyed-information": {
+      "name-as-written": "Sen. Helen Marvin",
+      "name-normalized": "\nMarvin, Helen",
+      "attributes": [
+        "\n(D) GASTON CO."
+      ]
+    }
+  },
+  {
+    "at": "00:10:37.903",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Sen. Dan Simpson\n(R) BURKE CO.",
+    "keyed-information": {
+      "name-as-written": "Sen. Dan Simpson",
+      "name-normalized": "\nSimpson, Dan",
+      "attributes": [
+        "\n(R) BURKE CO."
+      ]
+    }
+  },
+  {
+    "at": "00:11:34.126",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Sen. Fountain Odom\n(D) MECKLENBURG CO.",
+    "keyed-information": {
+      "name-as-written": "Sen. Fountain Odom",
+      "name-normalized": "\nOdom, Fountain",
+      "attributes": [
+        "\n(D) MECKLENBURG CO."
+      ]
+    }
+  },
+  {
+    "at": "00:11:46.906",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Sen. Herbert Hyde\n(D) BUNCOMBE CO.",
+    "keyed-information": {
+      "name-as-written": "Sen. Herbert Hyde",
+      "name-normalized": "\nHyde, Herbert",
+      "attributes": [
+        "\n(D) BUNCOMBE CO."
+      ]
+    }
+  },
+  {
+    "at": "00:11:59.652",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. Johnathan Rhyne\n(R) LINCOLN CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. Johnathan Rhyne",
+      "name-normalized": "\nRhyne, Johnathan",
+      "attributes": [
+        "\n(R) LINCOLN CO."
+      ]
+    }
+  },
+  {
+    "at": "00:13:04.750",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "Rep. David Diamont\n(D) SURRY CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. David Diamont",
+      "name-normalized": "\nDiamont, David",
+      "attributes": [
+        "\n(D) SURRY CO."
+      ]
+    }
+  },
+  {
+    "at": "00:13:18.030",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. George Miller\n(D) DURHAM CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. George Miller",
+      "name-normalized": "\nMiller, George",
+      "attributes": [
+        "\n(D) DURHAM CO."
+      ]
+    }
+  },
+  {
+    "at": "00:13:41.253",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. Joe Hackney\n(D) ORANGE CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. Joe Hackney",
+      "name-normalized": "\nHackney, Joe",
+      "attributes": [
+        "\n(D) ORANGE CO."
+      ]
+    }
+  },
+  {
+    "at": "00:16:11.904",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Brian Washington\nREPORTING",
+    "keyed-information": {
+      "name-as-written": "Brian Washington",
+      "name-normalized": "\nWashington, Brian",
+      "attributes": [
+        "\nREPORTING"
+      ]
+    }
+  },
+  {
+    "at": "00:16:34.259",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. Anne Barnes\n(D) ORANGE CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. Anne Barnes",
+      "name-normalized": "\nBarnes, Anne",
+      "attributes": [
+        "\n(D) ORANGE CO."
+      ]
+    }
+  },
+  {
+    "at": "00:17:49.768",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "Rep. Johnathan Rhyne\n(R) LINCOLN CO.",
+    "keyed-information": {
+      "name-as-written": "Rep. Johnathan Rhyne",
+      "name-normalized": "\nRhyne, Johnathan",
+      "attributes": [
+        "\n(R) LINCOLN CO."
+      ]
+    }
+  },
+  {
+    "at": "00:19:13.385",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Joyce Preston\nPARENT",
+    "keyed-information": {
+      "name-as-written": "Joyce Preston",
+      "name-normalized": "\nPreston, Joyce",
+      "attributes": [
+        "\nPARENT"
+      ]
+    }
+  },
+  {
+    "at": "00:19:39.778",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Caroline Massengill\nPRINCIPAL MORRISVILLE\nELEMENTARY SCHOOL",
+    "keyed-information": {
+      "name-as-written": "Caroline Massengill",
+      "name-normalized": "\nMassengill, Caroline",
+      "attributes": [
+        "\nPRINCIPAL MORRISVILLE ELEMENTARY SCHOOL"
+      ]
+    }
+  },
+  {
+    "at": "00:20:51.250",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Judy Topkins\n4TH GRADE TEACHER",
+    "keyed-information": {
+      "name-as-written": "Judy Topkins",
+      "name-normalized": "\nTopkins, Judy",
+      "attributes": [
+        "\n4TH GRADE TEACHER"
+      ]
+    }
+  },
+  {
+    "at": "00:21:30.656",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Lenna Sagreti\n4TH GRADE STUDENT",
+    "keyed-information": {
+      "name-as-written": "Lenna Sagreti",
+      "name-normalized": "\nSagreti, Lenna",
+      "attributes": [
+        "\n4TH GRADE STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:21:46.138",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Nelson Smith\n4TH GRADE STUDENT",
+    "keyed-information": {
+      "name-as-written": "Nelson Smith",
+      "name-normalized": "\nSmith, Nelson",
+      "attributes": [
+        "\n4TH GRADE STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:23:49.394",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Lisa Stanley\nSTATELINE",
+    "keyed-information": {
+      "name-as-written": "Lisa Stanley",
+      "name-normalized": "Stanley, Lisa",
+      "attributes": [
+        "STATELINE"
+      ]
+    }
+  },
+  {
+    "at": "00:24:16.888",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Richard Ducker\nPROF. OF PUBLIC LAW AND GOV'T",
+    "keyed-information": {
+      "name-as-written": "Richard Ducker",
+      "name-normalized": "\nDucker, Richard",
+      "attributes": [
+        "\nPROF. OF PUBLIC LAW AND GOV'T"
+      ]
+    }
+  },
+  {
+    "at": "00:25:12.143",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Joseph Farrell\nASSIST. DIR., INSTIT. OF GOVERNMENT",
+    "keyed-information": {
+      "name-as-written": "Joseph Farrell",
+      "name-normalized": "\nFarrell, Joseph",
+      "attributes": [
+        "\nASSIST. DIR., INSTIT. OF GOVERNMENT"
+      ]
+    }
+  },
+  {
+    "at": "00:27:23.274",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rep. Dennis Wicker",
+    "keyed-information": {
+      "name-as-written": "Rep. Dennis Wicker",
+      "name-normalized": "\nWicker, Dennis",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:27:49.000",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Roger Bone\nLOBBYIST",
+    "keyed-information": {
+      "name-as-written": "Roger Bone",
+      "name-normalized": "\nBone, Roger",
+      "attributes": [
+        "\nLOBBYIST"
+      ]
+    }
+  }
+]

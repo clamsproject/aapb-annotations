@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:05:34.133",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Michael Kosmin\n\nCentex Destinations",
+    "keyed-information": {
+      "name-as-written": "Michael Kosmin",
+      "name-normalized": "Kosmin, Michael",
+      "attributes": [
+        "Centex Destinations"
+      ]
+    }
+  },
+  {
+    "at": "00:19:51.757",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Dave Plaskett\n\nHawaii Coffee Company",
+    "keyed-information": {
+      "name-as-written": "Dave Plaskett",
+      "name-normalized": "Plaskett, Dave",
+      "attributes": [
+        "Hawaii Coffee Company"
+      ]
+    }
+  },
+  {
+    "at": "00:21:13.005",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Allen Kaufman\n\nPresident\n\nSeasoned Citizens",
+    "keyed-information": {
+      "name-as-written": "Allen Kaufman",
+      "name-normalized": "Kaufman, Allen",
+      "attributes": [
+        "President",
+        "Seasoned Citizens"
+      ]
+    }
+  }
+]

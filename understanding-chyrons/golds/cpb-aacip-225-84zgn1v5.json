@@ -1,0 +1,46 @@
+[
+  {
+    "at": "00:09:42.148",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Greg O'Donnell\n\nCEO\n\nDamien School",
+    "keyed-information": {
+      "name-as-written": "Greg O'Donnell",
+      "name-normalized": "O'Donnell, Greg",
+      "attributes": [
+        "CEO",
+        "Damien School"
+      ]
+    }
+  },
+  {
+    "at": "00:16:06.265",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Marsha Bemko\n\nProducer\n\nAntiques Road Show",
+    "keyed-information": {
+      "name-as-written": "Marsha Bemko",
+      "name-normalized": "Bemko, Marsha",
+      "attributes": [
+        "Producer",
+        "Antiques Road Show"
+      ]
+    }
+  },
+  {
+    "at": "00:22:15.901",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "John Aeto\n\nRadio Executive",
+    "keyed-information": {
+      "name-as-written": "John Aeto",
+      "name-normalized": "Aeto, John",
+      "attributes": [
+        "Radio Executive"
+      ]
+    }
+  }
+]

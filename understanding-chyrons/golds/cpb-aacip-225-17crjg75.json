@@ -1,0 +1,61 @@
+[
+  {
+    "at": "00:04:59.265",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Gary Siebert\n\nHilton Hawaii",
+    "keyed-information": {
+      "name-as-written": "Gary Siebert",
+      "name-normalized": "Siebert, Gary",
+      "attributes": [
+        "Hilton Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:09:39.278",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Barbara Stanton\n\nExecutive Director\n\nAARP Hawaii",
+    "keyed-information": {
+      "name-as-written": "Barbara Stanton",
+      "name-normalized": "Stanton, Barbara",
+      "attributes": [
+        "Executive Director",
+        "AARP Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:15:02.902",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Eric Tom\n\nCEO\n\nBBITV",
+    "keyed-information": {
+      "name-as-written": "Eric Tom",
+      "name-normalized": "Tom, Eric",
+      "attributes": [
+        "CEO",
+        "BBITV"
+      ]
+    }
+  },
+  {
+    "at": "00:21:05.530",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Karen Nakamura\n\nCEO\n\nBuilding Industry Association",
+    "keyed-information": {
+      "name-as-written": "Karen Nakamura",
+      "name-normalized": "Nakamura, Karen",
+      "attributes": [
+        "CEO",
+        "Building Industry Association"
+      ]
+    }
+  }
+]

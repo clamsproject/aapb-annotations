@@ -1,0 +1,32 @@
+[
+  {
+    "at": "00:05:31.030",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Paul Brewbaker\n\nChief Economist\n\nBank of Hawaii",
+    "keyed-information": {
+      "name-as-written": "Paul Brewbaker",
+      "name-normalized": "Brewbaker, Paul",
+      "attributes": [
+        "Chief Economist",
+        "Bank of Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:19:12.751",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Beth Busch\n\nExecutive Director\n\nJobquest",
+    "keyed-information": {
+      "name-as-written": "Beth Busch",
+      "name-normalized": "Busch, Beth",
+      "attributes": [
+        "Executive Director",
+        "Jobquest"
+      ]
+    }
+  }
+]

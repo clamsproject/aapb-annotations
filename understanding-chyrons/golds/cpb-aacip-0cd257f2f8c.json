@@ -1,0 +1,124 @@
+[
+  {
+    "at": "00:02:15.001",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Stormy Rottman",
+    "keyed-information": {
+      "name-as-written": "Stormy Rottman",
+      "name-normalized": "Rottman, Stormy",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:31.277",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "James Gentry, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
+    "keyed-information": {
+      "name-as-written": "James Gentry, M.D.",
+      "name-normalized": "Gentry, James",
+      "attributes": [
+        "OPHTHAMOLOGIST/PRIVATE PRACTICE"
+      ]
+    }
+  },
+  {
+    "at": "00:06:35.261",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harley Boudreaux\nLIONS CLUB",
+    "keyed-information": {
+      "name-as-written": "Harley Boudreaux",
+      "name-normalized": "\nBoudreaux, Harley",
+      "attributes": [
+        "\nLIONS CLUB"
+      ]
+    }
+  },
+  {
+    "at": "00:08:46.258",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Richard Beatty, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
+    "keyed-information": {
+      "name-as-written": "Richard Beatty, M.D.",
+      "name-normalized": "Beatty, Richard",
+      "attributes": [
+        "OPHTHAMOLOGIST/PRIVATE PRACTICE"
+      ]
+    }
+  },
+  {
+    "at": "00:12:15.400",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Roger Cozens\nLIONS EYE BANK",
+    "keyed-information": {
+      "name-as-written": "Roger Cozens",
+      "name-normalized": "\nCozens, Roger",
+      "attributes": [
+        "\nLIONS EYE BANK"
+      ]
+    }
+  },
+  {
+    "at": "00:14:43.749",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Richard Beatty, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
+    "keyed-information": {
+      "name-as-written": "Richard Beatty, M.D.",
+      "name-normalized": "\nBeatty, Richard",
+      "attributes": [
+        "\nOPHTHAMOLOGIST/PRIVATE PRACTICE"
+      ]
+    }
+  },
+  {
+    "at": "00:17:20.639",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "James Gentry, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
+    "keyed-information": {
+      "name-as-written": "James Gentry, M.D.",
+      "name-normalized": "\nGentry, James",
+      "attributes": [
+        "\nOPHTHAMOLOGIST/PRIVATE PRACTICE"
+      ]
+    }
+  },
+  {
+    "at": "00:19:21.026",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harley Boudreaux\nLIONS CLUB",
+    "keyed-information": {
+      "name-as-written": "Harley Boudreaux",
+      "name-normalized": "Boudreaux, Harley",
+      "attributes": [
+        "LIONS CLUB"
+      ]
+    }
+  },
+  {
+    "at": "00:26:29.654",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Mitch Miller",
+    "keyed-information": {
+      "name-as-written": "Mitch Miller",
+      "name-normalized": "\nMiller, Mitch",
+      "attributes": []
+    }
+  }
+]

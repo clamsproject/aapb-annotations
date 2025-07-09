@@ -1,0 +1,338 @@
+[
+  {
+    "at": "00:04:12.885",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CHRIS COOK\n\nKauai County Economic\n\nDevelopment Coordinator",
+    "keyed-information": {
+      "name-as-written": "CHRIS COOK",
+      "name-normalized": "Cook, Chris",
+      "attributes": [
+        "Kauai County Economic Development Coordinator"
+      ]
+    }
+  },
+  {
+    "at": "00:04:27.133",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "KELLY DEAN\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "KELLY DEAN",
+      "name-normalized": "Dean, Kelly",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:04:52.392",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "REP. DAVID IGE (D)\n\nHouse Economic\n\nDevelopment Chair",
+    "keyed-information": {
+      "name-as-written": "REP. DAVID IGE (D)",
+      "name-normalized": "Ige, David",
+      "attributes": [
+        "House Economic Development Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:06:41.000",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JIM MANKE\n\nState Information Service Dir.",
+    "keyed-information": {
+      "name-as-written": "JIM MANKE",
+      "name-normalized": "Manke, Jim",
+      "attributes": [
+        "State Information Service Dir."
+      ]
+    }
+  },
+  {
+    "at": "00:08:01.280",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "REP. CAROL FUKUNAGA (D)\n\nHouse Legislative\n\nManagement Chair",
+    "keyed-information": {
+      "name-as-written": "REP. CAROL FUKUNAGA (D)",
+      "name-normalized": "Fukunaga, Carol",
+      "attributes": [
+        "House Legislative Management Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:09:16.255",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "DESMOND BYRNE\n\nCitizen Advocate",
+    "keyed-information": {
+      "name-as-written": "DESMOND BYRNE",
+      "name-normalized": "Byrne, Desmond",
+      "attributes": [
+        "Citizen Advocate"
+      ]
+    }
+  },
+  {
+    "at": "00:11:04.764",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "REP. CAROL FUKUNAGA (D)\n\nHouse Legislative\n\nManagement Chair",
+    "keyed-information": {
+      "name-as-written": "REP. CAROL FUKUNAGA (D)",
+      "name-normalized": "Fukunaga, Carol",
+      "attributes": [
+        "House Legislative Management Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:15:26.759",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JESSE OLANOLAN\n\nKapaa High School Student",
+    "keyed-information": {
+      "name-as-written": "JESSE OLANOLAN",
+      "name-normalized": "Olanolan, Jesse",
+      "attributes": [
+        "Kapaa High School Student"
+      ]
+    }
+  },
+  {
+    "at": "00:16:19.011",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CLARENCE KAONA\n\nBus Driver",
+    "keyed-information": {
+      "name-as-written": "CLARENCE KAONA",
+      "name-normalized": "Kaona, Clarence",
+      "attributes": [
+        "Bus Driver"
+      ]
+    }
+  },
+  {
+    "at": "00:16:49.875",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "RUSS THOMAS\n\nKapaa High School Teacher",
+    "keyed-information": {
+      "name-as-written": "RUSS THOMAS",
+      "name-normalized": "Thomas, Russ",
+      "attributes": [
+        "Kapaa High School Teacher"
+      ]
+    }
+  },
+  {
+    "at": "00:17:12.765",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "EUGENE IMAI\n\nDepartment of Education",
+    "keyed-information": {
+      "name-as-written": "EUGENE IMAI",
+      "name-normalized": "Imai, Eugene",
+      "attributes": [
+        "Department of Education"
+      ]
+    }
+  },
+  {
+    "at": "00:18:00.779",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CHRIS BRYAN\n\nWainiha Parent",
+    "keyed-information": {
+      "name-as-written": "CHRIS BRYAN",
+      "name-normalized": "Bryan, Chris",
+      "attributes": [
+        "Wainiha Parent"
+      ]
+    }
+  },
+  {
+    "at": "00:18:20.499",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "KELLY DEAN\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "KELLY DEAN",
+      "name-normalized": "Dean, Kelly",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:18:32.511",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "KAROL HARAGUCHI\n\nHanalei Parent",
+    "keyed-information": {
+      "name-as-written": "KAROL HARAGUCHI",
+      "name-normalized": "Haraguchi, Karol",
+      "attributes": [
+        "Hanalei Parent"
+      ]
+    }
+  },
+  {
+    "at": "00:18:44.256",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WAYNE WATANABE\n\nKapaa High School Principal",
+    "keyed-information": {
+      "name-as-written": "WAYNE WATANABE",
+      "name-normalized": "Watanabe, Wayne",
+      "attributes": [
+        "Kapaa High School Principal"
+      ]
+    }
+  },
+  {
+    "at": "00:20:05.504",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "REP. ROD TAM (D)\n\nHouse Education Chair",
+    "keyed-information": {
+      "name-as-written": "REP. ROD TAM (D)",
+      "name-normalized": "Tam, Rod",
+      "attributes": [
+        "House Education Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:20:21.253",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "LYNETTE LO TOM\n\nHawaii Edition",
+    "keyed-information": {
+      "name-as-written": "LYNETTE LO TOM",
+      "name-normalized": "Tom, Lynette Lo",
+      "attributes": [
+        "Hawaii Edition"
+      ]
+    }
+  },
+  {
+    "at": "00:20:46.511",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "FRANKLIN ODO, PhD\n\nJapanese American\n\nCitizen's League",
+    "keyed-information": {
+      "name-as-written": "FRANKLIN ODO, PhD",
+      "name-normalized": "Odo, Franklin",
+      "attributes": [
+        "Japanese American Citizen's League"
+      ]
+    }
+  },
+  {
+    "at": "00:21:52.010",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:22:45.130",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  },
+  {
+    "at": "00:23:26.138",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:23:45.123",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  },
+  {
+    "at": "00:25:46.011",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  },
+  {
+    "at": "00:28:11.156",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Honolulu Advertiser"
+      ]
+    }
+  }
+]

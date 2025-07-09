@@ -1,0 +1,32 @@
+[
+  {
+    "at": "00:11:33.526",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Nola Nahulu\n\nArtistic Director\n\nHawaii Youth Opera Chorus",
+    "keyed-information": {
+      "name-as-written": "Nola Nahulu",
+      "name-normalized": "Nahulu, Nola",
+      "attributes": [
+        "Artistic Director",
+        "Hawaii Youth Opera Chorus"
+      ]
+    }
+  },
+  {
+    "at": "00:12:13.032",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Selena Ching\n\nExecutive Director\n\nHawaii Youth Symphony",
+    "keyed-information": {
+      "name-as-written": "Selena Ching",
+      "name-normalized": "Ching, Selena",
+      "attributes": [
+        "Executive Director",
+        "Hawaii Youth Symphony"
+      ]
+    }
+  }
+]

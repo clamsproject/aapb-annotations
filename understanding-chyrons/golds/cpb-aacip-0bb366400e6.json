@@ -1,0 +1,114 @@
+[
+  {
+    "at": "00:07:57.643",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\nEllen Rathbone\nVisitors Interpretive Center",
+    "keyed-information": {
+      "name-as-written": "Ellen Rathbone",
+      "name-normalized": "Rathbone, Ellen",
+      "attributes": [
+        "Visitors Interpretive Center"
+      ]
+    }
+  },
+  {
+    "at": "00:10:23.522",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\nEllen Rathbone\nVisitors Interpretive Center",
+    "keyed-information": {
+      "name-as-written": "Ellen Rathbone",
+      "name-normalized": "Rathbone, Ellen",
+      "attributes": [
+        "Visitors Interpretive Center"
+      ]
+    }
+  },
+  {
+    "at": "00:14:16.021",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\nJohn Dimon\nDimon Sports",
+    "keyed-information": {
+      "name-as-written": "John Dimon",
+      "name-normalized": "Dimon, John",
+      "attributes": [
+        "Dimon Sports"
+      ]
+    }
+  },
+  {
+    "at": "00:19:27.132",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\nChristie Sausa\nFigure Skater/Speed Skater",
+    "keyed-information": {
+      "name-as-written": "Christie Sausa",
+      "name-normalized": "Sausa, Christie",
+      "attributes": [
+        "Figure Skater/Speed Skater"
+      ]
+    }
+  },
+  {
+    "at": "00:20:00.899",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nJoan Goldthwait\nSpeed Skater",
+    "keyed-information": {
+      "name-as-written": "Joan Goldthwait",
+      "name-normalized": "\nGoldthwait, Joan",
+      "attributes": [
+        "\nSpeed Skater"
+      ]
+    }
+  },
+  {
+    "at": "00:21:15.373",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nStacy McNulty\nWildlife Ecologist",
+    "keyed-information": {
+      "name-as-written": "Stacy McNulty",
+      "name-normalized": "\nMcNulty, Stacy",
+      "attributes": [
+        "\nWildlife Ecologist"
+      ]
+    }
+  },
+  {
+    "at": "00:27:05.390",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nZack Danks\nGraduate Student Researcher",
+    "keyed-information": {
+      "name-as-written": "Zack Danks",
+      "name-normalized": "\nDanks, Zack",
+      "attributes": [
+        "\nGraduate Student Researcher"
+      ]
+    }
+  },
+  {
+    "at": "00:27:31.749",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nAnnie Woods\nGraduate Student Researcher",
+    "keyed-information": {
+      "name-as-written": "Annie Woods",
+      "name-normalized": "\nWoods, Annie",
+      "attributes": [
+        "\nGraduate Student Researcher"
+      ]
+    }
+  }
+]

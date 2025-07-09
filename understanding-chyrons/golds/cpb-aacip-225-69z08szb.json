@@ -1,0 +1,74 @@
+[
+  {
+    "at": "00:13:35.648",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Valerie Love, Director\n\nGain Awareness Through Education\n\nAtlanta",
+    "keyed-information": {
+      "name-as-written": "Valerie Love, Director",
+      "name-normalized": "Love, Valerie",
+      "attributes": [
+        "Gain Awareness Through Education",
+        "Atlanta"
+      ]
+    }
+  },
+  {
+    "at": "00:24:25.397",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Leonard Lieber, L. C. S. W\n\nParents Anonymous",
+    "keyed-information": {
+      "name-as-written": "Leonard Lieber, L. C. S. W",
+      "name-normalized": "Lieber, Leonard",
+      "attributes": [
+        "Parents Anonymous"
+      ]
+    }
+  },
+  {
+    "at": "00:25:49.781",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Larry Brown\n\nAmerican Humane Assoc.",
+    "keyed-information": {
+      "name-as-written": "Larry Brown",
+      "name-normalized": "Brown, Larry",
+      "attributes": [
+        "American Humane Assoc."
+      ]
+    }
+  },
+  {
+    "at": "00:26:15.140",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Linda A. Santos\n\nCatholic Social\n\nService, Honolulu, Hi.",
+    "keyed-information": {
+      "name-as-written": "Linda A. Santos",
+      "name-normalized": "Santos, Linda A.",
+      "attributes": [
+        "Catholic Social Service, Honolulu, Hi."
+      ]
+    }
+  },
+  {
+    "at": "00:26:47.138",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Jolly K.\n\nCo-Founder\n\nParents Anonymous",
+    "keyed-information": {
+      "name-as-written": "Jolly K.",
+      "name-normalized": "K., Jolly",
+      "attributes": [
+        "Co-Founder",
+        "Parents Anonymous"
+      ]
+    }
+  }
+]

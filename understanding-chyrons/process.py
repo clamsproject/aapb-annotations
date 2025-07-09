@@ -1,10 +1,7 @@
-import csv
 import json
 import pathlib
 import shutil
 from collections import defaultdict
-
-import pandas as pd
 
 
 def truncate(value, is_total = False):
@@ -42,31 +39,46 @@ def format_timecode(value):
 
 
 def process(raw_dir, golds_dir):
-    print(raw_dir)
-    js_files = list(raw_dir.glob('img*.js'))
+    js_files = list(raw_dir.glob('*.json'))
     # check if there are more js files, which indicates a trouble 
     if len(js_files) > 1:
-        raise ValueError(f"More than one js file found in {raw_dir}")
+        raise ValueError(f"More than one json file found in {raw_dir}")
     js_file = js_files[0]
     with open(js_file, 'r') as f:
-        js_content = f.readlines()
-        # first and last lines are javascript code, while in the middle is the JSON obj
-        annotations = json.loads("".join(js_content[1:-1]))
+        annotations = json.loads("".join(f.read()))
         reformatted = defaultdict(list)  # GUID to list of annotations dict
+        skip = 0
+        dupe = 0
+        unseen = 0
+        irrel = 0
         for annotation in annotations:
             ann = {}
             filename, seen, type_label, subtype_label, modifier, note_3, note_4 = annotation
             if seen in ('false', 'False'):
+                unseen += 1
+                continue
+            if type_label not in 'INY':
+                irrel += 1
                 continue
             if note_4.startswith('DUPE'):
+                if not str(raw_dir).endswith('practice'):
+                    print(annotation)
+                dupe += 1
                 continue
             note_4_data = note_4.split('\n\n')
             if len(note_4_data) < 2:
-                print(note_4)
-                continue
-            name_v = note_4_data[0]
-            name_n = note_4_data[1]
-            attribs = note_4_data[2:]
+                # in the minimum case, note4 should be written-name and normal-name (without any attribute lines)
+                if type_label == 'I':
+                    print(annotation)
+                    skip += 1
+                # still keep the record since note3 annotation is still valid and usable
+                note_4_structured = None
+            else:
+                note_4_structured = {
+                    'name-as-written': note_4_data[0],
+                    'name-normalized': note_4_data[1],
+                    'attributes': note_4_data[2:]
+                }
             guid = filename.split('_')[0]
             ann['at'] = format_timecode(filename)
             ann['scene-type'] = '-' if not type_label else type_label
@@ -74,10 +86,12 @@ def process(raw_dir, golds_dir):
             ann['transitional'] = bool(modifier)
             ann['text-transcript'] = note_3.replace(r'\n', '\n')
             ann['text-transcript'] = ann['text-transcript'].replace(r'\"', '"')
-            ann['keyed-information'] = {'name-as-written': name_v,
-                                        'name-normalized': name_n,
-                                        'attributes': attribs}
+            ann['keyed-information'] = note_4_structured
             reformatted[guid].append(ann)
+        print(f'from {raw_dir.name}, skipped {skip} records due to malformed note-4 data')
+        print(f'from {raw_dir.name}, skipped {dupe} records due to DUPE mark')
+        print(f'from {raw_dir.name}, skipped {unseen} records due to unseen mark')
+        print(f'from {raw_dir.name}, skipped {irrel} records with irrelevant type label (not I, N, Y)')
         for guid, anns in reformatted.items():
             with open(golds_dir / f'{guid}.json', 'w') as f:
                 json.dump(anns, f, indent=2)
@@ -93,5 +107,5 @@ if __name__ == '__main__':
     golds_dir.mkdir(exist_ok=True)
 
     # find all directories starts with six digits and a dash
-    # for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
-    process(task_dir / '250701-hichy', golds_dir)
+    for batch_dir in task_dir.glob('[0-9][0-9][0-9][0-9][0-9][0-9]-*'):
+        process(batch_dir, golds_dir)

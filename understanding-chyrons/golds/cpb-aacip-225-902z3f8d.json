@@ -1,0 +1,28 @@
+[
+  {
+    "at": "00:08:26.772",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "REP. ANDREW LEVIN (D)\n\nChair, Water, Land Use\n\nDev., & Hawaiian Affairs Com.",
+    "keyed-information": {
+      "name-as-written": "REP. ANDREW LEVIN (D)",
+      "name-normalized": "Levin, Andrew",
+      "attributes": [
+        "Chair, Water, Land Use Dev., & Hawaiian Affairs Com."
+      ]
+    }
+  },
+  {
+    "at": "00:10:28.628",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "SEN. MALAMA SOLOMON (D)",
+    "keyed-information": {
+      "name-as-written": "SEN. MALAMA SOLOMON (D)",
+      "name-normalized": "Solomon, Malama",
+      "attributes": []
+    }
+  }
+]

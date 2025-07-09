@@ -1,0 +1,59 @@
+[
+  {
+    "at": "00:04:15.255",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Debbie Goodwin\n\nKeck Observatory",
+    "keyed-information": {
+      "name-as-written": "Debbie Goodwin",
+      "name-normalized": "Goodwin, Debbie",
+      "attributes": [
+        "Keck Observatory"
+      ]
+    }
+  },
+  {
+    "at": "00:08:19.031",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Peter Shaindlin\n\nHalekulani Corporation",
+    "keyed-information": {
+      "name-as-written": "Peter Shaindlin",
+      "name-normalized": "Shaindlin, Peter",
+      "attributes": [
+        "Halekulani Corporation"
+      ]
+    }
+  },
+  {
+    "at": "00:12:48.000",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Mike Wright\n\nA&B Properties",
+    "keyed-information": {
+      "name-as-written": "Mike Wright",
+      "name-normalized": "Wright, Mike",
+      "attributes": [
+        "A&B Properties"
+      ]
+    }
+  },
+  {
+    "at": "00:17:10.396",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Dustin Shindo\n\nCEO\n\nHoku Scientific",
+    "keyed-information": {
+      "name-as-written": "Dustin Shindo",
+      "name-normalized": "Shindo, Dustin",
+      "attributes": [
+        "CEO",
+        "Hoku Scientific"
+      ]
+    }
+  }
+]

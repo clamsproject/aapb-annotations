@@ -1,0 +1,60 @@
+[
+  {
+    "at": "00:03:53.633",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "David Carey\n\nCEO\n\nOutrigger",
+    "keyed-information": {
+      "name-as-written": "David Carey",
+      "name-normalized": "Carey, David",
+      "attributes": [
+        "CEO",
+        "Outrigger"
+      ]
+    }
+  },
+  {
+    "at": "00:09:31.137",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harvey Shapiro\n\nEconomist",
+    "keyed-information": {
+      "name-as-written": "Harvey Shapiro",
+      "name-normalized": "Shapiro, Harvey",
+      "attributes": [
+        "Economist"
+      ]
+    }
+  },
+  {
+    "at": "00:15:05.504",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Patrick Oki, CPA, CFE\n\nPartner, Grant Thornton, Honolulu Office",
+    "keyed-information": {
+      "name-as-written": "Patrick Oki, CPA, CFE",
+      "name-normalized": "Oki, Patrick",
+      "attributes": [
+        "Partner, Grant Thornton, Honolulu Office"
+      ]
+    }
+  },
+  {
+    "at": "00:20:31.763",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Marsha Bemko\n\nProducer\n\nAntiques Road Show",
+    "keyed-information": {
+      "name-as-written": "Marsha Bemko",
+      "name-normalized": "Bemko, Marsha",
+      "attributes": [
+        "Producer",
+        "Antiques Road Show"
+      ]
+    }
+  }
+]

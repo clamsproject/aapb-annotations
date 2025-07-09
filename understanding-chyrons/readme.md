@@ -1,4 +1,4 @@
-# Understanding Slates
+# Understanding Chyrons
 
 ## Project Overview
 
@@ -14,10 +14,13 @@ This annotation project is a follow-up effort to [`scene-recognition`](../scene-
     * Version - unknown
     * Tool documentation - (see below tool installation)
 * Project Changes
-    * Used batch - 3 batches
-        * "initial" (gabbi) set 
-        * hi-chy-hi (gabbi) set
-        * hi-chy-comp (???) set
+    * Used batches
+        * [`hi-chy-practice`](../batches/hi-chy-practice.txt): 23 GUIDs, 507 annotation records
+        * [`hi-chy-hi-pre-2000`](../batches/hi-chy-hi-pre-2000.txt): 72 GUIDs, 1430 annotation records
+        * [`hi-chy-hi-post-2000`](../batches/hi-chy-hi-post-2000.txt): 86 GUIDs, 395 annotation records
+    * Planned batches
+        * hi-chy-comps-pre-2000
+        * hi-chy-comps-post-2000
     * Other version control information - N/A
 
 ## Tooling 
@@ -41,25 +44,21 @@ Tool usage hasn't changed from the previous project. However since this annotati
 
 ### Decisions, Differentiation, and Precision Level during Annotation
 
-TODO: How were DUPE marking used? 
-
 The guidelines in this section are copied from the `conf.js` file used in the KSL for the annotation. The original guidelines were written in HTML syntax and have been adapted here for markdown syntax.
 
 #### Verbatim transcription
 (in `note-3` field)
 
-To annotate, enter text in the box.
-Leave this area blank unless the frame type is "I", "N", or "Y".
-If the frame category is "I", "N", or "Y", then transcribe verbatim the text in the "lower third" or "chryon" area of the screen, including every character. Preserve spacing and line breaks where feasible.
-Do not, under any circumstances, include text that is in the top half of the frame.
-Even for text in the bottom half of frame, do not include the text unless it is part of the chyron graphical element. Easily legible text in a logo that is part of the chyron should be included, but watermarks, background text, and filmed text should be omitted.
+To annotate, enter text in the box. Leave this area blank unless the frame type is "I", "N", or "Y".
+
+If the frame category is "I", "N", or "Y", then transcribe verbatim the text in the "lower third" or "chryon" area of the screen, including every character. Preserve spacing and line breaks where feasible. Do not, under any circumstances, include text that is in the top half of the frame. Even for text in the bottom half of frame, do not include the text unless it is part of the chyron graphical element. Easily legible text in a logo that is part of the chyron should be included, but watermarks, background text, and filmed text should be omitted.
+
 To transcribe an okina character, use the backtick: ` (ASCII code 39).
 
 #### Text understanding
 (in `note-4` field)
 
-To annotate, enter text in the box.
-Leave this area blank unless the frame type is "I". If the frame type is "I", then identify important parts of the person's name and characteristics as follows:
+To annotate, enter text in the box. Leave this area blank unless the frame type is "I". If the frame type is "I", then identify important parts of the person's name and characteristics as follows:
 In general: Add one datum per line, skipping lines between items.
 
 First datum: Copy exactly the person's name as written, including titles (such as "Miss", "Dr.", "Senator", "Rev.", etc.) and designations (such as "M.D." or "Ph.D."). Preserve capitalization presented on screen.
@@ -86,13 +85,10 @@ Annotations for each batch are stored in a `.js` file. This JavaScript file defi
 * `note-4` (string) - a _re-formatted_ structured understanding based on the verbatim text from the previous column. The method for re-formatting by structuring the text to key-value pairs is written with more details in the annotation guidelines above.
 
 ### [`process.py`](process.py)
-Again, the processing script does the same clean-up and re-organization ([relevant section in the previous project](https://github.com/clamsproject/aapb-annotations/tree/main/scene-recognition#processpy])), then add `note-3` and `note-4` values to new columns, while skipping any rows that are maked as `DUPE`. 
+Again, the processing script does the same clean-up and re-organization ([relevant section in the previous project](https://github.com/clamsproject/aapb-annotations/tree/main/scene-recognition#processpy])), then add `note-3` and `note-4` values to new columns, while also performing the following additional tasks to handle issues in the raw data:
 
-TODO: what do we do with incorrect annotations? 
-``` js
-# line 311 of img_arr_prog_3_I-transcribed+dupesmarked+GK.js in hichy data
-["cpb-aacip-225-22h70v35_01780512_01324024_01324022.jpg",true,"I","",false,"George Mavrothalassitis","George Mavrothalassitis"],
-```
+1. Skip any rows that are maked as `DUPE`. 
+2. Ignore `note-4` values that do not conform to the specified annotation guidelines (i.e., are malformed syntax-wise). Only `note-3` values are kept in such cases.
 
 > [!NOTE]
 > In the previous scene type labeling project, both the raw and gold data are serialized in CSV format, while the current project uses JSON for both. The decision was to avoid the complexity of encoding structured text in a plain text format, and to leverage the inherent structural syntax of the JSON format.
@@ -106,7 +102,7 @@ A set of `.json` files in which each row is a frame timestamped and with relevan
     * `scene-subtype` - string representing the subtype label, if applicable (from `subtype label` in raw data)
     * `transitional` - boolean representing if the image is _transitional_ between two scene types (from `modifier` in raw data)
     * `text-transcript` - string transferred from `note-3` (verbatim) column in the raw data. Line break markers are replaced with actual line breaks (U+000A). 
-    * `keyed-information` — an object (string-string) transferred from the `note-4` (key-value) column in the raw data: the first line (datum) is keyed as `name-as-written`, the second as `name-normalized`, and all other lines are included under `attributes` as a list of strings.
+    * `keyed-information` — an object (string-string) transferred from the `note-4` (key-value) column in the raw data: the first line (datum) is keyed as `name-as-written`, the second as `name-normalized`, and all other lines are included under `attributes` as a list of strings. Or `null` if the `note-4` data is not automatically parse-able due to format issues. 
     * All other columns from the raw data are removed.
 * Example:
 ```
@@ -125,6 +121,19 @@ $ cat golds/cpb-aacip-225-99n2zd03.json
         "House Majority Leader"
       ]
     }
+  }
+]
+
+$ cat golds/cpb-aacip-225-22h70v35.json
+[ 
+  ...
+  {
+    "at": "00:22:04.022",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "George Mavrothalassitis",
+    "keyed-information": null
   }
 ]
 ```

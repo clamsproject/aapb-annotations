@@ -1,0 +1,75 @@
+[
+  {
+    "at": "00:05:01.000",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Jay Chavez\n\nCaptain\n\nPride of America",
+    "keyed-information": {
+      "name-as-written": "Jay Chavez",
+      "name-normalized": "Chavez, Jay",
+      "attributes": [
+        "Captain",
+        "Pride of America"
+      ]
+    }
+  },
+  {
+    "at": "00:06:16.642",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Robert Kritzman\n\nExecutive Vice President\n\nNCL Hawaii",
+    "keyed-information": {
+      "name-as-written": "Robert Kritzman",
+      "name-normalized": "Kritzman, Robert",
+      "attributes": [
+        "Executive Vice President",
+        "NCL Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:10:51.150",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "John Heckathorn\n\nWriter And Critic",
+    "keyed-information": {
+      "name-as-written": "John Heckathorn",
+      "name-normalized": "Heckathorn, John",
+      "attributes": [
+        "Writer And Critic"
+      ]
+    }
+  },
+  {
+    "at": "00:15:04.503",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Ed Ferguson\n\nDirector\n\nNational Association of Countries",
+    "keyed-information": {
+      "name-as-written": "Ed Ferguson",
+      "name-normalized": "Ferguson, Ed",
+      "attributes": [
+        "Director",
+        "National Association of Countries"
+      ]
+    }
+  },
+  {
+    "at": "00:19:58.263",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Barbara Gum\n\nBarnes & Noble",
+    "keyed-information": {
+      "name-as-written": "Barbara Gum",
+      "name-normalized": "Gum, Barbara",
+      "attributes": [
+        "Barnes & Noble"
+      ]
+    }
+  }
+]

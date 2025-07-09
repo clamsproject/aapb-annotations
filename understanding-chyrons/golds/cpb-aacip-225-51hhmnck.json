@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:04:10.149",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Bruce Smith\n\nCEO\n\nTesoro Corp.",
+    "keyed-information": {
+      "name-as-written": "Bruce Smith",
+      "name-normalized": "Smith, Bruce",
+      "attributes": [
+        "CEO",
+        "Tesoro Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:10:22.388",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Darren Kimura\n\nEnergy Industries",
+    "keyed-information": {
+      "name-as-written": "Darren Kimura",
+      "name-normalized": "Kimura, Darren",
+      "attributes": [
+        "Energy Industries"
+      ]
+    }
+  },
+  {
+    "at": "00:16:06.131",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Paul Koehler\n\nHawaii Crop Improvement Association",
+    "keyed-information": {
+      "name-as-written": "Paul Koehler",
+      "name-normalized": "Koehler, Paul",
+      "attributes": [
+        "Hawaii Crop Improvement Association"
+      ]
+    }
+  }
+]

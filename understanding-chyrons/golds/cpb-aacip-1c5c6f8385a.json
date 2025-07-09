@@ -1,0 +1,204 @@
+[
+  {
+    "at": "00:02:34.153",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Marc Finlayson",
+    "keyed-information": {
+      "name-as-written": "Marc Finlayson",
+      "name-normalized": "\nFinlayson, Marc",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:02:45.531",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Audrey Kates Bailey\nStateline",
+    "keyed-information": {
+      "name-as-written": "Audrey Kates Bailey",
+      "name-normalized": "\nBailey, Audrey Kates",
+      "attributes": [
+        "\nStateline"
+      ]
+    }
+  },
+  {
+    "at": "00:06:24.750",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Thad Eure\nN.C. Secretary of State",
+    "keyed-information": {
+      "name-as-written": "Thad Eure",
+      "name-normalized": "\nEure, Thad",
+      "attributes": [
+        "\nN.C. Secretary of State"
+      ]
+    }
+  },
+  {
+    "at": "00:06:56.382",
+    "scene-type": "Y",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "John Sanders\nN.C. Institute of Government",
+    "keyed-information": null
+  },
+  {
+    "at": "00:07:43.896",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Marc Finlayson\nStateline",
+    "keyed-information": {
+      "name-as-written": "Marc Finlayson",
+      "name-normalized": "\nFinlayson, Marc",
+      "attributes": [
+        "\nStateline"
+      ]
+    }
+  },
+  {
+    "at": "00:08:53.632",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "John Brooks\nN.C. Labor Commissioner",
+    "keyed-information": {
+      "name-as-written": "John Brooks",
+      "name-normalized": "Brooks, John",
+      "attributes": [
+        "N.C. Labor Commissioner"
+      ]
+    }
+  },
+  {
+    "at": "00:10:04.903",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Richard Barnes\nLabor Commissioner Candidate",
+    "keyed-information": {
+      "name-as-written": "Richard Barnes",
+      "name-normalized": "\nBarnes, Richard",
+      "attributes": [
+        "\nLabor Commissioner Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:10:24.023",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Don Wiseman\nLabor Commissioner Candidate",
+    "keyed-information": {
+      "name-as-written": "Don Wiseman",
+      "name-normalized": "\nWiseman, Don",
+      "attributes": [
+        "\nLabor Commissioner Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:11:40.032",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Thad Beyle\nPolitical Scientist",
+    "keyed-information": {
+      "name-as-written": "Thad Beyle",
+      "name-normalized": "\nBeyle, Thad",
+      "attributes": [
+        "\nPolitical Scientist"
+      ]
+    }
+  },
+  {
+    "at": "00:12:12.030",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Jim Long\nIns. Commissioner Candidate",
+    "keyed-information": {
+      "name-as-written": "Jim Long",
+      "name-normalized": "\nLong, Jim",
+      "attributes": [
+        "\nIns. Commissioner Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:16:30.522",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "George Wimbish\nRepublican Candidate\nUnited States Senate",
+    "keyed-information": {
+      "name-as-written": "George Wimbish",
+      "name-normalized": "\nWimbish, George",
+      "attributes": [
+        "\nRepublican Candidate United States Senate"
+      ]
+    }
+  },
+  {
+    "at": "00:17:30.515",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harrill L. Jones\nDemocratic Candidate\nUnited States Senate",
+    "keyed-information": {
+      "name-as-written": "Harrill L. Jones",
+      "name-normalized": "\nJones, Harrill L.",
+      "attributes": [
+        "\nDemocratic Candidate United States Senate"
+      ]
+    }
+  },
+  {
+    "at": "00:24:12.383",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Lew Gitlin\nStateline",
+    "keyed-information": {
+      "name-as-written": "Lew Gitlin",
+      "name-normalized": "\nGitlin, Lew",
+      "attributes": [
+        "\nStateline"
+      ]
+    }
+  },
+  {
+    "at": "00:26:20.645",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rob Christensen\nThe News & Observer",
+    "keyed-information": {
+      "name-as-written": "Rob Christensen",
+      "name-normalized": "\nChristensen, Rob",
+      "attributes": [
+        "\nThe News & Observer"
+      ]
+    }
+  },
+  {
+    "at": "00:27:11.763",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Ted Harrison\nN.C. Public Television",
+    "keyed-information": {
+      "name-as-written": "Ted Harrison",
+      "name-normalized": "\nHarrison, Ted",
+      "attributes": [
+        "\nN.C. Public Television"
+      ]
+    }
+  }
+]

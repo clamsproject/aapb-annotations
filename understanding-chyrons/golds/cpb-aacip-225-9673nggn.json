@@ -1,0 +1,61 @@
+[
+  {
+    "at": "00:04:25.398",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Joe Toy\n\nCEO\n\nHOSPITALITY ADVISORS",
+    "keyed-information": {
+      "name-as-written": "Joe Toy",
+      "name-normalized": "Toy, Joe",
+      "attributes": [
+        "CEO",
+        "HOSPITALITY ADVISORS"
+      ]
+    }
+  },
+  {
+    "at": "00:09:43.649",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Bernard Ho\n\nINTERIM CEO\n\nDAMIEN SCHOOL",
+    "keyed-information": {
+      "name-as-written": "Bernard Ho",
+      "name-normalized": "Ho, Bernard",
+      "attributes": [
+        "INTERIM CEO",
+        "DAMIEN SCHOOL"
+      ]
+    }
+  },
+  {
+    "at": "00:15:15.014",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Kippen de Alba Chu\n\nIOLANI PALACE",
+    "keyed-information": {
+      "name-as-written": "Kippen de Alba Chu",
+      "name-normalized": "Chu, Kippen de Alba",
+      "attributes": [
+        "IOLANI PALACE"
+      ]
+    }
+  },
+  {
+    "at": "00:20:43.375",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "John Howell\n\nCEO\n\nEASTER SEALS HAWAII",
+    "keyed-information": {
+      "name-as-written": "John Howell",
+      "name-normalized": "Howell, John",
+      "attributes": [
+        "CEO",
+        "EASTER SEALS HAWAII"
+      ]
+    }
+  }
+]
