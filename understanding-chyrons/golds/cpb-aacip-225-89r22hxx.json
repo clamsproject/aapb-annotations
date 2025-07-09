@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:04:03.876",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Rex Johnson\n\nCEO\n\nHawaii Tourism Authority",
+    "keyed-information": {
+      "name-as-written": "Rex Johnson",
+      "name-normalized": "Johnson, Rex",
+      "attributes": [
+        "CEO",
+        "Hawaii Tourism Authority"
+      ]
+    }
+  },
+  {
+    "at": "00:10:45.511",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Jim Ueno\n\nAloha Street",
+    "keyed-information": {
+      "name-as-written": "Jim Ueno",
+      "name-normalized": "Ueno, Jim",
+      "attributes": [
+        "Aloha Street"
+      ]
+    }
+  },
+  {
+    "at": "00:16:56.648",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Brent Kunimoto\n\nDiamond Bakery",
+    "keyed-information": {
+      "name-as-written": "Brent Kunimoto",
+      "name-normalized": "Kunimoto, Brent",
+      "attributes": [
+        "Diamond Bakery"
+      ]
+    }
+  }
+]

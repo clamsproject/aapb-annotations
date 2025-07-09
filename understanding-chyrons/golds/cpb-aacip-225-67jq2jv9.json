@@ -1,0 +1,46 @@
+[
+  {
+    "at": "00:04:43.750",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Ricky Cassiday\n\nHome Price Researcher",
+    "keyed-information": {
+      "name-as-written": "Ricky Cassiday",
+      "name-normalized": "Cassiday, Ricky",
+      "attributes": [
+        "Home Price Researcher"
+      ]
+    }
+  },
+  {
+    "at": "00:16:04.530",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Chris van Bergeijk\n\nVP Programs\n\nHawaii Community Foundation",
+    "keyed-information": {
+      "name-as-written": "Chris van Bergeijk",
+      "name-normalized": "van Bergeijk, Chris",
+      "attributes": [
+        "VP Programs",
+        "Hawaii Community Foundation"
+      ]
+    }
+  },
+  {
+    "at": "00:21:29.655",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Melanie Okazaki\n\nMarketing Manager\n\nMcDonald's",
+    "keyed-information": {
+      "name-as-written": "Melanie Okazaki",
+      "name-normalized": "Okazaki, Melanie",
+      "attributes": [
+        "Marketing Manager",
+        "McDonald's"
+      ]
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "at": "00:04:30.270",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Bobby Bunda\n\nSenate President",
+    "keyed-information": {
+      "name-as-written": "Bobby Bunda",
+      "name-normalized": "Bunda, Bobby",
+      "attributes": [
+        "Senate President"
+      ]
+    }
+  },
+  {
+    "at": "00:11:50.876",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "David Carey\n\nPresident\n\nBusiness Roundtable",
+    "keyed-information": {
+      "name-as-written": "David Carey",
+      "name-normalized": "Carey, David",
+      "attributes": [
+        "President",
+        "Business Roundtable"
+      ]
+    }
+  },
+  {
+    "at": "00:17:47.499",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Myron Thompson\n\nPresident\n\nHawaiian Homestead Technology, Inc.",
+    "keyed-information": {
+      "name-as-written": "Myron Thompson",
+      "name-normalized": "Thompson, Myron",
+      "attributes": [
+        "President",
+        "Hawaiian Homestead Technology, Inc."
+      ]
+    }
+  },
+  {
+    "at": "00:20:53.652",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Kaleo Auwae\n\nSite Manager\n\nHawaiian Homestead Technology",
+    "keyed-information": {
+      "name-as-written": "Kaleo Auwae",
+      "name-normalized": "Auwae, Kaleo",
+      "attributes": [
+        "Site Manager",
+        "Hawaiian Homestead Technology"
+      ]
+    }
+  },
+  {
+    "at": "00:22:49.634",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Bryce Aisaka\n\nIolani School",
+    "keyed-information": {
+      "name-as-written": "Bryce Aisaka",
+      "name-normalized": "Aisaka, Bryce",
+      "attributes": [
+        "Iolani School"
+      ]
+    }
+  },
+  {
+    "at": "00:23:04.383",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Egen Atkinson\n\nIolani School",
+    "keyed-information": {
+      "name-as-written": "Egen Atkinson",
+      "name-normalized": "Atkinson, Egen",
+      "attributes": [
+        "Iolani School"
+      ]
+    }
+  },
+  {
+    "at": "00:23:20.899",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Dean Ushijima\n\nIolani School",
+    "keyed-information": {
+      "name-as-written": "Dean Ushijima",
+      "name-normalized": "Ushijima, Dean",
+      "attributes": [
+        "Iolani School"
+      ]
+    }
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "at": "00:01:50.510",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "EVERYBODY'S BUSINESS"
+      ]
+    }
+  },
+  {
+    "at": "00:04:10.250",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Peter Rosegg\n\nHAWAIIAN ELECTRIC",
+    "keyed-information": {
+      "name-as-written": "Peter Rosegg",
+      "name-normalized": "Rosegg, Peter",
+      "attributes": [
+        "HAWAIIAN ELECTRIC"
+      ]
+    }
+  },
+  {
+    "at": "00:10:22.154",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Pat Onishi\n\nAMERICAN INSTITUTE OF ARCHITECTS\n\nHONOLULU CHAPTER",
+    "keyed-information": {
+      "name-as-written": "Pat Onishi",
+      "name-normalized": "Onishi, Pat",
+      "attributes": [
+        "AMERICAN INSTITUTE OF ARCHITECTS",
+        "HONOLULU CHAPTER"
+      ]
+    }
+  },
+  {
+    "at": "00:15:58.257",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Stuart W. H. Ching\n\n`IOLANI PALACE",
+    "keyed-information": {
+      "name-as-written": "Stuart W. H. Ching",
+      "name-normalized": "Ching, Stuart W. H.",
+      "attributes": [
+        "`IOLANI PALACE"
+      ]
+    }
+  },
+  {
+    "at": "00:21:04.763",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Robbie Kane\n\nHAWAII TOURISM AUTHORITY",
+    "keyed-information": {
+      "name-as-written": "Robbie Kane",
+      "name-normalized": "Kane, Robbie",
+      "attributes": [
+        "HAWAII TOURISM AUTHORITY"
+      ]
+    }
+  }
+]

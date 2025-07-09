@@ -1,0 +1,44 @@
+[
+  {
+    "at": "00:03:55.902",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harvey Shapiro\n\nHonolulu Board of Realtors",
+    "keyed-information": {
+      "name-as-written": "Harvey Shapiro",
+      "name-normalized": "Shapiro, Harvey",
+      "attributes": [
+        "Honolulu Board of Realtors"
+      ]
+    }
+  },
+  {
+    "at": "00:10:20.152",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Mike Ivens\n\nMGI Aviation Services",
+    "keyed-information": {
+      "name-as-written": "Mike Ivens",
+      "name-normalized": "Ivens, Mike",
+      "attributes": [
+        "MGI Aviation Services"
+      ]
+    }
+  },
+  {
+    "at": "00:21:31.390",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Diane Wicks\n\nPlantation Home Decor",
+    "keyed-information": {
+      "name-as-written": "Diane Wicks",
+      "name-normalized": "Wicks, Diane",
+      "attributes": [
+        "Plantation Home Decor"
+      ]
+    }
+  }
+]

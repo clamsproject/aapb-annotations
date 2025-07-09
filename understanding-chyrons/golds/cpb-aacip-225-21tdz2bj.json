@@ -1,0 +1,30 @@
+[
+  {
+    "at": "00:09:07.280",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Angela Britten\n\nMutual Publishing",
+    "keyed-information": {
+      "name-as-written": "Angela Britten",
+      "name-normalized": "Britten, Angela",
+      "attributes": [
+        "Mutual Publishing"
+      ]
+    }
+  },
+  {
+    "at": "00:21:11.403",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Shelley Wilson\n\nWilson Home Care",
+    "keyed-information": {
+      "name-as-written": "Shelley Wilson",
+      "name-normalized": "Wilson, Shelley",
+      "attributes": [
+        "Wilson Home Care"
+      ]
+    }
+  }
+]

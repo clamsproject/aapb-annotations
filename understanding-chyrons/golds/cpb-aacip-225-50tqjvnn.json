@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:04:32.639",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Calvin Say\n\nSpeaker of the House",
+    "keyed-information": {
+      "name-as-written": "Calvin Say",
+      "name-normalized": "Say, Calvin",
+      "attributes": [
+        "Speaker of the House"
+      ]
+    }
+  },
+  {
+    "at": "00:14:25.531",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Joe Davis\n\nGeneral Manager\n\nHawaii Convention Center",
+    "keyed-information": {
+      "name-as-written": "Joe Davis",
+      "name-normalized": "Davis, Joe",
+      "attributes": [
+        "General Manager",
+        "Hawaii Convention Center"
+      ]
+    }
+  },
+  {
+    "at": "00:19:07.379",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Martin Yan\n\nTv Chef And Author",
+    "keyed-information": {
+      "name-as-written": "Martin Yan",
+      "name-normalized": "Yan, Martin",
+      "attributes": [
+        "Tv Chef and Author"
+      ]
+    }
+  }
+]

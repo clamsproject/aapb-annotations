@@ -1,0 +1,171 @@
+[
+  {
+    "at": "00:03:38.017",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Dennis Chapron, R.Ph., M.S.\nAssociate Professor of Pharmacy\nUniversity of Connecticut",
+    "keyed-information": {
+      "name-as-written": "Dennis Chapron, R.Ph., M.S.",
+      "name-normalized": "Chapron, Dennis",
+      "attributes": [
+        "Associate Professor of Pharmacy ",
+        "University of Connecticut"
+      ]
+    }
+  },
+  {
+    "at": "00:05:57.023",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Michel Nischan\nChef and Author",
+    "keyed-information": {
+      "name-as-written": "Michel Nischan",
+      "name-normalized": "Nischan, Michel",
+      "attributes": [
+        "Chef and Author"
+      ]
+    }
+  },
+  {
+    "at": "00:10:38.137",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "John Ertle\nHousing Specialist\nDept. of Housing & Urban Development",
+    "keyed-information": {
+      "name-as-written": "John Ertle",
+      "name-normalized": "Ertle, John",
+      "attributes": [
+        "Housing Specialist",
+        "Dept. of Housing & Urban Development"
+      ]
+    }
+  },
+  {
+    "at": "00:10:59.258",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Mary-Starke Wilson",
+    "keyed-information": {
+      "name-as-written": "Mary-Starke Wilson",
+      "name-normalized": "Wilson, Mary-Starke",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:12:12.398",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Kathryn Freda\nReverse Mortgage Specialist",
+    "keyed-information": {
+      "name-as-written": "Kathryn Freda",
+      "name-normalized": "\nFreda, Kathryn",
+      "attributes": [
+        "\nReverse Mortgage Specialist"
+      ]
+    }
+  },
+  {
+    "at": "00:12:56.375",
+    "scene-type": "N",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "www.hud.org",
+    "keyed-information": null
+  },
+  {
+    "at": "00:15:05.638",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Kenneth Yancey, Jr.\nChief Executive Officer, SCORE",
+    "keyed-information": {
+      "name-as-written": "Kenneth Yancey, Jr.",
+      "name-normalized": "Yancey, Kenneth, Jr.",
+      "attributes": [
+        "Chief Executive Officer, SCORE"
+      ]
+    }
+  },
+  {
+    "at": "00:16:53.512",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Henry May\nSCORE Counselor",
+    "keyed-information": {
+      "name-as-written": "Henry May",
+      "name-normalized": "May, Henry",
+      "attributes": [
+        "SCORE Counselor"
+      ]
+    }
+  },
+  {
+    "at": "00:18:28.140",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "Lawrence Nowlan\nSculptor\nWindsor, VT",
+    "keyed-information": {
+      "name-as-written": "Lawrence Nowlan",
+      "name-normalized": "Nowlan, Lawrence",
+      "attributes": [
+        "Sculptor",
+        "Windsor, VT"
+      ]
+    }
+  },
+  {
+    "at": "00:19:17.756",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": true,
+    "text-transcript": "Frederic Thomas\nSCORE Counselor",
+    "keyed-information": {
+      "name-as-written": "Frederic Thomas",
+      "name-normalized": "\nThomas, Frederic",
+      "attributes": [
+        "\nSCORE Counselor"
+      ]
+    }
+  },
+  {
+    "at": "00:22:04.890",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Aston Hugh\nTai Chi Instructor",
+    "keyed-information": {
+      "name-as-written": "Aston Hugh",
+      "name-normalized": "\nHugh, Aston",
+      "attributes": [
+        "\nTai Chi Instructor"
+      ]
+    }
+  },
+  {
+    "at": "00:25:24.890",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Charles Prewitt",
+    "keyed-information": {
+      "name-as-written": "Charles Prewitt",
+      "name-normalized": "\nPrewitt, Charles",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:26:35.126",
+    "scene-type": "Y",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Charles and Virginia Prewitt",
+    "keyed-information": null
+  }
+]

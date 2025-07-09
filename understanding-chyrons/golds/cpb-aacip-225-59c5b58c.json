@@ -1,0 +1,86 @@
+[
+  {
+    "at": "00:03:42.889",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Peter Young\n\nChairman, Dept. of Land & Natural Resources",
+    "keyed-information": {
+      "name-as-written": "Peter Young",
+      "name-normalized": "Young, Peter",
+      "attributes": [
+        "Chairman, Dept. of Land & Natural Resources"
+      ]
+    }
+  },
+  {
+    "at": "00:04:02.141",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Judith Fogarty\n\nNOAA Fisheries Enforcement",
+    "keyed-information": {
+      "name-as-written": "Judith Fogarty",
+      "name-normalized": "Fogarty, Judith",
+      "attributes": [
+        "NOAA Fisheries Enforcement"
+      ]
+    }
+  },
+  {
+    "at": "00:08:23.002",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Bill Chee\n\nCEO, Prudential Properties",
+    "keyed-information": {
+      "name-as-written": "Bill Chee",
+      "name-normalized": "Chee, Bill",
+      "attributes": [
+        "CEO, Prudential Properties"
+      ]
+    }
+  },
+  {
+    "at": "00:17:42.394",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Heidi Wild\n\nHawaii Forest Industry Ass'n",
+    "keyed-information": {
+      "name-as-written": "Heidi Wild",
+      "name-normalized": "Wild, Heidi",
+      "attributes": [
+        "Hawaii Forest Industry Ass'n"
+      ]
+    }
+  },
+  {
+    "at": "00:20:30.128",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Myles Unabia\n\nConsultant, Altres Staffing",
+    "keyed-information": {
+      "name-as-written": "Myles Unabia",
+      "name-normalized": "Unabia, Myles",
+      "attributes": [
+        "Consultant, Altres Staffing"
+      ]
+    }
+  },
+  {
+    "at": "00:20:55.254",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Michelle Kennedy\n\nCustomer Communications, TheBus",
+    "keyed-information": {
+      "name-as-written": "Michelle Kennedy",
+      "name-normalized": "Kennedy, Michelle",
+      "attributes": [
+        "Customer Communications, TheBus"
+      ]
+    }
+  }
+]

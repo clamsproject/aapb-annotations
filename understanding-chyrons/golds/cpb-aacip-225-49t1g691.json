@@ -1,0 +1,199 @@
+[
+  {
+    "at": "00:01:25.885",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOE MOOR\n\nCHANNEL 2 NEWS",
+    "keyed-information": {
+      "name-as-written": "JOE MOOR",
+      "name-normalized": "Moor, Joe",
+      "attributes": [
+        "Channel 2 News"
+      ]
+    }
+  },
+  {
+    "at": "00:02:35.021",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "GERRY KEIR\n\nHONOLULU ADVERTISER\n\nMANAGING EDITOR",
+    "keyed-information": {
+      "name-as-written": "GERRY KEIR",
+      "name-normalized": "Keir, Gerry",
+      "attributes": [
+        "HONOLULU ADVERTISER",
+        "MANAGING EDITOR"
+      ]
+    }
+  },
+  {
+    "at": "00:03:57.003",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "MARY BITTERMAN\n\nCONGRESSIONAL CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "MARY BITTERMAN",
+      "name-normalized": "Bitterman, Mary",
+      "attributes": [
+        "CONGRESSIONAL CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:04:56.129",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "BLASE HARRIS\n\nCONGRESSIONAL CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "BLASE HARRIS",
+      "name-normalized": "Harris, Blase",
+      "attributes": [
+        "CONGRESSIONAL CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:05:58.157",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PATRICIA SAIKI\n\nCONGRESSIONAL CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "PATRICIA SAIKI",
+      "name-normalized": "Saiki, Patricia",
+      "attributes": [
+        "CONGRESSIONAL CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:07:20.006",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ANNE HARPHAM\n\nHONOLULU ADVERTISER",
+    "keyed-information": {
+      "name-as-written": "ANNE HARPHAM",
+      "name-normalized": "Harpham, Anne",
+      "attributes": [
+        "HONOLULU ADVERTISER"
+      ]
+    }
+  },
+  {
+    "at": "00:17:12.765",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "BARBARA MARSHALL\n\nCHANNEL 2 NEWS",
+    "keyed-information": {
+      "name-as-written": "BARBARA MARSHALL",
+      "name-normalized": "Marshall, Barbara",
+      "attributes": [
+        "CHANNEL 2 NEWS"
+      ]
+    }
+  },
+  {
+    "at": "00:22:25.510",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "ANDY YAMAGUCHI\n\nHONOLULU ADVERTISER",
+    "keyed-information": {
+      "name-as-written": "ANDY YAMAGUCHI",
+      "name-normalized": "Yamaguchi, Andy",
+      "attributes": [
+        "HONOLULU ADVERTISER"
+      ]
+    }
+  },
+  {
+    "at": "00:27:57.642",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PATRICIA SAIKI\n\nCONGRESSIONAL CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "PATRICIA SAIKI",
+      "name-normalized": "Saiki, Patricia",
+      "attributes": [
+        "CONGRESSIONAL CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:31:47.005",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "MARY BITTERMAN\n\nCONGRESSIONAL CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "MARY BITTERMAN",
+      "name-normalized": "Bitterman, Mary",
+      "attributes": [
+        "CONGRESSIONAL CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:35:40.004",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "BLASE HARRIS\n\nCONGRESSIONAL CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "BLASE HARRIS",
+      "name-normalized": "Harris, Blase",
+      "attributes": [
+        "CONGRESSIONAL CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:50:46.376",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "TRAVIS TOM\n\nCLASS OF 1989",
+    "keyed-information": {
+      "name-as-written": "TRAVIS TOM",
+      "name-normalized": "Tom, Travis",
+      "attributes": [
+        "CLASS OF 1989"
+      ]
+    }
+  },
+  {
+    "at": "00:57:34.517",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JUSTINE ADAMS\n\nCLASS OF 1990",
+    "keyed-information": {
+      "name-as-written": "JUSTINE ADAMS",
+      "name-normalized": "Adams, Justine",
+      "attributes": [
+        "CLASS OF 1990"
+      ]
+    }
+  },
+  {
+    "at": "01:01:28.751",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "BLASE HARRIS\n\nCONGRESSIONAL CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "BLASE HARRIS",
+      "name-normalized": "Harris, Blase",
+      "attributes": [
+        "CONGRESSIONAL CANDIDATE"
+      ]
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "at": "00:01:39.265",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:04:05.011",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Nick Buchanan\n\nWaikiki Watermark",
+    "keyed-information": {
+      "name-as-written": "Nick Buchanan",
+      "name-normalized": "Buchanan, Nick",
+      "attributes": [
+        "Waikiki Watermark"
+      ]
+    }
+  },
+  {
+    "at": "00:09:01.774",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Pat Bustamente\n\nCEO, Pacific LightNet",
+    "keyed-information": {
+      "name-as-written": "Pat Bustamente",
+      "name-normalized": "Bustamente, Pat",
+      "attributes": [
+        "CEO, Pacific LightNet"
+      ]
+    }
+  },
+  {
+    "at": "00:20:44.643",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Steve Jarchow\n\nCEO, Regent Entertainment",
+    "keyed-information": {
+      "name-as-written": "Steve Jarchow",
+      "name-normalized": "Jarchow, Steve",
+      "attributes": [
+        "CEO, Regent Entertainment"
+      ]
+    }
+  }
+]

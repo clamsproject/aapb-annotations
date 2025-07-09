@@ -1,0 +1,46 @@
+[
+  {
+    "at": "00:04:08.381",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Eddie Flores\n\nCEO\n\nL&L Hawaiian Barbecue",
+    "keyed-information": {
+      "name-as-written": "Eddie Flores",
+      "name-normalized": "Flores, Eddie",
+      "attributes": [
+        "CEO",
+        "L&L Hawaiian Barbecue"
+      ]
+    }
+  },
+  {
+    "at": "00:11:15.141",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Gordon Bruce\n\nI.T. Director\n\nCity & County of Honolulu",
+    "keyed-information": {
+      "name-as-written": "Gordon Bruce",
+      "name-normalized": "Bruce, Gordon",
+      "attributes": [
+        "I.T. Director",
+        "City & County of Honolulu"
+      ]
+    }
+  },
+  {
+    "at": "00:16:16.775",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Carl-Wilhelm Vogel\n\nCancer Research Institute of Hawaii",
+    "keyed-information": {
+      "name-as-written": "Carl-Wilhelm Vogel",
+      "name-normalized": "Vogel, Carl-Wilhelm",
+      "attributes": [
+        "Cancer Research Institute of Hawaii"
+      ]
+    }
+  }
+]

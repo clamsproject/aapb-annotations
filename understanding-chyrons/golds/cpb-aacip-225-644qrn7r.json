@@ -1,0 +1,31 @@
+[
+  {
+    "at": "00:05:53.152",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Judith Kalbrener\n\nPresident\n\nHonolulu Board of Realtors",
+    "keyed-information": {
+      "name-as-written": "Judith Kalbrener",
+      "name-normalized": "Kalbrener, Judith",
+      "attributes": [
+        "President",
+        "Honolulu Board of Realtors"
+      ]
+    }
+  },
+  {
+    "at": "00:10:21.654",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Brian Black\n\nPasha Hawaii",
+    "keyed-information": {
+      "name-as-written": "Brian Black",
+      "name-normalized": "Black, Brian",
+      "attributes": [
+        "Pasha Hawaii"
+      ]
+    }
+  }
+]

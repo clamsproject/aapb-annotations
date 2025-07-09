@@ -1,0 +1,30 @@
+[
+  {
+    "at": "00:01:37.897",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:20:38.136",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Vaune Kino\n\nAloha Airlines",
+    "keyed-information": {
+      "name-as-written": "Vaune Kino",
+      "name-normalized": "Kino, Vaune",
+      "attributes": [
+        "Aloha Airlines"
+      ]
+    }
+  }
+]

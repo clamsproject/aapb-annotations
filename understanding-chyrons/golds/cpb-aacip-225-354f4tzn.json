@@ -1,0 +1,60 @@
+[
+  {
+    "at": "00:01:44.504",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "EVERYBODY'S BUSINESS"
+      ]
+    }
+  },
+  {
+    "at": "00:04:28.134",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "David Lassner\n\nI.T. CHIEF\n\nUNIVERSITY OF HAWAII",
+    "keyed-information": {
+      "name-as-written": "David Lassner",
+      "name-normalized": "Lassner, David",
+      "attributes": [
+        "I.T. CHIEF",
+        "UNIVERSITY OF HAWAII"
+      ]
+    }
+  },
+  {
+    "at": "00:12:19.271",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Henry Montgomery\n\nCEO\n\nMONTPAC OUTSOURCING",
+    "keyed-information": {
+      "name-as-written": "Henry Montgomery",
+      "name-normalized": "Montgomery, Henry",
+      "attributes": [
+        "CEO",
+        "MONTPAC OUTSOURCING"
+      ]
+    }
+  },
+  {
+    "at": "00:21:06.031",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Jack Tsui\n\nCLARENCE T.C. CHING FOUNDATION",
+    "keyed-information": {
+      "name-as-written": "Jack Tsui",
+      "name-normalized": "Tsui, Jack",
+      "attributes": [
+        "CLARENCE T.C. CHING FOUNDATION"
+      ]
+    }
+  }
+]

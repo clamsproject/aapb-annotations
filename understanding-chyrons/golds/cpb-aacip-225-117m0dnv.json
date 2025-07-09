@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:03:53.499",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Eric Gill\n\nSecretary-Treasurer\n\nLocal 5 of the Unite-Here union",
+    "keyed-information": {
+      "name-as-written": "Eric Gill",
+      "name-normalized": "Gill, Eric",
+      "attributes": [
+        "Secretary-Treasurer",
+        "Local 5 of the Unite-Here union"
+      ]
+    }
+  },
+  {
+    "at": "00:08:21.767",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Andy Poepoe\n\nHonolulu District Manager, SBA",
+    "keyed-information": {
+      "name-as-written": "Andy Poepoe",
+      "name-normalized": "Poepoe, Andy",
+      "attributes": [
+        "Honolulu Distric Manager, SBA"
+      ]
+    }
+  },
+  {
+    "at": "00:20:50.515",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "George Kahumoku Jr.\n\nMusician",
+    "keyed-information": {
+      "name-as-written": "GEORGE KAHUMOKU JR.",
+      "name-normalized": "Kahumoku, George, Jr.",
+      "attributes": [
+        "Musician"
+      ]
+    }
+  }
+]

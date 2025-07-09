@@ -1,0 +1,422 @@
+[
+  {
+    "at": "00:00:53.653",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CEC HEFTEL",
+    "keyed-information": {
+      "name-as-written": "CEC HEFTEL",
+      "name-normalized": "Heftel, Cec",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:01:57.884",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:12.392",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PAUL H. SNIDER",
+    "keyed-information": {
+      "name-as-written": "PAUL H. SNIDER",
+      "name-normalized": "Snider, Paul H.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:04:17.023",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "TONY\n\nHODGES",
+    "keyed-information": {
+      "name-as-written": "TONY HODGES",
+      "name-normalized": "Hodges, Tony",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:05:22.255",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PATSY T. MINK",
+    "keyed-information": {
+      "name-as-written": "PATSY T. MINK",
+      "name-normalized": "Mink, Patsy T.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:06:27.153",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
+    "keyed-information": {
+      "name-as-written": "WILLIAM K. \"BILLY\" KUAIWA",
+      "name-normalized": "Kuaiwa, William K.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:31.517",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:08:34.280",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CEC HEFTEL",
+    "keyed-information": {
+      "name-as-written": "CEC HEFTEL",
+      "name-normalized": "Heftel, Cec",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:09:30.403",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:10:09.875",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CEC HEFTEL",
+    "keyed-information": {
+      "name-as-written": "CEC HEFTEL",
+      "name-normalized": "Heftel, Cec",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:11:19.879",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:11:53.646",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PATSY T. MINK",
+    "keyed-information": {
+      "name-as-written": "PATSY T. MINK",
+      "name-normalized": "Mink, Patsy T.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:13:02.281",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
+    "keyed-information": {
+      "name-as-written": "WILLIAM K. \"BILLY\" KUAIWA",
+      "name-normalized": "Kuaiwa, William K.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:14:06.011",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "TONY\n\nHODGES",
+    "keyed-information": {
+      "name-as-written": "TONY HODGES",
+      "name-normalized": "Hodges, Tony",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:15:10.509",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PAUL H. SNIDER",
+    "keyed-information": {
+      "name-as-written": "PAUL H. SNIDER",
+      "name-normalized": "Snider, Paul H.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:16:14.506",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "BARBARA TANABE",
+    "keyed-information": {
+      "name-as-written": "BARBARA TANABE",
+      "name-normalized": "Tanabe, Barbara",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:16:39.898",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CEC HEFTEL",
+    "keyed-information": {
+      "name-as-written": "CEC HEFTEL",
+      "name-normalized": "Heftel, Cec",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:17:48.634",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "TONY\n\nHODGES",
+    "keyed-information": {
+      "name-as-written": "TONY HODGES",
+      "name-normalized": "Hodges, Tony",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:18:54.766",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
+    "keyed-information": {
+      "name-as-written": "WILLIAM K. \"BILLY\" KUAIWA",
+      "name-normalized": "Kuaiwa, William K.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:19:53.759",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PAUL H. SNIDER",
+    "keyed-information": {
+      "name-as-written": "PAUL H. SNIDER",
+      "name-normalized": "Snider, Paul H.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:20:44.276",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PATSY T. MINK",
+    "keyed-information": {
+      "name-as-written": "PATSY T. MINK",
+      "name-normalized": "Mink, Patsy T.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:21:52.778",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:22:58.643",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOHN SIMONDS",
+    "keyed-information": {
+      "name-as-written": "JOHN SIMONDS",
+      "name-normalized": "Simonds, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:23:19.030",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "TONY\n\nHODGES",
+    "keyed-information": {
+      "name-as-written": "TONY HODGES",
+      "name-normalized": "Hodges, Tony",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:24:26.264",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:25:34.900",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PATSY T. MINK",
+    "keyed-information": {
+      "name-as-written": "PATSY T. MINK",
+      "name-normalized": "Mink, Patsy T.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:26:44.402",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
+    "keyed-information": {
+      "name-as-written": "WILLIAM K. \"BILLY\" KUAIWA",
+      "name-normalized": "Kuaiwa, William K.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:27:49.000",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PAUL H. SNIDER",
+    "keyed-information": {
+      "name-as-written": "PAUL H. SNIDER",
+      "name-normalized": "Snider, Paul H.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:28:57.402",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CEC HEFTEL",
+    "keyed-information": {
+      "name-as-written": "CEC HEFTEL",
+      "name-normalized": "Heftel, Cec",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:30:13.144",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
+    "keyed-information": {
+      "name-as-written": "WILLIAM K. \"BILLY\" KUAIWA",
+      "name-normalized": "Kuaiwa, William K.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:31:52.644",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "CEC HEFTEL",
+    "keyed-information": {
+      "name-as-written": "CEC HEFTEL",
+      "name-normalized": "Heftel, Cec",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:33:11.756",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:34:49.253",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PATSY T. MINK",
+    "keyed-information": {
+      "name-as-written": "PATSY T. MINK",
+      "name-normalized": "Mink, Patsy T.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:36:22.647",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "PAUL H. SNIDER",
+    "keyed-information": {
+      "name-as-written": "PAUL H. SNIDER",
+      "name-normalized": "Snider, Paul H.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:37:58.876",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "TONY\n\nHODGES",
+    "keyed-information": {
+      "name-as-written": "TONY HODGES",
+      "name-normalized": "Hodges, Tony",
+      "attributes": []
+    }
+  }
+]

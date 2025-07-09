@@ -1,0 +1,60 @@
+[
+  {
+    "at": "00:01:42.402",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "EVERYBODY'S BUSINESS"
+      ]
+    }
+  },
+  {
+    "at": "00:03:57.270",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Harvey Shapiro\n\nECONOMIST\n\nHONOLULU BOARD OF REALTORS",
+    "keyed-information": {
+      "name-as-written": "Harvey Shapiro",
+      "name-normalized": "Shapiro, Harvey",
+      "attributes": [
+        "ECONOMIST",
+        "HONOLULU BOARD OF REALTORS"
+      ]
+    }
+  },
+  {
+    "at": "00:09:54.026",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Michael Kramer\n\nNATURAL INVESTMENT SERVICES, LLC",
+    "keyed-information": {
+      "name-as-written": "Michael Kramer",
+      "name-normalized": "Kramer, Michael",
+      "attributes": [
+        "NATURAL INVESTMENT SERVICES, LLC"
+      ]
+    }
+  },
+  {
+    "at": "00:20:22.754",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Ed Pei\n\nPRESIDENT\n\nCHINESE CHAMBER OF COMMERCE",
+    "keyed-information": {
+      "name-as-written": "Ed Pei",
+      "name-normalized": "Pei, Ed",
+      "attributes": [
+        "PRESIDENT",
+        "CHINESE CHAMBER OF COMMERCE"
+      ]
+    }
+  }
+]

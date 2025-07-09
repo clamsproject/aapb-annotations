@@ -1,0 +1,102 @@
+[
+  {
+    "at": "00:05:01.501",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "GEORGE TAKANE\n\nHOUSE CLERK",
+    "keyed-information": {
+      "name-as-written": "GEORGE TAKANE",
+      "name-normalized": "Takane, George",
+      "attributes": [
+        "HOUSE CLERK"
+      ]
+    }
+  },
+  {
+    "at": "00:06:50.510",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "HERMAN LUM\n\nCHIEF JUSTICE\n\nHAWAII SUPREME COURT",
+    "keyed-information": {
+      "name-as-written": "HERMAN LUM",
+      "name-normalized": "Lum, Herman",
+      "attributes": [
+        "CHIEF JUSTICE",
+        "HAWAII SUPREME COURT"
+      ]
+    }
+  },
+  {
+    "at": "00:14:02.641",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "HENRY H. PETERS\n\nSPEAKER OF THE HOUSE",
+    "keyed-information": {
+      "name-as-written": "HENRY H. PETERS",
+      "name-normalized": "Peters, Henry H.",
+      "attributes": [
+        "SPEAKER OF THE HOUSE"
+      ]
+    }
+  },
+  {
+    "at": "00:26:41.132",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "HENRY H. PETERS\n\nSPEAKER OF THE HOUSE",
+    "keyed-information": {
+      "name-as-written": "HENRY H. PETERS",
+      "name-normalized": "Peters, Henry H.",
+      "attributes": [
+        "SPEAKER OF THE HOUSE"
+      ]
+    }
+  },
+  {
+    "at": "00:36:09.400",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "MARSHALL IGE\n\nVICE-SPEAKER\n\nHOUSE",
+    "keyed-information": {
+      "name-as-written": "MARSHALL IGE",
+      "name-normalized": "Ige, Marshall",
+      "attributes": [
+        "VICE-SPEAKER",
+        "HOUSE"
+      ]
+    }
+  },
+  {
+    "at": "00:36:59.650",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "BARBARA MARUMOTO\n\nMINORITY LEADER",
+    "keyed-information": {
+      "name-as-written": "BARBARA MARUMOTO",
+      "name-normalized": "Marumoto, Barbara",
+      "attributes": [
+        "MINORITY LEADER"
+      ]
+    }
+  },
+  {
+    "at": "00:40:22.386",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "BARBARA MARUMOTO\n\nMINORITY LEADER",
+    "keyed-information": {
+      "name-as-written": "BARBARA MARUMOTO",
+      "name-normalized": "Marumoto, Barbara",
+      "attributes": [
+        "MINORITY LEADER"
+      ]
+    }
+  }
+]

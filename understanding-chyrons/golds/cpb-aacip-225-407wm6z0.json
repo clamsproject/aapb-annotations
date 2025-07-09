@@ -1,0 +1,60 @@
+[
+  {
+    "at": "00:07:32.018",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Bruce Smith\n\nCEO\n\nTesoro Corp.",
+    "keyed-information": {
+      "name-as-written": "Bruce Smith",
+      "name-normalized": "Smith, Bruce",
+      "attributes": [
+        "CEO",
+        "Tesoro Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:11:15.141",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Ed Kubo\n\nU.S. Attorney",
+    "keyed-information": {
+      "name-as-written": "Ed Kubo",
+      "name-normalized": "Kubo, Ed",
+      "attributes": [
+        "U.S. Attorney"
+      ]
+    }
+  },
+  {
+    "at": "00:13:20.900",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Debbie Goodwin\n\nKeck Observatory",
+    "keyed-information": {
+      "name-as-written": "Debbie Goodwin",
+      "name-normalized": "Goodwin, Debbie",
+      "attributes": [
+        "Keck Observatory"
+      ]
+    }
+  },
+  {
+    "at": "00:18:58.770",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Andrew Rossiter\n\nDirector\n\nWaikiki Aquarium",
+    "keyed-information": {
+      "name-as-written": "Andrew Rossiter",
+      "name-normalized": "Rossiter, Andrew",
+      "attributes": [
+        "Director",
+        "Waikiki Aquarium"
+      ]
+    }
+  }
+]

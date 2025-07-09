@@ -1,0 +1,44 @@
+[
+  {
+    "at": "00:01:36.763",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:05:50.016",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Jim Wright\n\nCEO, Century 21, All Islands",
+    "keyed-information": {
+      "name-as-written": "Jim Wright",
+      "name-normalized": "Wright, Jim",
+      "attributes": [
+        "CEO, Century 21, All Islands"
+      ]
+    }
+  },
+  {
+    "at": "00:22:47.999",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Hoala Greevy\n\nPauSpam",
+    "keyed-information": {
+      "name-as-written": "Hoala Greevy",
+      "name-normalized": "Greevy, Hoala",
+      "attributes": [
+        "PauSpam"
+      ]
+    }
+  }
+]

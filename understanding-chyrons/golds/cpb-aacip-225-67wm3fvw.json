@@ -1,0 +1,75 @@
+[
+  {
+    "at": "00:01:42.001",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:04:34.007",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Ted Liu\n\nDirector\n\nDBEDT",
+    "keyed-information": {
+      "name-as-written": "Ted Liu",
+      "name-normalized": "Liu, Ted",
+      "attributes": [
+        "Director",
+        "DBEDT"
+      ]
+    }
+  },
+  {
+    "at": "00:11:37.630",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Chuck Sted\n\nKapiolani Medical Center",
+    "keyed-information": {
+      "name-as-written": "Chuck Sted",
+      "name-normalized": "Sted, Chuck",
+      "attributes": [
+        "Kapiolani Medical Center"
+      ]
+    }
+  },
+  {
+    "at": "00:16:54.279",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Cheryl Ka`uhane Lupenui\n\nCEO\n\nYWCA of OAHU",
+    "keyed-information": {
+      "name-as-written": "Cheryl Ka`uhane Lupenui",
+      "name-normalized": "Lupenui, Cheryl Ka`uhane",
+      "attributes": [
+        "CEO",
+        "YWCA of OAHU"
+      ]
+    }
+  },
+  {
+    "at": "00:22:35.520",
+    "scene-type": "I",
+    "scene-subtype": "",
+    "transitional": false,
+    "text-transcript": "Genette Freeman\n\nExecutive Director\n\nHawaii Performing Arts Festival",
+    "keyed-information": {
+      "name-as-written": "Genette Freeman",
+      "name-normalized": "Freeman, Genette",
+      "attributes": [
+        "Executive Director",
+        "Hawaii Performing Arts Festival"
+      ]
+    }
+  }
+]
