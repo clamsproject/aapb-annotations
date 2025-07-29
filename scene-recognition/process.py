@@ -39,8 +39,9 @@ def format_timecode(value):
 
 
 def process(raw_dir, golds_dir):
-    for file in raw_dir.glob('*'):
+    for file in raw_dir.glob('*.csv'):
         source = file
+        print(file)
         destination = golds_dir / file.with_suffix('.csv').name
         # read in as dataframe to more easily manipulate columns
         df = pd.read_csv(source)
@@ -51,20 +52,23 @@ def process(raw_dir, golds_dir):
         df = df[(df.seen != "false") & (df.seen != "False")]
         # remove seen column
         df = df.drop('seen', axis=1)
-        # any that are left have been seen. therefore, any rows with label = "" are negative
-        # so their labels should be changed to "-"
-        df.loc[df['type label'].isna(), 'type label'] = '-'
         # then rename columns
         df = df.rename(columns={
             'type label': 'scene-type',
+            'type-label': 'scene-type',
             'subtype label': 'scene-subtype',
+            'subtype-label': 'scene-subtype',
             'modifier': 'transitional',
         })
+        # any that are left have been seen. therefore, any rows with label = "" are negative
+        # so their labels should be changed to "-"
+        df.loc[df['scene-type'].isna(), 'scene-type'] = '-'
         # remove first column (filename)
         df = df.drop('filename', axis=1)
-        # remove transcript and note columns
-        df = df.drop('transcript', axis=1)
-        df = df.drop('note', axis=1)
+        # remove transcript and note columns, if they exist
+        for col in ['transcript', 'note', 'note-3', 'note-4']:
+            if col in df.columns:
+                df = df.drop(col, axis=1)
         # sort by `at` col
         df = df.sort_values(by=['at'])
         # output to csv with same filename
