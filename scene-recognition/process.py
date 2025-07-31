@@ -51,7 +51,7 @@ def process(raw_dir, golds_dir):
         df.insert(1, 'at', "")
         df['at'] = df['filename'].apply(format_timecode)
         # remove unseen
-        df = df[(df.seen != "false") & (df.seen != "False")]
+        df = df[(df.seen) & (df.seen != "false") & (df.seen != "False")]
         # remove seen column
         df = df.drop('seen', axis=1)
         # then rename columns
