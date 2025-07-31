@@ -1,1161 +1,581 @@
-filename,seen,type label,subtype label,modifier,transcript,note
-cpb-aacip-15-70msck27_03531361_00031532_00031564.jpg,true,L,,false,,L: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_00032032_00032065.jpg,true,L,,false,,O: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_00033033_00033033.jpg,true,L,,false,,O: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_00033500_00033500.jpg,true,L,,false,,O: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00034001_00034034.jpg,true,L,,false,,L: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_00035002_00035035.jpg,true,,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_00035502_00035502.jpg,true,O,,false,,L: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_00036503_00036503.jpg,true,O,,false,,S: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_00037004_00037037.jpg,true,O,,false,,O: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00037504_00037504.jpg,true,O,,false,,O: 0.67 Low confidence
-cpb-aacip-15-70msck27_03531361_00038005_00038038.jpg,true,O,,false,,S: 0.89 Sandwich
-cpb-aacip-15-70msck27_03531361_00038505_00038505.jpg,true,O,,false,,O: 0.67 Low confidence
-cpb-aacip-15-70msck27_03531361_00039006_00039039.jpg,true,O,,false,,O: 0.74 Low confidence
-cpb-aacip-15-70msck27_03531361_00047014_00047047.jpg,true,L,,false,,M: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_00048015_00048048.jpg,true,L,,false,,NEG: 0.66 Sandwich
-cpb-aacip-15-70msck27_03531361_00048515_00048515.jpg,true,L,,false,,M: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_00081515_00081548.jpg,true,P,,false,,L: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_00082015_00082015.jpg,true,P,,false,,NEG: 0.36 Low confidence
-cpb-aacip-15-70msck27_03531361_00083016_00083016.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00099032_00099032.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00102002_00102035.jpg,true,P,,false,,NEG: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_00105506_00105538.jpg,true,P,,true,,NEG: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_00113514_00113546.jpg,true,I,,false,,I: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_00114014_00114047.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_00116517_00116549.jpg,true,I,,true,,N: 0.35 Low confidence
-cpb-aacip-15-70msck27_03531361_00118519_00118551.jpg,true,I,,false,,NEG: 0.70 Sandwich
-cpb-aacip-15-70msck27_03531361_00124024_00124057.jpg,true,P,,false,,NEG: 0.52 Sandwich
-cpb-aacip-15-70msck27_03531361_00129530_00129562.jpg,true,I,,false,,I: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_00177010_00177010.jpg,true,M,,true,,M: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_00181014_00181014.jpg,true,M,,false,,M: 0.79 Low confidence
-cpb-aacip-15-70msck27_03531361_00181515_00181548.jpg,true,,,false,,NEG: 0.79 Sandwich
-cpb-aacip-15-70msck27_03531361_00185519_00185552.jpg,true,M,,false,,M: 0.67 Low confidence
-cpb-aacip-15-70msck27_03531361_00186019_00186019.jpg,true,M,,false,,M: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_00187020_00187020.jpg,true,M,,false,,M: 0.68 Low confidence
-cpb-aacip-15-70msck27_03531361_00188021_00188021.jpg,true,M,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_00188522_00188555.jpg,true,M,,false,,M: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_00191024_00191024.jpg,true,M,,false,,M: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_00193026_00193026.jpg,true,M,,true,,M: 0.63 Low confidence
-cpb-aacip-15-70msck27_03531361_00193527_00193560.jpg,true,M,,false,,Y: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_00196530_00196563.jpg,true,M,,true,,Y: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_00224525_00224557.jpg,true,F,,false,,NEG: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_00225025_00225058.jpg,true,F,,false,,Y: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_00250517_00250550.jpg,true,P,,false,,NEG: 0.54 Sandwich
-cpb-aacip-15-70msck27_03531361_00302002_00302035.jpg,true,G,,true,,I: 0.23 Low confidence
-cpb-aacip-15-70msck27_03531361_00302503_00302535.jpg,true,G,,false,,I: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00303003_00303036.jpg,true,G,,false,,NEG: 0.15 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00303504_00303536.jpg,true,G,,false,,I: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00310010_00310043.jpg,true,P,,false,,NEG: 0.53 Sandwich
-cpb-aacip-15-70msck27_03531361_00332032_00332065.jpg,true,,,false,,NEG: 0.90 Sandwich
-cpb-aacip-15-70msck27_03531361_00332533_00332565.jpg,true,,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00334001_00334033.jpg,true,Y,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00335002_00335034.jpg,true,Y,,false,,I: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00337504_00337537.jpg,true,Y,,false,,I: 0.66 Low confidence
-cpb-aacip-15-70msck27_03531361_00338005_00338037.jpg,true,Y,,false,,Y: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00339006_00339038.jpg,true,Y,,false,,NEG: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_00340007_00340039.jpg,true,Y,,false,,NEG: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_00343510_00343543.jpg,true,Y,,true,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00344511_00344544.jpg,true,Y,,false,,Y: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00345012_00345044.jpg,true,Y,,false,,Y: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00348515_00348548.jpg,true,I,,false,,I: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_00350017_00350049.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_00350517_00350550.jpg,true,I,,false,,Y: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_00356023_00356055.jpg,true,P,,false,,NEG: 0.59 Sandwich
-cpb-aacip-15-70msck27_03531361_00357024_00357056.jpg,true,P,,false,,NEG: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_00358525_00358558.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00359026_00359058.jpg,true,P,,false,,NEG: 0.80 Sandwich
-cpb-aacip-15-70msck27_03531361_00364531_00364564.jpg,true,G,,false,,G: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00365032_00365064.jpg,true,G,,false,,T: 0.53 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00365532_00365565.jpg,true,G,,false,,G: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00367000_00367033.jpg,true,G,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00371004_00371037.jpg,true,G,,false,,G: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_00390023_00390056.jpg,true,,,false,,L: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00398031_00398064.jpg,true,F,,false,,M: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_00400501_00400533.jpg,true,G,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00403504_00403536.jpg,true,G,,false,,F: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_00405506_00405538.jpg,true,G,,false,,F: 0.36 Low confidence
-cpb-aacip-15-70msck27_03531361_00406006_00406038.jpg,true,G,,false,,S: 0.90 Sandwich
-cpb-aacip-15-70msck27_03531361_00407508_00407540.jpg,true,G,,false,,T: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_00408008_00408040.jpg,true,G,,false,,G: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_00410511_00410543.jpg,true,,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00428529_00428561.jpg,true,,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00430030_00430062.jpg,true,P,,false,,NEG: 0.83 Sandwich
-cpb-aacip-15-70msck27_03531361_00434501_00434534.jpg,true,P,,false,,NEG: 0.59 Sandwich
-cpb-aacip-15-70msck27_03531361_00480514_00480546.jpg,true,P,,false,,NEG: 0.51 Sandwich
-cpb-aacip-15-70msck27_03531361_00493026_00493059.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00502503_00502535.jpg,true,P,,false,,NEG: 0.53 Sandwich
-cpb-aacip-15-70msck27_03531361_00512513_00512545.jpg,true,G,,false,,F: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_00514515_00514547.jpg,true,G,,false,,F: 0.92 Sandwich
-cpb-aacip-15-70msck27_03531361_00520521_00520553.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00522022_00522054.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00525526_00525558.jpg,true,F,,false,,Y: 0.32 Low confidence
-cpb-aacip-15-70msck27_03531361_00551018_00551050.jpg,true,F,,false,,NEG: 0.80 Sandwich
-cpb-aacip-15-70msck27_03531361_00551518_00551551.jpg,true,F,,false,,G: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00576510_00576542.jpg,true,G,,false,,NEG: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_00690023_00690056.jpg,true,G,,false,,NEG: 0.42 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00692025_00692058.jpg,true,G,,false,,F: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00692526_00692558.jpg,true,G,,false,,Y: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_00693026_00693059.jpg,true,G,,false,,Y: 0.41 Low confidence
-cpb-aacip-15-70msck27_03531361_00693527_00693559.jpg,true,G,,false,,Y: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00694027_00694060.jpg,true,G,,false,,Y: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00695529_00695561.jpg,true,G,,false,,T: 0.64 Sandwich
-cpb-aacip-15-70msck27_03531361_00698031_00698064.jpg,true,G,,false,,Y: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_00699032_00699065.jpg,true,G,,false,,T: 0.43 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00699533_00699565.jpg,true,G,,false,,G: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00700501_00700533.jpg,true,G,,false,,T: 0.47 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00701001_00701033.jpg,true,G,,false,,G: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_00701502_00701534.jpg,true,G,,false,,T: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_00703003_00703035.jpg,true,G,,false,,G: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_00703504_00703536.jpg,true,G,,false,,T: 0.68 Sandwich
-cpb-aacip-15-70msck27_03531361_00706006_00706038.jpg,true,G,,false,,T: 0.53 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00706507_00706539.jpg,true,G,,true,,G: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_00707007_00707039.jpg,true,G,,true,,NEG: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_00739006_00739038.jpg,true,F,,false,,Y: 0.38 Low confidence
-cpb-aacip-15-70msck27_03531361_00739506_00739538.jpg,true,F,,false,,G: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_00740007_00740039.jpg,true,F,,false,,Y: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00740507_00740539.jpg,true,F,,false,,I: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_00741008_00741040.jpg,true,F,,false,,I: 0.20 Low confidence
-cpb-aacip-15-70msck27_03531361_00747514_00747546.jpg,true,N,,false,,I: 0.40 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00775509_00775541.jpg,true,P,,false,,P: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_00779012_00779044.jpg,true,P,,false,,NEG: 0.54 Sandwich
-cpb-aacip-15-70msck27_03531361_00781515_00781547.jpg,true,F,,false,,P: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00786019_00786051.jpg,true,P,,false,,NEG: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_00794027_00794059.jpg,true,P,,false,,NEG: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_00794528_00794560.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00795028_00795060.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00809009_00809041.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00823524_00823556.jpg,true,P,,false,,NEG: 0.66 Sandwich
-cpb-aacip-15-70msck27_03531361_00827528_00827560.jpg,true,P,,false,,NEG: 0.54 Sandwich
-cpb-aacip-15-70msck27_03531361_00830030_00830062.jpg,true,P,,false,,NEG: 0.83 Sandwich
-cpb-aacip-15-70msck27_03531361_00832032_00832064.jpg,true,P,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_00921021_00921053.jpg,true,G,,false,,NEG: 0.52 Sandwich
-cpb-aacip-15-70msck27_03531361_00961028_00961060.jpg,true,G,,false,,M: 0.33 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00980013_00980045.jpg,true,,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01006006_01006038.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_01018018_01018050.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01019019_01019051.jpg,true,,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_01102002_01102034.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01125025_01125057.jpg,true,P,,false,,NEG: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_01125526_01125557.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01126527_01126558.jpg,true,P,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_01127528_01127559.jpg,true,P,,false,,NEG: 0.73 Sandwich
-cpb-aacip-15-70msck27_03531361_01128529_01128560.jpg,true,P,,false,,NEG: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_01129530_01129561.jpg,true,L,,false,,M: 0.68 Low confidence
-cpb-aacip-15-70msck27_03531361_01130030_01130062.jpg,true,L,,false,,M: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_01130531_01130562.jpg,true,L,,false,,M: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_01131031_01131063.jpg,true,L,,false,,M: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_01133500_01133532.jpg,true,L,,false,,F: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_01134001_01134032.jpg,true,L,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01135002_01135033.jpg,true,L,,false,,M: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_01138005_01138036.jpg,true,Y,,false,,NEG: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_01139006_01139037.jpg,true,Y,,false,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_01139506_01139538.jpg,true,Y,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01161028_01161059.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01162529_01162561.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01163030_01163061.jpg,true,P,,false,,NEG: 0.78 Sandwich
-cpb-aacip-15-70msck27_03531361_01166533_01166565.jpg,true,P,,false,,NEG: 0.74 Sandwich
-cpb-aacip-15-70msck27_03531361_01178512_01178544.jpg,true,,,false,,NEG: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_01206006_01206038.jpg,true,G,,false,,G: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_01206507_01206538.jpg,true,G,,false,,NEG: 0.55 Sandwich
-cpb-aacip-15-70msck27_03531361_01207007_01207039.jpg,true,G,,false,,G: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01210010_01210042.jpg,true,G,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01212012_01212044.jpg,true,G,,false,,F: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_01219520_01219551.jpg,true,G,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01221021_01221053.jpg,true,G,,false,,G: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_01226026_01226058.jpg,true,G,,false,,G: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_01294027_01294059.jpg,true,P,,false,,NEG: 0.78 Sandwich
-cpb-aacip-15-70msck27_03531361_01298031_01298063.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01312012_01312044.jpg,true,P,,false,,NEG: 0.69 Sandwich
-cpb-aacip-15-70msck27_03531361_01313013_01313045.jpg,true,P,,false,,NEG: 0.74 Sandwich
-cpb-aacip-15-70msck27_03531361_01316517_01316548.jpg,true,,,false,,NEG: 0.63 Sandwich
-cpb-aacip-15-70msck27_03531361_01319520_01319551.jpg,true,,,false,,NEG: 0.69 Sandwich
-cpb-aacip-15-70msck27_03531361_01334501_01334533.jpg,true,G,,false,,G: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01336003_01336034.jpg,true,G,,false,,Y: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01336503_01336535.jpg,true,G,,false,,G: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_01337004_01337035.jpg,true,G,,false,,Y: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_01337504_01337536.jpg,true,G,,false,,Y: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_01338005_01338036.jpg,true,G,,false,,T: 0.41 Low confidence
-cpb-aacip-15-70msck27_03531361_01338505_01338537.jpg,true,G,,false,,T: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01339006_01339037.jpg,true,G,,false,,E: 0.30 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01339506_01339538.jpg,true,G,,false,,T: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_01340007_01340038.jpg,true,G,,false,,T: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_01341008_01341039.jpg,true,G,,false,,Y: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_01342009_01342040.jpg,true,G,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_01343010_01343041.jpg,true,G,,false,,G: 0.65 Sandwich
-cpb-aacip-15-70msck27_03531361_01343510_01343542.jpg,true,G,,false,,C: 0.71 Low confidence
-cpb-aacip-15-70msck27_03531361_01344011_01344042.jpg,true,G,,false,,C: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01345012_01345043.jpg,true,G,,false,,T: 0.47 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01346513_01346545.jpg,true,G,,false,,T: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_01348515_01348547.jpg,true,G,,true,,T: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01353520_01353552.jpg,true,F,,false,,Y: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_01359526_01359558.jpg,true,,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01374508_01374539.jpg,true,,,false,,Y: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_01378512_01378543.jpg,true,,,false,,NEG: 0.64 Sandwich
-cpb-aacip-15-70msck27_03531361_01380514_01380545.jpg,true,,,false,,NEG: 0.59 Sandwich
-cpb-aacip-15-70msck27_03531361_01432533_01432564.jpg,true,,,false,,NEG: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_01434001_01434032.jpg,true,,,false,,NEG: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_01437004_01437035.jpg,true,P,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01437504_01437536.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01453020_01453051.jpg,true,P,,false,,I: 0.54 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01509510_01509541.jpg,true,G,,true,,F: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01514014_01514045.jpg,true,G,,false,,T: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01514515_01514546.jpg,true,G,,false,,C: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_01518018_01518049.jpg,true,G,,false,,C: 0.31 Low confidence
-cpb-aacip-15-70msck27_03531361_01603003_01603034.jpg,true,P,,false,,NEG: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_01618018_01618049.jpg,true,,,false,,NEG: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_01629530_01629561.jpg,true,P,,false,,NEG: 0.64 Sandwich
-cpb-aacip-15-70msck27_03531361_01634001_01634032.jpg,true,P,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_01635002_01635033.jpg,true,P,,false,,NEG: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_01636503_01636534.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_01645012_01645043.jpg,true,P,,false,,NEG: 0.77 Sandwich
-cpb-aacip-15-70msck27_03531361_01664031_01664062.jpg,true,P,,false,,NEG: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_01672506_01672537.jpg,true,P,,false,,NEG: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_01717518_01717549.jpg,true,I,,false,,I: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_01718018_01718049.jpg,true,I,,false,,C: 0.73 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01720521_01720552.jpg,true,I,,false,,I: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01772506_01772537.jpg,true,,,false,,C: 0.41 Low confidence
-cpb-aacip-15-70msck27_03531361_01774007_01774038.jpg,true,,,false,,NEG: 0.44 Low confidence
-cpb-aacip-15-70msck27_03531361_01780514_01780545.jpg,true,,,false,,G: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01810511_01810542.jpg,true,,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_01818519_01818550.jpg,true,,,false,,NEG: 0.27 Low confidence
-cpb-aacip-15-70msck27_03531361_01899032_01899063.jpg,true,F,,false,,NEG: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01900501_01900531.jpg,true,F,,false,,F: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01904505_01904535.jpg,true,E,,false,,NEG: 0.78 Sandwich
-cpb-aacip-15-70msck27_03531361_01905506_01905536.jpg,true,E,,false,,NEG: 0.60 Sandwich
-cpb-aacip-15-70msck27_03531361_01921522_01921552.jpg,true,,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01996029_01996060.jpg,true,,,false,,G: 0.26 Low confidence
-cpb-aacip-15-70msck27_03531361_02001502_02001532.jpg,true,G,,false,,T: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_02003504_02003534.jpg,true,G,,false,,NEG: 0.36 Low confidence
-cpb-aacip-15-70msck27_03531361_02004004_02004035.jpg,true,G,,false,,R: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02005005_02005036.jpg,true,G,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_02005506_02005536.jpg,true,G,,false,,M: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_02007508_02007538.jpg,true,G,,false,,F: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_02008509_02008539.jpg,true,G,,false,,C: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_02009510_02009540.jpg,true,G,,false,,G: 0.32 Low confidence
-cpb-aacip-15-70msck27_03531361_02010010_02010041.jpg,true,G,,false,,C: 0.71 Low confidence
-cpb-aacip-15-70msck27_03531361_02010511_02010541.jpg,true,G,,false,,C: 0.57 Low confidence
-cpb-aacip-15-70msck27_03531361_02011512_02011542.jpg,true,G,,false,,C: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_02012012_02012043.jpg,true,G,,false,,NEG: 0.27 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02012513_02012543.jpg,true,G,,false,,C: 0.77 Low confidence
-cpb-aacip-15-70msck27_03531361_02013013_02013044.jpg,true,G,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_02018018_02018049.jpg,true,F,,false,,NEG: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_02018519_02018549.jpg,true,F,,false,,F: 0.29 Low confidence
-cpb-aacip-15-70msck27_03531361_02019019_02019050.jpg,true,F,,false,,NEG: 0.91 Sandwich
-cpb-aacip-15-70msck27_03531361_02020521_02020551.jpg,true,F,,false,,NEG: 0.60 Sandwich
-cpb-aacip-15-70msck27_03531361_02022022_02022053.jpg,true,,,false,,Y: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_02046513_02046544.jpg,true,G,,false,,M: 0.28 Low confidence
-cpb-aacip-15-70msck27_03531361_02047514_02047545.jpg,true,G,,false,,M: 0.69 Low confidence
-cpb-aacip-15-70msck27_03531361_02048015_02048045.jpg,true,G,,false,,G: 0.34 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02096530_02096561.jpg,true,G,,false,,G: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_02098031_02098062.jpg,true,G,,false,,G: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_02099032_02099063.jpg,true,G,,false,,G: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02101001_02101032.jpg,true,G,,false,,G: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02109510_02109540.jpg,true,P,,false,,NEG: 0.89 Sandwich
-cpb-aacip-15-70msck27_03531361_02175008_02175039.jpg,true,G,,false,,T: 0.23 Low confidence
-cpb-aacip-15-70msck27_03531361_02176009_02176040.jpg,true,G,,false,,NEG: 0.29 Low confidence
-cpb-aacip-15-70msck27_03531361_02176510_02176541.jpg,true,G,,false,,Y: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_02177010_02177041.jpg,true,G,,false,,NEG: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_02179513_02179544.jpg,true,G,,false,,T: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_02180514_02180545.jpg,true,G,,false,,Y: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02182015_02182046.jpg,true,G,,false,,T: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_02189523_02189554.jpg,true,G,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_02191525_02191556.jpg,true,G,,true,,C: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02217518_02217548.jpg,true,,,false,,NEG: 0.26 Low confidence
-cpb-aacip-15-70msck27_03531361_02258525_02258556.jpg,true,F,,false,,F: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_02314515_02314545.jpg,true,F,,false,,C: 0.30 Low confidence
-cpb-aacip-15-70msck27_03531361_02315516_02315546.jpg,true,F,,false,,P: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_02316517_02316547.jpg,true,F,,false,,G: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02320521_02320551.jpg,true,,,false,,F: 0.57 Low confidence
-cpb-aacip-15-70msck27_03531361_02333033_02333064.jpg,true,P,,false,,NEG: 0.91 Sandwich
-cpb-aacip-15-70msck27_03531361_02345512_02345543.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02488522_02488552.jpg,true,,,false,,NEG: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02490023_02490054.jpg,true,,,false,,Y: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_02513514_02513544.jpg,true,,,false,,F: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_02514014_02514044.jpg,true,,,false,,NEG: 0.99 Sandwich
-cpb-aacip-15-70msck27_03531361_02514515_02514545.jpg,true,,,false,,F: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02547514_02547545.jpg,true,I,,false,,P: 0.75 Sandwich
-cpb-aacip-15-70msck27_03531361_02568502_02568532.jpg,true,F,,false,,C: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02572506_02572536.jpg,true,P,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_02585018_02585049.jpg,true,F,,false,,Y: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_02586019_02586050.jpg,true,F,,false,,I: 0.51 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02586520_02586550.jpg,true,E,,false,,F: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02587521_02587551.jpg,true,E,,false,,Y: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02588021_02588052.jpg,true,E,,false,,F: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_02588522_02588552.jpg,true,E,,false,,Y: 0.51 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02589022_02589053.jpg,true,E,,false,,F: 0.84 Sandwich
-cpb-aacip-15-70msck27_03531361_02589523_02589553.jpg,true,E,,false,,Y: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_02590023_02590054.jpg,true,E,,false,,F: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02590524_02590554.jpg,true,E,,false,,F: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02592025_02592056.jpg,true,E,,false,,Y: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02593026_02593057.jpg,true,E,,false,,F: 0.28 Low confidence
-cpb-aacip-15-70msck27_03531361_02594027_02594058.jpg,true,E,,false,,I: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_02595028_02595059.jpg,true,E,,false,,Y: 0.26 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02595529_02595559.jpg,true,E,,false,,F: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02596530_02596560.jpg,true,E,,false,,P: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_02598532_02598562.jpg,true,E,,false,,Y: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_02599032_02599063.jpg,true,E,,false,,F: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_02695028_02695059.jpg,true,,,false,,N: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02696029_02696060.jpg,true,,,false,,I: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_02697030_02697061.jpg,true,,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_02701001_02701031.jpg,true,,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_02701502_02701532.jpg,true,,,false,,NEG: 0.93 Sandwich
-cpb-aacip-15-70msck27_03531361_02713013_02713043.jpg,true,P,,false,,NEG: 0.90 Sandwich
-cpb-aacip-15-70msck27_03531361_02714515_02714545.jpg,true,P,,false,,NEG: 0.72 Sandwich
-cpb-aacip-15-70msck27_03531361_02715516_02715546.jpg,true,P,,false,,NEG: 0.58 Sandwich
-cpb-aacip-15-70msck27_03531361_02722022_02722052.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02768001_02768031.jpg,true,,,false,,NEG: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02819019_02819049.jpg,true,P,,false,,NEG: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02841508_02841538.jpg,true,G,,false,,G: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02842009_02842039.jpg,true,G,,false,,T: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02842509_02842539.jpg,true,G,,false,,I: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02843010_02843040.jpg,true,G,,false,,I: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02844011_02844041.jpg,true,G,,false,,Y: 0.38 Low confidence
-cpb-aacip-15-70msck27_03531361_02844511_02844541.jpg,true,G,,false,,T: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02845512_02845542.jpg,true,G,,false,,C: 0.27 Low confidence
-cpb-aacip-15-70msck27_03531361_02846013_02846043.jpg,true,G,,false,,I: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_02847014_02847044.jpg,true,G,,false,,Y: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02847514_02847544.jpg,true,G,,false,,C: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_02848015_02848045.jpg,true,G,,false,,Y: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02849016_02849046.jpg,true,G,,false,,C: 0.77 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02849516_02849546.jpg,true,G,,false,,T: 0.39 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02850017_02850047.jpg,true,G,,false,,C: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_02851518_02851548.jpg,true,G,,false,,T: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_02852019_02852049.jpg,true,G,,false,,Y: 0.65 Sandwich
-cpb-aacip-15-70msck27_03531361_02852519_02852549.jpg,true,G,,false,,T: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_02853020_02853050.jpg,true,G,,false,,G: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02853520_02853550.jpg,true,G,,false,,G: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_02854021_02854051.jpg,true,G,,false,,F: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02854521_02854551.jpg,true,G,,false,,C: 0.63 Low confidence
-cpb-aacip-15-70msck27_03531361_02855022_02855052.jpg,true,G,,false,,Y: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_02855522_02855552.jpg,true,G,,false,,T: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_02856023_02856053.jpg,true,G,,false,,I: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_02857024_02857054.jpg,true,G,,false,,C: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02857524_02857554.jpg,true,G,,false,,C: 0.35 Low confidence
-cpb-aacip-15-70msck27_03531361_02858025_02858055.jpg,true,G,,false,,T: 0.29 Low confidence
-cpb-aacip-15-70msck27_03531361_02859026_02859056.jpg,true,G,,false,,C: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02859526_02859556.jpg,true,G,,false,,C: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_02866033_02866063.jpg,true,F,,false,,Y: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_02886520_02886550.jpg,true,,,false,,Y: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02914515_02914544.jpg,true,,,false,,NEG: 0.50 Sandwich
-cpb-aacip-15-70msck27_03531361_02915015_02915045.jpg,true,,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02934001_02934031.jpg,true,P,,false,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_02935002_02935032.jpg,true,P,,false,,E: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_02936503_02936533.jpg,true,P,,false,,I: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_02939006_02939036.jpg,true,,,false,,NEG: 0.93 Sandwich
-cpb-aacip-15-70msck27_03531361_03031532_03031561.jpg,true,I,,false,,P: 0.92 Sandwich
-cpb-aacip-15-70msck27_03531361_03047514_03047544.jpg,true,,,false,,F: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_03131031_03131061.jpg,true,U,,false,,I: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_03132032_03132062.jpg,true,U,,false,,I: 0.77 Low confidence
-cpb-aacip-15-70msck27_03531361_03132533_03132562.jpg,true,U,,false,,I: 0.64 Low confidence
-cpb-aacip-15-70msck27_03531361_03133033_03133063.jpg,true,U,,false,,I: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_03134001_03134030.jpg,true,U,,false,,C: 0.76 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03136003_03136032.jpg,true,U,,false,,I: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_03137504_03137534.jpg,true,U,,false,,I: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_03138005_03138034.jpg,true,U,,false,,I: 0.65 Low confidence
-cpb-aacip-15-70msck27_03531361_03139506_03139536.jpg,true,U,,false,,T: 0.49 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03141508_03141538.jpg,true,U,,false,,C: 0.67 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03142009_03142038.jpg,true,U,,false,,I: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_03145012_03145041.jpg,true,U,,false,,I: 0.27 Low confidence
-cpb-aacip-15-70msck27_03531361_03146013_03146042.jpg,true,U,,false,,T: 0.38 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03151018_03151047.jpg,true,U,,false,,I: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_03206507_03206536.jpg,true,P,,false,,NEG: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_03210010_03210040.jpg,true,P,,false,,NEG: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_03253020_03253049.jpg,true,,,false,,NEG: 0.68 Sandwich
-cpb-aacip-15-70msck27_03531361_03253520_03253550.jpg,true,,,false,,F: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03289022_03289052.jpg,true,I,,true,,I: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03290524_03290553.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03335002_03335031.jpg,true,,,false,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_03346013_03346042.jpg,true,P,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_03380514_03380543.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_03394528_03394557.jpg,true,P,,false,,NEG: 0.91 Sandwich
-cpb-aacip-15-70msck27_03531361_03407007_03407036.jpg,true,C,,false,,C: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03409510_03409539.jpg,true,C,,false,,C: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_03411011_03411040.jpg,true,C,,false,,C: 0.65 Low confidence
-cpb-aacip-15-70msck27_03531361_03411512_03411541.jpg,true,C,,false,,C: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03413514_03413543.jpg,true,C,,false,,R: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03414014_03414043.jpg,true,C,,false,,R: 0.38 Low confidence
-cpb-aacip-15-70msck27_03531361_03415516_03415545.jpg,true,C,,false,,C: 0.44 Low confidence
-cpb-aacip-15-70msck27_03531361_03416016_03416045.jpg,true,C,,true,,G: 0.58 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03420020_03420049.jpg,true,C,,false,,G: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_03422523_03422552.jpg,true,C,,false,,C: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_03423023_03423052.jpg,true,C,,false,,C: 0.69 Low confidence
-cpb-aacip-15-70msck27_03531361_03423524_03423553.jpg,true,C,,true,,R: 0.54 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03425025_03425054.jpg,true,C,,false,,G: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_03425526_03425555.jpg,true,C,,false,,C: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03430531_03430560.jpg,true,C,,true,,R: 0.49 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03434001_03434030.jpg,true,C,,false,,G: 0.63 Sandwich
-cpb-aacip-15-70msck27_03531361_03435002_03435031.jpg,true,C,,true,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_03440007_03440036.jpg,true,C,,false,,C: 0.71 Low confidence
-cpb-aacip-15-70msck27_03531361_03441508_03441538.jpg,true,C,,false,,G: 0.70 Sandwich
-cpb-aacip-15-70msck27_03531361_03443010_03443039.jpg,true,C,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_03443510_03443540.jpg,true,C,,false,,C: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03444511_03444541.jpg,true,C,,false,,G: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_03445012_03445041.jpg,true,C,,false,,C: 0.79 Low confidence
-cpb-aacip-15-70msck27_03531361_03450017_03450046.jpg,true,C,,false,,R: 0.62 Sandwich
-cpb-aacip-15-70msck27_03531361_03456523_03456553.jpg,true,C,,false,,R: 0.58 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03457024_03457053.jpg,true,C,,false,,C: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_03458525_03458555.jpg,true,C,,false,,C: 0.78 Low confidence
-cpb-aacip-15-70msck27_03531361_03459026_03459055.jpg,true,C,,false,,C: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_03460527_03460557.jpg,true,C,,false,,C: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03461028_03461057.jpg,true,C,,false,,C: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_03462029_03462058.jpg,true,C,,false,,C: 0.78 Low confidence
-cpb-aacip-15-70msck27_03531361_03462529_03462559.jpg,true,C,,false,,C: 0.64 Low confidence
-cpb-aacip-15-70msck27_03531361_03467501_03467530.jpg,true,G,,false,,G: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_03468502_03468531.jpg,true,G,,false,,G: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_03470003_03470033.jpg,true,G,,false,,L: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03471004_03471034.jpg,true,G,,false,,G: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03475509_03475538.jpg,true,L,,false,,M: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03476009_03476039.jpg,true,L,,false,,M: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03476510_03476539.jpg,true,L,,false,,M: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_03477010_03477040.jpg,true,L,,false,,M: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_03478512_03478541.jpg,true,L,,false,,NEG: 0.46 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03479012_03479042.jpg,true,L,,false,,M: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_03481014_03481044.jpg,true,L,,false,,C: 0.52 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03481515_03481544.jpg,true,L,,false,,M: 0.44 Low confidence
-cpb-aacip-15-70msck27_03531361_03482015_03482045.jpg,true,L,,false,,M: 0.74 Low confidence
-cpb-aacip-15-70msck27_03531361_03484017_03484047.jpg,true,G,,false,,C: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03485519_03485548.jpg,true,G,,false,,C: 0.79 Low confidence
-cpb-aacip-15-70msck27_03531361_03489022_03489052.jpg,true,G,,false,,C: 0.77 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03490023_03490053.jpg,true,G,,false,,S: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_03491024_03491054.jpg,true,G,,false,,C: 0.57 Low confidence
-cpb-aacip-15-70msck27_03531361_03492025_03492055.jpg,true,G,,false,,G: 0.53 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03492526_03492555.jpg,true,G,,false,,C: 0.64 Low confidence
-cpb-aacip-15-70msck27_03531361_03493026_03493056.jpg,true,G,,false,,C: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_03493527_03493556.jpg,true,G,,false,,C: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_03494027_03494057.jpg,true,G,,false,,G: 0.63 Sandwich
-cpb-aacip-15-70msck27_03531361_03494528_03494557.jpg,true,G,,false,,C: 0.77 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03495028_03495058.jpg,true,G,,false,,G: 0.34 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03495529_03495558.jpg,true,G,,false,,C: 0.50 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03496029_03496059.jpg,true,G,,false,,G: 0.25 Low confidence
-cpb-aacip-15-70msck27_03531361_03501502_03501531.jpg,true,L,,false,,M: 0.69 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03503003_03503032.jpg,true,L,,false,,M: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_03505005_03505034.jpg,true,G,,false,,T: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03506507_03506536.jpg,true,G,,false,,S: 0.80 Sandwich
-cpb-aacip-15-70msck27_03531361_03508008_03508037.jpg,true,G,,false,,S: 0.58 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03511512_03511541.jpg,true,G,,false,,C: 0.69 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03514014_03514043.jpg,true,G,,false,,G: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_03515516_03515545.jpg,true,G,,false,,S: 0.96 Sandwich
-cpb-aacip-15-70msck27_03531361_03516517_03516546.jpg,true,G,,false,,G: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03517518_03517547.jpg,true,G,,false,,S: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_03524024_03524053.jpg,true,G,,false,,G: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00000000_00000000.jpg,true,B,,false,,
-cpb-aacip-15-70msck27_03531361_00001635_00001668.jpg,true,B,,false,,
-cpb-aacip-15-70msck27_03531361_00009209_00009209.jpg,true,B,,false,,
-cpb-aacip-15-70msck27_03531361_00009743_00009743.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00010277_00010310.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00015415_00015415.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00021087_00021087.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00032966_00032966.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_00073724_00073740.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_00113413_00113413.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00129630_00129662.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00140941_00140974.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00176610_00176643.jpg,true,P,,true,,
-cpb-aacip-15-70msck27_03531361_00180380_00180380.jpg,true,M,,false,,
-cpb-aacip-15-70msck27_03531361_00188488_00188488.jpg,true,M,,false,,
-cpb-aacip-15-70msck27_03531361_00222914_00222922.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_00291766_00291791.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_00326193_00326225.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00350484_00350516.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00363430_00363463.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00370470_00370470.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00378545_00378578.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00379112_00379112.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00403937_00403970.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00442809_00442809.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00478728_00478744.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_00512479_00512511.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00525993_00526025.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00549750_00549782.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00575108_00575141.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00588088_00588120.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00626952_00626959.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_00701476_00701500.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00740340_00740372.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00746847_00746879.jpg,true,N,,false,,
-cpb-aacip-15-70msck27_03531361_00780321_00780346.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00840798_00840806.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_00873207_00873239.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00921255_00921287.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00957991_00958023.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01006039_01006071.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01038021_01038037.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01098781_01098797.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01129162_01129194.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01182616_01182648.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01223657_01223689.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01237704_01237736.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01271187_01271203.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01307341_01307372.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01332199_01332230.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01335969_01336001.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01348949_01348980.jpg,true,G,,true,,
-cpb-aacip-15-70msck27_03531361_01355956_01355987.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_01392008_01392023.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01460843_01460859.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01498532_01498563.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_01513647_01513678.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01556290_01556321.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01590857_01590889.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01625425_01625457.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01673206_01673238.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01719920_01719951.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01754196_01754219.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01820612_01820618.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01857090_01857121.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01896957_01896961.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01976692_01976708.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02056427_02056454.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02099533_02099564.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02138955_02138970.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02175676_02175706.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02183250_02183281.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02222656_02222687.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02257758_02257788.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02270704_02270735.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02278812_02278843.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02311745_02311776.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02346847_02346877.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02354955_02354985.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02379813_02379844.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02407341_02407371.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02455388_02455419.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02504004_02504034.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02546647_02546677.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02584451_02584481.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02593627_02593657.jpg,true,E,,false,,
-cpb-aacip-15-70msck27_03531361_02600100_02600130.jpg,true,E,,false,,
-cpb-aacip-15-70msck27_03531361_02632516_02632529.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02668168_02668198.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02706507_02706537.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02743493_02743507.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02782649_02782679.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02839339_02839369.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02849049_02849079.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02862029_02862059.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02899199_02899229.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02973540_02973570.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03047881_03047911.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03086119_03086149.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_03129863_03129893.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_03134074_03134097.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03137404_03137434.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03138285_03138301.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03142496_03142506.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03146707_03146710.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03150918_03150947.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03205989_03206002.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03263230_03263260.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_03290791_03290820.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_03349366_03349379.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_03406340_03406369.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03411200_03411207.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03411745_03411775.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03416060_03416079.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03420920_03420950.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03424157_03424187.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03429029_03429058.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03429279_03429292.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03434401_03434431.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03435502_03435532.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03438739_03438768.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03440624_03440637.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03445746_03445775.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03446847_03446876.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03450083_03450113.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03451968_03451981.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03457089_03457120.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03458192_03458221.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03462507_03462525.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03463030_03463059.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03466822_03466830.jpg,true,R,,false,,
-cpb-aacip-15-70msck27_03531361_03471137_03471167.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03474908_03474938.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_03478145_03478174.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_03481949_03481978.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_03484084_03484113.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03491124_03491154.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03495962_03495992.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03497598_03497627.jpg,true,L,,true,,
-cpb-aacip-15-70msck27_03531361_03531064_03531094.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_00031532_00031564.jpg,true,L,,false,,L: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_00032032_00032065.jpg,true,L,,false,,O: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_00033033_00033033.jpg,true,L,,false,,O: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_00033500_00033500.jpg,true,L,,false,,O: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00034001_00034034.jpg,true,L,,false,,L: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_00035002_00035035.jpg,true,,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_00035502_00035502.jpg,true,O,,false,,L: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_00036503_00036503.jpg,true,O,,false,,S: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_00037004_00037037.jpg,true,O,,false,,O: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00037504_00037504.jpg,true,O,,false,,O: 0.67 Low confidence
-cpb-aacip-15-70msck27_03531361_00038005_00038038.jpg,true,O,,false,,S: 0.89 Sandwich
-cpb-aacip-15-70msck27_03531361_00038505_00038505.jpg,true,O,,false,,O: 0.67 Low confidence
-cpb-aacip-15-70msck27_03531361_00039006_00039039.jpg,true,O,,false,,O: 0.74 Low confidence
-cpb-aacip-15-70msck27_03531361_00047014_00047047.jpg,true,L,,false,,M: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_00048015_00048048.jpg,true,L,,false,,NEG: 0.66 Sandwich
-cpb-aacip-15-70msck27_03531361_00048515_00048515.jpg,true,L,,false,,M: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_00081515_00081548.jpg,true,P,,false,,L: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_00082015_00082015.jpg,true,P,,false,,NEG: 0.36 Low confidence
-cpb-aacip-15-70msck27_03531361_00083016_00083016.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00099032_00099032.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00102002_00102035.jpg,true,P,,false,,NEG: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_00105506_00105538.jpg,true,P,,true,,NEG: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_00113514_00113546.jpg,true,I,,false,,I: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_00114014_00114047.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_00116517_00116549.jpg,true,I,,true,,N: 0.35 Low confidence
-cpb-aacip-15-70msck27_03531361_00118519_00118551.jpg,true,I,,false,,NEG: 0.70 Sandwich
-cpb-aacip-15-70msck27_03531361_00124024_00124057.jpg,true,P,,false,,NEG: 0.52 Sandwich
-cpb-aacip-15-70msck27_03531361_00129530_00129562.jpg,true,I,,false,,I: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_00177010_00177010.jpg,true,M,,true,,M: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_00181014_00181014.jpg,true,M,,false,,M: 0.79 Low confidence
-cpb-aacip-15-70msck27_03531361_00181515_00181548.jpg,true,,,false,,NEG: 0.79 Sandwich
-cpb-aacip-15-70msck27_03531361_00185519_00185552.jpg,true,M,,false,,M: 0.67 Low confidence
-cpb-aacip-15-70msck27_03531361_00186019_00186019.jpg,true,M,,false,,M: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_00187020_00187020.jpg,true,M,,false,,M: 0.68 Low confidence
-cpb-aacip-15-70msck27_03531361_00188021_00188021.jpg,true,M,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_00188522_00188555.jpg,true,M,,false,,M: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_00191024_00191024.jpg,true,M,,false,,M: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_00193026_00193026.jpg,true,M,,true,,M: 0.63 Low confidence
-cpb-aacip-15-70msck27_03531361_00193527_00193560.jpg,true,M,,false,,Y: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_00196530_00196563.jpg,true,M,,true,,Y: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_00224525_00224557.jpg,true,F,,false,,NEG: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_00225025_00225058.jpg,true,F,,false,,Y: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_00250517_00250550.jpg,true,P,,false,,NEG: 0.54 Sandwich
-cpb-aacip-15-70msck27_03531361_00302002_00302035.jpg,true,G,,true,,I: 0.23 Low confidence
-cpb-aacip-15-70msck27_03531361_00302503_00302535.jpg,true,G,,false,,I: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00303003_00303036.jpg,true,G,,false,,NEG: 0.15 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00303504_00303536.jpg,true,G,,false,,I: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00310010_00310043.jpg,true,P,,false,,NEG: 0.53 Sandwich
-cpb-aacip-15-70msck27_03531361_00332032_00332065.jpg,true,,,false,,NEG: 0.90 Sandwich
-cpb-aacip-15-70msck27_03531361_00332533_00332565.jpg,true,,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00334001_00334033.jpg,true,Y,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00335002_00335034.jpg,true,Y,,false,,I: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00337504_00337537.jpg,true,Y,,false,,I: 0.66 Low confidence
-cpb-aacip-15-70msck27_03531361_00338005_00338037.jpg,true,Y,,false,,Y: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00339006_00339038.jpg,true,Y,,false,,NEG: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_00340007_00340039.jpg,true,Y,,false,,NEG: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_00343510_00343543.jpg,true,Y,,true,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00344511_00344544.jpg,true,Y,,false,,Y: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00345012_00345044.jpg,true,Y,,false,,Y: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00348515_00348548.jpg,true,I,,false,,I: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_00350017_00350049.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_00350517_00350550.jpg,true,I,,false,,Y: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_00356023_00356055.jpg,true,P,,false,,NEG: 0.59 Sandwich
-cpb-aacip-15-70msck27_03531361_00357024_00357056.jpg,true,P,,false,,NEG: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_00358525_00358558.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00359026_00359058.jpg,true,P,,false,,NEG: 0.80 Sandwich
-cpb-aacip-15-70msck27_03531361_00364531_00364564.jpg,true,G,,false,,G: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00365032_00365064.jpg,true,G,,false,,T: 0.53 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00365532_00365565.jpg,true,G,,false,,G: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00367000_00367033.jpg,true,G,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00371004_00371037.jpg,true,G,,false,,G: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_00390023_00390056.jpg,true,,,false,,L: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_00398031_00398064.jpg,true,F,,false,,M: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_00400501_00400533.jpg,true,G,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00403504_00403536.jpg,true,G,,false,,F: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_00405506_00405538.jpg,true,G,,false,,F: 0.36 Low confidence
-cpb-aacip-15-70msck27_03531361_00406006_00406038.jpg,true,G,,false,,S: 0.90 Sandwich
-cpb-aacip-15-70msck27_03531361_00407508_00407540.jpg,true,G,,false,,T: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_00408008_00408040.jpg,true,G,,false,,G: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_00410511_00410543.jpg,true,,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00428529_00428561.jpg,true,,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00430030_00430062.jpg,true,P,,false,,NEG: 0.83 Sandwich
-cpb-aacip-15-70msck27_03531361_00434501_00434534.jpg,true,P,,false,,NEG: 0.59 Sandwich
-cpb-aacip-15-70msck27_03531361_00480514_00480546.jpg,true,P,,false,,NEG: 0.51 Sandwich
-cpb-aacip-15-70msck27_03531361_00493026_00493059.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_00502503_00502535.jpg,true,P,,false,,NEG: 0.53 Sandwich
-cpb-aacip-15-70msck27_03531361_00512513_00512545.jpg,true,G,,false,,F: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_00514515_00514547.jpg,true,G,,false,,F: 0.92 Sandwich
-cpb-aacip-15-70msck27_03531361_00520521_00520553.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00522022_00522054.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00525526_00525558.jpg,true,F,,false,,Y: 0.32 Low confidence
-cpb-aacip-15-70msck27_03531361_00551018_00551050.jpg,true,F,,false,,NEG: 0.80 Sandwich
-cpb-aacip-15-70msck27_03531361_00551518_00551551.jpg,true,F,,false,,G: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00576510_00576542.jpg,true,G,,false,,NEG: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_00690023_00690056.jpg,true,G,,false,,NEG: 0.42 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00692025_00692058.jpg,true,G,,false,,F: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_00692526_00692558.jpg,true,G,,false,,Y: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_00693026_00693059.jpg,true,G,,false,,Y: 0.41 Low confidence
-cpb-aacip-15-70msck27_03531361_00693527_00693559.jpg,true,G,,false,,Y: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00694027_00694060.jpg,true,G,,false,,Y: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00695529_00695561.jpg,true,G,,false,,T: 0.64 Sandwich
-cpb-aacip-15-70msck27_03531361_00698031_00698064.jpg,true,G,,false,,Y: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_00699032_00699065.jpg,true,G,,false,,T: 0.43 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00699533_00699565.jpg,true,G,,false,,G: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_00700501_00700533.jpg,true,G,,false,,T: 0.47 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00701001_00701033.jpg,true,G,,false,,G: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_00701502_00701534.jpg,true,G,,false,,T: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_00703003_00703035.jpg,true,G,,false,,G: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_00703504_00703536.jpg,true,G,,false,,T: 0.68 Sandwich
-cpb-aacip-15-70msck27_03531361_00706006_00706038.jpg,true,G,,false,,T: 0.53 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00706507_00706539.jpg,true,G,,true,,G: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_00707007_00707039.jpg,true,G,,true,,NEG: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_00739006_00739038.jpg,true,F,,false,,Y: 0.38 Low confidence
-cpb-aacip-15-70msck27_03531361_00739506_00739538.jpg,true,F,,false,,G: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_00740007_00740039.jpg,true,F,,false,,Y: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00740507_00740539.jpg,true,F,,false,,I: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_00741008_00741040.jpg,true,F,,false,,I: 0.20 Low confidence
-cpb-aacip-15-70msck27_03531361_00747514_00747546.jpg,true,N,,false,,I: 0.40 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00775509_00775541.jpg,true,P,,false,,P: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_00779012_00779044.jpg,true,P,,false,,NEG: 0.54 Sandwich
-cpb-aacip-15-70msck27_03531361_00781515_00781547.jpg,true,F,,false,,P: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00786019_00786051.jpg,true,P,,false,,NEG: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_00794027_00794059.jpg,true,P,,false,,NEG: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_00794528_00794560.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_00795028_00795060.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00809009_00809041.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_00823524_00823556.jpg,true,P,,false,,NEG: 0.66 Sandwich
-cpb-aacip-15-70msck27_03531361_00827528_00827560.jpg,true,P,,false,,NEG: 0.54 Sandwich
-cpb-aacip-15-70msck27_03531361_00830030_00830062.jpg,true,P,,false,,NEG: 0.83 Sandwich
-cpb-aacip-15-70msck27_03531361_00832032_00832064.jpg,true,P,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_00921021_00921053.jpg,true,G,,false,,NEG: 0.52 Sandwich
-cpb-aacip-15-70msck27_03531361_00961028_00961060.jpg,true,G,,false,,M: 0.33 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_00980013_00980045.jpg,true,,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01006006_01006038.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_01018018_01018050.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01019019_01019051.jpg,true,,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_01102002_01102034.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01125025_01125057.jpg,true,P,,false,,NEG: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_01125526_01125557.jpg,true,P,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01126527_01126558.jpg,true,P,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_01127528_01127559.jpg,true,P,,false,,NEG: 0.73 Sandwich
-cpb-aacip-15-70msck27_03531361_01128529_01128560.jpg,true,P,,false,,NEG: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_01129530_01129561.jpg,true,L,,false,,M: 0.68 Low confidence
-cpb-aacip-15-70msck27_03531361_01130030_01130062.jpg,true,L,,false,,M: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_01130531_01130562.jpg,true,L,,false,,M: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_01131031_01131063.jpg,true,L,,false,,M: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_01133500_01133532.jpg,true,L,,false,,F: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_01134001_01134032.jpg,true,L,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01135002_01135033.jpg,true,L,,false,,M: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_01138005_01138036.jpg,true,Y,,false,,NEG: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_01139006_01139037.jpg,true,Y,,false,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_01139506_01139538.jpg,true,Y,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01161028_01161059.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01162529_01162561.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01163030_01163061.jpg,true,P,,false,,NEG: 0.78 Sandwich
-cpb-aacip-15-70msck27_03531361_01166533_01166565.jpg,true,P,,false,,NEG: 0.74 Sandwich
-cpb-aacip-15-70msck27_03531361_01178512_01178544.jpg,true,,,false,,NEG: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_01206006_01206038.jpg,true,G,,false,,G: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_01206507_01206538.jpg,true,G,,false,,NEG: 0.55 Sandwich
-cpb-aacip-15-70msck27_03531361_01207007_01207039.jpg,true,G,,false,,G: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01210010_01210042.jpg,true,G,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01212012_01212044.jpg,true,G,,false,,F: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_01219520_01219551.jpg,true,G,,false,,NEG: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01221021_01221053.jpg,true,G,,false,,G: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_01226026_01226058.jpg,true,G,,false,,G: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_01294027_01294059.jpg,true,P,,false,,NEG: 0.78 Sandwich
-cpb-aacip-15-70msck27_03531361_01298031_01298063.jpg,true,P,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01312012_01312044.jpg,true,P,,false,,NEG: 0.69 Sandwich
-cpb-aacip-15-70msck27_03531361_01313013_01313045.jpg,true,P,,false,,NEG: 0.74 Sandwich
-cpb-aacip-15-70msck27_03531361_01316517_01316548.jpg,true,,,false,,NEG: 0.63 Sandwich
-cpb-aacip-15-70msck27_03531361_01319520_01319551.jpg,true,,,false,,NEG: 0.69 Sandwich
-cpb-aacip-15-70msck27_03531361_01334501_01334533.jpg,true,G,,false,,G: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01336003_01336034.jpg,true,G,,false,,Y: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01336503_01336535.jpg,true,G,,false,,G: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_01337004_01337035.jpg,true,G,,false,,Y: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_01337504_01337536.jpg,true,G,,false,,Y: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_01338005_01338036.jpg,true,G,,false,,T: 0.41 Low confidence
-cpb-aacip-15-70msck27_03531361_01338505_01338537.jpg,true,G,,false,,T: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_01339006_01339037.jpg,true,G,,false,,E: 0.30 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01339506_01339538.jpg,true,G,,false,,T: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_01340007_01340038.jpg,true,G,,false,,T: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_01341008_01341039.jpg,true,G,,false,,Y: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_01342009_01342040.jpg,true,G,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_01343010_01343041.jpg,true,G,,false,,G: 0.65 Sandwich
-cpb-aacip-15-70msck27_03531361_01343510_01343542.jpg,true,G,,false,,C: 0.71 Low confidence
-cpb-aacip-15-70msck27_03531361_01344011_01344042.jpg,true,G,,false,,C: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01345012_01345043.jpg,true,G,,false,,T: 0.47 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01346513_01346545.jpg,true,G,,false,,T: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_01348515_01348547.jpg,true,G,,true,,T: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01353520_01353552.jpg,true,F,,false,,Y: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_01359526_01359558.jpg,true,,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_01374508_01374539.jpg,true,,,false,,Y: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_01378512_01378543.jpg,true,,,false,,NEG: 0.64 Sandwich
-cpb-aacip-15-70msck27_03531361_01380514_01380545.jpg,true,,,false,,NEG: 0.59 Sandwich
-cpb-aacip-15-70msck27_03531361_01432533_01432564.jpg,true,,,false,,NEG: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_01434001_01434032.jpg,true,,,false,,NEG: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_01437004_01437035.jpg,true,P,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01437504_01437536.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01453020_01453051.jpg,true,P,,false,,I: 0.54 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01509510_01509541.jpg,true,G,,true,,F: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01514014_01514045.jpg,true,G,,false,,T: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_01514515_01514546.jpg,true,G,,false,,C: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_01518018_01518049.jpg,true,G,,false,,C: 0.31 Low confidence
-cpb-aacip-15-70msck27_03531361_01603003_01603034.jpg,true,P,,false,,NEG: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_01618018_01618049.jpg,true,,,false,,NEG: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_01629530_01629561.jpg,true,P,,false,,NEG: 0.64 Sandwich
-cpb-aacip-15-70msck27_03531361_01634001_01634032.jpg,true,P,,false,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_01635002_01635033.jpg,true,P,,false,,NEG: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_01636503_01636534.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_01645012_01645043.jpg,true,P,,false,,NEG: 0.77 Sandwich
-cpb-aacip-15-70msck27_03531361_01664031_01664062.jpg,true,P,,false,,NEG: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_01672506_01672537.jpg,true,P,,false,,NEG: 0.76 Sandwich
-cpb-aacip-15-70msck27_03531361_01717518_01717549.jpg,true,I,,false,,I: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_01718018_01718049.jpg,true,I,,false,,C: 0.73 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_01720521_01720552.jpg,true,I,,false,,I: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01772506_01772537.jpg,true,,,false,,C: 0.41 Low confidence
-cpb-aacip-15-70msck27_03531361_01774007_01774038.jpg,true,,,false,,NEG: 0.44 Low confidence
-cpb-aacip-15-70msck27_03531361_01780514_01780545.jpg,true,,,false,,G: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_01810511_01810542.jpg,true,,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_01818519_01818550.jpg,true,,,false,,NEG: 0.27 Low confidence
-cpb-aacip-15-70msck27_03531361_01899032_01899063.jpg,true,F,,false,,NEG: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01900501_01900531.jpg,true,F,,false,,F: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_01904505_01904535.jpg,true,E,,false,,NEG: 0.78 Sandwich
-cpb-aacip-15-70msck27_03531361_01905506_01905536.jpg,true,E,,false,,NEG: 0.60 Sandwich
-cpb-aacip-15-70msck27_03531361_01921522_01921552.jpg,true,,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_01996029_01996060.jpg,true,,,false,,G: 0.26 Low confidence
-cpb-aacip-15-70msck27_03531361_02001502_02001532.jpg,true,G,,false,,T: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_02003504_02003534.jpg,true,G,,false,,NEG: 0.36 Low confidence
-cpb-aacip-15-70msck27_03531361_02004004_02004035.jpg,true,G,,false,,R: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02005005_02005036.jpg,true,G,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_02005506_02005536.jpg,true,G,,false,,M: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_02007508_02007538.jpg,true,G,,false,,F: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_02008509_02008539.jpg,true,G,,false,,C: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_02009510_02009540.jpg,true,G,,false,,G: 0.32 Low confidence
-cpb-aacip-15-70msck27_03531361_02010010_02010041.jpg,true,G,,false,,C: 0.71 Low confidence
-cpb-aacip-15-70msck27_03531361_02010511_02010541.jpg,true,G,,false,,C: 0.57 Low confidence
-cpb-aacip-15-70msck27_03531361_02011512_02011542.jpg,true,G,,false,,C: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_02012012_02012043.jpg,true,G,,false,,NEG: 0.27 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02012513_02012543.jpg,true,G,,false,,C: 0.77 Low confidence
-cpb-aacip-15-70msck27_03531361_02013013_02013044.jpg,true,G,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_02018018_02018049.jpg,true,F,,false,,NEG: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_02018519_02018549.jpg,true,F,,false,,F: 0.29 Low confidence
-cpb-aacip-15-70msck27_03531361_02019019_02019050.jpg,true,F,,false,,NEG: 0.91 Sandwich
-cpb-aacip-15-70msck27_03531361_02020521_02020551.jpg,true,F,,false,,NEG: 0.60 Sandwich
-cpb-aacip-15-70msck27_03531361_02022022_02022053.jpg,true,,,false,,Y: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_02046513_02046544.jpg,true,G,,false,,M: 0.28 Low confidence
-cpb-aacip-15-70msck27_03531361_02047514_02047545.jpg,true,G,,false,,M: 0.69 Low confidence
-cpb-aacip-15-70msck27_03531361_02048015_02048045.jpg,true,G,,false,,G: 0.34 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02096530_02096561.jpg,true,G,,false,,G: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_02098031_02098062.jpg,true,G,,false,,G: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_02099032_02099063.jpg,true,G,,false,,G: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02101001_02101032.jpg,true,G,,false,,G: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02109510_02109540.jpg,true,P,,false,,NEG: 0.89 Sandwich
-cpb-aacip-15-70msck27_03531361_02175008_02175039.jpg,true,G,,false,,T: 0.23 Low confidence
-cpb-aacip-15-70msck27_03531361_02176009_02176040.jpg,true,G,,false,,NEG: 0.29 Low confidence
-cpb-aacip-15-70msck27_03531361_02176510_02176541.jpg,true,G,,false,,Y: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_02177010_02177041.jpg,true,G,,false,,NEG: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_02179513_02179544.jpg,true,G,,false,,T: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_02180514_02180545.jpg,true,G,,false,,Y: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02182015_02182046.jpg,true,G,,false,,T: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_02189523_02189554.jpg,true,G,,false,,G: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_02191525_02191556.jpg,true,G,,true,,C: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02217518_02217548.jpg,true,,,false,,NEG: 0.26 Low confidence
-cpb-aacip-15-70msck27_03531361_02258525_02258556.jpg,true,F,,false,,F: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_02314515_02314545.jpg,true,F,,false,,C: 0.30 Low confidence
-cpb-aacip-15-70msck27_03531361_02315516_02315546.jpg,true,F,,false,,P: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_02316517_02316547.jpg,true,F,,false,,G: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02320521_02320551.jpg,true,,,false,,F: 0.57 Low confidence
-cpb-aacip-15-70msck27_03531361_02333033_02333064.jpg,true,P,,false,,NEG: 0.91 Sandwich
-cpb-aacip-15-70msck27_03531361_02345512_02345543.jpg,true,P,,false,,P: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02488522_02488552.jpg,true,,,false,,NEG: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02490023_02490054.jpg,true,,,false,,Y: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_02513514_02513544.jpg,true,,,false,,F: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_02514014_02514044.jpg,true,,,false,,NEG: 0.99 Sandwich
-cpb-aacip-15-70msck27_03531361_02514515_02514545.jpg,true,,,false,,F: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02547514_02547545.jpg,true,I,,false,,P: 0.75 Sandwich
-cpb-aacip-15-70msck27_03531361_02568502_02568532.jpg,true,F,,false,,C: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02572506_02572536.jpg,true,P,,false,,NEG: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_02585018_02585049.jpg,true,F,,false,,Y: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_02586019_02586050.jpg,true,F,,false,,I: 0.51 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02586520_02586550.jpg,true,E,,false,,F: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02587521_02587551.jpg,true,E,,false,,Y: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02588021_02588052.jpg,true,E,,false,,F: 0.82 Sandwich
-cpb-aacip-15-70msck27_03531361_02588522_02588552.jpg,true,E,,false,,Y: 0.51 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02589022_02589053.jpg,true,E,,false,,F: 0.84 Sandwich
-cpb-aacip-15-70msck27_03531361_02589523_02589553.jpg,true,E,,false,,Y: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_02590023_02590054.jpg,true,E,,false,,F: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02590524_02590554.jpg,true,E,,false,,F: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02592025_02592056.jpg,true,E,,false,,Y: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02593026_02593057.jpg,true,E,,false,,F: 0.28 Low confidence
-cpb-aacip-15-70msck27_03531361_02594027_02594058.jpg,true,E,,false,,I: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_02595028_02595059.jpg,true,E,,false,,Y: 0.26 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02595529_02595559.jpg,true,E,,false,,F: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02596530_02596560.jpg,true,E,,false,,P: 0.85 Sandwich
-cpb-aacip-15-70msck27_03531361_02598532_02598562.jpg,true,E,,false,,Y: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_02599032_02599063.jpg,true,E,,false,,F: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_02695028_02695059.jpg,true,,,false,,N: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02696029_02696060.jpg,true,,,false,,I: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_02697030_02697061.jpg,true,,,false,,P: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_02701001_02701031.jpg,true,,,false,,P: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_02701502_02701532.jpg,true,,,false,,NEG: 0.93 Sandwich
-cpb-aacip-15-70msck27_03531361_02713013_02713043.jpg,true,P,,false,,NEG: 0.90 Sandwich
-cpb-aacip-15-70msck27_03531361_02714515_02714545.jpg,true,P,,false,,NEG: 0.72 Sandwich
-cpb-aacip-15-70msck27_03531361_02715516_02715546.jpg,true,P,,false,,NEG: 0.58 Sandwich
-cpb-aacip-15-70msck27_03531361_02722022_02722052.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_02768001_02768031.jpg,true,,,false,,NEG: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02819019_02819049.jpg,true,P,,false,,NEG: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02841508_02841538.jpg,true,G,,false,,G: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02842009_02842039.jpg,true,G,,false,,T: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02842509_02842539.jpg,true,G,,false,,I: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02843010_02843040.jpg,true,G,,false,,I: 0.46 Low confidence
-cpb-aacip-15-70msck27_03531361_02844011_02844041.jpg,true,G,,false,,Y: 0.38 Low confidence
-cpb-aacip-15-70msck27_03531361_02844511_02844541.jpg,true,G,,false,,T: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02845512_02845542.jpg,true,G,,false,,C: 0.27 Low confidence
-cpb-aacip-15-70msck27_03531361_02846013_02846043.jpg,true,G,,false,,I: 0.34 Low confidence
-cpb-aacip-15-70msck27_03531361_02847014_02847044.jpg,true,G,,false,,Y: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02847514_02847544.jpg,true,G,,false,,C: 0.95 Sandwich
-cpb-aacip-15-70msck27_03531361_02848015_02848045.jpg,true,G,,false,,Y: 0.60 Low confidence
-cpb-aacip-15-70msck27_03531361_02849016_02849046.jpg,true,G,,false,,C: 0.77 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02849516_02849546.jpg,true,G,,false,,T: 0.39 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_02850017_02850047.jpg,true,G,,false,,C: 0.40 Low confidence
-cpb-aacip-15-70msck27_03531361_02851518_02851548.jpg,true,G,,false,,T: 0.61 Sandwich
-cpb-aacip-15-70msck27_03531361_02852019_02852049.jpg,true,G,,false,,Y: 0.65 Sandwich
-cpb-aacip-15-70msck27_03531361_02852519_02852549.jpg,true,G,,false,,T: 0.42 Low confidence
-cpb-aacip-15-70msck27_03531361_02853020_02853050.jpg,true,G,,false,,G: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_02853520_02853550.jpg,true,G,,false,,G: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_02854021_02854051.jpg,true,G,,false,,F: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_02854521_02854551.jpg,true,G,,false,,C: 0.63 Low confidence
-cpb-aacip-15-70msck27_03531361_02855022_02855052.jpg,true,G,,false,,Y: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_02855522_02855552.jpg,true,G,,false,,T: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_02856023_02856053.jpg,true,G,,false,,I: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_02857024_02857054.jpg,true,G,,false,,C: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02857524_02857554.jpg,true,G,,false,,C: 0.35 Low confidence
-cpb-aacip-15-70msck27_03531361_02858025_02858055.jpg,true,G,,false,,T: 0.29 Low confidence
-cpb-aacip-15-70msck27_03531361_02859026_02859056.jpg,true,G,,false,,C: 0.45 Low confidence
-cpb-aacip-15-70msck27_03531361_02859526_02859556.jpg,true,G,,false,,C: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_02866033_02866063.jpg,true,F,,false,,Y: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_02886520_02886550.jpg,true,,,false,,Y: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02914515_02914544.jpg,true,,,false,,NEG: 0.50 Sandwich
-cpb-aacip-15-70msck27_03531361_02915015_02915045.jpg,true,,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_02934001_02934031.jpg,true,P,,false,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_02935002_02935032.jpg,true,P,,false,,E: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_02936503_02936533.jpg,true,P,,false,,I: 0.72 Low confidence
-cpb-aacip-15-70msck27_03531361_02939006_02939036.jpg,true,,,false,,NEG: 0.93 Sandwich
-cpb-aacip-15-70msck27_03531361_03031532_03031561.jpg,true,I,,false,,P: 0.92 Sandwich
-cpb-aacip-15-70msck27_03531361_03047514_03047544.jpg,true,,,false,,F: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_03131031_03131061.jpg,true,U,,false,,I: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_03132032_03132062.jpg,true,U,,false,,I: 0.77 Low confidence
-cpb-aacip-15-70msck27_03531361_03132533_03132562.jpg,true,U,,false,,I: 0.64 Low confidence
-cpb-aacip-15-70msck27_03531361_03133033_03133063.jpg,true,U,,false,,I: 0.53 Low confidence
-cpb-aacip-15-70msck27_03531361_03134001_03134030.jpg,true,U,,false,,C: 0.76 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03136003_03136032.jpg,true,U,,false,,I: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_03137504_03137534.jpg,true,U,,false,,I: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_03138005_03138034.jpg,true,U,,false,,I: 0.65 Low confidence
-cpb-aacip-15-70msck27_03531361_03139506_03139536.jpg,true,U,,false,,T: 0.49 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03141508_03141538.jpg,true,U,,false,,C: 0.67 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03142009_03142038.jpg,true,U,,false,,I: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_03145012_03145041.jpg,true,U,,false,,I: 0.27 Low confidence
-cpb-aacip-15-70msck27_03531361_03146013_03146042.jpg,true,U,,false,,T: 0.38 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03151018_03151047.jpg,true,U,,false,,I: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_03206507_03206536.jpg,true,P,,false,,NEG: 0.33 Low confidence
-cpb-aacip-15-70msck27_03531361_03210010_03210040.jpg,true,P,,false,,NEG: 0.43 Low confidence
-cpb-aacip-15-70msck27_03531361_03253020_03253049.jpg,true,,,false,,NEG: 0.68 Sandwich
-cpb-aacip-15-70msck27_03531361_03253520_03253550.jpg,true,,,false,,F: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03289022_03289052.jpg,true,I,,true,,I: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03290524_03290553.jpg,true,I,,false,,I: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03335002_03335031.jpg,true,,,false,,NEG: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_03346013_03346042.jpg,true,P,,false,,P: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_03380514_03380543.jpg,true,P,,false,,P: 0.50 Low confidence
-cpb-aacip-15-70msck27_03531361_03394528_03394557.jpg,true,P,,false,,NEG: 0.91 Sandwich
-cpb-aacip-15-70msck27_03531361_03407007_03407036.jpg,true,C,,false,,C: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03409510_03409539.jpg,true,C,,false,,C: 0.70 Low confidence
-cpb-aacip-15-70msck27_03531361_03411011_03411040.jpg,true,C,,false,,C: 0.65 Low confidence
-cpb-aacip-15-70msck27_03531361_03411512_03411541.jpg,true,C,,false,,C: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03413514_03413543.jpg,true,C,,false,,R: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03414014_03414043.jpg,true,C,,false,,R: 0.38 Low confidence
-cpb-aacip-15-70msck27_03531361_03415516_03415545.jpg,true,C,,false,,C: 0.44 Low confidence
-cpb-aacip-15-70msck27_03531361_03416016_03416045.jpg,true,C,,true,,G: 0.58 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03420020_03420049.jpg,true,C,,false,,G: 0.98 Sandwich
-cpb-aacip-15-70msck27_03531361_03422523_03422552.jpg,true,C,,false,,C: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_03423023_03423052.jpg,true,C,,false,,C: 0.69 Low confidence
-cpb-aacip-15-70msck27_03531361_03423524_03423553.jpg,true,C,,true,,R: 0.54 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03425025_03425054.jpg,true,C,,false,,G: 0.88 Sandwich
-cpb-aacip-15-70msck27_03531361_03425526_03425555.jpg,true,C,,false,,C: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03430531_03430560.jpg,true,C,,true,,R: 0.49 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03434001_03434030.jpg,true,C,,false,,G: 0.63 Sandwich
-cpb-aacip-15-70msck27_03531361_03435002_03435031.jpg,true,C,,true,,NEG: 1.00 Sandwich
-cpb-aacip-15-70msck27_03531361_03440007_03440036.jpg,true,C,,false,,C: 0.71 Low confidence
-cpb-aacip-15-70msck27_03531361_03441508_03441538.jpg,true,C,,false,,G: 0.70 Sandwich
-cpb-aacip-15-70msck27_03531361_03443010_03443039.jpg,true,C,,false,,C: 0.75 Low confidence
-cpb-aacip-15-70msck27_03531361_03443510_03443540.jpg,true,C,,false,,C: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03444511_03444541.jpg,true,C,,false,,G: 0.59 Low confidence
-cpb-aacip-15-70msck27_03531361_03445012_03445041.jpg,true,C,,false,,C: 0.79 Low confidence
-cpb-aacip-15-70msck27_03531361_03450017_03450046.jpg,true,C,,false,,R: 0.62 Sandwich
-cpb-aacip-15-70msck27_03531361_03456523_03456553.jpg,true,C,,false,,R: 0.58 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03457024_03457053.jpg,true,C,,false,,C: 0.73 Low confidence
-cpb-aacip-15-70msck27_03531361_03458525_03458555.jpg,true,C,,false,,C: 0.78 Low confidence
-cpb-aacip-15-70msck27_03531361_03459026_03459055.jpg,true,C,,false,,C: 0.37 Low confidence
-cpb-aacip-15-70msck27_03531361_03460527_03460557.jpg,true,C,,false,,C: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03461028_03461057.jpg,true,C,,false,,C: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_03462029_03462058.jpg,true,C,,false,,C: 0.78 Low confidence
-cpb-aacip-15-70msck27_03531361_03462529_03462559.jpg,true,C,,false,,C: 0.64 Low confidence
-cpb-aacip-15-70msck27_03531361_03467501_03467530.jpg,true,G,,false,,G: 0.39 Low confidence
-cpb-aacip-15-70msck27_03531361_03468502_03468531.jpg,true,G,,false,,G: 0.55 Low confidence
-cpb-aacip-15-70msck27_03531361_03470003_03470033.jpg,true,G,,false,,L: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03471004_03471034.jpg,true,G,,false,,G: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03475509_03475538.jpg,true,L,,false,,M: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03476009_03476039.jpg,true,L,,false,,M: 0.48 Low confidence
-cpb-aacip-15-70msck27_03531361_03476510_03476539.jpg,true,L,,false,,M: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_03477010_03477040.jpg,true,L,,false,,M: 0.58 Low confidence
-cpb-aacip-15-70msck27_03531361_03478512_03478541.jpg,true,L,,false,,NEG: 0.46 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03479012_03479042.jpg,true,L,,false,,M: 0.49 Low confidence
-cpb-aacip-15-70msck27_03531361_03481014_03481044.jpg,true,L,,false,,C: 0.52 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03481515_03481544.jpg,true,L,,false,,M: 0.44 Low confidence
-cpb-aacip-15-70msck27_03531361_03482015_03482045.jpg,true,L,,false,,M: 0.74 Low confidence
-cpb-aacip-15-70msck27_03531361_03484017_03484047.jpg,true,G,,false,,C: 0.76 Low confidence
-cpb-aacip-15-70msck27_03531361_03485519_03485548.jpg,true,G,,false,,C: 0.79 Low confidence
-cpb-aacip-15-70msck27_03531361_03489022_03489052.jpg,true,G,,false,,C: 0.77 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03490023_03490053.jpg,true,G,,false,,S: 0.54 Low confidence
-cpb-aacip-15-70msck27_03531361_03491024_03491054.jpg,true,G,,false,,C: 0.57 Low confidence
-cpb-aacip-15-70msck27_03531361_03492025_03492055.jpg,true,G,,false,,G: 0.53 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03492526_03492555.jpg,true,G,,false,,C: 0.64 Low confidence
-cpb-aacip-15-70msck27_03531361_03493026_03493056.jpg,true,G,,false,,C: 0.62 Low confidence
-cpb-aacip-15-70msck27_03531361_03493527_03493556.jpg,true,G,,false,,C: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_03494027_03494057.jpg,true,G,,false,,G: 0.63 Sandwich
-cpb-aacip-15-70msck27_03531361_03494528_03494557.jpg,true,G,,false,,C: 0.77 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03495028_03495058.jpg,true,G,,false,,G: 0.34 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03495529_03495558.jpg,true,G,,false,,C: 0.50 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03496029_03496059.jpg,true,G,,false,,G: 0.25 Low confidence
-cpb-aacip-15-70msck27_03531361_03501502_03501531.jpg,true,L,,false,,M: 0.69 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03503003_03503032.jpg,true,L,,false,,M: 0.61 Low confidence
-cpb-aacip-15-70msck27_03531361_03505005_03505034.jpg,true,G,,false,,T: 0.51 Low confidence
-cpb-aacip-15-70msck27_03531361_03506507_03506536.jpg,true,G,,false,,S: 0.80 Sandwich
-cpb-aacip-15-70msck27_03531361_03508008_03508037.jpg,true,G,,false,,S: 0.58 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03511512_03511541.jpg,true,G,,false,,C: 0.69 Sandwich; Low confidence
-cpb-aacip-15-70msck27_03531361_03514014_03514043.jpg,true,G,,false,,G: 0.52 Low confidence
-cpb-aacip-15-70msck27_03531361_03515516_03515545.jpg,true,G,,false,,S: 0.96 Sandwich
-cpb-aacip-15-70msck27_03531361_03516517_03516546.jpg,true,G,,false,,G: 0.56 Low confidence
-cpb-aacip-15-70msck27_03531361_03517518_03517547.jpg,true,G,,false,,S: 0.94 Sandwich
-cpb-aacip-15-70msck27_03531361_03524024_03524053.jpg,true,G,,false,,G: 0.47 Low confidence
-cpb-aacip-15-70msck27_03531361_00000000_00000000.jpg,true,B,,false,,
-cpb-aacip-15-70msck27_03531361_00001635_00001668.jpg,true,B,,false,,
-cpb-aacip-15-70msck27_03531361_00009209_00009209.jpg,true,B,,false,,
-cpb-aacip-15-70msck27_03531361_00009743_00009743.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00010277_00010310.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00015415_00015415.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00021087_00021087.jpg,true,S,D,false,,
-cpb-aacip-15-70msck27_03531361_00032966_00032966.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_00073724_00073740.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_00113413_00113413.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00129630_00129662.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00140941_00140974.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00176610_00176643.jpg,true,P,,true,,
-cpb-aacip-15-70msck27_03531361_00180380_00180380.jpg,true,M,,false,,
-cpb-aacip-15-70msck27_03531361_00188488_00188488.jpg,true,M,,false,,
-cpb-aacip-15-70msck27_03531361_00222914_00222922.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_00291766_00291791.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_00326193_00326225.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00350484_00350516.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00363430_00363463.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00370470_00370470.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00378545_00378578.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00379112_00379112.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00403937_00403970.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00442809_00442809.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00478728_00478744.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_00512479_00512511.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00525993_00526025.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00549750_00549782.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00575108_00575141.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00588088_00588120.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00626952_00626959.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_00701476_00701500.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00740340_00740372.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00746847_00746879.jpg,true,N,,false,,
-cpb-aacip-15-70msck27_03531361_00780321_00780346.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_00840798_00840806.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_00873207_00873239.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_00921255_00921287.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_00957991_00958023.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01006039_01006071.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01038021_01038037.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01098781_01098797.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01129162_01129194.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01182616_01182648.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01223657_01223689.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01237704_01237736.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01271187_01271203.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01307341_01307372.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01332199_01332230.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01335969_01336001.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01348949_01348980.jpg,true,G,,true,,
-cpb-aacip-15-70msck27_03531361_01355956_01355987.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_01392008_01392023.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01460843_01460859.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01498532_01498563.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_01513647_01513678.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01556290_01556321.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01590857_01590889.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01625425_01625457.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_01673206_01673238.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01719920_01719951.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01754196_01754219.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_01820612_01820618.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01857090_01857121.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_01896957_01896961.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_01976692_01976708.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02056427_02056454.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02099533_02099564.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02138955_02138970.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02175676_02175706.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02183250_02183281.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02222656_02222687.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02257758_02257788.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02270704_02270735.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02278812_02278843.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02311745_02311776.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02346847_02346877.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02354955_02354985.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02379813_02379844.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02407341_02407371.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02455388_02455419.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02504004_02504034.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02546647_02546677.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02584451_02584481.jpg,true,F,,false,,
-cpb-aacip-15-70msck27_03531361_02593627_02593657.jpg,true,E,,false,,
-cpb-aacip-15-70msck27_03531361_02600100_02600130.jpg,true,E,,false,,
-cpb-aacip-15-70msck27_03531361_02632516_02632529.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02668168_02668198.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02706507_02706537.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02743493_02743507.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_02782649_02782679.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_02839339_02839369.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02849049_02849079.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02862029_02862059.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_02899199_02899229.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_02973540_02973570.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03047881_03047911.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03086119_03086149.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_03129863_03129893.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_03134074_03134097.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03137404_03137434.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03138285_03138301.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03142496_03142506.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03146707_03146710.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03150918_03150947.jpg,true,U,,false,,
-cpb-aacip-15-70msck27_03531361_03205989_03206002.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03263230_03263260.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_03290791_03290820.jpg,true,I,,false,,
-cpb-aacip-15-70msck27_03531361_03349366_03349379.jpg,true,P,,false,,
-cpb-aacip-15-70msck27_03531361_03406340_03406369.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03411200_03411207.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03411745_03411775.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03416060_03416079.jpg,true,,,false,,
-cpb-aacip-15-70msck27_03531361_03420920_03420950.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03424157_03424187.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03429029_03429058.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03429279_03429292.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03434401_03434431.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03435502_03435532.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03438739_03438768.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03440624_03440637.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03445746_03445775.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03446847_03446876.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03450083_03450113.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03451968_03451981.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03457089_03457120.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03458192_03458221.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03462507_03462525.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03463030_03463059.jpg,true,C,,false,,
-cpb-aacip-15-70msck27_03531361_03466822_03466830.jpg,true,R,,false,,
-cpb-aacip-15-70msck27_03531361_03471137_03471167.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03474908_03474938.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_03478145_03478174.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_03481949_03481978.jpg,true,L,,false,,
-cpb-aacip-15-70msck27_03531361_03484084_03484113.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03491124_03491154.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03495962_03495992.jpg,true,G,,false,,
-cpb-aacip-15-70msck27_03531361_03497598_03497627.jpg,true,L,,true,,
-cpb-aacip-15-70msck27_03531361_03531064_03531094.jpg,true,,,false,,
+"filename","seen","type label","subtype label","modifier","transcript","note"
+"cpb-aacip-15-70msck27_03531361_00000000_00000000.jpg",true,"B","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00001635_00001668.jpg",true,"B","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00009209_00009209.jpg",true,"B","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00009743_00009743.jpg",true,"S","D",false,"",""
+"cpb-aacip-15-70msck27_03531361_00010277_00010310.jpg",true,"S","D",false,"",""
+"cpb-aacip-15-70msck27_03531361_00015415_00015415.jpg",true,"S","D",false,"",""
+"cpb-aacip-15-70msck27_03531361_00021087_00021087.jpg",true,"S","D",false,"",""
+"cpb-aacip-15-70msck27_03531361_00031532_00031564.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00032032_00032065.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00032966_00032966.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00033033_00033033.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00033500_00033500.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00034001_00034034.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00035002_00035035.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00035502_00035502.jpg",true,"O","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00036503_00036503.jpg",true,"O","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00037004_00037037.jpg",true,"O","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00037504_00037504.jpg",true,"O","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00038005_00038038.jpg",true,"O","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00038505_00038505.jpg",true,"O","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00039006_00039039.jpg",true,"O","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00047014_00047047.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00048015_00048048.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00048515_00048515.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00073724_00073740.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00081515_00081548.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00082015_00082015.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00083016_00083016.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00099032_00099032.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00102002_00102035.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00105506_00105538.jpg",true,"P","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00113413_00113413.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00113514_00113546.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00114014_00114047.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00116517_00116549.jpg",true,"I","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00118519_00118551.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00124024_00124057.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00129530_00129562.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00129630_00129662.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00140941_00140974.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00176610_00176643.jpg",true,"P","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00177010_00177010.jpg",true,"M","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00180380_00180380.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00181014_00181014.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00181515_00181548.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00185519_00185552.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00186019_00186019.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00187020_00187020.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00188021_00188021.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00188488_00188488.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00188522_00188555.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00191024_00191024.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00193026_00193026.jpg",true,"M","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00193527_00193560.jpg",true,"M","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00196530_00196563.jpg",true,"M","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00222914_00222922.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00224525_00224557.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00225025_00225058.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00250517_00250550.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00291766_00291791.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00302002_00302035.jpg",true,"G","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00302503_00302535.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00303003_00303036.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00303504_00303536.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00310010_00310043.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00326193_00326225.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00332032_00332065.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00332533_00332565.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00334001_00334033.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00335002_00335034.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00337504_00337537.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00338005_00338037.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00339006_00339038.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00340007_00340039.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00343510_00343543.jpg",true,"Y","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00344511_00344544.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00345012_00345044.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00348515_00348548.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00350017_00350049.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00350484_00350516.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00350517_00350550.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00356023_00356055.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00357024_00357056.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00358525_00358558.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00359026_00359058.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00363430_00363463.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00364531_00364564.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00365032_00365064.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00365532_00365565.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00367000_00367033.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00370470_00370470.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00371004_00371037.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00378545_00378578.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00379112_00379112.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00390023_00390056.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00398031_00398064.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00400501_00400533.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00403504_00403536.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00403937_00403970.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00405506_00405538.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00406006_00406038.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00407508_00407540.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00408008_00408040.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00410511_00410543.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00428529_00428561.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00430030_00430062.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00434501_00434534.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00442809_00442809.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00478728_00478744.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00480514_00480546.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00493026_00493059.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00502503_00502535.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00512479_00512511.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00512513_00512545.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00514515_00514547.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00520521_00520553.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00522022_00522054.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00525526_00525558.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00525993_00526025.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00549750_00549782.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00551018_00551050.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00551518_00551551.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00575108_00575141.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00576510_00576542.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00588088_00588120.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00626952_00626959.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00690023_00690056.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00692025_00692058.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00692526_00692558.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00693026_00693059.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00693527_00693559.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00694027_00694060.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00695529_00695561.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00698031_00698064.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00699032_00699065.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00699533_00699565.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00700501_00700533.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00701001_00701033.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00701476_00701500.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00701502_00701534.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00703003_00703035.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00703504_00703536.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00706006_00706038.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00706507_00706539.jpg",true,"G","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00707007_00707039.jpg",true,"G","",true,"",""
+"cpb-aacip-15-70msck27_03531361_00739006_00739038.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00739506_00739538.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00740007_00740039.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00740340_00740372.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00740507_00740539.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00741008_00741040.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00746847_00746879.jpg",true,"N","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00747514_00747546.jpg",true,"N","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00775509_00775541.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00779012_00779044.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00780321_00780346.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00781515_00781547.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00786019_00786051.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00794027_00794059.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00794528_00794560.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00795028_00795060.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00809009_00809041.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00823524_00823556.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00827528_00827560.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00830030_00830062.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00832032_00832064.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00840798_00840806.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00873207_00873239.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00921021_00921053.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00921255_00921287.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00957991_00958023.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00961028_00961060.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_00980013_00980045.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01006006_01006038.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01006039_01006071.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01018018_01018050.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01019019_01019051.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01038021_01038037.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01098781_01098797.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01102002_01102034.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01125025_01125057.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01125526_01125557.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01126527_01126558.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01127528_01127559.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01128529_01128560.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01129162_01129194.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01129530_01129561.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01130030_01130062.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01130531_01130562.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01131031_01131063.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01133500_01133532.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01134001_01134032.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01135002_01135033.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01138005_01138036.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01139006_01139037.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01139506_01139538.jpg",true,"Y","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01161028_01161059.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01162529_01162561.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01163030_01163061.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01166533_01166565.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01178512_01178544.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01182616_01182648.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01206006_01206038.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01206507_01206538.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01207007_01207039.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01210010_01210042.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01212012_01212044.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01219520_01219551.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01221021_01221053.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01223657_01223689.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01226026_01226058.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01237704_01237736.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01271187_01271203.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01294027_01294059.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01298031_01298063.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01307341_01307372.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01312012_01312044.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01313013_01313045.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01316517_01316548.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01319520_01319551.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01332199_01332230.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01334501_01334533.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01335969_01336001.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01336003_01336034.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01336503_01336535.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01337004_01337035.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01337504_01337536.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01338005_01338036.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01338505_01338537.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01339006_01339037.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01339506_01339538.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01340007_01340038.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01341008_01341039.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01342009_01342040.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01343010_01343041.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01343510_01343542.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01344011_01344042.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01345012_01345043.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01346513_01346545.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01348515_01348547.jpg",true,"G","",true,"",""
+"cpb-aacip-15-70msck27_03531361_01348949_01348980.jpg",true,"G","",true,"",""
+"cpb-aacip-15-70msck27_03531361_01353520_01353552.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01355956_01355987.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01359526_01359558.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01374508_01374539.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01378512_01378543.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01380514_01380545.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01392008_01392023.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01432533_01432564.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01434001_01434032.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01437004_01437035.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01437504_01437536.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01453020_01453051.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01460843_01460859.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01498532_01498563.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01509510_01509541.jpg",true,"G","",true,"",""
+"cpb-aacip-15-70msck27_03531361_01513647_01513678.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01514014_01514045.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01514515_01514546.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01518018_01518049.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01556290_01556321.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01590857_01590889.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01603003_01603034.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01618018_01618049.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01625425_01625457.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01629530_01629561.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01634001_01634032.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01635002_01635033.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01636503_01636534.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01645012_01645043.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01664031_01664062.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01672506_01672537.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01673206_01673238.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01717518_01717549.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01718018_01718049.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01719920_01719951.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01720521_01720552.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01754196_01754219.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01772506_01772537.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01774007_01774038.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01780514_01780545.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01810511_01810542.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01818519_01818550.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01820612_01820618.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01857090_01857121.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01896957_01896961.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01899032_01899063.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01900501_01900531.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01904505_01904535.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01905506_01905536.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01921522_01921552.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01976692_01976708.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_01996029_01996060.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02001502_02001532.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02003504_02003534.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02004004_02004035.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02005005_02005036.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02005506_02005536.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02007508_02007538.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02008509_02008539.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02009510_02009540.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02010010_02010041.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02010511_02010541.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02011512_02011542.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02012012_02012043.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02012513_02012543.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02013013_02013044.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02018018_02018049.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02018519_02018549.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02019019_02019050.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02020521_02020551.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02022022_02022053.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02046513_02046544.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02047514_02047545.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02048015_02048045.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02056427_02056454.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02096530_02096561.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02098031_02098062.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02099032_02099063.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02099533_02099564.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02101001_02101032.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02109510_02109540.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02138955_02138970.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02175008_02175039.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02175676_02175706.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02176009_02176040.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02176510_02176541.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02177010_02177041.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02179513_02179544.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02180514_02180545.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02182015_02182046.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02183250_02183281.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02189523_02189554.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02191525_02191556.jpg",true,"G","",true,"",""
+"cpb-aacip-15-70msck27_03531361_02217518_02217548.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02222656_02222687.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02257758_02257788.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02258525_02258556.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02270704_02270735.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02278812_02278843.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02311745_02311776.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02314515_02314545.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02315516_02315546.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02316517_02316547.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02320521_02320551.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02333033_02333064.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02345512_02345543.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02346847_02346877.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02354955_02354985.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02379813_02379844.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02407341_02407371.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02455388_02455419.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02488522_02488552.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02490023_02490054.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02504004_02504034.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02513514_02513544.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02514014_02514044.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02514515_02514545.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02546647_02546677.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02547514_02547545.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02568502_02568532.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02572506_02572536.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02584451_02584481.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02585018_02585049.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02586019_02586050.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02586520_02586550.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02587521_02587551.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02588021_02588052.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02588522_02588552.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02589022_02589053.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02589523_02589553.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02590023_02590054.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02590524_02590554.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02592025_02592056.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02593026_02593057.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02593627_02593657.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02594027_02594058.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02595028_02595059.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02595529_02595559.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02596530_02596560.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02598532_02598562.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02599032_02599063.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02600100_02600130.jpg",true,"E","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02632516_02632529.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02668168_02668198.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02695028_02695059.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02696029_02696060.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02697030_02697061.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02701001_02701031.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02701502_02701532.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02706507_02706537.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02713013_02713043.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02714515_02714545.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02715516_02715546.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02722022_02722052.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02743493_02743507.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02768001_02768031.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02782649_02782679.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02819019_02819049.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02839339_02839369.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02841508_02841538.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02842009_02842039.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02842509_02842539.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02843010_02843040.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02844011_02844041.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02844511_02844541.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02845512_02845542.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02846013_02846043.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02847014_02847044.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02847514_02847544.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02848015_02848045.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02849016_02849046.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02849049_02849079.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02849516_02849546.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02850017_02850047.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02851518_02851548.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02852019_02852049.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02852519_02852549.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02853020_02853050.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02853520_02853550.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02854021_02854051.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02854521_02854551.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02855022_02855052.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02855522_02855552.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02856023_02856053.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02857024_02857054.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02857524_02857554.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02858025_02858055.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02859026_02859056.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02859526_02859556.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02862029_02862059.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02866033_02866063.jpg",true,"F","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02886520_02886550.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02899199_02899229.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02914515_02914544.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02915015_02915045.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02934001_02934031.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02935002_02935032.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02936503_02936533.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02939006_02939036.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_02973540_02973570.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03031532_03031561.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03047514_03047544.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03047881_03047911.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03086119_03086149.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03129863_03129893.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03131031_03131061.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03132032_03132062.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03132533_03132562.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03133033_03133063.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03134001_03134030.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03134074_03134097.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03136003_03136032.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03137404_03137434.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03137504_03137534.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03138005_03138034.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03138285_03138301.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03139506_03139536.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03141508_03141538.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03142009_03142038.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03142496_03142506.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03145012_03145041.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03146013_03146042.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03146707_03146710.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03150918_03150947.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03151018_03151047.jpg",true,"U","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03205989_03206002.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03206507_03206536.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03210010_03210040.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03253020_03253049.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03253520_03253550.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03263230_03263260.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03289022_03289052.jpg",true,"I","",true,"",""
+"cpb-aacip-15-70msck27_03531361_03290524_03290553.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03290791_03290820.jpg",true,"I","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03335002_03335031.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03346013_03346042.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03349366_03349379.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03380514_03380543.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03394528_03394557.jpg",true,"P","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03406340_03406369.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03407007_03407036.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03409510_03409539.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03411011_03411040.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03411200_03411207.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03411512_03411541.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03411745_03411775.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03413514_03413543.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03414014_03414043.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03415516_03415545.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03416016_03416045.jpg",true,"C","",true,"",""
+"cpb-aacip-15-70msck27_03531361_03416060_03416079.jpg",true,"","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03420020_03420049.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03420920_03420950.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03422523_03422552.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03423023_03423052.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03423524_03423553.jpg",true,"C","",true,"",""
+"cpb-aacip-15-70msck27_03531361_03424157_03424187.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03425025_03425054.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03425526_03425555.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03429029_03429058.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03429279_03429292.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03430531_03430560.jpg",true,"C","",true,"",""
+"cpb-aacip-15-70msck27_03531361_03434001_03434030.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03434401_03434431.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03435002_03435031.jpg",true,"C","",true,"",""
+"cpb-aacip-15-70msck27_03531361_03435502_03435532.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03438739_03438768.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03440007_03440036.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03440624_03440637.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03441508_03441538.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03443010_03443039.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03443510_03443540.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03444511_03444541.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03445012_03445041.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03445746_03445775.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03446847_03446876.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03450017_03450046.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03450083_03450113.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03451968_03451981.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03456523_03456553.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03457024_03457053.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03457089_03457120.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03458192_03458221.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03458525_03458555.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03459026_03459055.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03460527_03460557.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03461028_03461057.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03462029_03462058.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03462507_03462525.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03462529_03462559.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03463030_03463059.jpg",true,"C","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03466822_03466830.jpg",true,"R","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03467501_03467530.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03468502_03468531.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03470003_03470033.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03471004_03471034.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03471137_03471167.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03474908_03474938.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03475509_03475538.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03476009_03476039.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03476510_03476539.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03477010_03477040.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03478145_03478174.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03478512_03478541.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03479012_03479042.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03481014_03481044.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03481515_03481544.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03481949_03481978.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03482015_03482045.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03484017_03484047.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03484084_03484113.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03485519_03485548.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03489022_03489052.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03490023_03490053.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03491024_03491054.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03491124_03491154.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03492025_03492055.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03492526_03492555.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03493026_03493056.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03493527_03493556.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03494027_03494057.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03494528_03494557.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03495028_03495058.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03495529_03495558.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03495962_03495992.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03496029_03496059.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03497598_03497627.jpg",true,"L","",true,"",""
+"cpb-aacip-15-70msck27_03531361_03501502_03501531.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03503003_03503032.jpg",true,"L","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03505005_03505034.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03506507_03506536.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03508008_03508037.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03511512_03511541.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03514014_03514043.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03515516_03515545.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03516517_03516546.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03517518_03517547.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03524024_03524053.jpg",true,"G","",false,"",""
+"cpb-aacip-15-70msck27_03531361_03531064_03531094.jpg",true,"","",false,"",""
