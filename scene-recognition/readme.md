@@ -42,6 +42,8 @@ Conceptually, the annotation project simply annotates stills found at recurring 
                 * raw annotations are stored in [240814-aapb-collaboration-27-e](240814-aapb-collaboration-27-e)
             * [`aapb-collaboration-27-f`](../batches/aapb-collaboration-27-f.txt) is a batch used for identification of "slate" images from non-overlapping 1118 videos.
                 * raw (all `"S"` labels) annotations are stored in [241016-aapb-collaboration-27-f](241016-aapb-collaboration-27-f)
+            * [`aapb-collaboration-27-g`](../batches/aapb-collaboration-27-g.txt) is a batch used for identification of **more** "slate" images from non-overlapping 1977 videos.
+                * raw (all `"S"` labels) annotations are stored in [250801-aapb-collaboration-27-g](250801-aapb-collaboration-27-g)
             * [`aapb-collaboration-27-bd01`](../batches/aapb-collaboration-27-bd01.txt), [`aapb-collaboration-27-bd02`](../batches/aapb-collaboration-27-bd02.txt), [`aapb-collaboration-27-bd03`](../batches/aapb-collaboration-27-bd03.txt),  [`aapb-collaboration-27-bd04`](../batches/aapb-collaboration-27-bd04.txt),  [`aapb-collaboration-27-bd05`](../batches/aapb-collaboration-27-bd05.txt), [`aapb-collaboration-27-bd06`](../batches/aapb-collaboration-27-bd06.txt), [`aapb-collaboration-27-bho`](../batches/aapb-collaboration-27-bho.txt) batches were also similarly sub-sampled from the target videos, but then manually curated to contain various labels distributed in balanced way.
                 * 54, 54, 55, 55, 56, 61, 110 GUIDs were chosen for each batch respectively.
                 * then 3798, 3789, 3742, 4056, 3632, 4139, 8656 frames were annotated in each batch respectively.
