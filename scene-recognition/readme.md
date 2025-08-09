@@ -40,8 +40,14 @@ Conceptually, the annotation project simply annotates stills found at recurring 
                 * Specifically, the annotator ran a SWT model (`20240409-093229.convnext_tiny.kfold_012` model from v4.4) with 500ms sample rate, then re-annotated some images under certain circumstances - 1) top softmax score is too low, 2) sandwiched between different labels. The reason why an image is picked is left in the "note" column. 
                 * For some part of this batch, specifically "peabody award" sub-collection, is annotated in two passes, and the images annotated in [the second pass](https://github.com/clamsproject/app-swt-detection/issues/116#issuecomment-2408144544) don't have "note" values. 
                 * raw annotations are stored in [240814-aapb-collaboration-27-e](240814-aapb-collaboration-27-e)
-            * [`aapb-collaboration-27-f`](241016-aapb-collaboration-27-f) is a collection of confirmed "slate" images from non-overlapping 1118 videos.
-                * raw annotations are stored in [241016-aapb-collaboration-27-f](241016-aapb-collaboration-27-f)
+            * [`aapb-collaboration-27-f`](../batches/aapb-collaboration-27-f.txt) is a batch used for identification of "slate" images from non-overlapping 1118 videos.
+                * raw (all `"S"` labels) annotations are stored in [241016-aapb-collaboration-27-f](241016-aapb-collaboration-27-f)
+            * [`aapb-collaboration-27-g`](../batches/aapb-collaboration-27-g.txt) is a batch used for identification of **more** "slate" images from non-overlapping 1977 videos.
+                * raw (all `"S"` labels) annotations are stored in [250801-aapb-collaboration-27-g](250801-aapb-collaboration-27-g)
+            * [`aapb-collaboration-27-bd01`](../batches/aapb-collaboration-27-bd01.txt), [`aapb-collaboration-27-bd02`](../batches/aapb-collaboration-27-bd02.txt), [`aapb-collaboration-27-bd03`](../batches/aapb-collaboration-27-bd03.txt),  [`aapb-collaboration-27-bd04`](../batches/aapb-collaboration-27-bd04.txt),  [`aapb-collaboration-27-bd05`](../batches/aapb-collaboration-27-bd05.txt), [`aapb-collaboration-27-bd06`](../batches/aapb-collaboration-27-bd06.txt), [`aapb-collaboration-27-bho`](../batches/aapb-collaboration-27-bho.txt) batches were also similarly sub-sampled from the target videos, but then manually curated to contain various labels distributed in balanced way.
+                * 54, 54, 55, 55, 56, 61, 110 GUIDs were chosen for each batch respectively.
+                * then 3798, 3789, 3742, 4056, 3632, 4139, 8656 frames were annotated in each batch respectively.
+                * raw annotations are stored in [250728-aapb-collaboration-27-bd01](250728-aapb-collaboration-27-bd01), [250728-aapb-collaboration-27-bd02](250728-aapb-collaboration-27-bd02), [250728-aapb-collaboration-27-bd03](250728-aapb-collaboration-27-bd03), [250728-aapb-collaboration-27-bd04](250728-aapb-collaboration-27-bd04), [250728-aapb-collaboration-27-bd05](250728-aapb-collaboration-27-bd05), [250728-aapb-collaboration-27-bd06](250728-aapb-collaboration-27-bd06), [250728-aapb-collaboration-27-bho](250728-aapb-collaboration-27-bho). 
     * Other version control information - none
 
 
