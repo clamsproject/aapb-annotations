@@ -1,16 +1,16 @@
-index,start,end,text-transcript
-1,00:04:27.777,00:04:32.277,"DANIEL ORTEGA\nPresident, Nicaragua"
-2,00:05:31.527,00:05:35.027,JAMES BAKER\nSecretary of State
-3,00:10:54.277,00:10:58.527,"DANIEL ORTEGA\nPresident, Nicaragua"
-4,00:13:39.027,00:13:43.027,"DANIEL ORTEGA\nPresident, Nicaragua"
-5,00:24:46.027,00:24:49.027,"ALEJANDRO BENDANA\nForeign Ministry, Nicaragua"
-6,00:28:49.277,00:28:53.277,"DANIEL ORTEGA\nPresident, Nicaragua"
-7,00:32:26.777,00:32:31.027,ROBERT ADLER\nEnvironmental Lawyer
-8,00:33:25.277,00:33:28.527,RICHARD SAMP\nWashington Legal Foundation
-9,00:36:36.777,00:36:41.527,ROBERT ADLER\nEnvironmental Lawyer
-10,00:39:37.027,00:39:42.527,RICHARD SAMP\nWashington Legal Foundation
-11,00:45:42.527,00:45:47.527,Dr. DAVID AXELROD\nNew York Health Commissioner
-12,00:48:59.277,00:49:04.277,Dr. HARVEY WACHSMAN\nMalpractice Lawyer
-13,00:53:03.777,00:53:07.527,Dr. DAVID AXELROD\nNew York Health Commissioner
-14,00:55:07.277,00:55:11.777,Dr. HARVEY WACHSMAN\nMalpractice Lawyer
-15,00:56:29.027,00:56:34.277,Dr. DAVID AXELROD\nNew York Health Commissioner
+start,end,scene-label,text-transcript
+00:04:27.777,00:04:32.277,chyron,"DANIEL ORTEGA\nPresident, Nicaragua"
+00:05:31.527,00:05:35.027,chyron,JAMES BAKER\nSecretary of State
+00:10:54.277,00:10:58.527,chyron,"DANIEL ORTEGA\nPresident, Nicaragua"
+00:13:39.027,00:13:43.027,chyron,"DANIEL ORTEGA\nPresident, Nicaragua"
+00:24:46.027,00:24:49.027,chyron,"ALEJANDRO BENDANA\nForeign Ministry, Nicaragua"
+00:28:49.277,00:28:53.277,chyron,"DANIEL ORTEGA\nPresident, Nicaragua"
+00:32:26.777,00:32:31.027,chyron,ROBERT ADLER\nEnvironmental Lawyer
+00:33:25.277,00:33:28.527,chyron,RICHARD SAMP\nWashington Legal Foundation
+00:36:36.777,00:36:41.527,chyron,ROBERT ADLER\nEnvironmental Lawyer
+00:39:37.027,00:39:42.527,chyron,RICHARD SAMP\nWashington Legal Foundation
+00:45:42.527,00:45:47.527,chyron,Dr. DAVID AXELROD\nNew York Health Commissioner
+00:48:59.277,00:49:04.277,chyron,Dr. HARVEY WACHSMAN\nMalpractice Lawyer
+00:53:03.777,00:53:07.527,chyron,Dr. DAVID AXELROD\nNew York Health Commissioner
+00:55:07.277,00:55:11.777,chyron,Dr. HARVEY WACHSMAN\nMalpractice Lawyer
+00:56:29.027,00:56:34.277,chyron,Dr. DAVID AXELROD\nNew York Health Commissioner
