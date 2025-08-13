@@ -69,7 +69,7 @@ Additional data: Copy verbatim any role, location, context, or other characteris
 
 #### Data Quality Efforts (or other subheaders, optional)
 
-TODO: any QC effort made by Owen? 
+No separate post-annotation QC effort were reported, but the annotation process was conducted with careful attention to data quality. Guidelines were established through a rigorous setup phase including a practice round, followed by discussions to address edge cases, ambiguities, and consistency in transcription and data formatting. 
 
 ## Data Format and `process.py`
 
