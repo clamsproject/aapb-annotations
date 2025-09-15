@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:01.061",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "STATELINE\nPROGRAM NO. 1005 REDO\nTAPE DATE: 12/08/89\nAIR DATE:\nAIR DATE: 12/10/89 17:00\nLENGTH: 28:45\nTAPE NO.: TH 6514\nDIRECTOR: DAVE SURROGATE\nPRODUCER: HARRISON",
     "keyed-information": {

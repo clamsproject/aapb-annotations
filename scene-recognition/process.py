@@ -56,16 +56,16 @@ def process(raw_dir, golds_dir):
         df = df.drop('seen', axis=1)
         # then rename columns
         df = df.rename(columns={
-            'type label': 'scene-type',
-            'type-label': 'scene-type',
-            'subtype label': 'scene-subtype',
-            'subtype-label': 'scene-subtype',
+            'type label': 'scene-label',
+            'type-label': 'scene-label',
+            'subtype label': 'scene-subtype-label',
+            'subtype-label': 'scene-subtype-label',
             'modifier': 'transitional',
         })
         # any that are left have been seen. therefore, any rows with label = "" are negative
         # so their labels should be changed to "-"
-        df.loc[df['scene-type'].isna(), 'scene-type'] = '-'
-        df.loc[df['scene-subtype'].isna(), 'scene-subtype'] = ''
+        df.loc[df['scene-label'].isna(), 'scene-label'] = '-'
+        df.loc[df['scene-subtype-label'].isna(), 'scene-subtype-label'] = ''
         # remove first column (filename)
         df = df.drop('filename', axis=1)
         # remove transcript and note columns, if they exist
@@ -76,8 +76,8 @@ def process(raw_dir, golds_dir):
         df = df.sort_values(by=['at'])
         # output to csv with same filename
         df.to_csv(destination, index=False)
-        # concat scene-type and scene-subtype into a single 'full' label and count them
-        full_labels = df['scene-type'].astype(str) + df['scene-subtype'].astype(str)
+        # concat labels into a single 'full' label and count them
+        full_labels = df['scene-label'].astype(str) + df['scene-subtype-label'].astype(str)
         label_freq.update(full_labels.tolist())
     return label_freq
 

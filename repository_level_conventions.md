@@ -19,21 +19,30 @@ Conventions on data formatting and precision, file names and data field names.
 ### Field Naming Conventions
 
 > [!NOTE]
-Also, often referred as "column names" (mainly, we tend to use tabular data formats like CSV, TSV, etc.). 
+Also, often referred as "column names" (mainly because we tend to use tabular data formats like CSV, TSV, etc.). 
 
 The field name in the "gold" data should indicate the type of data in the field. 
 That is, fields that contains the same (or similar enough) data should have the same name across different annotation task subdirectories.
-For now, we are keeping the ledger for commonly used names and their data types as follows (see [#117](https://github.com/clamsproject/aapb-annotations/issues/107) for discussion):
+The following table provides a ledger for commonly used names and their data types (see [#117](https://github.com/clamsproject/aapb-annotations/issues/107) for discussion). Some names are **standardized** and must be used when applicable, while others are **common** conventions that are recommended for consistency.
 
 | Field(s) Name | Description                                                                         |
 |---------------|-------------------------------------------------------------------------------------|
-| `at` | A time point in a time-based source media.                                          |
-| `start`/`end` | A time interval in a time-based source media.                                       |
-| `scene-label` | A label used for classifying a still shot or a scene from video source.             |
-| `text-transcript` | A text transcription of text visually appearing in the video or image source media. |
-| `speech-transcript` | A text transcription of language spoken in the video or audio source media.         |
+*   `at` | **Standardized.** A time point in a time-based source media. Replaces `timestamp`.
+*   `start`/`end` | **Standardized.** A time interval in a time-based source media (e.g., character offsets and time intervals).
+*   `scene-label` | **Standardized.** A label used for classifying a still shot or a scene from a video source.
+*   `scene-subtype-label` | **Standardized.** A sub-label providing more specific classification for a `scene-label`.
+*   `text-transcript` | **Standardized.** A text transcription of text visually appearing in the video or image source media.
+*   `speech-transcript` | **Standardized.** A text transcription of language spoken in the video or audio source media.
+*   `index` | **Common.** An autonumber for annotations, starting from "1".
+*   `label` | **Common.** The label for an annotation, similar to the MMIF Vocabulary label property.
+*   `text` | **Common.** The text content of an annotation. Use of more specific names like `text-transcript` or `speech-transcript` is preferred.
+*   `GUID` | **Discouraged.** The AAPB ID for a video (e.g., "cpb-aacip-81-881jx33t"). Since gold data files are named after the GUID, this field is redundant.
 
-As we organized the file named based on the identifiers of the underlying source media, it is not generally recommended to add a field for media identifiers (e.g. `GUID` or `id`).
+#### Notes on Specific Fields
+
+*   **`GUID`**: While some older `golds` data might contain a `GUID` column, this is now discouraged. The file-per-GUID structure for `golds` data makes this column redundant. New `process.py` scripts should avoid adding it.
+
+*   **`at` vs. `timestamp`**: The standardized field for a time point is `at`. The name `timestamp` was used in some older datasets but should be considered deprecated in favor of `at` for new datasets.
 
 ### Time Point Notation
 
@@ -119,18 +128,3 @@ The `issueName-issueNumber` part points to a GitHub issue (usually on the [AAPB 
 Examples: `aapb-collaboration-27-a.txt` and `aapb-collaboration-27-b.txt`
 
 If a batch is not named after a GitHub issue then the name should be informative and be a decent abbreviation of the description in the batch comment.
-
-
-## Field Naming Conventions for Gold Datasets
-
-These conventions only apply to gold data, not raw data. The following column/field names are standardized:
-
-* `GUID` (all caps) - The AAPB id for that video e.g. "cpb-aacip-81-881jx33t". 
-* `start`, `end` - Anchor columns annotating a time duration of a phenomenon (e.g., character offsets and time intervals).
-
-Common, but not yet standardized, field names:
-
-* `index` - An autonumber counting the annotations. The first piece of labelled data is "1".
-* `text` - It remains under discussion whether it is ideal to use a standardized column name for the text we are annotating with an entry label. An issue could arise in that each project is seeking different kinds of texts and perhaps in different ways. This standardization could then be confusing.
-* `timestamp` - An anchor colum for a time point.
-* `label` - The label for an annotation, similar to the MMIF Vocabulary [label](https://mmif.clams.ai/vocabulary/Annotation/v5/) property.

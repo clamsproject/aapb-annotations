@@ -197,15 +197,15 @@ A set of `.csv` files in which each row is a frame timestamped and with relevant
 
 * Fields:
     * `at` - string representing the ISO timestamp of the frame
-    * `scene-type` - string representing the type label (from `type label` in raw data)
-    * `scene-subtype` - string representing the subtype label, if applicable (from `subtype label` in raw data)
+    * `scene-label` - string representing the type label (from `type label` in raw data)
+    * `scene-subtype-label` - string representing the subtype label, if applicable (from `subtype label` in raw data)
     * `transitional` - boolean representing if the image is _transitional_ between two scene types (from `modifier` in raw data)
     * all other columns from the raw data are removed
 
 Example:
 
 ```
-at,scene-type,scene-subtype,transitional
+at,scene-label,scene-subtype-label,transitional
 00:00:41.508,S,G,False
 00:00:47.047,S,G,False
 00:00:50.050,S,G,False

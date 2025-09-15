@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:25.552",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "STATELINE\nNumber: 716\nAir Dates: 01/14/87  19:30\nRepeat:   01/18/87  12:30\nProducer: Hatch\nDirector: Sheehan\nTH 2390\nTime: 28:45",
     "keyed-information": {

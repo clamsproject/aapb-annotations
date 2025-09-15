@@ -95,8 +95,8 @@ A set of `.json` files in which each row is a frame timestamped and with relevan
 
 * Fields:
     * `at` - string representing the ISO timestamp of the frame
-    * `scene-type` - string representing the type label (from `type label` in raw data)
-    * `scene-subtype` - string representing the subtype label, if applicable (from `subtype label` in raw data)
+    * `scene-label` - string representing the type label (from `type label` in raw data)
+    * `scene-subtype-label` - string representing the subtype label, if applicable (from `subtype label` in raw data)
     * `transitional` - boolean representing if the image is _transitional_ between two scene types (from `modifier` in raw data)
     * `text-transcript` - string transferred from `note-3` (verbatim) column in the raw data. Line break markers are replaced with actual line breaks (U+000A). 
     * `keyed-information` - object (string-string) transferred from `note-4` (key-value) column in the raw data, parsed based on these delimiters; `\\n` between pairs, `:` between keys and values
@@ -107,8 +107,8 @@ $ cat golds/cpb-aacip-27def972f9c.json
 [
   {
     "at": "00:01:07.000",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "Wild Florida\nShow # 209\n\"DRY TORTUGAS\"\nTRT: 26:42\nSTEREO",
     "keyed-information": {
