@@ -72,9 +72,9 @@ def process(input_directory, output_directory):
                     subtype = '-'
                 # drop unnecessary columns
                 row_df.drop(columns=['GUID', 'digital', 'type'], inplace=True)
-                # then add "scene-type" and "scene-subtype" columns based on has_slate and subtype values
-                row_df.insert(3, 'scene-type', 'slate' if has_slate else '-')
-                row_df.insert(4, 'scene-subtype', subtype)
+                # then add columns for labels based on has_slate and subtype values
+                row_df.insert(3, 'scene-label', 'slate' if has_slate else '-')
+                row_df.insert(4, 'scene-subtype-label', subtype)
                 # row_df['scene-subtype'] = subtype
                 row_df.to_csv(csv_filepath, index=False, sep=',')
 

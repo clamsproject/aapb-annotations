@@ -122,31 +122,28 @@ This script takes the raw data and converts it into a more machine-ingestible fo
 5. process.py and golds were updated on [23/12/14](https://github.com/clamsproject/aapb-annotations/pull/77) to follow golds field-naming conventions. 
 
 ### `golds` data
-`.tsv` tabular format separated with tab (`U+0009`) characters. The gold files conform to the repository readme guideline that each gold must relate to only one GUID. Therefore, each of these gold files is only 1 video/GUID each.
+`.csv` tabular format separated with comma (`,`) characters. The gold files conform to the repository guideline that each gold file must relate to only one GUID. Therefore, each of these gold files contains data for only one video/GUID.
 * Fields:
-    * `GUID` - the same as the raw data
     * `collection` - renamed from `Series/Group`
     * `start` - renamed from `Slate Start`
     * `end` -  renamed from `Slate End`
-    * `type` - renamed from `Writing Types`, values are normalized to `h`, `t`, `o` for `handwritten`, `typed`, `other` respectively.
-    * `digital` - renamed from `Recorded/Digital`, values are normalized to boolean `True` or `False` values, where `True` means the slate is digitally encoded.
+    * `scene-label` - A label indicating the scene type. Will be `slate` if a slate is present, otherwise `-`.
+    * `scene-subtype-label` - A sub-label for the scene. For slates, this will be `digital` or `handwriting`.
     * `format-summary` - renamed from `format of most of the information`
     * `moving-elements` - renamed from `Anything moving on screen during slate?`
-    * all other columns from the raw data are removed
 * Example:
     ```
-    $ cat golds/cpb-aacip-81-881jx33t.tsv
-    GUID    collection      start   end     type    digital format-summary  moving-elements
-    cpb-aacip-81-881jx33t   Woman   00:00:00.000    00:00:05.040    h       False   boxes to fill in no
+    $ cat golds/cpb-aacip-29-01pg4g2x.csv
+    collection,start,end,scene-label,scene-subtype-label,format-summary,moving-elements
+    Prime Time Wisconsin,00:00:00.000,00:00:08.467,slate,digital,key-value pairs,no
     
-    $ cat golds/cpb-aacip-41-34fn32g7.tsv
-    GUID    collection      start   end     type    digital format-summary  moving-elements
-    cpb-aacip-41-34fn32g7   Carolina Journal        00:00:00.000    00:00:14.280    t       True    key-value pairs countdown
+    $ cat golds/cpb-aacip-29-02q57d6q.csv
+    collection,start,end,scene-label,scene-subtype-label,format-summary,moving-elements
+    Prime Time Wisconsin,NO,NO,-,-,no,no
     ```
     > [!Note] 
     > Each file has the column header in it.
 
-This project's `golds` files conform to both conventions for field-name and time format.  
 ## See also 
 
 ### 2020 Evaluation Dataset   
