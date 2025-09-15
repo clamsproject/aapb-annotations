@@ -1,8 +1,8 @@
 [
   {
     "at": "00:00:07.540",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "FALL  PRE-FEED\nPOLLY'S PAINT\nBOX\n09:00 #1\n09:15 #2\n09:30 #3",
     "keyed-information": {

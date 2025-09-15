@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:12.539",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "Program: STATELINE\nDirector: Sheehan\nAir Date:  11/30/84, 12/02/84\nAir Time:  1930, 1230\nLength:  28:45\nProgram No:  T2.11\nTape No:  TH.1457",
     "keyed-information": {

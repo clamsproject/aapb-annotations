@@ -1,8 +1,8 @@
 [
   {
     "at": "00:00:30.030",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "Governor's\nPress Conference\nMarch 20, 2000",
     "keyed-information": {

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:34.027",
-    "scene-type": "S",
-    "scene-subtype": "G",
+    "scene-label": "S",
+    "scene-subtype-label": "G",
     "transitional": false,
     "text-transcript": "DIALOG Encore\nTitle: Hurricanes\nTime: 59:33\nNote:\nno mid-break\n\n4",
     "keyed-information": {

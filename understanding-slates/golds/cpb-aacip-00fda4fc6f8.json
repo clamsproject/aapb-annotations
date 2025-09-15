@@ -1,8 +1,8 @@
 [
   {
     "at": "00:00:56.523",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "STATELINE\nNumber: 703\nAir Dates: 10/15/86 19:30\nRepeat:    10/19/86 12:30\nProducer: Hatch\nDirector: Sheehan\nTH 2389",
     "keyed-information": {

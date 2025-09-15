@@ -1,8 +1,8 @@
 [
   {
     "at": "00:00:40.040",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "SERIES:   STATELINE\n\nPROGRAM:    #131\n\nLENGTH:     23:00\n\nAIR:        3/12/82\n            3/14/82\nDIRECTOR:   DOBBS",
     "keyed-information": {

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:23.016",
-    "scene-type": "S",
-    "scene-subtype": "G",
+    "scene-label": "S",
+    "scene-subtype-label": "G",
     "transitional": false,
     "text-transcript": "THINK AGAIN SPOTS\nLewis Howlett\nCUT #1\n:60",
     "keyed-information": {

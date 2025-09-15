@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:01.528",
-    "scene-type": "S",
-    "scene-subtype": "D",
+    "scene-label": "S",
+    "scene-subtype-label": "D",
     "transitional": false,
     "text-transcript": "WPBT\nMASTER\nDECOR\nDWDM # 112\nt.r.t: 26:57\nTracks 1 & 2 Mixed",
     "keyed-information": {
