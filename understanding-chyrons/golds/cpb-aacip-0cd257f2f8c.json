@@ -1,8 +1,8 @@
 [
   {
     "at": "00:02:15.001",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stormy Rottman",
     "keyed-information": {
@@ -13,8 +13,8 @@
   },
   {
     "at": "00:03:31.277",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "James Gentry, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
     "keyed-information": {
@@ -27,8 +27,8 @@
   },
   {
     "at": "00:06:35.261",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Harley Boudreaux\nLIONS CLUB",
     "keyed-information": {
@@ -41,8 +41,8 @@
   },
   {
     "at": "00:08:46.258",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Richard Beatty, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
     "keyed-information": {
@@ -55,8 +55,8 @@
   },
   {
     "at": "00:12:15.400",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger Cozens\nLIONS EYE BANK",
     "keyed-information": {
@@ -69,8 +69,8 @@
   },
   {
     "at": "00:14:43.749",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Richard Beatty, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
     "keyed-information": {
@@ -83,8 +83,8 @@
   },
   {
     "at": "00:17:20.639",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "James Gentry, M.D.\nOPHTHAMOLOGIST/PRIVATE PRACTICE",
     "keyed-information": {
@@ -97,8 +97,8 @@
   },
   {
     "at": "00:19:21.026",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Harley Boudreaux\nLIONS CLUB",
     "keyed-information": {
@@ -111,8 +111,8 @@
   },
   {
     "at": "00:26:29.654",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mitch Miller",
     "keyed-information": {

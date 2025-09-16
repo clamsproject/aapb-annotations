@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:42.902",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:14:15.654",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Michael Drace\n\nYOUNG LAUNDRY & DRYCLEANING",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:20:03.402",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mary Flood\n\nVICE PRESIDENT OF SALES\n\nSCHULER HOMES",
     "keyed-information": {

@@ -1,0 +1,266 @@
+[
+  {
+    "at": "00:03:16.763",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jack Ulam\n\nFORMER MAYOR",
+    "keyed-information": {
+      "name-as-written": "Jack Ulam",
+      "name-normalized": "Ulam, Jack",
+      "attributes": [
+        "FORMER MAYOR"
+      ]
+    }
+  },
+  {
+    "at": "00:04:51.157",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Al Bricco\n\nCOUNCILMAN",
+    "keyed-information": {
+      "name-as-written": "Al Bricco",
+      "name-normalized": "Bricco, Al",
+      "attributes": [
+        "COUNCILMAN"
+      ]
+    }
+  },
+  {
+    "at": "00:05:46.779",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Trish Neiworth\n\nFRONT STREET WEEKLY",
+    "keyed-information": {
+      "name-as-written": "Trish Neiworth",
+      "name-normalized": "Neiworth, Trish",
+      "attributes": [
+        "FRONT STREET WEEKLY"
+      ]
+    }
+  },
+  {
+    "at": "00:06:08.134",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tuck Wilson\n\nOREGON HANDGUN ALERT",
+    "keyed-information": {
+      "name-as-written": "Tuck Wilson",
+      "name-normalized": "Wilson, Tuck",
+      "attributes": [
+        "OREGON HANDGUN ALERT"
+      ]
+    }
+  },
+  {
+    "at": "00:06:34.394",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Nichols\n\nOREGON RIFLE & PISTOL",
+    "keyed-information": {
+      "name-as-written": "John Nichols",
+      "name-normalized": "Nichols, John",
+      "attributes": [
+        "OREGON RIFLE & PISTOL"
+      ]
+    }
+  },
+  {
+    "at": "00:09:29.402",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dene Schoenberg\n\nUNDERSHERIFF",
+    "keyed-information": {
+      "name-as-written": "Dene Schoenberg",
+      "name-normalized": "Schoenberg, Dene",
+      "attributes": [
+        "UNDERSHERIFF"
+      ]
+    }
+  },
+  {
+    "at": "00:10:21.887",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Fred Pearce\n\nSHERIFF",
+    "keyed-information": {
+      "name-as-written": "Fred Pearce",
+      "name-normalized": "Pearce, Fred",
+      "attributes": [
+        "SHERIFF"
+      ]
+    }
+  },
+  {
+    "at": "00:13:28.007",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gwyneth Gamble\n\nFRONT STREET WEEKLY",
+    "keyed-information": {
+      "name-as-written": "Gwyneth Gamble",
+      "name-normalized": "Gamble, Gwyneth",
+      "attributes": [
+        "FRONT STREET WEEKLY"
+      ]
+    }
+  },
+  {
+    "at": "00:18:42.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Judy Miller\n\nWILLAMETTE VALLEY JOBS COMM.",
+    "keyed-information": {
+      "name-as-written": "Judy Miller",
+      "name-normalized": "Miller, Judy",
+      "attributes": [
+        "WILLAMETTE VALLEY JOBS COMM."
+      ]
+    }
+  },
+  {
+    "at": "00:18:55.000",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "William Anton\n\nDIR. APPRENTICESHIP & TRAINING",
+    "keyed-information": {
+      "name-as-written": "William Anton",
+      "name-normalized": "Anton, William",
+      "attributes": [
+        "DIR. APPRENTICESHIP & TRAINING"
+      ]
+    }
+  },
+  {
+    "at": "00:19:49.388",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Nawman",
+    "keyed-information": {
+      "name-as-written": "Steve Nawman",
+      "name-normalized": "Nawman, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:25:02.000",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Swenson\n\nFRONT STREET WEEKLY",
+    "keyed-information": {
+      "name-as-written": "Jim Swenson",
+      "name-normalized": "Swenson, Jim",
+      "attributes": [
+        "FRONT STREET WEEKLY"
+      ]
+    }
+  },
+  {
+    "at": "00:25:52.017",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mike Donahue\n\nNEWSROOM6",
+    "keyed-information": {
+      "name-as-written": "Mike Donahue",
+      "name-normalized": "Donahue, Mike",
+      "attributes": [
+        "NEWSROOM6"
+      ]
+    }
+  },
+  {
+    "at": "00:25:54.386",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TRACY BARRY\n\nKATU",
+    "keyed-information": {
+      "name-as-written": "TRACY BARRY",
+      "name-normalized": "Barry, Tracy",
+      "attributes": [
+        "KATU"
+      ]
+    }
+  },
+  {
+    "at": "00:29:12.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Paul Sands\n\nKGW NEWS DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "Paul Sands",
+      "name-normalized": "Sands, Paul",
+      "attributes": [
+        "KGW NEWS DIRECTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:29:36.007",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Peter Farrell\n\nOREGONIAN TV CRITIC",
+    "keyed-information": {
+      "name-as-written": "Peter Farrell",
+      "name-normalized": "Farrell, Peter",
+      "attributes": [
+        "OREGONIAN TV CRITIC"
+      ]
+    }
+  },
+  {
+    "at": "00:29:43.648",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ted Bryant\n\nKOIN NEWS DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "Ted Bryant",
+      "name-normalized": "Bryant, Ted",
+      "attributes": [
+        "KOIN NEWS DIRECTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:30:21.519",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Kline\n\nKATU NEWS DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "John Kline",
+      "name-normalized": "Kline, John",
+      "attributes": [
+        "KATU NEWS DIRECTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:52:05.122",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Amen\n\nFRONT STREET WEEKLY",
+    "keyed-information": {
+      "name-as-written": "Steve Amen",
+      "name-normalized": "Amen, Steve",
+      "attributes": [
+        "FRONT STREET WEEKLY"
+      ]
+    }
+  }
+]

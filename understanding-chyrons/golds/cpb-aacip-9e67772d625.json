@@ -1,0 +1,756 @@
+[
+  {
+    "at": "00:02:18.138",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ted Harrison\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Ted Harrison",
+      "name-normalized": "Harrison, Ted",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "00:03:44.524",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ashley Robuck\n\nTOBACCO GROWER",
+    "keyed-information": {
+      "name-as-written": "Ashley Robuck",
+      "name-normalized": "Robuck, Ashley",
+      "attributes": [
+        "TOBACCO GROWER"
+      ]
+    }
+  },
+  {
+    "at": "00:04:12.752",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Tinsley Yarbrough\n\nEAST CAROLINA UNIVERSITY",
+    "keyed-information": {
+      "name-as-written": "Dr. Tinsley Yarbrough",
+      "name-normalized": "Yarbrough, Tinsley",
+      "attributes": [
+        "EAST CAROLINA UNIVERSITY"
+      ]
+    }
+  },
+  {
+    "at": "00:06:30.156",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Wilkinson",
+    "keyed-information": {
+      "name-as-written": "John Wilkinson",
+      "name-normalized": "Wilkinson, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:09:31.003",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Walter B. Jones\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Walter B. Jones",
+      "name-normalized": "Jones, Walter B.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:09:40.646",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard D. Moye\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard D. Moye",
+      "name-normalized": "Moye, Howard D.",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:15:12.878",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Betsy Russell\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Betsy Russell",
+      "name-normalized": "Russell, Betsy",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "00:15:19.652",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard D. Moye\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard D. Moye",
+      "name-normalized": "Moye, Howard D.",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:16:08.267",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Walter B. Jones\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Walter B. Jones",
+      "name-normalized": "Jones, Walter B.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:16:29.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Audrey Kates Bailey\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Audrey Kates Bailey",
+      "name-normalized": "Bailey, Audrey Kates",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "00:20:37.903",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard D. Moye\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard D. Moye",
+      "name-normalized": "Moye, Howard D.",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:21:04.763",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Walter B. Jones\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Walter B. Jones",
+      "name-normalized": "Jones, Walter B.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:26:17.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Walter B. Jones\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Walter B. Jones",
+      "name-normalized": "Jones, Walter B.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:26:52.644",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard D. Moye\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard D. Moye",
+      "name-normalized": "Moye, Howard D.",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:28:22.767",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bill Cobey\n\nR-4th  1984-86",
+    "keyed-information": {
+      "name-as-written": "Bill Cobey",
+      "name-normalized": "Cobey, Bill",
+      "attributes": [
+        "R-4th 1984-86"
+      ]
+    }
+  },
+  {
+    "at": "00:28:49.761",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ike Andrews\n\nD-4th  1972-84",
+    "keyed-information": {
+      "name-as-written": "Ike Andrews",
+      "name-normalized": "Andrews, Ike ",
+      "attributes": [
+        "D-4th 1972-84"
+      ]
+    }
+  },
+  {
+    "at": "00:33:10.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ted Harrison\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Ted Harrison",
+      "name-normalized": "Harrison, Ted",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "00:33:34.645",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Fetzer\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Tom Fetzer",
+      "name-normalized": "Fetzer, Tom",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:34:37.375",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David E. Price\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "David E. Price",
+      "name-normalized": "Price, David E.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:37:50.901",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jill McSweeney\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Jill McSweeney",
+      "name-normalized": "McSweeney, Jill",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "00:40:06.904",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Audrey Kates Bailey\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Audrey Kates Bailey",
+      "name-normalized": "Bailey, Audrey Kates",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "00:40:29.527",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David E. Price\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "David E. Price",
+      "name-normalized": "Price, David E.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:48:29.006",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David E. Price\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "David E. Price",
+      "name-normalized": "Price, David E.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:49:12.883",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Fetzer\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Tom Fetzer",
+      "name-normalized": "Fetzer, Tom",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:54:43.880",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David E. Price\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "David E. Price",
+      "name-normalized": "Price, David E.",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "00:55:40.403",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Fetzer\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Tom Fetzer",
+      "name-normalized": "Fetzer, Tom",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:00:06.903",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. David Broyles\n\nWAKE FOREST UNIVERSITY",
+    "keyed-information": {
+      "name-as-written": "Dr. David Broyles",
+      "name-normalized": "Broyles, David",
+      "attributes": [
+        "WAKE FOREST UNIVERSITY"
+      ]
+    }
+  },
+  {
+    "at": "01:02:31.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jill McSweeney\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Jill McSweeney",
+      "name-normalized": "McSweeney, Jill",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "01:03:14.257",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Fred Henderson\n\nWILKESBORO",
+    "keyed-information": {
+      "name-as-written": "Fred Henderson",
+      "name-normalized": "Henderson, Fred",
+      "attributes": [
+        "WILKESBORO"
+      ]
+    }
+  },
+  {
+    "at": "01:04:22.124",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gurney Mathis\n\nWILKESBORO",
+    "keyed-information": {
+      "name-as-written": "Gurney Mathis",
+      "name-normalized": "Mathis, Gurney",
+      "attributes": [
+        "WILKESBORO"
+      ]
+    }
+  },
+  {
+    "at": "01:05:06.769",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jack Jarrett\n\nFIELDCREST-CANNON",
+    "keyed-information": {
+      "name-as-written": "Jack Jarrett",
+      "name-normalized": "Jarrett, Jack",
+      "attributes": [
+        "FIELDCREST-CANNON"
+      ]
+    }
+  },
+  {
+    "at": "01:06:22.645",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lyons Gray\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Lyons Gray",
+      "name-normalized": "Gray, Lyons",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:06:53.009",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Neal\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Steve Neal",
+      "name-normalized": "Neal, Steve",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:07:39.021",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Audrey Kates Bailey\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Audrey Kates Bailey",
+      "name-normalized": "Bailey, Audrey Kates",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "01:09:33.636",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Bason\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "John Bason",
+      "name-normalized": "Bason, John",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "01:16:09.998",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Neal\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Steve Neal",
+      "name-normalized": "Neal, Steve",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:17:02.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lyons Gray\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Lyons Gray",
+      "name-normalized": "Gray, Lyons",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:21:49.504",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lyons Gray\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Lyons Gray",
+      "name-normalized": "Gray, Lyons",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:23:58.500",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Neal\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Steve Neal",
+      "name-normalized": "Neal, Steve",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:26:40.495",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lyons Gray\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Lyons Gray",
+      "name-normalized": "Gray, Lyons",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:27:25.273",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Neal\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Steve Neal",
+      "name-normalized": "Neal, Steve",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:29:48.383",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ned Cline\n\nGREENSBORO NEWS & RECORD",
+    "keyed-information": {
+      "name-as-written": "Ned Cline",
+      "name-normalized": "Cline, Ned",
+      "attributes": [
+        "GREENSBORO NEWS & RECORD"
+      ]
+    }
+  },
+  {
+    "at": "01:30:33.127",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Paul Leubke\n\nUNC-G",
+    "keyed-information": {
+      "name-as-written": "Dr. Paul Leubke",
+      "name-normalized": "Leubke, Paul",
+      "attributes": [
+        "UNC-G"
+      ]
+    }
+  },
+  {
+    "at": "01:32:21.402",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Alma Adams\n\nGREENSBORO CITY COUNCIL",
+    "keyed-information": {
+      "name-as-written": "Alma Adams",
+      "name-normalized": "Adams, Alma",
+      "attributes": [
+        "GREENSBORO CITY COUNCIL"
+      ]
+    }
+  },
+  {
+    "at": "01:34:34.402",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Coble\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard Coble",
+      "name-normalized": "Coble, Howard",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:35:12.506",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Gilmore\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Tom Gilmore",
+      "name-normalized": "Gilmore, Tom",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:36:06.994",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Kathleen McDonald\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Kathleen McDonald",
+      "name-normalized": "McDonald, Kathleen",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "01:38:27.001",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Audrey Kates Bailey\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "Audrey Kates Bailey",
+      "name-normalized": "Bailey, Audrey Kates",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
+  },
+  {
+    "at": "01:44:19.119",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Gilmore\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Tom Gilmore",
+      "name-normalized": "Gilmore, Tom",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:45:10.270",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Coble\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard Coble",
+      "name-normalized": "Coble, Howard",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:50:13.373",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Coble\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard Coble",
+      "name-normalized": "Coble, Howard",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:52:28.141",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Gilmore\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Tom Gilmore",
+      "name-normalized": "Gilmore, Tom",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:54:28.628",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Coble\n\nREPUBLICAN CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Howard Coble",
+      "name-normalized": "Coble, Howard",
+      "attributes": [
+        "REPUBLICAN CANDIDATE"
+      ]
+    }
+  },
+  {
+    "at": "01:55:29.022",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Gilmore\n\nDEMOCRATIC CANDIDATE",
+    "keyed-information": {
+      "name-as-written": "Tom Gilmore",
+      "name-normalized": "Gilmore, Tom",
+      "attributes": [
+        "DEMOCRATIC CANDIDATE"
+      ]
+    }
+  }
+]

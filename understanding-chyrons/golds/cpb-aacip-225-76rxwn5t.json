@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:40.253",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Tobin\n\nTiki's Grill & Bar",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:10:50.149",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Susan Todani\n\nDirector of Investments\n\nKamehameha Schools",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:12:08.027",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rosalind Schurgin\n\nExecutive Vice President\n\nFestival Companies",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:13:51.130",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Scott Williams\n\nGeneral Manager\n\nLex Brodie's",
     "keyed-information": {

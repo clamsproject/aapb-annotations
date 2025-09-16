@@ -1,8 +1,8 @@
 [
   {
     "at": "00:05:17.884",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brian Barbata\n\nGas Retailer",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:12:33.519",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mike Fassiotto\n\nChaminade University",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:14:50.155",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Tollefson\n\nPresident\n\nChamber of Commerce of Hawaii",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:21:32.624",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jane Sawyer\n\nSBA Honolulu",
     "keyed-information": {

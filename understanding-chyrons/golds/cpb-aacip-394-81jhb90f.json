@@ -1,0 +1,124 @@
+[
+  {
+    "at": "00:03:04.651",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RHEA FEIKIN",
+    "keyed-information": {
+      "name-as-written": "RHEA FEIKIN",
+      "name-normalized": "Feikin, Rhea",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:04:18.391",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARIO FRANGOULIS\n\nSINGER",
+    "keyed-information": {
+      "name-as-written": "MARIO FRANGOULIS",
+      "name-normalized": "Frangoulis, Mario",
+      "attributes": [
+        "SINGER"
+      ]
+    }
+  },
+  {
+    "at": "00:06:49.375",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARIO FRANGOULIS\n\nSINGER",
+    "keyed-information": {
+      "name-as-written": "MARIO FRANGOULIS",
+      "name-normalized": "Frangoulis, Mario",
+      "attributes": [
+        "SINGER"
+      ]
+    }
+  },
+  {
+    "at": "00:12:19.505",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARVIN DOBSON\n\nPOET",
+    "keyed-information": {
+      "name-as-written": "MARVIN DOBSON",
+      "name-normalized": "Dobson, Marvin",
+      "attributes": [
+        "POET"
+      ]
+    }
+  },
+  {
+    "at": "00:15:06.005",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NATE HOWARD",
+    "keyed-information": {
+      "name-as-written": "NATE HOWARD",
+      "name-normalized": "Howard, Nate",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:19:05.277",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LORI YANKE\n\nMARKETING DIR., TOP FLOOR THEATRE",
+    "keyed-information": {
+      "name-as-written": "LORI YANKE",
+      "name-normalized": "Yanke, Lori",
+      "attributes": [
+        "MARKETING DIR., TOP FLOOR THEATRE"
+      ]
+    }
+  },
+  {
+    "at": "00:20:08.874",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "AARON WHITE\n\nCHOREOGRAPHER, TOP FLOOR THEATRE",
+    "keyed-information": {
+      "name-as-written": "AARON WHITE",
+      "name-normalized": "White, Aaron",
+      "attributes": [
+        "CHOREOGRAPHER, TOP FLOOR THEATRE"
+      ]
+    }
+  },
+  {
+    "at": "00:22:03.155",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "AARON WHITE\n\nCHOREOGRAPHER, TOP FLOOR THEATRE",
+    "keyed-information": {
+      "name-as-written": "AARON WHITE",
+      "name-normalized": "White, Aaron",
+      "attributes": [
+        "CHOREOGRAPHER, TOP FLOOR THEATRE"
+      ]
+    }
+  },
+  {
+    "at": "00:22:22.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LORI YANKE\n\nMARKETING DIR., TOP FLOOR THEATRE",
+    "keyed-information": {
+      "name-as-written": "LORI YANKE",
+      "name-normalized": "Yanke, Lori",
+      "attributes": [
+        "MARKETING DIR., TOP FLOOR THEATRE"
+      ]
+    }
+  }
+]

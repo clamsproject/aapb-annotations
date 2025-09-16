@@ -1,8 +1,8 @@
 [
   {
     "at": "00:10:48.514",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD WONG\n\nSENATE PRESIDENT",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:20:14.012",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM RICHARDSON\n\nCHIEF JUSTICE",
     "keyed-information": {

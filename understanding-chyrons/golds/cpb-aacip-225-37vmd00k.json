@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:13.773",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NINO J. MARTIN",
     "keyed-information": {
@@ -13,8 +13,8 @@
   },
   {
     "at": "00:03:55.268",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE STAUFFER\n\nPRES. STAUFFER & SONS\n\nWISCONSIN",
     "keyed-information": {
@@ -28,8 +28,8 @@
   },
   {
     "at": "00:12:07.626",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE STAUFFER\n\nPRES. STAUFFER & SONS\n\nWISCONSIN",
     "keyed-information": {
@@ -43,8 +43,8 @@
   },
   {
     "at": "00:15:43.008",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN PYLES\n\nOWNER, HICKORY FARMS, HAWAII",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:23:37.749",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN PYLES",
     "keyed-information": {
@@ -69,8 +69,8 @@
   },
   {
     "at": "00:25:12.277",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE STAUFFER",
     "keyed-information": {

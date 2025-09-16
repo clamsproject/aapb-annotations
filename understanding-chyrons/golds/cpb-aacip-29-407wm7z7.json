@@ -1,0 +1,152 @@
+[
+  {
+    "at": "00:01:57.750",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Iverson",
+    "keyed-information": {
+      "name-as-written": "David Iverson",
+      "name-normalized": "Iverson, David",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:02:20.507",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robin Gates\n\nFEDERAL PROGRAMS COORD.\n\nWIS. DIVISION OF STATE ENERGY",
+    "keyed-information": {
+      "name-as-written": "Robin Gates",
+      "name-normalized": "Gates, Robin",
+      "attributes": [
+        "FEDERAL PROGRAMS COORD. WIS. DIVISION OF STATE ENERGY"
+      ]
+    }
+  },
+  {
+    "at": "00:03:04.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Prof. Gretchen Schoff\n\nGEN. ENGINEERING AND I.L.S.\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Prof. Gretchen Schoff",
+      "name-normalized": "Schoff, Gretchen",
+      "attributes": [
+        "GEN. ENGINEERING AND I.L.S. U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:04:05.278",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Professor John Steinhart\n\nGEOLOGY AND ENVIRON. STUDIES\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Professor John Steinhart",
+      "name-normalized": "Steinhart, John ",
+      "attributes": [
+        "GEOLOGY AND ENVIRON. STUDIES U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:12:31.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robin Gates\n\nFEDERAL PROGRAMS COORD.\n\nWIS. DIVISION OF STATE ENERGY",
+    "keyed-information": {
+      "name-as-written": "Robin Gates",
+      "name-normalized": "Gates, Robin",
+      "attributes": [
+        "FEDERAL PROGRAMS COORD. WIS. DIVISION OF STATE ENERGY"
+      ]
+    }
+  },
+  {
+    "at": "00:13:21.500",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Prof. Gretchen Schoff\n\nGEN. ENGINEERING AND I.L.S.\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Prof. Gretchen Schoff",
+      "name-normalized": "Schoff, Gretchen",
+      "attributes": [
+        "GEN. ENGINEERING AND I.L.S. U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:14:57.897",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Professor John Steinhart\n\nGEOLOGY AND ENVIRON. STUDIES\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Professor John Steinhart",
+      "name-normalized": "Steinhart, John ",
+      "attributes": [
+        "GEOLOGY AND ENVIRON. STUDIES U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:17:18.270",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Iverson",
+    "keyed-information": {
+      "name-as-written": "David Iverson",
+      "name-normalized": "Iverson, David",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:22:55.273",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robin Gates\n\nFEDERAL PROGRAMS COORD.\n\nWIS. DIVISION OF STATE ENERGY",
+    "keyed-information": {
+      "name-as-written": "Robin Gates",
+      "name-normalized": "Gates, Robin",
+      "attributes": [
+        "FEDERAL PROGRAMS COORD. WIS. DIVISION OF STATE ENERGY"
+      ]
+    }
+  },
+  {
+    "at": "00:24:48.386",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Prof. Gretchen Schoff\n\nGEN. ENGINEERING AND I.L.S.\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Prof. Gretchen Schoff",
+      "name-normalized": "Schoff, Gretchen",
+      "attributes": [
+        "GEN. ENGINEERING AND I.L.S. U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:25:43.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Professor John Steinhart\n\nGEOLOGY AND ENVIRON. STUDIES\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Professor John Steinhart",
+      "name-normalized": "Steinhart, John ",
+      "attributes": [
+        "GEOLOGY AND ENVIRON. STUDIES U.W. MADISON"
+      ]
+    }
+  }
+]

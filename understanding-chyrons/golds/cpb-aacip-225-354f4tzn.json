@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:44.504",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:04:28.134",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "David Lassner\n\nI.T. CHIEF\n\nUNIVERSITY OF HAWAII",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:12:19.271",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Henry Montgomery\n\nCEO\n\nMONTPAC OUTSOURCING",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:21:06.031",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jack Tsui\n\nCLARENCE T.C. CHING FOUNDATION",
     "keyed-information": {

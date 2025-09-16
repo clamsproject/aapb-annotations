@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:55.902",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Harvey Shapiro\n\nHonolulu Board of Realtors",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:10:20.152",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mike Ivens\n\nMGI Aviation Services",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:21:31.390",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Diane Wicks\n\nPlantation Home Decor",
     "keyed-information": {

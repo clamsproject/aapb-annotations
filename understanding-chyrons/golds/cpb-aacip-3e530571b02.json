@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:19.512",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STUART VOSS\nNORTH COUNTRY REVIEW",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:03:41.521",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VIC PUTNAM\nESSEX COUNTY PLANNING OFFICE",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:04:32.505",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MAZUROWSKI\nCROWN POINT SUPERVISOR",
     "keyed-information": {
@@ -43,8 +43,8 @@
   },
   {
     "at": "00:08:20.900",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MAZUROWSKI\nCROWN POINT SUPERVISOR",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:10:18.884",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF SCHMITT\nDEPT. OF ENVIRONMENTAL CONSERVATION",
     "keyed-information": {
@@ -71,8 +71,8 @@
   },
   {
     "at": "00:12:23.509",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOANNE CURTIS\nTICONDEROGA, NEW YORK",
     "keyed-information": {
@@ -85,8 +85,8 @@
   },
   {
     "at": "00:16:41.133",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MAZUROWSKI\nCROWN POINT SUPERVISOR",
     "keyed-information": {
@@ -99,8 +99,8 @@
   },
   {
     "at": "00:17:43.529",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF SCHMITT\nDEPT. OF ENVIRONMENTAL CONSERVATION",
     "keyed-information": {
@@ -113,8 +113,8 @@
   },
   {
     "at": "00:18:57.402",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VIC PUTNAM\nESSEX COUNTY PLANNING OFFICE",
     "keyed-information": {
@@ -127,8 +127,8 @@
   },
   {
     "at": "00:19:56.628",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MAZUROWSKI\nCROWN POINT SUPERVISOR",
     "keyed-information": {
@@ -141,8 +141,8 @@
   },
   {
     "at": "00:20:59.625",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOANNE CURTIS\nTICONDEROGA, NEW YORK",
     "keyed-information": {
@@ -155,8 +155,8 @@
   },
   {
     "at": "00:22:08.627",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF SCHMITT\nDEPT. OF ENVIRONMENTAL CONSERVATION",
     "keyed-information": {
@@ -169,8 +169,8 @@
   },
   {
     "at": "00:23:26.405",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VIC PUTNAM\nESSEX COUNTY PLANNING OFFICE",
     "keyed-information": {
@@ -183,8 +183,8 @@
   },
   {
     "at": "00:26:38.029",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MAZUROWSKI\nCROWN POINT SUPERVISOR",
     "keyed-information": {
@@ -197,8 +197,8 @@
   },
   {
     "at": "00:27:00.752",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VIC PUTNAM\nESSEX COUNTY PLANNING OFFICE",
     "keyed-information": {
@@ -211,8 +211,8 @@
   },
   {
     "at": "00:27:32.017",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOANNE CURTIS\nTICONDEROGA, NEW YORK",
     "keyed-information": {

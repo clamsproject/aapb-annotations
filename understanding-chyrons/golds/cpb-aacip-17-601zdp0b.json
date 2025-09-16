@@ -1,0 +1,66 @@
+[
+  {
+    "at": "00:02:33.887",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Beth George",
+    "keyed-information": {
+      "name-as-written": "Beth George",
+      "name-normalized": "George, Beth",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:04:18.758",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. M. T. Carleton\n\nHISTORY PROFESSOR",
+    "keyed-information": {
+      "name-as-written": "Dr. M. T. Carleton",
+      "name-normalized": "Carleton, M. T.",
+      "attributes": [
+        "HISTORY PROFESSOR"
+      ]
+    }
+  },
+  {
+    "at": "00:08:21.901",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edwin Edwards",
+    "keyed-information": {
+      "name-as-written": "Edwin Edwards",
+      "name-normalized": "Edwards, Edwin",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:15:33.499",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "George Bush",
+    "keyed-information": {
+      "name-as-written": "George Bush",
+      "name-normalized": "Bush, George",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:23:44.656",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Dutton\n\nMUSEUM CURATOR",
+    "keyed-information": {
+      "name-as-written": "John Dutton",
+      "name-normalized": "Dutton, John",
+      "attributes": [
+        "MUSEUM CURATOR"
+      ]
+    }
+  }
+]

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:40.400",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:04:41.514",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Peter Schall\n\nSenior Vice President\n\nHilton Hotels Corp.",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:09:25.631",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Karen Tiller\n\nExecutive Director\n\nHawaii Opera Theatre",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:25:59.524",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Justin Van Etten\n\nIolani School",
     "keyed-information": {

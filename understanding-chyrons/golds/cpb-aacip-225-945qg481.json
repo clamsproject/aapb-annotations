@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:02.508",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Boyer\n\nCEO, Mokulele Air",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:11:29.155",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Robin Puanani Danner\n\nNative Hawaiian Economic Alliance",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:16:35.127",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chuck Steilen\n\nDean of the College of Business Administration\n\nHawaiian Pacific University",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:22:42.260",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Yuki Kitagawa\n\nFormer Agriculture Chairman",
     "keyed-information": {

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:10:18.150",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mary Behling\nPRESIDENT, COLORADO SENIOR SPORTS\nDEVELOPMENT COUNCIL",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:11:29.155",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Frank Remes\nPARTICIPANT",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:14:13.519",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Connie Larschiedt\nDENVER PARKS & RECREATION",
     "keyed-information": {
@@ -43,8 +43,8 @@
   },
   {
     "at": "00:17:03.655",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Riesberg\nGAMES COORDINATOR",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:19:30.402",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mary Behling\nPRESIDENT, COLORADO SENIOR SPORTS\nDEVELOPMENT COUNCIL",
     "keyed-information": {
@@ -71,8 +71,8 @@
   },
   {
     "at": "00:23:25.504",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Frank Remes\nPARTICIPANT",
     "keyed-information": {

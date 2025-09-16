@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:53.499",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Eric Gill\n\nSecretary-Treasurer\n\nLocal 5 of the Unite-Here union",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:08:21.767",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Andy Poepoe\n\nHonolulu District Manager, SBA",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:20:50.515",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Kahumoku Jr.\n\nMusician",
     "keyed-information": {

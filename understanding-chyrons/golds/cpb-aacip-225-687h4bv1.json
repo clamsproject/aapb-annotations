@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:08.268",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nELECTION LIVE",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:02:02.255",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRED HEMMINGS\n\nRepublican",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:03:05.752",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATSY T. MINK\n\nDemocrat",
     "keyed-information": {
@@ -43,8 +43,8 @@
   },
   {
     "at": "00:04:49.022",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRED HEMMINGS\n\nRepublican",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:07:03.756",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATSY T. MINK\n\nDemocrat",
     "keyed-information": {
@@ -71,8 +71,8 @@
   },
   {
     "at": "00:09:40.513",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARIA HUSTACE (R)\n\nSenatorial Candidate",
     "keyed-information": {
@@ -85,8 +85,8 @@
   },
   {
     "at": "00:09:45.017",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEN SCHOOLLAND (L)\n\nSenatorial Candidate",
     "keyed-information": {
@@ -99,8 +99,8 @@
   },
   {
     "at": "00:10:29.395",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SPARK MATSUNAGA (D)\n\nU.S. Senator",
     "keyed-information": {
@@ -113,8 +113,8 @@
   },
   {
     "at": "00:11:00.760",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARIA HUSTACE (R)\n\nSenatorial Candidate",
     "keyed-information": {
@@ -127,8 +127,8 @@
   },
   {
     "at": "00:11:19.378",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEN SCHOOLLAND (L)\n\nSenatorial Candidate",
     "keyed-information": {
@@ -141,8 +141,8 @@
   },
   {
     "at": "00:11:41.500",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SPARK MATSUNAGA (D)\n\nU.S. Senator",
     "keyed-information": {
@@ -155,8 +155,8 @@
   },
   {
     "at": "00:12:28.280",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LLOYD JEFFREY MALLAN (L)\n\n2nd Congressional Candidate",
     "keyed-information": {
@@ -169,8 +169,8 @@
   },
   {
     "at": "00:13:21.133",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BERNARD AKANA (R)\n\nMayoral Candidate\n\nHawaii County",
     "keyed-information": {
@@ -184,8 +184,8 @@
   },
   {
     "at": "00:13:42.254",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DANTE CARPENTER (D)\n\nMayor, Hawaii County",
     "keyed-information": {
@@ -198,8 +198,8 @@
   },
   {
     "at": "00:16:18.510",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DOLLY CHING\n\nBank of Hawaii",
     "keyed-information": {
@@ -212,8 +212,8 @@
   },
   {
     "at": "00:16:54.279",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ALLAN KITAGAWA\n\nTerritorial Savings Chairman",
     "keyed-information": {
@@ -226,8 +226,8 @@
   },
   {
     "at": "00:17:10.763",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN TUTTLE\n\nPolitical Analyst",
     "keyed-information": {
@@ -240,8 +240,8 @@
   },
   {
     "at": "00:17:32.518",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NINA BERGLUND\n\nElection Live",
     "keyed-information": {
@@ -254,8 +254,8 @@
   },
   {
     "at": "00:17:46.899",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BETTE TATUM\n\nNational Federation of \n\nIndependent Business",
     "keyed-information": {
@@ -268,8 +268,8 @@
   },
   {
     "at": "00:18:26.004",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SAM SLOM\n\nPaychecks Hawaii",
     "keyed-information": {
@@ -282,8 +282,8 @@
   },
   {
     "at": "00:19:01.006",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NINA BERGLUND\n\nELECTION LIVE",
     "keyed-information": {
@@ -296,8 +296,8 @@
   },
   {
     "at": "00:20:46.278",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NINA BERGLUND\n\nELECTION LIVE",
     "keyed-information": {
@@ -310,8 +310,8 @@
   },
   {
     "at": "00:22:32.751",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
     "keyed-information": {
@@ -324,8 +324,8 @@
   },
   {
     "at": "00:22:41.393",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARY BITTERMAN (D)\n\n1st Congressional Candidate",
     "keyed-information": {
@@ -336,8 +336,8 @@
   },
   {
     "at": "00:23:18.263",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAT SAIKI (R)\n\nU.S. Representative",
     "keyed-information": {
@@ -350,8 +350,8 @@
   },
   {
     "at": "00:23:38.750",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARY BITTERMAN (D)\n\n1st Congressional Candidate",
     "keyed-information": {
@@ -362,8 +362,8 @@
   },
   {
     "at": "00:24:02.507",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BLASE HARRIS (L)\n\n1st Congressional Candidate",
     "keyed-information": {
@@ -376,8 +376,8 @@
   },
   {
     "at": "00:25:01.266",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BLASE HARRIS (L)\n\n1st Congressional Candidate",
     "keyed-information": {
@@ -390,8 +390,8 @@
   },
   {
     "at": "00:25:49.781",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nPolitics Editor\n\nHonolulu Advertiser",
     "keyed-information": {
@@ -405,8 +405,8 @@
   },
   {
     "at": "00:27:15.634",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA\n\nGovernment Bureau Chief\n\nHonolulu Star-Bulletin",
     "keyed-information": {
@@ -420,8 +420,8 @@
   },
   {
     "at": "00:28:41.519",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nPolitics Editor\n\nHonolulu Advertiser",
     "keyed-information": {
@@ -435,8 +435,8 @@
   },
   {
     "at": "00:30:09.274",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA\n\nGovernment Bureau Chief\n\nHonolulu Star-Bulletin",
     "keyed-information": {
@@ -450,8 +450,8 @@
   },
   {
     "at": "00:30:45.777",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nPolitics Editor\n\nHonolulu Advertiser",
     "keyed-information": {
@@ -465,8 +465,8 @@
   },
   {
     "at": "00:31:04.262",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nELECTION LIVE",
     "keyed-information": {

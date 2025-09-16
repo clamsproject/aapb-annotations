@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:39.265",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:04:22.895",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Barahal\n\nPresident\n\nHonolulu Marathon",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:10:28.527",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chuck Sted\n\nPresident\n\nHawaii Pacific Health",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:14:47.887",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lyn Flanigan\n\nHawaii State Bar Association",
     "keyed-information": {
@@ -59,8 +59,8 @@
   },
   {
     "at": "00:18:02.514",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynn Wood\n\nSmall Business Regulatory Review Board",
     "keyed-information": {

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:44.771",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nNewsmakers",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:02:40.026",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KELLY ZANE (D)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:03:35.648",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GREG KNUDSEN (D)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:05:08.274",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROY BENHAM (D)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {
@@ -60,8 +60,8 @@
   },
   {
     "at": "00:13:37.883",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK TERRY (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {
@@ -75,8 +75,8 @@
   },
   {
     "at": "00:14:25.531",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KERRIE (Lane) WOODALL (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {
@@ -90,8 +90,8 @@
   },
   {
     "at": "00:15:14.280",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM STONEBRAKER (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {
@@ -105,8 +105,8 @@
   },
   {
     "at": "00:16:40.899",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MIKE MARQUES (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {
@@ -120,8 +120,8 @@
   },
   {
     "at": "00:17:42.528",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADRIENNE KING (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
     "keyed-information": {

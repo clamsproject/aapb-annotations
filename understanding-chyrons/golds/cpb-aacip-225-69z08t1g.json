@@ -1,8 +1,8 @@
 [
   {
     "at": "00:11:35.895",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Richard Onishi (D)\n\nHouse of Representatives, District 2",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:13:33.779",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Governor John Waihee",
     "keyed-information": {
@@ -27,8 +27,8 @@
   },
   {
     "at": "00:13:50.629",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mayor Frank Fasi",
     "keyed-information": {
@@ -39,8 +39,8 @@
   },
   {
     "at": "00:14:06.645",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Arlene Kim Ellis\n\nPresident, League of Women Voters",
     "keyed-information": {
@@ -53,8 +53,8 @@
   },
   {
     "at": "00:15:21.253",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. James Mak\n\nEconomics Chair, UH-Manoa",
     "keyed-information": {
@@ -67,8 +67,8 @@
   },
   {
     "at": "00:16:42.134",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Russell Kokubun (D)",
     "keyed-information": {
@@ -79,8 +79,8 @@
   },
   {
     "at": "00:17:20.406",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stephen Yamashiro (D)",
     "keyed-information": {
@@ -91,8 +91,8 @@
   },
   {
     "at": "00:19:27.266",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wendell Kaehuaea (R)",
     "keyed-information": {
@@ -103,8 +103,8 @@
   },
   {
     "at": "00:19:54.393",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lorraine Inouye (D)",
     "keyed-information": {

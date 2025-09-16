@@ -1,0 +1,320 @@
+[
+  {
+    "at": "00:03:14.394",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Kathy Carruthers\n\n1st Lady",
+    "keyed-information": {
+      "name-as-written": "Kathy Carruthers",
+      "name-normalized": "Carruthers, Kathy",
+      "attributes": [
+        "1st Lady"
+      ]
+    }
+  },
+  {
+    "at": "00:03:44.257",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Marlis Mann\n\nOffice of the Governor",
+    "keyed-information": {
+      "name-as-written": "Dr. Marlis Mann",
+      "name-normalized": "Mann, Marlis",
+      "attributes": [
+        "Office of the Governor"
+      ]
+    }
+  },
+  {
+    "at": "00:05:13.513",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ray Johnston",
+    "keyed-information": {
+      "name-as-written": "Ray Johnston",
+      "name-normalized": "Johnston, Ray",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:06:03.896",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sharon Starr-Morris",
+    "keyed-information": {
+      "name-as-written": "Sharon Starr-Morris",
+      "name-normalized": "Starr-Morris, Sharon",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:08:08.254",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Allbuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Allbuquerque Tribune"
+      ]
+    }
+  },
+  {
+    "at": "00:08:21.501",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Maria Chavez\n\nDir.,  Hispanic Family Ed. Pgm.",
+    "keyed-information": {
+      "name-as-written": "Dr. Maria Chavez",
+      "name-normalized": "Chavez, Maria",
+      "attributes": [
+        "Dir.,  Hispanic Family Ed. Pgm."
+      ]
+    }
+  },
+  {
+    "at": "00:09:16.022",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Guillermina Engelbrecht\n\nCounseling & Family Studies, UNM",
+    "keyed-information": {
+      "name-as-written": "Dr. Guillermina Engelbrecht",
+      "name-normalized": "Engelbrecht, Guillermina",
+      "attributes": [
+        "Counseling & Family Studies, UNM"
+      ]
+    }
+  },
+  {
+    "at": "00:10:16.882",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Guillermina Engelbrecht\n\nCounseling & Family Studies, UNM",
+    "keyed-information": {
+      "name-as-written": "Dr. Guillermina Engelbrecht",
+      "name-normalized": "Engelbrecht, Guillermina",
+      "attributes": [
+        "Counseling & Family Studies, UNM"
+      ]
+    }
+  },
+  {
+    "at": "00:11:14.774",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Maria Chavez\n\nDir.,  Hispanic Family Ed. Pgm.",
+    "keyed-information": {
+      "name-as-written": "Dr. Maria Chavez",
+      "name-normalized": "Chavez, Maria",
+      "attributes": [
+        "Dir.,  Hispanic Family Ed. Pgm."
+      ]
+    }
+  },
+  {
+    "at": "00:12:04.156",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Ginny Allery\n\nS.W. Indian Polytechnic Institute",
+    "keyed-information": {
+      "name-as-written": "Dr. Ginny Allery",
+      "name-normalized": "Allery, Ginny",
+      "attributes": [
+        "S.W. Indian Polytechnic Institute"
+      ]
+    }
+  },
+  {
+    "at": "00:13:36.649",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Ginny Allery\n\nS.W. Indian Polytechnic Institute",
+    "keyed-information": {
+      "name-as-written": "Dr. Ginny Allery",
+      "name-normalized": "Allery, Ginny",
+      "attributes": [
+        "S.W. Indian Polytechnic Institute"
+      ]
+    }
+  },
+  {
+    "at": "00:14:57.263",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Guillermina Engelbrecht\n\nCounseling & Family Studies, UNM",
+    "keyed-information": {
+      "name-as-written": "Dr. Guillermina Engelbrecht",
+      "name-normalized": "Engelbrecht, Guillermina",
+      "attributes": [
+        "Counseling & Family Studies, UNM"
+      ]
+    }
+  },
+  {
+    "at": "00:16:10.269",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Guillermina Engelbrecht\n\nCounseling & Family Studies, UNM",
+    "keyed-information": {
+      "name-as-written": "Dr. Guillermina Engelbrecht",
+      "name-normalized": "Engelbrecht, Guillermina",
+      "attributes": [
+        "Counseling & Family Studies, UNM"
+      ]
+    }
+  },
+  {
+    "at": "00:16:49.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Maria Chavez\n\nDir.,  Hispanic Family Ed. Pgm.",
+    "keyed-information": {
+      "name-as-written": "Dr. Maria Chavez",
+      "name-normalized": "Chavez, Maria",
+      "attributes": [
+        "Dir.,  Hispanic Family Ed. Pgm."
+      ]
+    }
+  },
+  {
+    "at": "00:17:22.775",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Ginny Allery\n\nS.W. Indian Polytechnic Institute",
+    "keyed-information": {
+      "name-as-written": "Dr. Ginny Allery",
+      "name-normalized": "Allery, Ginny",
+      "attributes": [
+        "S.W. Indian Polytechnic Institute"
+      ]
+    }
+  },
+  {
+    "at": "00:19:53.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Maria Chavez\n\nDir.,  Hispanic Family Ed. Pgm.",
+    "keyed-information": {
+      "name-as-written": "Dr. Maria Chavez",
+      "name-normalized": "Chavez, Maria",
+      "attributes": [
+        "Dir.,  Hispanic Family Ed. Pgm."
+      ]
+    }
+  },
+  {
+    "at": "00:21:55.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Guillermina Engelbrecht\n\nCounseling & Family Studies, UNM",
+    "keyed-information": {
+      "name-as-written": "Dr. Guillermina Engelbrecht",
+      "name-normalized": "Engelbrecht, Guillermina",
+      "attributes": [
+        "Counseling & Family Studies, UNM"
+      ]
+    }
+  },
+  {
+    "at": "00:23:29.775",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Ginny Allery\n\nS.W. Indian Polytechnic Institute",
+    "keyed-information": {
+      "name-as-written": "Dr. Ginny Allery",
+      "name-normalized": "Allery, Ginny",
+      "attributes": [
+        "S.W. Indian Polytechnic Institute"
+      ]
+    }
+  },
+  {
+    "at": "00:24:41.880",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Maria Chavez\n\nDir.,  Hispanic Family Ed. Pgm.",
+    "keyed-information": {
+      "name-as-written": "Dr. Maria Chavez",
+      "name-normalized": "Chavez, Maria",
+      "attributes": [
+        "Dir.,  Hispanic Family Ed. Pgm."
+      ]
+    }
+  },
+  {
+    "at": "00:25:54.386",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Guillermina Engelbrecht\n\nCounseling & Family Studies, UNM",
+    "keyed-information": {
+      "name-as-written": "Dr. Guillermina Engelbrecht",
+      "name-normalized": "Engelbrecht, Guillermina",
+      "attributes": [
+        "Counseling & Family Studies, UNM"
+      ]
+    }
+  },
+  {
+    "at": "00:26:16.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Ginny Allery\n\nS.W. Indian Polytechnic Institute",
+    "keyed-information": {
+      "name-as-written": "Dr. Ginny Allery",
+      "name-normalized": "Allery, Ginny",
+      "attributes": [
+        "S.W. Indian Polytechnic Institute"
+      ]
+    }
+  },
+  {
+    "at": "00:27:04.889",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Maria Chavez\n\nDir.,  Hispanic Family Ed. Pgm.",
+    "keyed-information": {
+      "name-as-written": "Dr. Maria Chavez",
+      "name-normalized": "Chavez, Maria",
+      "attributes": [
+        "Dir.,  Hispanic Family Ed. Pgm."
+      ]
+    }
+  },
+  {
+    "at": "00:27:48.767",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Allbuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Allbuquerque Tribune"
+      ]
+    }
+  }
+]

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:06:50.643",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANDREW K. POEPOE\n\nState Representative",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:14:07.012",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN T. USHIJIMA\n\nSenate President",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:21:50.642",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN T. USHIJIMA\n\nSenate President",
     "keyed-information": {
@@ -43,8 +43,8 @@
   },
   {
     "at": "00:25:33.031",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN T. USHIJIMA\n\nSenate President",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:28:17.762",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WADSWORTH YEE\n\nState Senator",
     "keyed-information": {
@@ -71,8 +71,8 @@
   },
   {
     "at": "00:37:46.998",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DUKE T. KAWASAKI\n\nState Senator",
     "keyed-information": {
@@ -85,8 +85,8 @@
   },
   {
     "at": "00:39:18.522",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE R. ARIYOSHI\n\nGovernor",
     "keyed-information": {

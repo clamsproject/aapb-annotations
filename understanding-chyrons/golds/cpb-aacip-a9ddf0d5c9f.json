@@ -1,0 +1,924 @@
+[
+  {
+    "at": "00:05:11.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:05:57.256",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:12.899",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mary Lynn Roper\n\nNews Director, KOAT-TV",
+    "keyed-information": {
+      "name-as-written": "Mary Lynn Roper",
+      "name-normalized": "Roper, Mary Lynn",
+      "attributes": [
+        "News Director, KOAT-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:07:52.138",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:08:29.008",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:09:08.381",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:09:50.890",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Albuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Albuquerque Tribune"
+      ]
+    }
+  },
+  {
+    "at": "00:10:54.887",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:12:25.144",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:13:00.279",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Albuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Albuquerque Tribune"
+      ]
+    }
+  },
+  {
+    "at": "00:13:30.509",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:14:50.890",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:15:22.655",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mary Lynn Roper\n\nNews Director, KOAT-TV",
+    "keyed-information": {
+      "name-as-written": "Mary Lynn Roper",
+      "name-normalized": "Roper, Mary Lynn",
+      "attributes": [
+        "News Director, KOAT-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:15:37.903",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:16:07.132",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:16:34.126",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:17:05.257",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mary Lynn Roper\n\nNews Director, KOAT-TV",
+    "keyed-information": {
+      "name-as-written": "Mary Lynn Roper",
+      "name-normalized": "Roper, Mary Lynn",
+      "attributes": [
+        "News Director, KOAT-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:17:28.781",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:18:16.762",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:18:55.501",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:19:45.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Albuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Albuquerque Tribune"
+      ]
+    }
+  },
+  {
+    "at": "00:20:49.281",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:21:32.024",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:22:01.887",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:22:40.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Albuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Albuquerque Tribune"
+      ]
+    }
+  },
+  {
+    "at": "00:23:06.251",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:23:45.524",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:24:31.636",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:25:13.144",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mary Lynn Roper\n\nNews Director, KOAT-TV",
+    "keyed-information": {
+      "name-as-written": "Mary Lynn Roper",
+      "name-normalized": "Roper, Mary Lynn",
+      "attributes": [
+        "News Director, KOAT-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:25:26.258",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:25:59.024",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:26:25.517",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:27:13.031",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Edward Lujan (R)",
+    "keyed-information": {
+      "name-as-written": "Edward Lujan (R)",
+      "name-normalized": "Lujan, Edward",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:28:15.527",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Schiff (R)",
+    "keyed-information": {
+      "name-as-written": "Steve Schiff (R)",
+      "name-normalized": "Schiff, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:29:04.142",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Budagher (R)",
+    "keyed-information": {
+      "name-as-written": "John Budagher (R)",
+      "name-normalized": "Budagher, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:32:26.644",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Baca (D)",
+    "keyed-information": {
+      "name-as-written": "Jim Baca (D)",
+      "name-normalized": "Baca, Jim",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:33:10.655",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Gallegos (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Gallegos (D)",
+      "name-normalized": "Gallegos, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:33:51.396",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Patricia Madrid (D)",
+    "keyed-information": {
+      "name-as-written": "Patricia Madrid (D)",
+      "name-normalized": "Madrid, Patricia",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:34:55.760",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Alan Reed (D)",
+    "keyed-information": {
+      "name-as-written": "Alan Reed (D)",
+      "name-normalized": "Reed, Alan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:35:45.009",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Manny Garcia (D)",
+    "keyed-information": {
+      "name-as-written": "Manny Garcia (D)",
+      "name-normalized": "Garcia, Manny",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:37:38.022",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Kramer (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Kramer (D)",
+      "name-normalized": "Kramer, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:38:07.885",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Fred Rael (D)",
+    "keyed-information": {
+      "name-as-written": "Fred Rael (D)",
+      "name-normalized": "Rael, Fred",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:39:00.504",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lenton Malry (D)",
+    "keyed-information": {
+      "name-as-written": "Lenton Malry (D)",
+      "name-normalized": "Malry, Lenton",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:40:04.635",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Albuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Albuquerque Tribune"
+      ]
+    }
+  },
+  {
+    "at": "00:40:30.127",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Gallegos (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Gallegos (D)",
+      "name-normalized": "Gallegos, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:41:06.764",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Patricia Madrid (D)",
+    "keyed-information": {
+      "name-as-written": "Patricia Madrid (D)",
+      "name-normalized": "Madrid, Patricia",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:41:57.748",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Alan Reed (D)",
+    "keyed-information": {
+      "name-as-written": "Alan Reed (D)",
+      "name-normalized": "Reed, Alan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:42:32.249",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Manny Garcia (D)",
+    "keyed-information": {
+      "name-as-written": "Manny Garcia (D)",
+      "name-normalized": "Garcia, Manny",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:43:54.131",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Kramer (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Kramer (D)",
+      "name-normalized": "Kramer, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:44:37.374",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Fred Rael (D)",
+    "keyed-information": {
+      "name-as-written": "Fred Rael (D)",
+      "name-normalized": "Rael, Fred",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:45:09.006",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lenton Malry (D)",
+    "keyed-information": {
+      "name-as-written": "Lenton Malry (D)",
+      "name-normalized": "Malry, Lenton",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:45:56.253",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Baca (D)",
+    "keyed-information": {
+      "name-as-written": "Jim Baca (D)",
+      "name-normalized": "Baca, Jim",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:46:25.749",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mary Lynn Roper\n\nNews Director, KOAT-TV",
+    "keyed-information": {
+      "name-as-written": "Mary Lynn Roper",
+      "name-normalized": "Roper, Mary Lynn",
+      "attributes": [
+        "News Director, KOAT-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:46:56.146",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Gallegos (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Gallegos (D)",
+      "name-normalized": "Gallegos, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:47:37.888",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Patricia Madrid (D)",
+    "keyed-information": {
+      "name-as-written": "Patricia Madrid (D)",
+      "name-normalized": "Madrid, Patricia",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:48:34.144",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Alan Reed (D)",
+    "keyed-information": {
+      "name-as-written": "Alan Reed (D)",
+      "name-normalized": "Reed, Alan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:49:10.247",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Manny Garcia (D)",
+    "keyed-information": {
+      "name-as-written": "Manny Garcia (D)",
+      "name-normalized": "Garcia, Manny",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:50:13.276",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Udall (D)",
+    "keyed-information": {
+      "name-as-written": "Tom Udall (D)",
+      "name-normalized": "Udall, Tom",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:51:12.402",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Kramer (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Kramer (D)",
+      "name-normalized": "Kramer, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:51:47.771",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Fred Rael (D)",
+    "keyed-information": {
+      "name-as-written": "Fred Rael (D)",
+      "name-normalized": "Rael, Fred",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:52:31.515",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lenton Malry (D)",
+    "keyed-information": {
+      "name-as-written": "Lenton Malry (D)",
+      "name-normalized": "Malry, Lenton",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:53:33.877",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Baca (D)",
+    "keyed-information": {
+      "name-as-written": "Jim Baca (D)",
+      "name-normalized": "Baca, Jim",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:54:24.261",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Patricia Madrid (D)",
+    "keyed-information": {
+      "name-as-written": "Patricia Madrid (D)",
+      "name-normalized": "Madrid, Patricia",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:54:55.759",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Alan Reed (D)",
+    "keyed-information": {
+      "name-as-written": "Alan Reed (D)",
+      "name-normalized": "Reed, Alan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:55:38.902",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Manny Garcia (D)",
+    "keyed-information": {
+      "name-as-written": "Manny Garcia (D)",
+      "name-normalized": "Garcia, Manny",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:56:10.900",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Udall (D)",
+    "keyed-information": {
+      "name-as-written": "Tom Udall (D)",
+      "name-normalized": "Udall, Tom",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:56:53.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Kramer (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Kramer (D)",
+      "name-normalized": "Kramer, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:57:31.247",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Fred Rael (D)",
+    "keyed-information": {
+      "name-as-written": "Fred Rael (D)",
+      "name-normalized": "Rael, Fred",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:58:12.021",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lenton Malry (D)",
+    "keyed-information": {
+      "name-as-written": "Lenton Malry (D)",
+      "name-normalized": "Malry, Lenton",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:58:59.636",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Baca (D)",
+    "keyed-information": {
+      "name-as-written": "Jim Baca (D)",
+      "name-normalized": "Baca, Jim",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:59:39.509",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Gallegos (D)",
+    "keyed-information": {
+      "name-as-written": "Steve Gallegos (D)",
+      "name-normalized": "Gallegos, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "01:00:27.890",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tim Gallagher\n\nEditor, Albuquerque Tribune",
+    "keyed-information": {
+      "name-as-written": "Tim Gallagher",
+      "name-normalized": "Gallagher, Tim",
+      "attributes": [
+        "Editor, Albuquerque Tribune"
+      ]
+    }
+  },
+  {
+    "at": "01:00:54.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Patricia Madrid (D)",
+    "keyed-information": {
+      "name-as-written": "Patricia Madrid (D)",
+      "name-normalized": "Madrid, Patricia",
+      "attributes": []
+    }
+  },
+  {
+    "at": "01:01:30.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Alan Reed (D)",
+    "keyed-information": {
+      "name-as-written": "Alan Reed (D)",
+      "name-normalized": "Reed, Alan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "01:02:12.128",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Manny Garcia (D)",
+    "keyed-information": {
+      "name-as-written": "Manny Garcia (D)",
+      "name-normalized": "Garcia, Manny",
+      "attributes": []
+    }
+  }
+]

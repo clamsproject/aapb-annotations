@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:47.774",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:04:02.141",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Steve Teruya\n\nPRESIDENT\n\nFINANCE FACTORS",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:12:50.770",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Bob Herkes\n\nHAWAII HOSPITALITY",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:22:04.022",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Mavrothalassitis",
     "keyed-information": null

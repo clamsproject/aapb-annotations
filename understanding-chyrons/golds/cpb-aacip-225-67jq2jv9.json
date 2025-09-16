@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:43.750",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ricky Cassiday\n\nHome Price Researcher",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:16:04.530",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris van Bergeijk\n\nVP Programs\n\nHawaii Community Foundation",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:21:29.655",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Melanie Okazaki\n\nMarketing Manager\n\nMcDonald's",
     "keyed-information": {

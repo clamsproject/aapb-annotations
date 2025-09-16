@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:38.017",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dennis Chapron, R.Ph., M.S.\nAssociate Professor of Pharmacy\nUniversity of Connecticut",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:05:57.023",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Michel Nischan\nChef and Author",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:10:38.137",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Ertle\nHousing Specialist\nDept. of Housing & Urban Development",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:10:59.258",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mary-Starke Wilson",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:12:12.398",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kathryn Freda\nReverse Mortgage Specialist",
     "keyed-information": {
@@ -71,16 +71,16 @@
   },
   {
     "at": "00:12:56.375",
-    "scene-type": "N",
-    "scene-subtype": "",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "www.hud.org",
     "keyed-information": null
   },
   {
     "at": "00:15:05.638",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kenneth Yancey, Jr.\nChief Executive Officer, SCORE",
     "keyed-information": {
@@ -93,8 +93,8 @@
   },
   {
     "at": "00:16:53.512",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Henry May\nSCORE Counselor",
     "keyed-information": {
@@ -107,8 +107,8 @@
   },
   {
     "at": "00:18:28.140",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Lawrence Nowlan\nSculptor\nWindsor, VT",
     "keyed-information": {
@@ -122,8 +122,8 @@
   },
   {
     "at": "00:19:17.756",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Frederic Thomas\nSCORE Counselor",
     "keyed-information": {
@@ -136,8 +136,8 @@
   },
   {
     "at": "00:22:04.890",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Aston Hugh\nTai Chi Instructor",
     "keyed-information": {
@@ -150,8 +150,8 @@
   },
   {
     "at": "00:25:24.890",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Charles Prewitt",
     "keyed-information": {
@@ -162,8 +162,8 @@
   },
   {
     "at": "00:26:35.126",
-    "scene-type": "Y",
-    "scene-subtype": "",
+    "scene-lebal": "Y",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Charles and Virginia Prewitt",
     "keyed-information": null

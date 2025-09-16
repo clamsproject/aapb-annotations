@@ -1,0 +1,86 @@
+[
+  {
+    "at": "00:01:47.907",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Cherry Hart\n\nMayberry Junior High",
+    "keyed-information": {
+      "name-as-written": "Cherry Hart",
+      "name-normalized": "Hart, Cherry",
+      "attributes": [
+        "Mayberry Junior High"
+      ]
+    }
+  },
+  {
+    "at": "00:06:27.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rick Nelson\n\nFairfax High School",
+    "keyed-information": {
+      "name-as-written": "Rick Nelson",
+      "name-normalized": "Nelson, Rick",
+      "attributes": [
+        "Fairfax High School"
+      ]
+    }
+  },
+  {
+    "at": "00:08:14.894",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Terrel Bell\n\nSecretary of Education",
+    "keyed-information": {
+      "name-as-written": "Terrel Bell",
+      "name-normalized": "Bell, Terrel",
+      "attributes": [
+        "Secretary of Education"
+      ]
+    }
+  },
+  {
+    "at": "00:09:02.775",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Albert Shanker\n\nAFT President",
+    "keyed-information": {
+      "name-as-written": "Albert Shanker",
+      "name-normalized": "Shanker, Albert",
+      "attributes": [
+        "AFT President"
+      ]
+    }
+  },
+  {
+    "at": "00:10:57.023",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Willard McGuire\n\nNEA President",
+    "keyed-information": {
+      "name-as-written": "Willard McGuire",
+      "name-normalized": "McGuire, Willard",
+      "attributes": [
+        "NEA President"
+      ]
+    }
+  },
+  {
+    "at": "00:11:22.381",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Albert Shanker\n\nAFT President",
+    "keyed-information": {
+      "name-as-written": "Albert Shanker",
+      "name-normalized": "Shanker, Albert",
+      "attributes": [
+        "AFT President"
+      ]
+    }
+  }
+]

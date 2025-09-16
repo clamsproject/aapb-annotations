@@ -1,0 +1,114 @@
+[
+  {
+    "at": "00:01:41.134",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GWYNETH GAMBLE BOOTH\n\nFront Street Weekly",
+    "keyed-information": {
+      "name-as-written": "GWYNETH GAMBLE BOOTH",
+      "name-normalized": "Booth, Gwyneth Gamble",
+      "attributes": [
+        "Front Street Weekly"
+      ]
+    }
+  },
+  {
+    "at": "00:12:50.002",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JIM SWENSON\n\nFront Street Weekly",
+    "keyed-information": {
+      "name-as-written": "JIM SWENSON",
+      "name-normalized": "Swenson, Jim",
+      "attributes": [
+        "Front Street Weekly"
+      ]
+    }
+  },
+  {
+    "at": "00:14:44.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LAUREL SINGER\n\nCounselor",
+    "keyed-information": {
+      "name-as-written": "LAUREL SINGER",
+      "name-normalized": "Singer, Laurel",
+      "attributes": [
+        "Counselor"
+      ]
+    }
+  },
+  {
+    "at": "00:16:52.378",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PETER LERCH\n\nMgr., Greyhound Bus Co.",
+    "keyed-information": {
+      "name-as-written": "PETER LERCH",
+      "name-normalized": "Lerch, Peter",
+      "attributes": [
+        "Mgr., Greyhound Bus Co."
+      ]
+    }
+  },
+  {
+    "at": "00:20:55.254",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOM ALEXANDER\n\nPublisher",
+    "keyed-information": {
+      "name-as-written": "TOM ALEXANDER",
+      "name-normalized": "Alexander, Tom",
+      "attributes": [
+        "Publisher"
+      ]
+    }
+  },
+  {
+    "at": "00:22:37.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WAYNE BOTTA\n\nNarcotics Detective",
+    "keyed-information": {
+      "name-as-written": "WAYNE BOTTA",
+      "name-normalized": "Botta, Wayne",
+      "attributes": [
+        "Narcotics Detective"
+      ]
+    }
+  },
+  {
+    "at": "00:22:51.403",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PETE SANDROCK\n\nBenton County District Attorney",
+    "keyed-information": {
+      "name-as-written": "PETE SANDROCK",
+      "name-normalized": "Sandrock, Pete",
+      "attributes": [
+        "Benton County District Attorney"
+      ]
+    }
+  },
+  {
+    "at": "00:23:02.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROD MINOTT\n\nFront Street Weekly",
+    "keyed-information": {
+      "name-as-written": "ROD MINOTT",
+      "name-normalized": "Minott, Rod",
+      "attributes": [
+        "Front Street Weekly"
+      ]
+    }
+  }
+]

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:39.132",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:10:32.632",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rick Page\n\nDirector\n\nEastern Region of the Military Defense Commissary System",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:21:40.399",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Robbs\n\nEaster Seals Hawaii",
     "keyed-information": {

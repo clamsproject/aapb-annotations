@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:57.136",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Steve Johnson\n\nKazi Foods",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:09:34.006",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Virginia Easton Smith\n\nUH Agricultural Extension Agent",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:14:41.013",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mark Gilbert\n\nVP\n\nCommercial Data Systems",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:20:17.149",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jane Sawyer\n\nSBA of Honolulu",
     "keyed-information": {

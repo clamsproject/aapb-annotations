@@ -1,0 +1,136 @@
+[
+  {
+    "at": "00:02:02.255",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rita Furst\n\nMURDER VICTIM'S WIFE",
+    "keyed-information": {
+      "name-as-written": "Rita Furst",
+      "name-normalized": "Furst, Rita",
+      "attributes": [
+        "MURDER VICTIM'S WIFE"
+      ]
+    }
+  },
+  {
+    "at": "00:02:35.021",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Goering\n\nLEGAL DIRECTOR, ACLU",
+    "keyed-information": {
+      "name-as-written": "Susan Goering",
+      "name-normalized": "Goering, Susan",
+      "attributes": [
+        "LEGAL DIRECTOR, ACLU"
+      ]
+    }
+  },
+  {
+    "at": "00:07:39.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Stuart Comstock-Gay\n\nEXEC. DIRECTOR, MD. ACLU",
+    "keyed-information": {
+      "name-as-written": "Stuart Comstock-Gay",
+      "name-normalized": "Comstock-Gay, Stuart",
+      "attributes": [
+        "EXEC. DIRECTOR, MD. ACLU"
+      ]
+    }
+  },
+  {
+    "at": "00:08:06.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Arnold J. Hopkins\n\nMD. CORRECTIONS COMMISSIONER",
+    "keyed-information": {
+      "name-as-written": "Arnold J. Hopkins",
+      "name-normalized": "Hopkins, Arnold J. ",
+      "attributes": [
+        "MD. CORRECTIONS COMMISSIONER"
+      ]
+    }
+  },
+  {
+    "at": "00:10:23.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Grassie",
+    "keyed-information": null
+  },
+  {
+    "at": "00:11:12.004",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Chris Shaler\n\nPARENTS AGAINST LEAD",
+    "keyed-information": {
+      "name-as-written": "Chris Shaler",
+      "name-normalized": "Shaler, Chris",
+      "attributes": [
+        "PARENTS AGAINST LEAD"
+      ]
+    }
+  },
+  {
+    "at": "00:17:12.131",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mike Powell\n\nFREDERICK NEWS-POST",
+    "keyed-information": {
+      "name-as-written": "Mike Powell",
+      "name-normalized": "Powell, Mike",
+      "attributes": [
+        "FREDERICK NEWS-POST"
+      ]
+    }
+  },
+  {
+    "at": "00:18:54.133",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Judi Fogel\n\nWFBR RADIO",
+    "keyed-information": {
+      "name-as-written": "Judi Fogel",
+      "name-normalized": "Fogel, Judi",
+      "attributes": [
+        "WFBR RADIO"
+      ]
+    }
+  },
+  {
+    "at": "00:20:58.390",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Judi Fogel\n\nWFBR RADIO",
+    "keyed-information": {
+      "name-as-written": "Judi Fogel",
+      "name-normalized": "Fogel, Judi",
+      "attributes": [
+        "WFBR RADIO"
+      ]
+    }
+  },
+  {
+    "at": "00:23:03.148",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mike Powell\n\nFREDERICK NEWS-POST",
+    "keyed-information": {
+      "name-as-written": "Mike Powell",
+      "name-normalized": "Powell, Mike",
+      "attributes": [
+        "FREDERICK NEWS-POST"
+      ]
+    }
+  }
+]

@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:55.528",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dan Davidson\n\nAFFORDABLE HOUSING TASK FORCE HEAD",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:13:28.007",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Leonard Loventhal\n\nLOAN MANAGER\n\nCENTRAL PACIFIC HOME LOANS",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:21:39.998",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Debbie Parmley\n\nWAIKOLOA LAND COMPANY",
     "keyed-information": {

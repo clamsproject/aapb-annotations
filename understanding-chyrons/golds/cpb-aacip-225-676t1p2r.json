@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:53.633",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "David Carey\n\nCEO\n\nOutrigger",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:09:31.137",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Harvey Shapiro\n\nEconomist",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:15:05.504",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Patrick Oki, CPA, CFE\n\nPartner, Grant Thornton, Honolulu Office",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:20:31.763",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marsha Bemko\n\nProducer\n\nAntiques Road Show",
     "keyed-information": {

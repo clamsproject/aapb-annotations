@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:05.518",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KIT KARBLER",
     "keyed-information": {
@@ -13,8 +13,8 @@
   },
   {
     "at": "00:03:23.770",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHAEL DAVID",
     "keyed-information": {
@@ -25,8 +25,8 @@
   },
   {
     "at": "00:14:28.000",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEVIN BUXTON-KUTCH",
     "keyed-information": {
@@ -37,8 +37,8 @@
   },
   {
     "at": "00:16:31.523",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BLAIR CHOTZINOFF",
     "keyed-information": {
@@ -49,8 +49,8 @@
   },
   {
     "at": "00:18:01.280",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID RYAN",
     "keyed-information": {
@@ -61,8 +61,8 @@
   },
   {
     "at": "00:20:30.896",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRANK JACOBSON\nEXECUTIVE DIRECTOR",
     "keyed-information": {
@@ -75,8 +75,8 @@
   },
   {
     "at": "00:21:19.645",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHY HOTCHNER",
     "keyed-information": {
@@ -87,8 +87,8 @@
   },
   {
     "at": "00:24:14.519",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KIMBERLY ROUSH",
     "keyed-information": {
@@ -99,8 +99,8 @@
   },
   {
     "at": "00:25:54.152",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAULA CARROLL DUGGAN",
     "keyed-information": null

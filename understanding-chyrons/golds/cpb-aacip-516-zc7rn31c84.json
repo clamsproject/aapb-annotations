@@ -1,0 +1,166 @@
+[
+  {
+    "at": "00:04:16.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID PROWITT",
+    "keyed-information": {
+      "name-as-written": "DAVID PROWITT",
+      "name-normalized": "Prowitt, David",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:21.641",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID IFSHIN, Pres.\n\nNAT'L. STUDENT ASSOC.",
+    "keyed-information": {
+      "name-as-written": "DAVID IFSHIN, Pres.",
+      "name-normalized": "Ifshin, David",
+      "attributes": [
+        "NAT'L. STUDENT ASSOC."
+      ]
+    }
+  },
+  {
+    "at": "00:10:11.510",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MITCHELL KRAUSS",
+    "keyed-information": {
+      "name-as-written": "MITCHELL KRAUSS",
+      "name-normalized": "Krauss, Mitchell",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:15:05.905",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "VICTOR K. McELHENY\n\nSCIENCE EDITOR\n\nBOSTON GLOBE",
+    "keyed-information": {
+      "name-as-written": "VICTOR K. McELHENY",
+      "name-normalized": "McElheny, Victor K.",
+      "attributes": [
+        "SCIENCE EDITOR BOSTON GLOBE"
+      ]
+    }
+  },
+  {
+    "at": "00:18:52.531",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. GEORGE WILEY, Dir.\n\nNATIONAL WELFARE RIGHTS",
+    "keyed-information": {
+      "name-as-written": "Dr. GEORGE WILEY, Dir.",
+      "name-normalized": "Wiley, George",
+      "attributes": [
+        "NATIONAL WELFARE RIGHTS"
+      ]
+    }
+  },
+  {
+    "at": "00:25:00.499",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. BERYL BLUE SPRUCE\n\nUNIVERSITY OF MICHIGAN",
+    "keyed-information": {
+      "name-as-written": "Dr. BERYL BLUE SPRUCE",
+      "name-normalized": "Spruce, Beryl Blue",
+      "attributes": [
+        "UNIVERSITY OF MICHIGAN"
+      ]
+    }
+  },
+  {
+    "at": "00:27:25.644",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "VICTOR K. McELHENY\n\nSCIENCE EDITOR\n\nBOSTON GLOBE",
+    "keyed-information": {
+      "name-as-written": "VICTOR K. McELHENY",
+      "name-normalized": "McElheny, Victor K.",
+      "attributes": [
+        "SCIENCE EDITOR BOSTON GLOBE"
+      ]
+    }
+  },
+  {
+    "at": "00:30:49.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. MINA REES\n\nAAAS PRES. ELECT",
+    "keyed-information": {
+      "name-as-written": "Dr. MINA REES",
+      "name-normalized": "Rees, Mina",
+      "attributes": [
+        "AAAS PRES. ELECT"
+      ]
+    }
+  },
+  {
+    "at": "00:37:08.025",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. JEAN E. SIMMONS\n\nUPSALA COLLEGE",
+    "keyed-information": {
+      "name-as-written": "Dr. JEAN E. SIMMONS",
+      "name-normalized": "Simmons, Jean E.",
+      "attributes": [
+        "UPSALA COLLEGE"
+      ]
+    }
+  },
+  {
+    "at": "00:37:30.514",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LOIS K. MILLER\n\nUNIVERSITY OF WISCONSIN",
+    "keyed-information": {
+      "name-as-written": "LOIS K. MILLER",
+      "name-normalized": "Miller, Lois K.",
+      "attributes": [
+        "UNIVERSITY OF WISCONSIN"
+      ]
+    }
+  },
+  {
+    "at": "00:39:10.014",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. MARGARET MEAD\n\nAM. MUSEUM OF NATURAL HISTORY",
+    "keyed-information": {
+      "name-as-written": "Dr. MARGARET MEAD",
+      "name-normalized": "Mead, Margaret",
+      "attributes": [
+        "AM. MUSEUM OF NATURAL HISTORY"
+      ]
+    }
+  },
+  {
+    "at": "00:45:37.000",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. JEAN E. SIMMONS\n\nUPSALA COLLEGE",
+    "keyed-information": {
+      "name-as-written": "Dr. JEAN E. SIMMONS",
+      "name-normalized": "Simmons, Jean E.",
+      "attributes": [
+        "UPSALA COLLEGE"
+      ]
+    }
+  }
+]

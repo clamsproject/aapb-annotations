@@ -1,8 +1,8 @@
 [
   {
     "at": "00:05:01.501",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE TAKANE\n\nHOUSE CLERK",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:06:50.510",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HERMAN LUM\n\nCHIEF JUSTICE\n\nHAWAII SUPREME COURT",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:14:02.641",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HENRY H. PETERS\n\nSPEAKER OF THE HOUSE",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:26:41.132",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HENRY H. PETERS\n\nSPEAKER OF THE HOUSE",
     "keyed-information": {
@@ -58,8 +58,8 @@
   },
   {
     "at": "00:36:09.400",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARSHALL IGE\n\nVICE-SPEAKER\n\nHOUSE",
     "keyed-information": {
@@ -73,8 +73,8 @@
   },
   {
     "at": "00:36:59.650",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARBARA MARUMOTO\n\nMINORITY LEADER",
     "keyed-information": {
@@ -87,8 +87,8 @@
   },
   {
     "at": "00:40:22.386",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARBARA MARUMOTO\n\nMINORITY LEADER",
     "keyed-information": {

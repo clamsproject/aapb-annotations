@@ -1,8 +1,8 @@
 [
   {
     "at": "00:08:07.019",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Vicki Harris\n\nExecutive Director\n\nVanpool Hawaii",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:19:05.277",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Heidi Wild\n\nSpokeswoman\n\nHawaii's Woodshow",
     "keyed-information": {

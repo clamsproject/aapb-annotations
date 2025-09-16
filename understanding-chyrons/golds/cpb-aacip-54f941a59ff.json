@@ -1,0 +1,150 @@
+[
+  {
+    "at": "00:01:58.384",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FORD ROWAN",
+    "keyed-information": {
+      "name-as-written": "FORD ROWAN",
+      "name-normalized": "Rowan, Ford",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:02:29.782",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW MANDERSTAM\n\nITN - CHANNEL 4, GREAT BRITAIN",
+    "keyed-information": {
+      "name-as-written": "ANDREW MANDERSTAM",
+      "name-normalized": "Manderstam, Andrew",
+      "attributes": [
+        "ITN - CHANNEL 4, GREAT BRITAIN"
+      ]
+    }
+  },
+  {
+    "at": "00:02:54.641",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOE SCHLESINGER\n\nCBC, CANADA",
+    "keyed-information": {
+      "name-as-written": "JOE SCHLESINGER",
+      "name-normalized": "Schlesinger, Joe",
+      "attributes": [
+        "CBC, CANADA"
+      ]
+    }
+  },
+  {
+    "at": "00:03:09.656",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "YASUO SUZUKI\n\nTHE YOMIURI SHIMBUN, JAPAN",
+    "keyed-information": {
+      "name-as-written": "YASUO SUZUKI",
+      "name-normalized": "Suzuki, Yasuo",
+      "attributes": [
+        "THE YOMIURI SHIMBUN, JAPAN"
+      ]
+    }
+  },
+  {
+    "at": "00:05:34.400",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JILL JAMIESON",
+    "keyed-information": {
+      "name-as-written": "JILL JAMIESON",
+      "name-normalized": "Jamieson, Jill",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:06:12.638",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL JAMIESON",
+    "keyed-information": {
+      "name-as-written": "BILL JAMIESON",
+      "name-normalized": "Jamieson, Bill",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:33.653",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW MANDERSTAM\n\nITN - CHANNEL 4, GREAT BRITAIN",
+    "keyed-information": {
+      "name-as-written": "ANDREW MANDERSTAM",
+      "name-normalized": "Manderstam, Andrew",
+      "attributes": [
+        "ITN - CHANNEL 4, GREAT BRITAIN"
+      ]
+    }
+  },
+  {
+    "at": "00:14:15.254",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOE SCHLESINGER\n\nCBC, CANADA",
+    "keyed-information": {
+      "name-as-written": "JOE SCHLESINGER",
+      "name-normalized": "Schlesinger, Joe",
+      "attributes": [
+        "CBC, CANADA"
+      ]
+    }
+  },
+  {
+    "at": "00:15:05.905",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW MANDERSTAM\n\nITN - CHANNEL 4, GREAT BRITAIN",
+    "keyed-information": {
+      "name-as-written": "ANDREW MANDERSTAM",
+      "name-normalized": "Manderstam, Andrew",
+      "attributes": [
+        "ITN - CHANNEL 4, GREAT BRITAIN"
+      ]
+    }
+  },
+  {
+    "at": "00:15:59.258",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "YASUO SUZUKI\n\nTHE YOMIURI SHIMBUN, JAPAN",
+    "keyed-information": {
+      "name-as-written": "YASUO SUZUKI",
+      "name-normalized": "Suzuki, Yasuo",
+      "attributes": [
+        "THE YOMIURI SHIMBUN, JAPAN"
+      ]
+    }
+  },
+  {
+    "at": "00:20:46.378",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "YASUO SUZUKI\n\nTHE YOMIURI SHIMBUN, JAPAN",
+    "keyed-information": {
+      "name-as-written": "YASUO SUZUKI",
+      "name-normalized": "Suzuki, Yasuo",
+      "attributes": [
+        "THE YOMIURI SHIMBUN, JAPAN"
+      ]
+    }
+  }
+]

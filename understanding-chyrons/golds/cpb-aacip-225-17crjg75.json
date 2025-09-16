@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:59.265",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gary Siebert\n\nHilton Hawaii",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:09:39.278",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Barbara Stanton\n\nExecutive Director\n\nAARP Hawaii",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:15:02.902",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Eric Tom\n\nCEO\n\nBBITV",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:21:05.530",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Karen Nakamura\n\nCEO\n\nBuilding Industry Association",
     "keyed-information": {

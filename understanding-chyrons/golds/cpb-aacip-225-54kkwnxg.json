@@ -1,8 +1,8 @@
 [
   {
     "at": "00:10:12.144",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Janice Mizuno\n\nOWNER\n\nANIMATION MAGIC",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:15:46.879",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lavina Wong\n\nDIRECTOR OF SPECIAL EVENTS\n\nMACY'S",
     "keyed-information": {
@@ -31,8 +31,8 @@
   },
   {
     "at": "00:22:02.020",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rick Schmit\n\nSTORE MANAGER\n\nNA HOKU",
     "keyed-information": {

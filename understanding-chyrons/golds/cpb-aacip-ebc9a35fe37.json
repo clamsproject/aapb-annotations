@@ -1,8 +1,8 @@
 [
   {
     "at": "00:11:34.026",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SUSAN WILLIAMS",
     "keyed-information": {
@@ -13,8 +13,8 @@
   },
   {
     "at": "00:11:59.018",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "ROBERT MIRABAL",
     "keyed-information": {
@@ -25,8 +25,8 @@
   },
   {
     "at": "00:13:12.525",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BUFFY SAINTE-MARIE",
     "keyed-information": {
@@ -37,8 +37,8 @@
   },
   {
     "at": "00:20:59.891",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOM BEE",
     "keyed-information": {
@@ -49,8 +49,8 @@
   },
   {
     "at": "00:25:30.028",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN TRUDELL",
     "keyed-information": {
@@ -61,8 +61,8 @@
   },
   {
     "at": "00:34:29.000",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT MIRABAL",
     "keyed-information": {
@@ -73,8 +73,8 @@
   },
   {
     "at": "00:41:02.893",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SUSAN WILLIAMS",
     "keyed-information": {
@@ -85,8 +85,8 @@
   },
   {
     "at": "00:46:24.882",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "ROBBY BEE",
     "keyed-information": {

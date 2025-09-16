@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:12.385",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Garibaldi\n\nCEO\n\nHawaii Superferry",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:11:16.008",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Edgy Lee\n\nPacificNetwork.tv",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:17:04.022",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Pezzuto\n\nDean\n\nUH Hilo Pharmacy School",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:22:53.505",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sharon Zambo-Fan\n\nPacific Basin Expo",
     "keyed-information": {

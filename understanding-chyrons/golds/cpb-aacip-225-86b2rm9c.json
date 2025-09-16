@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:07.880",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nate Smith\n\nCEO\n\nOceanic Cablevision",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:10:16.148",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mark Hudson\n\nUSDA Honolulu",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:22:10.128",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Black\n\nHawaii Architect",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:22:56.775",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Amy Blagriff\n\nAmerican Institute Of Architects",
     "keyed-information": {

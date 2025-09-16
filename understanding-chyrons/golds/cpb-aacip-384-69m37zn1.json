@@ -1,0 +1,296 @@
+[
+  {
+    "at": "00:05:12.011",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DEON HARE\n\nSTUDENT BOARD PRESIDENT",
+    "keyed-information": {
+      "name-as-written": "DEON HARE",
+      "name-normalized": "Hare, Deon",
+      "attributes": [
+        "STUDENT BOARD PRESIDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:06:22.014",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DEBORAH ALLEN\n\nTEACHER",
+    "keyed-information": {
+      "name-as-written": "DEBORAH ALLEN",
+      "name-normalized": "Allen, Deborah",
+      "attributes": [
+        "Teacher"
+      ]
+    }
+  },
+  {
+    "at": "00:07:21.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LEONARD PAIGE\n\nSTUDENT",
+    "keyed-information": {
+      "name-as-written": "LEONARD PAIGE",
+      "name-normalized": "Paige, Leonard",
+      "attributes": [
+        "STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:07:39.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LAWANA CLARK\n\nSTUDENT",
+    "keyed-information": {
+      "name-as-written": "LAWANA CLARK",
+      "name-normalized": "Clark, Lawana",
+      "attributes": [
+        "STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:08:05.151",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ACIE BRADFORD\n\nSTUDENT",
+    "keyed-information": {
+      "name-as-written": "ACIE BRADFORD",
+      "name-normalized": "Bradford, Acie",
+      "attributes": [
+        "STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:08:11.390",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANNETTE HUGHES\n\nSTUDENT",
+    "keyed-information": {
+      "name-as-written": "ANNETTE HUGHES",
+      "name-normalized": "Hughes, Annette",
+      "attributes": [
+        "STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:08:41.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ALAN DUBOIS\n\nGENESIS EXEC. DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "ALAN DUBOIS",
+      "name-normalized": "Dubois, Alan",
+      "attributes": [
+        "GENESIS EXEC. DIRECTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:09:46.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GODFREY KOBETS\n\nDE LA SALLE FOUNDER",
+    "keyed-information": {
+      "name-as-written": "GODFREY KOBETS",
+      "name-normalized": "Kobets, Godfrey",
+      "attributes": [
+        "DE LA SALLE FOUNDER"
+      ]
+    }
+  },
+  {
+    "at": "00:10:29.629",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CLARK POWELL \n\nDE LA SALLE PRINCIPAL",
+    "keyed-information": {
+      "name-as-written": "CLARK POWELL ",
+      "name-normalized": "Powell, Clark",
+      "attributes": [
+        "DE LA SALLE PRINCIPAL"
+      ]
+    }
+  },
+  {
+    "at": "00:11:45.905",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DENITA GRAYSON\n\nSTUDENT",
+    "keyed-information": {
+      "name-as-written": "DENITA GRAYSON",
+      "name-normalized": "Grayson, Denita",
+      "attributes": [
+        "STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:12:10.029",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JON HOFFMAN\n\nSTUDENT",
+    "keyed-information": {
+      "name-as-written": "JON HOFFMAN",
+      "name-normalized": "Hoffman, Jon",
+      "attributes": [
+        "STUDENT"
+      ]
+    }
+  },
+  {
+    "at": "00:13:23.002",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARIA SPEARS\n\nDE LA SALLE GRADUATE",
+    "keyed-information": {
+      "name-as-written": "MARIA SPEARS",
+      "name-normalized": "Spears, Maria",
+      "attributes": [
+        "DE LA SALLE GRADUATE"
+      ]
+    }
+  },
+  {
+    "at": "00:13:51.897",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RODNEY WILSON\n\nDE LA SALLE GRADUATE",
+    "keyed-information": {
+      "name-as-written": "RODNEY WILSON",
+      "name-normalized": "Wilson, Rodney",
+      "attributes": [
+        "DE LA SALLE GRADUATE"
+      ]
+    }
+  },
+  {
+    "at": "00:16:15.007",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES DOUGHERTY\n\nDE LA SALLE EXEC. DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "JAMES DOUGHERTY",
+      "name-normalized": "Dougherty, James",
+      "attributes": [
+        "DE LA SALLE EXEC. DIRECTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:23:34.146",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LEE JUDGE\n\nCARTOONIST",
+    "keyed-information": {
+      "name-as-written": "LEE JUDGE",
+      "name-normalized": "Judge, Lee",
+      "attributes": [
+        "CARTOONIST"
+      ]
+    }
+  },
+  {
+    "at": "00:29:42.280",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WAYNE ENSRUD\n\nJazz Painter",
+    "keyed-information": {
+      "name-as-written": "WAYNE ENSRUD",
+      "name-normalized": "Ensrud, Wayne",
+      "attributes": [
+        "Jazz Painter"
+      ]
+    }
+  },
+  {
+    "at": "00:45:58.255",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MIKE FARMER\n\nSports Therapist",
+    "keyed-information": {
+      "name-as-written": "MIKE FARMER",
+      "name-normalized": "Farmer, Mike",
+      "attributes": [
+        "Sports Therapist"
+      ]
+    }
+  },
+  {
+    "at": "00:48:58.268",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BOB PFANMILLER\n\nRESTAURANT OWNER",
+    "keyed-information": {
+      "name-as-written": "BOB PFANMILLER",
+      "name-normalized": "Pfanmiller, Bob",
+      "attributes": [
+        "RESTAURANT OWNER"
+      ]
+    }
+  },
+  {
+    "at": "00:49:07.377",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT POREMBSKI\n\nDISTRIBUTOR",
+    "keyed-information": {
+      "name-as-written": "ROBERT POREMBSKI",
+      "name-normalized": "Porembski, Robert",
+      "attributes": [
+        "DISTRIBUTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:50:38.268",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SAM CAVALLARO \n\nARCADE OWNER",
+    "keyed-information": {
+      "name-as-written": "SAM CAVALLARO ",
+      "name-normalized": "Cavallaro, Sam",
+      "attributes": [
+        "ARCADE OWNER"
+      ]
+    }
+  },
+  {
+    "at": "00:53:31.508",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOM DEER\n\nPLAYER",
+    "keyed-information": {
+      "name-as-written": "TOM DEER",
+      "name-normalized": "Deer, Tom",
+      "attributes": [
+        "PLAYER"
+      ]
+    }
+  }
+]

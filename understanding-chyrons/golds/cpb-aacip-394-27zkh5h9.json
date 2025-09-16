@@ -1,0 +1,145 @@
+[
+  {
+    "at": "00:02:59.379",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Santissa Inman",
+    "keyed-information": {
+      "name-as-written": "Santissa Inman",
+      "name-normalized": "Inman, Santissa",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:11.157",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Reginald Inman",
+    "keyed-information": {
+      "name-as-written": "Reginald Inman",
+      "name-normalized": "Inman, Reginald",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:06:56.883",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Frank Raab",
+    "keyed-information": {
+      "name-as-written": "Frank Raab",
+      "name-normalized": "Raab, Frank",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:10:05.771",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bonnett Harris\n\nCaregiver",
+    "keyed-information": {
+      "name-as-written": "Bonnett Harris",
+      "name-normalized": "Harris, Bonnett",
+      "attributes": [
+        "Caregiver"
+      ]
+    }
+  },
+  {
+    "at": "00:10:42.008",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Leola Davis",
+    "keyed-information": {
+      "name-as-written": "Leola Davis",
+      "name-normalized": "Davis, Leola",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:11:11.637",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Deborah Veystrk\n\nBaltimore County\n\nDepartment of Social Services",
+    "keyed-information": {
+      "name-as-written": "Deborah Veystrk",
+      "name-normalized": "Veystrk, Deborah",
+      "attributes": [
+        "Baltimore County",
+        "Department of Social Services"
+      ]
+    }
+  },
+  {
+    "at": "00:12:02.888",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Yvonne Batson\n\nDeputy Director\n\nAdult Services, DHR",
+    "keyed-information": {
+      "name-as-written": "Yvonne Batson",
+      "name-normalized": "Batson, Yvonne",
+      "attributes": [
+        "Deputy Director ",
+        "Adult Services, DHR"
+      ]
+    }
+  },
+  {
+    "at": "00:16:09.635",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Viola Wirts",
+    "keyed-information": {
+      "name-as-written": "Viola Wirts",
+      "name-normalized": "Wirts, Viola",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:18:23.502",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sarah Hill",
+    "keyed-information": {
+      "name-as-written": "Sarah Hill",
+      "name-normalized": "Hill, Sarah",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:21:59.251",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mildred Gee\n\nManager\n\nSpecial Project Unit, DHR",
+    "keyed-information": {
+      "name-as-written": "Mildred Gee",
+      "name-normalized": "Gee, Mildred",
+      "attributes": [
+        "Manager",
+        "Special Projects Unit, DHR"
+      ]
+    }
+  },
+  {
+    "at": "00:22:57.876",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Arnetta Johnson",
+    "keyed-information": {
+      "name-as-written": "Arnetta Johnson",
+      "name-normalized": "Johnson, Arnetta",
+      "attributes": []
+    }
+  }
+]

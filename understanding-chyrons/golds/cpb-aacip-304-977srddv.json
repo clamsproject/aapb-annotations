@@ -1,0 +1,282 @@
+[
+  {
+    "at": "00:02:36.523",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Alex Denis\n\nReporting",
+    "keyed-information": {
+      "name-as-written": "Alex Denis",
+      "name-normalized": "Denis, Alex",
+      "attributes": [
+        "Reporting"
+      ]
+    }
+  },
+  {
+    "at": "00:06:08.401",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Traci Stephens\n\nSingle Parent",
+    "keyed-information": {
+      "name-as-written": "Traci Stephens",
+      "name-normalized": "Stephens, Traci",
+      "attributes": [
+        "Single Parent"
+      ]
+    }
+  },
+  {
+    "at": "00:06:15.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Shannon Legrand\n\nReporting",
+    "keyed-information": {
+      "name-as-written": "Shannon Legrand",
+      "name-normalized": "Legrand, Shannon",
+      "attributes": [
+        "Reporting"
+      ]
+    }
+  },
+  {
+    "at": "00:06:58.518",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Sondra Fogel\n\nUSF Professor",
+    "keyed-information": {
+      "name-as-written": "Dr. Sondra Fogel",
+      "name-normalized": "Fogel, Sondra",
+      "attributes": [
+        "USF Professor"
+      ]
+    }
+  },
+  {
+    "at": "00:09:05.011",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lashawn Courelley\n\nSingle Parent",
+    "keyed-information": {
+      "name-as-written": "Lashawn Courelley",
+      "name-normalized": "Courelley, Lashawn",
+      "attributes": [
+        "Single Parent"
+      ]
+    }
+  },
+  {
+    "at": "00:09:42.381",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Melvin Courelley\n\nFourth Grader",
+    "keyed-information": {
+      "name-as-written": "Melvin Courelley",
+      "name-normalized": "Courelley, Melvin",
+      "attributes": [
+        "Fourth Grader"
+      ]
+    }
+  },
+  {
+    "at": "00:10:47.880",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jonathan Barlar\n\nAssistant Principal",
+    "keyed-information": {
+      "name-as-written": "Jonathan Barlar",
+      "name-normalized": "Barlar, Jonathan",
+      "attributes": [
+        "Assistant Principal"
+      ]
+    }
+  },
+  {
+    "at": "00:11:43.002",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lisa Brown\n\nMelvin's Teacher",
+    "keyed-information": {
+      "name-as-written": "Lisa Brown",
+      "name-normalized": "Brown, Lisa",
+      "attributes": [
+        "Melvin's Teacher"
+      ]
+    }
+  },
+  {
+    "at": "00:13:31.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jessica Lulgjuraj\n\nReporting",
+    "keyed-information": {
+      "name-as-written": "Jessica Lulgjuraj",
+      "name-normalized": "Lulgjuraj, Jessica",
+      "attributes": [
+        "Reporting"
+      ]
+    }
+  },
+  {
+    "at": "00:13:49.762",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. Bruce Wright\n\nHomeless Advocate",
+    "keyed-information": {
+      "name-as-written": "Rev. Bruce Wright",
+      "name-normalized": "Wright, Bruce",
+      "attributes": [
+        "Homeless Advocate"
+      ]
+    }
+  },
+  {
+    "at": "00:15:05.004",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rhonda Abbott\n\nDirector of Social Services",
+    "keyed-information": {
+      "name-as-written": "Rhonda Abbott",
+      "name-normalized": "Abbott, Rhonda",
+      "attributes": [
+        "Director of Social Services"
+      ]
+    }
+  },
+  {
+    "at": "00:16:16.508",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gregory Rolle\n\nOvercame Homelessness",
+    "keyed-information": {
+      "name-as-written": "Gregory Rolle",
+      "name-normalized": "Rolle, Gregory",
+      "attributes": [
+        "Overcame Homelessness"
+      ]
+    }
+  },
+  {
+    "at": "00:18:53.999",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Linda Huffins\n\nHomeless",
+    "keyed-information": {
+      "name-as-written": "Linda Huffins",
+      "name-normalized": "Huffins, Linda",
+      "attributes": [
+        "Homeless"
+      ]
+    }
+  },
+  {
+    "at": "00:19:25.631",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Corey Dunbar\n\nUSF Student",
+    "keyed-information": {
+      "name-as-written": "Corey Dunbar",
+      "name-normalized": "Dunbar, Corey",
+      "attributes": [
+        "USF Student"
+      ]
+    }
+  },
+  {
+    "at": "00:20:33.031",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Deanne Buchholtz\n\nReporting",
+    "keyed-information": {
+      "name-as-written": "Deanne Buchholtz",
+      "name-normalized": "Buchholtz, Deanne",
+      "attributes": [
+        "Reporting"
+      ]
+    }
+  },
+  {
+    "at": "00:22:23.375",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dorthy Weber\n\nRetiree",
+    "keyed-information": {
+      "name-as-written": "Dorthy Weber",
+      "name-normalized": "Weber, Dorthy",
+      "attributes": [
+        "Retiree"
+      ]
+    }
+  },
+  {
+    "at": "00:22:45.130",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Marion Masterson\n\nRetiree",
+    "keyed-information": {
+      "name-as-written": "Marion Masterson",
+      "name-normalized": "Masterson, Marion",
+      "attributes": [
+        "Retiree"
+      ]
+    }
+  },
+  {
+    "at": "00:23:14.259",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rodney Johnson\n\nPresident HS Dent Publishing",
+    "keyed-information": {
+      "name-as-written": "Rodney Johnson",
+      "name-normalized": "Johnson, Rodney",
+      "attributes": [
+        "President HS Dent Publishing"
+      ]
+    }
+  },
+  {
+    "at": "00:23:42.154",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dan Willis\n\nConstruction Worker",
+    "keyed-information": {
+      "name-as-written": "Dan Willis",
+      "name-normalized": "Willis, Dan",
+      "attributes": [
+        "Construction Worker"
+      ]
+    }
+  },
+  {
+    "at": "00:24:25.630",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Maureen Kelly\n\nWest Central Area of Aging Agency",
+    "keyed-information": {
+      "name-as-written": "Maureen Kelly",
+      "name-normalized": "Kelly, Maureen",
+      "attributes": [
+        "West Central Area of Aging Agency"
+      ]
+    }
+  }
+]

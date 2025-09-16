@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:36.763",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nNewsmakers",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:02:29.015",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WHITNEY ANDERSON (R)\n\nState Senate Candidate\n\nDistrict 25 Kailua, Waimanalo",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:05:12.779",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRED HEMMINGS (R)\n\nState Senate Candidate\n\nDistrict 25 Kailua, Waimanalo",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:15:33.766",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ALEX SONSON (D)\n\nState Rep. Candidate\n\nDistrict 36 Pearl City, Waipahu",
     "keyed-information": {
@@ -60,8 +60,8 @@
   },
   {
     "at": "00:16:25.651",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROY TAKUMI (D)\n\nState Rep. Candidate\n\nDistrict 36 Pearl City, Waipahu",
     "keyed-information": {

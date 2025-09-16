@@ -1,0 +1,86 @@
+[
+  {
+    "at": "00:15:11.143",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "VIVIAN WASHINGTON\n\nPARENTING COUNSELOR",
+    "keyed-information": {
+      "name-as-written": "VIVIAN WASHINGTON",
+      "name-normalized": "Washington, Vivian",
+      "attributes": [
+        "PARENTING COUNSELOR"
+      ]
+    }
+  },
+  {
+    "at": "00:16:23.382",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. ANNA ROSENBERG\n\nPSYCHOLOGIST",
+    "keyed-information": {
+      "name-as-written": "DR. ANNA ROSENBERG",
+      "name-normalized": "Rosenberg, Anna",
+      "attributes": [
+        "PSYCHOLOGIST"
+      ]
+    }
+  },
+  {
+    "at": "00:18:24.770",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. SUSAN WALEN\n\nPSYCHOLOGIST",
+    "keyed-information": {
+      "name-as-written": "DR. SUSAN WALEN",
+      "name-normalized": "Walen, Susan",
+      "attributes": [
+        "PSYCHOLOGIST"
+      ]
+    }
+  },
+  {
+    "at": "00:20:10.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "VIRGINIA RHODES NUTA\n\nSINGLE PARENT MAGAZINE",
+    "keyed-information": {
+      "name-as-written": "VIRGINIA RHODES NUTA",
+      "name-normalized": "Nuta, Virginia Rhodes",
+      "attributes": [
+        "SINGLE PARENT MAGAZINE"
+      ]
+    }
+  },
+  {
+    "at": "00:25:39.404",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "VIRGINIA RHODES NUTA\n\nSINGLE PARENT MAGAZINE",
+    "keyed-information": {
+      "name-as-written": "VIRGINIA RHODES NUTA",
+      "name-normalized": "Nuta, Virginia Rhodes",
+      "attributes": [
+        "SINGLE PARENT MAGAZINE"
+      ]
+    }
+  },
+  {
+    "at": "00:26:19.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANNA AUKAMP\n\nDEPT. OF HUMAN RESOURCES",
+    "keyed-information": {
+      "name-as-written": "ANNA AUKAMP",
+      "name-normalized": "Aukamp, Anna",
+      "attributes": [
+        "DEPT. OF HUMAN RESOURCES"
+      ]
+    }
+  }
+]

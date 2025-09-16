@@ -1,0 +1,278 @@
+[
+  {
+    "at": "00:02:26.012",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sen. GEORGE KINLEY\n\nD Majority Leader",
+    "keyed-information": {
+      "name-as-written": "Sen. GEORGE KINLEY",
+      "name-normalized": "Kinley, George",
+      "attributes": [
+        "D Majority Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:05:01.134",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN HAMMER\n\nDes Moines",
+    "keyed-information": {
+      "name-as-written": "JOHN HAMMER",
+      "name-normalized": "Hammer, John",
+      "attributes": [
+        "Des Moines"
+      ]
+    }
+  },
+  {
+    "at": "00:05:13.513",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GUY GRAHAM\n\nPleasantville, Ia.",
+    "keyed-information": {
+      "name-as-written": "GUY GRAHAM",
+      "name-normalized": "Graham, Guy",
+      "attributes": [
+        "Pleasantville, Ia."
+      ]
+    }
+  },
+  {
+    "at": "00:05:25.758",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BOB VANZEE\n\nPleasantville, Ia.",
+    "keyed-information": {
+      "name-as-written": "BOB VANZEE",
+      "name-normalized": "Vanzee, Bob",
+      "attributes": [
+        "Pleasantville, Ia."
+      ]
+    }
+  },
+  {
+    "at": "00:05:48.147",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RANDALL SMITH\n\nPleasantville, Ia.",
+    "keyed-information": {
+      "name-as-written": "RANDALL SMITH",
+      "name-normalized": "Smith, Randall",
+      "attributes": [
+        "Pleasantville, Ia."
+      ]
+    }
+  },
+  {
+    "at": "00:08:47.260",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. ROBERT HENDERSON\n\nIndependence Mental Health Inst.",
+    "keyed-information": {
+      "name-as-written": "DR. ROBERT HENDERSON",
+      "name-normalized": "Henderson, Robert",
+      "attributes": [
+        "Independence Mental Health Inst."
+      ]
+    }
+  },
+  {
+    "at": "00:15:10.376",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KENNETH FULK, Sec.\n\nIowa State Fair",
+    "keyed-information": {
+      "name-as-written": "KENNETH FULK, Sec.",
+      "name-normalized": "Fulk, Kenneth",
+      "attributes": [
+        "Iowa State Fair"
+      ]
+    }
+  },
+  {
+    "at": "00:15:43.008",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID WHITED\n\nJockey",
+    "keyed-information": {
+      "name-as-written": "DAVID WHITED",
+      "name-normalized": "Whited, David",
+      "attributes": [
+        "Jockey"
+      ]
+    }
+  },
+  {
+    "at": "00:16:06.031",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MICHAEL KURTH",
+    "keyed-information": {
+      "name-as-written": "MICHAEL KURTH",
+      "name-normalized": "Kurth, Michael",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:16:28.020",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KENNETH FULK, Sec.\n\nIowa State Fair",
+    "keyed-information": {
+      "name-as-written": "KENNETH FULK, Sec.",
+      "name-normalized": "Fulk, Kenneth",
+      "attributes": [
+        "Iowa State Fair"
+      ]
+    }
+  },
+  {
+    "at": "00:16:38.397",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID WHITED\n\nJockey",
+    "keyed-information": {
+      "name-as-written": "DAVID WHITED",
+      "name-normalized": "Whited, David",
+      "attributes": [
+        "Jockey"
+      ]
+    }
+  },
+  {
+    "at": "00:17:05.758",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KENNETH FULK, Sec.\n\nIowa State Fair",
+    "keyed-information": {
+      "name-as-written": "KENNETH FULK, Sec.",
+      "name-normalized": "Fulk, Kenneth",
+      "attributes": [
+        "Iowa State Fair"
+      ]
+    }
+  },
+  {
+    "at": "00:17:31.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WAVA KURTH",
+    "keyed-information": {
+      "name-as-written": "WAVA KURTH",
+      "name-normalized": "Kurth, Wava",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:19:47.152",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sen. WILLIAM PLYMAT\n\nR Urbandale",
+    "keyed-information": {
+      "name-as-written": "Sen. WILLIAM PLYMAT",
+      "name-normalized": "Plymat, William",
+      "attributes": [
+        "R Urbandale"
+      ]
+    }
+  },
+  {
+    "at": "00:20:06.905",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sen. GEORGE KINLEY\n\nD Majority Leader",
+    "keyed-information": {
+      "name-as-written": "Sen. GEORGE KINLEY",
+      "name-normalized": "Kinley, George",
+      "attributes": [
+        "D Majority Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:20:57.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HARRY FARNHAM, Chrmn.\n\nNebraska State Racing Comm.",
+    "keyed-information": {
+      "name-as-written": "HARRY FARNHAM, Chrmn.",
+      "name-normalized": "Farnham, Harry",
+      "attributes": [
+        "Nebraska State Racing Comm."
+      ]
+    }
+  },
+  {
+    "at": "00:21:55.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KENNETH FULK, Sec.\n\nIowa State Fair",
+    "keyed-information": {
+      "name-as-written": "KENNETH FULK, Sec.",
+      "name-normalized": "Fulk, Kenneth",
+      "attributes": [
+        "Iowa State Fair"
+      ]
+    }
+  },
+  {
+    "at": "00:22:58.877",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sen. GEORGE KINLEY\n\nD Majority Leader",
+    "keyed-information": {
+      "name-as-written": "Sen. GEORGE KINLEY",
+      "name-normalized": "Kinley, George",
+      "attributes": [
+        "D Majority Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:23:19.631",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KENNETH FULK, Sec.\n\nIowa State Fair",
+    "keyed-information": {
+      "name-as-written": "KENNETH FULK, Sec.",
+      "name-normalized": "Fulk, Kenneth",
+      "attributes": [
+        "Iowa State Fair"
+      ]
+    }
+  },
+  {
+    "at": "00:23:42.888",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HARRY FARNHAM, Chrmn.\n\nNebraska State Racing Comm.",
+    "keyed-information": {
+      "name-as-written": "HARRY FARNHAM, Chrmn.",
+      "name-normalized": "Farnham, Harry",
+      "attributes": [
+        "Nebraska State Racing Comm."
+      ]
+    }
+  }
+]

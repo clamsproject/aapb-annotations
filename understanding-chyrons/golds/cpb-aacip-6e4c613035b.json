@@ -1,8 +1,8 @@
 [
   {
     "at": "00:05:57.890",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "L. Kent Wolgamott\nCRITIC",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:11:38.631",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lisa Sweet",
     "keyed-information": {
@@ -27,8 +27,8 @@
   },
   {
     "at": "00:16:39.131",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Russell Carter\nMANAGER",
     "keyed-information": {
@@ -41,8 +41,8 @@
   },
   {
     "at": "00:17:11.397",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lou Maglia\nRECORD EXECUTIVE",
     "keyed-information": {
@@ -55,8 +55,8 @@
   },
   {
     "at": "00:34:04.275",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Russell Carter\nMANAGER",
     "keyed-information": {
@@ -69,8 +69,8 @@
   },
   {
     "at": "00:34:23.761",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "L. Kent Wolgamott\nCRITIC",
     "keyed-information": {
@@ -83,8 +83,8 @@
   },
   {
     "at": "00:45:13.010",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jeff Dodes\nGENERAL MANAGER",
     "keyed-information": {
@@ -97,8 +97,8 @@
   },
   {
     "at": "00:46:32.623",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Caram Constanzo\nRECORDING ENGINEER",
     "keyed-information": {
@@ -111,8 +111,8 @@
   },
   {
     "at": "00:52:37.888",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Andy Fleming\nFEATURE FILM DIRECTOR",
     "keyed-information": {

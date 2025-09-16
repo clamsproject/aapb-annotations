@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:20.893",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Carl Linden\n\nDiagnostic Laboratory Services",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:10:31.897",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mark Batchelor\n\nDirector of Sales & Marketing, Aloha Satellites\n\nwww.alohasatellites.com",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:10:48.014",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joshua Beil\n\nPresident & CEO, Skywave Broadband\n\nwww.skywavebroadband.net",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:21:01.893",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Denise M. Hayashi\n\nDirector of Community Relations\n\nNCL America",
     "keyed-information": {
@@ -60,8 +60,8 @@
   },
   {
     "at": "00:21:56.648",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynne Waters\n\nPrincipal, Lynne Waters Communications",
     "keyed-information": {
@@ -74,8 +74,8 @@
   },
   {
     "at": "00:26:41.132",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
     "keyed-information": {

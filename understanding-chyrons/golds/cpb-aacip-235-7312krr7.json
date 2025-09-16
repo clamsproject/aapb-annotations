@@ -1,0 +1,64 @@
+[
+  {
+    "at": "00:01:21.281",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAY KERTTULA",
+    "keyed-information": {
+      "name-as-written": "JAY KERTTULA",
+      "name-normalized": "Kerttula, Jay",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:24:52.524",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HILARY HILSCHER\n\nAlaska Radio Network",
+    "keyed-information": {
+      "name-as-written": "HILARY HILSCHER",
+      "name-normalized": "Hilscher, Hilary",
+      "attributes": [
+        "Alaska Radio Network"
+      ]
+    }
+  },
+  {
+    "at": "00:28:32.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHANCY CROFT",
+    "keyed-information": {
+      "name-as-written": "CHANCY CROFT",
+      "name-normalized": "Croft, Chancy",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:29:17.756",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ED MERDES",
+    "keyed-information": {
+      "name-as-written": "ED MERDES",
+      "name-normalized": "Merdes, Ed",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:31:05.763",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAY KERTTULA",
+    "keyed-information": {
+      "name-as-written": "JAY KERTTULA",
+      "name-normalized": "Kerttula, Jay",
+      "attributes": []
+    }
+  }
+]

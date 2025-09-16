@@ -1,0 +1,140 @@
+[
+  {
+    "at": "00:02:28.281",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Pete Wehner",
+    "keyed-information": {
+      "name-as-written": "Pete Wehner",
+      "name-normalized": "Wehner, Pete",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:32.879",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Kirinich\n\nPEACE CORPS REPRESENTATIVE",
+    "keyed-information": {
+      "name-as-written": "Susan Kirinich",
+      "name-normalized": "Kirinich, Susan",
+      "attributes": [
+        "PEACE CORPS REPRESENTATIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:04:03.376",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lester Arnold\n\nPEACE CORPS VOLUNTEER",
+    "keyed-information": {
+      "name-as-written": "Lester Arnold",
+      "name-normalized": "Arnold, Lester",
+      "attributes": [
+        "PEACE CORPS VOLUNTEER"
+      ]
+    }
+  },
+  {
+    "at": "00:06:16.142",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Rosen\n\nPEACE CORPS VOLUNTEER",
+    "keyed-information": {
+      "name-as-written": "Susan Rosen",
+      "name-normalized": "Rosen, Susan",
+      "attributes": [
+        "PEACE CORPS VOLUNTEER"
+      ]
+    }
+  },
+  {
+    "at": "00:08:25.004",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Kirinich\n\nPEACE CORPS REPRESENTATIVE",
+    "keyed-information": {
+      "name-as-written": "Susan Kirinich",
+      "name-normalized": "Kirinich, Susan",
+      "attributes": [
+        "PEACE CORPS REPRESENTATIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:13:25.137",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Rosen\n\nPEACE CORPS VOLUNTEER",
+    "keyed-information": {
+      "name-as-written": "Susan Rosen",
+      "name-normalized": "Rosen, Susan",
+      "attributes": [
+        "PEACE CORPS VOLUNTEER"
+      ]
+    }
+  },
+  {
+    "at": "00:16:27.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Kirinich\n\nPEACE CORPS REPRESENTATIVE",
+    "keyed-information": {
+      "name-as-written": "Susan Kirinich",
+      "name-normalized": "Kirinich, Susan",
+      "attributes": [
+        "PEACE CORPS REPRESENTATIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:22:03.889",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Rosen\n\nPEACE CORPS VOLUNTEER",
+    "keyed-information": {
+      "name-as-written": "Susan Rosen",
+      "name-normalized": "Rosen, Susan",
+      "attributes": [
+        "PEACE CORPS VOLUNTEER"
+      ]
+    }
+  },
+  {
+    "at": "00:23:27.406",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lester Arnold\n\nPEACE CORPS VOLUNTEER",
+    "keyed-information": {
+      "name-as-written": "Lester Arnold",
+      "name-normalized": "Arnold, Lester",
+      "attributes": [
+        "PEACE CORPS VOLUNTEER"
+      ]
+    }
+  },
+  {
+    "at": "00:27:31.650",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Kirinich\n\nPEACE CORPS REPRESENTATIVE",
+    "keyed-information": {
+      "name-as-written": "Susan Kirinich",
+      "name-normalized": "Kirinich, Susan",
+      "attributes": [
+        "PEACE CORPS REPRESENTATIVE"
+      ]
+    }
+  }
+]

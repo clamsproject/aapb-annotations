@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:32.759",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KELLI ABE\n\nTRIFONOVITCH\n\nHawaii Public Television",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:24:05.777",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WAIHEE\n\nGovernor",
     "keyed-information": {

@@ -1,0 +1,148 @@
+[
+  {
+    "at": "00:01:15.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GOV. MARVIN MANDEL",
+    "keyed-information": {
+      "name-as-written": "GOV. MARVIN MANDEL",
+      "name-normalized": "Mandel, Marvin",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:02:44.030",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. WILLIAM GILL \n\nDEPUTY DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "DR. WILLIAM GILL ",
+      "name-normalized": "Gill, William",
+      "attributes": [
+        "DEPUTY DIRECTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:26:13.505",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. WILLIAM GILL \n\nDEPUTY DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "DR. WILLIAM GILL ",
+      "name-normalized": "Gill, William",
+      "attributes": [
+        "DEPUTY DIRECTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:29:44.749",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. HOWARD CHAMPION",
+    "keyed-information": {
+      "name-as-written": "DR. HOWARD CHAMPION",
+      "name-normalized": "Champion, Howard",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:30:33.131",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JUDITH LOWER\n\nNURSE",
+    "keyed-information": {
+      "name-as-written": "JUDITH LOWER",
+      "name-normalized": "Lower, Judith",
+      "attributes": [
+        "NURSE"
+      ]
+    }
+  },
+  {
+    "at": "00:31:17.775",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOANN LEE\n\nNURSE",
+    "keyed-information": {
+      "name-as-written": "JOANN LEE",
+      "name-normalized": "Lee, Joann",
+      "attributes": [
+        "NURSE"
+      ]
+    }
+  },
+  {
+    "at": "00:31:52.277",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. HOWARD CHAMPION",
+    "keyed-information": {
+      "name-as-written": "DR. HOWARD CHAMPION",
+      "name-normalized": "Champion, Howard",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:33:24.002",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOAN FRANZ\n\nNURSE",
+    "keyed-information": {
+      "name-as-written": "JOAN FRANZ",
+      "name-normalized": "Franz, Joan",
+      "attributes": [
+        "NURSE"
+      ]
+    }
+  },
+  {
+    "at": "00:38:38.249",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARIA CANGELOSI\n\nNURSE",
+    "keyed-information": {
+      "name-as-written": "MARIA CANGELOSI",
+      "name-normalized": "Cangelosi, Maria",
+      "attributes": [
+        "NURSE"
+      ]
+    }
+  },
+  {
+    "at": "00:42:00.017",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MR. JAMES WINSTON\n\nPATIENT",
+    "keyed-information": {
+      "name-as-written": "MR. JAMES WINSTON",
+      "name-normalized": "Winston, James",
+      "attributes": [
+        "PATIENT"
+      ]
+    }
+  },
+  {
+    "at": "00:49:21.758",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GOV. MARVIN MANDEL",
+    "keyed-information": {
+      "name-as-written": "GOV. MARVIN MANDEL",
+      "name-normalized": "Mandel, Marvin",
+      "attributes": []
+    }
+  }
+]

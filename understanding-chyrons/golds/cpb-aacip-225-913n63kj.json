@@ -1,8 +1,8 @@
 [
   {
     "at": "00:03:18.131",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -13,8 +13,8 @@
   },
   {
     "at": "00:04:30.270",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEITH KANESHIRO",
     "keyed-information": {
@@ -25,8 +25,8 @@
   },
   {
     "at": "00:05:27.026",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -37,8 +37,8 @@
   },
   {
     "at": "00:07:03.022",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA",
     "keyed-information": {
@@ -49,8 +49,8 @@
   },
   {
     "at": "00:07:26.012",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -61,8 +61,8 @@
   },
   {
     "at": "00:08:57.770",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BART FREDO",
     "keyed-information": {
@@ -73,8 +73,8 @@
   },
   {
     "at": "00:09:23.129",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEITH KANESHIRO",
     "keyed-information": {
@@ -85,8 +85,8 @@
   },
   {
     "at": "00:10:43.275",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM",
     "keyed-information": {
@@ -97,8 +97,8 @@
   },
   {
     "at": "00:10:54.887",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -109,8 +109,8 @@
   },
   {
     "at": "00:13:07.386",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -121,8 +121,8 @@
   },
   {
     "at": "00:13:25.504",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEITH KANESHIRO",
     "keyed-information": {
@@ -133,8 +133,8 @@
   },
   {
     "at": "00:13:55.134",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -145,8 +145,8 @@
   },
   {
     "at": "00:14:39.511",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA",
     "keyed-information": {
@@ -157,8 +157,8 @@
   },
   {
     "at": "00:14:59.131",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEITH KANESHIRO",
     "keyed-information": {
@@ -169,8 +169,8 @@
   },
   {
     "at": "00:16:11.003",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BART FREDO",
     "keyed-information": {
@@ -181,8 +181,8 @@
   },
   {
     "at": "00:16:38.030",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -193,8 +193,8 @@
   },
   {
     "at": "00:18:04.883",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM",
     "keyed-information": {
@@ -205,8 +205,8 @@
   },
   {
     "at": "00:18:18.530",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -217,8 +217,8 @@
   },
   {
     "at": "00:20:15.647",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -229,8 +229,8 @@
   },
   {
     "at": "00:20:51.149",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -241,8 +241,8 @@
   },
   {
     "at": "00:21:31.390",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA",
     "keyed-information": {
@@ -253,8 +253,8 @@
   },
   {
     "at": "00:23:29.274",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BART FREDO",
     "keyed-information": {
@@ -265,8 +265,8 @@
   },
   {
     "at": "00:24:35.140",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM",
     "keyed-information": {
@@ -277,8 +277,8 @@
   },
   {
     "at": "00:26:14.639",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -289,8 +289,8 @@
   },
   {
     "at": "00:26:51.142",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -301,8 +301,8 @@
   },
   {
     "at": "00:37:54.405",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -313,8 +313,8 @@
   },
   {
     "at": "00:43:07.885",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEITH KANESHIRO",
     "keyed-information": {
@@ -325,8 +325,8 @@
   },
   {
     "at": "00:48:04.381",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -337,8 +337,8 @@
   },
   {
     "at": "00:53:22.132",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES MARSLAND",
     "keyed-information": {
@@ -349,8 +349,8 @@
   },
   {
     "at": "00:54:33.270",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEITH KANESHIRO",
     "keyed-information": {
@@ -361,8 +361,8 @@
   },
   {
     "at": "00:55:33.897",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE SAPIENZA",
     "keyed-information": {
@@ -373,8 +373,8 @@
   },
   {
     "at": "00:56:40.497",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nHawaii Public\n\nTelevision",
     "keyed-information": {

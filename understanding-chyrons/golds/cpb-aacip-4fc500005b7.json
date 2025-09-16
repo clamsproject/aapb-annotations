@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:55.515",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE BARNES\nHost",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:02:52.639",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:04:13.653",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF HANKINS\nArkansas Business",
     "keyed-information": {
@@ -43,8 +43,8 @@
   },
   {
     "at": "00:05:25.391",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas News Bureau",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:06:15.875",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas News Bureau",
     "keyed-information": {
@@ -71,8 +71,8 @@
   },
   {
     "at": "00:06:44.504",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY BARTH\nHendrix, Dept. of Politics",
     "keyed-information": {
@@ -85,8 +85,8 @@
   },
   {
     "at": "00:07:17.904",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -99,8 +99,8 @@
   },
   {
     "at": "00:07:44.764",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "JAY BARTH\nHendrix, Dept. of Politics",
     "keyed-information": {
@@ -113,8 +113,8 @@
   },
   {
     "at": "00:08:08.521",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF HANKINS\nArkansas Business",
     "keyed-information": {
@@ -127,8 +127,8 @@
   },
   {
     "at": "00:09:11.751",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -141,8 +141,8 @@
   },
   {
     "at": "00:10:47.380",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas News Business",
     "keyed-information": {
@@ -155,8 +155,8 @@
   },
   {
     "at": "00:12:13.766",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY BARTH\nHendrix, Dept. of Politics",
     "keyed-information": {
@@ -169,8 +169,8 @@
   },
   {
     "at": "00:12:49.268",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -183,8 +183,8 @@
   },
   {
     "at": "00:12:57.376",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -197,8 +197,8 @@
   },
   {
     "at": "00:13:21.267",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -211,8 +211,8 @@
   },
   {
     "at": "00:14:13.652",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF HANKINS\nArkansas Business",
     "keyed-information": {
@@ -225,8 +225,8 @@
   },
   {
     "at": "00:15:01.000",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -239,8 +239,8 @@
   },
   {
     "at": "00:16:12.905",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF HANKINS\nArkansas Business",
     "keyed-information": {
@@ -253,8 +253,8 @@
   },
   {
     "at": "00:16:55.014",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -267,8 +267,8 @@
   },
   {
     "at": "00:17:22.508",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -281,8 +281,8 @@
   },
   {
     "at": "00:17:56.775",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF HANKINS\nArkansas Business",
     "keyed-information": {
@@ -295,8 +295,8 @@
   },
   {
     "at": "00:18:19.765",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -309,8 +309,8 @@
   },
   {
     "at": "00:19:07.279",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -323,8 +323,8 @@
   },
   {
     "at": "00:20:00.265",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF HANKINS\nArkansas Business",
     "keyed-information": {
@@ -337,8 +337,8 @@
   },
   {
     "at": "00:20:21.520",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -351,8 +351,8 @@
   },
   {
     "at": "00:20:45.277",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -365,8 +365,8 @@
   },
   {
     "at": "00:20:58.257",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY BARTH\nHendrix, Dept. of Politics",
     "keyed-information": {
@@ -379,8 +379,8 @@
   },
   {
     "at": "00:21:46.905",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -393,8 +393,8 @@
   },
   {
     "at": "00:21:58.250",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY BARTH\nHendrix, Dept. of Politics",
     "keyed-information": {
@@ -407,8 +407,8 @@
   },
   {
     "at": "00:22:10.896",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID SANDERS\nArkansas New Business",
     "keyed-information": {
@@ -421,8 +421,8 @@
   },
   {
     "at": "00:23:06.251",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CAROL GRIFFEE\nIndependent Journalist",
     "keyed-information": {
@@ -435,8 +435,8 @@
   },
   {
     "at": "00:23:14.760",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF HANKINS\nArkansas Business",
     "keyed-information": {

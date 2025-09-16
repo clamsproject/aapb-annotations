@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:42.402",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:03:57.270",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Harvey Shapiro\n\nECONOMIST\n\nHONOLULU BOARD OF REALTORS",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:09:54.026",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Michael Kramer\n\nNATURAL INVESTMENT SERVICES, LLC",
     "keyed-information": {
@@ -44,8 +44,8 @@
   },
   {
     "at": "00:20:22.754",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ed Pei\n\nPRESIDENT\n\nCHINESE CHAMBER OF COMMERCE",
     "keyed-information": {

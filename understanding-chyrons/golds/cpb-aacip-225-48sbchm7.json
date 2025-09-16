@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:37.397",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nHawaii Public Television",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:02:55.875",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:09:41.380",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WITARINA HARRIS",
     "keyed-information": {
@@ -41,8 +41,8 @@
   },
   {
     "at": "00:15:55.254",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WITARINA HARRIS",
     "keyed-information": {
@@ -53,8 +53,8 @@
   },
   {
     "at": "00:17:34.019",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEKUNI BLAISDELL, MD",
     "keyed-information": {
@@ -65,8 +65,8 @@
   },
   {
     "at": "00:18:06.251",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES KENN",
     "keyed-information": {
@@ -77,8 +77,8 @@
   },
   {
     "at": "00:23:24.403",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",
     "keyed-information": {
@@ -91,8 +91,8 @@
   },
   {
     "at": "00:28:04.149",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES KENN",
     "keyed-information": {
@@ -103,8 +103,8 @@
   },
   {
     "at": "00:41:42.766",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WITARINA HARRIS",
     "keyed-information": {
@@ -115,8 +115,8 @@
   },
   {
     "at": "00:42:20.771",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",
     "keyed-information": {
@@ -129,8 +129,8 @@
   },
   {
     "at": "00:47:14.498",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEKUNI BLAISDELL, MD",
     "keyed-information": {
@@ -141,8 +141,8 @@
   },
   {
     "at": "00:47:28.879",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES KENN",
     "keyed-information": {
@@ -153,8 +153,8 @@
   },
   {
     "at": "00:54:46.516",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",
     "keyed-information": {

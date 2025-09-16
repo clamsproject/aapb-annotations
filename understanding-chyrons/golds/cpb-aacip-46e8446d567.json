@@ -1,8 +1,8 @@
 [
   {
     "at": "00:01:13.907",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:01:37.130",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Joseph Souki (D)\n\nHouse Finance Chairman",
     "keyed-information": {
@@ -29,8 +29,8 @@
   },
   {
     "at": "00:02:12.132",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ANN KOBAYASHI (D)\n\nWays & Means Vice Chairman",
     "keyed-information": {
@@ -43,8 +43,8 @@
   },
   {
     "at": "00:04:12.151",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
     "keyed-information": {
@@ -57,8 +57,8 @@
   },
   {
     "at": "00:06:15.007",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Rod Tam (D)\n\nHouse Education Chairman",
     "keyed-information": {
@@ -71,8 +71,8 @@
   },
   {
     "at": "00:06:44.270",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. David Stegmaier (D)",
     "keyed-information": {
@@ -83,8 +83,8 @@
   },
   {
     "at": "00:07:17.637",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Ed Bybee (D)",
     "keyed-information": {
@@ -95,8 +95,8 @@
   },
   {
     "at": "00:07:33.653",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
     "keyed-information": {
@@ -109,8 +109,8 @@
   },
   {
     "at": "00:07:44.263",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Whitney Anderson (R)",
     "keyed-information": {
@@ -121,8 +121,8 @@
   },
   {
     "at": "00:08:11.524",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Henry Peters (D0",
     "keyed-information": {
@@ -133,8 +133,8 @@
   },
   {
     "at": "00:08:27.273",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Sam Lee (D)",
     "keyed-information": {
@@ -145,8 +145,8 @@
   },
   {
     "at": "00:08:57.403",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. David Hagino (D)",
     "keyed-information": {
@@ -157,8 +157,8 @@
   },
   {
     "at": "00:09:38.511",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
     "keyed-information": {
@@ -171,8 +171,8 @@
   },
   {
     "at": "00:11:20.513",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. GERALD HAGINO (D)\n\nSenate Majority Leader",
     "keyed-information": {
@@ -185,8 +185,8 @@
   },
   {
     "at": "00:12:03.656",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. TOM OKAMURA (D)\n\nHouse Majority Leader",
     "keyed-information": {
@@ -199,8 +199,8 @@
   },
   {
     "at": "00:13:56.502",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. TOM OKAMURA (D)\n\nHouse Majority Leader",
     "keyed-information": {
@@ -213,8 +213,8 @@
   },
   {
     "at": "00:14:26.131",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. GERALD HAGINO (D)\n\nSenate Majority Leader",
     "keyed-information": {
@@ -227,8 +227,8 @@
   },
   {
     "at": "00:14:44.149",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
     "keyed-information": {

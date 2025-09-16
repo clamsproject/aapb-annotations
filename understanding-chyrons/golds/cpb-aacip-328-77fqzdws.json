@@ -1,0 +1,154 @@
+[
+  {
+    "at": "00:00:34.000",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JIM HARRIS\n\nAda County Prosecutor",
+    "keyed-information": {
+      "name-as-written": "JIM HARRIS",
+      "name-normalized": "Harris, Jim",
+      "attributes": [
+        "Ada County Prosecutor"
+      ]
+    }
+  },
+  {
+    "at": "00:01:28.154",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARC JOHNSON",
+    "keyed-information": {
+      "name-as-written": "MARC JOHNSON",
+      "name-normalized": "Johnson, Marc",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:19.399",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JIM HARRIS\n\nAda County Prosecutor",
+    "keyed-information": {
+      "name-as-written": "JIM HARRIS",
+      "name-normalized": "Harris, Jim",
+      "attributes": [
+        "Ada County Prosecutor"
+      ]
+    }
+  },
+  {
+    "at": "00:09:36.008",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "C. W. \"BILL\" CROWL\n\nDirector of Corrections",
+    "keyed-information": {
+      "name-as-written": "C.W. \"BILL\" CROWL",
+      "name-normalized": "Crowl, C. W. ",
+      "attributes": [
+        "Director of Corrections"
+      ]
+    }
+  },
+  {
+    "at": "00:11:50.509",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL RIESS\n\nKBCI News Director",
+    "keyed-information": {
+      "name-as-written": "PAUL RIESS",
+      "name-normalized": "Riess, Paul",
+      "attributes": [
+        "KBCI News Director"
+      ]
+    }
+  },
+  {
+    "at": "00:15:34.400",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL RIESS\n\nKBCI News Director",
+    "keyed-information": {
+      "name-as-written": "PAUL RIESS",
+      "name-normalized": "Riess, Paul",
+      "attributes": [
+        "KBCI News Director"
+      ]
+    }
+  },
+  {
+    "at": "00:16:41.400",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GARY STRAUSS\n\nIdaho Statesman",
+    "keyed-information": {
+      "name-as-written": "GARY STRAUSS",
+      "name-normalized": "Strauss, Gary",
+      "attributes": [
+        "Idaho Statesman"
+      ]
+    }
+  },
+  {
+    "at": "00:20:19.651",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARC WILSON\n\nAssociated Press",
+    "keyed-information": {
+      "name-as-written": "MARC WILSON",
+      "name-normalized": "Wilson, Marc",
+      "attributes": [
+        "Associated Press"
+      ]
+    }
+  },
+  {
+    "at": "00:25:00.765",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL RIESS\n\nKBCI News Director",
+    "keyed-information": {
+      "name-as-written": "PAUL RIESS",
+      "name-normalized": "Riess, Paul",
+      "attributes": [
+        "KBCI News Director"
+      ]
+    }
+  },
+  {
+    "at": "00:26:03.261",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GARY STRAUSS\n\nIdaho Statesman",
+    "keyed-information": {
+      "name-as-written": "GARY STRAUSS",
+      "name-normalized": "Strauss, Gary",
+      "attributes": [
+        "Idaho Statesman"
+      ]
+    }
+  },
+  {
+    "at": "00:26:20.645",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARC WILSON\n\nAssociated Press",
+    "keyed-information": {
+      "name-as-written": "MARC WILSON",
+      "name-normalized": "Wilson, Marc",
+      "attributes": [
+        "Associated Press"
+      ]
+    }
+  }
+]

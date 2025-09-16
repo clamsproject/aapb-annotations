@@ -1,8 +1,8 @@
 [
   {
     "at": "00:09:16.389",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lisa Gibson\n\nPresident\n\nHawaii Life Sciences Council",
     "keyed-information": {
@@ -16,8 +16,8 @@
   },
   {
     "at": "00:19:14.653",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Steve Holmberg\n\nPresident\n\nAloha Music International",
     "keyed-information": {

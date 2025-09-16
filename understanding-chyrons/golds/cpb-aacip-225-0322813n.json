@@ -1,8 +1,8 @@
 [
   {
     "at": "00:04:30.270",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bobby Bunda\n\nSenate President",
     "keyed-information": {
@@ -15,8 +15,8 @@
   },
   {
     "at": "00:11:50.876",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "David Carey\n\nPresident\n\nBusiness Roundtable",
     "keyed-information": {
@@ -30,8 +30,8 @@
   },
   {
     "at": "00:17:47.499",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Myron Thompson\n\nPresident\n\nHawaiian Homestead Technology, Inc.",
     "keyed-information": {
@@ -45,8 +45,8 @@
   },
   {
     "at": "00:20:53.652",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kaleo Auwae\n\nSite Manager\n\nHawaiian Homestead Technology",
     "keyed-information": {
@@ -60,8 +60,8 @@
   },
   {
     "at": "00:22:49.634",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bryce Aisaka\n\nIolani School",
     "keyed-information": {
@@ -74,8 +74,8 @@
   },
   {
     "at": "00:23:04.383",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Egen Atkinson\n\nIolani School",
     "keyed-information": {
@@ -88,8 +88,8 @@
   },
   {
     "at": "00:23:20.899",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dean Ushijima\n\nIolani School",
     "keyed-information": {
