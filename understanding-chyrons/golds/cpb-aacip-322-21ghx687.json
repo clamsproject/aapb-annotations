@@ -99,7 +99,11 @@
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",
-    "keyed-information": null
+    "keyed-information": {
+      "name-as-written": "Geoffrey Simon",
+      "name-normalized": "Simon, Geoffrey",
+      "attributes": []
+    }
   },
   {
     "at": "00:21:00.759",

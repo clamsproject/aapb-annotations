@@ -224,6 +224,20 @@
     }
   },
   {
+    "at": "00:17:20.773",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BARBARA MARSHALL\n\nTV-2 News",
+    "keyed-information": {
+      "name-as-written": "BARBARA MARSHALL",
+      "name-normalized": "Marshall, Barbara",
+      "attributes": [
+        "TV-2 News"
+      ]
+    }
+  },
+  {
     "at": "00:18:56.268",
     "scene-lebal": "I",
     "scene-subtype-label": "",
@@ -290,6 +304,20 @@
       "name-normalized": "Marshall, Barbara",
       "attributes": [
         "TV-2 News"
+      ]
+    }
+  },
+  {
+    "at": "00:27:15.400",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GERALD KATO\n\nKGMB News",
+    "keyed-information": {
+      "name-as-written": "GERALD KATO",
+      "name-normalized": "Kato, Gerald",
+      "attributes": [
+        "KGMB News"
       ]
     }
   },

@@ -4,8 +4,14 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "John Bason \n\nCAMPAIGN '88",
-    "keyed-information": null
+    "text-transcript": "John Bason\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "John Bason",
+      "name-normalized": "Bason, John",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
   },
   {
     "at": "00:03:16.396",
@@ -124,8 +130,14 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "John Bason \n\nCAMPAIGN '88",
-    "keyed-information": null
+    "text-transcript": "John Bason\n\nCAMPAIGN '88",
+    "keyed-information": {
+      "name-as-written": "John Bason",
+      "name-normalized": "Bason, John",
+      "attributes": [
+        "CAMPAIGN '88"
+      ]
+    }
   },
   {
     "at": "00:20:29.027",

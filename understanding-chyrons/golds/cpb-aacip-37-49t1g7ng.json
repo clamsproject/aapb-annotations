@@ -46,16 +46,28 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "Brice Oakley \n\nCLINTON",
-    "keyed-information": null
+    "text-transcript": "Brice Oakley\n\nCLINTON",
+    "keyed-information": {
+      "name-as-written": "Brice Oakley",
+      "name-normalized": "Oakley, Brice",
+      "attributes": [
+        "CLINTON"
+      ]
+    }
   },
   {
     "at": "00:08:57.270",
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "Brice Oakley \n\nCLINTON",
-    "keyed-information": null
+    "text-transcript": "Brice Oakley\n\nCLINTON",
+    "keyed-information": {
+      "name-as-written": "Brice Oakley",
+      "name-normalized": "Oakley, Brice",
+      "attributes": [
+        "CLINTON"
+      ]
+    }
   },
   {
     "at": "00:09:29.769",
@@ -90,8 +102,14 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "Brice Oakley \n\nCLINTON",
-    "keyed-information": null
+    "text-transcript": "Brice Oakley\n\nCLINTON",
+    "keyed-information": {
+      "name-as-written": "Brice Oakley",
+      "name-normalized": "Oakley, Brice",
+      "attributes": [
+        "CLINTON"
+      ]
+    }
   },
   {
     "at": "00:13:18.898",
@@ -182,7 +200,13 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "Brice Oakley \n\nCLINTON",
-    "keyed-information": null
+    "text-transcript": "Brice Oakley\n\nCLINTON",
+    "keyed-information": {
+      "name-as-written": "Brice Oakley",
+      "name-normalized": "Oakley, Brice",
+      "attributes": [
+        "CLINTON"
+      ]
+    }
   }
 ]

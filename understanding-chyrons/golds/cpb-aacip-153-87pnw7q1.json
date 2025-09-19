@@ -200,8 +200,14 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "CASPAR WEINBERGER\n\nFORMER SECRETARY  H.E.W.",
-    "keyed-information": null
+    "text-transcript": "CASPAR WEINBERGER\n\nFORMER SECRETARY H.E.W.",
+    "keyed-information": {
+      "name-as-written": "CASPAR WEINBERGER",
+      "name-normalized": "Weinberger, Caspar",
+      "attributes": [
+        "FORMER SECRETARY H.E.W."
+      ]
+    }
   },
   {
     "at": "00:30:52.150",

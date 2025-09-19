@@ -71,7 +71,13 @@
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Wireman\n\nTHURMONT HISTORIAN",
-    "keyed-information": null
+    "keyed-information": {
+      "name-as-written": "George Wireman",
+      "name-normalized": "Wireman, George",
+      "attributes": [
+        "THURMONT HISTORIAN"
+      ]
+    }
   },
   {
     "at": "00:16:56.281",

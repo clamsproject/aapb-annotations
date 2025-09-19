@@ -101,6 +101,10 @@
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAN DOBBINS",
-    "keyed-information": null
+    "keyed-information": {
+      "name-as-written": "JAN DOBBINS",
+      "name-normalized": "Dobbins, Jan",
+      "attributes": []
+    }
   }
 ]

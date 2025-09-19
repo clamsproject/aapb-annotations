@@ -58,8 +58,15 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "DEVON WOODLAND\n\nNATL. FARMERS ORGANIZATION\n\nCORNING IOWA",
-    "keyed-information": null
+    "text-transcript": "DEVON WOODLAND\n\nNATL. FARMERS ORGANIZATION\n\nCORNING, IOWA",
+    "keyed-information": {
+      "name-as-written": "DEVON WOODLAND",
+      "name-normalized": "Woodland, David",
+      "attributes": [
+        "NATL. FARMERS ORGANIZATION",
+        "CORNING, IOWA"
+      ]
+    }
   },
   {
     "at": "00:28:53.131",

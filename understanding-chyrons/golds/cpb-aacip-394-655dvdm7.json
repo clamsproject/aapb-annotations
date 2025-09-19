@@ -61,7 +61,11 @@
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Grassie",
-    "keyed-information": null
+    "keyed-information": {
+      "name-as-written": "John Grassie",
+      "name-normalized": "Grassie, John",
+      "attributes": []
+    }
   },
   {
     "at": "00:11:12.004",

@@ -228,8 +228,14 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "EE \n\nBrenda Wilson\n\nNational Public Radio",
-    "keyed-information": null
+    "text-transcript": "EE\n\nBrenda Wilson\n\nNational Public Radio",
+    "keyed-information": {
+      "name-as-written": "Brenda Wilson",
+      "name-normalized": "Wilson, Brenda",
+      "attributes": [
+        "National Public Radio"
+      ]
+    }
   },
   {
     "at": "00:39:17.254",

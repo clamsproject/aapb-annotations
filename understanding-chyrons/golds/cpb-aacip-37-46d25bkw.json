@@ -430,8 +430,14 @@
     "scene-lebal": "I",
     "scene-subtype-label": "",
     "transitional": false,
-    "text-transcript": "NORMAL SANDLER\n\nUNITED PRESS INTERNATIONAL",
-    "keyed-information": null
+    "text-transcript": "NORMAN SANDLER\n\nUNITED PRESS INTERNATIONAL",
+    "keyed-information": {
+      "name-as-written": "NORMAN SANDLER",
+      "name-normalized": "Sandler, Norman",
+      "attributes": [
+        "UNITED PRESS INTERNATIONAL"
+      ]
+    }
   },
   {
     "at": "00:57:59.142",

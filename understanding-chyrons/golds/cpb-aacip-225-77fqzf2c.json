@@ -26,6 +26,20 @@
     }
   },
   {
+    "at": "00:14:50.256",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REVEREND CHRIS ENG\n\nUnited Church of Christ",
+    "keyed-information": {
+      "name-as-written": "REVEREND CHRIS ENG",
+      "name-normalized": "Eng, Chris",
+      "attributes": [
+        "United Church of Christ"
+      ]
+    }
+  },
+  {
     "at": "00:18:49.528",
     "scene-lebal": "I",
     "scene-subtype-label": "",

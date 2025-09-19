@@ -986,8 +986,8 @@
     "I",
     "",
     false,
-    "EE \n\nBrenda Wilson\n\nNational Public Radio",
-    ""
+    "EE\n\nBrenda Wilson\n\nNational Public Radio",
+    "Brenda Wilson\n\nWilson, Brenda\n\nNational Public Radio"
   ],
   [
     "cpb-aacip-293-68kd583c_03658855_02357257_02357254.jpg",
@@ -1608,7 +1608,7 @@
     "",
     false,
     "Geoffrey Simon",
-    "Simon, Geoffrey"
+    "Geoffrey Simon\n\nSimon, Geoffrey"
   ],
   [
     "cpb-aacip-322-21ghx687_03862124_01260761_01260759.jpg",
@@ -1842,7 +1842,7 @@
     "",
     false,
     "Geoffrey Simon",
-    "Simon, Geoffrey"
+    "Geoffrey Simon\n\nSimon, Geoffrey"
   ],
   [
     "cpb-aacip-322-36tx99km_01686751_00029029_00029029.jpg",
