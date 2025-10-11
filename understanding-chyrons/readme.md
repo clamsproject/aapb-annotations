@@ -53,7 +53,7 @@ To annotate, enter text in the box. Leave this area blank unless the frame type 
 
 If the frame category is "I", "N", or "Y", then transcribe verbatim the text in the "lower third" or "chryon" area of the screen, including every character. Preserve spacing and line breaks where feasible. Do not, under any circumstances, include text that is in the top half of the frame. Even for text in the bottom half of frame, do not include the text unless it is part of the chyron graphical element. Easily legible text in a logo that is part of the chyron should be included, but watermarks, background text, and filmed text should be omitted.
 
-To transcribe an okina character, use the backtick: ` (ASCII code 39).
+To transcribe an okina character, use the backtick: \` (ASCII code 39).
 
 #### Text understanding
 (in `note-4` field)
