@@ -1,0 +1,58 @@
+[
+  {
+    "at": "00:03:51.030",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robbie Alm\n\nVP, Hawaiian Electric",
+    "keyed-information": {
+      "name-as-written": "Robbie Alm",
+      "name-normalized": "Alm, Robbie",
+      "attributes": [
+        "VP, Hawaiian Electric"
+      ]
+    }
+  },
+  {
+    "at": "00:10:25.891",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Puakea Nogelmeier\n\nHawaiian Translator",
+    "keyed-information": {
+      "name-as-written": "Puakea Nogelmeier",
+      "name-normalized": "Nogelmeier, Puakea",
+      "attributes": [
+        "Hawaiian Translator"
+      ]
+    }
+  },
+  {
+    "at": "00:19:00.639",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Walt Wrzesniewski\n\nU.S. Coast Guard",
+    "keyed-information": {
+      "name-as-written": "Walt Wrzesniewski",
+      "name-normalized": "Wrzesniewski, Walt",
+      "attributes": [
+        "U.S. Coast Guard"
+      ]
+    }
+  },
+  {
+    "at": "00:21:59.518",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Maili Davenport Lum\n\nNutcracker Sweet Festival 2006",
+    "keyed-information": {
+      "name-as-written": "Maili Davenport Lum",
+      "name-normalized": "Lum, Maili Davenport",
+      "attributes": [
+        "Nutcracker Sweet Festival 2006"
+      ]
+    }
+  }
+]

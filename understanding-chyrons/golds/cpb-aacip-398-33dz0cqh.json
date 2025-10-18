@@ -1,0 +1,114 @@
+[
+  {
+    "at": "00:02:22.375",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "THOMAS P. MURPHY \n\nPRESIDENT, ASSOCIATION OF VENTURE CAPITAL CLUBS",
+    "keyed-information": {
+      "name-as-written": "THOMAS P. MURPHY ",
+      "name-normalized": "Murphy, Thomas P.",
+      "attributes": [
+        "PRESIDENT, ASSOCIATION OF VENTURE CAPITAL CLUBS"
+      ]
+    }
+  },
+  {
+    "at": "00:02:38.258",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNN FLASTER\n\nStamford, Connecticut",
+    "keyed-information": {
+      "name-as-written": "LYNN FLASTER",
+      "name-normalized": "Flaster, Lynn",
+      "attributes": [
+        "Stamford, Connecticut"
+      ]
+    }
+  },
+  {
+    "at": "00:02:58.645",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TED ELLIOTT\n\nCHAIRMAN, CT VENTURE GROUP",
+    "keyed-information": {
+      "name-as-written": "TED ELLIOTT",
+      "name-normalized": "Elliott, Ted",
+      "attributes": [
+        "CHAIRMAN, CT VENTURE GROUP"
+      ]
+    }
+  },
+  {
+    "at": "00:03:38.885",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KEN RIND\n\nPARTNER, OXFORD PARTNERS",
+    "keyed-information": {
+      "name-as-written": "KEN RIND",
+      "name-normalized": "Rind, Ken",
+      "attributes": [
+        "PARTNER, OXFORD PARTNERS"
+      ]
+    }
+  },
+  {
+    "at": "00:10:47.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM D. NORDHAUS\n\nECONOMICS PROFESSOR\n\nYALE UNIVERSITY",
+    "keyed-information": {
+      "name-as-written": "WILLIAM D. NORDHAUS",
+      "name-normalized": "Nordhaus, William D.",
+      "attributes": [
+        "ECONOMICS PROFESSOR YALE UNIVERSITY"
+      ]
+    }
+  },
+  {
+    "at": "00:11:24.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "G. WILLIAM MILLER\n\nFORMER CHAIRMAN\n\nFEDERAL RESERVE BOARD",
+    "keyed-information": {
+      "name-as-written": "G. WILLIAM MILLER",
+      "name-normalized": "Miller, G. William",
+      "attributes": [
+        "FORMER CHAIRMAN FEDERAL RESERVE BOARD"
+      ]
+    }
+  },
+  {
+    "at": "00:11:43.402",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNN FLASTER\n\nREPORTING",
+    "keyed-information": {
+      "name-as-written": "LYNN FLASTER",
+      "name-normalized": "Flaster, Lynn",
+      "attributes": [
+        "REPORTING"
+      ]
+    }
+  },
+  {
+    "at": "00:12:06.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WALTER E. HOADLEY\n\nFORMER CHAIRMAN \n\nFED. RESERVE BANK OF PHILA.",
+    "keyed-information": {
+      "name-as-written": "WALTER E. HOADLEY",
+      "name-normalized": "Hoadley, Walter E.",
+      "attributes": [
+        "FORMER CHAIRMAN FED. RESERVE BANK OF PHILA."
+      ]
+    }
+  }
+]

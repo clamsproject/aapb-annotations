@@ -1,0 +1,156 @@
+[
+  {
+    "at": "00:04:04.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
+    "keyed-information": {
+      "name-as-written": "BILL JOHNSON",
+      "name-normalized": "Johnson, Bill",
+      "attributes": [
+        "ADMINISTRATOR, UNM HOSPITAL"
+      ]
+    }
+  },
+  {
+    "at": "00:05:01.267",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",
+    "keyed-information": {
+      "name-as-written": "DR. DAVID OTTENSMEYER",
+      "name-normalized": "Ottensmeyer",
+      "attributes": [
+        "PRES. C.E.O., LOVELACE MED. CENTER"
+      ]
+    }
+  },
+  {
+    "at": "00:08:09.255",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. RICHARD CRONIN\n\nPHYSICIAN",
+    "keyed-information": {
+      "name-as-written": "DR. RICHARD CRONIN",
+      "name-normalized": "Cronin, Richard",
+      "attributes": [
+        "PHYSICIAN"
+      ]
+    }
+  },
+  {
+    "at": "00:12:07.259",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
+    "keyed-information": {
+      "name-as-written": "BILL JOHNSON",
+      "name-normalized": "Johnson, Bill",
+      "attributes": [
+        "ADMINISTRATOR, UNM HOSPITAL"
+      ]
+    }
+  },
+  {
+    "at": "00:14:11.750",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",
+    "keyed-information": {
+      "name-as-written": "DR. DAVID OTTENSMEYER",
+      "name-normalized": "Ottensmeyer",
+      "attributes": [
+        "PRES. C.E.O., LOVELACE MED. CENTER"
+      ]
+    }
+  },
+  {
+    "at": "00:14:56.262",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. RICHARD CRONIN\n\nPHYSICIAN",
+    "keyed-information": {
+      "name-as-written": "DR. RICHARD CRONIN",
+      "name-normalized": "Cronin, Richard",
+      "attributes": [
+        "PHYSICIAN"
+      ]
+    }
+  },
+  {
+    "at": "00:15:42.007",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
+    "keyed-information": {
+      "name-as-written": "BILL JOHNSON",
+      "name-normalized": "Johnson, Bill",
+      "attributes": [
+        "ADMINISTRATOR, UNM HOSPITAL"
+      ]
+    }
+  },
+  {
+    "at": "00:16:54.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",
+    "keyed-information": {
+      "name-as-written": "DR. DAVID OTTENSMEYER",
+      "name-normalized": "Ottensmeyer",
+      "attributes": [
+        "PRES. C.E.O., LOVELACE MED. CENTER"
+      ]
+    }
+  },
+  {
+    "at": "00:21:05.264",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. RICHARD CRONIN\n\nPHYSICIAN",
+    "keyed-information": {
+      "name-as-written": "DR. RICHARD CRONIN",
+      "name-normalized": "Cronin, Richard",
+      "attributes": [
+        "PHYSICIAN"
+      ]
+    }
+  },
+  {
+    "at": "00:21:27.519",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
+    "keyed-information": {
+      "name-as-written": "BILL JOHNSON",
+      "name-normalized": "Johnson, Bill",
+      "attributes": [
+        "ADMINISTRATOR, UNM HOSPITAL"
+      ]
+    }
+  },
+  {
+    "at": "00:24:09.381",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",
+    "keyed-information": {
+      "name-as-written": "DR. DAVID OTTENSMEYER",
+      "name-normalized": "Ottensmeyer",
+      "attributes": [
+        "PRES. C.E.O., LOVELACE MED. CENTER"
+      ]
+    }
+  }
+]

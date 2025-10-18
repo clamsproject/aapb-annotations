@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:04:44.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bill Chee\n\nCEO\n\nPrudential Locations",
+    "keyed-information": {
+      "name-as-written": "Bill Chee",
+      "name-normalized": "Chee, Bill",
+      "attributes": [
+        "CEO",
+        "Prudential Locations"
+      ]
+    }
+  },
+  {
+    "at": "00:17:04.156",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gunner Hartner\n\nHonda Windward",
+    "keyed-information": {
+      "name-as-written": "Gunner Hartner",
+      "name-normalized": "Hartner, Gunner",
+      "attributes": [
+        "Honda Windward"
+      ]
+    }
+  },
+  {
+    "at": "00:22:16.268",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jasmine Tso\n\nAla Moana Center",
+    "keyed-information": {
+      "name-as-written": "Jasmine Tso",
+      "name-normalized": "Tso, Jasmine",
+      "attributes": [
+        "Ala Moana Center"
+      ]
+    }
+  }
+]

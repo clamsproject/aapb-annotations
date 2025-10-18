@@ -1,0 +1,184 @@
+[
+  {
+    "at": "00:02:38.024",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DEAN BORG",
+    "keyed-information": {
+      "name-as-written": "DEAN BORG",
+      "name-normalized": "Borg, Dean",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:02:45.131",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHET RANDOLPH",
+    "keyed-information": {
+      "name-as-written": "CHET RANDOLPH",
+      "name-normalized": "Randolph, Chet",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:11:43.769",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID OSTENDORF\n\nPRARIE FIRE\n\nDES MOINES, IOWA",
+    "keyed-information": {
+      "name-as-written": "DAVID OSTENDORF",
+      "name-normalized": "Ostendorf, David",
+      "attributes": [
+        "PRARIE FIRE",
+        "DES MOINES, IOWA"
+      ]
+    }
+  },
+  {
+    "at": "00:19:34.273",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DEVON WOODLAND\n\nNATL. FARMERS ORGANIZATION\n\nCORNING, IOWA",
+    "keyed-information": {
+      "name-as-written": "DEVON WOODLAND",
+      "name-normalized": "Woodland, David",
+      "attributes": [
+        "NATL. FARMERS ORGANIZATION",
+        "CORNING, IOWA"
+      ]
+    }
+  },
+  {
+    "at": "00:22:48.500",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DEVON WOODLAND\n\nNATL. FARMERS ORGANIZATION\n\nCORNING, IOWA",
+    "keyed-information": {
+      "name-as-written": "DEVON WOODLAND",
+      "name-normalized": "Woodland, David",
+      "attributes": [
+        "NATL. FARMERS ORGANIZATION",
+        "CORNING, IOWA"
+      ]
+    }
+  },
+  {
+    "at": "00:28:53.131",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DIXON TERRY\n\nEXEC. BOARD- IA. FARM UNITY COALITION\n\nGREENFIELD, IOWA",
+    "keyed-information": {
+      "name-as-written": "DIXON TERRY",
+      "name-normalized": "Terry, Dixon",
+      "attributes": [
+        "EXEC. BOARD- IA. FARM UNITY COALITION",
+        "GREENFIELD, IOWA"
+      ]
+    }
+  },
+  {
+    "at": "00:31:31.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAWN THOMPSON\n\nAVA, MISSOURI",
+    "keyed-information": {
+      "name-as-written": "DAWN THOMPSON",
+      "name-normalized": "Thompson, Dawn",
+      "attributes": [
+        "AVA, MISSOURI"
+      ]
+    }
+  },
+  {
+    "at": "00:35:31.529",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAWN THOMPSON\n\nAVA, MISSOURI",
+    "keyed-information": {
+      "name-as-written": "DAWN THOMPSON",
+      "name-normalized": "Thompson, Dawn",
+      "attributes": [
+        "AVA, MISSOURI"
+      ]
+    }
+  },
+  {
+    "at": "00:37:48.399",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DARRELL RINGER\n\nQUINTER, KANSAS",
+    "keyed-information": {
+      "name-as-written": "DARRELL RINGER",
+      "name-normalized": "Ringer, Darrell",
+      "attributes": [
+        "QUINTER, KANSAS"
+      ]
+    }
+  },
+  {
+    "at": "00:41:46.637",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DARRELL RINGER\n\nQUINTER, KANSAS",
+    "keyed-information": {
+      "name-as-written": "DARRELL RINGER",
+      "name-normalized": "Ringer, Darrell",
+      "attributes": [
+        "QUINTER, KANSAS"
+      ]
+    }
+  },
+  {
+    "at": "00:48:19.529",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CARLOS POLIT\n\nMOLINE, ILLINOIS",
+    "keyed-information": {
+      "name-as-written": "CARLOS POLIT",
+      "name-normalized": "Polit, Carlos",
+      "attributes": [
+        "MOLINE, ILLINOIS"
+      ]
+    }
+  },
+  {
+    "at": "00:53:00.777",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CARLOS POLIT\n\nMOLINE, ILLINOIS",
+    "keyed-information": {
+      "name-as-written": "CARLOS POLIT",
+      "name-normalized": "Polit, Carlos",
+      "attributes": [
+        "MOLINE, ILLINOIS"
+      ]
+    }
+  },
+  {
+    "at": "00:56:40.397",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANCIS LIPSKE\n\nPLATTEVILLE, WISCONSIN",
+    "keyed-information": {
+      "name-as-written": "FRANCIS LIPSKE",
+      "name-normalized": "Lipske, Francis",
+      "attributes": [
+        "PLATTEVILLE, WISCONSIN"
+      ]
+    }
+  }
+]

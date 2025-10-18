@@ -1,0 +1,126 @@
+[
+  {
+    "at": "00:05:57.890",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "L. Kent Wolgamott\nCRITIC",
+    "keyed-information": {
+      "name-as-written": "L. Kent Wolgamott",
+      "name-normalized": "\nWolgamott, L. Kent",
+      "attributes": [
+        "\nCRITIC"
+      ]
+    }
+  },
+  {
+    "at": "00:11:38.631",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lisa Sweet",
+    "keyed-information": {
+      "name-as-written": "Lisa Sweet",
+      "name-normalized": "\nSweet, Lisa",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:16:39.131",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Russell Carter\nMANAGER",
+    "keyed-information": {
+      "name-as-written": "Russell Carter",
+      "name-normalized": "\nCarter, Russell",
+      "attributes": [
+        "\nMANAGER"
+      ]
+    }
+  },
+  {
+    "at": "00:17:11.397",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lou Maglia\nRECORD EXECUTIVE",
+    "keyed-information": {
+      "name-as-written": "Lou Maglia",
+      "name-normalized": "\nMaglia, Lou",
+      "attributes": [
+        "\nRECORD EXECUTIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:34:04.275",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Russell Carter\nMANAGER",
+    "keyed-information": {
+      "name-as-written": "Russell Carter",
+      "name-normalized": "\nCarter, Russell",
+      "attributes": [
+        "\nMANAGER"
+      ]
+    }
+  },
+  {
+    "at": "00:34:23.761",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "L. Kent Wolgamott\nCRITIC",
+    "keyed-information": {
+      "name-as-written": "L. Kent Wolgamott",
+      "name-normalized": "\nWolgamott, L. Kent",
+      "attributes": [
+        "\nCRITIC"
+      ]
+    }
+  },
+  {
+    "at": "00:45:13.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jeff Dodes\nGENERAL MANAGER",
+    "keyed-information": {
+      "name-as-written": "Jeff Dodes",
+      "name-normalized": "\nDodes, Jeff",
+      "attributes": [
+        "\nGENERAL MANAGER"
+      ]
+    }
+  },
+  {
+    "at": "00:46:32.623",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Caram Constanzo\nRECORDING ENGINEER",
+    "keyed-information": {
+      "name-as-written": "Caram Constanzo",
+      "name-normalized": "\nConstanzo, Caram",
+      "attributes": [
+        "\nRECORDING ENGINEER"
+      ]
+    }
+  },
+  {
+    "at": "00:52:37.888",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "Andy Fleming\nFEATURE FILM DIRECTOR",
+    "keyed-information": {
+      "name-as-written": "Andy Fleming",
+      "name-normalized": "\nFleming, Andy",
+      "attributes": [
+        "\nFEATURE FILM DIRECTOR"
+      ]
+    }
+  }
+]

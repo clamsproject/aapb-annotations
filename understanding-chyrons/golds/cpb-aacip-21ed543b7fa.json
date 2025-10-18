@@ -1,0 +1,660 @@
+[
+  {
+    "at": "00:04:51.658",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN EVANS\n\nDallas City Council",
+    "keyed-information": {
+      "name-as-written": "JOHN EVANS",
+      "name-normalized": "Evans, John",
+      "attributes": [
+        "Dallas City Council"
+      ]
+    }
+  },
+  {
+    "at": "00:05:58.524",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EDDIE BERNICE JOHNSON\n\nState Senator",
+    "keyed-information": {
+      "name-as-written": "EDDIE BERNICE JOHNSON",
+      "name-normalized": "Johnson, Eddie Bernice",
+      "attributes": [
+        "State Senator"
+      ]
+    }
+  },
+  {
+    "at": "00:06:55.014",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANTHONY JACKSON\n\nFair Park Inner City Dev. Corp.",
+    "keyed-information": {
+      "name-as-written": "ANTHONY JACKSON",
+      "name-normalized": "Jackson, Anthony",
+      "attributes": [
+        "Fair Park Inner City Dev. Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:07:43.896",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT WALKER\n\nTrammell Crow Medical Div.",
+    "keyed-information": {
+      "name-as-written": "ROBERT WALKER",
+      "name-normalized": "Walker, Robert",
+      "attributes": [
+        "Trammell Crow Medical Div."
+      ]
+    }
+  },
+  {
+    "at": "00:08:10.256",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT WALKER\n\nTrammell Crow Medical Div.",
+    "keyed-information": {
+      "name-as-written": "ROBERT WALKER",
+      "name-normalized": "Walker, Robert",
+      "attributes": [
+        "Trammell Crow Medical Div."
+      ]
+    }
+  },
+  {
+    "at": "00:08:30.877",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HERB JAMES\n\nQuincy-Geneva Community\nDevelopment Corp.",
+    "keyed-information": {
+      "name-as-written": "HERB JAMES",
+      "name-normalized": "James, Herb",
+      "attributes": [
+        "Quincy-Geneva Community Development Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:09:26.999",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LIZ FLORES\n\nWest Dallas Housing\nMediation Team",
+    "keyed-information": {
+      "name-as-written": "LIZ FLORES",
+      "name-normalized": "Flores, Liz",
+      "attributes": [
+        "West Dallas Housing Mediation Team"
+      ]
+    }
+  },
+  {
+    "at": "00:10:29.028",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PETTIS NORMAN\n\nW. Dallas Mediation Team",
+    "keyed-information": {
+      "name-as-written": "PETTIS NORMAN",
+      "name-normalized": "Norman, Pettis",
+      "attributes": [
+        "W. Dallas Mediation Team"
+      ]
+    }
+  },
+  {
+    "at": "00:12:24.009",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "IRVING STATMAN\n\nStatman-Wassenich Assoc.",
+    "keyed-information": {
+      "name-as-written": "IRVING STATMAN",
+      "name-normalized": "Statman, Irving",
+      "attributes": [
+        "Statman-Wassenich Assoc."
+      ]
+    }
+  },
+  {
+    "at": "00:14:07.646",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID MORTON\n\nDallas Housing Authority",
+    "keyed-information": {
+      "name-as-written": "DAVID MORTON",
+      "name-normalized": "Morton, David",
+      "attributes": [
+        "Dallas Housing Authority"
+      ]
+    }
+  },
+  {
+    "at": "00:15:00.766",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BETSY JULIAN\n\nAttorney",
+    "keyed-information": {
+      "name-as-written": "BETSY JULIAN",
+      "name-normalized": "Julian, Betsy",
+      "attributes": [
+        "Attorney"
+      ]
+    }
+  },
+  {
+    "at": "00:16:18.510",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN EVANS\n\nDallas City Council",
+    "keyed-information": {
+      "name-as-written": "JOHN EVANS",
+      "name-normalized": "Evans, John",
+      "attributes": [
+        "Dallas City Council"
+      ]
+    }
+  },
+  {
+    "at": "00:17:14.500",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JUAN PATLAN\n\nEnterprise Foundation",
+    "keyed-information": {
+      "name-as-written": "JUAN PATLAN",
+      "name-normalized": "Patlan, Juan",
+      "attributes": [
+        "Enterprise Foundation"
+      ]
+    }
+  },
+  {
+    "at": "00:18:01.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DOROTHY MASTERSON\n\nDallas Tenants Assoc.",
+    "keyed-information": {
+      "name-as-written": "DOROTHY MASTERSON",
+      "name-normalized": "Masterson, Dorothy",
+      "attributes": [
+        "Dallas Tenants Assoc."
+      ]
+    }
+  },
+  {
+    "at": "00:18:57.503",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SAM MOSELEY\n\nU.S. Department of Housing\nand Urban Development",
+    "keyed-information": {
+      "name-as-written": "SAM MOSELEY",
+      "name-normalized": "Moseley, Sam",
+      "attributes": [
+        "U.S. Department of Housing and Urban Development"
+      ]
+    }
+  },
+  {
+    "at": "00:20:02.267",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REV. MARION BARNETT\n\nConcerned Citizens to\nSave West Dallas",
+    "keyed-information": {
+      "name-as-written": "REV. MARION BARNETT",
+      "name-normalized": "Barnett, Marion",
+      "attributes": [
+        "Concerned Citizens to Save West Dallas"
+      ]
+    }
+  },
+  {
+    "at": "00:21:11.637",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DIANE RAGSDALE\n\nDallas City Council",
+    "keyed-information": {
+      "name-as-written": "DIANE RAGSDALE",
+      "name-normalized": "Ragsdale, Diane",
+      "attributes": [
+        "Dallas City Council"
+      ]
+    }
+  },
+  {
+    "at": "00:22:11.263",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EDDIE BERNICE JOHNSON\n\nState Senator",
+    "keyed-information": {
+      "name-as-written": "EDDIE BERNICE JOHNSON",
+      "name-normalized": "Johnson, Eddie Bernice",
+      "attributes": [
+        "State Senator"
+      ]
+    }
+  },
+  {
+    "at": "00:23:17.529",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRED BLAIR\n\nState Representative",
+    "keyed-information": {
+      "name-as-written": "FRED BLAIR",
+      "name-normalized": "Blair, Fred",
+      "attributes": [
+        "State Representative"
+      ]
+    }
+  },
+  {
+    "at": "00:25:03.134",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HERB JAMES\n\nQuincy-Geneva Community\nDevelopment Corp.",
+    "keyed-information": {
+      "name-as-written": "HERB JAMES",
+      "name-normalized": "James, Herb",
+      "attributes": [
+        "Quincy-Geneva Community Development Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:27:00.151",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARY FULBRIGHT\n\nGraduate School of\nSocial Work, U.T.A.",
+    "keyed-information": {
+      "name-as-written": "MARY FULBRIGHT",
+      "name-normalized": "Fulbright, Mary",
+      "attributes": [
+        "Graduate School of Social Work, U.T.A."
+      ]
+    }
+  },
+  {
+    "at": "00:28:11.256",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "STEVE BARTLETT\n\nCongressman",
+    "keyed-information": {
+      "name-as-written": "STEVE BARTLETT",
+      "name-normalized": "Bartlett, Steve",
+      "attributes": [
+        "Congressman"
+      ]
+    }
+  },
+  {
+    "at": "00:29:38.376",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
+    "keyed-information": {
+      "name-as-written": "BARRY ZIGAS",
+      "name-normalized": "Zigas, Barry",
+      "attributes": [
+        "National Low Income Housing Coalition"
+      ]
+    }
+  },
+  {
+    "at": "00:30:29.761",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "STEVE BARTLETT\n\nCongressman",
+    "keyed-information": {
+      "name-as-written": "STEVE BARTLETT",
+      "name-normalized": "Bartlett, Steve",
+      "attributes": [
+        "Congressman"
+      ]
+    }
+  },
+  {
+    "at": "00:31:16.140",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HERMAN SMITH\n\nDeveloper/Homebuilder",
+    "keyed-information": {
+      "name-as-written": "HERMAN SMITH",
+      "name-normalized": "Smith, Herman",
+      "attributes": [
+        "Developer/Homebuilder"
+      ]
+    }
+  },
+  {
+    "at": "00:33:43.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
+    "keyed-information": {
+      "name-as-written": "BARRY ZIGAS",
+      "name-normalized": "Zigas, Barry",
+      "attributes": [
+        "National Low Income Housing Coalition"
+      ]
+    }
+  },
+  {
+    "at": "00:35:19.517",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "STEVE BARTLETT\n\nCongressman",
+    "keyed-information": {
+      "name-as-written": "STEVE BARTLETT",
+      "name-normalized": "Bartlett, Steve",
+      "attributes": [
+        "Congressman"
+      ]
+    }
+  },
+  {
+    "at": "00:36:17.875",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
+    "keyed-information": {
+      "name-as-written": "BARRY ZIGAS",
+      "name-normalized": "Zigas, Barry",
+      "attributes": [
+        "National Low Income Housing Coalition"
+      ]
+    }
+  },
+  {
+    "at": "00:37:13.397",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SAM MOSELEY\n\nU.S. Department of Housing\nand Urban Development",
+    "keyed-information": {
+      "name-as-written": "SAM MOSELEY",
+      "name-normalized": "Moseley, Sam",
+      "attributes": [
+        "U.S. Department of Housing and Urban Development"
+      ]
+    }
+  },
+  {
+    "at": "00:37:51.769",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MIKE GIBSON\n\nFair Park Inner City Dev. Corp.",
+    "keyed-information": {
+      "name-as-written": "MIKE GIBSON",
+      "name-normalized": "Gibson, Mike",
+      "attributes": [
+        "Fair Park Inner City Dev. Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:39:01.872",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DICK ARMEY\n\nCongressman",
+    "keyed-information": {
+      "name-as-written": "DICK ARMEY",
+      "name-normalized": "Armey, Dick",
+      "attributes": [
+        "Congressman"
+      ]
+    }
+  },
+  {
+    "at": "00:40:40.905",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DICK ARMEY\n\nCongressman",
+    "keyed-information": {
+      "name-as-written": "DICK ARMEY",
+      "name-normalized": "Armey, Dick",
+      "attributes": [
+        "Congressman"
+      ]
+    }
+  },
+  {
+    "at": "00:43:10.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "STEVE BARTLETT\n\nCongressman",
+    "keyed-information": {
+      "name-as-written": "STEVE BARTLETT",
+      "name-normalized": "Bartlett, Steve",
+      "attributes": [
+        "Congressman"
+      ]
+    }
+  },
+  {
+    "at": "00:43:43.020",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
+    "keyed-information": {
+      "name-as-written": "BARRY ZIGAS",
+      "name-normalized": "Zigas, Barry",
+      "attributes": [
+        "National Low Income Housing Coalition"
+      ]
+    }
+  },
+  {
+    "at": "00:44:57.261",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HERB JAMES\n\nQuincy-Geneva Community\nDevelopment Corp.",
+    "keyed-information": {
+      "name-as-written": "HERB JAMES",
+      "name-normalized": "James, Herb",
+      "attributes": [
+        "Quincy-Geneva Community Development Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:47:08.258",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LIZ FLORES\n\nWest Dallas Housing\nMediation Team",
+    "keyed-information": {
+      "name-as-written": "LIZ FLORES",
+      "name-normalized": "Flores, Liz",
+      "attributes": [
+        "West Dallas Housing Mediation Team"
+      ]
+    }
+  },
+  {
+    "at": "00:49:22.626",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DIANE RAGSDALE\n\nDallas City Council",
+    "keyed-information": {
+      "name-as-written": "DIANE RAGSDALE",
+      "name-normalized": "Ragsdale, Diane",
+      "attributes": [
+        "Dallas City Council"
+      ]
+    }
+  },
+  {
+    "at": "00:50:11.875",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN FULLINWIDER\n\nCommon Ground",
+    "keyed-information": {
+      "name-as-written": "JOHN FULLINWIDER",
+      "name-normalized": "Fullinwider, John",
+      "attributes": [
+        "Common Ground"
+      ]
+    }
+  },
+  {
+    "at": "00:50:29.259",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REV. MARION BARNETT\n\nConcerned Citizens to\nSave West Dallas",
+    "keyed-information": {
+      "name-as-written": "REV. MARION BARNETT",
+      "name-normalized": "Barnett, Marion",
+      "attributes": [
+        "Concerned Citizens to Save West Dallas"
+      ]
+    }
+  },
+  {
+    "at": "00:51:33.623",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN EVANS\n\nDallas City Council",
+    "keyed-information": {
+      "name-as-written": "JOHN EVANS",
+      "name-normalized": "Evans, John",
+      "attributes": [
+        "Dallas City Council"
+      ]
+    }
+  },
+  {
+    "at": "00:52:10.026",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID MORTON\n\nDallas Housing Authority",
+    "keyed-information": {
+      "name-as-written": "DAVID MORTON",
+      "name-normalized": "Morton, David",
+      "attributes": [
+        "Dallas Housing Authority"
+      ]
+    }
+  },
+  {
+    "at": "00:52:29.379",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HARRYETTE EHRHARDT\n\nGreater Dallas Community\nRelations Commission",
+    "keyed-information": {
+      "name-as-written": "HARRYETTE EHRHARDT",
+      "name-normalized": "Ehrhardt, Harryette",
+      "attributes": [
+        "Greater Dallas Community\nRelations Commission"
+      ]
+    }
+  },
+  {
+    "at": "00:53:36.746",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOYCE LOCKLEY\n\nGreater Dallas Community\nRelations Commission",
+    "keyed-information": {
+      "name-as-written": "JOYCE LOCKLEY",
+      "name-normalized": "Lockley, Joyce",
+      "attributes": [
+        "Greater Dallas Community\nRelations Commission"
+      ]
+    }
+  },
+  {
+    "at": "00:55:59.522",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID MORTON\n\nDallas Housing Authority",
+    "keyed-information": {
+      "name-as-written": "DAVID MORTON",
+      "name-normalized": "Morton, David",
+      "attributes": [
+        "Dallas Housing Authority"
+      ]
+    }
+  },
+  {
+    "at": "00:56:27.384",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PETTIS NORMAN\n\nW. Dallas Mediation Team",
+    "keyed-information": {
+      "name-as-written": "PETTIS NORMAN",
+      "name-normalized": "Norman, Pettis",
+      "attributes": [
+        "W. Dallas Mediation Team"
+      ]
+    }
+  },
+  {
+    "at": "00:57:18.134",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DON HICKS\n\nAttorney",
+    "keyed-information": {
+      "name-as-written": "DON HICKS",
+      "name-normalized": "Hicks, Don",
+      "attributes": [
+        "Attorney"
+      ]
+    }
+  },
+  {
+    "at": "00:58:49.025",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HARRY JONES\n\nDallas City Manager's Office",
+    "keyed-information": {
+      "name-as-written": "HARRY JONES",
+      "name-normalized": "Jones, Harry",
+      "attributes": [
+        "Dallas City Manager's Office"
+      ]
+    }
+  }
+]

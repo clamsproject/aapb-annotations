@@ -1,0 +1,72 @@
+[
+  {
+    "at": "00:03:03.750",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL BARDACKE\n\nDEMOCRAT",
+    "keyed-information": {
+      "name-as-written": "PAUL BARDACKE",
+      "name-normalized": "Bardacke, Paul",
+      "attributes": [
+        "DEMOCRAT"
+      ]
+    }
+  },
+  {
+    "at": "00:04:04.510",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL KENNEDY\n\nREPUBLICAN",
+    "keyed-information": {
+      "name-as-written": "PAUL KENNEDY",
+      "name-normalized": "Kennedy, Paul",
+      "attributes": [
+        "REPUBLICAN"
+      ]
+    }
+  },
+  {
+    "at": "00:11:25.518",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL KENNEDY\n\nREPUBLICAN",
+    "keyed-information": {
+      "name-as-written": "PAUL KENNEDY",
+      "name-normalized": "Kennedy, Paul",
+      "attributes": [
+        "REPUBLICAN"
+      ]
+    }
+  },
+  {
+    "at": "00:12:33.152",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL BARDACKE\n\nDEMOCRAT",
+    "keyed-information": {
+      "name-as-written": "PAUL BARDACKE",
+      "name-normalized": "Bardacke, Paul",
+      "attributes": [
+        "DEMOCRAT"
+      ]
+    }
+  },
+  {
+    "at": "00:15:24.890",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARY BETH ACUFF\n\nNM INDEPENDENT",
+    "keyed-information": {
+      "name-as-written": "MARY BETH ACUFF",
+      "name-normalized": "Acuff, Mary Beth",
+      "attributes": [
+        "NM INDEPENDENT"
+      ]
+    }
+  }
+]

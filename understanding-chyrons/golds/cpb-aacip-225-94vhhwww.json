@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:04:39.779",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Chad Jensen\n\nARDA Hawaii",
+    "keyed-information": {
+      "name-as-written": "Chad Jensen",
+      "name-normalized": "Jensen, Chad",
+      "attributes": [
+        "ARDA Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:21:53.779",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Barbara Campbell\n\nVP\n\nOutrigger",
+    "keyed-information": {
+      "name-as-written": "Barbara Campbell",
+      "name-normalized": "Campbell, Barbara",
+      "attributes": [
+        "VP",
+        "Outrigger"
+      ]
+    }
+  },
+  {
+    "at": "00:22:07.759",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Karen Winpenny\n\nEvent Coordinator",
+    "keyed-information": {
+      "name-as-written": "Karen Winpenny",
+      "name-normalized": "Winpenny, Karen",
+      "attributes": [
+        "Event Coordinator"
+      ]
+    }
+  }
+]

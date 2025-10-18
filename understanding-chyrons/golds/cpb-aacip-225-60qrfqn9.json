@@ -1,0 +1,44 @@
+[
+  {
+    "at": "00:04:03.276",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jonathan Ornstein\n\nCEO, Mesa Air",
+    "keyed-information": {
+      "name-as-written": "Jonathan Ornstein",
+      "name-normalized": "Ornstein, Jonathan",
+      "attributes": [
+        "CEO, Mesa Air"
+      ]
+    }
+  },
+  {
+    "at": "00:10:32.898",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Kay Mukaigawa\n\nOahu Realtor",
+    "keyed-information": {
+      "name-as-written": "Kay Mukaigawa",
+      "name-normalized": "Mukaigawa, Kay",
+      "attributes": [
+        "Oahu Realtor"
+      ]
+    }
+  },
+  {
+    "at": "00:18:29.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tony Guerrero\n\nPresident, Friend of Hawaii",
+    "keyed-information": {
+      "name-as-written": "Tony Guerrero",
+      "name-normalized": "Guerrero, Tony",
+      "attributes": [
+        "President, Friend of Hawaii"
+      ]
+    }
+  }
+]

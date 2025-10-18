@@ -1,0 +1,110 @@
+[
+  {
+    "at": "00:01:27.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Iverson",
+    "keyed-information": {
+      "name-as-written": "David Iverson",
+      "name-normalized": "Iverson, David",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:02:01.888",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Stanley York\n\nCHAIRMAN\n\nWIS. PUBLIC SERVICE COMM.",
+    "keyed-information": {
+      "name-as-written": "Stanley York",
+      "name-normalized": "York, Stanley",
+      "attributes": [
+        "CHAIRMAN WIS. PUBLIC SERVICE COMM."
+      ]
+    }
+  },
+  {
+    "at": "00:03:47.393",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Nicholas Ricci\n\nSR. VICE PRESIDENT\n\nWIS. ELEC. POWER-MILWAUKEE",
+    "keyed-information": {
+      "name-as-written": "Nicholas Ricci",
+      "name-normalized": "Ricci, Nicholas",
+      "attributes": [
+        "SR. VICE PRESIDENT WIS. ELEC. POWER-MILWAUKEE"
+      ]
+    }
+  },
+  {
+    "at": "00:04:44.017",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Willie Nunnery\n\nDIRECTOR\n\nWISCONSIN DIV. OF ENERGY",
+    "keyed-information": {
+      "name-as-written": "Willie Nunnery",
+      "name-normalized": "Nunnery, Willie",
+      "attributes": [
+        "DIRECTOR WISCONSIN DIV. OF ENERGY"
+      ]
+    }
+  },
+  {
+    "at": "00:13:44.523",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Willie Nunnery\n\nDIRECTOR\n\nWISCONSIN DIV. OF ENERGY",
+    "keyed-information": {
+      "name-as-written": "Willie Nunnery",
+      "name-normalized": "Nunnery, Willie",
+      "attributes": [
+        "DIRECTOR WISCONSIN DIV. OF ENERGY"
+      ]
+    }
+  },
+  {
+    "at": "00:16:54.513",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Nicholas Ricci\n\nSR. VICE PRESIDENT\n\nWIS. ELEC. POWER-MILWAUKEE",
+    "keyed-information": {
+      "name-as-written": "Nicholas Ricci",
+      "name-normalized": "Ricci, Nicholas",
+      "attributes": [
+        "SR. VICE PRESIDENT WIS. ELEC. POWER-MILWAUKEE"
+      ]
+    }
+  },
+  {
+    "at": "00:18:42.888",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Stanley York\n\nCHAIRMAN\n\nWIS. PUBLIC SERVICE COMM.",
+    "keyed-information": {
+      "name-as-written": "Stanley York",
+      "name-normalized": "York, Stanley",
+      "attributes": [
+        "CHAIRMAN WIS. PUBLIC SERVICE COMM."
+      ]
+    }
+  },
+  {
+    "at": "00:19:35.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Iverson",
+    "keyed-information": {
+      "name-as-written": "David Iverson",
+      "name-normalized": "Iverson, David",
+      "attributes": []
+    }
+  }
+]

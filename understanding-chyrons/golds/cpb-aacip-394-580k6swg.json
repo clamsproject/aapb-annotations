@@ -1,0 +1,297 @@
+[
+  {
+    "at": "00:01:26.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Ford Vance",
+    "keyed-information": {
+      "name-as-written": "Susan Ford Vance",
+      "name-normalized": "Vance, Susan Ford",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:01:32.392",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lynda Johnson Robb",
+    "keyed-information": {
+      "name-as-written": "Lynda Johnson Robb ",
+      "name-normalized": "Robb, Lynda Johnson",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:47.760",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Clark Clifford \n\nADVISOR TO PRESIDENTS\n\nTRUMAN, KENNEDY, JOHNSON, CARTER",
+    "keyed-information": {
+      "name-as-written": "Clark Clifford ",
+      "name-normalized": "Clifford, Clark",
+      "attributes": [
+        "ADVISOR TO PRESIDENTS TRUMAN, KENNEDY, JOHNSON, CARTER"
+      ]
+    }
+  },
+  {
+    "at": "00:04:01.641",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "H.R. Haldeman\n\nCHIEF OF STAFF \n\nNIXON ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "H.R. Haldeman",
+      "name-normalized": "Haldeman, H.R.",
+      "attributes": [
+        "CHIEF OF STAFF NIXON ADMINISTRATION"
+      ]
+    }
+  },
+  {
+    "at": "00:05:00.133",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bill Gulley\n\nWHITE HOUSE MILITARY OFFICE\n\n1966-1977",
+    "keyed-information": {
+      "name-as-written": "Bill Gulley",
+      "name-normalized": "Gulley, Bill",
+      "attributes": [
+        "WHITE HOUSE MILITARY OFFICE 1966-1977"
+      ]
+    }
+  },
+  {
+    "at": "00:07:00.753",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "George Wireman\n\nTHURMONT HISTORIAN",
+    "keyed-information": {
+      "name-as-written": "George Wireman",
+      "name-normalized": "Wireman, George",
+      "attributes": [
+        "THURMONT HISTORIAN"
+      ]
+    }
+  },
+  {
+    "at": "00:16:56.281",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Cdr. William M. Rigdon\n\nNAVAL AIDE & CAMP COMMANDER\n\nROOSEVELT & TRUMAN ADMINISTRATIONS",
+    "keyed-information": {
+      "name-as-written": "Cdr. William M. Rigdon",
+      "name-normalized": "Rigdon, William M.",
+      "attributes": [
+        "NAVAL AIDE & CAMP COMMANDER",
+        "ROOSEVELT & TRUMAN ADMINISTRATIONS"
+      ]
+    }
+  },
+  {
+    "at": "00:21:03.762",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Eisenhower",
+    "keyed-information": {
+      "name-as-written": "David Eisenhower",
+      "name-normalized": "Eisenhower, David",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:24:07.379",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Michael Beschloss\n\nPRESIDENTIAL HISTORIAN",
+    "keyed-information": {
+      "name-as-written": "Michael Beschloss",
+      "name-normalized": "Beschloss, Michael",
+      "attributes": [
+        "PRESIDENTIAL HISTORIAN"
+      ]
+    }
+  },
+  {
+    "at": "00:24:39.878",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gen. Andrew Goodpaster\n\nSTAFF SECRETARY\n\nEISENHOWER ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "Gen. Andrew Goodpaster",
+      "name-normalized": "Goodpaster, Andrew",
+      "attributes": [
+        "STAFF SECRETARY EISENHOWER ADMINISTRATION"
+      ]
+    }
+  },
+  {
+    "at": "00:27:35.020",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dave Powers\n\nMUSEUM CURATOR \n\nJOHN F. KENNEDY LIBRARY",
+    "keyed-information": {
+      "name-as-written": "Dave Powers",
+      "name-normalized": "Powers, Dave",
+      "attributes": [
+        "MUSEUM CURATOR JOHN F. KENNEDY LIBRARY"
+      ]
+    }
+  },
+  {
+    "at": "00:30:31.529",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lynda Johnson Robb",
+    "keyed-information": {
+      "name-as-written": "Lynda Johnson Robb",
+      "name-normalized": "Robb, Lynda Johnson",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:31:51.376",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bill Gulley\n\nWHITE HOUSE MILITARY OFFICE\n\n1966-1977",
+    "keyed-information": {
+      "name-as-written": "Bill Gulley",
+      "name-normalized": "Gulley, Bill",
+      "attributes": [
+        "WHITE HOUSE MILITARY OFFICE 1966-1977"
+      ]
+    }
+  },
+  {
+    "at": "00:32:25.376",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Clark Clifford \n\nSECRETARY OF DEFENSE\n\nJOHNSON ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "Clark Clifford ",
+      "name-normalized": "Clifford, Clark",
+      "attributes": [
+        "SECRETARY OF DEFENSE JOHNSON ADMINISTRATION"
+      ]
+    }
+  },
+  {
+    "at": "00:33:53.031",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "H.R. Haldeman\n\nCHIEF OF STAFF \n\nNIXON ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "H.R. Haldeman",
+      "name-normalized": "Haldeman, H.R.",
+      "attributes": [
+        "CHIEF OF STAFF NIXON ADMINISTRATION"
+      ]
+    }
+  },
+  {
+    "at": "00:35:39.137",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Julie Nixon Eisenhower",
+    "keyed-information": {
+      "name-as-written": "Julie Nixon Eisenhower",
+      "name-normalized": "Eisenhower, Julie Nixon",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:38:54.632",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dick Cheney\n\nCHIEF OF STAFF\n\nFORD ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "Dick Cheney",
+      "name-normalized": "Cheney, Dick",
+      "attributes": [
+        "CHIEF OF STAFF FORD ADMINISTRATION"
+      ]
+    }
+  },
+  {
+    "at": "00:39:17.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Ford Vance",
+    "keyed-information": {
+      "name-as-written": "Susan Ford Vance",
+      "name-normalized": "Vance, Susan Ford",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:40:46.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jody Powell\n\nPRESS SECRETARY\n\nCARTER ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "Jody Powell",
+      "name-normalized": "Powell, Jody",
+      "attributes": [
+        "PRESS SECRETARY CARTER ADMINISTRATION"
+      ]
+    }
+  },
+  {
+    "at": "00:41:29.653",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Hamilton Jordan\n\nCHIEF OF STAFF\n\nCARTER ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "Hamilton Jordan",
+      "name-normalized": "Jordan, Hamilton",
+      "attributes": [
+        "CHIEF OF STAFF CARTER ADMINISTRATION"
+      ]
+    }
+  },
+  {
+    "at": "00:43:20.631",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jihan Sadat",
+    "keyed-information": {
+      "name-as-written": "Jihan Sadat",
+      "name-normalized": "Sadat, Jihan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:47:02.519",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "James A. Baker, III\n\nCHIEF OF STAFF, FIRST TERM\n\nREAGAN ADMINISTRATION",
+    "keyed-information": {
+      "name-as-written": "James A. Baker, III",
+      "name-normalized": "Baker, James A., III",
+      "attributes": [
+        "CHIEF OF STAFF, FIRST TERM REAGAN ADMINISTRATION"
+      ]
+    }
+  }
+]

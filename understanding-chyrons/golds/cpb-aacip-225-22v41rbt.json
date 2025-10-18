@@ -1,0 +1,30 @@
+[
+  {
+    "at": "00:01:32.759",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KELLI ABE\n\nTRIFONOVITCH\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "KELLI ABE TRIFONOVITCH",
+      "name-normalized": "Trifonovitch, Kelli Abe",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:24:05.777",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE\n\nGovernor",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": [
+        "Governor"
+      ]
+    }
+  }
+]

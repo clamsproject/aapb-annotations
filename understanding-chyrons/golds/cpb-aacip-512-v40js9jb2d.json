@@ -1,0 +1,350 @@
+[
+  {
+    "at": "00:07:12.899",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Frank Reynolds\n\nABC",
+    "keyed-information": {
+      "name-as-written": "Frank Reynolds",
+      "name-normalized": "Reynolds, Frank",
+      "attributes": [
+        "ABC"
+      ]
+    }
+  },
+  {
+    "at": "00:07:59.145",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wallace Westfeldt\n\nNBC Washington",
+    "keyed-information": {
+      "name-as-written": "Wallace Westfeldt",
+      "name-normalized": "Westfeldt, Wallace",
+      "attributes": [
+        "NBC Washington"
+      ]
+    }
+  },
+  {
+    "at": "00:08:40.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sid Darion\n\nABC Executive Producer",
+    "keyed-information": {
+      "name-as-written": "Sid Darion",
+      "name-normalized": "Darion, Sid",
+      "attributes": [
+        "ABC Executive Producer"
+      ]
+    }
+  },
+  {
+    "at": "00:11:33.626",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sander Vanocur\n\nNBC",
+    "keyed-information": {
+      "name-as-written": "Sander Vanocur",
+      "name-normalized": "Vanocur, Sander",
+      "attributes": [
+        "NBC"
+      ]
+    }
+  },
+  {
+    "at": "00:14:01.140",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Blaine Littell\n\nABC Producer",
+    "keyed-information": {
+      "name-as-written": "Blaine Littell",
+      "name-normalized": "Littell, Blaine",
+      "attributes": [
+        "ABC Producer"
+      ]
+    }
+  },
+  {
+    "at": "00:14:41.146",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Brinkley\n\nNBC",
+    "keyed-information": {
+      "name-as-written": "David Brinkley",
+      "name-normalized": "Brinkley, David",
+      "attributes": [
+        "NBC"
+      ]
+    }
+  },
+  {
+    "at": "00:15:43.876",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Reuven Frank\n\nPresident, NBC News",
+    "keyed-information": {
+      "name-as-written": "Reuven Frank",
+      "name-normalized": "Frank, Reuven",
+      "attributes": [
+        "President, NBC News"
+      ]
+    }
+  },
+  {
+    "at": "00:18:40.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK SHAKESPEARE, JR.\n\nDirector, USIA",
+    "keyed-information": {
+      "name-as-written": "FRANK SHAKESPEARE, JR.",
+      "name-normalized": "Shakespeare, Frank, Jr.",
+      "attributes": [
+        "Director, USIA"
+      ]
+    }
+  },
+  {
+    "at": "00:19:14.253",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRED FRIENDLY\n\nColumbia University",
+    "keyed-information": {
+      "name-as-written": "FRED FRIENDLY",
+      "name-normalized": "Friendly, Fred",
+      "attributes": [
+        "Columbia University"
+      ]
+    }
+  },
+  {
+    "at": "00:20:08.507",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL MOYERS\n\nPublisher, Newsday",
+    "keyed-information": {
+      "name-as-written": "BILL MOYERS",
+      "name-normalized": "Moyers, Bill",
+      "attributes": [
+        "Publisher, Newsday"
+      ]
+    }
+  },
+  {
+    "at": "00:21:33.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT WELLS\n\nCommissioner, FCC",
+    "keyed-information": {
+      "name-as-written": "ROBERT WELLS",
+      "name-normalized": "Wells, Robert",
+      "attributes": [
+        "Commissioner, FCC"
+      ]
+    }
+  },
+  {
+    "at": "00:22:17.135",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NORMAN ISAACS\n\nPresident\n\nAmer. Soc. Newspaper Editors",
+    "keyed-information": {
+      "name-as-written": "NORMAN ISAACS",
+      "name-normalized": "Isaacs, Norman",
+      "attributes": [
+        "President Amer. Soc. Newspaper Editors"
+      ]
+    }
+  },
+  {
+    "at": "00:24:33.271",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES KILPATRICK\n\nSyndicated Columnist",
+    "keyed-information": {
+      "name-as-written": "JAMES KILPATRICK",
+      "name-normalized": "Kilpatrick, James",
+      "attributes": [
+        "Syndicated Columnist"
+      ]
+    }
+  },
+  {
+    "at": "00:26:07.999",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK SHAKESPEARE, JR.\n\nDirector, USIA",
+    "keyed-information": {
+      "name-as-written": "FRANK SHAKESPEARE, JR.",
+      "name-normalized": "Shakespeare, Frank, Jr.",
+      "attributes": [
+        "Director, USIA"
+      ]
+    }
+  },
+  {
+    "at": "00:34:07.145",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES FLEMING",
+    "keyed-information": {
+      "name-as-written": "JAMES FLEMING",
+      "name-normalized": "Fleming, James",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:34:34.138",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL MOYERS\n\nPublisher, Newsday",
+    "keyed-information": {
+      "name-as-written": "BILL MOYERS",
+      "name-normalized": "Moyers, Bill",
+      "attributes": [
+        "Publisher, Newsday"
+      ]
+    }
+  },
+  {
+    "at": "00:37:36.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES KILPATRICK\n\nSyndicated Columnist",
+    "keyed-information": {
+      "name-as-written": "JAMES KILPATRICK",
+      "name-normalized": "Kilpatrick, James",
+      "attributes": [
+        "Syndicated Columnist"
+      ]
+    }
+  },
+  {
+    "at": "00:38:39.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT WELLS\n\nCommissioner, FCC",
+    "keyed-information": {
+      "name-as-written": "ROBERT WELLS",
+      "name-normalized": "Wells, Robert",
+      "attributes": [
+        "Commissioner, FCC"
+      ]
+    }
+  },
+  {
+    "at": "00:39:35.139",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NORMAN ISAACS\n\nPresident\n\nAmer. Soc. Newspaper Editors",
+    "keyed-information": {
+      "name-as-written": "NORMAN ISAACS",
+      "name-normalized": "Isaacs, Norman",
+      "attributes": [
+        "President Amer. Soc. Newspaper Editors"
+      ]
+    }
+  },
+  {
+    "at": "00:44:33.003",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK SHAKESPEARE, JR.\n\nDirector, USIA",
+    "keyed-information": {
+      "name-as-written": "FRANK SHAKESPEARE, JR.",
+      "name-normalized": "Shakespeare, Frank, Jr.",
+      "attributes": [
+        "Director, USIA"
+      ]
+    }
+  },
+  {
+    "at": "00:47:29.146",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BILL MOYERS\n\nPublisher, Newsday",
+    "keyed-information": {
+      "name-as-written": "BILL MOYERS",
+      "name-normalized": "Moyers, Bill",
+      "attributes": [
+        "Publisher, Newsday"
+      ]
+    }
+  },
+  {
+    "at": "00:49:55.125",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NORMAN ISAACS\n\nPresident\n\nAmer. Soc. Newspaper Editors",
+    "keyed-information": {
+      "name-as-written": "NORMAN ISAACS",
+      "name-normalized": "Isaacs, Norman",
+      "attributes": [
+        "President Amer. Soc. Newspaper Editors"
+      ]
+    }
+  },
+  {
+    "at": "00:50:40.137",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRED FRIENDLY\n\nColumbia University",
+    "keyed-information": {
+      "name-as-written": "FRED FRIENDLY",
+      "name-normalized": "Friendly, Fred",
+      "attributes": [
+        "Columbia University"
+      ]
+    }
+  },
+  {
+    "at": "00:54:04.374",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT WELLS\n\nCommissioner, FCC",
+    "keyed-information": {
+      "name-as-written": "ROBERT WELLS",
+      "name-normalized": "Wells, Robert",
+      "attributes": [
+        "Commissioner, FCC"
+      ]
+    }
+  },
+  {
+    "at": "00:55:20.650",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK SHAKESPEARE, JR.\n\nDirector, USIA",
+    "keyed-information": {
+      "name-as-written": "FRANK SHAKESPEARE, JR.",
+      "name-normalized": "Shakespeare, Frank, Jr.",
+      "attributes": [
+        "Director, USIA"
+      ]
+    }
+  }
+]

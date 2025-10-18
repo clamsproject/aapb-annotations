@@ -1,0 +1,480 @@
+[
+  {
+    "at": "00:01:08.268",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LESLIE WILCOX\n\nELECTION LIVE",
+    "keyed-information": {
+      "name-as-written": "LESLIE WILCOX",
+      "name-normalized": "Wilcox, Leslie",
+      "attributes": [
+        "ELECTION LIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:02:02.255",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRED HEMMINGS\n\nRepublican",
+    "keyed-information": {
+      "name-as-written": "FRED HEMMINGS",
+      "name-normalized": "Hemmings, Fred",
+      "attributes": [
+        "Republican"
+      ]
+    }
+  },
+  {
+    "at": "00:03:05.752",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PATSY T. MINK\n\nDemocrat",
+    "keyed-information": {
+      "name-as-written": "PATSY T. MINK",
+      "name-normalized": "Mink, Patsy T.",
+      "attributes": [
+        "Democrat"
+      ]
+    }
+  },
+  {
+    "at": "00:04:49.022",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRED HEMMINGS\n\nRepublican",
+    "keyed-information": {
+      "name-as-written": "FRED HEMMINGS",
+      "name-normalized": "Hemmings, Fred",
+      "attributes": [
+        "Republican"
+      ]
+    }
+  },
+  {
+    "at": "00:07:03.756",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PATSY T. MINK\n\nDemocrat",
+    "keyed-information": {
+      "name-as-written": "PATSY T. MINK",
+      "name-normalized": "Mink, Patsy T.",
+      "attributes": [
+        "Democrat"
+      ]
+    }
+  },
+  {
+    "at": "00:09:40.513",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARIA HUSTACE (R)\n\nSenatorial Candidate",
+    "keyed-information": {
+      "name-as-written": "MARIA HUSTACE (R)",
+      "name-normalized": "Hustace, Maria",
+      "attributes": [
+        "Senatorial Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:09:45.017",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KEN SCHOOLLAND (L)\n\nSenatorial Candidate",
+    "keyed-information": {
+      "name-as-written": "KEN SCHOOLLAND (L)",
+      "name-normalized": "Schoolland, Ken",
+      "attributes": [
+        "Senatorial Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:10:29.395",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SPARK MATSUNAGA (D)\n\nU.S. Senator",
+    "keyed-information": {
+      "name-as-written": "SPARK MATSUNAGA (D)",
+      "name-normalized": "Matsunaga, Spark",
+      "attributes": [
+        "U.S. Senator"
+      ]
+    }
+  },
+  {
+    "at": "00:11:00.760",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARIA HUSTACE (R)\n\nSenatorial Candidate",
+    "keyed-information": {
+      "name-as-written": "MARIA HUSTACE (R)",
+      "name-normalized": "Hustace, Maria",
+      "attributes": [
+        "Senatorial Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:11:19.378",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KEN SCHOOLLAND (L)\n\nSenatorial Candidate",
+    "keyed-information": {
+      "name-as-written": "KEN SCHOOLLAND (L)",
+      "name-normalized": "Schoolland, Ken",
+      "attributes": [
+        "Senatorial Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:11:41.500",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SPARK MATSUNAGA (D)\n\nU.S. Senator",
+    "keyed-information": {
+      "name-as-written": "SPARK MATSUNAGA (D)",
+      "name-normalized": "Matsunaga, Spark",
+      "attributes": [
+        "U.S. Senator"
+      ]
+    }
+  },
+  {
+    "at": "00:12:28.280",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LLOYD JEFFREY MALLAN (L)\n\n2nd Congressional Candidate",
+    "keyed-information": {
+      "name-as-written": "LLOYD JEFFREY MALLAN (L)",
+      "name-normalized": "Mallan, Lloyd Jeffrey",
+      "attributes": [
+        "2nd Congressional Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:13:21.133",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BERNARD AKANA (R)\n\nMayoral Candidate\n\nHawaii County",
+    "keyed-information": {
+      "name-as-written": "BERNARD AKANA (R)",
+      "name-normalized": "Akana, Bernard",
+      "attributes": [
+        "Mayoral Candidate",
+        "Hawaii County"
+      ]
+    }
+  },
+  {
+    "at": "00:13:42.254",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DANTE CARPENTER (D)\n\nMayor, Hawaii County",
+    "keyed-information": {
+      "name-as-written": "DANTE CARPENTER (D)",
+      "name-normalized": "Carpenter, Dante",
+      "attributes": [
+        "Mayor, Hawaii County"
+      ]
+    }
+  },
+  {
+    "at": "00:16:18.510",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DOLLY CHING\n\nBank of Hawaii",
+    "keyed-information": {
+      "name-as-written": "DOLLY CHING",
+      "name-normalized": "Ching, Dolly",
+      "attributes": [
+        "Bank of Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:16:54.279",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ALLAN KITAGAWA\n\nTerritorial Savings Chairman",
+    "keyed-information": {
+      "name-as-written": "ALLAN KITAGAWA",
+      "name-normalized": "Kitagawa, Allan",
+      "attributes": [
+        "Territorial Savings Chairman"
+      ]
+    }
+  },
+  {
+    "at": "00:17:10.763",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAN TUTTLE\n\nPolitical Analyst",
+    "keyed-information": {
+      "name-as-written": "DAN TUTTLE",
+      "name-normalized": "Tuttle, Dan",
+      "attributes": [
+        "Political Analyst"
+      ]
+    }
+  },
+  {
+    "at": "00:17:32.518",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NINA BERGLUND\n\nElection Live",
+    "keyed-information": {
+      "name-as-written": "NINA BERGLUND",
+      "name-normalized": "Berglund, Nina",
+      "attributes": [
+        "Election Live"
+      ]
+    }
+  },
+  {
+    "at": "00:17:46.899",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BETTE TATUM\n\nNational Federation of \n\nIndependent Business",
+    "keyed-information": {
+      "name-as-written": "BETTE TATUM",
+      "name-normalized": "Tatum, Bette",
+      "attributes": [
+        "National Federation of Independent Business"
+      ]
+    }
+  },
+  {
+    "at": "00:18:26.004",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SAM SLOM\n\nPaychecks Hawaii",
+    "keyed-information": {
+      "name-as-written": "SAM SLOM",
+      "name-normalized": "Slom, Sam",
+      "attributes": [
+        "Paychecks Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:19:01.006",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NINA BERGLUND\n\nELECTION LIVE",
+    "keyed-information": {
+      "name-as-written": "NINA BERGLUND",
+      "name-normalized": "Berglund, Nina",
+      "attributes": [
+        "ELECTION LIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:20:46.278",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NINA BERGLUND\n\nELECTION LIVE",
+    "keyed-information": {
+      "name-as-written": "NINA BERGLUND",
+      "name-normalized": "Berglund, Nina",
+      "attributes": [
+        "ELECTION LIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:22:32.751",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "LYNETTE LO TOM",
+      "name-normalized": "Tom, Lynette Lo",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:22:41.393",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARY BITTERMAN (D)\n\n1st Congressional Candidate",
+    "keyed-information": {
+      "name-as-written": "MARY BITTERMAN (D)",
+      "name-normalized": "1st Congressional Candidate",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:23:18.263",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAT SAIKI (R)\n\nU.S. Representative",
+    "keyed-information": {
+      "name-as-written": "PAT SAIKI (R)",
+      "name-normalized": "Saiki, Pat",
+      "attributes": [
+        "U.S. Representative"
+      ]
+    }
+  },
+  {
+    "at": "00:23:38.750",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARY BITTERMAN (D)\n\n1st Congressional Candidate",
+    "keyed-information": {
+      "name-as-written": "MARY BITTERMAN (D)",
+      "name-normalized": "1st Congressional Candidate",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:24:02.507",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BLASE HARRIS (L)\n\n1st Congressional Candidate",
+    "keyed-information": {
+      "name-as-written": "BLASE HARRIS (L)",
+      "name-normalized": "Harris, Blase",
+      "attributes": [
+        "1st Congressional Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:25:01.266",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BLASE HARRIS (L)\n\n1st Congressional Candidate",
+    "keyed-information": {
+      "name-as-written": "BLASE HARRIS (L)",
+      "name-normalized": "Harris, Blase",
+      "attributes": [
+        "1st Congressional Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:25:49.781",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nPolitics Editor\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Politics Editor",
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:27:15.634",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nGovernment Bureau Chief\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Government Bureau Chief",
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  },
+  {
+    "at": "00:28:41.519",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nPolitics Editor\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Politics Editor",
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:30:09.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RICHARD BORRECA\n\nGovernment Bureau Chief\n\nHonolulu Star-Bulletin",
+    "keyed-information": {
+      "name-as-written": "RICHARD BORRECA",
+      "name-normalized": "Borreca, Richard",
+      "attributes": [
+        "Government Bureau Chief",
+        "Honolulu Star-Bulletin"
+      ]
+    }
+  },
+  {
+    "at": "00:30:45.777",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nPolitics Editor\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Politics Editor",
+        "Honolulu Advertiser"
+      ]
+    }
+  },
+  {
+    "at": "00:31:04.262",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LESLIE WILCOX\n\nELECTION LIVE",
+    "keyed-information": {
+      "name-as-written": "LESLIE WILCOX",
+      "name-normalized": "Wilcox, Leslie",
+      "attributes": [
+        "ELECTION LIVE"
+      ]
+    }
+  }
+]

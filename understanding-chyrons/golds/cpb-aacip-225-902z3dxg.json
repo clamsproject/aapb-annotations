@@ -1,0 +1,82 @@
+[
+  {
+    "at": "00:12:39.759",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "AL HARRINGTON",
+    "keyed-information": {
+      "name-as-written": "AL HARRINGTON",
+      "name-normalized": "Harrington, Al",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:19:16.889",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DANIEL KIHANO\n\nSpeaker of the House",
+    "keyed-information": {
+      "name-as-written": "DANIEL KIHANO",
+      "name-normalized": "Kihano, Daniel",
+      "attributes": [
+        "Speaker of the House"
+      ]
+    }
+  },
+  {
+    "at": "00:25:42.507",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DANIEL KIHANO\n\nSpeaker of the House",
+    "keyed-information": {
+      "name-as-written": "DANIEL KIHANO",
+      "name-normalized": "Kihano, Daniel",
+      "attributes": [
+        "Speaker of the House"
+      ]
+    }
+  },
+  {
+    "at": "00:34:19.524",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MICHAEL LIU\n\nMinority Leader",
+    "keyed-information": {
+      "name-as-written": "MICHAEL LIU",
+      "name-normalized": "Liu, Michael",
+      "attributes": [
+        "Minority Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:37:34.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MICHAEL LIU\n\nMinority Leader",
+    "keyed-information": {
+      "name-as-written": "MICHAEL LIU",
+      "name-normalized": "Liu, Michael",
+      "attributes": [
+        "Minority Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:51:31.655",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNETTE LO TOM",
+    "keyed-information": {
+      "name-as-written": "LYNETTE LO TOM",
+      "name-normalized": "Tom, Lynette Lo",
+      "attributes": []
+    }
+  }
+]

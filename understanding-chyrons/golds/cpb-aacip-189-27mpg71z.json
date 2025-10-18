@@ -1,0 +1,110 @@
+[
+  {
+    "at": "00:01:16.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MAURICE HERRON",
+    "keyed-information": {
+      "name-as-written": "MAURICE HERRON",
+      "name-normalized": "Herron, Maurice",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:05:16.149",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HARVEY RICHARDSON",
+    "keyed-information": {
+      "name-as-written": "HARVEY RICHARDSON",
+      "name-normalized": "Richardson, Harvey",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:09:46.018",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KATHRINE BROWN",
+    "keyed-information": {
+      "name-as-written": "KATHRINE BROWN",
+      "name-normalized": "Brown, Kathrine",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:16:03.896",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LILA BULL",
+    "keyed-information": {
+      "name-as-written": "LILA BULL",
+      "name-normalized": "Bull, Lila",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:18:47.025",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HELEN CHATTERTON",
+    "keyed-information": {
+      "name-as-written": "HELEN CHATTERTON",
+      "name-normalized": "Chatterton, Helen",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:21:14.640",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DOROTHY THOMAS",
+    "keyed-information": {
+      "name-as-written": "DOROTHY THOMAS",
+      "name-normalized": "Thomas, Dorothy",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:23:09.254",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARGARET SCHOFIELD",
+    "keyed-information": {
+      "name-as-written": "MARGARET SCHOFIELD",
+      "name-normalized": "Schofield, Margaret",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:24:43.515",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EARL LENNOX",
+    "keyed-information": {
+      "name-as-written": "EARL LENNOX",
+      "name-normalized": "Lennox, Earl",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:27:24.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAN DOBBINS",
+    "keyed-information": {
+      "name-as-written": "JAN DOBBINS",
+      "name-normalized": "Dobbins, Jan",
+      "attributes": []
+    }
+  }
+]

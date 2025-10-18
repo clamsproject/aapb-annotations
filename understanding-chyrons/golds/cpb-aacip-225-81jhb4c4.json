@@ -1,0 +1,46 @@
+[
+  {
+    "at": "00:04:14.387",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Clint Arnoldus\n\nPRESIDENT & CEO\n\nCENTRAL PACIFIC BANK",
+    "keyed-information": {
+      "name-as-written": "Clint Arnoldus",
+      "name-normalized": "Arnoldus, Clint",
+      "attributes": [
+        "PRESIDENT & CEO",
+        "CENTRAL PACIFIC BANK"
+      ]
+    }
+  },
+  {
+    "at": "00:13:31.143",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Michael Drace\n\nYOUNG LAUNDRY & DRYCLEANING",
+    "keyed-information": {
+      "name-as-written": "Michael Drace",
+      "name-normalized": "Drace, Michael",
+      "attributes": [
+        "YOUNG LAUNDRY & DRYCLEANING"
+      ]
+    }
+  },
+  {
+    "at": "00:19:10.249",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Andres Delfs\n\nPRINCIPAL CONDUCTOR\n\nHONOLULU SYMPHONY",
+    "keyed-information": {
+      "name-as-written": "Andres Delfs",
+      "name-normalized": "Delfs, Andres",
+      "attributes": [
+        "PRINCIPAL CONDUCTOR",
+        "HONOLULU SYMPHONY"
+      ]
+    }
+  }
+]

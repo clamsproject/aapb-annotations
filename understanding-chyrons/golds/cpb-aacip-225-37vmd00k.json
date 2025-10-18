@@ -1,0 +1,82 @@
+[
+  {
+    "at": "00:01:13.773",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NINO J. MARTIN",
+    "keyed-information": {
+      "name-as-written": "NINO J. MARTIN",
+      "name-normalized": "Martin, Nino J.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:55.268",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE STAUFFER\n\nPRES. STAUFFER & SONS\n\nWISCONSIN",
+    "keyed-information": {
+      "name-as-written": "GEORGE STAUFFER",
+      "name-normalized": "Stauffer, George",
+      "attributes": [
+        "PRES. STAUFFER & SONS",
+        "WISCONSIN"
+      ]
+    }
+  },
+  {
+    "at": "00:12:07.626",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE STAUFFER\n\nPRES. STAUFFER & SONS\n\nWISCONSIN",
+    "keyed-information": {
+      "name-as-written": "GEORGE STAUFFER",
+      "name-normalized": "Stauffer, George",
+      "attributes": [
+        "PRES. STAUFFER & SONS",
+        "WISCONSIN"
+      ]
+    }
+  },
+  {
+    "at": "00:15:43.008",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN PYLES\n\nOWNER, HICKORY FARMS, HAWAII",
+    "keyed-information": {
+      "name-as-written": "JOHN PYLES",
+      "name-normalized": "Pyles, John",
+      "attributes": [
+        "OWNER, HICKORY FARMS, HAWAII"
+      ]
+    }
+  },
+  {
+    "at": "00:23:37.749",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN PYLES",
+    "keyed-information": {
+      "name-as-written": "JOHN PYLES",
+      "name-normalized": "Pyles, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:25:12.277",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE STAUFFER",
+    "keyed-information": {
+      "name-as-written": "GEORGE STAUFFER",
+      "name-normalized": "Stauffer, George",
+      "attributes": []
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "at": "00:01:47.774",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "EVERYBODY'S BUSINESS"
+      ]
+    }
+  },
+  {
+    "at": "00:04:02.141",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Teruya\n\nPRESIDENT\n\nFINANCE FACTORS",
+    "keyed-information": {
+      "name-as-written": "Steve Teruya",
+      "name-normalized": "Teruya, Steve",
+      "attributes": [
+        "PRESIDENT",
+        "FINANCE FACTORS"
+      ]
+    }
+  },
+  {
+    "at": "00:12:50.770",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. Bob Herkes\n\nHAWAII HOSPITALITY",
+    "keyed-information": {
+      "name-as-written": "Rep. Bob Herkes",
+      "name-normalized": "Herkes, Bob",
+      "attributes": [
+        "HAWAII HOSPITALITY"
+      ]
+    }
+  },
+  {
+    "at": "00:22:04.022",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "George Mavrothalassitis",
+    "keyed-information": {
+      "name-as-written": "George Mavrothalassitis",
+      "name-normalized": "Mavrothalassitis, George",
+      "attributes": []
+    }
+  }
+]

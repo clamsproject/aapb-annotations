@@ -1,0 +1,56 @@
+[
+  {
+    "at": "00:01:36.396",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:10:19.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jenny Strand\n\nVisitor",
+    "keyed-information": {
+      "name-as-written": "Jenny Strand",
+      "name-normalized": "Strand, Jenny",
+      "attributes": [
+        "Visitor"
+      ]
+    }
+  },
+  {
+    "at": "00:16:15.507",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Matt Catingub",
+    "keyed-information": {
+      "name-as-written": "Matt Catingub",
+      "name-normalized": "Catingub, Matt",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:22:22.374",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Nancy Wong\n\nPostal Service Hawaii",
+    "keyed-information": {
+      "name-as-written": "Nancy Wong",
+      "name-normalized": "Wong, Nancy",
+      "attributes": [
+        "Postal Service Hawaii"
+      ]
+    }
+  }
+]

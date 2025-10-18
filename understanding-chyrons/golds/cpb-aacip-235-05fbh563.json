@@ -1,0 +1,90 @@
+[
+  {
+    "at": "00:00:13.646",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PAUL NUSSBAUM\n\nAnchorage Daily News",
+    "keyed-information": {
+      "name-as-written": "PAUL NUSSBAUM",
+      "name-normalized": "Nussbam, Paul",
+      "attributes": [
+        "Anchorage Daily News"
+      ]
+    }
+  },
+  {
+    "at": "00:02:32.252",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WALLY HICKEL",
+    "keyed-information": {
+      "name-as-written": "WALLY HICKEL",
+      "name-normalized": "Hickel, Wally",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:50.503",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MIKE HARMON\n\nAssociated Press",
+    "keyed-information": {
+      "name-as-written": "MIKE HARMON",
+      "name-normalized": "Harmon, Mike",
+      "attributes": [
+        "Associated Press"
+      ]
+    }
+  },
+  {
+    "at": "00:27:35.887",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOM FINK",
+    "keyed-information": {
+      "name-as-written": "TOM FINK",
+      "name-normalized": "Fink, Tom",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:28:59.270",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WALLY HICKEL",
+    "keyed-information": {
+      "name-as-written": "WALLY HICKEL",
+      "name-normalized": "Hickel, Wally",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:30:29.627",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAY HAMMOND",
+    "keyed-information": {
+      "name-as-written": "JAY HAMMOND",
+      "name-normalized": "Hammond, Jay",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:31:59.517",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JIMMY DREW LOCKHART",
+    "keyed-information": {
+      "name-as-written": "JIMMY DREW LOCKHART",
+      "name-normalized": "Lockhard, Jimmy Drew",
+      "attributes": []
+    }
+  }
+]

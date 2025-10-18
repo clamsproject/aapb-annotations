@@ -1,0 +1,122 @@
+[
+  {
+    "at": "00:01:17.143",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Geoffrey Simon",
+    "keyed-information": {
+      "name-as-written": "Geoffrey Simon",
+      "name-normalized": "Simon, Geoffrey",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:20.500",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Forbes\n\nEditor-in-Chief, Forbes magazine",
+    "keyed-information": {
+      "name-as-written": "Steve Forbes",
+      "name-normalized": "Forbes, Steve",
+      "attributes": [
+        "Editor-in-Chief, Forbes magazine"
+      ]
+    }
+  },
+  {
+    "at": "00:05:26.392",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Forbes\n\nEditor-in-Chief, Forbes magazine",
+    "keyed-information": {
+      "name-as-written": "Steve Forbes",
+      "name-normalized": "Forbes, Steve",
+      "attributes": [
+        "Editor-in-Chief, Forbes magazine"
+      ]
+    }
+  },
+  {
+    "at": "00:11:23.149",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Forbes\n\nPresident and CEO, Forbes",
+    "keyed-information": {
+      "name-as-written": "Steve Forbes",
+      "name-normalized": "Forbes, Steve",
+      "attributes": [
+        "President and CEO, Forbes"
+      ]
+    }
+  },
+  {
+    "at": "00:14:44.650",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Geoffrey Simon",
+    "keyed-information": {
+      "name-as-written": "Geoffrey Simon",
+      "name-normalized": "Simon, Geoffrey",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:15:08.140",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Forbes\n\nPresident and CEO, Forbes",
+    "keyed-information": {
+      "name-as-written": "Steve Forbes",
+      "name-normalized": "Forbes, Steve",
+      "attributes": [
+        "President and CEO, Forbes"
+      ]
+    }
+  },
+  {
+    "at": "00:20:28.627",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Forbes\n\nEditor-in-Chief, Forbes magazine",
+    "keyed-information": {
+      "name-as-written": "Steve Forbes",
+      "name-normalized": "Forbes, Steve",
+      "attributes": [
+        "Editor-in-Chief, Forbes magazine"
+      ]
+    }
+  },
+  {
+    "at": "00:25:56.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Forbes\n\nPresident and CEO, Forbes",
+    "keyed-information": {
+      "name-as-written": "Steve Forbes",
+      "name-normalized": "Forbes, Steve",
+      "attributes": [
+        "President and CEO, Forbes"
+      ]
+    }
+  },
+  {
+    "at": "00:27:36.154",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Geoffrey Simon",
+    "keyed-information": {
+      "name-as-written": "Geoffrey Simon",
+      "name-normalized": "Simon, Geoffrey",
+      "attributes": []
+    }
+  }
+]

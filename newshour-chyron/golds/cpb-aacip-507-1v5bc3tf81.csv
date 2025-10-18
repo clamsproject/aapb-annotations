@@ -1,43 +1,43 @@
-index,start,end,text-transcript
-1,00:03:40.777,00:03:45.527,George Mitchell\nU.S. Olympics Investigation
-2,00:06:07.777,00:06:12.027,Khieu Samphan\nKhmer Rouge Defector
-3,00:08:01.277,00:08:05.027,"Juan Antonio Samaranch\nPresident, International Olympic Cmte."
-4,00:09:19.277,00:09:24.777,George Mitchell\nU.S. Olympics Investigation
-5,00:11:01.527,00:11:04.027,Christine Brennan\nSports Writer
-6,00:12:03.277,00:12:07.777,Howard Berkes\nNational Public Radio
-7,00:12:51.527,00:12:55.777,Howard Berkes\nNational Public Radio
-8,00:13:45.277,00:13:48.527,Christine Brennan\nSports Writer
-9,00:15:27.527,00:15:31.027,Howard Berkes\nNational Public Radio
-10,00:16:52.777,00:16:54.527,Christine Brennan\nSports Writer
-11,00:18:23.527,00:18:28.027,Howard Berkes\nNational Public Radio
-12,00:20:32.027,00:20:33.527,Christine Brennan\nSports Writer
-13,00:26:08.027,00:26:11.277,Janet Abramovitz\nWorldwatch Institute
-14,00:27:32.777,00:27:35.027,Janet Abramovitz\nWorldwatch Institute
-15,00:27:41.277,00:27:44.527,John Clizbe\nAmerican Red Cross
-16,00:28:10.777,00:28:14.527,John Clizbe\nAmerican Red Cross
-17,00:28:46.027,00:28:51.027,Bob Watson\nWorld Bank
-18,00:29:17.527,00:29:23.027,Bob Watson\nWorld Bank
-19,00:30:21.527,00:30:27.277,Bob Watson\nWorld Bank
-20,00:31:22.527,00:31:26.777,Janet Abramovitz\nWorldwatch Institute
-21,00:32:59.027,00:33:03.527,Janet Abramovitz\nWorldwatch Institute
-22,00:33:55.527,00:33:59.277,John Clizbe\nAmerican Red Cross
-23,00:34:35.277,00:34:40.027,John Clizbe\nAmerican Red Cross
-24,00:35:42.777,00:35:47.027,John Clizbe\nAmerican Red Cross
-25,00:37:30.027,00:37:34.527,Bob Watson\nWorld Bank
-26,00:39:36.527,00:39:41.027,Gray Russrock\nBoeing Machinist
-27,00:39:53.527,00:39:56.777,Anthony Carson\nBoeing Machinist
-28,00:40:21.027,00:40:24.777,"Alan Mulally\nPres., Boeing Commercial Airplane Div."
-29,00:41:00.527,00:41:05.027,Jin Cho\nAsiana Airlines
-30,00:42:01.277,00:42:05.277,"Charles Hill\nEconomist, University of Washington"
-31,00:43:01.027,00:43:05.027,Tim Goree
-32,00:44:13.027,00:44:18.777,"Charles Hill\nEconomist, University of Washington"
-33,00:44:44.777,00:44:48.777,"Alan Mulally\nPres., Boeing Commercial Airplane Div."
-34,00:45:32.027,00:45:36.527,Dick Conway\nEconomist
-35,00:46:52.277,00:46:57.027,Terence Smith
-36,00:47:34.027,00:47:40.027,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
-37,00:49:06.027,00:49:12.527,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
-38,00:49:58.527,00:50:06.527,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
-39,00:52:20.027,00:52:27.027,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
-40,00:53:14.777,00:53:21.277,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
-41,00:54:19.027,00:54:25.277,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
-42,00:54:49.277,00:54:55.777,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
+start,end,scene-label,text-transcript
+00:03:40.777,00:03:45.527,chyron,George Mitchell\nU.S. Olympics Investigation
+00:06:07.777,00:06:12.027,chyron,Khieu Samphan\nKhmer Rouge Defector
+00:08:01.277,00:08:05.027,chyron,"Juan Antonio Samaranch\nPresident, International Olympic Cmte."
+00:09:19.277,00:09:24.777,chyron,George Mitchell\nU.S. Olympics Investigation
+00:11:01.527,00:11:04.027,chyron,Christine Brennan\nSports Writer
+00:12:03.277,00:12:07.777,chyron,Howard Berkes\nNational Public Radio
+00:12:51.527,00:12:55.777,chyron,Howard Berkes\nNational Public Radio
+00:13:45.277,00:13:48.527,chyron,Christine Brennan\nSports Writer
+00:15:27.527,00:15:31.027,chyron,Howard Berkes\nNational Public Radio
+00:16:52.777,00:16:54.527,chyron,Christine Brennan\nSports Writer
+00:18:23.527,00:18:28.027,chyron,Howard Berkes\nNational Public Radio
+00:20:32.027,00:20:33.527,chyron,Christine Brennan\nSports Writer
+00:26:08.027,00:26:11.277,chyron,Janet Abramovitz\nWorldwatch Institute
+00:27:32.777,00:27:35.027,chyron,Janet Abramovitz\nWorldwatch Institute
+00:27:41.277,00:27:44.527,chyron,John Clizbe\nAmerican Red Cross
+00:28:10.777,00:28:14.527,chyron,John Clizbe\nAmerican Red Cross
+00:28:46.027,00:28:51.027,chyron,Bob Watson\nWorld Bank
+00:29:17.527,00:29:23.027,chyron,Bob Watson\nWorld Bank
+00:30:21.527,00:30:27.277,chyron,Bob Watson\nWorld Bank
+00:31:22.527,00:31:26.777,chyron,Janet Abramovitz\nWorldwatch Institute
+00:32:59.027,00:33:03.527,chyron,Janet Abramovitz\nWorldwatch Institute
+00:33:55.527,00:33:59.277,chyron,John Clizbe\nAmerican Red Cross
+00:34:35.277,00:34:40.027,chyron,John Clizbe\nAmerican Red Cross
+00:35:42.777,00:35:47.027,chyron,John Clizbe\nAmerican Red Cross
+00:37:30.027,00:37:34.527,chyron,Bob Watson\nWorld Bank
+00:39:36.527,00:39:41.027,chyron,Gray Russrock\nBoeing Machinist
+00:39:53.527,00:39:56.777,chyron,Anthony Carson\nBoeing Machinist
+00:40:21.027,00:40:24.777,chyron,"Alan Mulally\nPres., Boeing Commercial Airplane Div."
+00:41:00.527,00:41:05.027,chyron,Jin Cho\nAsiana Airlines
+00:42:01.277,00:42:05.277,chyron,"Charles Hill\nEconomist, University of Washington"
+00:43:01.027,00:43:05.027,chyron,Tim Goree
+00:44:13.027,00:44:18.777,chyron,"Charles Hill\nEconomist, University of Washington"
+00:44:44.777,00:44:48.777,chyron,"Alan Mulally\nPres., Boeing Commercial Airplane Div."
+00:45:32.027,00:45:36.527,chyron,Dick Conway\nEconomist
+00:46:52.277,00:46:57.027,chyron,Terence Smith
+00:47:34.027,00:47:40.027,chyron,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
+00:49:06.027,00:49:12.527,chyron,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
+00:49:58.527,00:50:06.527,chyron,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
+00:52:20.027,00:52:27.027,chyron,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
+00:53:14.777,00:53:21.277,chyron,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
+00:54:19.027,00:54:25.277,chyron,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""
+00:54:49.277,00:54:55.777,chyron,"Henry Kamm\nAuthor, ""Cambodia: Report from\na Stricken Land"""

@@ -1,0 +1,332 @@
+[
+  {
+    "at": "00:00:21.888",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. FRANCES FOX PIVEN\n\nCO-AUTHOR: \"REGULATING THE POOR\"",
+    "keyed-information": {
+      "name-as-written": "DR. FRANCES FOX PIVEN",
+      "name-normalized": "Piven, Frances Fox",
+      "attributes": [
+        "CO-AUTHOR: \"REGULATING THE POOR\""
+      ]
+    }
+  },
+  {
+    "at": "00:01:54.147",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "William Moshofsky\n\nV.P. Georgia Pacific Corp.",
+    "keyed-information": {
+      "name-as-written": "William Moshofsky",
+      "name-normalized": "Moshofsky, William",
+      "attributes": [
+        "V.P. Georgia Pacific Corp."
+      ]
+    }
+  },
+  {
+    "at": "00:03:46.626",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Michael Harrington\n\nauthor:\"The Other America\"",
+    "keyed-information": {
+      "name-as-written": "Michael Harrington",
+      "name-normalized": "Harrington, Michael",
+      "attributes": [
+        "author:\"The Other America\""
+      ]
+    }
+  },
+  {
+    "at": "00:04:54.761",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT STRAUB\n\nOREGON GOVERNOR",
+    "keyed-information": {
+      "name-as-written": "ROBERT STRAUB",
+      "name-normalized": "Straub, Robert",
+      "attributes": [
+        "OREGON GOVERNOR"
+      ]
+    }
+  },
+  {
+    "at": "00:05:51.751",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOM McCALL\n\nFORMER OREGON GOVERNOR",
+    "keyed-information": {
+      "name-as-written": "TOM McCALL",
+      "name-normalized": "McCall, Tom",
+      "attributes": [
+        "FORMER OREGON GOVERNOR"
+      ]
+    }
+  },
+  {
+    "at": "00:07:22.275",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NEIL GOLDSCHMIDT\n\nMAYOR OF PORTLAND",
+    "keyed-information": {
+      "name-as-written": "NEIL GOLDSCHMIDT",
+      "name-normalized": "Goldschmidt, Neil",
+      "attributes": [
+        "MAYOR OF PORTLAND"
+      ]
+    }
+  },
+  {
+    "at": "00:08:47.393",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JUNE JORDAN\n\nPOET",
+    "keyed-information": {
+      "name-as-written": "JUNE JORDAN",
+      "name-normalized": "Jordan, June",
+      "attributes": [
+        "POET"
+      ]
+    }
+  },
+  {
+    "at": "00:10:41.507",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NEIL GOLDSCHMIDT\n\nMayor, City of Portland",
+    "keyed-information": {
+      "name-as-written": "NEIL GOLDSCHMIDT",
+      "name-normalized": "Goldschmidt, Neil",
+      "attributes": [
+        "Mayor, City of Portland"
+      ]
+    }
+  },
+  {
+    "at": "00:11:45.638",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. BERTRAM M. GROSS\n\nPROF:URBAN AFFAIRS, HUNTER COLLEGE",
+    "keyed-information": {
+      "name-as-written": "DR. BERTRAM M. GROSS",
+      "name-normalized": "Gross, Bertram M.",
+      "attributes": [
+        "PROF:URBAN AFFAIRS, HUNTER COLLEGE"
+      ]
+    }
+  },
+  {
+    "at": "00:14:39.378",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM MOSHOFSKY\n\nVICE PRES. GEORGIA PACIFIC CORP.",
+    "keyed-information": {
+      "name-as-written": "WILLIAM MOSHOFSKY",
+      "name-normalized": "Moshofsky, William",
+      "attributes": [
+        "VICE PRES. GEORGIA PACIFIC CORP."
+      ]
+    }
+  },
+  {
+    "at": "00:15:05.504",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES C. CORMAN\n\nCALIFORNIA CONGRESSMAN",
+    "keyed-information": {
+      "name-as-written": "JAMES C. CORMAN",
+      "name-normalized": "Corman, James C.",
+      "attributes": [
+        "CALIFORNIA CONGRESSMAN"
+      ]
+    }
+  },
+  {
+    "at": "00:18:04.383",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CASPAR WEINBERGER\n\nFORMER SECRETARY H.E.W.",
+    "keyed-information": {
+      "name-as-written": "CASPAR WEINBERGER",
+      "name-normalized": "Weinberger, Caspar",
+      "attributes": [
+        "FORMER SECRETARY H.E.W."
+      ]
+    }
+  },
+  {
+    "at": "00:23:01.279",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARK HATFIELD\n\nOREGON SENATOR",
+    "keyed-information": {
+      "name-as-written": "MARK HATFIELD",
+      "name-normalized": "Hatfield, Mark",
+      "attributes": [
+        "OREGON SENATOR"
+      ]
+    }
+  },
+  {
+    "at": "00:26:12.904",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "AL ULLMAN\n\nOREGON CONGRESSMAN",
+    "keyed-information": {
+      "name-as-written": "AL ULLMAN",
+      "name-normalized": "Ullman, Al",
+      "attributes": [
+        "OREGON CONGRESSMAN"
+      ]
+    }
+  },
+  {
+    "at": "00:28:01.646",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CASPAR WEINBERGER\n\nFORMER SECRETARY H.E.W.",
+    "keyed-information": {
+      "name-as-written": "CASPAR WEINBERGER",
+      "name-normalized": "Weinberger, Caspar",
+      "attributes": [
+        "FORMER SECRETARY H.E.W."
+      ]
+    }
+  },
+  {
+    "at": "00:30:52.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EDITH GREEN\n\nFORMER CONGRESSWOMAN",
+    "keyed-information": {
+      "name-as-written": "EDITH GREEN",
+      "name-normalized": "Green, Edith",
+      "attributes": [
+        "FORMER CONGRESSWOMAN"
+      ]
+    }
+  },
+  {
+    "at": "00:35:13.277",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ALVIN SCHORR, Dir.\n\nCOMMUNITY SERVICE SOCIETY, N.Y.C.",
+    "keyed-information": {
+      "name-as-written": "ALVIN SCHORR, Dir.",
+      "name-normalized": "Schorr, Alvin",
+      "attributes": [
+        "COMMUNITY SERVICE SOCIETY, N.Y.C."
+      ]
+    }
+  },
+  {
+    "at": "00:37:27.278",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. BERTRAM GROSS\n\nPROF.URBAN AFFAIRS, HUNTER COLLEGE",
+    "keyed-information": {
+      "name-as-written": "DR. BERTRAM GROSS",
+      "name-normalized": "Gross, Bertram",
+      "attributes": [
+        "PROF.URBAN AFFAIRS, HUNTER COLLEGE"
+      ]
+    }
+  },
+  {
+    "at": "00:40:22.153",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM MOSHOFSKY",
+    "keyed-information": {
+      "name-as-written": "WILLIAM MOSHOFSKY",
+      "name-normalized": "Moshofsky, William",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:42:25.142",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES C. CORMAN",
+    "keyed-information": {
+      "name-as-written": "JAMES C. CORMAN",
+      "name-normalized": "Corman, James C.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:43:07.251",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CASPAR WEINBERGER",
+    "keyed-information": {
+      "name-as-written": "CASPAR WEINBERGER",
+      "name-normalized": "Weinberger, Caspar",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:47:45.529",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. FRANCES FOX PIVEN\n\nPROF. POL. SCI. U OF B",
+    "keyed-information": {
+      "name-as-written": "DR. FRANCES FOX PIVEN",
+      "name-normalized": "Piven, Frances Fox",
+      "attributes": [
+        "PROF. POL. SCI. U OF B"
+      ]
+    }
+  },
+  {
+    "at": "00:54:34.137",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "VERA KATZ\n\nOREGON STATE REPRESENTATIVE",
+    "keyed-information": {
+      "name-as-written": "VERA KATZ",
+      "name-normalized": "Katz, Vera",
+      "attributes": [
+        "OREGON STATE REPRESENTATIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:55:59.022",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "NORMAN WYERS\n\nSCH. OF SOCIAL WORK, PORTLAND STATE",
+    "keyed-information": {
+      "name-as-written": "NORMAN WYERS",
+      "name-normalized": "Wyers, Norman",
+      "attributes": [
+        "SCH. OF SOCIAL WORK, PORTLAND STATE"
+      ]
+    }
+  }
+]

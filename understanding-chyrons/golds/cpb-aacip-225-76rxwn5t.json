@@ -1,0 +1,61 @@
+[
+  {
+    "at": "00:03:40.253",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bill Tobin\n\nTiki's Grill & Bar",
+    "keyed-information": {
+      "name-as-written": "Bill Tobin",
+      "name-normalized": "Tobin, Bill",
+      "attributes": [
+        "Tiki's Grill & Bar"
+      ]
+    }
+  },
+  {
+    "at": "00:10:50.149",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Todani\n\nDirector of Investments\n\nKamehameha Schools",
+    "keyed-information": {
+      "name-as-written": "Susan Todani",
+      "name-normalized": "Todani, Susan",
+      "attributes": [
+        "Director of Investments",
+        "Kamehameha Schools"
+      ]
+    }
+  },
+  {
+    "at": "00:12:08.027",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rosalind Schurgin\n\nExecutive Vice President\n\nFestival Companies",
+    "keyed-information": {
+      "name-as-written": "Rosalind Schurgin",
+      "name-normalized": "Schurgin, Rosalind",
+      "attributes": [
+        "Executive Vice President",
+        "Festival Companies"
+      ]
+    }
+  },
+  {
+    "at": "00:13:51.130",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Scott Williams\n\nGeneral Manager\n\nLex Brodie's",
+    "keyed-information": {
+      "name-as-written": "Scott Williams",
+      "name-normalized": "Williams, Scott",
+      "attributes": [
+        "General Manager",
+        "Lex Brodie's"
+      ]
+    }
+  }
+]

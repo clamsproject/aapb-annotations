@@ -1,0 +1,222 @@
+[
+  {
+    "at": "00:02:39.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Don Schoonmaker\n\nWake Forest University",
+    "keyed-information": {
+      "name-as-written": "Dr. Don Schoonmaker",
+      "name-normalized": "Schoonmaker, Don",
+      "attributes": [
+        "Wake Forest University"
+      ]
+    }
+  },
+  {
+    "at": "00:04:13.886",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. William Boyd",
+    "keyed-information": {
+      "name-as-written": "Rep. William Boyd",
+      "name-normalized": "Boyd, William",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:04.656",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Gardner",
+    "keyed-information": {
+      "name-as-written": "Jim Gardner",
+      "name-normalized": "Gardner, Jim",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:10:29.394",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wendell Sawyer",
+    "keyed-information": {
+      "name-as-written": "Wendell Sawyer",
+      "name-normalized": "Sawyer, Wendell",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:13:26.004",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rick Amme\n\nWXII-TV",
+    "keyed-information": {
+      "name-as-written": "Rick Amme",
+      "name-normalized": "Amme, Rick",
+      "attributes": [
+        "WXII-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:26:44.402",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Seth Effron\n\nThe Greensboro News & Record",
+    "keyed-information": {
+      "name-as-written": "Seth Effron",
+      "name-normalized": "Effron, Seth",
+      "attributes": [
+        "The Greensboro News & Record"
+      ]
+    }
+  },
+  {
+    "at": "00:30:26.891",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Art Eisenstadt\n\nThe Winston-Salem Journal",
+    "keyed-information": {
+      "name-as-written": "Art Eisenstadt",
+      "name-normalized": "Eisenstadt, Art",
+      "attributes": [
+        "The Winston-Salem Journal"
+      ]
+    }
+  },
+  {
+    "at": "00:31:45.502",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. William Boyd",
+    "keyed-information": {
+      "name-as-written": "Rep. William Boyd",
+      "name-normalized": "Boyd, William",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:33:24.768",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Gardner",
+    "keyed-information": {
+      "name-as-written": "Jim Gardner",
+      "name-normalized": "Gardner, Jim",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:34:40.143",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wendell Sawyer",
+    "keyed-information": {
+      "name-as-written": "Wendell Sawyer",
+      "name-normalized": "Sawyer, Wendell",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:38:09.653",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rick Amme\n\nWXII-TV",
+    "keyed-information": {
+      "name-as-written": "Rick Amme",
+      "name-normalized": "Amme, Rick",
+      "attributes": [
+        "WXII-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:46:03.026",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rob Christensen\n\nThe News & Observer",
+    "keyed-information": {
+      "name-as-written": "Rob Christensen",
+      "name-normalized": "Christensen, Rob",
+      "attributes": [
+        "The News & Observer"
+      ]
+    }
+  },
+  {
+    "at": "00:52:30.880",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Seth Effron\n\nThe Greensboro News & Record",
+    "keyed-information": {
+      "name-as-written": "Seth Effron",
+      "name-normalized": "Effron, Seth",
+      "attributes": [
+        "The Greensboro News & Record"
+      ]
+    }
+  },
+  {
+    "at": "00:58:41.517",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Art Eisenstadt\n\nThe Winston-Salem Journal",
+    "keyed-information": {
+      "name-as-written": "Art Eisenstadt",
+      "name-normalized": "Eisenstadt, Art",
+      "attributes": [
+        "The Winston-Salem Journal"
+      ]
+    }
+  },
+  {
+    "at": "01:00:10.639",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Gardner",
+    "keyed-information": {
+      "name-as-written": "Jim Gardner",
+      "name-normalized": "Gardner, Jim",
+      "attributes": []
+    }
+  },
+  {
+    "at": "01:01:36.759",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wendell Sawyer",
+    "keyed-information": {
+      "name-as-written": "Wendell Sawyer",
+      "name-normalized": "Sawyer, Wendell",
+      "attributes": []
+    }
+  },
+  {
+    "at": "01:03:32.007",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. William Boyd",
+    "keyed-information": {
+      "name-as-written": "Rep. William Boyd",
+      "name-normalized": "Boyd, William",
+      "attributes": []
+    }
+  }
+]

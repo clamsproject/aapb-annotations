@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:04:07.013",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Tollefson\n\nCHAMBER OF COMMERCE OF HAWAII",
+    "keyed-information": {
+      "name-as-written": "Jim Tollefson",
+      "name-normalized": "Tollefson, Jim",
+      "attributes": [
+        "CHAMBER OF COMMERCE OF HAWAII"
+      ]
+    }
+  },
+  {
+    "at": "00:10:32.031",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Joe Toy\n\nCEO\n\nHOSPITALITY ADVISORS",
+    "keyed-information": {
+      "name-as-written": "Joe Toy",
+      "name-normalized": "Toy, Joe",
+      "attributes": [
+        "CEO",
+        "HOSPITALITY ADVISORS"
+      ]
+    }
+  },
+  {
+    "at": "00:24:35.373",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "McKibbin Mist\n\nGENTRY HOMES",
+    "keyed-information": {
+      "name-as-written": "McKibbin Mist",
+      "name-normalized": "Mist, McKibbin",
+      "attributes": [
+        "GENTRY HOMES"
+      ]
+    }
+  }
+]

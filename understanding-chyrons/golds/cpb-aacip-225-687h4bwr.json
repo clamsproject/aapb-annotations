@@ -1,0 +1,158 @@
+[
+  {
+    "at": "00:38:33.778",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNNE WATERS",
+    "keyed-information": {
+      "name-as-written": "LYNNE WATERS",
+      "name-normalized": "Waters, Lynne",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:38:57.902",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN HENRY FELIX\n\nGubernatorial Candidate (R)",
+    "keyed-information": {
+      "name-as-written": "JOHN HENRY FELIX",
+      "name-normalized": "Felix, John Henry",
+      "attributes": [
+        "Gubernatorial Candidate (R)"
+      ]
+    }
+  },
+  {
+    "at": "00:39:27.264",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HANNIBAL TAVARES\n\nMayor of Maui",
+    "keyed-information": {
+      "name-as-written": "HANNIBAL TAVARES",
+      "name-normalized": "Tavares, Hannibal",
+      "attributes": [
+        "Mayor of Maui"
+      ]
+    }
+  },
+  {
+    "at": "00:41:07.998",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN HENRY FELIX\n\nGubernatorial Candidate (R)",
+    "keyed-information": {
+      "name-as-written": "JOHN HENRY FELIX",
+      "name-normalized": "Felix, John Henry",
+      "attributes": [
+        "Gubernatorial Candidate (R)"
+      ]
+    }
+  },
+  {
+    "at": "00:43:20.998",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SEN. MALAMA SOLOMON\n\nSen. Agriculture Chair",
+    "keyed-information": {
+      "name-as-written": "SEN. MALAMA SOLOMON",
+      "name-normalized": "Solomon, Malama",
+      "attributes": [
+        "Sen. Agriculture Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:44:50.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SENATOR LEHUA\n\nFERNANDES-SALLING",
+    "keyed-information": {
+      "name-as-written": "SENATOR LEHUA FERNANDES-SALLING",
+      "name-normalized": "Fernandes-Salling, Lehua",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:56:36.259",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. FRED HEMMINGS, JR.",
+    "keyed-information": {
+      "name-as-written": "REP. FRED HEMMINGS, JR.",
+      "name-normalized": "Hemmings, Fred, Jr.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:57:34.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. TERRANCE TOM\n\nHouse Judiciary Chair",
+    "keyed-information": {
+      "name-as-written": "REP. TERRANCE TOM",
+      "name-normalized": "Tom, Terrance",
+      "attributes": [
+        "House Judiciary Chair"
+      ]
+    }
+  },
+  {
+    "at": "00:58:05.515",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. FRED HEMMINGS, JR.",
+    "keyed-information": {
+      "name-as-written": "REP. FRED HEMMINGS, JR.",
+      "name-normalized": "Hemmings, Fred, Jr.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:59:44.514",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. FRED HEMMINGS, JR.",
+    "keyed-information": {
+      "name-as-written": "REP. FRED HEMMINGS, JR.",
+      "name-normalized": "Hemmings, Fred, Jr.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "01:01:12.769",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNNE WATERS",
+    "keyed-information": {
+      "name-as-written": "LYNNE WATERS",
+      "name-normalized": "Waters, Lynne",
+      "attributes": []
+    }
+  },
+  {
+    "at": "01:01:54.777",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PETER CARLISLE\n\nDeputy Prosecutor",
+    "keyed-information": {
+      "name-as-written": "PETER CARLISLE",
+      "name-normalized": "Carlisle, Peter",
+      "attributes": [
+        "Deputy Prosecutor"
+      ]
+    }
+  }
+]

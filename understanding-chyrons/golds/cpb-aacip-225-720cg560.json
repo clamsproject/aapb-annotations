@@ -1,0 +1,32 @@
+[
+  {
+    "at": "00:04:33.006",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Marcus Oshiro\n\nHouse Majority Leader\n\nHawaii Legislature",
+    "keyed-information": {
+      "name-as-written": "Marcus Oshiro",
+      "name-normalized": "Oshiro, Marcus",
+      "attributes": [
+        "House Majority Leader",
+        "Hawaii Legislature"
+      ]
+    }
+  },
+  {
+    "at": "00:21:11.136",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Kristine Castagnaro\n\nExecutive Director\n\nHawaii Council on Economic Education",
+    "keyed-information": {
+      "name-as-written": "Kristine Castagnaro",
+      "name-normalized": "Castagnaro, Kristine",
+      "attributes": [
+        "Executive Director",
+        "Hawaii Council on Economic Education"
+      ]
+    }
+  }
+]

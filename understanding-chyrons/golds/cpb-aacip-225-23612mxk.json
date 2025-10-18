@@ -1,0 +1,74 @@
+[
+  {
+    "at": "00:01:39.265",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:04:22.895",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Barahal\n\nPresident\n\nHonolulu Marathon",
+    "keyed-information": {
+      "name-as-written": "Jim Barahal",
+      "name-normalized": "Barahal, Jim",
+      "attributes": [
+        "President",
+        "Honolulu Marathon"
+      ]
+    }
+  },
+  {
+    "at": "00:10:28.527",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Chuck Sted\n\nPresident\n\nHawaii Pacific Health",
+    "keyed-information": {
+      "name-as-written": "Chuck Sted",
+      "name-normalized": "Sted, Chuck",
+      "attributes": [
+        "President",
+        "Hawaii Pacific Health"
+      ]
+    }
+  },
+  {
+    "at": "00:14:47.887",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lyn Flanigan\n\nHawaii State Bar Association",
+    "keyed-information": {
+      "name-as-written": "Lyn Flanigan",
+      "name-normalized": "Flanigan, Lyn",
+      "attributes": [
+        "Hawaii State Bar Association"
+      ]
+    }
+  },
+  {
+    "at": "00:18:02.514",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lynn Wood\n\nSmall Business Regulatory Review Board",
+    "keyed-information": {
+      "name-as-written": "Lynn Wood",
+      "name-normalized": "Wood, Lynn",
+      "attributes": [
+        "Small Business Regulatory Review Board"
+      ]
+    }
+  }
+]

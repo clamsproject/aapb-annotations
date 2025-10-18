@@ -1,0 +1,59 @@
+[
+  {
+    "at": "00:04:02.508",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bill Boyer\n\nCEO, Mokulele Air",
+    "keyed-information": {
+      "name-as-written": "Bill Boyer",
+      "name-normalized": "Boyer, Bill",
+      "attributes": [
+        "CEO, Mokulele Air"
+      ]
+    }
+  },
+  {
+    "at": "00:11:29.155",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robin Puanani Danner\n\nNative Hawaiian Economic Alliance",
+    "keyed-information": {
+      "name-as-written": "Robin Puanani Danner",
+      "name-normalized": "Danner, Robin Puanani",
+      "attributes": [
+        "Native Hawaiian Economic Alliance"
+      ]
+    }
+  },
+  {
+    "at": "00:16:35.127",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Chuck Steilen\n\nDean of the College of Business Administration\n\nHawaiian Pacific University",
+    "keyed-information": {
+      "name-as-written": "Chuck Steilen",
+      "name-normalized": "Steilen, Chuck",
+      "attributes": [
+        "Dean of the College of Business Administration",
+        "Hawaiian Pacific University"
+      ]
+    }
+  },
+  {
+    "at": "00:22:42.260",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Yuki Kitagawa\n\nFormer Agriculture Chairman",
+    "keyed-information": {
+      "name-as-written": "Yuki Kitagawa",
+      "name-normalized": "Kitagawa, Yuki",
+      "attributes": [
+        "Former Agriculture Chairman"
+      ]
+    }
+  }
+]

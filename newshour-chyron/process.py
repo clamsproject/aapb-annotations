@@ -10,6 +10,7 @@ import shutil
 from collections import defaultdict as ddict
 from pathlib import Path
 
+from clams_utils.aapb import guidhandler
 
 def timeformat(sec_dot_ms):
     if isinstance(sec_dot_ms, str):
@@ -59,19 +60,17 @@ def process(raw_dir, golds_dir):
     # Write the CSV file, text value may contain new lines
     guid_annotation_map = ddict(list)
     for row in csv_data:
-        guid = row[0].replace('.mp4', '')
+        guid = guidhandler.get_aapb_guid_from(row[0])
         guid_annotation_map[guid].append(row[1:])
     for guid, annotations in guid_annotation_map.items():
         annotations.sort()
         outf_path = (Path(golds_dir) / guid).with_suffix('.csv')
-        with open(outf_path, 'a+', encoding='utf8') as f:
+        with open(outf_path, 'w', encoding='utf8') as f:
             writer = csv.writer(f)
-            writer.writerow(['index', 'start', 'end', 'text-transcript'])
-            for i, annotation in enumerate(annotations, 1):
-                annotation[-1] = annotation[-1].replace('\n', '\\n')
-                writer.writerow([i] + annotation)
-
-
+            writer.writerow(['start', 'end', 'scene-label', 'text-transcript'])
+            for annotation in annotations:
+                transcript = annotation[-1].replace('\n', '\\n')
+                writer.writerow(annotation[0:2] + ['chyron', transcript])
 if __name__ == '__main__':
     task_dir = pathlib.Path(__file__).parent
     golds_dir = task_dir / 'golds'

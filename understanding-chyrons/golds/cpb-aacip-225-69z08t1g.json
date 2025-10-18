@@ -1,0 +1,116 @@
+[
+  {
+    "at": "00:11:35.895",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Richard Onishi (D)\n\nHouse of Representatives, District 2",
+    "keyed-information": {
+      "name-as-written": "Richard Onishi (D)",
+      "name-normalized": "Onishi, Richard",
+      "attributes": [
+        "House of Representatives, District 2"
+      ]
+    }
+  },
+  {
+    "at": "00:13:33.779",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Governor John Waihee",
+    "keyed-information": {
+      "name-as-written": "Governor John Waihee",
+      "name-normalized": "Waihee, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:13:50.629",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mayor Frank Fasi",
+    "keyed-information": {
+      "name-as-written": "Mayor Frank Fasi",
+      "name-normalized": "Fasi, Frank",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:14:06.645",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Arlene Kim Ellis\n\nPresident, League of Women Voters",
+    "keyed-information": {
+      "name-as-written": "Arlene Kim Ellis",
+      "name-normalized": "Ellis, Arlene Kim",
+      "attributes": [
+        "President, League of Women Voters"
+      ]
+    }
+  },
+  {
+    "at": "00:15:21.253",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. James Mak\n\nEconomics Chair, UH-Manoa",
+    "keyed-information": {
+      "name-as-written": "Dr. James Mak",
+      "name-normalized": "Mak, James",
+      "attributes": [
+        "Economics Chair, UH-Manoa"
+      ]
+    }
+  },
+  {
+    "at": "00:16:42.134",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Russell Kokubun (D)",
+    "keyed-information": {
+      "name-as-written": "Russell Kokubun (D)",
+      "name-normalized": "Kokubun, Russell",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:17:20.406",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Stephen Yamashiro (D)",
+    "keyed-information": {
+      "name-as-written": "Stephen Yamashiro (D)",
+      "name-normalized": "Yamashiro, Stephen",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:19:27.266",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wendell Kaehuaea (R)",
+    "keyed-information": {
+      "name-as-written": "Wendell Kaehuaea (R)",
+      "name-normalized": "Kaehuaea, Wendell",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:19:54.393",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lorraine Inouye (D)",
+    "keyed-information": {
+      "name-as-written": "Lorraine Inouye (D)",
+      "name-normalized": "Inouye, Lorraine",
+      "attributes": []
+    }
+  }
+]

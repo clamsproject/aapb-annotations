@@ -1,0 +1,31 @@
+[
+  {
+    "at": "00:03:56.135",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mike Ruley\n\nCEO\n\nHawaiian Telcom",
+    "keyed-information": {
+      "name-as-written": "Mike Ruley",
+      "name-normalized": "Ruley, Mike",
+      "attributes": [
+        "CEO",
+        "Hawaiian Telcom"
+      ]
+    }
+  },
+  {
+    "at": "00:14:47.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Michael Kliks\n\nBeekeeper",
+    "keyed-information": {
+      "name-as-written": "Michael Kliks",
+      "name-normalized": "Kliks, Michael",
+      "attributes": [
+        "Beekeeper"
+      ]
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "at": "00:01:39.766",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:04:46.753",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Connie Lau\n\nCEO\n\nAmerican Savings Bank",
+    "keyed-information": {
+      "name-as-written": "Connie Lau",
+      "name-normalized": "Lau, Connie",
+      "attributes": [
+        "CEO",
+        "American Savings Bank"
+      ]
+    }
+  },
+  {
+    "at": "00:10:44.877",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sterling Paulos\n\nHotel Director\n\nNCL Hawaii",
+    "keyed-information": {
+      "name-as-written": "Sterling Paulos",
+      "name-normalized": "Paulos, Sterling",
+      "attributes": [
+        "Hotel Director",
+        "NCL Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:15:54.520",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Susan Todani\n\nDirector of Investments\n\nKamehameha Schools",
+    "keyed-information": {
+      "name-as-written": "Susan Todani",
+      "name-normalized": "Todani, Susan",
+      "attributes": [
+        "Director of Investments",
+        "Kamehameha Schools"
+      ]
+    }
+  },
+  {
+    "at": "00:17:12.031",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rosalind Schurgin\n\nExecutive Vice President\n\nFestival Companies",
+    "keyed-information": {
+      "name-as-written": "Rosalind Schurgin",
+      "name-normalized": "Schurgin, Rosalind",
+      "attributes": [
+        "Executive Vice President",
+        "Festival Companies"
+      ]
+    }
+  }
+]

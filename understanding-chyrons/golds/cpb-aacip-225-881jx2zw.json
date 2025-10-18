@@ -1,0 +1,85 @@
+[
+  {
+    "at": "00:07:17.637",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WARREN PRICE\n\nAttorney General",
+    "keyed-information": {
+      "name-as-written": "WARREN PRICE",
+      "name-normalized": "Price, Warren",
+      "attributes": [
+        "Attorney General"
+      ]
+    }
+  },
+  {
+    "at": "00:09:19.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DANTE CARPENTER\n\nHawaii County Mayor",
+    "keyed-information": {
+      "name-as-written": "DANTE CARPENTER",
+      "name-normalized": "Carpenter, Dante",
+      "attributes": [
+        "Hawaii County Mayor"
+      ]
+    }
+  },
+  {
+    "at": "00:09:36.776",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HANNIBAL TAVARES\n\nMaui County Mayor",
+    "keyed-information": {
+      "name-as-written": "HANNIBAL TAVARES",
+      "name-normalized": "Tavares, Hannibal",
+      "attributes": [
+        "Maui County Mayor"
+      ]
+    }
+  },
+  {
+    "at": "00:16:42.267",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. BRIAN TANIGUCHI (D)\n\nChairman - House Committee\n\non Higher Education",
+    "keyed-information": {
+      "name-as-written": "REP. BRIAN TANIGUCHI (D)",
+      "name-normalized": "Taniguchi, Brian",
+      "attributes": [
+        "Chairman - House Committee on Higher Education"
+      ]
+    }
+  },
+  {
+    "at": "00:17:30.749",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MOANIKEALA AKAKA\n\nTrustee\n\nOffice of Hawaiian Affairs",
+    "keyed-information": {
+      "name-as-written": "MOANIKEALA AKAKA",
+      "name-normalized": "Akaka, Moanikeala",
+      "attributes": [
+        "Trustee",
+        "Office of Hawaiian Affairs"
+      ]
+    }
+  },
+  {
+    "at": "00:19:31.904",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. ROLAND KOTANI (D)",
+    "keyed-information": {
+      "name-as-written": "REP. ROLAND KOTANI (D)",
+      "name-normalized": "Kotani, Roland",
+      "attributes": []
+    }
+  }
+]

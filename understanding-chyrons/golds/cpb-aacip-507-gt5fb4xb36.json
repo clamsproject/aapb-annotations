@@ -1,0 +1,430 @@
+[
+  {
+    "at": "00:05:11.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. RICHARD GEPHARDT\n\n(D) Missouri",
+    "keyed-information": {
+      "name-as-written": "Rep. RICHARD GEPHARDT",
+      "name-normalized": "Gephardt, Richard",
+      "attributes": [
+        "(D) Missouri"
+      ]
+    }
+  },
+  {
+    "at": "00:05:41.407",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES BAKER\n\nSecretary of Treasury",
+    "keyed-information": {
+      "name-as-written": "JAMES BAKER",
+      "name-normalized": "Baker, James",
+      "attributes": [
+        "Secretary of Treasury"
+      ]
+    }
+  },
+  {
+    "at": "00:06:48.374",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CASPAR WEINBERGER\n\nSecretary of Defense",
+    "keyed-information": {
+      "name-as-written": "CASPAR WEINBERGER",
+      "name-normalized": "Weinberger, Caspar",
+      "attributes": [
+        "Secretary of Defense"
+      ]
+    }
+  },
+  {
+    "at": "00:09:19.892",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARGARET THATCHER\n\nPrime Minister",
+    "keyed-information": {
+      "name-as-written": "MARGARET THATCHER",
+      "name-normalized": "Thatcher, Margaret",
+      "attributes": [
+        "Prime Minister"
+      ]
+    }
+  },
+  {
+    "at": "00:11:02.762",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHARLES-FERDINAND NOTHOMB\n\nInterior Minister, Belgium",
+    "keyed-information": {
+      "name-as-written": "CHARLES-FERDINAND NOTHOMB",
+      "name-normalized": "Nothomb, Charles-Ferdinand",
+      "attributes": [
+        "Interior Minister, Belgium"
+      ]
+    }
+  },
+  {
+    "at": "00:14:43.015",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. THOMAS DOWNEY\n\n(D) New York",
+    "keyed-information": {
+      "name-as-written": "Rep. THOMAS DOWNEY",
+      "name-normalized": "Downey, Thomas",
+      "attributes": [
+        "(D) New York"
+      ]
+    }
+  },
+  {
+    "at": "00:15:27.760",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. WILLIAM COYNE\n\n(D) Pennsylvania",
+    "keyed-information": {
+      "name-as-written": "Rep. WILLIAM COYNE",
+      "name-normalized": "Coyne, William",
+      "attributes": [
+        "(D) Pennsylvania"
+      ]
+    }
+  },
+  {
+    "at": "00:16:13.772",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES BAKER\n\nSecretary of Treasury",
+    "keyed-information": {
+      "name-as-written": "JAMES BAKER",
+      "name-normalized": "Baker, James",
+      "attributes": [
+        "Secretary of Treasury"
+      ]
+    }
+  },
+  {
+    "at": "00:16:48.874",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. RONNIE FLIPPO\n\n(D) Alabama",
+    "keyed-information": {
+      "name-as-written": "Rep. RONNIE FLIPPO",
+      "name-normalized": "Flippo, Ronnie",
+      "attributes": [
+        "(D) Alabama"
+      ]
+    }
+  },
+  {
+    "at": "00:18:51.630",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SEN. ROBERT PACKWOOD\n\n(R) Oregon",
+    "keyed-information": {
+      "name-as-written": "SEN. ROBERT PACKWOOD",
+      "name-normalized": "Packwood, Robert",
+      "attributes": [
+        "(R) Oregon"
+      ]
+    }
+  },
+  {
+    "at": "00:20:37.402",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. THOMAS DOWNEY\n\n(D) New York",
+    "keyed-information": {
+      "name-as-written": "REP. THOMAS DOWNEY",
+      "name-normalized": "Downey, Thomas",
+      "attributes": [
+        "(D) New York"
+      ]
+    }
+  },
+  {
+    "at": "00:21:21.513",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. JACK KEMP\n\n(R) New York",
+    "keyed-information": {
+      "name-as-written": "REP. JACK KEMP",
+      "name-normalized": "Kemp, Jack",
+      "attributes": [
+        "(R) New York"
+      ]
+    }
+  },
+  {
+    "at": "00:24:03.141",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SEN. ROBERT PACKWOOD\n\n(R) Oregon",
+    "keyed-information": {
+      "name-as-written": "SEN. ROBERT PACKWOOD",
+      "name-normalized": "Packwood, Robert",
+      "attributes": [
+        "(R) Oregon"
+      ]
+    }
+  },
+  {
+    "at": "00:26:01.893",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. JACK KEMP\n\n(R) New York",
+    "keyed-information": {
+      "name-as-written": "REP. JACK KEMP",
+      "name-normalized": "Kemp, Jack",
+      "attributes": [
+        "(R) New York"
+      ]
+    }
+  },
+  {
+    "at": "00:26:40.131",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. THOMAS DOWNEY\n\n(D) New York",
+    "keyed-information": {
+      "name-as-written": "REP. THOMAS DOWNEY",
+      "name-normalized": "Downey, Thomas",
+      "attributes": [
+        "(D) New York"
+      ]
+    }
+  },
+  {
+    "at": "00:27:58.777",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SEN. ROBERT PACKWOOD\n\n(R) Oregon",
+    "keyed-information": {
+      "name-as-written": "SEN. ROBERT PACKWOOD",
+      "name-normalized": "Packwood, Robert",
+      "attributes": [
+        "(R) Oregon"
+      ]
+    }
+  },
+  {
+    "at": "00:32:11.262",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. JACK KEMP\n\n(R) New York",
+    "keyed-information": {
+      "name-as-written": "REP. JACK KEMP",
+      "name-normalized": "Kemp, Jack",
+      "attributes": [
+        "(R) New York"
+      ]
+    }
+  },
+  {
+    "at": "00:35:40.905",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PETER ROBINSON\n\nLiverpool security",
+    "keyed-information": {
+      "name-as-written": "PETER ROBINSON",
+      "name-normalized": "Robinson, Peter",
+      "attributes": [
+        "Liverpool security"
+      ]
+    }
+  },
+  {
+    "at": "00:37:23.774",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN SMITH\n\nLiverpool Chairman",
+    "keyed-information": {
+      "name-as-written": "JOHN SMITH",
+      "name-normalized": "Smith, John",
+      "attributes": [
+        "Liverpool Chairman"
+      ]
+    }
+  },
+  {
+    "at": "00:37:41.259",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TREVOR McDONALD\n\nLiverpool",
+    "keyed-information": {
+      "name-as-written": "TREVOR McDONALD",
+      "name-normalized": "McDonald, Trevor",
+      "attributes": [
+        "Liverpool"
+      ]
+    }
+  },
+  {
+    "at": "00:39:17.154",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN WILLIAMS\n\nLeicester University",
+    "keyed-information": {
+      "name-as-written": "JOHN WILLIAMS",
+      "name-normalized": "Williams, John",
+      "attributes": [
+        "Leicester University"
+      ]
+    }
+  },
+  {
+    "at": "00:40:10.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "R.W. APPLE, JR.\n\nNew York Times",
+    "keyed-information": {
+      "name-as-written": "R.W. APPLE, JR.",
+      "name-normalized": "Apple, R. W., Jr.",
+      "attributes": [
+        "New York Times"
+      ]
+    }
+  },
+  {
+    "at": "00:42:24.508",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "R.W. APPLE, JR.\n\nNew York Times",
+    "keyed-information": {
+      "name-as-written": "R.W. APPLE, JR.",
+      "name-normalized": "Apple, R. W., Jr.",
+      "attributes": [
+        "New York Times"
+      ]
+    }
+  },
+  {
+    "at": "00:43:57.768",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "R.W. APPLE, JR.\n\nNew York Times",
+    "keyed-information": {
+      "name-as-written": "R.W. APPLE, JR.",
+      "name-normalized": "Apple, R. W., Jr.",
+      "attributes": [
+        "New York Times"
+      ]
+    }
+  },
+  {
+    "at": "00:48:02.012",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RAY ROGERS",
+    "keyed-information": {
+      "name-as-written": "RAY ROGERS",
+      "name-normalized": "Rogers, Ray",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:48:56.767",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RICHARD KNOWLTON\n\nHormel Co.",
+    "keyed-information": {
+      "name-as-written": "RICHARD KNOWLTON",
+      "name-normalized": "Knowlton, Richard",
+      "attributes": [
+        "Hormel Co."
+      ]
+    }
+  },
+  {
+    "at": "00:49:32.135",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "D.H. \"PETE\" ANKENY\n\nFirst Bank System",
+    "keyed-information": {
+      "name-as-written": "D.H. \"PETE\" ANKENY",
+      "name-normalized": "Ankeny, D. H.",
+      "attributes": [
+        "First Bank System"
+      ]
+    }
+  },
+  {
+    "at": "00:50:21.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JIM GAYETTE\n\nUFCW Local P-9",
+    "keyed-information": {
+      "name-as-written": "JIM GAYETTE",
+      "name-normalized": "Gayette, Jim",
+      "attributes": [
+        "UFCW Local P-9"
+      ]
+    }
+  },
+  {
+    "at": "00:51:09.766",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DR. LARRY MAIER",
+    "keyed-information": {
+      "name-as-written": "DR. LARRY MAIER",
+      "name-normalized": "Maier, Larry",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:52:26.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RAY ROGERS",
+    "keyed-information": {
+      "name-as-written": "RAY ROGERS",
+      "name-normalized": "Rogers, Ray",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:52:54.404",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARIO BOGNANNO\n\nUniv. Of Minnesota",
+    "keyed-information": {
+      "name-as-written": "MARIO BOGNANNO",
+      "name-normalized": "Bognanno, Mario",
+      "attributes": [
+        "Univ. Of Minnesota"
+      ]
+    }
+  }
+]

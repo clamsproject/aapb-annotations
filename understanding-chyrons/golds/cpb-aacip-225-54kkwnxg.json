@@ -1,0 +1,47 @@
+[
+  {
+    "at": "00:10:12.144",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Janice Mizuno\n\nOWNER\n\nANIMATION MAGIC",
+    "keyed-information": {
+      "name-as-written": "Janice Mizuno",
+      "name-normalized": "Mizuno, Janice",
+      "attributes": [
+        "OWNER",
+        "ANIMATION MAGIC"
+      ]
+    }
+  },
+  {
+    "at": "00:15:46.879",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lavina Wong\n\nDIRECTOR OF SPECIAL EVENTS\n\nMACY'S",
+    "keyed-information": {
+      "name-as-written": "Lavinia Wong",
+      "name-normalized": "Wong, Lavinia",
+      "attributes": [
+        "DIRECTOR OF SPECIAL EVENTS",
+        "MACY'S"
+      ]
+    }
+  },
+  {
+    "at": "00:22:02.020",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rick Schmit\n\nSTORE MANAGER\n\nNA HOKU",
+    "keyed-information": {
+      "name-as-written": "Rick Schmit",
+      "name-normalized": "Schmit, Rick",
+      "attributes": [
+        "STORE MANAGER",
+        "NA HOKU"
+      ]
+    }
+  }
+]

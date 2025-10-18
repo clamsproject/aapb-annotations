@@ -1,0 +1,98 @@
+[
+  {
+    "at": "00:11:34.026",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SUSAN WILLIAMS",
+    "keyed-information": {
+      "name-as-written": "SUSAN WILLIAMS",
+      "name-normalized": "\nWilliams, Susan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:11:59.018",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "ROBERT MIRABAL",
+    "keyed-information": {
+      "name-as-written": "ROBERT MIRABAL",
+      "name-normalized": "\nMirabal, Robert",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:13:12.525",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BUFFY SAINTE-MARIE",
+    "keyed-information": {
+      "name-as-written": "BUFFY SAINTE-MARIE",
+      "name-normalized": "\nSainte-Marie, Buffy",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:20:59.891",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOM BEE",
+    "keyed-information": {
+      "name-as-written": "TOM BEE",
+      "name-normalized": "\nBee, Tom",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:25:30.028",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN TRUDELL",
+    "keyed-information": {
+      "name-as-written": "JOHN TRUDELL",
+      "name-normalized": "\nTrudell, John",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:34:29.000",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT MIRABAL",
+    "keyed-information": {
+      "name-as-written": "ROBERT MIRABAL",
+      "name-normalized": "\nMirabal, Robert",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:41:02.893",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SUSAN WILLIAMS",
+    "keyed-information": {
+      "name-as-written": "SUSAN WILLIAMS",
+      "name-normalized": "\nWilliams, Susan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:46:24.882",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "ROBBY BEE",
+    "keyed-information": {
+      "name-as-written": "ROBBY BEE",
+      "name-normalized": "\nBee, Robby",
+      "attributes": []
+    }
+  }
+]

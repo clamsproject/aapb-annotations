@@ -1,0 +1,304 @@
+[
+  {
+    "at": "00:01:21.147",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LESLIE WILCOX\n\nELECTION LIVE",
+    "keyed-information": {
+      "name-as-written": "LESLIE WILCOX",
+      "name-normalized": "Wilcox, Leslie",
+      "attributes": [
+        "ELECTION LIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:02:49.269",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "PENNY NAKAMURA\n\nELECTION LIVE",
+    "keyed-information": {
+      "name-as-written": "PENNY NAKAMURA",
+      "name-normalized": "Nakamura, Penny",
+      "attributes": [
+        "ELECTION LIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:03:09.522",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JERRY ROTHSTEIN\n\nHapuna Beach Spokesman",
+    "keyed-information": {
+      "name-as-written": "JERRY ROTHSTEIN",
+      "name-normalized": "Rothstein, Jerry",
+      "attributes": [
+        "Hapuna Beach Spokesman"
+      ]
+    }
+  },
+  {
+    "at": "00:05:08.374",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM MIELCKE\n\nVice-President\n\nMauna Kea Properties",
+    "keyed-information": {
+      "name-as-written": "WILLIAM MIELCKE",
+      "name-normalized": "Mielcke, William",
+      "attributes": [
+        "Vice-President",
+        "Mauna Kea Properties"
+      ]
+    }
+  },
+  {
+    "at": "00:05:21.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RUDY LEGASPI\n\nHawaii County Clerk",
+    "keyed-information": {
+      "name-as-written": "RUDY LEGASPI",
+      "name-normalized": "Legaspi, Rudy",
+      "attributes": [
+        "Hawaii County Clerk"
+      ]
+    }
+  },
+  {
+    "at": "00:05:49.649",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JERRY ROTHSTEIN\n\nHapuna Beach Spokesman",
+    "keyed-information": {
+      "name-as-written": "JERRY ROTHSTEIN",
+      "name-normalized": "Rothstein, Jerry",
+      "attributes": [
+        "Hapuna Beach Spokesman"
+      ]
+    }
+  },
+  {
+    "at": "00:07:03.156",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNETTE LO TOM\n\nELECTION LIVE",
+    "keyed-information": {
+      "name-as-written": "LYNETTE LO TOM",
+      "name-normalized": "Tom, Lynette Lo",
+      "attributes": [
+        "ELECTION LIVE"
+      ]
+    }
+  },
+  {
+    "at": "00:07:14.133",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW LEVIN (D)",
+    "keyed-information": {
+      "name-as-written": "ANDREW LEVIN (D)",
+      "name-normalized": "Levin, Andrew",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:08:19.632",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT N. HERKES (R)",
+    "keyed-information": {
+      "name-as-written": "ROBERT N. HERKES (R)",
+      "name-normalized": "Herkes, Robert N.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:10:06.639",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW LEVIN (D)",
+    "keyed-information": {
+      "name-as-written": "ANDREW LEVIN (D)",
+      "name-normalized": "Levin, Andrew",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:11:52.011",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT N. HERKES (R)",
+    "keyed-information": {
+      "name-as-written": "ROBERT N. HERKES (R)",
+      "name-normalized": "Herkes, Robert N.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:15:31.263",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SENA GATES (D)\n\nFormer City Council Candidate",
+    "keyed-information": {
+      "name-as-written": "SENA GATES (D)",
+      "name-normalized": "Gates, Sena",
+      "attributes": [
+        "Former City Council Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:15:42.374",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EILEEN ANDERSON (D)\n\nFormer Honolulu Mayor",
+    "keyed-information": {
+      "name-as-written": "EILEEN ANDERSON (D)",
+      "name-normalized": "Anderson, Eileen",
+      "attributes": [
+        "Former Honolulu Mayor"
+      ]
+    }
+  },
+  {
+    "at": "00:16:26.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JACKIE YOUNG\n\nHawaii Women's\n\nPolitical Caucus",
+    "keyed-information": {
+      "name-as-written": "JACKIE YOUNG",
+      "name-normalized": "Young, Jackie",
+      "attributes": [
+        "Hawaii Women's Political Caucus"
+      ]
+    }
+  },
+  {
+    "at": "00:17:03.155",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EILEEN ANDERSON (D)\n\nFormer Honolulu Mayor",
+    "keyed-information": {
+      "name-as-written": "EILEEN ANDERSON (D)",
+      "name-normalized": "Anderson, Eileen",
+      "attributes": [
+        "Former Honolulu Mayor"
+      ]
+    }
+  },
+  {
+    "at": "00:17:44.263",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SENA GATES (D)\n\nFormer City Council Candidate",
+    "keyed-information": {
+      "name-as-written": "SENA GATES (D)",
+      "name-normalized": "Gates, Sena",
+      "attributes": [
+        "Former City Council Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:18:41.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LILY OKAMOTO (D)\n\nFormer City Council Candidate",
+    "keyed-information": {
+      "name-as-written": "LILY OKAMOTO (D)",
+      "name-normalized": "Okamoto, Lily",
+      "attributes": [
+        "Former City Council Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:19:09.281",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JACKIE YOUNG\n\nHawaii Women's\n\nPolitical Caucus",
+    "keyed-information": {
+      "name-as-written": "JACKIE YOUNG",
+      "name-normalized": "Young, Jackie",
+      "attributes": [
+        "Hawaii Women's Political Caucus"
+      ]
+    }
+  },
+  {
+    "at": "00:19:46.018",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JUDY SOBIN (D)\n\nFormer City Council Candidate",
+    "keyed-information": {
+      "name-as-written": "JUDY SOBIN (D)",
+      "name-normalized": "Sobin, Judy",
+      "attributes": [
+        "Former City Council Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:21:02.527",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JUDY SOBIN (D)\n\nFormer City Council Candidate",
+    "keyed-information": {
+      "name-as-written": "JUDY SOBIN (D)",
+      "name-normalized": "Sobin, Judy",
+      "attributes": [
+        "Former City Council Candidate"
+      ]
+    }
+  },
+  {
+    "at": "00:24:13.251",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BART FREDO\n\n\"Dialog\"",
+    "keyed-information": {
+      "name-as-written": "BART FREDO",
+      "name-normalized": "Fredo, Bart",
+      "attributes": [
+        "\"Dialog\""
+      ]
+    }
+  },
+  {
+    "at": "00:27:24.376",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JERRY BURRIS\n\nPolitics Editor\n\nHonolulu Advertiser",
+    "keyed-information": {
+      "name-as-written": "JERRY BURRIS",
+      "name-normalized": "Burris, Jerry",
+      "attributes": [
+        "Politics Editor",
+        "Honolulu Advertiser"
+      ]
+    }
+  }
+]

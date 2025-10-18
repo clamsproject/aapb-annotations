@@ -1,0 +1,142 @@
+[
+  {
+    "at": "00:02:55.775",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "THOMAS SCHIPPERS\n\nCONDUCTOR",
+    "keyed-information": {
+      "name-as-written": "THOMAS SCHIPPERS",
+      "name-normalized": "Schippers, Thomas",
+      "attributes": [
+        "CONDUCTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:03:37.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE JELLINEK\n\nMUSICAL DIRECTOR, WQXR",
+    "keyed-information": {
+      "name-as-written": "GEORGE JELLINEK",
+      "name-normalized": "Jellinek, George",
+      "attributes": [
+        "MUSICAL DIRECTOR, WQXR"
+      ]
+    }
+  },
+  {
+    "at": "00:05:12.512",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW PORTER\n\nMUSIC CRITIC, THE NEW YORKER",
+    "keyed-information": {
+      "name-as-written": "ANDREW PORTER",
+      "name-normalized": "Porter, Andrew",
+      "attributes": [
+        "MUSIC CRITIC, THE NEW YORKER"
+      ]
+    }
+  },
+  {
+    "at": "00:09:26.132",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE JELLINEK\n\nMUSICAL DIRECTOR, WQXR",
+    "keyed-information": {
+      "name-as-written": "GEORGE JELLINEK",
+      "name-normalized": "Jellinek, George",
+      "attributes": [
+        "MUSICAL DIRECTOR, WQXR"
+      ]
+    }
+  },
+  {
+    "at": "00:09:54.393",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW PORTER\n\nMUSIC CRITIC, THE NEW YORKER",
+    "keyed-information": {
+      "name-as-written": "ANDREW PORTER",
+      "name-normalized": "Porter, Andrew",
+      "attributes": [
+        "MUSIC CRITIC, THE NEW YORKER"
+      ]
+    }
+  },
+  {
+    "at": "00:14:36.141",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "THOMAS SCHIPPERS\n\nCONDUCTOR",
+    "keyed-information": {
+      "name-as-written": "THOMAS SCHIPPERS",
+      "name-normalized": "Schippers, Thomas",
+      "attributes": [
+        "CONDUCTOR"
+      ]
+    }
+  },
+  {
+    "at": "00:15:23.255",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW PORTER\n\nMUSIC CRITIC, THE NEW YORKER",
+    "keyed-information": {
+      "name-as-written": "ANDREW PORTER",
+      "name-normalized": "Porter, Andrew",
+      "attributes": [
+        "MUSIC CRITIC, THE NEW YORKER"
+      ]
+    }
+  },
+  {
+    "at": "00:15:59.258",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE JELLINEK\n\nMUSICAL DIRECTOR, WQXR",
+    "keyed-information": {
+      "name-as-written": "GEORGE JELLINEK",
+      "name-normalized": "Jellinek, George",
+      "attributes": [
+        "MUSICAL DIRECTOR, WQXR"
+      ]
+    }
+  },
+  {
+    "at": "00:19:35.507",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE JELLINEK\n\nMUSICAL DIRECTOR, WQXR",
+    "keyed-information": {
+      "name-as-written": "GEORGE JELLINEK",
+      "name-normalized": "Jellinek, George",
+      "attributes": [
+        "MUSICAL DIRECTOR, WQXR"
+      ]
+    }
+  },
+  {
+    "at": "00:21:16.008",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BENITA EISLER\n\nTHE ROUNDTABLE",
+    "keyed-information": {
+      "name-as-written": "BENITA EISLER",
+      "name-normalized": "Eisler, Benita",
+      "attributes": [
+        "THE ROUNDTABLE"
+      ]
+    }
+  }
+]

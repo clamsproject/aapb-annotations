@@ -1,0 +1,44 @@
+[
+  {
+    "at": "00:01:38.631",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:10:20.019",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Abe Weinstein\n\nHawaii Int'l Jazz Festival",
+    "keyed-information": {
+      "name-as-written": "Abe Weinstein",
+      "name-normalized": "Weinstein, Abe",
+      "attributes": [
+        "Hawaii Int'l Jazz Festival"
+      ]
+    }
+  },
+  {
+    "at": "00:18:29.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Gulick\n\nHonolulu Symphony",
+    "keyed-information": {
+      "name-as-written": "Tom Gulick",
+      "name-normalized": "Gulick, Tom",
+      "attributes": [
+        "Honolulu Symphony"
+      ]
+    }
+  }
+]

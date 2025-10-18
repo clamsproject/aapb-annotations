@@ -1,0 +1,142 @@
+[
+  {
+    "at": "00:01:25.385",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MATT SEIDEN\n\nMORNING SUN",
+    "keyed-information": {
+      "name-as-written": "MATT SEIDEN",
+      "name-normalized": "Seiden, Matt",
+      "attributes": [
+        "MORNING SUN"
+      ]
+    }
+  },
+  {
+    "at": "00:01:45.271",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RON DAVIS\n\nMORNING SUN",
+    "keyed-information": {
+      "name-as-written": "RON DAVIS",
+      "name-normalized": "Davis, Ron",
+      "attributes": [
+        "MORNING SUN"
+      ]
+    }
+  },
+  {
+    "at": "00:02:02.889",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT DOUGLAS\n\nWMAR-TV",
+    "keyed-information": {
+      "name-as-written": "ROBERT DOUGLAS",
+      "name-normalized": "Douglas, Robert",
+      "attributes": [
+        "WMAR-TV"
+      ]
+    }
+  },
+  {
+    "at": "00:02:26.146",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SUSAN SELIGER\n\nWASHINGTONIAN",
+    "keyed-information": {
+      "name-as-written": "SUSAN SELIGER",
+      "name-normalized": "Seliger, Susan",
+      "attributes": [
+        "WASHINGTONIAN"
+      ]
+    }
+  },
+  {
+    "at": "00:08:04.016",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SUSAN SELIGER\n\nWASHINGTONIAN",
+    "keyed-information": {
+      "name-as-written": "SUSAN SELIGER",
+      "name-normalized": "Seliger, Susan",
+      "attributes": [
+        "WASHINGTONIAN"
+      ]
+    }
+  },
+  {
+    "at": "00:10:41.407",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MATT SEIDEN\n\nMORNING SUN",
+    "keyed-information": {
+      "name-as-written": "MATT SEIDEN",
+      "name-normalized": "Seiden, Matt",
+      "attributes": [
+        "MORNING SUN"
+      ]
+    }
+  },
+  {
+    "at": "00:14:57.129",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MATT SEIDEN\n\nMORNING SUN",
+    "keyed-information": {
+      "name-as-written": "MATT SEIDEN",
+      "name-normalized": "Seiden, Matt",
+      "attributes": [
+        "MORNING SUN"
+      ]
+    }
+  },
+  {
+    "at": "00:18:32.377",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RON DAVIS\n\nMORNING SUN",
+    "keyed-information": {
+      "name-as-written": "RON DAVIS",
+      "name-normalized": "Davis, Ron",
+      "attributes": [
+        "MORNING SUN"
+      ]
+    }
+  },
+  {
+    "at": "00:23:02.647",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "RON DAVIS\n\nMORNING SUN",
+    "keyed-information": {
+      "name-as-written": "RON DAVIS",
+      "name-normalized": "Davis, Ron",
+      "attributes": [
+        "MORNING SUN"
+      ]
+    }
+  },
+  {
+    "at": "00:23:56.401",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT DOUGLAS\n\nWMAR-TV",
+    "keyed-information": {
+      "name-as-written": "ROBERT DOUGLAS",
+      "name-normalized": "Douglas, Robert",
+      "attributes": [
+        "WMAR-TV"
+      ]
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "at": "00:15:23.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KAUPENA WONG",
+    "keyed-information": {
+      "name-as-written": "KAUPENA WONG",
+      "name-normalized": "Wong, Kaupena",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:39:43.647",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JACK K. SUWA\n\nState Representative",
+    "keyed-information": {
+      "name-as-written": "JACK K. SUWA",
+      "name-normalized": "Suwa, Jack K.",
+      "attributes": [
+        "State Representative"
+      ]
+    }
+  },
+  {
+    "at": "00:52:14.498",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES H. WAKATSUKI\n\nSpeaker of the House",
+    "keyed-information": {
+      "name-as-written": "JAMES H. WAKATSUKI",
+      "name-normalized": "Wakatsuki, James H.",
+      "attributes": [
+        "Speaker of the House"
+      ]
+    }
+  },
+  {
+    "at": "00:58:35.278",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES H. WAKATSUKI\n\nSpeaker of the House",
+    "keyed-information": {
+      "name-as-written": "JAMES H. WAKATSUKI",
+      "name-normalized": "Wakatsuki, James H.",
+      "attributes": [
+        "Speaker of the House"
+      ]
+    }
+  }
+]

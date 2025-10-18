@@ -1,0 +1,142 @@
+[
+  {
+    "at": "00:00:57.257",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JIM COOPER\n\nMODERATOR",
+    "keyed-information": {
+      "name-as-written": "JIM COOPER",
+      "name-normalized": "Cooper, Jim",
+      "attributes": [
+        "MODERATOR"
+      ]
+    }
+  },
+  {
+    "at": "00:01:34.894",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DELORES CERVANTES\n\nVICE CHAIR, CONCILIO",
+    "keyed-information": {
+      "name-as-written": "DELORES CERVANTES",
+      "name-normalized": "Cervantes, Delores",
+      "attributes": [
+        "VICE CHAIR, CONCILIO"
+      ]
+    }
+  },
+  {
+    "at": "00:01:51.277",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EDWARD MORGA\n\nPRESIDENT, CONCILIO",
+    "keyed-information": {
+      "name-as-written": "EDWARD MORGA",
+      "name-normalized": "Morga, Edward",
+      "attributes": [
+        "PRESIDENT, CONCILIO"
+      ]
+    }
+  },
+  {
+    "at": "00:02:05.892",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK VALDEZ\n\nATTORNEY",
+    "keyed-information": {
+      "name-as-written": "FRANK VALDEZ",
+      "name-normalized": "Valdez, Frank",
+      "attributes": [
+        "ATTORNEY"
+      ]
+    }
+  },
+  {
+    "at": "00:08:22.001",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EDWARD MORGA\n\nPRESIDENT, CONCILIO",
+    "keyed-information": {
+      "name-as-written": "EDWARD MORGA",
+      "name-normalized": "Morga, Edward",
+      "attributes": [
+        "PRESIDENT, CONCILIO"
+      ]
+    }
+  },
+  {
+    "at": "00:10:33.899",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK VALDEZ\n\nATTORNEY",
+    "keyed-information": {
+      "name-as-written": "FRANK VALDEZ",
+      "name-normalized": "Valdez, Frank",
+      "attributes": [
+        "ATTORNEY"
+      ]
+    }
+  },
+  {
+    "at": "00:13:43.022",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DELORES CERVANTES\n\nVICE CHAIR, CONCILIO",
+    "keyed-information": {
+      "name-as-written": "DELORES CERVANTES",
+      "name-normalized": "Cervantes, Delores",
+      "attributes": [
+        "VICE CHAIR, CONCILIO"
+      ]
+    }
+  },
+  {
+    "at": "00:16:34.760",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK VALDEZ\n\nATTORNEY",
+    "keyed-information": {
+      "name-as-written": "FRANK VALDEZ",
+      "name-normalized": "Valdez, Frank",
+      "attributes": [
+        "ATTORNEY"
+      ]
+    }
+  },
+  {
+    "at": "00:19:46.018",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DELORES CERVANTES\n\nVICE CHAIR, CONCILIO",
+    "keyed-information": {
+      "name-as-written": "DELORES CERVANTES",
+      "name-normalized": "Cervantes, Delores",
+      "attributes": [
+        "VICE CHAIR, CONCILIO"
+      ]
+    }
+  },
+  {
+    "at": "00:22:24.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "EDWARD MORGA\n\nPRESIDENT, CONCILIO",
+    "keyed-information": {
+      "name-as-written": "EDWARD MORGA",
+      "name-normalized": "Morga, Edward",
+      "attributes": [
+        "PRESIDENT, CONCILIO"
+      ]
+    }
+  }
+]

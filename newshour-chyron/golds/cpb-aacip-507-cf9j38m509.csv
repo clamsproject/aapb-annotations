@@ -1,30 +1,30 @@
-index,start,end,text-transcript
-1,00:03:25.277,00:03:29.027,"Raanan Gissin\nAdviser, Israeli Prime Minister"
-2,00:04:03.027,00:04:07.777,Condoleezza Rice\nSecretary of State
-3,00:08:34.277,00:08:38.027,"Josh Bolten\nDirector, Office of Management and Budget"
-4,00:08:57.027,00:09:00.277,Kwame Holman
-5,00:10:38.777,00:10:42.277,Rep. John Spratt\n(D) South Carolina
-6,00:11:17.527,00:11:22.777,"Josh Bolten\nDirector, Office of Management and Budget"
-7,00:12:02.277,00:12:05.777,Sen. Kent Conrad\n(D) North Dakota
-8,00:12:35.527,00:12:40.027,Margaret Warner
-9,00:13:09.777,00:13:21.027,Sen. Judd Gregg\n(R) New Hampshire
-10,00:13:44.277,00:13:58.027,Sen. Kent Conrad\n(D) North Dakota
-11,00:16:46.277,00:17:01.527,Sen. Kent Conrad\n(D) North Dakota
-12,00:18:09.777,00:18:24.777,Sen. Judd Gregg\n(R) New Hampshire
-13,00:22:55.527,00:23:07.777,Sen. Kent Conrad\n(D) North Dakota
-14,00:23:26.777,00:23:41.777,Sen. Judd Gregg\n(R) New Hampshire
-15,00:25:59.777,00:26:17.027,Sen. Kent Conrad\n(D) North Dakota
-16,00:27:09.777,00:27:15.777,Ray Suarez
-17,00:29:51.277,00:30:02.277,Dan Ephron\nNewsweek
-18,00:32:08.277,00:32:21.527,Dan Ephron\nNewsweek
-19,00:35:20.777,00:35:24.777,Dr. Ross Fletcher\nChief of Medical Staff\nWashington VA Medical Center
-20,00:36:01.027,00:36:04.777,Susan Dentzer
-21,00:36:44.027,00:36:48.277,Dr. Lucian Leape\nHarvard School of Public Health
-22,00:37:12.277,00:37:16.027,Dr. Robert Wachter\nUCSF School of Medicine
-23,00:37:44.527,00:37:47.027,"Dr. Jonathan Perlin\nActing Under Sec. for Health, VA"
-24,00:38:15.027,00:38:19.527,"James Bagian\nDir, VA National Center for Patient Safety"
-25,00:42:26.527,00:42:30.527,"Dr. Jonathan Perlin\nActing Under Sec. for Health, VA"
-26,00:46:47.527,00:46:51.027,Terence Smith
-27,00:47:06.777,00:47:10.027,John Feinstein\nSportswriter
-28,00:50:18.777,00:50:30.777,John Feinstein\nSportswriter
-29,00:53:18.277,00:53:27.777,John Feinstein\nSportswriter
+start,end,scene-label,text-transcript
+00:03:25.277,00:03:29.027,chyron,"Raanan Gissin\nAdviser, Israeli Prime Minister"
+00:04:03.027,00:04:07.777,chyron,Condoleezza Rice\nSecretary of State
+00:08:34.277,00:08:38.027,chyron,"Josh Bolten\nDirector, Office of Management and Budget"
+00:08:57.027,00:09:00.277,chyron,Kwame Holman
+00:10:38.777,00:10:42.277,chyron,Rep. John Spratt\n(D) South Carolina
+00:11:17.527,00:11:22.777,chyron,"Josh Bolten\nDirector, Office of Management and Budget"
+00:12:02.277,00:12:05.777,chyron,Sen. Kent Conrad\n(D) North Dakota
+00:12:35.527,00:12:40.027,chyron,Margaret Warner
+00:13:09.777,00:13:21.027,chyron,Sen. Judd Gregg\n(R) New Hampshire
+00:13:44.277,00:13:58.027,chyron,Sen. Kent Conrad\n(D) North Dakota
+00:16:46.277,00:17:01.527,chyron,Sen. Kent Conrad\n(D) North Dakota
+00:18:09.777,00:18:24.777,chyron,Sen. Judd Gregg\n(R) New Hampshire
+00:22:55.527,00:23:07.777,chyron,Sen. Kent Conrad\n(D) North Dakota
+00:23:26.777,00:23:41.777,chyron,Sen. Judd Gregg\n(R) New Hampshire
+00:25:59.777,00:26:17.027,chyron,Sen. Kent Conrad\n(D) North Dakota
+00:27:09.777,00:27:15.777,chyron,Ray Suarez
+00:29:51.277,00:30:02.277,chyron,Dan Ephron\nNewsweek
+00:32:08.277,00:32:21.527,chyron,Dan Ephron\nNewsweek
+00:35:20.777,00:35:24.777,chyron,Dr. Ross Fletcher\nChief of Medical Staff\nWashington VA Medical Center
+00:36:01.027,00:36:04.777,chyron,Susan Dentzer
+00:36:44.027,00:36:48.277,chyron,Dr. Lucian Leape\nHarvard School of Public Health
+00:37:12.277,00:37:16.027,chyron,Dr. Robert Wachter\nUCSF School of Medicine
+00:37:44.527,00:37:47.027,chyron,"Dr. Jonathan Perlin\nActing Under Sec. for Health, VA"
+00:38:15.027,00:38:19.527,chyron,"James Bagian\nDir, VA National Center for Patient Safety"
+00:42:26.527,00:42:30.527,chyron,"Dr. Jonathan Perlin\nActing Under Sec. for Health, VA"
+00:46:47.527,00:46:51.027,chyron,Terence Smith
+00:47:06.777,00:47:10.027,chyron,John Feinstein\nSportswriter
+00:50:18.777,00:50:30.777,chyron,John Feinstein\nSportswriter
+00:53:18.277,00:53:27.777,chyron,John Feinstein\nSportswriter

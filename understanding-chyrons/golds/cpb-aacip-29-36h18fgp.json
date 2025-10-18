@@ -1,0 +1,110 @@
+[
+  {
+    "at": "00:01:17.010",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Iverson",
+    "keyed-information": {
+      "name-as-written": "David Iverson",
+      "name-normalized": "Iverson, David",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:17.130",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Prof. Robert Miller\n\nDEPT. OF ANTHROPOLOGY\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Prof. Robert Miller",
+      "name-normalized": "Miller, Robert",
+      "attributes": [
+        "DEPT. OF ANTHROPOLOGY U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:04:40.513",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wesley Foell\n\nDIR. ENERGY SYSTEMS\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Wesley Foell",
+      "name-normalized": "Foell, Wesley",
+      "attributes": [
+        "DIR. ENERGY SYSTEMS U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:05:59.625",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Jones\n\nMGR. ISSUES DEVELOPMENT\n\nWIS. POWER AND LIGHT",
+    "keyed-information": {
+      "name-as-written": "Steve Jones",
+      "name-normalized": "Jones, Steve",
+      "attributes": [
+        "MGR. ISSUES DEVELOPMENT WIS. POWER AND LIGHT"
+      ]
+    }
+  },
+  {
+    "at": "00:17:13.999",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "David Iverson",
+    "keyed-information": {
+      "name-as-written": "David Iverson",
+      "name-normalized": "Iverson, David",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:17:25.878",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Prof. Robert Miller\n\nDEPT. OF ANTHROPOLOGY\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Prof. Robert Miller",
+      "name-normalized": "Miller, Robert",
+      "attributes": [
+        "DEPT. OF ANTHROPOLOGY U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:18:18.530",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wesley Foell\n\nDIR. ENERGY SYSTEMS\n\nU.W. MADISON",
+    "keyed-information": {
+      "name-as-written": "Wesley Foell",
+      "name-normalized": "Foell, Wesley",
+      "attributes": [
+        "DIR. ENERGY SYSTEMS U.W. MADISON"
+      ]
+    }
+  },
+  {
+    "at": "00:19:07.779",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Jones\n\nMGR. ISSUES DEVELOPMENT\n\nWIS. POWER AND LIGHT",
+    "keyed-information": {
+      "name-as-written": "Steve Jones",
+      "name-normalized": "Jones, Steve",
+      "attributes": [
+        "MGR. ISSUES DEVELOPMENT WIS. POWER AND LIGHT"
+      ]
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "at": "00:01:31.758",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:03:57.136",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Frank Mento\n\nKewalo Ocean Activities",
+    "keyed-information": {
+      "name-as-written": "Frank Mento",
+      "name-normalized": "Mento, Frank",
+      "attributes": [
+        "Kewalo Ocean Activities"
+      ]
+    }
+  },
+  {
+    "at": "00:04:23.763",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Daniel Dinell\n\nHawaii Community Development Authority",
+    "keyed-information": {
+      "name-as-written": "Daniel Dinell",
+      "name-normalized": "Dinell, Daniel",
+      "attributes": [
+        "Hawaii Community Development Authority"
+      ]
+    }
+  },
+  {
+    "at": "00:17:32.885",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Roy Sakuma\n\nUkulele Festival Founder",
+    "keyed-information": {
+      "name-as-written": "Roy Sakuma",
+      "name-normalized": "Sakuma, Roy",
+      "attributes": [
+        "Ukulele Festival Founder"
+      ]
+    }
+  }
+]

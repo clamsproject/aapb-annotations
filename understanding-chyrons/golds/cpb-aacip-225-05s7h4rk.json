@@ -1,0 +1,59 @@
+[
+  {
+    "at": "00:05:17.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Brian Barbata\n\nGas Retailer",
+    "keyed-information": {
+      "name-as-written": "Brian Barbata",
+      "name-normalized": "Barbata, Brian",
+      "attributes": [
+        "Gas Retailer"
+      ]
+    }
+  },
+  {
+    "at": "00:12:33.519",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mike Fassiotto\n\nChaminade University",
+    "keyed-information": {
+      "name-as-written": "Mike Fassiotto",
+      "name-normalized": "Fassiotto, Mike",
+      "attributes": [
+        "Chaminade University"
+      ]
+    }
+  },
+  {
+    "at": "00:14:50.155",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Tollefson\n\nPresident\n\nChamber of Commerce of Hawaii",
+    "keyed-information": {
+      "name-as-written": "Jim Tollefson",
+      "name-normalized": "Tollefson, Jim",
+      "attributes": [
+        "President",
+        "Chamber of Commerce of Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:21:32.624",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jane Sawyer\n\nSBA Honolulu",
+    "keyed-information": {
+      "name-as-written": "Jane Sawyer",
+      "name-normalized": "Sawyer, Jane",
+      "attributes": [
+        "SBA Honolulu"
+      ]
+    }
+  }
+]

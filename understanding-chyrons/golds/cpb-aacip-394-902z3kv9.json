@@ -1,0 +1,128 @@
+[
+  {
+    "at": "00:06:06.399",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "B. CARTER RANDALL\n\nSenior Vice President\n\nTrust Company",
+    "keyed-information": {
+      "name-as-written": "B. CARTER RANDALL",
+      "name-normalized": "Randall, B. Carter",
+      "attributes": [
+        "Senior Vice President Trust Company"
+      ]
+    }
+  },
+  {
+    "at": "00:07:25.011",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK CAPPIELLO, Jr. \n\nFinancial V.P. Insurance Co.",
+    "keyed-information": {
+      "name-as-written": "FRANK CAPPIELLO, Jr. ",
+      "name-normalized": "Cappiello, Frank, Jr.",
+      "attributes": [
+        "Financial V.P. Insurance Co."
+      ]
+    }
+  },
+  {
+    "at": "00:08:56.135",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT NUROCK\n\nAccount Executive",
+    "keyed-information": {
+      "name-as-written": "ROBERT NUROCK",
+      "name-normalized": "Nurock, Robert",
+      "attributes": [
+        "Account Executive"
+      ]
+    }
+  },
+  {
+    "at": "00:18:06.885",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARTIN E. ZWEIG\n\nEditor \n\nZweig Forecast",
+    "keyed-information": {
+      "name-as-written": "MARTIN E. ZWEIG",
+      "name-normalized": "Zweig, Martin E. ",
+      "attributes": [
+        "Editor Zweig Forecast"
+      ]
+    }
+  },
+  {
+    "at": "00:21:00.259",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARTIN E. ZWEIG\n\nEditor \n\nZweig Forecast",
+    "keyed-information": {
+      "name-as-written": "MARTIN E. ZWEIG",
+      "name-normalized": "Zweig, Martin E. ",
+      "attributes": [
+        "Editor Zweig Forecast"
+      ]
+    }
+  },
+  {
+    "at": "00:22:33.518",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "B. CARTER RANDALL\n\nSenior Vice President\n\nTrust Company",
+    "keyed-information": {
+      "name-as-written": "B. CARTER RANDALL",
+      "name-normalized": "Randall, B. Carter",
+      "attributes": [
+        "Senior Vice President Trust Company"
+      ]
+    }
+  },
+  {
+    "at": "00:24:04.142",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "FRANK CAPPIELLO, Jr. \n\nFinancial V.P. Insurance Co.",
+    "keyed-information": {
+      "name-as-written": "FRANK CAPPIELLO, Jr. ",
+      "name-normalized": "Cappiello, Frank, Jr.",
+      "attributes": [
+        "Financial V.P. Insurance Co."
+      ]
+    }
+  },
+  {
+    "at": "00:25:26.258",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROBERT NUROCK\n\nAccount Executive",
+    "keyed-information": {
+      "name-as-written": "ROBERT NUROCK",
+      "name-normalized": "Nurock, Robert",
+      "attributes": [
+        "Account Executive"
+      ]
+    }
+  },
+  {
+    "at": "00:28:00.378",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARTIN E. ZWEIG\n\nEditor \n\nZweig Forecast",
+    "keyed-information": {
+      "name-as-written": "MARTIN E. ZWEIG",
+      "name-normalized": "Zweig, Martin E. ",
+      "attributes": [
+        "Editor Zweig Forecast"
+      ]
+    }
+  }
+]

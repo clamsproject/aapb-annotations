@@ -1,0 +1,44 @@
+[
+  {
+    "at": "00:03:19.265",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOM OKAMURA (D)\n\nHouse Majority Leader",
+    "keyed-information": {
+      "name-as-written": "TOM OKAMURA (D)",
+      "name-normalized": "Okamura, Tom",
+      "attributes": [
+        "House Majority Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:10:38.004",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "QUENTIN KAWANANAKOA (R)\n\nHouse Minority Leader",
+    "keyed-information": {
+      "name-as-written": "QUENTIN KAWANANAKOA (R)",
+      "name-normalized": "Kawananakoa, Quentin",
+      "attributes": [
+        "House Minority Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:14:26.265",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "QUENTIN KAWANANAKOA (R)\n\nHouse Minority Leader",
+    "keyed-information": {
+      "name-as-written": "QUENTIN KAWANANAKOA (R)",
+      "name-normalized": "Kawananakoa, Quentin",
+      "attributes": [
+        "House Minority Leader"
+      ]
+    }
+  }
+]

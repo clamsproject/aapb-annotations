@@ -1,0 +1,130 @@
+[
+  {
+    "at": "00:02:28.148",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Kayne Pyatt\n\nWagon Train Trail Boss",
+    "keyed-information": {
+      "name-as-written": "Kayne Pyatt",
+      "name-normalized": "Pyatt, Kayne",
+      "attributes": [
+        "Wagon Train Trail Boss"
+      ]
+    }
+  },
+  {
+    "at": "00:03:15.395",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Don Hufford",
+    "keyed-information": {
+      "name-as-written": "Don Hufford",
+      "name-normalized": "Hufford, Don",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:03:47.760",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Morris McCarty",
+    "keyed-information": {
+      "name-as-written": "Morris McCarty",
+      "name-normalized": "McCarty, Morris",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:05:55.388",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Riley Gunter",
+    "keyed-information": {
+      "name-as-written": "Riley Gunter",
+      "name-normalized": "Gunter, Riley",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:24.777",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Val Geissler\n\nWagon Train Vice President",
+    "keyed-information": {
+      "name-as-written": "Val Geissler",
+      "name-normalized": "Geissler, Val",
+      "attributes": [
+        "Wagon Train Vice President"
+      ]
+    }
+  },
+  {
+    "at": "00:10:25.758",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Bob Johnson",
+    "keyed-information": {
+      "name-as-written": "Bob Johnson",
+      "name-normalized": "Johnson, Bob",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:14:20.526",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Phil Marincic\n\nWagonmaster",
+    "keyed-information": {
+      "name-as-written": "Phil Marincic",
+      "name-normalized": "Marincic, Phil",
+      "attributes": [
+        "Wagonmaster"
+      ]
+    }
+  },
+  {
+    "at": "00:17:43.395",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Kayne Pyatt\n\nTrail Boss",
+    "keyed-information": {
+      "name-as-written": "Kayne Pyatt",
+      "name-normalized": "Pyatt, Kayne ",
+      "attributes": [
+        "Trail Boss"
+      ]
+    }
+  },
+  {
+    "at": "00:18:18.897",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Candy Hufford",
+    "keyed-information": {
+      "name-as-written": "Candy Hufford",
+      "name-normalized": "Hufford, Candy",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:18:42.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Kevin Lauer",
+    "keyed-information": {
+      "name-as-written": "Kevin Lauer",
+      "name-normalized": "Lauer, Kevin",
+      "attributes": []
+    }
+  }
+]

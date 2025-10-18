@@ -1,0 +1,174 @@
+[
+  {
+    "at": "00:04:03.142",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robert Hubbard\nPAST PRESIDENT\nSENIOR LOBBY",
+    "keyed-information": {
+      "name-as-written": "Robert Hubbard",
+      "name-normalized": "\nHubbard, Robert",
+      "attributes": [
+        "\nPAST PRESIDENT",
+        "\nSENIOR LOBBY"
+      ]
+    }
+  },
+  {
+    "at": "00:07:02.021",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Carol Taylor-Little\nSTATE RESPRESENTATIVE, ARVADA",
+    "keyed-information": {
+      "name-as-written": "Carol Taylor-Little",
+      "name-normalized": "\nTaylor-Little, Carol",
+      "attributes": [
+        "\nSTATE REPRESENTATIVE, ARVADA"
+      ]
+    }
+  },
+  {
+    "at": "00:08:13.259",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Leonard Hellman, M.D., LL.B.\nDIR., GERIATRICS & GERONTOLOGY\nBETH ISRAEL HOSPITAL",
+    "keyed-information": {
+      "name-as-written": "Leonard Hellman, M.D., LL.B.",
+      "name-normalized": "\nHellman, Leonard",
+      "attributes": [
+        "\nDIR., GERIATRICS & GERONTOLOGY",
+        "\nBETH ISRAEL HOSPITAL"
+      ]
+    }
+  },
+  {
+    "at": "00:10:57.890",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Fred Abrams\nDIR., CENTER FOR APPLIED\nBIO-MEDICAL ETHICS",
+    "keyed-information": {
+      "name-as-written": "Dr. Fred Abrams",
+      "name-normalized": "\nAbrams, Fred",
+      "attributes": [
+        "\nDIR., CENTER FOR APPLIED BIO-MEDICAL ETHICS"
+      ]
+    }
+  },
+  {
+    "at": "00:11:51.777",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Fred Abrams\nDIR., CENTER FOR APPLIED\nBIO-MEDICAL ETHICS",
+    "keyed-information": {
+      "name-as-written": "Dr. Fred Abrams",
+      "name-normalized": "\nAbrams, Fred",
+      "attributes": [
+        "\nDIR., CENTER FOR APPLIED BIO-MEDICAL ETHICS"
+      ]
+    }
+  },
+  {
+    "at": "00:14:34.907",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Carol Taylor-Little\nSTATE REPRESENTATIVE, ARVADA",
+    "keyed-information": {
+      "name-as-written": "Carol Taylor-Little",
+      "name-normalized": "\nTaylor-Little, Carol",
+      "attributes": [
+        "\nSTATE REPRESENTATIVE, ARVADA"
+      ]
+    }
+  },
+  {
+    "at": "00:16:58.250",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robert Hubbard\nPAST PRESIDENT\nSENIOR LOBBY",
+    "keyed-information": {
+      "name-as-written": "Rober Hubbard",
+      "name-normalized": "\nHubbard, Robert",
+      "attributes": [
+        "\nPAST PRESIDENT",
+        "\nSENIOR LOBBY"
+      ]
+    }
+  },
+  {
+    "at": "00:20:35.634",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "\"Daddy\" Bruce Randolph, Sr.",
+    "keyed-information": {
+      "name-as-written": "\"Daddy\" Bruce Randolph, Sr.",
+      "name-normalized": "\nRandolph, Bruce, Sr.",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:23:45.390",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dee Bennett\nINITIATOR\nPERSONAL CARE BOARD HOME ACT",
+    "keyed-information": {
+      "name-as-written": "Dee Bennett",
+      "name-normalized": "\nBennett, Dee",
+      "attributes": [
+        "\nINITIATOR",
+        "\nPERSONAL CARE BOARD HOME ACT"
+      ]
+    }
+  },
+  {
+    "at": "00:25:30.262",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Carol Taylor-Little\nSTATE REPRESENTATIVE, ARVADA",
+    "keyed-information": {
+      "name-as-written": "Carol Taylor-Little",
+      "name-normalized": "\nTaylor-Little, Carol",
+      "attributes": [
+        "\nSTATE REPRESENTATIVE, ARVADA"
+      ]
+    }
+  },
+  {
+    "at": "00:26:21.146",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Robert Hubbard\nPAST PRESIDENT\nSENIOR LOBBY",
+    "keyed-information": {
+      "name-as-written": "Robert Hubbard",
+      "name-normalized": "\nHubbard, Robert",
+      "attributes": [
+        "\nPAST PRESIDENT",
+        "\nSENIOR LOBBY"
+      ]
+    }
+  },
+  {
+    "at": "00:26:53.011",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Leonard Hellman, M.D., LL.B.\nDIR., GERIATRICS & GERONTOLOGY\nBETH ISRAEL HOSPITAL",
+    "keyed-information": {
+      "name-as-written": "Leonard Hellman, M.D., LL.B.",
+      "name-normalized": "\nHellman, Leonard",
+      "attributes": [
+        "\nDIR., GERIATRICS & GERONTOLOGY",
+        "\nBETH ISRAEL HOSPITAL"
+      ]
+    }
+  }
+]

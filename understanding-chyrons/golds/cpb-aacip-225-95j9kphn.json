@@ -1,0 +1,59 @@
+[
+  {
+    "at": "00:04:06.512",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Roger Kaiwi\n\nCaptain Cook Coffee Co.",
+    "keyed-information": {
+      "name-as-written": "Roger Kaiwi",
+      "name-normalized": "Kaiwi, Roger",
+      "attributes": [
+        "Captain Cook Coffee Co."
+      ]
+    }
+  },
+  {
+    "at": "00:05:48.781",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Wayman\n\nHawaii Coffee Co.",
+    "keyed-information": {
+      "name-as-written": "Jim Wayman",
+      "name-normalized": "Wayman, Jim",
+      "attributes": [
+        "Hawaii Coffee Co."
+      ]
+    }
+  },
+  {
+    "at": "00:12:44.396",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wayne Parsons\n\nHawaii State Bar Association",
+    "keyed-information": {
+      "name-as-written": "Wayne Parsons",
+      "name-normalized": "Parsons, Wayne",
+      "attributes": [
+        "Hawaii State Bar Association"
+      ]
+    }
+  },
+  {
+    "at": "00:21:53.378",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Andrew Rossiter\n\nDirector\n\nWaikiki Aquarium",
+    "keyed-information": {
+      "name-as-written": "Andrew Rossiter",
+      "name-normalized": "Rossiter, Andrew",
+      "attributes": [
+        "Director",
+        "Waikiki Aquarium"
+      ]
+    }
+  }
+]

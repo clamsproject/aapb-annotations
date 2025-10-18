@@ -1,0 +1,86 @@
+[
+  {
+    "at": "00:01:34.027",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Howard Dicus\n\nPBN Friday",
+    "keyed-information": {
+      "name-as-written": "Howard Dicus",
+      "name-normalized": "Dicus, Howard",
+      "attributes": [
+        "PBN Friday"
+      ]
+    }
+  },
+  {
+    "at": "00:04:00.907",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Wendy Goodenow\n\nHNL Travel",
+    "keyed-information": {
+      "name-as-written": "Wendy Goodenow",
+      "name-normalized": "Goodenow, Wendy",
+      "attributes": [
+        "HNL Travel"
+      ]
+    }
+  },
+  {
+    "at": "00:09:59.265",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jeff Berger\n\nKapalua Bay Resort",
+    "keyed-information": {
+      "name-as-written": "Jeff Berger",
+      "name-normalized": "Berger, Jeff",
+      "attributes": [
+        "Kapalua Bay Resort"
+      ]
+    }
+  },
+  {
+    "at": "00:14:56.395",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rex Kim\n\nKorean Chamber of Commerce",
+    "keyed-information": {
+      "name-as-written": "Rex Kim",
+      "name-normalized": "Kim, Rex",
+      "attributes": [
+        "Korean Chamber of Commerce"
+      ]
+    }
+  },
+  {
+    "at": "00:20:58.156",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Aaron Lau\n\nPacific Handcrafters Guild",
+    "keyed-information": {
+      "name-as-written": "Aaron Lau",
+      "name-normalized": "Lau, Aaron",
+      "attributes": [
+        "Pacific Handcrafters Guild"
+      ]
+    }
+  },
+  {
+    "at": "00:24:10.015",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jennifer Eisenhart\n\nPacific Handcrafters Guild",
+    "keyed-information": {
+      "name-as-written": "Jennifer Eisenhart",
+      "name-normalized": "Eisenhart, Jennifer",
+      "attributes": [
+        "Pacific Handcrafters Guild"
+      ]
+    }
+  }
+]

@@ -1,0 +1,791 @@
+[
+  {
+    "at": "00:01:27.520",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BART FREDO\nHawaii Public\nTelevision",
+    "keyed-information": {
+      "name-as-written": "BART FREDO",
+      "name-normalized": "\nFredo, Bart",
+      "attributes": [
+        "\nHawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:02:32.752",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "If You Have A Question\nCall: 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:09:26.265",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHRIS CONYBEARE\nProducer, Hawaii\nPublic Television",
+    "keyed-information": {
+      "name-as-written": "CHRIS CONYBEARE",
+      "name-normalized": "\nConybeare, Chris",
+      "attributes": [
+        "\nProducer, Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:09:49.388",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:10:10.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "TOMAS GOMEZ III\nConsul General\nPhilippine Consulate\nGeneral",
+    "keyed-information": {
+      "name-as-written": "TOMAS GOMEZ III",
+      "name-normalized": "\nGomez, Tomas III",
+      "attributes": [
+        "\nConsul General",
+        "\nPhilippine Consulate General"
+      ]
+    }
+  },
+  {
+    "at": "00:10:27.626",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:10:59.024",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LISA JORDAN-\nWHITTINGHILL\nHawaii Church Comm.\nfor Human Rights in\nthe Philippines",
+    "keyed-information": {
+      "name-as-written": "LISA JORDAN-WHITTINGHILL",
+      "name-normalized": "\nJordan-Whittinghill, Lisa",
+      "attributes": [
+        "\nHawaii Church Comm. for Human Rights in the Philippines"
+      ]
+    }
+  },
+  {
+    "at": "00:11:15.274",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:11:26.251",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BELINDA AQUINO,PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  },
+  {
+    "at": "00:12:18.637",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "\nRiingen, Juan",
+      "attributes": [
+        "\nAldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:12:49.501",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:13:12.758",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOSE \"Ping\" DE JESUS\nCabinet Secretary",
+    "keyed-information": {
+      "name-as-written": "JOSE \"Ping\" DE JESUS",
+      "name-normalized": "\nde Jesus, Jose",
+      "attributes": [
+        "\nCabinet Secretary"
+      ]
+    }
+  },
+  {
+    "at": "00:14:13.652",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MAHAR MANGAHAS\nPhD, Pres., Social\nWeather Stations, Inc.",
+    "keyed-information": {
+      "name-as-written": "MAHAR MANGAHAS",
+      "name-normalized": "\nMangahas, Mahar",
+      "attributes": [
+        "\nPhD, Pres., Social Weather Stations, Inc."
+      ]
+    }
+  },
+  {
+    "at": "00:16:17.509",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "\nRiingen, Juan",
+      "attributes": [
+        "\nAldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:17:15.133",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:17:31.516",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BELINDA AQUINO, PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  },
+  {
+    "at": "00:18:14.893",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:18:27.272",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LISA JORDAN-\nWHITTINGHILL\nHawaii Church Comm.\nfor Human Rights in\nthe Philippines",
+    "keyed-information": {
+      "name-as-written": "LISA JORDAN-WHITTINGHILL",
+      "name-normalized": "\nJordan-Whittinghill, Lisa",
+      "attributes": [
+        "\nHawaii Church Comm. for Human Rights in the Philippines"
+      ]
+    }
+  },
+  {
+    "at": "00:18:42.387",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOMAS GOMEZ III\nConsul General\nPhilippine Consulate\nGeneral",
+    "keyed-information": {
+      "name-as-written": "TOMAS GOMEZ III",
+      "name-normalized": "Gomez, Tomas III",
+      "attributes": [
+        "Consul General",
+        "Philippine Consulate General"
+      ]
+    }
+  },
+  {
+    "at": "00:18:54.266",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:20:17.382",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "\nRiingen, Juan",
+      "attributes": [
+        "\nAldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:21:09.000",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:21:19.144",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BELINDA AQUINO, PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  },
+  {
+    "at": "00:22:04.889",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:23:17.028",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHRIS CONYBEARE\nProducer, Hawaii\nPublic Television",
+    "keyed-information": {
+      "name-as-written": "CHRIS CONYBEARE",
+      "name-normalized": "\nConybeare, Chris",
+      "attributes": [
+        "\nProducer, Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:23:58.002",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "COOKIE DIOKNO\nFree Legal\nAssistance Group",
+    "keyed-information": {
+      "name-as-written": "COOKIE DIOKNO",
+      "name-normalized": "\nDiokno, Cookie",
+      "attributes": [
+        "\nFree Legal Assistance Group"
+      ]
+    }
+  },
+  {
+    "at": "00:24:35.874",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "COOKIE DIOKNO\nFree Legal\nAssistance Group",
+    "keyed-information": {
+      "name-as-written": "COOKIE DIOKNO",
+      "name-normalized": "\nDiokno, Cookie",
+      "attributes": [
+        "\nFree Legal Assistance Group"
+      ]
+    }
+  },
+  {
+    "at": "00:25:52.383",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gen. RENATO DE VILLA\nChief of Staff",
+    "keyed-information": {
+      "name-as-written": "Gen. RENATO DE VILLA",
+      "name-normalized": "\nde Villa, Renato",
+      "attributes": [
+        "\nChief of Staff"
+      ]
+    }
+  },
+  {
+    "at": "00:26:57.515",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gen. RENATO DE VILLA\nChief of Staff",
+    "keyed-information": {
+      "name-as-written": "Gen. RENATO DE VILLA",
+      "name-normalized": "\nde Villa, Renato",
+      "attributes": [
+        "\nChief of Staff"
+      ]
+    }
+  },
+  {
+    "at": "00:27:22.006",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sr. MARIANI DIMARANAN\nTask Force Detainees\nof the Philippines",
+    "keyed-information": {
+      "name-as-written": "Sr. MARIANI DIMARANAN",
+      "name-normalized": "\nDimaranan, Mariani",
+      "attributes": [
+        "\nTask Force Detainees of the Philippines"
+      ]
+    }
+  },
+  {
+    "at": "00:28:16.894",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOSE \"Ping\" DE JESUS\nCabinet Secretary",
+    "keyed-information": {
+      "name-as-written": "JOSE \"Ping\" DE JESUS",
+      "name-normalized": "\nde Jesus, Jose",
+      "attributes": [
+        "\nCabinet Secretary"
+      ]
+    }
+  },
+  {
+    "at": "00:29:04.509",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "COOKIE DIOKNO\nFree Legal\nAssistance Group",
+    "keyed-information": {
+      "name-as-written": "COOKIE DIOKNO",
+      "name-normalized": "\nDiokno, Cookie",
+      "attributes": [
+        "\nFree Legal Assistance Group"
+      ]
+    }
+  },
+  {
+    "at": "00:29:52.890",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LISA JORDAN-\nWHITTINGHILL\nHawaii Church Comm.\nfor Human Rights in\nthe Philippines",
+    "keyed-information": {
+      "name-as-written": "LISA JORDAN-WHITTINGHILL",
+      "name-normalized": "\nJordan-Whittinghill, Lisa",
+      "attributes": [
+        "\nHawaii Church Comm. for Human Rights in the Philippines"
+      ]
+    }
+  },
+  {
+    "at": "00:30:18.649",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:31:08.399",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOMAS GOMEZ III\nConsul General\nPhilippine Consulate\nGeneral",
+    "keyed-information": {
+      "name-as-written": "TOMAS GOMEZ III",
+      "name-normalized": "\nGomez, Tomas III",
+      "attributes": [
+        "\nConsul General",
+        "\nPhilippine Consulate General"
+      ]
+    }
+  },
+  {
+    "at": "00:32:12.263",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:32:40.024",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "\nRiingen, Juan",
+      "attributes": [
+        "\nAldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:33:21.132",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "If You Have A Question\nCall: 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:34:33.137",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BELINDA AQUINO, PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  },
+  {
+    "at": "00:35:31.128",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:36:19.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHRIS CONYBEARE\nProducer, Hawaii\nPublic Television",
+    "keyed-information": {
+      "name-as-written": "CHRIS CONYBEARE",
+      "name-normalized": "\nConybeare, Chris",
+      "attributes": [
+        "\nProducer, Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:37:30.014",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:37:37.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOMAS GOMEZ III\nConsul General\nPhilippine Consulate\nGeneral",
+    "keyed-information": {
+      "name-as-written": "TOMAS GOMEZ III",
+      "name-normalized": "\nGomez, Tomas III",
+      "attributes": [
+        "\nConsul General",
+        "\nPhilippine Consulate General"
+      ]
+    }
+  },
+  {
+    "at": "00:37:57.641",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:39:50.387",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "\nRiingen, Juan",
+      "attributes": [
+        "\nAldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:41:28.886",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MONDAY/9:05",
+    "keyed-information": null
+  },
+  {
+    "at": "00:42:00.517",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:42:18.001",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "TOMAS GOMEZ III\nConsul General\nPhilippine Consulate\nGeneral",
+    "keyed-information": {
+      "name-as-written": "TOMAS GOMEZ III",
+      "name-normalized": "\nGomez, Tomas III",
+      "attributes": [
+        "\nConsul General",
+        "\nPhilippine Consulate General"
+      ]
+    }
+  },
+  {
+    "at": "00:42:46.897",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:44:10.514",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:44:39.009",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BELINDA AQUINO, PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  },
+  {
+    "at": "00:45:31.528",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "If You Have A Question\nCall: 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:45:41.138",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "\nRiingen, Juan",
+      "attributes": [
+        "\nAldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:48:01.878",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:48:44.387",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BELINDA AQUINO, PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  },
+  {
+    "at": "00:49:13.883",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:49:41.378",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOMAS GOMEZ III\nConsul General\nPhilippine Consulate\nGeneral",
+    "keyed-information": {
+      "name-as-written": "TOMAS GOMEZ III",
+      "name-normalized": "\nGomez, Tomas III",
+      "attributes": [
+        "\nConsul General",
+        "\nPhilippine Consulate General"
+      ]
+    }
+  },
+  {
+    "at": "00:50:23.887",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:50:58.521",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "Riingen, Juan",
+      "attributes": [
+        "Aldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:51:47.904",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:52:51.000",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "BELINDA AQUINO, PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  },
+  {
+    "at": "00:53:04.514",
+    "scene-lebal": "N",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "\"Philippines Update\"\nCall 955-7878",
+    "keyed-information": null
+  },
+  {
+    "at": "00:53:42.652",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rev. JUAN RIINGEN\nAldersgate United\nMethodist Church",
+    "keyed-information": {
+      "name-as-written": "Rev. JUAN RIINGEN",
+      "name-normalized": "\nRiingen, Juan",
+      "attributes": [
+        "\nAldersgate United Methodist Church"
+      ]
+    }
+  },
+  {
+    "at": "00:55:12.375",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LISA JORDAN-\nWHITTINGHILL\nHawaii Church Comm.\nfor Human Rights in\nthe Philippines",
+    "keyed-information": {
+      "name-as-written": "LISA JORDAN-WHITTINGHILL",
+      "name-normalized": "\nJordan-Whittinghill, Lisa",
+      "attributes": [
+        "\nHawaii Church Comm. for Human Rights in the Philippines"
+      ]
+    }
+  },
+  {
+    "at": "00:56:01.524",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHRIS CONYBEARE\nProducer, Hawaii\nPublic Television",
+    "keyed-information": {
+      "name-as-written": "CHRIS CONYBEARE",
+      "name-normalized": "\nConybeare, Chris",
+      "attributes": [
+        "\nProducer, Hawaii Public Television"
+      ]
+    }
+  },
+  {
+    "at": "00:56:42.498",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "TOMAS GOMEZ III\nConsul General\nPhilippine Consulate\nGeneral",
+    "keyed-information": {
+      "name-as-written": "TOMAS GOMEZ III",
+      "name-normalized": "\nGomez, Tomas III",
+      "attributes": [
+        "\nConsul General",
+        "\nPhilippine Consulate General"
+      ]
+    }
+  },
+  {
+    "at": "00:56:55.645",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "BELINDA AQUINO, PhD\nAssoc. Prof.,\nPolitical Science",
+    "keyed-information": {
+      "name-as-written": "BELINDA AQUINO, PhD",
+      "name-normalized": "\nAquino, Belinda",
+      "attributes": [
+        "\nAssoc. Prof., Political Science"
+      ]
+    }
+  }
+]

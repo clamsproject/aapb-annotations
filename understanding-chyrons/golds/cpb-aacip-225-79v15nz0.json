@@ -1,0 +1,66 @@
+[
+  {
+    "at": "00:07:04.157",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES WAKATSUKI\n\nSPEAKER OF THE HOUSE",
+    "keyed-information": {
+      "name-as-written": "JAMES WAKATSUKI",
+      "name-normalized": "Wakatsuki, James",
+      "attributes": [
+        "SPEAKER OF THE HOUSE"
+      ]
+    }
+  },
+  {
+    "at": "00:15:30.763",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JAMES WAKATSUKI\n\nSPEAKER OF THE HOUSE",
+    "keyed-information": {
+      "name-as-written": "JAMES WAKATSUKI",
+      "name-normalized": "Wakatsuki, James",
+      "attributes": [
+        "SPEAKER OF THE HOUSE"
+      ]
+    }
+  },
+  {
+    "at": "00:22:16.902",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SEN. DUKE KAWASAKI",
+    "keyed-information": {
+      "name-as-written": "SEN. DUKE KAWASAKI",
+      "name-normalized": "Kawasaki, Duke",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:28:40.885",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. KINAU KAMALII",
+    "keyed-information": {
+      "name-as-written": "REP. KINAU KAMALII",
+      "name-normalized": "Kamalii, Kinau",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:30:40.905",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. HENRY PETERS",
+    "keyed-information": {
+      "name-as-written": "REP. HENRY PETERS",
+      "name-normalized": "Peters, Henry",
+      "attributes": []
+    }
+  }
+]

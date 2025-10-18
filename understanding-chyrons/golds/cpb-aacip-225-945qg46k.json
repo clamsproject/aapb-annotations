@@ -1,0 +1,44 @@
+[
+  {
+    "at": "00:04:35.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Thom Nulty\n\nAloha Airlines",
+    "keyed-information": {
+      "name-as-written": "Thom Nulty",
+      "name-normalized": "Nulty, Thom",
+      "attributes": [
+        "Aloha Airlines"
+      ]
+    }
+  },
+  {
+    "at": "00:09:30.136",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Emy Yamauchi-Wong\n\nAltres Staffing",
+    "keyed-information": {
+      "name-as-written": "Emy Yamaguchi-Wong",
+      "name-normalized": "Yamaguchi-Wong, Emy",
+      "attributes": [
+        "Altres Staffing"
+      ]
+    }
+  },
+  {
+    "at": "00:19:29.501",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jerry Linville\n\nHawaii Marketing Alliance",
+    "keyed-information": {
+      "name-as-written": "Jerry Linville",
+      "name-normalized": "Linville, Jerry",
+      "attributes": [
+        "Hawaii Marketing Alliance"
+      ]
+    }
+  }
+]

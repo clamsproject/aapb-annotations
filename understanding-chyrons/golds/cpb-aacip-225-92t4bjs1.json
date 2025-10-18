@@ -1,0 +1,73 @@
+[
+  {
+    "at": "00:03:26.639",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Glenn Hong\n\nPresident\n\nYoung Brothers",
+    "keyed-information": {
+      "name-as-written": "Glenn Hong",
+      "name-normalized": "Hong, Glenn",
+      "attributes": [
+        "President",
+        "Young Brothers"
+      ]
+    }
+  },
+  {
+    "at": "00:07:56.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Russell Kokubun\n\nState Senator",
+    "keyed-information": {
+      "name-as-written": "Russell Kokubun",
+      "name-normalized": "Kokubun, Russell",
+      "attributes": [
+        "State Senator"
+      ]
+    }
+  },
+  {
+    "at": "00:13:31.510",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Toru Hamayasu\n\nHonolulu Dept. of Transportation Services",
+    "keyed-information": {
+      "name-as-written": "Toru Hamayasu",
+      "name-normalized": "Hamayasu, Toru",
+      "attributes": [
+        "Honolulu Dept. of Transportation Services"
+      ]
+    }
+  },
+  {
+    "at": "00:14:11.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mark Schiebe\n\nParson Brinkerhoff",
+    "keyed-information": {
+      "name-as-written": "Mark Scheibe",
+      "name-normalized": "Scheibe, Mark",
+      "attributes": [
+        "Parson Brinkerhoff"
+      ]
+    }
+  },
+  {
+    "at": "00:20:04.403",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Maile Meyer\n\nEntrepreneur",
+    "keyed-information": {
+      "name-as-written": "Maile Meyer",
+      "name-normalized": "Meyer, Maile",
+      "attributes": [
+        "Entrepreneur"
+      ]
+    }
+  }
+]

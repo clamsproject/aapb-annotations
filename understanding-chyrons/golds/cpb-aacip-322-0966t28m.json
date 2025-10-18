@@ -1,0 +1,108 @@
+[
+  {
+    "at": "00:02:27.380",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Geoffrey Simon",
+    "keyed-information": {
+      "name-as-written": "Geoffrey Simon",
+      "name-normalized": "Simon, Geoffrey",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:02:31.885",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Harry S. Dent, Jr.\n\nEconomist",
+    "keyed-information": {
+      "name-as-written": "Harry S. Dent, Jr.",
+      "name-normalized": "Dent, Harry S., Jr.",
+      "attributes": [
+        "Economist"
+      ]
+    }
+  },
+  {
+    "at": "00:06:57.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Harry S. Dent, Jr.\n\nH. S. Dent Foundation",
+    "keyed-information": {
+      "name-as-written": "Harry S. Dent, Jr.",
+      "name-normalized": "Dent, Harry S., Jr.",
+      "attributes": [
+        "H. S. Dent Foundation"
+      ]
+    }
+  },
+  {
+    "at": "00:10:14.880",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Geoffrey Simon",
+    "keyed-information": {
+      "name-as-written": "Geoffrey Simon",
+      "name-normalized": "Simon, Geoffrey",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:11:24.250",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Harry S. Dent, Jr.\n\nH. S. Dent Foundation",
+    "keyed-information": {
+      "name-as-written": "Harry S. Dent, Jr.",
+      "name-normalized": "Dent, Harry S., Jr.",
+      "attributes": [
+        "H. S. Dent Foundation"
+      ]
+    }
+  },
+  {
+    "at": "00:16:45.004",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Harry S. Dent, Jr.\n\nEconomist",
+    "keyed-information": {
+      "name-as-written": "Harry S. Dent, Jr.",
+      "name-normalized": "Dent, Harry S., Jr.",
+      "attributes": [
+        "Economist"
+      ]
+    }
+  },
+  {
+    "at": "00:20:07.639",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Geoffrey Simon",
+    "keyed-information": {
+      "name-as-written": "Geoffrey Simon",
+      "name-normalized": "Simon, Geoffrey",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:21:40.132",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Harry S. Dent, Jr.\n\nH. S. Dent Foundation",
+    "keyed-information": {
+      "name-as-written": "Harry S. Dent, Jr.",
+      "name-normalized": "Dent, Harry S., Jr.",
+      "attributes": [
+        "H. S. Dent Foundation"
+      ]
+    }
+  }
+]

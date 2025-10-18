@@ -1,0 +1,45 @@
+[
+  {
+    "at": "00:04:22.895",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ron Baird\n\nEXECUTIVE DIRECTOR\n\nNELHA",
+    "keyed-information": {
+      "name-as-written": "Ron Baird",
+      "name-normalized": "Baird, Ron",
+      "attributes": [
+        "EXECUTIVE DIRECTOR",
+        "NEHLA"
+      ]
+    }
+  },
+  {
+    "at": "00:09:38.644",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Amy Hammond\n\nMADE IN HAWAII FESTIVAL",
+    "keyed-information": {
+      "name-as-written": "Amy Hammond",
+      "name-normalized": "Hammond, Amy",
+      "attributes": [
+        "MADE IN HAWAII FESTIVAL"
+      ]
+    }
+  },
+  {
+    "at": "00:20:30.629",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ona Marie Belmont\n\nHAWAIIAN FUDGE SAUCE COMPANY",
+    "keyed-information": {
+      "name-as-written": "Ona Marie Belmont",
+      "name-normalized": "Belmont, Ona Marie",
+      "attributes": [
+        "HAWAIIAN FUDGE SAUCE COMPANY"
+      ]
+    }
+  }
+]

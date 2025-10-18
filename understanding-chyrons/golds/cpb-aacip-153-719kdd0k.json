@@ -1,0 +1,108 @@
+[
+  {
+    "at": "00:02:37.023",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "William Zavin, Pres.\n\nNORTHWEST MARINE IRONWORKS",
+    "keyed-information": {
+      "name-as-written": "William Zavin, Pres.",
+      "name-normalized": "Zavin, William",
+      "attributes": [
+        "NORTHWEST MARINE IRONWORKS"
+      ]
+    }
+  },
+  {
+    "at": "00:05:43.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Lehman\n\nSECRETARY OF NAVY",
+    "keyed-information": {
+      "name-as-written": "John Lehman",
+      "name-normalized": "Lehman, John",
+      "attributes": [
+        "SECRETARY OF NAVY"
+      ]
+    }
+  },
+  {
+    "at": "00:06:31.257",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "James Beall\n\nATTORNEY",
+    "keyed-information": {
+      "name-as-written": "James Beall",
+      "name-normalized": "Beall, James",
+      "attributes": [
+        "ATTORNEY"
+      ]
+    }
+  },
+  {
+    "at": "00:07:42.628",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sen. Mark Hatfield (R)",
+    "keyed-information": {
+      "name-as-written": "Sen. Mark Hatfield (R)",
+      "name-normalized": "Hatfield, Mark",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:49.769",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Rep. Ron Wyden (D)",
+    "keyed-information": {
+      "name-as-written": "Rep. Ron Wyden (D)",
+      "name-normalized": "Wyden, Ron",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:12:49.635",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Jim Swenson\n\nFRONT STREET WEEKLY",
+    "keyed-information": {
+      "name-as-written": "Jim Swenson",
+      "name-normalized": "Swenson, Jim",
+      "attributes": [
+        "FRONT STREET WEEKLY"
+      ]
+    }
+  },
+  {
+    "at": "00:13:10.756",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gwyneth Gamble Booth\n\nFRONT STREET WEEKLY",
+    "keyed-information": {
+      "name-as-written": "Gwyneth Gamble Booth",
+      "name-normalized": "Booth, Gwyneth Gamble",
+      "attributes": [
+        "FRONT STREET WEEKLY"
+      ]
+    }
+  },
+  {
+    "at": "00:21:58.016",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Philippa Mardesich",
+    "keyed-information": {
+      "name-as-written": "Philippa Mardesich",
+      "name-normalized": "Mardesich, Philippa",
+      "attributes": []
+    }
+  }
+]

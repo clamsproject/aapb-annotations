@@ -1,0 +1,130 @@
+[
+  {
+    "at": "00:01:39.132",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNETTE LO TOM\n\nCapitol Spotlight",
+    "keyed-information": {
+      "name-as-written": "LYNETTE LO TOM",
+      "name-normalized": "Tom, Lynette Lo",
+      "attributes": [
+        "Capitol Spotlight"
+      ]
+    }
+  },
+  {
+    "at": "00:02:22.775",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN WAIHEE\n\nGovernor",
+    "keyed-information": {
+      "name-as-written": "JOHN WAIHEE",
+      "name-normalized": "Waihee, John",
+      "attributes": [
+        "Governor"
+      ]
+    }
+  },
+  {
+    "at": "00:05:39.405",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN LEWIN\n\nDir., Dept. of Health",
+    "keyed-information": {
+      "name-as-written": "JOHN LEWIN",
+      "name-normalized": "Lewin, John",
+      "attributes": [
+        "Dir., Dept. of Health"
+      ]
+    }
+  },
+  {
+    "at": "00:07:56.776",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ILIMA PIIANAIA\n\nChair\n\nHawaiian Homes Commission",
+    "keyed-information": {
+      "name-as-written": "ILIMA PIIANAIA",
+      "name-normalized": "Piianaia, Ilima",
+      "attributes": [
+        "Chair",
+        "Hawaiian Homes Commission"
+      ]
+    }
+  },
+  {
+    "at": "00:10:18.384",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHARLES TOGUCHI\n\nSupt., Dept. of Education",
+    "keyed-information": {
+      "name-as-written": "CHARLES TOGUCHI",
+      "name-normalized": "Toguchi, Charles",
+      "attributes": [
+        "Supt., Dept. of Education"
+      ]
+    }
+  },
+  {
+    "at": "00:18:06.251",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ALBERT SIMONE\n\nPresident\n\nUniversity of Hawaii",
+    "keyed-information": {
+      "name-as-written": "ALBERT SIMONE",
+      "name-normalized": "Simone, Albert",
+      "attributes": [
+        "President",
+        "University of Hawaii"
+      ]
+    }
+  },
+  {
+    "at": "00:24:29.134",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ARNOLD MORGADO\n\nChair, Honolulu City Council",
+    "keyed-information": {
+      "name-as-written": "ARNOLD MORGADO",
+      "name-normalized": "Morgado, Arnold",
+      "attributes": [
+        "Chair, Honolulu City Council"
+      ]
+    }
+  },
+  {
+    "at": "00:26:16.141",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM PATY\n\nChair, Dept. of Land &\n\nNatural Resources",
+    "keyed-information": {
+      "name-as-written": "WILLIAM PATY",
+      "name-normalized": "Paty, William",
+      "attributes": [
+        "Chair, Dept. of Land & Natural Resources"
+      ]
+    }
+  },
+  {
+    "at": "00:27:19.270",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SENATOR MARY GEORGE\n\nMinority Leader",
+    "keyed-information": {
+      "name-as-written": "SENATOR MARY GEORGE",
+      "name-normalized": "George, Mary",
+      "attributes": [
+        "Minority Leader"
+      ]
+    }
+  }
+]

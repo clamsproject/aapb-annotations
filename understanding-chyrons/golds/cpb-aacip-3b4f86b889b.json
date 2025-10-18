@@ -1,0 +1,140 @@
+[
+  {
+    "at": "00:01:37.530",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Roger Morris",
+    "keyed-information": {
+      "name-as-written": "Roger Morris",
+      "name-normalized": "Morris, Roger",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:04:44.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Siegfried S. Hecker\n\nDirector, Los Alamos Nat. Laboratory",
+    "keyed-information": {
+      "name-as-written": "Siegfried S. Hecker",
+      "name-normalized": "Hecker, Siegfried S.",
+      "attributes": [
+        "Director, Los Alamos Nat. Laboratory"
+      ]
+    }
+  },
+  {
+    "at": "00:10:03.636",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Siegfried S. Hecker\n\nDirector, Los Alamos Nat. Laboratory",
+    "keyed-information": {
+      "name-as-written": "Siegfried S. Hecker",
+      "name-normalized": "Hecker, Siegfried S.",
+      "attributes": [
+        "Director, Los Alamos Nat. Laboratory"
+      ]
+    }
+  },
+  {
+    "at": "00:10:23.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gerold Yonas\n\nDirector of Lab Development\n\nSandia National Laboratories",
+    "keyed-information": {
+      "name-as-written": "Gerold Yonas",
+      "name-normalized": "Yonas, Gerold",
+      "attributes": [
+        "Director of Lab Development Sandia National Laboratories"
+      ]
+    }
+  },
+  {
+    "at": "00:15:00.132",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lee Zink\n\nEconomist",
+    "keyed-information": {
+      "name-as-written": "Lee Zink",
+      "name-normalized": "Zink, Lee",
+      "attributes": [
+        "Economist"
+      ]
+    }
+  },
+  {
+    "at": "00:17:29.882",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lee Zink\n\nEconomist",
+    "keyed-information": {
+      "name-as-written": "Lee Zink",
+      "name-normalized": "Zink, Lee",
+      "attributes": [
+        "Economist"
+      ]
+    }
+  },
+  {
+    "at": "00:18:39.384",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Gerold Yonas\n\nDirector of Lab Development\n\nSandia National Laboratories",
+    "keyed-information": {
+      "name-as-written": "Gerold Yonas",
+      "name-normalized": "Yonas, Gerold",
+      "attributes": [
+        "Director of Lab Development Sandia National Laboratories"
+      ]
+    }
+  },
+  {
+    "at": "00:20:33.398",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lee Zink\n\nEconomist",
+    "keyed-information": {
+      "name-as-written": "Lee Zink",
+      "name-normalized": "Zink, Lee",
+      "attributes": [
+        "Economist"
+      ]
+    }
+  },
+  {
+    "at": "00:22:50.135",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Siegfried S. Hecker\n\nDirector, Los Alamos Nat. Laboratory",
+    "keyed-information": {
+      "name-as-written": "Siegfried S. Hecker",
+      "name-normalized": "Hecker, Siegfried S.",
+      "attributes": [
+        "Director, Los Alamos Nat. Laboratory"
+      ]
+    }
+  },
+  {
+    "at": "00:25:53.251",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lee Zink\n\nEconomist",
+    "keyed-information": {
+      "name-as-written": "Lee Zink",
+      "name-normalized": "Zink, Lee",
+      "attributes": [
+        "Economist"
+      ]
+    }
+  }
+]

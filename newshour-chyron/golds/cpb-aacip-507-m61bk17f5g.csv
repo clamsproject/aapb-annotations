@@ -1,23 +1,23 @@
-index,start,end,text-transcript
-1,00:05:01.777,00:05:05.277,Rep. LEE HAMILTON\n(D) Indiana
-2,00:06:45.777,00:06:48.527,Rep. EDWARD MARKEY\n(D) Massachusetts
-3,00:07:14.527,00:07:17.277,Rep. ROBERT LAGOMARSINO\n(R) California
-4,00:10:01.527,00:10:07.027,NINA TOTENBERG\nNational Public Radio
-5,00:13:48.027,00:13:52.277,NINA TOTENBERG\nNational Public Radio
-6,00:17:02.777,00:17:05.527,Rep. DAVID BONIOR\n(D) Michigan
-7,00:18:09.527,00:18:11.777,Rep. TRENT LOTT\n(R) Mississippi
-8,00:18:15.527,00:18:18.277,Rep. JUDD GREGG\n(R) New Hampshire
-9,00:18:20.777,00:18:23.027,Rep. JON KYL\n(R) Arizona
-10,00:18:30.277,00:18:33.027,Rep. JAMES TRAFICANT\n(D) Ohio
-11,00:19:28.027,00:19:30.777,Rep. DUNCAN HUNTER\n(R) California
-12,00:19:49.527,00:19:53.777,Rep. GEORGE MILLER\n(D) California
-13,00:20:43.277,00:20:47.027,Rep. J. ALEX McMILLAN\n(R) North Carolina
-14,00:23:41.527,00:23:45.777,PAUL SOLMAN
-15,00:28:28.777,00:28:31.527,PAUL SOLMAN
-16,00:31:24.277,00:31:29.277,DENIS WOODFIELD\nJohnson & Johnson Executive
-17,00:32:18.277,00:32:22.777,CURT WILBUR\nLive For Life
-18,00:33:42.777,00:33:47.277,JOHN HUGHES\nOccupational Medicine Specialist
-19,00:42:36.027,00:42:41.027,MICHAEL O'CONNELL\nIndependent Drivers' Association
-20,00:44:30.777,00:44:36.277,BRIAN O'NEILL\nInsurance Institute
-21,00:48:54.027,00:48:59.777,MICHAEL O'CONNELL\nIndependent Drivers' Association
-22,00:49:08.027,00:49:13.777,BRIAN O'NEILL\nInsurance Institute
+start,end,scene-label,text-transcript
+00:05:01.777,00:05:05.277,chyron,Rep. LEE HAMILTON\n(D) Indiana
+00:06:45.777,00:06:48.527,chyron,Rep. EDWARD MARKEY\n(D) Massachusetts
+00:07:14.527,00:07:17.277,chyron,Rep. ROBERT LAGOMARSINO\n(R) California
+00:10:01.527,00:10:07.027,chyron,NINA TOTENBERG\nNational Public Radio
+00:13:48.027,00:13:52.277,chyron,NINA TOTENBERG\nNational Public Radio
+00:17:02.777,00:17:05.527,chyron,Rep. DAVID BONIOR\n(D) Michigan
+00:18:09.527,00:18:11.777,chyron,Rep. TRENT LOTT\n(R) Mississippi
+00:18:15.527,00:18:18.277,chyron,Rep. JUDD GREGG\n(R) New Hampshire
+00:18:20.777,00:18:23.027,chyron,Rep. JON KYL\n(R) Arizona
+00:18:30.277,00:18:33.027,chyron,Rep. JAMES TRAFICANT\n(D) Ohio
+00:19:28.027,00:19:30.777,chyron,Rep. DUNCAN HUNTER\n(R) California
+00:19:49.527,00:19:53.777,chyron,Rep. GEORGE MILLER\n(D) California
+00:20:43.277,00:20:47.027,chyron,Rep. J. ALEX McMILLAN\n(R) North Carolina
+00:23:41.527,00:23:45.777,chyron,PAUL SOLMAN
+00:28:28.777,00:28:31.527,chyron,PAUL SOLMAN
+00:31:24.277,00:31:29.277,chyron,DENIS WOODFIELD\nJohnson & Johnson Executive
+00:32:18.277,00:32:22.777,chyron,CURT WILBUR\nLive For Life
+00:33:42.777,00:33:47.277,chyron,JOHN HUGHES\nOccupational Medicine Specialist
+00:42:36.027,00:42:41.027,chyron,MICHAEL O'CONNELL\nIndependent Drivers' Association
+00:44:30.777,00:44:36.277,chyron,BRIAN O'NEILL\nInsurance Institute
+00:48:54.027,00:48:59.777,chyron,MICHAEL O'CONNELL\nIndependent Drivers' Association
+00:49:08.027,00:49:13.777,chyron,BRIAN O'NEILL\nInsurance Institute

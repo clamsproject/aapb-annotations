@@ -1,0 +1,68 @@
+[
+  {
+    "at": "00:03:49.762",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MAYOR RICHARD HATCHER\n\nGary, Indiana",
+    "keyed-information": {
+      "name-as-written": "MAYOR RICHARD HATCHER",
+      "name-normalized": "Hatcher, Richard",
+      "attributes": [
+        "Gary, Indiana"
+      ]
+    }
+  },
+  {
+    "at": "00:04:04.277",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LEW GOTHARD\n\nState Convenor, Del.",
+    "keyed-information": {
+      "name-as-written": "LEW GOTHARD",
+      "name-normalized": "Gothard, Lew",
+      "attributes": [
+        "State Convenor, Del."
+      ]
+    }
+  },
+  {
+    "at": "00:08:45.124",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "IMAMU BARAKA\n\nCong. African People",
+    "keyed-information": {
+      "name-as-written": "IMAMU BARAKA",
+      "name-normalized": "Baraka, Imamu",
+      "attributes": [
+        "Cong. African People"
+      ]
+    }
+  },
+  {
+    "at": "00:10:57.523",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANGELA DAVIS",
+    "keyed-information": {
+      "name-as-written": "ANGELA DAVIS",
+      "name-normalized": "Davis, Angela",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:20:38.770",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "HEYWARD HENRY",
+    "keyed-information": {
+      "name-as-written": "HEYWARD HENRY",
+      "name-normalized": "Henry, Heyward",
+      "attributes": []
+    }
+  }
+]

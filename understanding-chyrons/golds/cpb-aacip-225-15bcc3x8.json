@@ -1,0 +1,59 @@
+[
+  {
+    "at": "00:04:05.144",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ted Liu\n\nDirector\n\nDBEDT",
+    "keyed-information": {
+      "name-as-written": "Ted Liu",
+      "name-normalized": "Liu, Ted",
+      "attributes": [
+        "Director",
+        "DBEDT"
+      ]
+    }
+  },
+  {
+    "at": "00:10:40.506",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Mark Sasaki\n\nBig City Diner",
+    "keyed-information": {
+      "name-as-written": "Mark Sasaki",
+      "name-normalized": "Sasaki, Mark",
+      "attributes": [
+        "Big City Diner"
+      ]
+    }
+  },
+  {
+    "at": "00:16:25.884",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Badr Idbeis\n\nHawaii Medical Center",
+    "keyed-information": {
+      "name-as-written": "Badr Idbeis",
+      "name-normalized": "Idbeis, Badr",
+      "attributes": [
+        "Hawaii Medical Center"
+      ]
+    }
+  },
+  {
+    "at": "00:22:28.647",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Eran Kennedy\n\nBIA Hawaii",
+    "keyed-information": {
+      "name-as-written": "Eran Kennedy",
+      "name-normalized": "Kennedy, Eran",
+      "attributes": [
+        "BIA Hawaii"
+      ]
+    }
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "at": "00:02:54.774",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREA BENNETT\n\nMONTANA INSURANCE COMM",
+    "keyed-information": {
+      "name-as-written": "ANDREA BENNETT",
+      "name-normalized": "Bennett, Andrea",
+      "attributes": [
+        "MONTANA INSURANCE COMM"
+      ]
+    }
+  },
+  {
+    "at": "00:03:49.395",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "CHARLES ROHM\n\nPRINCIPAL FINANCIAL\n\nDES MOINES",
+    "keyed-information": {
+      "name-as-written": "CHARLES ROHM",
+      "name-normalized": "Rohm, Charles",
+      "attributes": [
+        "PRINCIPAL FINANCIAL",
+        "DES MOINES"
+      ]
+    }
+  },
+  {
+    "at": "00:06:23.282",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREA BENNETT\n\nMONTANA INSURANCE COMM",
+    "keyed-information": {
+      "name-as-written": "ANDREA BENNETT",
+      "name-normalized": "Bennett, Andrea",
+      "attributes": [
+        "MONTANA INSURANCE COMM"
+      ]
+    }
+  },
+  {
+    "at": "00:07:31.150",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SEN. WILLIAM PALMER\n\n(D) DES MOINES",
+    "keyed-information": {
+      "name-as-written": "SEN. WILLIAM PALMER",
+      "name-normalized": "Palmer, William",
+      "attributes": [
+        "(D) DES MOINES"
+      ]
+    }
+  },
+  {
+    "at": "00:09:43.649",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MINNETTE DODERER\n\n(D) IOWA CITY",
+    "keyed-information": {
+      "name-as-written": "MINNETTE DODERER",
+      "name-normalized": "Doderer, Minnette",
+      "attributes": [
+        "(D) IOWA CITY"
+      ]
+    }
+  },
+  {
+    "at": "00:10:11.277",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROGER HALVORSON\n\n(R) MONONA",
+    "keyed-information": {
+      "name-as-written": "ROGER HALVORSON",
+      "name-normalized": "Halvorson, Roger",
+      "attributes": [
+        "(R) MONONA"
+      ]
+    }
+  },
+  {
+    "at": "00:15:01.634",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROGER HALVORSON\n\n(R) MONONA",
+    "keyed-information": {
+      "name-as-written": "ROGER HALVORSON",
+      "name-normalized": "Halvorson, Roger",
+      "attributes": [
+        "(R) MONONA"
+      ]
+    }
+  },
+  {
+    "at": "00:15:37.002",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ERIC WOOLSON \n\nWATERLOO COURIER",
+    "keyed-information": {
+      "name-as-written": "ERIC WOOLSON",
+      "name-normalized": "Woolson, Eric",
+      "attributes": [
+        "WATERLOO COURIER"
+      ]
+    }
+  },
+  {
+    "at": "00:16:37.629",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MINNETTE DODERER\n\n(D) IOWA CITY",
+    "keyed-information": {
+      "name-as-written": "MINNETTE DODERER",
+      "name-normalized": "Doderer, Minnette",
+      "attributes": [
+        "(D) IOWA CITY"
+      ]
+    }
+  },
+  {
+    "at": "00:19:44.383",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAVID YEPSEN\n\nDES MOINES REGISTER",
+    "keyed-information": {
+      "name-as-written": "DAVID YEPSEN",
+      "name-normalized": "Yepsen, David",
+      "attributes": [
+        "DES MOINES REGISTER"
+      ]
+    }
+  },
+  {
+    "at": "00:23:27.773",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROGER HALVORSON\n\n(R) MONONA",
+    "keyed-information": {
+      "name-as-written": "ROGER HALVORSON",
+      "name-normalized": "Halvorson, Roger",
+      "attributes": [
+        "(R) MONONA"
+      ]
+    }
+  },
+  {
+    "at": "00:24:45.750",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MINNETTE DODERER\n\n(D) IOWA CITY",
+    "keyed-information": {
+      "name-as-written": "MINNETTE DODERER",
+      "name-normalized": "Doderer, Minnette",
+      "attributes": [
+        "(D) IOWA CITY"
+      ]
+    }
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "at": "00:02:42.395",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "John Rayburn\nHOST",
+    "keyed-information": {
+      "name-as-written": "John Rayburn",
+      "name-normalized": "\nRayburn, John",
+      "attributes": [
+        "\nHOST"
+      ]
+    }
+  },
+  {
+    "at": "00:04:29.902",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sandy Sweeney\nPRES/COLO CHAPTER OF QUESTERS",
+    "keyed-information": {
+      "name-as-written": "Sandy Sweeney",
+      "name-normalized": "\nSweeney, Sandy",
+      "attributes": [
+        "\nPRES/COLO CHAPTER OF QUESTERS"
+      ]
+    }
+  },
+  {
+    "at": "00:05:38.771",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Carol Fertig\nEDITOR/\"MTN STATES COLLECTOR\"",
+    "keyed-information": {
+      "name-as-written": "Carol Fertig",
+      "name-normalized": "\nFertig, Carol",
+      "attributes": [
+        "\nEDITOR/\"MTN STATES COLLECTION\""
+      ]
+    }
+  },
+  {
+    "at": "00:07:25.645",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Janie King\n\nPRES/AMER SOCIETY OF APPRAISERS DENVER CHAPTER",
+    "keyed-information": {
+      "name-as-written": "Janie King",
+      "name-normalized": "King, Janie",
+      "attributes": [
+        "PRES/AMER SOCIETY OF APPRAISERS DENVER CHAPTER"
+      ]
+    }
+  },
+  {
+    "at": "00:09:01.874",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Tom Hicks\nOWNER/\"TOWN & COUNTRY\" SHOPS",
+    "keyed-information": {
+      "name-as-written": "Tom Hicks",
+      "name-normalized": "\nHicks, Tom",
+      "attributes": [
+        "\nOWNER/\"TOWN & COUNTRY\" SHOPS"
+      ]
+    }
+  },
+  {
+    "at": "00:13:49.261",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Nita Ray\nOWNER/NITA'S ANTIQUES",
+    "keyed-information": {
+      "name-as-written": "Nita Ray",
+      "name-normalized": "\nRay, Nita",
+      "attributes": [
+        "\nOWNER/NITA'S ANTIQUES"
+      ]
+    }
+  },
+  {
+    "at": "00:14:37.142",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Ron Caudle\nRESTORER/NITA'S ANTIQUES",
+    "keyed-information": {
+      "name-as-written": "Ron Caudle",
+      "name-normalized": "\nCaudle, Ron",
+      "attributes": [
+        "\nRESTORER/NITA'S ANTIQUES"
+      ]
+    }
+  },
+  {
+    "at": "00:16:50.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Janie King\nPRES/AMER SOCIETY OF APPRAISERS DENVER CHAPTER",
+    "keyed-information": {
+      "name-as-written": "Janie King",
+      "name-normalized": "\nKing, Janie",
+      "attributes": [
+        "\nPRES/AMER SOCIETY OF APPRAISERS DENVER CHAPTER"
+      ]
+    }
+  },
+  {
+    "at": "00:18:53.999",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": true,
+    "text-transcript": "Tom Hicks\nOWNER/\"TOWN & COUNTRY\" SHOPS",
+    "keyed-information": {
+      "name-as-written": "Tom Hicks",
+      "name-normalized": "\nHicks, Tom",
+      "attributes": [
+        "\nOWNER/\"TOWN & COUNTRY\" SHOPS"
+      ]
+    }
+  },
+  {
+    "at": "00:21:28.654",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Sandy Sweeney\nPRES/COLO CHAPTER OF QUESTERS",
+    "keyed-information": {
+      "name-as-written": "Sandy Sweeney",
+      "name-normalized": "\nSweeney, Sandy",
+      "attributes": [
+        "\nPRES/COLO CHAPTER OF QUESTERS"
+      ]
+    }
+  },
+  {
+    "at": "00:24:21.526",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Carol Fertig\nEDITOR/\"MTN STATES COLLECTOR\"",
+    "keyed-information": {
+      "name-as-written": "Carol Fertig",
+      "name-normalized": "\nFertig, Carol",
+      "attributes": [
+        "\nEDITOR/\"MTN STATES COLLECTOR\""
+      ]
+    }
+  },
+  {
+    "at": "00:26:22.881",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Frank Haraway",
+    "keyed-information": {
+      "name-as-written": "Frank Haraway",
+      "name-normalized": "\nHaraway, Frank",
+      "attributes": []
+    }
+  }
+]

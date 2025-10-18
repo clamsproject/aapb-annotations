@@ -1,0 +1,100 @@
+[
+  {
+    "at": "00:06:50.643",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ANDREW K. POEPOE\n\nState Representative",
+    "keyed-information": {
+      "name-as-written": "ANDREW K. POEPOE",
+      "name-normalized": "Poepoe, Andrew K.",
+      "attributes": [
+        "State Representative"
+      ]
+    }
+  },
+  {
+    "at": "00:14:07.012",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN T. USHIJIMA\n\nSenate President",
+    "keyed-information": {
+      "name-as-written": "JOHN T. USHIJIMA",
+      "name-normalized": "Ushijima, John T.",
+      "attributes": [
+        "Senate President"
+      ]
+    }
+  },
+  {
+    "at": "00:21:50.642",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN T. USHIJIMA\n\nSenate President",
+    "keyed-information": {
+      "name-as-written": "JOHN T. USHIJIMA",
+      "name-normalized": "Ushijima, John T.",
+      "attributes": [
+        "Senate President"
+      ]
+    }
+  },
+  {
+    "at": "00:25:33.031",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "JOHN T. USHIJIMA\n\nSenate President",
+    "keyed-information": {
+      "name-as-written": "JOHN T. USHIJIMA",
+      "name-normalized": "Ushijima, John T.",
+      "attributes": [
+        "Senate President"
+      ]
+    }
+  },
+  {
+    "at": "00:28:17.762",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WADSWORTH YEE\n\nState Senator",
+    "keyed-information": {
+      "name-as-written": "WADSWORTH YEE",
+      "name-normalized": "Yee, Wadsworth",
+      "attributes": [
+        "State Senator"
+      ]
+    }
+  },
+  {
+    "at": "00:37:46.998",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DUKE T. KAWASAKI\n\nState Senator",
+    "keyed-information": {
+      "name-as-written": "DUKE T. KAWASAKI",
+      "name-normalized": "Kawasaki, Duke T.",
+      "attributes": [
+        "State Senator"
+      ]
+    }
+  },
+  {
+    "at": "00:39:18.522",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GEORGE R. ARIYOSHI\n\nGovernor",
+    "keyed-information": {
+      "name-as-written": "GEORGE R. ARIYOSHI",
+      "name-normalized": "Ariyoshi, George R.",
+      "attributes": [
+        "Governor"
+      ]
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "at": "00:01:27.020",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Walt Grayson\n\nHost\n\nROADS",
+    "keyed-information": {
+      "name-as-written": "Walt Grayson",
+      "name-normalized": "Grayson, Walt",
+      "attributes": [
+        "Host"
+      ]
+    }
+  },
+  {
+    "at": "00:03:24.771",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. Jimmie James, Jr.\nChair\nJSU Music Department\n\nROADS",
+    "keyed-information": {
+      "name-as-written": "Dr. Jimmie James, Jr.",
+      "name-normalized": "James, Jimmie, Jr.",
+      "attributes": [
+        "Chair JSU Music Department"
+      ]
+    }
+  },
+  {
+    "at": "00:04:10.016",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dr. London Branch\n\nJSU Music Professor\n\nROADS",
+    "keyed-information": {
+      "name-as-written": "Dr. London Branch",
+      "name-normalized": "Branch, London",
+      "attributes": [
+        "JSU Music Professor"
+      ]
+    }
+  },
+  {
+    "at": "00:08:43.389",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "P. Sanders McNeal\n\nMississippi Artist\n\nROADS",
+    "keyed-information": {
+      "name-as-written": "P. Sanders McNeal",
+      "name-normalized": "McNeal, P. Sanders",
+      "attributes": [
+        "Mississippi Artist"
+      ]
+    }
+  }
+]

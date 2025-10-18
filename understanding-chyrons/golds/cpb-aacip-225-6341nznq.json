@@ -1,0 +1,136 @@
+[
+  {
+    "at": "00:01:44.771",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "DAN BOYLAN\n\nNewsmakers",
+    "keyed-information": {
+      "name-as-written": "DAN BOYLAN",
+      "name-normalized": "Boylan, Dan",
+      "attributes": [
+        "Newsmakers"
+      ]
+    }
+  },
+  {
+    "at": "00:02:40.026",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KELLY ZANE (D)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "KELLY ZANE (D)",
+      "name-normalized": "Zane, Kelly",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  },
+  {
+    "at": "00:03:35.648",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "GREG KNUDSEN (D)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "GREG KNUDSEN (D)",
+      "name-normalized": "Knudsen, Greg",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  },
+  {
+    "at": "00:05:08.274",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ROY BENHAM (D)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "ROY BENHAM (D)",
+      "name-normalized": "Benham, Roy",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  },
+  {
+    "at": "00:13:37.883",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MARK TERRY (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "MARK TERRY (R)",
+      "name-normalized": "Terry, Mark",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  },
+  {
+    "at": "00:14:25.531",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "KERRIE (Lane) WOODALL (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "KERRIE (Lane) WOODALL (R)",
+      "name-normalized": "Woodall, Kerrie",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  },
+  {
+    "at": "00:15:14.280",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "WILLIAM STONEBRAKER (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "WILLIAM STONEBRAKER (R)",
+      "name-normalized": "Stonebraker, William",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  },
+  {
+    "at": "00:16:40.899",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "MIKE MARQUES (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "MIKE MARQUES (R)",
+      "name-normalized": "Marques, Mark",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  },
+  {
+    "at": "00:17:42.528",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "ADRIENNE KING (R)\n\nState Rep. Dist. 15 Candidate\n\nKalama Valley, Hawaii Kai, Portlock",
+    "keyed-information": {
+      "name-as-written": "ADRIENNE KING (R)",
+      "name-normalized": "King, Adrienne",
+      "attributes": [
+        "State Rep. Dist. 15 Candidate",
+        "Kalama Valley, Hawaii Kai, Portlock"
+      ]
+    }
+  }
+]

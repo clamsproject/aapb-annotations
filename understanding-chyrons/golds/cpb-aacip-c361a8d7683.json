@@ -1,0 +1,70 @@
+[
+  {
+    "at": "00:06:07.400",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. DWIGHT TAKAMINE (D)\n\nNo. Hilo Hamakua",
+    "keyed-information": {
+      "name-as-written": "REP. DWIGHT TAKAMINE (D)",
+      "name-normalized": "Takamine, Dwight",
+      "attributes": [
+        "No. Hilo Hamakua"
+      ]
+    }
+  },
+  {
+    "at": "00:06:56.883",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "SEN. MIKE McCARTNEY (D)",
+    "keyed-information": {
+      "name-as-written": "SEN. MIKE McCARTNEY (D)",
+      "name-normalized": "McCartney, Mike",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:07:37.156",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. FRED HEMMINGS (R)\n\nHouse Minority Floor Leader",
+    "keyed-information": {
+      "name-as-written": "REP. FRED HEMMINGS (R)",
+      "name-normalized": "Hemmings, Fred",
+      "attributes": [
+        "House Minority Floor Leader"
+      ]
+    }
+  },
+  {
+    "at": "00:08:22.268",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "REP. ROD TAM (D)\n\nHouse Education Chairman",
+    "keyed-information": {
+      "name-as-written": "REP. ROD TAM (D)",
+      "name-normalized": "Tam, Rod",
+      "attributes": [
+        "House Education Chairman"
+      ]
+    }
+  },
+  {
+    "at": "00:09:43.149",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
+    "keyed-information": {
+      "name-as-written": "LYNETTE LO TOM",
+      "name-normalized": "Tom, Lynette Lo",
+      "attributes": [
+        "Hawaii Public Television"
+      ]
+    }
+  }
+]

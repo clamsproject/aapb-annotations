@@ -1,0 +1,38 @@
+[
+  {
+    "at": "00:09:22.395",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Dan Brown",
+    "keyed-information": {
+      "name-as-written": "Dan Brown",
+      "name-normalized": "Brown, Dan",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:14:56.028",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Steve Ward",
+    "keyed-information": {
+      "name-as-written": "Steve Ward",
+      "name-normalized": "Ward, Steve",
+      "attributes": []
+    }
+  },
+  {
+    "at": "00:15:10.276",
+    "scene-lebal": "I",
+    "scene-subtype-label": "",
+    "transitional": false,
+    "text-transcript": "Lem Ward",
+    "keyed-information": {
+      "name-as-written": "Lem Ward",
+      "name-normalized": "Ward, Lem",
+      "attributes": []
+    }
+  }
+]
