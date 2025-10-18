@@ -48,7 +48,7 @@ def process(raw_dir, golds_dir):
         outfname = golds_dir / fname.with_suffix('.csv').name
         with open(outfname, "w", encoding='utf-8') as f:
             writer = csv.writer(f, lineterminator='\n')
-            writer.writerow(["at", "scene-type", "skipped", "role-fillers"])
+            writer.writerow(["at", "scene-label", "skipped", "role-fillers"])
             writer.writerows(out)
 
 
