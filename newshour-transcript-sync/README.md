@@ -141,10 +141,11 @@ This script is designed to resolve the text mismatch between the timed `.srt` fi
 
 * Example:
 ```
-$ head -4 cpb-aacip-507-1v5bc3tf81.tsv
-index	start	end	content
-1	00:02:05.570	00:02:08.570	Good evening. I'm Jim Lehrer. On the NewsHour tonight coverage
-2	00:02:08.580	00:02:12.390	of the Salt Lake City Olympics investigation, some perspective on
-3	00:02:12.400	00:02:16.540	this year of devastating storms and other natural disasters, a
+$ head -n5 golds/cpb-aacip-507-6w96689725.tsv
+index	start	end	alignment-start	alignment-end
+1	00:02:43.920	00:02:47.690	0	82
+2	00:02:47.700	00:02:50.710	83	144
+3	00:02:50.720	00:02:54.050	145	200
+4	00:02:54.060	00:02:56.750	201	258
 ```
 _The golds data conforms to fieldname and time conventions._  
