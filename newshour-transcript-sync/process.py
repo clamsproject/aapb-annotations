@@ -194,7 +194,7 @@ def srt_to_tsv(srt_filename, gold_transcript_filename, tsv_filename, generate_ht
 
     with open(gold_transcript_filename, 'r', encoding='utf-8') as f:
         gold_content = f.read()
-    reference_text = gold_content.strip()
+    reference_text = gold_content
     reference_tokens = tokenize(reference_text) # These have real spans
 
     metrics, alignment = analyze_diff(hypothesis_tokens, reference_tokens)
