@@ -31,10 +31,12 @@ from tqdm import tqdm
 
 def tokenize(text):
     """
-    Splits text into words and punctuation tokens, including their spans.
+    Splits text into tokens, keeping punctuation attached to words.
+    Words with leading/trailing punctuation stay together (e.g., "hello."
+    becomes ['hello.'], "'hello'" becomes ["'hello'"]).
     Returns a list of tuples: (token, start_char, end_char)
     """
-    return [(m.group(0), m.start(), m.end()) for m in re.finditer(r'\w+|[^\s\w]', text)]
+    return [(m.group(0), m.start(), m.end()) for m in re.finditer(r'[^\s\w]*\w+[^\s\w]*|[^\s\w]+', text)]
 
 
 def analyze_diff(hypothesis_tokens, reference_tokens):
