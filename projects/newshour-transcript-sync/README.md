@@ -43,7 +43,7 @@ With both video and transcript downloaded, you can now do the closed captioning.
 ## Annotation Guidelines
 Transcribing/Closed Captioning  
 > [!Note]  
-> This `readme.md` is the guideline for this project.  
+> This `README.md` is the guideline for this project.  
 ### Preparation
 INPUT - Videos with audible speech to be annotated and transcripts matching those videos.  
   

@@ -9,7 +9,7 @@ All annotation projects are located in the `projects/` directory. Each project l
 - Raw annotation data (in dated batch directories)
 - Gold-formatted output files (in `golds/` directory)
 - Conversion scripts (typically `process.py`)
-- Project documentation (`readme.md`)
+- Project documentation (`README.md`)
 
 ### Raw Annotation Data
 
@@ -18,7 +18,7 @@ All annotation projects are located in the `projects/` directory. Each project l
 
 This directory contains output files from the manual annotation process created by an annotation tool or by hand.
 
-The raw annotation files are organized by batch name and starting date of the annotation. A single "period" of the annotation is the whole process of a single batch of source data (AAPB assets) being annotated. The `YYMMDD-` prefix _must_ indicate an associated time to a batch of annotation (usually that is when the batch is first prepared and used for annotation, or completed and delivered). The `batchName` part of the directory name _must_ match the basename of one of the `.txt` files in the [annotation batches directory](README.md#annotation-batches). The date and batch name prefixes are used for sorting annotation processes and machine ingestion of the raw data.
+The raw annotation files are organized by batch name and starting date of the annotation. A single "period" of the annotation is the whole process of a single batch of source data (AAPB assets) being annotated. The `YYMMDD-` prefix _must_ indicate an associated time to a batch of annotation (usually that is when the batch is first prepared and used for annotation, or completed and delivered). The `batchName` part of the directory name _must_ match the basename of one of the `.txt` files in the [annotation batches directory](batches/README.md). The date and batch name prefixes are used for sorting annotation processes and machine ingestion of the raw data.
 
 Different annotation tools create different file formats, hence we need conversion of the raw annotation files to files with a common format for the gold data.
 
@@ -80,7 +80,7 @@ Project-specific information, including but not limited to:
     * Concerns, limitations, precision details. (e.g. time imprecision)
 
 > [!NOTE]
-> `readme.md` & `guidelines.{md,ppt}` files are supposed to be actively maintained by the project manager. All guideline files are recommended to be version-controlled.
+> `README.md` & `guidelines.{md,ppt}` files are supposed to be actively maintained by the project manager. All guideline files are recommended to be version-controlled.
 
 
 ## Batch File Format

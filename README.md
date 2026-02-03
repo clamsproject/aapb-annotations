@@ -21,6 +21,6 @@ For contributors and data managers, see [CONTRIBUTING.md](CONTRIBUTING.md) for d
 
 ## Issue Tracking and Contact
 
-Progress and other discussion by AAPB/CLAMS/GBH is tracked via the open and closed [Github Issues](https://github.com/clamsproject/aapb-annotations/issues) feature.
+Progress and other discussion by AAPB/CLAMS/GBH is tracked via the open and closed [GitHub Issues](https://github.com/clamsproject/aapb-annotations/issues) feature.
 
 Please email [CLAMS.ai admin](mailto:admin@clams.ai) for other inquiries.

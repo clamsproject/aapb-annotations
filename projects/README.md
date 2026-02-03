@@ -7,7 +7,7 @@ All annotation projects for the AAPB-CLAMS collaboration are located in this dir
 Each project directory contains:
 
 - **`golds/`** - The gold dataset files ready for machine consumption (training, evaluation, or other use)
-- **`readme.md`** - Project-specific documentation and annotation guidelines
+- **`README.md`** - Project-specific documentation and annotation guidelines
 - **Raw annotation data** - Original annotation files organized by batch and date
 
 ## Using Gold Dataset Files
