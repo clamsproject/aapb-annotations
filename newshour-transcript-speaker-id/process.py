@@ -156,14 +156,14 @@ def process_slice_split(
     results = []
     current_time = start_seconds
 
-    for i, (speaker_id, overlap_start, overlap_end) in enumerate(overlaps):
+    for i, (speaker_id, overlap_start, overlap_end) in enumerate(splits):
         speaker_chars = overlap_end - overlap_start
         speaker_duration = (speaker_chars / total_chars) * duration
 
         speaker_start_time = format_time(current_time)
         current_time += speaker_duration
         # For last speaker, use exact end time to avoid floating point issues
-        if i == len(overlaps) - 1:
+        if i == len(splits) - 1:
             speaker_end_time = time_end
         else:
             speaker_end_time = format_time(current_time)
@@ -211,6 +211,11 @@ def process_file(
             speaker_id = process_slice_majority(speaker_spans, char_start, char_end)
             if speaker_id:
                 output_rows.append((start_time, end_time, speaker_id))
+        elif strategy == "drop":
+            splits = split_by_speakers(speaker_spans, char_start, char_end)
+            speakers = set(s[0] for s in splits)
+            if len(speakers) == 1:
+                output_rows.append((start_time, end_time, list(speakers)[0]))
         else:  # split
             split_rows = process_slice_split(
                 speaker_spans, char_start, char_end, start_time, end_time
@@ -288,11 +293,12 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         '--strategy',
-        choices=['majority', 'split'],
+        choices=['majority', 'split', 'drop'],
         default='majority',
         help='Strategy for handling time slices with multiple speakers: '
              '"majority" assigns entire slice to dominant speaker, '
-             '"split" divides time proportionally (default: majority)'
+             '"split" divides time proportionally, '
+             '"drop" ignores slices with multiple speakers (default: majority)'
     )
 
     args = parser.parse_args()
