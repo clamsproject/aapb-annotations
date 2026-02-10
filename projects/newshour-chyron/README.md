@@ -26,7 +26,7 @@ A video must be imported. Docker is likely used.
 
 ## Annotation Guidelines
 > [!Note]  
-> This `readme.md` is the guideline for this project. 
+> This `README.md` is the guideline for this project. 
 
 ### Preparation
 Videos are loaded into the VIA tool for annotation. 

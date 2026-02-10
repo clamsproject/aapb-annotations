@@ -67,7 +67,7 @@ Currently, annotators are accessing the tool via web app instances locally on th
 
 > [!Important]  
 > Please read this explanation of the types of frames first. 
-> [`Types of frames`](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit) is the guidelines for this project along with more specific instructions from this `readme.md`.   
+> [`Types of frames`](https://docs.google.com/document/d/1IyM_rCsCr_1XQ39j36WMX-XnVVBT4T_01j-M0eYqyDs/edit) is the guidelines for this project along with more specific instructions from this `README.md`.   
 
 
 ### Preparation

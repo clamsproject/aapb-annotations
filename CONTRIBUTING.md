@@ -1,9 +1,110 @@
-# Repository-level Conventions
+# Contributing to AAPB-CLAMS Annotations
 
-Conventions on data formatting and precision, file names and data field names.
+This document provides guidelines for data managers and contributors who create and maintain annotation projects in this repository.
+
+## Project Directory Structure
+
+All annotation projects are located in the `projects/` directory. Each project lives in its own subdirectory under `projects/` (e.g., `projects/scene-recognition/`). The subdirectory name is the project name. A project directory must include:
+
+- Raw annotation data (in dated batch directories)
+- Gold-formatted output files (in `golds/` directory)
+- Conversion scripts (typically `process.py`)
+- Project documentation (`README.md`)
+
+### Raw Annotation Data
+
+> [!IMPORTANT]
+> `YYMMDD-batchName` directory
+
+This directory contains output files from the manual annotation process created by an annotation tool or by hand.
+
+The raw annotation files are organized by batch name and starting date of the annotation. A single "period" of the annotation is the whole process of a single batch of source data (AAPB assets) being annotated. The `YYMMDD-` prefix _must_ indicate an associated time to a batch of annotation (usually that is when the batch is first prepared and used for annotation, or completed and delivered). The `batchName` part of the directory name _must_ match the basename of one of the `.txt` files in the [annotation batches directory](batches/README.md). The date and batch name prefixes are used for sorting annotation processes and machine ingestion of the raw data.
+
+Different annotation tools create different file formats, hence we need conversion of the raw annotation files to files with a common format for the gold data.
 
 
-## Synopsis
+### Gold Dataset Files
+
+> [!IMPORTANT]
+> `golds` directory
+
+There are rules on the content and structure of the gold directory:
+
+1. There _must_ be one file per GUID, and the GUID should be part of the filename.
+2. The number of gold files in this directory _must_ match the sum of GUIDs in all batches annotated. This means that there cannot be any overlap between assets in batches.
+3. The `golds` directory _may_ have subdirectories, but these subdirectories should not reflect batch structure, but rather different division of annotation type (e.g. pure named entity span annotation vs. named entity span + some grounding annotation) or format (same information but formatted as timepoints vs. time intervals).
+
+
+### Scripts for Format Conversion
+
+> [!IMPORTANT]
+> _(usually)_ `process.{sh,py}`
+
+This is typically a single script to process the raw annotation files and generate the gold data.
+The input file format (i.e., direct output from the annotation process) can vary (e.g. `.csv`, `.json`, `.txt`). The output file format must be a common machine-readable data format (CSV, TSV, JSON, but definitely not MMIF), and is **subject to change** for any future requirements in the consumption software.
+
+In addition to the main script, if the code requires additional dependencies/scripts, they should be in the same level at that subdirectory. Dependencies on third-party modules can be documented in the `README.md` file or in a machine-friendly file with the list of dependencies (e.g. `requirements.txt` for `pip`).
+
+Check the [Repository-level Conventions](#repository-level-conventions) section for naming conventions for common field/column names for gold data.
+
+
+### README File and Other Project Documentation
+
+> [!IMPORTANT]
+> `README.md` (_and possibly `guidelines.{md,ppt}`_)
+
+Project-specific information, including but not limited to:
+
+* Annotation project name
+
+* One-line summary of the project
+
+* Annotator summary. Some basic demographic information about the annotators: age group, language proficiency, occupational characteristics, etc. No [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data), unless the annotator wants to be credited.
+
+* Annotation environment/tool information (name, version, link, user manual, etcetera). In most cases, there is a separate codebase (ideally on [https://github.com/clamsproject/](https://github.com/clamsproject/)) for the annotation tool which includes the manual.
+
+* Project changes: version changes, selection of asset batches, change in annotator personnel, etc.
+
+* Raw-to-gold conversion code explanation
+    * dependencies, short description of `process.py`
+    * formats of raw and gold files
+    * field description, with data types
+    * differences, added information, discarded information during `process.py`
+
+* Annotation guidelines - sometimes as a separate file named `guidelines.{md,ppt}`. This section should give sufficient documentation for how the annotation was done and what the conditions/assumptions are under which the dataset exists:
+    * What tool is used, and how it is used.
+    * What to annotate
+    * Options of label choices
+    * Label formatting.
+    * Differentiation between labels, edge cases, other decisions made during annotation.
+    * Concerns, limitations, precision details. (e.g. time imprecision)
+
+> [!NOTE]
+> `README.md` & `guidelines.{md,ppt}` files are supposed to be actively maintained by the project manager. All guideline files are recommended to be version-controlled.
+
+
+## Batch File Format
+
+Each batch is defined by a `BATCH_NAME.txt` file in the `batches/` directory.
+
+* Batches are often named after their relevant GitHub issue from the [AAPB-CLAMS collaboration repository](https://github.com/clamsproject/aapb-collaboration).
+
+* Each line in the file must be either a single AAPB GUID or a comment starting with a `#`. The first lines are typically batch-level comments, while later comment lines may specify sources for subsequent AAPB GUIDs.
+
+Typically, batch-level comments start and end with a comment line with just hyphens, for example:
+
+```
+# --------------------------------------------------------------------------------
+# A set of videos that have various instances of "scenes with text" that are ideal
+# for creating labeled data for roles and fillers (key-value pairs) extraction.
+#
+# See https://github.com/clamsproject/aapb-annotations/issues/44 for the selection
+# process and other additional information.
+# --------------------------------------------------------------------------------
+```
+
+
+## Repository-level Conventions
 
 > [!IMPORTANT]
 > Media Time = `hh:mm:ss.mmm` with a **DOT**  
@@ -11,18 +112,14 @@ Conventions on data formatting and precision, file names and data field names.
 > Some estimates of imprecision are given by Margin of Error.  
 > Directionality definitions help frame the boundaries meant by annotated times.  
 > The fields in the gold datasets should be standardized.
-> Naming conventions - batches: `repoName-issueNumber(-identifier).txt`
-
-
-## Data Formatting and Precision Conventions
 
 ### Field Naming Conventions
 
 > [!NOTE]
-Also, often referred as "column names" (mainly because we tend to use tabular data formats like CSV, TSV, etc.). 
+> Also often referred to as "column names" (mainly because we tend to use tabular data formats like CSV, TSV, etc.). 
 
 The field name in the "gold" data should indicate the type of data in the field. 
-That is, fields that contains the same (or similar enough) data should have the same name across different annotation task subdirectories.
+That is, fields that contain the same (or similar enough) data should have the same name across different annotation task subdirectories.
 The following table provides a ledger for commonly used names and their data types (see [#117](https://github.com/clamsproject/aapb-annotations/issues/107) for discussion). Some names are **standardized** and must be used when applicable, while others are **common** conventions that are recommended for consistency.
 
 | Field(s) Name | Description                                                                         |
@@ -53,25 +150,15 @@ The time format for all (gold) datasets in this repository is [ISO 8601 Time For
 
 > _TODO: Some gold datasets and tools have not yet been converted._
 
-During raw annotation however, third-party annotation tools may use different time formats. The expectation for any in-house tools and apps is to use this standard. If configurable, annotations tool should be configured to use this format. If possible, the annotator should also be instructed to use this format.
+During raw annotation however, third-party annotation tools may use different time formats. The expectation for any in-house tools and apps is to use this standard. If configurable, annotation tools should be configured to use this format. If possible, the annotator should also be instructed to use this format.
 
 > _TODO: the following prose is unclear_
 
 Due to algorithmic differences in compression/decompression and their implementations in video players for human watchers, we may lose temporal precision. However, this is most likely to be in the order of a few milliseconds and hence not a significant problem.
 
-<!--
-For MPEG-based video files, frame numbers are converted to milliseconds with loss of precision past 3-digits. 
-However, due to exact time -> still-image-fetching being dependent on the video compression/codec/player, there is no expected need for precision past 3-digits. 
-It is assumed that different video players will regenerate images on screen slightly differently based on the decompression algorithms. 
-To that end, it is unlikely that even given a specific time moment that a person in one place would be able to extract exactly the same pixels 
-in a frame as another person doing it somewhere else.  
-The other reason frames was not chosen to divide seconds is that the collection also contains radio assets with audio only. Audio does not have frames.  
--->
-
-
 ### Imprecision in Annotation in General
 
-Currently, data Quality processes are currently still being designed and datasets do not have a data quality checklist applied to them. This means that general data messiness including typos are always possible.
+Currently, data quality processes are still being designed and datasets do not have a data quality checklist applied to them. This means that general data messiness including typos are always possible.
  
 Two semi-preventative measures are: 
 
@@ -79,7 +166,6 @@ Two semi-preventative measures are:
 2. Annotators should use copy-paste wherever possible instead of typing, and annotation tools should have buttons to add items, reducing typos during typing.  
 
 The current convention is that annotators are asked to be as careful as possible, and some datasets are "quality-assumed" upon faith in annotators/environment until such time a quantitative analysis of errors is done.
-
 
 ### Imprecision in Time-based Annotation
 
@@ -114,8 +200,7 @@ i.e. Any time given by the annotated time interval of the chyron should return a
 
 Finally, a reminder that at 30 frames per second, each frame is 0.033_ seconds long - meaning a tenth of a second has 3 frames within it. Practically speaking, there is only a small percentage of cases where the variation between one frame to its neighbor is relevant, especially in cases of human perception. The conventions for precision hold until new needs of the project are required. 
 
-
-## File Naming Conventions
+### Batch File Naming Conventions
 
 Batch names should be in lower case. If a batch is named after a GitHub issue it should be in this format:
 

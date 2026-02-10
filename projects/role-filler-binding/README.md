@@ -41,7 +41,7 @@ Annotation Tool is developed in-house specifically for this workflow.
 
 ## Annotation Guidelines
 > [!Important]
-> The following section in this readme is simply an overview or repeat of what is said in the [`current guidelines link`](https://docs.google.com/document/d/1Kxa99JMfDuy-y2xFqmgPkuLnLqEGhNB8iMxBT3E1Tx4/edit?usp=sharing).
+> The following section in this README is simply an overview or repeat of what is said in the [`current guidelines link`](https://docs.google.com/document/d/1Kxa99JMfDuy-y2xFqmgPkuLnLqEGhNB8iMxBT3E1Tx4/edit?usp=sharing).
 > The most updated guideline will be linked here.
 > Access to this link must be approved due to IP/copyright issues.
 > The above live link document will be the final say on how to annotate this project, in case discrepancies occur in the updating between this read and the above live link.
