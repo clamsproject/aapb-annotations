@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:26.019",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Barbara Dolny\n\nWSKG",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:01.781",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rose Garrity\n\nA New Hope Center",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:03:56.135",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rita Wright\n\nCortland YWCA",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:05:48.381",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynne Giacobbe\n\nCrime Victims Assistance Center",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:07:14.267",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Patricia Ericksen\n\nSOS Shelter",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:09:29.001",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sgt. Kelly Daley\n\nDomestic Violence Intervention Unit Troop C",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:17:03.655",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynne Giacobbe\n\nCrime Victims Assistance Center",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:28:17.395",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sgt. Kelly Daley\n\nDomestic Violence Intervention Unit Troop C",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:32:49.400",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rose Garrity\n\nA New Hope Center",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:34:02.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Patricia Ericksen\n\nSOS Shelter",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:36:48.139",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rita Wright\n\nCortland YWCA",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:44:39.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Pat Burki\n\nMary Kay",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:47:48.999",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rose Garrity\n\nA New Hope Center",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:50:59.523",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynne Giacobbe\n\nCrime Victims Assistance Center",

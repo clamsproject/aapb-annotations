@@ -1,7 +1,7 @@
 [
   {
     "at": "00:05:54.754",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kristin Carlson\n\nWCAX-TV",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:09:51.524",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joe Merone\n\nVPT Moderator",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:11:28.521",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris Graff\n\nFormer Vermont AP Bureau Chief",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:20:24.256",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Philip Baruth\n\nThe Vermont Daily Briefing",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:25:33.999",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kevin Kelly\n\nSeven Days/St. Michael's Professor",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:25:49.014",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bob Davis\n\nWCAX-TV/St. Michael's Professor",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:28:03.882",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kelly-Anne Huettner\n\nWriting for Media II",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:28:11.890",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Katie Colleran\n\nTV News Reporting",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:28:24.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kaitlin Couillard\n\nTV News Reporting",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:30:21.519",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Governor Jim Douglas\n\nR-Vermont",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:53:48.024",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Katie Colleran\n\nTV News Reporting",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:54:06.509",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kelly-Anne Huettner\n\nWriting for Media II",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:54:19.022",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kaitlin Couillard\n\nTV News Reporting",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:54:32.402",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kevin Kelly\n\nSeven Days/St. Michael's Professor",

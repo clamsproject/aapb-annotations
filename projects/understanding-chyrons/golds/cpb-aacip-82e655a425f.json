@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:58.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ED SARDELLA",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:03:12.258",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHELE AMES\nROCKY MOUNTAIN NEWS",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:04:50.890",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHELE AMES\nROCKY MOUNTAIN NEWS",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:08:18.130",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEVIN FLYNN\nROCKY MOUNTAIN NEWS",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:12:51.003",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE RAABE\nTHE DENVER POST",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:15:33.499",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE RAABE\nTHE DENVER POST",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:16:14.907",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ED SARDELLA",
@@ -95,7 +95,7 @@
   },
   {
     "at": "00:18:07.886",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF SMITH\nROCKY MOUNTAIN NEWS",
@@ -109,7 +109,7 @@
   },
   {
     "at": "00:19:58.764",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF SMITH\nROCKY MOUNTAIN NEWS",
@@ -123,7 +123,7 @@
   },
   {
     "at": "00:20:51.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARSHA AUSTIN\nTHE DENVER POST",
@@ -137,7 +137,7 @@
   },
   {
     "at": "00:24:34.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARSHA AUSTIN\nTHE DENVER POST",
@@ -151,7 +151,7 @@
   },
   {
     "at": "00:25:24.022",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHELE AMES\nROCKY MOUNTAIN NEWS",
@@ -165,7 +165,7 @@
   },
   {
     "at": "00:26:27.252",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JEFF SMITH\nROCKY MOUNTAIN NEWS",
@@ -179,7 +179,7 @@
   },
   {
     "at": "00:32:36.754",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHAEL BOOTH\nTHE DENVER POST",
@@ -193,7 +193,7 @@
   },
   {
     "at": "00:36:31.889",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "PEGGY LOWE\nROCKY MOUNTAIN NEWS",
@@ -207,7 +207,7 @@
   },
   {
     "at": "00:39:06.877",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PEGGY LOWE\nROCKY MOUNTAIN NEWS",
@@ -221,7 +221,7 @@
   },
   {
     "at": "00:41:12.503",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK OBMASCIK\nTHE DENVER POST",
@@ -235,7 +235,7 @@
   },
   {
     "at": "00:43:58.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK OBMASCIK\nTHE DENVER POST",
@@ -249,7 +249,7 @@
   },
   {
     "at": "00:46:53.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK OBMASCIK\nTHE DENVER POST",
@@ -263,7 +263,7 @@
   },
   {
     "at": "00:49:50.754",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "ANN IMSE\nROCKY MOUNTAIN NEWS",
@@ -277,7 +277,7 @@
   },
   {
     "at": "00:52:24.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANN IMSE\nROCKY MOUNTAIN NEWS",
@@ -291,7 +291,7 @@
   },
   {
     "at": "00:56:06.029",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHAEL BOOTH\nTHE DENVER POST",
@@ -305,7 +305,7 @@
   },
   {
     "at": "01:02:48.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEVIN FLYNN\nROCKY MOUNTAIN NEWS",
@@ -319,7 +319,7 @@
   },
   {
     "at": "01:05:10.273",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEVIN FLYNN\nROCKY MOUNTAIN NEWS",
@@ -333,7 +333,7 @@
   },
   {
     "at": "01:08:10.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NANCY LOFHOLM\nGRAND JUNCTION",
@@ -347,7 +347,7 @@
   },
   {
     "at": "01:11:35.524",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NANCY LOFHOLM\nGRAND JUNCTION",
@@ -361,7 +361,7 @@
   },
   {
     "at": "01:12:49.498",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "THEO STEIN\nTHE DENVER POST",
@@ -375,7 +375,7 @@
   },
   {
     "at": "01:14:10.012",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "THEO STEIN\nTHE DENVER POST",
@@ -389,7 +389,7 @@
   },
   {
     "at": "01:17:28.143",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Karen Aug\u00e9\nTHE DENVER POST",
@@ -403,7 +403,7 @@
   },
   {
     "at": "01:20:12.374",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Karen Aug\u00e9\nTHE DENVER POST",
@@ -417,7 +417,7 @@
   },
   {
     "at": "01:22:48.396",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERD SMITH\nROCKY MOUNTAIN NEWS",
@@ -431,7 +431,7 @@
   },
   {
     "at": "01:25:13.374",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERD SMITH\nROCKY MOUNTAIN NEWS",
@@ -445,7 +445,7 @@
   },
   {
     "at": "01:25:57.752",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEVIN FLYNN\nROCKY MOUNTAIN NEWS",

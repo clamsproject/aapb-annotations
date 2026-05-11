@@ -1,7 +1,7 @@
 [
   {
     "at": "00:15:23.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KAUPENA WONG",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:39:43.647",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JACK K. SUWA\n\nState Representative",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:52:14.498",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES H. WAKATSUKI\n\nSpeaker of the House",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:58:35.278",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES H. WAKATSUKI\n\nSpeaker of the House",

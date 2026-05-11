@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:11.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Fred Smoller (D/67th)\n\nCOLLEGE TEACHER",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:28.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nolan Frizzelle (R)\n\nASSEMBLYMAN, 69TH DISTRICT",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:03:44.657",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Toledano (D/69th)\n\nLAWYER, BUSINESSMAN",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:04:06.779",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gil Ferguson (R)\n\nASSEMBLYMAN, 70TH DISTRICT",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:04:13.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Adler (D/70th)\n\nBUSINESS OWNER",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:04:48.154",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Lewis (R)\n\nASSEMBLYMAN, 67th DISTRICT",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:05:37.503",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Fred Smoller (D/67th)\n\nCOLLEGE TEACHER",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:06:28.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nolan Frizzelle (R)\n\nASSEMBLYMAN, 69TH DISTRICT",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:07:46.532",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Toledano (D/69th)\n\nLAWYER, BUSINESSMAN",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:09:03.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gil Ferguson (R)\n\nASSEMBLYMAN, 70TH DISTRICT",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:10:10.009",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Adler (D/70th)\n\nBUSINESS OWNER",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:24:43.748",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Fred Smoller (D/67th)\n\nCOLLEGE TEACHER",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:25:10.509",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Lewis (R)\n\nASSEMBLYMAN, 67th DISTRICT",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:26:36.628",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Toledano (D/69th)\n\nLAWYER, BUSINESSMAN",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:26:53.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nolan Frizzelle (R)\n\nASSEMBLYMAN, 69TH DISTRICT",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:27:16.768",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Adler (D/70th)\n\nBUSINESS OWNER",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:27:37.155",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gil Ferguson (R)\n\nASSEMBLYMAN, 70TH DISTRICT",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:08.154",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE TAKANE\n\nHOUSE CLERK",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:08:45.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY LARRIN",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:11:26.018",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LOYAL GARNER",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:11:41.267",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD S. H. WONG\n\nSENATE PRESIDENT",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:13:10.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REV. WILLIAM KAINA",
@@ -65,7 +65,7 @@
   },
   {
     "at": "00:16:40.399",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID WOO\n\nSENATE CLERK",
@@ -79,7 +79,7 @@
   },
   {
     "at": "00:19:36.008",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STACY SAKAMOTO\n\nHAWAII PUBLIC\n\nTELEVISION",
@@ -93,7 +93,7 @@
   },
   {
     "at": "00:21:09.401",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID WOO\n\nSENATE CLERK",
@@ -107,7 +107,7 @@
   },
   {
     "at": "00:22:35.387",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HERMAN LUM\n\nCHIEF JUSTICE\n\nHAWAII SUPREME COURT",
@@ -122,7 +122,7 @@
   },
   {
     "at": "00:29:11.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD S. H. WONG\n\nSENATE PRESIDENT",
@@ -136,7 +136,7 @@
   },
   {
     "at": "00:35:54.886",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD HENDERSON\n\nMINORITY LEADER",
@@ -150,7 +150,7 @@
   },
   {
     "at": "00:37:51.502",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD HENDERSON\n\nMINORITY LEADER",
@@ -164,7 +164,7 @@
   },
   {
     "at": "00:48:23.901",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SOL BRIGHT",

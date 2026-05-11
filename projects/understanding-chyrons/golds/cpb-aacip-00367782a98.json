@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:20.500",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI WILLIAMS\n\nRTD BOARD MEMBER",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:33.032",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DON KINNEY\n\nKRMA-TV",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:20.500",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI WILLIAMS\n\nRTD BOARD MEMBER",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:14:19.124",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI WILLIAMS\n\nRTD BOARD MEMBER",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:15:38.771",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CINDY PARMENTER\n\nDENVER POST",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:22:02.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CINDY PARMENTER\n\nDENVER POST",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:23:14.126",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "T.J. SIMERS\n\nROCKY MOUNTAIN NEWS",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:26:54.145",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "T.J. SIMERS\n\nROCKY MOUNTAIN NEWS",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:36:56.647",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "THOMAS COOGAN\n\nDENVER POLICE CHIEF",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:42:07.024",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "THOMAS COOGAN\n\nDENVER POLICE CHIEF",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:44:00.137",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SHARON SHERMAN\n\nDENVER POST",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:48:13.123",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORM UDEVITZ\n\nDENVER POST",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:51:32.622",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORM UDEVITZ\n\nDENVER POST",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:54:35.505",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORM UDEVITZ\n\nDENVER POST",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:55:40.503",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SANDY GRAHAM\n\nROCKY MOUNTAIN NEWS",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:57:36.252",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SANDY GRAHAM\n\nROCKY MOUNTAIN NEWS",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:59:58.895",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SHARON SHERMAN\n\nDENVER POST",

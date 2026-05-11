@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:38.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gov. Harry Hughes",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:07:58.377",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Thomas P. Eichler\n\nREGIONAL ADMIN. EPA",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:09:54.026",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Vincent J. Mazza\n\nGLIDDEN PIGMENTS - SCM CORP.",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:13:48.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Torrey Brown\n\nSEC. MARYLAND DNR",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:14:32.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jack F. Witten\n\nCHESAPEAKE BAY COMM.",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:16:05.130",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Willard Dutton\n\nWATERMAN",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:17:39.525",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "J. Hugh Nichols\n\nCOUNTY EXECUTIVE, HOWARD CO.",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:19:32.271",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sec. Wayne A. Cawley \n\nMARYLAND DEPT. OF AGRICULTURE",
@@ -111,7 +111,7 @@
   },
   {
     "at": "00:22:08.260",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. James Miller \n\nAGRONOMY DEPT., UNIV. OF MD.",
@@ -125,7 +125,7 @@
   },
   {
     "at": "00:24:15.387",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Oliver T. Carr Jr. \n\nWASH.-BALTO. REGIONAL ASSOC.",
@@ -139,7 +139,7 @@
   },
   {
     "at": "00:26:38.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "R. F. Sweitzer\n\nWATERMAN",
@@ -153,7 +153,7 @@
   },
   {
     "at": "00:30:42.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William C. Baker\n\nCHESAPEAKE BAY FOUNDATION",
@@ -167,7 +167,7 @@
   },
   {
     "at": "00:31:28.019",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bernie Fowler\n\nSTATE SENATOR",
@@ -181,7 +181,7 @@
   },
   {
     "at": "00:37:01.752",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. J.A. Mihursky \n\nCHESAPEAKE BIOL. LAB.",
@@ -195,7 +195,7 @@
   },
   {
     "at": "00:39:32.903",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. James Miller \n\nAGRONOMY DEPT., UNIV. OF MD.",
@@ -209,7 +209,7 @@
   },
   {
     "at": "00:40:57.755",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Thomas P. Eichler\n\nREGIONAL ADMIN. EPA",
@@ -223,7 +223,7 @@
   },
   {
     "at": "00:42:27.378",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gov. Harry Hughes",

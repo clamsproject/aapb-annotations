@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:28.148",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kayne Pyatt\n\nWagon Train Trail Boss",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:15.395",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Hufford",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:03:47.760",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Morris McCarty",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:05:55.388",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Riley Gunter",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:07:24.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Val Geissler\n\nWagon Train Vice President",
@@ -65,7 +65,7 @@
   },
   {
     "at": "00:10:25.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bob Johnson",
@@ -77,7 +77,7 @@
   },
   {
     "at": "00:14:20.526",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Phil Marincic\n\nWagonmaster",
@@ -91,7 +91,7 @@
   },
   {
     "at": "00:17:43.395",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kayne Pyatt\n\nTrail Boss",
@@ -105,7 +105,7 @@
   },
   {
     "at": "00:18:18.897",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Candy Hufford",
@@ -117,7 +117,7 @@
   },
   {
     "at": "00:18:42.654",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kevin Lauer",

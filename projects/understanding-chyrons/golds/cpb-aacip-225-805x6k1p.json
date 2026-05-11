@@ -1,7 +1,7 @@
 [
   {
     "at": "00:00:53.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CEC HEFTEL",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:01:57.884",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WAIHEE",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:03:12.392",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL H. SNIDER",
@@ -37,7 +37,7 @@
   },
   {
     "at": "00:04:17.023",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TONY\n\nHODGES",
@@ -49,7 +49,7 @@
   },
   {
     "at": "00:05:22.255",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATSY T. MINK",
@@ -61,7 +61,7 @@
   },
   {
     "at": "00:06:27.153",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
@@ -73,7 +73,7 @@
   },
   {
     "at": "00:07:31.517",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WAIHEE",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:08:34.280",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CEC HEFTEL",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:09:30.403",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS",
@@ -109,7 +109,7 @@
   },
   {
     "at": "00:10:09.875",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CEC HEFTEL",
@@ -121,7 +121,7 @@
   },
   {
     "at": "00:11:19.879",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WAIHEE",
@@ -133,7 +133,7 @@
   },
   {
     "at": "00:11:53.646",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATSY T. MINK",
@@ -145,7 +145,7 @@
   },
   {
     "at": "00:13:02.281",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
@@ -157,7 +157,7 @@
   },
   {
     "at": "00:14:06.011",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TONY\n\nHODGES",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:15:10.509",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL H. SNIDER",
@@ -181,7 +181,7 @@
   },
   {
     "at": "00:16:14.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARBARA TANABE",
@@ -193,7 +193,7 @@
   },
   {
     "at": "00:16:39.898",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CEC HEFTEL",
@@ -205,7 +205,7 @@
   },
   {
     "at": "00:17:48.634",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TONY\n\nHODGES",
@@ -217,7 +217,7 @@
   },
   {
     "at": "00:18:54.766",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
@@ -229,7 +229,7 @@
   },
   {
     "at": "00:19:53.759",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL H. SNIDER",
@@ -241,7 +241,7 @@
   },
   {
     "at": "00:20:44.276",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATSY T. MINK",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:21:52.778",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WAIHEE",
@@ -265,7 +265,7 @@
   },
   {
     "at": "00:22:58.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN SIMONDS",
@@ -277,7 +277,7 @@
   },
   {
     "at": "00:23:19.030",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TONY\n\nHODGES",
@@ -289,7 +289,7 @@
   },
   {
     "at": "00:24:26.264",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WAIHEE",
@@ -301,7 +301,7 @@
   },
   {
     "at": "00:25:34.900",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATSY T. MINK",
@@ -313,7 +313,7 @@
   },
   {
     "at": "00:26:44.402",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
@@ -325,7 +325,7 @@
   },
   {
     "at": "00:27:49.000",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL H. SNIDER",
@@ -337,7 +337,7 @@
   },
   {
     "at": "00:28:57.402",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CEC HEFTEL",
@@ -349,7 +349,7 @@
   },
   {
     "at": "00:30:13.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM K.\n\n\"BILLY\" KUAIWA",
@@ -361,7 +361,7 @@
   },
   {
     "at": "00:31:52.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CEC HEFTEL",
@@ -373,7 +373,7 @@
   },
   {
     "at": "00:33:11.756",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WAIHEE",
@@ -385,7 +385,7 @@
   },
   {
     "at": "00:34:49.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATSY T. MINK",
@@ -397,7 +397,7 @@
   },
   {
     "at": "00:36:22.647",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL H. SNIDER",
@@ -409,7 +409,7 @@
   },
   {
     "at": "00:37:58.876",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TONY\n\nHODGES",

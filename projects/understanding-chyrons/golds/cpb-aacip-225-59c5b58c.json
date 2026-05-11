@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:42.889",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Peter Young\n\nChairman, Dept. of Land & Natural Resources",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:02.141",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Judith Fogarty\n\nNOAA Fisheries Enforcement",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:23.002",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Chee\n\nCEO, Prudential Properties",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:17:42.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Heidi Wild\n\nHawaii Forest Industry Ass'n",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:20:30.128",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Myles Unabia\n\nConsultant, Altres Staffing",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:20:55.254",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Michelle Kennedy\n\nCustomer Communications, TheBus",

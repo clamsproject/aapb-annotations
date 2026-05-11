@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:39.625",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Don Schoonmaker\n\nWake Forest University",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:13.886",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. William Boyd",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:07:04.656",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Gardner",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:10:29.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wendell Sawyer",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:13:26.004",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rick Amme\n\nWXII-TV",
@@ -65,7 +65,7 @@
   },
   {
     "at": "00:26:44.402",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Seth Effron\n\nThe Greensboro News & Record",
@@ -79,7 +79,7 @@
   },
   {
     "at": "00:30:26.891",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Art Eisenstadt\n\nThe Winston-Salem Journal",
@@ -93,7 +93,7 @@
   },
   {
     "at": "00:31:45.502",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. William Boyd",
@@ -105,7 +105,7 @@
   },
   {
     "at": "00:33:24.768",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Gardner",
@@ -117,7 +117,7 @@
   },
   {
     "at": "00:34:40.143",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wendell Sawyer",
@@ -129,7 +129,7 @@
   },
   {
     "at": "00:38:09.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rick Amme\n\nWXII-TV",
@@ -143,7 +143,7 @@
   },
   {
     "at": "00:46:03.026",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rob Christensen\n\nThe News & Observer",
@@ -157,7 +157,7 @@
   },
   {
     "at": "00:52:30.880",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Seth Effron\n\nThe Greensboro News & Record",
@@ -171,7 +171,7 @@
   },
   {
     "at": "00:58:41.517",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Art Eisenstadt\n\nThe Winston-Salem Journal",
@@ -185,7 +185,7 @@
   },
   {
     "at": "01:00:10.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Gardner",
@@ -197,7 +197,7 @@
   },
   {
     "at": "01:01:36.759",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wendell Sawyer",
@@ -209,7 +209,7 @@
   },
   {
     "at": "01:03:32.007",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. William Boyd",

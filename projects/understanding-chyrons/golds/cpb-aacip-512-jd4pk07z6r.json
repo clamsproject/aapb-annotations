@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:58.778",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maj. Gen. WINSTON P. WILSON\n\nNational Guard Bureau",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:52.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chief JAMES F. AHERN\n\nNew Haven Police",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:46.759",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maj. Gen. WINSTON P. WILSON\n\nNational Guard Bureau",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:15:10.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH RHODES, Jr.\n\nHarvard Junior Fellow",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:15:35.501",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NATHAN PUSEY\n\nHarvard University",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:24:26.398",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM W. SCRANTON\n\nChairman",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:24:58.630",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chief JAMES F. AHERN\n\nNew Haven Police",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:25:16.648",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NATHAN PUSEY\n\nHarvard University",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:26:49.007",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BENJAMIN O. DAVIS\n\nCleveland Public Safety Director",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:29:39.878",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM W. SCRANTON\n\nChairman",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:34:24.128",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HAROLD SPONBERG\n\nEastern Michigan University",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:43:06.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM MATTHEW BYRNE, Jr.\n\nCampus Unrest Commission",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:43:29.139",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GRANVILLE SAWYER\n\nTexas Southern University",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:47:52.502",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM W. SCRANTON\n\nChairman",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:50:27.891",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH RHODES, Jr.\n\nHarvard Junior Fellow",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:51:34.124",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM W. SCRANTON\n\nChairman",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:52:26.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chief JAMES F. AHERN\n\nNew Haven Police",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:54:11.648",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NATHAN PUSEY\n\nHarvard University",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:55:04.901",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GRANVILLE SAWYER\n\nTexas Southern University",

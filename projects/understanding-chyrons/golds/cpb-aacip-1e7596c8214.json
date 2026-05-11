@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:03.650",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\nMichelle Ames\nRocky Mountain News",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:57.390",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nCynthia Hessin\nRocky Mountain PBS",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:07:40.259",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nJerry Jump\nVoter",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:08:16.629",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nPeggy Lamm\nBighorn Action",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:09:17.657",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nTerry Jessup\nKCNC News4",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:14:09.148",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nMichelle Ames\nRocky Mountain News",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:16:35.027",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "2002\n\n\nCynthia Hessin\nRocky Mountain PBS",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:16:53.512",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nTerry Jessup\nKCNC News4",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:17:41.527",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\nSen. Wayne Allard\n(R) Colorado",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:18:24.269",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nTom Strickland\n(D) candidate for Senate",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:18:47.126",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nTerry Jessup\nKCNC News4",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:23:54.399",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nTerry Jessup\nKCNC News4",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:24:23.128",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nMichelle Ames\nRocky Mountain News",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:25:28.894",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "2002\n\n\nCynthia Hessin\nRocky Mountain PBS",

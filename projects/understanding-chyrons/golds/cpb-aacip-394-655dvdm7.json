@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:02.255",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rita Furst\n\nMURDER VICTIM'S WIFE",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:02:35.021",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Susan Goering\n\nLEGAL DIRECTOR, ACLU",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:07:39.625",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stuart Comstock-Gay\n\nEXEC. DIRECTOR, MD. ACLU",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:08:06.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Arnold J. Hopkins\n\nMD. CORRECTIONS COMMISSIONER",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:10:23.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Grassie",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:11:12.004",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris Shaler\n\nPARENTS AGAINST LEAD",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:17:12.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mike Powell\n\nFREDERICK NEWS-POST",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:18:54.133",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Judi Fogel\n\nWFBR RADIO",
@@ -111,7 +111,7 @@
   },
   {
     "at": "00:20:58.390",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Judi Fogel\n\nWFBR RADIO",
@@ -125,7 +125,7 @@
   },
   {
     "at": "00:23:03.148",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mike Powell\n\nFREDERICK NEWS-POST",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:38.158",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Pete Wehner",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:05:15.148",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Nina Gomez\n\nPRESIDENT OF THE METRO DENVER\n\nCHAPTER ADRDA",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:07:18.004",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Janice DeTemple\n\nTHE METRO DENVER\n\nCHAPTER ADRDA",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:11:48.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dick Haley\n\nSOCIAL SERVICES DESIGNEE\n\nSUNRISE UNIT",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:12:47.266",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Nina Gomez\n\nPRESIDENT OF THE METRO DENVER\n\nCHAPTER ADRDA",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:15:57.890",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Stuart Schneck\n\nNEUROLOGIST",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:18:51.029",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dick Haley\n\nSOCIAL SERVICES DESIGNEE\n\nSUNRISE UNIT",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:20:51.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Pete Wehner",
@@ -109,7 +109,7 @@
   },
   {
     "at": "00:23:25.137",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Janice DeTemple\n\nTHE METRO DENVER\n\nCHAPTER ADRDA",
@@ -123,7 +123,7 @@
   },
   {
     "at": "00:24:19.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Nina Gomez\n\nPRESIDENT OF THE METRO DENVER\n\nCHAPTER ADRDA",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:06.512",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger Kaiwi\n\nCaptain Cook Coffee Co.",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:48.781",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Wayman\n\nHawaii Coffee Co.",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:12:44.396",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wayne Parsons\n\nHawaii State Bar Association",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:21:53.378",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Andrew Rossiter\n\nDirector\n\nWaikiki Aquarium",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:05.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ted Liu\n\nDirector\n\nDBEDT",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:10:40.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mark Sasaki\n\nBig City Diner",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:16:25.884",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Badr Idbeis\n\nHawaii Medical Center",
@@ -44,7 +44,7 @@
   },
   {
     "at": "00:22:28.647",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Eran Kennedy\n\nBIA Hawaii",

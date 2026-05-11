@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:04.264",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVE DURIAN",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:03:31.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN GRASSIE",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:03:45.525",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. EDWARD N. BRANDT\n\nChm. AIDS Advisory Council",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:07:25.378",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JODY MAIER",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:10:57.757",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. GARY R. NOBLE \n\nU.S. Public Health Service\n\nAIDS Coordinator",
@@ -66,7 +66,7 @@
   },
   {
     "at": "00:13:38.751",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SCOTT STAMFORD \n\nMd. State Dept. of Health",
@@ -80,7 +80,7 @@
   },
   {
     "at": "00:15:47.379",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ABIGAIL TRAFFORD \n\nThe Washington Post",
@@ -94,7 +94,7 @@
   },
   {
     "at": "00:19:05.878",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. JOSEPH NKWANYUO\n\nGeneral Internist",
@@ -108,7 +108,7 @@
   },
   {
     "at": "00:20:18.150",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DACE STONE\n\nExecutive Director, H.E.R.O.",
@@ -122,7 +122,7 @@
   },
   {
     "at": "00:22:11.396",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SCOTT STAMFORD \n\nMd. State Dept. of Health",
@@ -136,7 +136,7 @@
   },
   {
     "at": "00:23:02.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. GARY R. NOBLE \n\nU.S. Public Health Service\n\nAIDS Coordinator",
@@ -151,7 +151,7 @@
   },
   {
     "at": "00:24:09.281",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. JOHN BARTLETT\n\nChief, Infectious Diseases, JHH",
@@ -165,7 +165,7 @@
   },
   {
     "at": "00:25:17.516",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN GRASSIE",
@@ -177,7 +177,7 @@
   },
   {
     "at": "00:27:23.775",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DIANA GURIEVA\n\nExec. Dir., Planned Parenthood, Md.",
@@ -191,7 +191,7 @@
   },
   {
     "at": "00:30:48.012",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DIANA GURIEVA\n\nExec. Dir., Planned Parenthood, Md.",
@@ -205,7 +205,7 @@
   },
   {
     "at": "00:34:50.388",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD KLINE \n\nNational Institute of Health",
@@ -219,7 +219,7 @@
   },
   {
     "at": "00:36:13.504",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN GRASSIE",
@@ -231,7 +231,7 @@
   },
   {
     "at": "00:37:06.123",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. MARGARET SCHWEINHAUT \n\n(D) Montgomery Co.",
@@ -245,7 +245,7 @@
   },
   {
     "at": "00:38:21.265",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STUART COMSTOCK-GAY\n\nExec. Dir., Md. Chapter, A.C.L.U.",
@@ -259,7 +259,7 @@
   },
   {
     "at": "00:41:15.272",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STUART COMSTOCK-GAY\n\nExec. Dir., Md. Chapter, A.C.L.U.",
@@ -273,7 +273,7 @@
   },
   {
     "at": "00:42:31.515",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. MARGARET SCHWEINHAUT \n\n(D) Montgomery Co.",
@@ -287,7 +287,7 @@
   },
   {
     "at": "00:44:48.886",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. JOHN BARTLETT\n\nChief, Infectious Diseases, JHH",
@@ -301,7 +301,7 @@
   },
   {
     "at": "00:46:30.654",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. GARY R. NOBLE \n\nU.S. Public Health Service\n\nAIDS Coordinator",
@@ -316,7 +316,7 @@
   },
   {
     "at": "00:46:58.749",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SCOTT STAMFORD \n\nMd. State Dept. of Health",
@@ -330,7 +330,7 @@
   },
   {
     "at": "00:48:43.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DACE STONE\n\nExecutive Director, H.E.R.O.",
@@ -344,7 +344,7 @@
   },
   {
     "at": "00:54:59.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. JOSEPH NKWANYUO\n\nGeneral Internist",

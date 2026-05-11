@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:43.022",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRANK FASI (R)\n\nHonolulu Mayor",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:20.893",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOMMY TRASK\n\nI-L-W-U Regional Director",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:05:19.152",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHRIS HART\n\nMaui Planning Director",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:06:04.764",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HANNIBAL TAVARES (R)\n\nMaui Mayor",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:06:57.150",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHRIS HART\n\nMaui Planning Director",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:07:32.018",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "COLIN CAMERON\n\nPresident\n\nMaui Land and Pineapple Co.",
@@ -86,7 +86,7 @@
   },
   {
     "at": "00:09:14.520",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ARNOLD MORGADO, JR. (D)\n\nChair, Honolulu City Council",
@@ -100,7 +100,7 @@
   },
   {
     "at": "00:10:31.263",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ARNOLD MORGADO, JR. (D)\n\nChair, Honolulu City Council",
@@ -114,7 +114,7 @@
   },
   {
     "at": "00:14:38.878",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ARNOLD MORGADO, JR. (D)\n\nChair, Honolulu City Council",
@@ -128,7 +128,7 @@
   },
   {
     "at": "00:17:30.516",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOANNE KAPOLOLA\n\nWelfare Recipient",
@@ -142,7 +142,7 @@
   },
   {
     "at": "00:18:45.257",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "AH QUON McELRATH\n\nWelfare Advocate",
@@ -156,7 +156,7 @@
   },
   {
     "at": "00:19:10.249",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARALYN KURSHALS\n\nHuman Rights Advocate",
@@ -170,7 +170,7 @@
   },
   {
     "at": "00:19:43.382",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WINONA RUBIN\n\nState Human Services Director",
@@ -184,7 +184,7 @@
   },
   {
     "at": "00:21:28.520",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
@@ -198,7 +198,7 @@
   },
   {
     "at": "00:22:22.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
@@ -212,7 +212,7 @@
   },
   {
     "at": "00:24:37.275",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
@@ -226,7 +226,7 @@
   },
   {
     "at": "00:24:51.156",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",

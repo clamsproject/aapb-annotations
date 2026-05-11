@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:25.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOE MOOR\n\nCHANNEL 2 NEWS",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:02:35.021",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GERRY KEIR\n\nHONOLULU ADVERTISER\n\nMANAGING EDITOR",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:03:57.003",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARY BITTERMAN\n\nCONGRESSIONAL CANDIDATE",
@@ -44,7 +44,7 @@
   },
   {
     "at": "00:04:56.129",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BLASE HARRIS\n\nCONGRESSIONAL CANDIDATE",
@@ -58,7 +58,7 @@
   },
   {
     "at": "00:05:58.157",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATRICIA SAIKI\n\nCONGRESSIONAL CANDIDATE",
@@ -72,7 +72,7 @@
   },
   {
     "at": "00:07:20.006",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANNE HARPHAM\n\nHONOLULU ADVERTISER",
@@ -86,7 +86,7 @@
   },
   {
     "at": "00:17:12.765",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARBARA MARSHALL\n\nCHANNEL 2 NEWS",
@@ -100,7 +100,7 @@
   },
   {
     "at": "00:22:25.510",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANDY YAMAGUCHI\n\nHONOLULU ADVERTISER",
@@ -114,7 +114,7 @@
   },
   {
     "at": "00:27:57.642",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PATRICIA SAIKI\n\nCONGRESSIONAL CANDIDATE",
@@ -128,7 +128,7 @@
   },
   {
     "at": "00:31:47.005",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARY BITTERMAN\n\nCONGRESSIONAL CANDIDATE",
@@ -142,7 +142,7 @@
   },
   {
     "at": "00:35:40.004",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BLASE HARRIS\n\nCONGRESSIONAL CANDIDATE",
@@ -156,7 +156,7 @@
   },
   {
     "at": "00:50:46.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TRAVIS TOM\n\nCLASS OF 1989",
@@ -170,7 +170,7 @@
   },
   {
     "at": "00:57:34.517",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JUSTINE ADAMS\n\nCLASS OF 1990",
@@ -184,7 +184,7 @@
   },
   {
     "at": "01:01:28.751",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BLASE HARRIS\n\nCONGRESSIONAL CANDIDATE",

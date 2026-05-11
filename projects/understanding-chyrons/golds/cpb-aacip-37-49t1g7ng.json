@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:02.282",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Hansen\n\nCEDAR FALLS",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:32.879",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brice Oakley\n\nCLINTON",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:06:21.881",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Terry Branstad\n\nLAKE MILLS",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:07:57.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brice Oakley\n\nCLINTON",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:08:57.270",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brice Oakley\n\nCLINTON",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:09:29.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Terry Branstad\n\nLAKE MILLS",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:10:25.257",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Hansen\n\nCEDAR FALLS",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:12:25.277",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brice Oakley\n\nCLINTON",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:13:18.898",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Terry Branstad\n\nLAKE MILLS",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:14:55.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Norman Sandler \n\nUNITED PRESS INTERNATIONAL",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:17:32.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Hansen\n\nCEDAR FALLS",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:18:59.771",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Terry Branstad\n\nLAKE MILLS",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:23:48.026",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Terry Branstad\n\nLAKE MILLS",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:24:08.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Hansen\n\nCEDAR FALLS",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:24:26.898",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brice Oakley\n\nCLINTON",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:09:22.395",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dan Brown",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:14:56.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Steve Ward",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:15:10.276",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lem Ward",

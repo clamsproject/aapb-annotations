@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:42.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Lisa Stanley\nSTATELINE",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:57.637",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Alma De Alva\nKERR DRUGS",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:04:55.762",
-    "scene-lebal": "N",
+    "scene-label": "N",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Putting It In Layman's Terms",
@@ -37,7 +37,7 @@
   },
   {
     "at": "00:05:34.634",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Walter Jones\n(D) PITT CO.",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:05:44.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brian Washington\nREPORTING",
@@ -65,7 +65,7 @@
   },
   {
     "at": "00:06:11.003",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Martin Nesbitt\n(D) BUNCOMBE CO.",
@@ -79,7 +79,7 @@
   },
   {
     "at": "00:06:28.254",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Ted Kaplan\n(D) FORSYTH CO.",
@@ -93,7 +93,7 @@
   },
   {
     "at": "00:06:49.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Joe Mavretic\n(D) EDGECOMBE CO.",
@@ -107,7 +107,7 @@
   },
   {
     "at": "00:08:36.282",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maria Lundberg\nLEGISLATIVE REPORT",
@@ -121,7 +121,7 @@
   },
   {
     "at": "00:09:45.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Sen. Aaron Plyler\n(D) UNION CO.",
@@ -135,7 +135,7 @@
   },
   {
     "at": "00:10:14.880",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Sen. Russell Walker\n(D) RANDOPLH CO.",
@@ -149,7 +149,7 @@
   },
   {
     "at": "00:10:22.521",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Helen Marvin\n(D) GASTON CO.",
@@ -163,7 +163,7 @@
   },
   {
     "at": "00:10:37.903",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Dan Simpson\n(R) BURKE CO.",
@@ -177,7 +177,7 @@
   },
   {
     "at": "00:11:34.126",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Fountain Odom\n(D) MECKLENBURG CO.",
@@ -191,7 +191,7 @@
   },
   {
     "at": "00:11:46.906",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Herbert Hyde\n(D) BUNCOMBE CO.",
@@ -205,7 +205,7 @@
   },
   {
     "at": "00:11:59.652",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Johnathan Rhyne\n(R) LINCOLN CO.",
@@ -219,7 +219,7 @@
   },
   {
     "at": "00:13:04.750",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Rep. David Diamont\n(D) SURRY CO.",
@@ -233,7 +233,7 @@
   },
   {
     "at": "00:13:18.030",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. George Miller\n(D) DURHAM CO.",
@@ -247,7 +247,7 @@
   },
   {
     "at": "00:13:41.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Joe Hackney\n(D) ORANGE CO.",
@@ -261,7 +261,7 @@
   },
   {
     "at": "00:16:11.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brian Washington\nREPORTING",
@@ -275,7 +275,7 @@
   },
   {
     "at": "00:16:34.259",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Anne Barnes\n(D) ORANGE CO.",
@@ -289,7 +289,7 @@
   },
   {
     "at": "00:17:49.768",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Rep. Johnathan Rhyne\n(R) LINCOLN CO.",
@@ -303,7 +303,7 @@
   },
   {
     "at": "00:19:13.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joyce Preston\nPARENT",
@@ -317,7 +317,7 @@
   },
   {
     "at": "00:19:39.778",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Caroline Massengill\nPRINCIPAL MORRISVILLE\nELEMENTARY SCHOOL",
@@ -331,7 +331,7 @@
   },
   {
     "at": "00:20:51.250",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Judy Topkins\n4TH GRADE TEACHER",
@@ -345,7 +345,7 @@
   },
   {
     "at": "00:21:30.656",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lenna Sagreti\n4TH GRADE STUDENT",
@@ -359,7 +359,7 @@
   },
   {
     "at": "00:21:46.138",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nelson Smith\n4TH GRADE STUDENT",
@@ -373,7 +373,7 @@
   },
   {
     "at": "00:23:49.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lisa Stanley\nSTATELINE",
@@ -387,7 +387,7 @@
   },
   {
     "at": "00:24:16.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Richard Ducker\nPROF. OF PUBLIC LAW AND GOV'T",
@@ -401,7 +401,7 @@
   },
   {
     "at": "00:25:12.143",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joseph Farrell\nASSIST. DIR., INSTIT. OF GOVERNMENT",
@@ -415,7 +415,7 @@
   },
   {
     "at": "00:27:23.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Dennis Wicker",
@@ -427,7 +427,7 @@
   },
   {
     "at": "00:27:49.000",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger Bone\nLOBBYIST",

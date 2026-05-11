@@ -1,7 +1,7 @@
 [
   {
     "at": "00:11:35.895",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Richard Onishi (D)\n\nHouse of Representatives, District 2",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:13:33.779",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Governor John Waihee",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:13:50.629",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mayor Frank Fasi",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:14:06.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Arlene Kim Ellis\n\nPresident, League of Women Voters",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:15:21.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. James Mak\n\nEconomics Chair, UH-Manoa",
@@ -67,7 +67,7 @@
   },
   {
     "at": "00:16:42.134",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Russell Kokubun (D)",
@@ -79,7 +79,7 @@
   },
   {
     "at": "00:17:20.406",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stephen Yamashiro (D)",
@@ -91,7 +91,7 @@
   },
   {
     "at": "00:19:27.266",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wendell Kaehuaea (R)",
@@ -103,7 +103,7 @@
   },
   {
     "at": "00:19:54.393",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lorraine Inouye (D)",

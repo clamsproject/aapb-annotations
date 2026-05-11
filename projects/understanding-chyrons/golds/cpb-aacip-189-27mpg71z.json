@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:16.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAURICE HERRON",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:05:16.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HARVEY RICHARDSON",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:09:46.018",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHRINE BROWN",
@@ -37,7 +37,7 @@
   },
   {
     "at": "00:16:03.896",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LILA BULL",
@@ -49,7 +49,7 @@
   },
   {
     "at": "00:18:47.025",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HELEN CHATTERTON",
@@ -61,7 +61,7 @@
   },
   {
     "at": "00:21:14.640",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DOROTHY THOMAS",
@@ -73,7 +73,7 @@
   },
   {
     "at": "00:23:09.254",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARGARET SCHOFIELD",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:24:43.515",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EARL LENNOX",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:27:24.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAN DOBBINS",

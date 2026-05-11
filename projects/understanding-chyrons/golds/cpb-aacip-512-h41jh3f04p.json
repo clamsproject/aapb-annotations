@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:44.531",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM W. SCRANTON\n\nChairman",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:39.252",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES PALMER\n\nNat'l Student Assoc.",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:11:15.007",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. HUGH SCOTT\n\nR-Penn.",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:12:51.003",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH RHODES, Jr.\n\nHarvard Junior Fellow",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:19:50.155",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. EDWARD KENNEDY\n\nD-Mass.",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:20:46.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ERWIN D. CANHAM\n\nChristian Science Monitor",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:24:53.892",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM W. SCRANTON\n\nChairman",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:29:22.527",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES PALMER\n\nNat'l Student Assoc.",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:31:03.628",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES E. CHEEK\n\nHoward University",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:34:32.637",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH RHODES, Jr.\n\nHarvard Junior Fellow",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:35:19.650",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES PALMER\n\nNat'l Student Assoc.",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:36:35.259",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ERWIN D. CANHAM\n\nChristian Science Monitor",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:38:38.883",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBBEN FLEMING\n\nUniversity of Michigan",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:42:33.751",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BENJAMIN O. DAVIS\n\nCleveland Public Safety Director",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:48:21.632",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "S.I. HAYAKAWA\n\nSan Francisco State College",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:51:51.508",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH RHODES, Jr.\n\nHarvard Junior Fellow",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:53:16.026",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ERWIN D. CANHAM\n\nChristian Science Monitor",

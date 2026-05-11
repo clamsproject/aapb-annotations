@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:39.265",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:05.011",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nick Buchanan\n\nWaikiki Watermark",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:09:01.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Pat Bustamente\n\nCEO, Pacific LightNet",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:20:44.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Steve Jarchow\n\nCEO, Regent Entertainment",

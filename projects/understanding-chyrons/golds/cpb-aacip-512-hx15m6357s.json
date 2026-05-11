@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:11.157",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EVA JEFFERSON\n\nNorthwestern University",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:27.634",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE KELMAN\n\nHarvard Graduate",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:23.503",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EVA JEFFERSON\n\nNorthwestern University",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:13:58.137",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ERWIN D. CANHAM\n\nChristian Science Monitor",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:15:17.383",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EVA JEFFERSON\n\nNorthwestern University",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:17:34.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN JOE SWIFT\n\nMuskogee, Oklahoma",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:20:03.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REVIUS O. ORTIQUE, Jr.\n\nNew Orleans Urban League",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:22:47.999",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH RHODES, Jr.\n\nHarvard Junior Fellow",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:25:41.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE KELMAN\n\nHarvard Graduate",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:27:28.513",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES E. CHEEK\n\nHoward University",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:31:18.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE KELMAN\n\nHarvard Graduate",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:33:21.899",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REVIUS O. ORTIQUE, Jr.\n\nNew Orleans Urban League",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:39:16.520",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARTHA A. DERTHICK\n\nBoston College",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:41:51.876",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES E. CHEEK\n\nHoward University",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:44:11.382",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EVA JEFFERSON\n\nNorthwestern University",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:45:48.879",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chief JERRY WILSON\n\nWashington, D.C. Police",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:49:19.890",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REVIUS O. ORTIQUE, Jr.\n\nNew Orleans Urban League",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:52:40.757",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT RANKIN\n\nDanforth Foundation",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:53:11.655",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM W. SCRANTON\n\nChairman",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:53:43.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REVIUS O. ORTIQUE, Jr.\n\nNew Orleans Urban League",

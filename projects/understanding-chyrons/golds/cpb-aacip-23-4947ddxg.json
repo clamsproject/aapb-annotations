@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:31.277",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:38.778",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:05:04.270",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Bilbrey\n\nFORMER RESIDENT",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:05:43.509",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:08:14.627",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:08:32.511",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Burton Ledbetter\n\nFORMER MINER",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:08:45.391",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Dow Lusk\n\nFORMER MINER",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:09:14.520",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:13:27.773",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elvie C. Brown\n\nFORMER MINER",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:14:43.148",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elvie C. Brown\n\nFORMER MINER",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:15:20.152",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:16:06.765",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:16:41.400",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:17:44.630",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elbert Sisco\n\nFORMER MINER",
@@ -195,7 +195,7 @@
   },
   {
     "at": "00:17:59.778",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jonathan Allred\n\nFORMER COAL MINER",
@@ -209,7 +209,7 @@
   },
   {
     "at": "00:18:12.391",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -223,7 +223,7 @@
   },
   {
     "at": "00:19:30.636",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elvie C. Brown\n\nFORMER MINER",
@@ -237,7 +237,7 @@
   },
   {
     "at": "00:21:29.655",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Dow Lusk\n\nFORMER MINER",
@@ -251,7 +251,7 @@
   },
   {
     "at": "00:23:01.513",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nCHARLIE ALEXANDER'S WIDOW",

@@ -81,7 +81,7 @@ def process(raw_dir, golds_dir):
                 }
             guid = filename.split('_')[0]
             ann['at'] = format_timecode(filename)
-            ann['scene-lebal'] = '-' if not type_label else type_label
+            ann['scene-label'] = '-' if not type_label else type_label
             ann['scene-subtype-label'] = subtype_label
             ann['transitional'] = bool(modifier)
             ann['text-transcript'] = note_3.replace(r'\n', '\n')

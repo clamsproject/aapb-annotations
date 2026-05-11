@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:56.502",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Moye\n\n(R) CHALLENGER",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:31.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Bason\n\nCAMPAIGN '90",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:14:09.381",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Moye\n\n(R) CHALLENGER",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:17:38.624",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Walter Jones\n\n(D) INCUMBENT",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:25:22.387",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Walter Jones\n\n(D) INCUMBENT",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:31:29.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maria Lundberg\n\nCAMPAIGN '90",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:31:51.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Hal Sharpe\n\n(R) CHALLENGER",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:39:33.504",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Hal Sharpe\n\n(R) CHALLENGER",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:46:39.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tim Valentine\n\n(D) INCUMBENT",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:49:30.400",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maria Lundberg\n\nCAMPAIGN '90",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:55:24.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tim Valentine\n\n(D) INCUMBENT",
@@ -155,7 +155,7 @@
   },
   {
     "at": "01:01:53.876",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Davis\n\n(R) CHALLENGER",
@@ -169,7 +169,7 @@
   },
   {
     "at": "01:11:49.772",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Davis\n\n(R) CHALLENGER",
@@ -183,7 +183,7 @@
   },
   {
     "at": "01:17:10.525",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Martin Lancaster\n\n(D) INCUMBENT",
@@ -197,7 +197,7 @@
   },
   {
     "at": "01:21:43.632",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maria Lundberg\n\nCAMPAIGN '90",
@@ -211,7 +211,7 @@
   },
   {
     "at": "01:26:25.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Martin Lancaster\n\n(D) INCUMBENT",
@@ -225,7 +225,7 @@
   },
   {
     "at": "01:31:14.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Richard W. Hatch\n\nCAMPAIGN '90",

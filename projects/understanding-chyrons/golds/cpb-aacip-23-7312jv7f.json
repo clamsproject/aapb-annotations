@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:15.255",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:46.152",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Talmadge Qualls\n\nFORMER RESIDENT",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:05:49.515",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maria Masters\n\nFORMER RESIDENT",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:06:09.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:06:59.252",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:07:34.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Bilbrey\n\nFORMER RESIDENT",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:08:29.375",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:08:44.390",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William G. Craven\n\nFORMER RESIDENT",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:10:18.384",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Bilbrey\n\nFORMER RESIDENT",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:11:17.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Bilbrey\n\nFORMER RESIDENT",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:12:16.268",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Bilbrey\n\nFORMER RESIDENT",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:12:34.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Dow Lusk\n\nFORMER MINER",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:12:48.768",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beecher Baltimore\n\nFORMER MINER",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:13:26.505",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Talmadge Qualls\n\nFORMER RESIDENT",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:14:54.393",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William G. Craven\n\nFORMER RESIDENT",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:16:31.023",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jack Threet\n\nFORMER MINER",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:18:17.129",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Lowery\n\nFORMER MINER",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:18:41.153",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William G. Craven\n\nFORMER RESIDENT",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:19:47.519",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beecher Baltimore\n\nFORMER MINER",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:20:17.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -281,7 +281,7 @@
   },
   {
     "at": "00:22:39.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -295,7 +295,7 @@
   },
   {
     "at": "00:22:57.008",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William G. Craven\n\nFORMER RESIDENT",
@@ -309,7 +309,7 @@
   },
   {
     "at": "00:24:40.378",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Alf Gill\n\nFORMER NATIONAL GUARDSMAN",
@@ -323,7 +323,7 @@
   },
   {
     "at": "00:25:14.145",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Charlie Pyburn\n\nFORMER RESIDENT",
@@ -337,7 +337,7 @@
   },
   {
     "at": "00:25:22.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Madge Alexander\n\nFORMER RESIDENT",
@@ -351,7 +351,7 @@
   },
   {
     "at": "00:26:28.019",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Della Mullins\n\nFORMER RESIDENT",
@@ -365,7 +365,7 @@
   },
   {
     "at": "00:27:30.148",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William G. Craven\n\nFORMER RESIDENT",

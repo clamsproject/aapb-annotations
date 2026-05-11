@@ -1,7 +1,7 @@
 [
   {
     "at": "00:09:42.148",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Greg O'Donnell\n\nCEO\n\nDamien School",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:16:06.265",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marsha Bemko\n\nProducer\n\nAntiques Road Show",
@@ -31,7 +31,7 @@
   },
   {
     "at": "00:22:15.901",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Aeto\n\nRadio Executive",

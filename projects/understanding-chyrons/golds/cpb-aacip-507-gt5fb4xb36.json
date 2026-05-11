@@ -1,7 +1,7 @@
 [
   {
     "at": "00:05:11.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. RICHARD GEPHARDT\n\n(D) Missouri",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:41.407",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES BAKER\n\nSecretary of Treasury",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:06:48.374",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CASPAR WEINBERGER\n\nSecretary of Defense",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:09:19.892",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARGARET THATCHER\n\nPrime Minister",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:11:02.762",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES-FERDINAND NOTHOMB\n\nInterior Minister, Belgium",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:14:43.015",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. THOMAS DOWNEY\n\n(D) New York",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:15:27.760",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. WILLIAM COYNE\n\n(D) Pennsylvania",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:16:13.772",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES BAKER\n\nSecretary of Treasury",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:16:48.874",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. RONNIE FLIPPO\n\n(D) Alabama",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:18:51.630",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROBERT PACKWOOD\n\n(R) Oregon",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:20:37.402",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. THOMAS DOWNEY\n\n(D) New York",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:21:21.513",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. JACK KEMP\n\n(R) New York",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:24:03.141",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROBERT PACKWOOD\n\n(R) Oregon",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:26:01.893",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. JACK KEMP\n\n(R) New York",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:26:40.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. THOMAS DOWNEY\n\n(D) New York",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:27:58.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROBERT PACKWOOD\n\n(R) Oregon",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:32:11.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. JACK KEMP\n\n(R) New York",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:35:40.905",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PETER ROBINSON\n\nLiverpool security",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:37:23.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN SMITH\n\nLiverpool Chairman",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:37:41.259",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TREVOR McDONALD\n\nLiverpool",
@@ -281,7 +281,7 @@
   },
   {
     "at": "00:39:17.154",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN WILLIAMS\n\nLeicester University",
@@ -295,7 +295,7 @@
   },
   {
     "at": "00:40:10.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "R.W. APPLE, JR.\n\nNew York Times",
@@ -309,7 +309,7 @@
   },
   {
     "at": "00:42:24.508",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "R.W. APPLE, JR.\n\nNew York Times",
@@ -323,7 +323,7 @@
   },
   {
     "at": "00:43:57.768",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "R.W. APPLE, JR.\n\nNew York Times",
@@ -337,7 +337,7 @@
   },
   {
     "at": "00:48:02.012",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RAY ROGERS",
@@ -349,7 +349,7 @@
   },
   {
     "at": "00:48:56.767",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD KNOWLTON\n\nHormel Co.",
@@ -363,7 +363,7 @@
   },
   {
     "at": "00:49:32.135",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "D.H. \"PETE\" ANKENY\n\nFirst Bank System",
@@ -377,7 +377,7 @@
   },
   {
     "at": "00:50:21.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JIM GAYETTE\n\nUFCW Local P-9",
@@ -391,7 +391,7 @@
   },
   {
     "at": "00:51:09.766",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. LARRY MAIER",
@@ -403,7 +403,7 @@
   },
   {
     "at": "00:52:26.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RAY ROGERS",
@@ -415,7 +415,7 @@
   },
   {
     "at": "00:52:54.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARIO BOGNANNO\n\nUniv. Of Minnesota",

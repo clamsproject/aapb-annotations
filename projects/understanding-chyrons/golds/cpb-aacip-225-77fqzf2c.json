@@ -1,7 +1,7 @@
 [
   {
     "at": "00:09:38.277",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN MIZUGUCHI (D)\n\nSenate President",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:10:19.652",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CATHY FOY",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:14:50.256",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REVEREND CHRIS ENG\n\nUnited Church of Christ",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:18:49.528",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL KAWAGUCHI\n\nSenate Chief Clerk",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:20:23.522",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN MIZUGUCHI (D)\n\nSenate President",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:22:32.751",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN MIZUGUCHI (D)\n\nSenate President",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:28:38.383",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN MIZUGUCHI (D)\n\nSenate President",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:36:16.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WHITNEY ANDERSON (R)\n\nSenate Minority Leader",
@@ -111,7 +111,7 @@
   },
   {
     "at": "00:41:38.629",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WHITNEY ANDERSON (R)\n\nSenate Minority Leader",
@@ -125,7 +125,7 @@
   },
   {
     "at": "00:47:20.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WHITNEY ANDERSON (R)\n\nSenate Minority Leader",
@@ -139,7 +139,7 @@
   },
   {
     "at": "00:56:57.881",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nHawaii Public Television",
@@ -153,7 +153,7 @@
   },
   {
     "at": "00:59:59.896",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH M. SOUKI (D)\n\nSpeaker Of The House",
@@ -167,7 +167,7 @@
   },
   {
     "at": "01:15:15.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH M. SOUKI (D)\n\nSpeaker Of The House",
@@ -181,7 +181,7 @@
   },
   {
     "at": "01:18:15.524",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH M. SOUKI (D)\n\nSpeaker Of The House",
@@ -195,7 +195,7 @@
   },
   {
     "at": "01:33:40.648",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "QUENTIN KAWANANAKOA (R)\n\nHouse Minority Leader",

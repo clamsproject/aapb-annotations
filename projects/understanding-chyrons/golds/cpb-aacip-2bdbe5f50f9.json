@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:42.395",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Rayburn\nHOST",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:29.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sandy Sweeney\nPRES/COLO CHAPTER OF QUESTERS",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:05:38.771",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Carol Fertig\nEDITOR/\"MTN STATES COLLECTOR\"",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:07:25.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Janie King\n\nPRES/AMER SOCIETY OF APPRAISERS DENVER CHAPTER",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:09:01.874",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Hicks\nOWNER/\"TOWN & COUNTRY\" SHOPS",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:13:49.261",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nita Ray\nOWNER/NITA'S ANTIQUES",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:14:37.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ron Caudle\nRESTORER/NITA'S ANTIQUES",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:16:50.642",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Janie King\nPRES/AMER SOCIETY OF APPRAISERS DENVER CHAPTER",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:18:53.999",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Tom Hicks\nOWNER/\"TOWN & COUNTRY\" SHOPS",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:21:28.654",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sandy Sweeney\nPRES/COLO CHAPTER OF QUESTERS",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:24:21.526",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Carol Fertig\nEDITOR/\"MTN STATES COLLECTOR\"",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:26:22.881",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Frank Haraway",

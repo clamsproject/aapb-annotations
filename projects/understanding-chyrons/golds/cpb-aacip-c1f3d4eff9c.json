@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:35.642",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Fawas Gerges\n\nPROFESSOR, MIDDLE EASTERN STUDIES, SARAH LAWRENCE COLLEGE",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:07:05.625",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Fawas Gerges\n\nPROFESSOR, MIDDLE EASTERN STUDIES, SARAH LAWRENCE COLLEGE",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:09:01.875",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Emad Shahim, Ph.D.\n\nASSOCIATE PROFESSOR, POLITICAL SCIENCE",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:09:56.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "David Welsh\n\nUS AMBASSADOR TO EGYPT",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:10:38.271",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Saad Eddin Ibrahim\n\nPROFESSOR OF SOCIOLOGY, AMERICAN UNIVERSITY OF CAIRO",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:11:36.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mona Makram-Ebeid\n\nFORMER MEMBER EGYPTIAN PARLIAMENT",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:11:48.141",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Fawas Gerges\n\nPROFESSOR, MIDDLE EASTERN STUDIES, SARAH LAWRENCE COLLEGE",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:19:01.875",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Daniel Yankelovich\n\nFOUNDER, \"PUBLIC AGENDA\"",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:21:55.648",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Daniel Yankelovich\n\nFOUNDER, \"PUBLIC AGENDA\"",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:37:15.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Sayles\n\nWRITER, DIRECTOR, EDITOR \"SUNSHINE STATE\"",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:41:51.011",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Sayles\n\nWRITER, DIRECTOR, EDITOR \"SUNSHINE STATE\"",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:45:30.530",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Sayles\n\nWRITER, DIRECTOR, EDITOR \"SUNSHINE STATE\"",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:48:40.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Sayles\n\nWRITER, DIRECTOR, EDITOR \"SUNSHINE STATE\"",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:51:42.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Sayles\n\nWRITER, DIRECTOR, EDITOR \"SUNSHINE STATE\"",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:55:18.752",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Sayles\n\nWRITER, DIRECTOR, EDITOR \"SUNSHINE STATE\"",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:50.510",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nEVERYBODY'S BUSINESS",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:10.250",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Peter Rosegg\n\nHAWAIIAN ELECTRIC",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:10:22.154",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Pat Onishi\n\nAMERICAN INSTITUTE OF ARCHITECTS\n\nHONOLULU CHAPTER",
@@ -44,7 +44,7 @@
   },
   {
     "at": "00:15:58.257",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stuart W. H. Ching\n\n`IOLANI PALACE",
@@ -58,7 +58,7 @@
   },
   {
     "at": "00:21:04.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Robbie Kane\n\nHAWAII TOURISM AUTHORITY",

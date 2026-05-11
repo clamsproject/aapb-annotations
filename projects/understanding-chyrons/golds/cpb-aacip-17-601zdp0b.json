@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:33.887",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beth George",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:04:18.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. M. T. Carleton\n\nHISTORY PROFESSOR",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:08:21.901",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Edwin Edwards",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:15:33.499",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Bush",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:23:44.656",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Dutton\n\nMUSEUM CURATOR",

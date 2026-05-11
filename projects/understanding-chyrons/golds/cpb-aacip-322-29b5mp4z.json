@@ -1,7 +1,7 @@
 [
   {
     "at": "00:00:27.627",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:01:31.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:02:10.029",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Gates, Sr.\n\nFounder, Initiative for Global Development",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:04:50.657",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Gates, Sr.\n\nFounder, Initiative for Global Development",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:10:55.254",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Gates, Sr.\n\nFounder, Initiative for Global Development",
@@ -67,7 +67,7 @@
   },
   {
     "at": "00:11:26.252",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",
@@ -79,7 +79,7 @@
   },
   {
     "at": "00:15:34.633",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Gates, Sr.\n\nFounder, Initiative for Global Development",
@@ -93,7 +93,7 @@
   },
   {
     "at": "00:21:25.651",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Gates, Sr.\n\nFounder, Initiative for Global Development",
@@ -107,7 +107,7 @@
   },
   {
     "at": "00:21:53.145",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",

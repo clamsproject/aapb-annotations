@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:00.406",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. JOSEPH SOUKI (D)\n\nHouse Finance Comm. Chair",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:41.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. LEHUA FERNANDES\n\nSALLING (D)\n\nSenate Transportation\n\nCommittee Chair",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:06:36.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ED BYBEE (D)\n\nMokapu-Kailua",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:06:46.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. RUSSELL BLAIR (D)\n\nMakiki-Ala Moana",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:07:05.625",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KELLY DEAN\n\nHawaii Public Television",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:07:31.250",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MIKE COZIER (D)\n\nSenate Housing\n\nCommittee Chair",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:07:52.138",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. STEVE COBB (D)\n\nWaialae-Palolo",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:09:17.256",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:10:07.006",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:11:32.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nHonolulu Magazine",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:12:52.772",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARBARA MARSHALL\n\nKHON TV-2",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:15:33.399",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARBARA MARSHALL\n\nKHON TV-2",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:16:42.001",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA\n\nHonolulu Star-Bulletin",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:17:40.125",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:18:39.751",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nHonolulu Magazine",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:21:04.029",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARBARA MARSHALL\n\nKHON TV-2",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:23:33.145",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JERRY BURRIS\n\nHonolulu Advertiser",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:24:08.880",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nHonolulu Magazine",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:27:07.392",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nHonolulu Magazine",

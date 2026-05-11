@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:39.252",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CINDY PARMENTER\n\nDENVER POST",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:06:41.401",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROY ROMER\n\nSTATE TREASURER",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:09:33.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CINDY PARMENTER\n\nDENVER POST",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:09:59.398",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROY ROMER\n\nSTATE TREASURER",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:14:33.405",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROY ROMER\n\nSTATE TREASURER",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:17:40.392",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DON KINNEY\n\nKRMA-TV",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:20:48.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEBORAH FRAZIER\n\nROCKY MOUNTAIN NEWS",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:23:15.260",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEBORAH FRAZIER\n\nROCKY MOUNTAIN NEWS",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:26:57.015",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BURT HUBBARD\n\nROCKY MOUNTAIN NEWS",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:28:33.878",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BURT HUBBARD\n\nROCKY MOUNTAIN NEWS",

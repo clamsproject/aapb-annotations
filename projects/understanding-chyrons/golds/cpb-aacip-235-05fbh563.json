@@ -1,7 +1,7 @@
 [
   {
     "at": "00:00:13.646",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL NUSSBAUM\n\nAnchorage Daily News",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:02:32.252",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALLY HICKEL",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:07:50.503",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MIKE HARMON\n\nAssociated Press",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:27:35.887",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOM FINK",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:28:59.270",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALLY HICKEL",
@@ -65,7 +65,7 @@
   },
   {
     "at": "00:30:29.627",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY HAMMOND",
@@ -77,7 +77,7 @@
   },
   {
     "at": "00:31:59.517",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JIMMY DREW LOCKHART",

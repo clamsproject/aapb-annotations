@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:37.397",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nHawaii Public Television",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:02:55.875",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:09:41.380",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WITARINA HARRIS",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:15:55.254",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WITARINA HARRIS",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:17:34.019",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEKUNI BLAISDELL, MD",
@@ -65,7 +65,7 @@
   },
   {
     "at": "00:18:06.251",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES KENN",
@@ -77,7 +77,7 @@
   },
   {
     "at": "00:23:24.403",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",
@@ -91,7 +91,7 @@
   },
   {
     "at": "00:28:04.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES KENN",
@@ -103,7 +103,7 @@
   },
   {
     "at": "00:41:42.766",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WITARINA HARRIS",
@@ -115,7 +115,7 @@
   },
   {
     "at": "00:42:20.771",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",
@@ -129,7 +129,7 @@
   },
   {
     "at": "00:47:14.498",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEKUNI BLAISDELL, MD",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:47:28.879",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLES KENN",
@@ -153,7 +153,7 @@
   },
   {
     "at": "00:54:46.516",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN DENNIS\n\nDirector, The New Zealand\n\nFilm Archive",

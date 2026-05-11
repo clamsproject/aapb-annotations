@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:18.024",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROBERT DOLE\n\n(R) KANSAS",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:47.146",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DANIEL PEDERSEN\n\nDES MOINES REGISTER",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:35.648",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN McCORMALLY\n\nHARRIS NEWSPAPERS",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:12:12.531",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN SANDLER\n\nUNITED PRESS INTERNATIONAL",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:14:19.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEAN BORG",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:16:56.015",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROBERT DOLE\n\n(R) KANSAS",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:19:38.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROBERT DOLE\n\n(R) KANSAS",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:20:24.022",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN McCORMALLY\n\nHARRIS NEWSPAPERS",
@@ -111,7 +111,7 @@
   },
   {
     "at": "00:23:55.000",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN SANDLER\n\nUNITED PRESS INTERNATIONAL",
@@ -125,7 +125,7 @@
   },
   {
     "at": "00:24:41.780",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROBERT DOLE\n\n(R) KANSAS",
@@ -139,7 +139,7 @@
   },
   {
     "at": "00:25:40.505",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEAN BORG",
@@ -151,7 +151,7 @@
   },
   {
     "at": "00:33:19.130",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK BRAUN",
@@ -163,7 +163,7 @@
   },
   {
     "at": "00:33:43.388",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BOB McGEHEE\n\nBOONE RESIDENT",
@@ -177,7 +177,7 @@
   },
   {
     "at": "00:33:57.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE SCHUSTEK\n\nBOONE RESIDENT",
@@ -191,7 +191,7 @@
   },
   {
     "at": "00:34:09.881",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEBI BARR \n\nCOUNCILWOMAN",
@@ -205,7 +205,7 @@
   },
   {
     "at": "00:34:23.261",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOAN GRANT\n\nCOUNCILWOMAN",
@@ -219,7 +219,7 @@
   },
   {
     "at": "00:34:50.021",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KERMIT ELDIEN\n\nCOUNCILMAN",
@@ -233,7 +233,7 @@
   },
   {
     "at": "00:35:11.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SHERWOOD SELIM\n\nBOONE RESIDENT",
@@ -247,7 +247,7 @@
   },
   {
     "at": "00:35:29.026",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN HANNAN\n\nBOONE RESIDENT",
@@ -261,7 +261,7 @@
   },
   {
     "at": "00:38:10.021",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CONG. JIM LEACH\n\n(R) IOWA",
@@ -275,7 +275,7 @@
   },
   {
     "at": "00:39:05.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROGER JEPSEN\n\n(R) IOWA",
@@ -289,7 +289,7 @@
   },
   {
     "at": "00:41:07.998",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN SANDLER\n\nUNITED PRESS INTERNATIONAL",
@@ -303,7 +303,7 @@
   },
   {
     "at": "00:42:09.126",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CONG. JIM LEACH\n\n(R) IOWA",
@@ -317,7 +317,7 @@
   },
   {
     "at": "00:43:19.396",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROGER JEPSEN\n\n(R) IOWA",
@@ -331,7 +331,7 @@
   },
   {
     "at": "00:46:55.012",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEAN BORG",
@@ -343,7 +343,7 @@
   },
   {
     "at": "00:47:54.004",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN SANDLER\n\nUNITED PRESS INTERNATIONAL",
@@ -357,7 +357,7 @@
   },
   {
     "at": "00:49:12.749",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CONG. JIM LEACH\n\n(R) IOWA",
@@ -371,7 +371,7 @@
   },
   {
     "at": "00:50:12.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN McCORMALLY\n\nTHE HARRIS NEWSPAPERS",
@@ -385,7 +385,7 @@
   },
   {
     "at": "00:51:22.779",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROGER JEPSEN\n\n(R) IOWA",
@@ -399,7 +399,7 @@
   },
   {
     "at": "00:56:36.760",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN McCORMALLY\n\nTHE HARRIS NEWSPAPERS",
@@ -413,7 +413,7 @@
   },
   {
     "at": "00:57:13.630",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ROGER JEPSEN\n\n(R) IOWA",
@@ -427,7 +427,7 @@
   },
   {
     "at": "00:57:47.130",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN SANDLER\n\nUNITED PRESS INTERNATIONAL",
@@ -441,7 +441,7 @@
   },
   {
     "at": "00:57:59.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CONG. JIM LEACH\n\n(R) IOWA",

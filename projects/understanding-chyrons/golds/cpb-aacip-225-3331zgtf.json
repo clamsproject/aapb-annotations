@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:31.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:57.136",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Frank Mento\n\nKewalo Ocean Activities",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:04:23.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Daniel Dinell\n\nHawaii Community Development Authority",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:17:32.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roy Sakuma\n\nUkulele Festival Founder",

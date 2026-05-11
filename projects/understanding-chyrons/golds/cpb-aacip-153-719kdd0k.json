@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:37.023",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Zavin, Pres.\n\nNORTHWEST MARINE IRONWORKS",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:43.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Lehman\n\nSECRETARY OF NAVY",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:06:31.257",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "James Beall\n\nATTORNEY",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:07:42.628",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Mark Hatfield (R)",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:07:49.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Ron Wyden (D)",
@@ -67,7 +67,7 @@
   },
   {
     "at": "00:12:49.635",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Swenson\n\nFRONT STREET WEEKLY",
@@ -81,7 +81,7 @@
   },
   {
     "at": "00:13:10.756",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gwyneth Gamble Booth\n\nFRONT STREET WEEKLY",
@@ -95,7 +95,7 @@
   },
   {
     "at": "00:21:58.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Philippa Mardesich",

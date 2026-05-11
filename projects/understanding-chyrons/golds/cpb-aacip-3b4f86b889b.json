@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:37.530",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger Morris",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:04:44.150",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Siegfried S. Hecker\n\nDirector, Los Alamos Nat. Laboratory",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:10:03.636",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Siegfried S. Hecker\n\nDirector, Los Alamos Nat. Laboratory",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:10:23.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gerold Yonas\n\nDirector of Lab Development\n\nSandia National Laboratories",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:15:00.132",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lee Zink\n\nEconomist",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:17:29.882",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lee Zink\n\nEconomist",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:18:39.384",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gerold Yonas\n\nDirector of Lab Development\n\nSandia National Laboratories",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:20:33.398",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lee Zink\n\nEconomist",
@@ -111,7 +111,7 @@
   },
   {
     "at": "00:22:50.135",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Siegfried S. Hecker\n\nDirector, Los Alamos Nat. Laboratory",
@@ -125,7 +125,7 @@
   },
   {
     "at": "00:25:53.251",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lee Zink\n\nEconomist",

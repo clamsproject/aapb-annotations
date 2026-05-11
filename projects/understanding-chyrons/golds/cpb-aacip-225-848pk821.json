@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:36.396",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:10:19.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jenny Strand\n\nVisitor",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:16:15.507",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Matt Catingub",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:22:22.374",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nancy Wong\n\nPostal Service Hawaii",

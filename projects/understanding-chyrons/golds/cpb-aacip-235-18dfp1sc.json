@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:14.767",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "'TRUCK' EGAN\n\nBill Egan's Brother",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:02.882",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE SULLIVAN\n\nFormer Anchorage Mayor",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:07:03.022",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALTER HICKEL\n\nFormer Governor",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:07:38.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATIE HURLEY\n\nChief Clerk\nConstitutional Convention",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:08:28.374",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VICTOR FISCHER\n\nLegislator",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:10:23.022",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BOB ATWOOD\n\nPublisher, Anchorage Times",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:10:45.511",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN BUTROVICH\n\nFormer Legislator",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:11:44.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE SULLIVAN\n\nFormer Anchorage Mayor",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:12:10.629",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. BILL RAY\n\nJuneau",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:13:18.397",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY HAMMOND\n\nFormer Governor",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:14:05.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. VIC FISCHER\n\nAnchorage",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:20:01.633",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BYRON MALLOTT\n\nFormer Commissioner",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:22:29.881",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. TED STEVENS",
@@ -181,7 +181,7 @@
   },
   {
     "at": "00:22:54.906",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHARLIE JOHNSON",
@@ -193,7 +193,7 @@
   },
   {
     "at": "00:23:09.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEORGE SULLIVAN\n\nFormer Anchorage Mayor",
@@ -207,7 +207,7 @@
   },
   {
     "at": "00:23:22.000",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "IKE WALDROP\n\nNational Electrical\nContractors Association",
@@ -221,7 +221,7 @@
   },
   {
     "at": "00:23:43.255",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VERN C. 'BUD' GARRISON\n\nBusiness Manager\n\nIBEW Local 1547",
@@ -235,7 +235,7 @@
   },
   {
     "at": "00:23:59.638",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN KELSEY",
@@ -247,7 +247,7 @@
   },
   {
     "at": "00:24:37.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GOV. BILL SHEFFIELD",
@@ -259,7 +259,7 @@
   },
   {
     "at": "00:25:23.388",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ED PERKOWSKI\n\nCarpenters Union\n\nLocal 1243, Fairbanks",
@@ -273,7 +273,7 @@
   },
   {
     "at": "00:25:57.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TRUDY CAIN\n\nEgan Staff Member",
@@ -287,7 +287,7 @@
   },
   {
     "at": "00:26:27.018",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ED ANDERS\n\nEgan Staff Member",
@@ -301,7 +301,7 @@
   },
   {
     "at": "00:26:47.272",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BYRON MALLOTT\n\nFormer Commissioner",
@@ -315,7 +315,7 @@
   },
   {
     "at": "00:27:04.155",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN BUTROVICH\n\nFormer Legislator",
@@ -329,7 +329,7 @@
   },
   {
     "at": "00:27:46.031",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "H.A. 'RED' BOUCHER\n\nFormer Lt. Governor",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:28.381",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BURT HUBBARD\n\nROCKY MOUNTAIN NEWS",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:50.883",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DON KINNEY\n\nKRMA-TV",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:06:06.399",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BURT HUBBARD\n\nROCKY MOUNTAIN NEWS",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:10:40.773",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BURT HUBBARD\n\nROCKY MOUNTAIN NEWS",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:11:12.271",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NEIL WESTERGAARD\n\nDENVER POST",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:14:45.651",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NEIL WESTERGAARD\n\nDENVER POST",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:18:42.654",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DON KINNEY\n\nKRMA-TV",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:20:43.275",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM RITZ\n\nDENVER POST",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:20:59.891",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOE WEBER\n\nROCKY MOUNTAIN NEWS",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:24:02.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOE WEBER\n\nROCKY MOUNTAIN NEWS",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:24:26.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM RITZ\n\nDENVER POST",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:27:49.634",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM RITZ\n\nDENVER POST",

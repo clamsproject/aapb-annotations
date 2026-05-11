@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:38.511",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger Kaiwi\n\nCaptain Cook Coffee Co.",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:11:37.630",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Cary Tagawa\n\nActor",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:20:17.649",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Uilani Mokiao\n\nPacific Handcrafters Guild",

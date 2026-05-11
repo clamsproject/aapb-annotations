@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:41.781",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Glenn Hong\n\nCEO\n\nYoung Brothers",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:09:18.257",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Neil Anthony Sims\n\nPresident\n\nKona Blue",
@@ -31,7 +31,7 @@
   },
   {
     "at": "00:14:12.251",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris Scanlan\n\nInvestor\n\nTrinity Restaurant Partners",
@@ -46,7 +46,7 @@
   },
   {
     "at": "00:20:42.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Cinzia Stepp\n\nArtisan\n\nPacific Handcrafters' Guild",

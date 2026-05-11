@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:15.642",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GOV. MARVIN MANDEL",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:02:44.030",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. WILLIAM GILL \n\nDEPUTY DIRECTOR",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:26:13.505",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. WILLIAM GILL \n\nDEPUTY DIRECTOR",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:29:44.749",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. HOWARD CHAMPION",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:30:33.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JUDITH LOWER\n\nNURSE",
@@ -67,7 +67,7 @@
   },
   {
     "at": "00:31:17.775",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOANN LEE\n\nNURSE",
@@ -81,7 +81,7 @@
   },
   {
     "at": "00:31:52.277",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. HOWARD CHAMPION",
@@ -93,7 +93,7 @@
   },
   {
     "at": "00:33:24.002",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOAN FRANZ\n\nNURSE",
@@ -107,7 +107,7 @@
   },
   {
     "at": "00:38:38.249",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARIA CANGELOSI\n\nNURSE",
@@ -121,7 +121,7 @@
   },
   {
     "at": "00:42:00.017",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MR. JAMES WINSTON\n\nPATIENT",
@@ -135,7 +135,7 @@
   },
   {
     "at": "00:49:21.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GOV. MARVIN MANDEL",

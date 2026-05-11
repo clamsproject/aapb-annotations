@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:04.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:01.267",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:09.255",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. RICHARD CRONIN\n\nPHYSICIAN",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:12:07.259",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:14:11.750",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:14:56.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. RICHARD CRONIN\n\nPHYSICIAN",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:15:42.007",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:16:54.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:21:05.264",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. RICHARD CRONIN\n\nPHYSICIAN",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:21:27.519",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL JOHNSON\n\nADMINISTRATOR, UNM HOSPITAL",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:24:09.381",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. DAVID OTTENSMEYER\n\nPRES. C.E.O., LOVELACE MED. CENTER",

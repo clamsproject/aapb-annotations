@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:44.017",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Cummings\n\nOahu Civil Defense",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:07.407",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Courtney Brown\n\nGovernment Efficiency Teams",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:16:06.632",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Barry Weinman\n\nBenefactor",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:16:40.766",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Virginia Weinman\n\nBenefactor",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:17:08.127",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joshua Hvidding\n\nStudent",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:22:35.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Amy Hammond\n\nMade In Hawaii Festival",

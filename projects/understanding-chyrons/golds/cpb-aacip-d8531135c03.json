@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:47.907",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Cherry Hart\n\nMayberry Junior High",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:06:27.019",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rick Nelson\n\nFairfax High School",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:14.894",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Terrel Bell\n\nSecretary of Education",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:09:02.775",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Albert Shanker\n\nAFT President",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:10:57.023",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Willard McGuire\n\nNEA President",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:11:22.381",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Albert Shanker\n\nAFT President",

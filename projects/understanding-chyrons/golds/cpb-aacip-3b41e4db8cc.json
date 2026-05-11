@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:03.750",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL BARDACKE\n\nDEMOCRAT",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:04.510",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL KENNEDY\n\nREPUBLICAN",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:11:25.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL KENNEDY\n\nREPUBLICAN",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:12:33.152",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAUL BARDACKE\n\nDEMOCRAT",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:15:24.890",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARY BETH ACUFF\n\nNM INDEPENDENT",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:38.765",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nHawaii Public Television",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:41.754",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAM JAASKO\n\nThe Parent Line",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:04:03.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRED\n\nParent",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:04:24.631",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JONATHAN RIETA\n\nParent",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:06:21.781",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MEREDITH MAEDA\n\nKailua High Principal",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:06:45.271",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAM JAASKO\n\nThe Parent Line",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:07:28.281",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEPHEN CHOY, PhD\n\nPsychologist",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:09:35.775",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEN YAMAMOTO\n\nDept. of Education",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:12:07.126",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERTA LORENZO\n\nToughlove",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:14:38.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI KREINIK\n\nParents Anonymous of Hawaii",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:17:29.281",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI KREINIK\n\nParents Anonymous of Hawaii",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:18:34.646",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEPHEN CHOY, PhD\n\nPsychologist",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:21:06.999",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEN YAMAMOTO\n\nDept. of Education",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:22:57.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nHawaii Public Television",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:23:25.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERTA LORENZO\n\nToughlove",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:24:57.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI KREINIK\n\nParents Anonymous of Hawaii",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:26:43.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEPHEN CHOY, PhD\n\nPsychologist",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:30:33.765",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHERYL NISHIOKA",
@@ -251,7 +251,7 @@
   },
   {
     "at": "00:30:51.382",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SHAUNA CAMACHO",
@@ -263,7 +263,7 @@
   },
   {
     "at": "00:31:09.634",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PETER AMMERMAN",
@@ -275,7 +275,7 @@
   },
   {
     "at": "00:31:48.373",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MIKE INDIE",
@@ -287,7 +287,7 @@
   },
   {
     "at": "00:31:58.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ERIN BRUNKE",
@@ -299,7 +299,7 @@
   },
   {
     "at": "00:32:11.396",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PENNY GRAY",
@@ -311,7 +311,7 @@
   },
   {
     "at": "00:32:19.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "THERESA ELEFANTE",
@@ -323,7 +323,7 @@
   },
   {
     "at": "00:32:30.748",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MATTHEW PROHM",
@@ -335,7 +335,7 @@
   },
   {
     "at": "00:32:43.895",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBIN CRAMER",
@@ -347,7 +347,7 @@
   },
   {
     "at": "00:32:49.634",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MAILE OSHIRO",
@@ -359,7 +359,7 @@
   },
   {
     "at": "00:34:09.147",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEN YAMAMOTO\n\nDept. of Education",
@@ -373,7 +373,7 @@
   },
   {
     "at": "00:35:03.134",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI KREINIK\n\nParents Anonymous of Hawaii",
@@ -387,7 +387,7 @@
   },
   {
     "at": "00:36:57.381",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERTA LORENZO\n\nToughlove",
@@ -401,7 +401,7 @@
   },
   {
     "at": "00:44:19.757",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERTA LORENZO\n\nToughlove",
@@ -415,7 +415,7 @@
   },
   {
     "at": "00:46:34.124",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEN YAMAMOTO\n\nDept. of Education",
@@ -429,7 +429,7 @@
   },
   {
     "at": "00:47:25.275",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI KREINIK\n\nParents Anonymous of Hawaii",
@@ -443,7 +443,7 @@
   },
   {
     "at": "00:52:23.140",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEPHEN CHOY, PhD\n\nPsychologist",
@@ -457,7 +457,7 @@
   },
   {
     "at": "00:54:58.395",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHI KREINIK\n\nParents Anonymous of Hawaii",
@@ -471,7 +471,7 @@
   },
   {
     "at": "00:56:05.261",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERTA LORENZO\n\nToughlove",
@@ -485,7 +485,7 @@
   },
   {
     "at": "01:00:01.764",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\n\"Dialog\"",

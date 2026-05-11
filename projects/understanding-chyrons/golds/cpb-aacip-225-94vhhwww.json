@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:39.779",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chad Jensen\n\nARDA Hawaii",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:21:53.779",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Barbara Campbell\n\nVP\n\nOutrigger",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:22:07.759",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Karen Winpenny\n\nEvent Coordinator",

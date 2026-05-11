@@ -1,7 +1,7 @@
 [
   {
     "at": "00:12:27.646",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Harry Tuft",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:13:56.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Hank Troy",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:14:19.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Harry Tuft",

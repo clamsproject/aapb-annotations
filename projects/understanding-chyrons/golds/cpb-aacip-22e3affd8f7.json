@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:19.012",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RAY WARREN",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:02:58.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DICK LEVY",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:05:02.268",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DICK LEVY",
@@ -37,7 +37,7 @@
   },
   {
     "at": "00:09:32.505",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DICK LEVY",
@@ -49,7 +49,7 @@
   },
   {
     "at": "00:10:40.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH OVERBY",
@@ -61,7 +61,7 @@
   },
   {
     "at": "00:12:10.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH OVERBY",
@@ -73,7 +73,7 @@
   },
   {
     "at": "00:17:43.762",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOSEPH OVERBY",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:19:30.636",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT (BOB) BINGHAM",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:20:21.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN C. BROOKS",
@@ -109,7 +109,7 @@
   },
   {
     "at": "00:21:17.009",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JACK BROOKS WEAVER",
@@ -121,7 +121,7 @@
   },
   {
     "at": "00:25:04.269",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JACK BROOKS WEAVER",
@@ -133,7 +133,7 @@
   },
   {
     "at": "00:25:47.646",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT (BOB) BINGHAM",
@@ -145,7 +145,7 @@
   },
   {
     "at": "00:26:33.892",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN C. BROOKS",
@@ -157,7 +157,7 @@
   },
   {
     "at": "00:39:22.626",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN C. BROOKS",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:40:38.636",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JACK BROOKS WEAVER",
@@ -181,7 +181,7 @@
   },
   {
     "at": "00:41:48.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT (BOB) BINGHAM",
@@ -193,7 +193,7 @@
   },
   {
     "at": "00:43:07.651",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BOB ETHERIDGE",
@@ -205,7 +205,7 @@
   },
   {
     "at": "00:43:39.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HENRY McCARTHY",
@@ -217,7 +217,7 @@
   },
   {
     "at": "00:46:01.258",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BOB ETHERIDGE",
@@ -229,7 +229,7 @@
   },
   {
     "at": "00:46:43.634",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HENRY McCARTHY",
@@ -241,7 +241,7 @@
   },
   {
     "at": "00:50:44.374",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HENRY McCARTHY",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:51:37.627",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BOB ETHERIDGE",
@@ -265,7 +265,7 @@
   },
   {
     "at": "00:54:18.021",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HENRY McCARTHY",
@@ -277,7 +277,7 @@
   },
   {
     "at": "00:55:46.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BOB ETHERIDGE",
@@ -289,7 +289,7 @@
   },
   {
     "at": "00:57:11.628",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOM PAQUIN",
@@ -301,7 +301,7 @@
   },
   {
     "at": "00:59:05.141",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOM PAQUIN",
@@ -313,7 +313,7 @@
   },
   {
     "at": "01:03:18.127",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOM PAQUIN",
@@ -325,7 +325,7 @@
   },
   {
     "at": "01:05:05.268",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN REAVILL",
@@ -337,7 +337,7 @@
   },
   {
     "at": "01:05:33.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ed Renfrow",
@@ -349,7 +349,7 @@
   },
   {
     "at": "01:07:46.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN REAVILL",
@@ -361,7 +361,7 @@
   },
   {
     "at": "01:08:25.768",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ed Renfrow",
@@ -373,7 +373,7 @@
   },
   {
     "at": "01:11:41.764",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ed Renfrow",
@@ -385,7 +385,7 @@
   },
   {
     "at": "01:12:24.273",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN REAVILL",
@@ -397,7 +397,7 @@
   },
   {
     "at": "01:17:46.762",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ed Renfrow",
@@ -409,7 +409,7 @@
   },
   {
     "at": "01:18:38.647",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN REAVILL",

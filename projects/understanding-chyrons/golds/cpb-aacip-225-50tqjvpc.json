@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:44.884",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Chee\n\nCEO\n\nPrudential Locations",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:17:04.156",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gunner Hartner\n\nHonda Windward",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:22:16.268",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jasmine Tso\n\nAla Moana Center",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:38.024",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEAN BORG",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:02:45.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHET RANDOLPH",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:11:43.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID OSTENDORF\n\nPRARIE FIRE\n\nDES MOINES, IOWA",
@@ -40,7 +40,7 @@
   },
   {
     "at": "00:19:34.273",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEVON WOODLAND\n\nNATL. FARMERS ORGANIZATION\n\nCORNING, IOWA",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:22:48.500",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DEVON WOODLAND\n\nNATL. FARMERS ORGANIZATION\n\nCORNING, IOWA",
@@ -70,7 +70,7 @@
   },
   {
     "at": "00:28:53.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DIXON TERRY\n\nEXEC. BOARD- IA. FARM UNITY COALITION\n\nGREENFIELD, IOWA",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:31:31.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAWN THOMPSON\n\nAVA, MISSOURI",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:35:31.529",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAWN THOMPSON\n\nAVA, MISSOURI",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:37:48.399",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DARRELL RINGER\n\nQUINTER, KANSAS",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:41:46.637",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DARRELL RINGER\n\nQUINTER, KANSAS",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:48:19.529",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CARLOS POLIT\n\nMOLINE, ILLINOIS",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:53:00.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CARLOS POLIT\n\nMOLINE, ILLINOIS",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:56:40.397",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRANCIS LIPSKE\n\nPLATTEVILLE, WISCONSIN",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:14.387",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Clint Arnoldus\n\nPRESIDENT & CEO\n\nCENTRAL PACIFIC BANK",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:13:31.143",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Michael Drace\n\nYOUNG LAUNDRY & DRYCLEANING",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:19:10.249",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Andres Delfs\n\nPRINCIPAL CONDUCTOR\n\nHONOLULU SYMPHONY",

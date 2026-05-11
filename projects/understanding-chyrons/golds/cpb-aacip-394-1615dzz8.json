@@ -1,7 +1,7 @@
 [
   {
     "at": "00:15:11.143",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VIVIAN WASHINGTON\n\nPARENTING COUNSELOR",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:16:23.382",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. ANNA ROSENBERG\n\nPSYCHOLOGIST",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:18:24.770",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. SUSAN WALEN\n\nPSYCHOLOGIST",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:20:10.642",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VIRGINIA RHODES NUTA\n\nSINGLE PARENT MAGAZINE",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:25:39.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VIRGINIA RHODES NUTA\n\nSINGLE PARENT MAGAZINE",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:26:19.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANNA AUKAMP\n\nDEPT. OF HUMAN RESOURCES",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:10.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bruce Smith\n\nCEO\n\nTesoro Corp.",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:10:22.388",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Darren Kimura\n\nEnergy Industries",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:16:06.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Paul Koehler\n\nHawaii Crop Improvement Association",

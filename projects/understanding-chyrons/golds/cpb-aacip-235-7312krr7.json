@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:21.281",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY KERTTULA",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:24:52.524",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HILARY HILSCHER\n\nAlaska Radio Network",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:28:32.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CHANCY CROFT",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:29:17.756",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ED MERDES",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:31:05.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAY KERTTULA",

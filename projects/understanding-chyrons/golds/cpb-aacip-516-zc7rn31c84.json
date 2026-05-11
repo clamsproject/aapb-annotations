@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:16.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID PROWITT",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:07:21.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID IFSHIN, Pres.\n\nNAT'L. STUDENT ASSOC.",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:10:11.510",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MITCHELL KRAUSS",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:15:05.905",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VICTOR K. McELHENY\n\nSCIENCE EDITOR\n\nBOSTON GLOBE",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:18:52.531",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. GEORGE WILEY, Dir.\n\nNATIONAL WELFARE RIGHTS",
@@ -67,7 +67,7 @@
   },
   {
     "at": "00:25:00.499",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. BERYL BLUE SPRUCE\n\nUNIVERSITY OF MICHIGAN",
@@ -81,7 +81,7 @@
   },
   {
     "at": "00:27:25.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VICTOR K. McELHENY\n\nSCIENCE EDITOR\n\nBOSTON GLOBE",
@@ -95,7 +95,7 @@
   },
   {
     "at": "00:30:49.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. MINA REES\n\nAAAS PRES. ELECT",
@@ -109,7 +109,7 @@
   },
   {
     "at": "00:37:08.025",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. JEAN E. SIMMONS\n\nUPSALA COLLEGE",
@@ -123,7 +123,7 @@
   },
   {
     "at": "00:37:30.514",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LOIS K. MILLER\n\nUNIVERSITY OF WISCONSIN",
@@ -137,7 +137,7 @@
   },
   {
     "at": "00:39:10.014",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. MARGARET MEAD\n\nAM. MUSEUM OF NATURAL HISTORY",
@@ -151,7 +151,7 @@
   },
   {
     "at": "00:45:37.000",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. JEAN E. SIMMONS\n\nUPSALA COLLEGE",

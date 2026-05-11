@@ -98,8 +98,8 @@ A set of `.json` files in which each row is a frame timestamped and with relevan
 
 * Fields:
     * `at` - string representing the ISO timestamp of the frame
-    * `scene-type` - string representing the type label (from `type label` in raw data)
-    * `scene-subtype` - string representing the subtype label, if applicable (from `subtype label` in raw data)
+    * `scene-label` - string representing the type label (from `type label` in raw data)
+    * `scene-subtype-label` - string representing the subtype label, if applicable (from `subtype label` in raw data)
     * `transitional` - boolean representing if the image is _transitional_ between two scene types (from `modifier` in raw data)
     * `text-transcript` - string transferred from `note-3` (verbatim) column in the raw data. Line break markers are replaced with actual line breaks (U+000A). 
     * `keyed-information` — an object (string-string) transferred from the `note-4` (key-value) column in the raw data: the first line (datum) is keyed as `name-as-written`, the second as `name-normalized`, and all other lines are included under `attributes` as a list of strings. Or `null` if the `note-4` data is not automatically parse-able due to format issues. 
@@ -110,8 +110,8 @@ $ cat golds/cpb-aacip-225-99n2zd03.json
 [
   {
     "at": "00:03:19.265",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-label": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOM OKAMURA (D)\n\nHouse Majority Leader",
     "keyed-information": {
@@ -129,8 +129,8 @@ $ cat golds/cpb-aacip-225-22h70v35.json
   ...
   {
     "at": "00:22:04.022",
-    "scene-type": "I",
-    "scene-subtype": "",
+    "scene-label": "I",
+    "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Mavrothalassitis",
     "keyed-information": null

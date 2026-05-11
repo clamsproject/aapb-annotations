@@ -1,7 +1,7 @@
 [
   {
     "at": "00:07:17.637",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WARREN PRICE\n\nAttorney General",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:09:19.625",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DANTE CARPENTER\n\nHawaii County Mayor",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:09:36.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HANNIBAL TAVARES\n\nMaui County Mayor",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:16:42.267",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. BRIAN TANIGUCHI (D)\n\nChairman - House Committee\n\non Higher Education",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:17:30.749",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MOANIKEALA AKAKA\n\nTrustee\n\nOffice of Hawaiian Affairs",
@@ -72,7 +72,7 @@
   },
   {
     "at": "00:19:31.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ROLAND KOTANI (D)",

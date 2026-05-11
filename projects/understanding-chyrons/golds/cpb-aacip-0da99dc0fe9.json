@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:25.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rene Roy\nQuebec Federation of Labor",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:02:57.377",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Betty Lennon\nNorthEast Central Labor Council",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:03:11.758",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rod Sherman\nNYS United Teachers Association",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:03:35.515",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Owens\nMountain Lake Journal",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:04:14.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Colin Read\nPlattsburgh State University",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:05:02.502",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ted Kowalczyk\nGuest Panelist",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:05:20.887",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brian Mann\nNorth Country Public Radio",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:14:33.405",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rene Roy\nQuebec Federation of Labor",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:15:06.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ruth Rosenfield\nMontreal Teachers Association",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:15:25.624",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Owens\nMountain Lake Journal",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:16:03.128",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brian Mann\nNorth Country Public Radio",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:16:48.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Colin Read\nPlattsburgh State University",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:17:08.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ted Kowalczyk\nGuest Panelist",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:23:24.002",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jeff Rendinaro\nStock Broker",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:26:25.650",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jeff Rendinaro\nStock Broker",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:26:49.140",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Owens\nMountain Lake Journal",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:29:18.156",
-    "scene-lebal": "N",
+    "scene-label": "N",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "journal@mountainlake.org",

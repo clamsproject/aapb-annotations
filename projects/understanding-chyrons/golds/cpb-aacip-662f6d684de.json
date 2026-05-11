@@ -1,7 +1,7 @@
 [
   {
     "at": "00:05:08.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Chavez\n\nDirector, The Palace of the Governors",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:06:43.770",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marc Simmons\n\nAuthor",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:35.147",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Pat Baca\n\nAlbuquerque City Council President",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:09:38.511",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. Pelayo Fernandez\n\nUNM Professor",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:10:51.250",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marc Simmons\n\nAuthor",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:15:24.657",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Chavez\n\nDirector, The Palace of the Governors",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:17:37.656",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Chavez\n\nDirector, The Palace of the Governors",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:19:45.651",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marc Simmons\n\nAuthor",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:22:19.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Chavez\n\nDirector, The Palace of the Governors",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:25:02.767",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marc Simmons\n\nAuthor",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:27:20.138",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marc Simmons\n\nAuthor",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:30:30.261",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Chavez\n\nNational Congress for Men",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:32:13.031",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beverly Burris\n\nSociologist",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:34:21.025",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ken Cullen\n\nAttorney",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:35:06.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Chavez\n\nNational Congress for Men",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:38:16.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beverly Burris\n\nSociologist",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:40:47.878",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Chavez\n\nNational Congress for Men",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:45:27.624",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beverly Burris\n\nSociologist",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:48:30.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Chavez\n\nNational Congress for Men",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:50:28.892",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beverly Burris\n\nSociologist",
@@ -281,7 +281,7 @@
   },
   {
     "at": "00:51:23.280",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Don Chavez\n\nNational Congress for Men",
@@ -295,7 +295,7 @@
   },
   {
     "at": "00:52:22.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Beverly Burris\n\nSociologist",

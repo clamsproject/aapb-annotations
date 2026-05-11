@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:51.658",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN EVANS\n\nDallas City Council",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:58.524",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EDDIE BERNICE JOHNSON\n\nState Senator",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:06:55.014",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANTHONY JACKSON\n\nFair Park Inner City Dev. Corp.",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:07:43.896",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT WALKER\n\nTrammell Crow Medical Div.",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:08:10.256",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT WALKER\n\nTrammell Crow Medical Div.",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:08:30.877",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HERB JAMES\n\nQuincy-Geneva Community\nDevelopment Corp.",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:09:26.999",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LIZ FLORES\n\nWest Dallas Housing\nMediation Team",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:10:29.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PETTIS NORMAN\n\nW. Dallas Mediation Team",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:12:24.009",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "IRVING STATMAN\n\nStatman-Wassenich Assoc.",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:14:07.646",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID MORTON\n\nDallas Housing Authority",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:15:00.766",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BETSY JULIAN\n\nAttorney",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:16:18.510",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN EVANS\n\nDallas City Council",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:17:14.500",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JUAN PATLAN\n\nEnterprise Foundation",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:18:01.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DOROTHY MASTERSON\n\nDallas Tenants Assoc.",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:18:57.503",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SAM MOSELEY\n\nU.S. Department of Housing\nand Urban Development",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:20:02.267",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REV. MARION BARNETT\n\nConcerned Citizens to\nSave West Dallas",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:21:11.637",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DIANE RAGSDALE\n\nDallas City Council",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:22:11.263",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EDDIE BERNICE JOHNSON\n\nState Senator",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:23:17.529",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRED BLAIR\n\nState Representative",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:25:03.134",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HERB JAMES\n\nQuincy-Geneva Community\nDevelopment Corp.",
@@ -281,7 +281,7 @@
   },
   {
     "at": "00:27:00.151",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARY FULBRIGHT\n\nGraduate School of\nSocial Work, U.T.A.",
@@ -295,7 +295,7 @@
   },
   {
     "at": "00:28:11.256",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE BARTLETT\n\nCongressman",
@@ -309,7 +309,7 @@
   },
   {
     "at": "00:29:38.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
@@ -323,7 +323,7 @@
   },
   {
     "at": "00:30:29.761",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE BARTLETT\n\nCongressman",
@@ -337,7 +337,7 @@
   },
   {
     "at": "00:31:16.140",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HERMAN SMITH\n\nDeveloper/Homebuilder",
@@ -351,7 +351,7 @@
   },
   {
     "at": "00:33:43.654",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
@@ -365,7 +365,7 @@
   },
   {
     "at": "00:35:19.517",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE BARTLETT\n\nCongressman",
@@ -379,7 +379,7 @@
   },
   {
     "at": "00:36:17.875",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
@@ -393,7 +393,7 @@
   },
   {
     "at": "00:37:13.397",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SAM MOSELEY\n\nU.S. Department of Housing\nand Urban Development",
@@ -407,7 +407,7 @@
   },
   {
     "at": "00:37:51.769",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MIKE GIBSON\n\nFair Park Inner City Dev. Corp.",
@@ -421,7 +421,7 @@
   },
   {
     "at": "00:39:01.872",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DICK ARMEY\n\nCongressman",
@@ -435,7 +435,7 @@
   },
   {
     "at": "00:40:40.905",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DICK ARMEY\n\nCongressman",
@@ -449,7 +449,7 @@
   },
   {
     "at": "00:43:10.521",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "STEVE BARTLETT\n\nCongressman",
@@ -463,7 +463,7 @@
   },
   {
     "at": "00:43:43.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BARRY ZIGAS\n\nNational Low Income\nHousing Coalition",
@@ -477,7 +477,7 @@
   },
   {
     "at": "00:44:57.261",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HERB JAMES\n\nQuincy-Geneva Community\nDevelopment Corp.",
@@ -491,7 +491,7 @@
   },
   {
     "at": "00:47:08.258",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LIZ FLORES\n\nWest Dallas Housing\nMediation Team",
@@ -505,7 +505,7 @@
   },
   {
     "at": "00:49:22.626",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DIANE RAGSDALE\n\nDallas City Council",
@@ -519,7 +519,7 @@
   },
   {
     "at": "00:50:11.875",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN FULLINWIDER\n\nCommon Ground",
@@ -533,7 +533,7 @@
   },
   {
     "at": "00:50:29.259",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REV. MARION BARNETT\n\nConcerned Citizens to\nSave West Dallas",
@@ -547,7 +547,7 @@
   },
   {
     "at": "00:51:33.623",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN EVANS\n\nDallas City Council",
@@ -561,7 +561,7 @@
   },
   {
     "at": "00:52:10.026",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID MORTON\n\nDallas Housing Authority",
@@ -575,7 +575,7 @@
   },
   {
     "at": "00:52:29.379",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HARRYETTE EHRHARDT\n\nGreater Dallas Community\nRelations Commission",
@@ -589,7 +589,7 @@
   },
   {
     "at": "00:53:36.746",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOYCE LOCKLEY\n\nGreater Dallas Community\nRelations Commission",
@@ -603,7 +603,7 @@
   },
   {
     "at": "00:55:59.522",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID MORTON\n\nDallas Housing Authority",
@@ -617,7 +617,7 @@
   },
   {
     "at": "00:56:27.384",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PETTIS NORMAN\n\nW. Dallas Mediation Team",
@@ -631,7 +631,7 @@
   },
   {
     "at": "00:57:18.134",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DON HICKS\n\nAttorney",
@@ -645,7 +645,7 @@
   },
   {
     "at": "00:58:49.025",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HARRY JONES\n\nDallas City Manager's Office",

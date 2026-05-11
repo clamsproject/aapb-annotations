@@ -1,7 +1,7 @@
 [
   {
     "at": "00:13:44.390",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joseph M. Souki (D)\n\nSpeaker of the House",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:16:33.125",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Okamura (D)\n\nHouse Majority Leader",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:22:42.260",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gene Ward (R)\n\nHouse Minority Leader",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:25:43.642",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gene Ward (R)\n\nHouse Minority Leader",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:36:05.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Reverend Gary Colton",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:38:27.138",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynne Waters\n\nHawaii Public Television",

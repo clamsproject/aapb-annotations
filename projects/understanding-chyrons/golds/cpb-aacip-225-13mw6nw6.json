@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:38.631",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Howard Dicus\n\nPBN Friday",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:10:20.019",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Abe Weinstein\n\nHawaii Int'l Jazz Festival",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:18:29.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tom Gulick\n\nHonolulu Symphony",

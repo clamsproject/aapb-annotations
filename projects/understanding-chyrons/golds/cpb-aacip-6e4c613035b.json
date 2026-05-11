@@ -1,7 +1,7 @@
 [
   {
     "at": "00:05:57.890",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "L. Kent Wolgamott\nCRITIC",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:11:38.631",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lisa Sweet",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:16:39.131",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Russell Carter\nMANAGER",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:17:11.397",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lou Maglia\nRECORD EXECUTIVE",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:34:04.275",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Russell Carter\nMANAGER",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:34:23.761",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "L. Kent Wolgamott\nCRITIC",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:45:13.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jeff Dodes\nGENERAL MANAGER",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:46:32.623",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Caram Constanzo\nRECORDING ENGINEER",
@@ -111,7 +111,7 @@
   },
   {
     "at": "00:52:37.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "Andy Fleming\nFEATURE FILM DIRECTOR",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:51.030",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stuart Voss\nWCFE",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:04:43.750",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Dyer\nState Trooper",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:04:55.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brenda Munson\nCook/Cashier",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:05:04.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Julanne Moss\nStudent-SUNY Plattsburgh",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:05:16.749",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Paula Varga\nStudent-SUNY Plattsburgh",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:06:27.253",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Edward Pepper\nCorrections Officer",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:06:32.258",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tamara Pandolph\nWaitress",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:06:50.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Carmon Rust\nMalone",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:10:03.903",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "David Mance\nNYS Dept. of Labor",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:11:20.780",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Alan Lessler\nEconomic Development and SUNY",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:13:05.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elliott Shaw\nBusiness Council of N.Y., Inc.",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:14:13.752",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elliott Shaw\nBusiness Council of N.Y., Inc.",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:15:12.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris Ortloff\nNYS Assembly",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:16:52.011",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Crotty\nPublic Employees Federation",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:18:17.029",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Carolyn Harding\nChamplain Centres",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:19:00.005",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Masella\nNYS Department of Labor",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:19:46.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Masella\nNYS Department of Labor",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:21:32.524",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stephen Dutton\nFranklin County Industrial Dev.",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:22:37.756",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Mikulcik\nFalcon Seaboard Corporation",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:24:06.011",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gay Bush\nEconomic Development Zone - Port Henry",
@@ -281,7 +281,7 @@
   },
   {
     "at": "00:25:25.624",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Way\nPlattsburgh Community Dev. Office",
@@ -295,7 +295,7 @@
   },
   {
     "at": "00:27:23.141",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stanley Jones",
@@ -307,7 +307,7 @@
   },
   {
     "at": "00:27:49.267",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Candy Jones",
@@ -319,7 +319,7 @@
   },
   {
     "at": "00:33:33.778",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Masella\nNYS Department of Labor",
@@ -333,7 +333,7 @@
   },
   {
     "at": "00:34:08.379",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Edna Coonrod\nSupervisor - Town of Willsboro",
@@ -347,7 +347,7 @@
   },
   {
     "at": "00:36:27.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elliott Shaw\nBusiness Council of N.Y., Inc.",
@@ -361,7 +361,7 @@
   },
   {
     "at": "00:38:20.631",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Owens\nAttorney",
@@ -375,7 +375,7 @@
   },
   {
     "at": "00:40:01.632",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Frank McGovern\nFrontiertown",
@@ -389,7 +389,7 @@
   },
   {
     "at": "00:42:08.025",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris Ortloff\nNYS Assembly",
@@ -403,7 +403,7 @@
   },
   {
     "at": "00:44:31.635",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim McKenna\nLake Placid Tourism & Convention Bureau",
@@ -417,7 +417,7 @@
   },
   {
     "at": "00:47:13.897",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Allan Stafford\nFarm Bureau",
@@ -431,7 +431,7 @@
   },
   {
     "at": "00:49:35.772",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stuart Voss\nWCFE",
@@ -445,7 +445,7 @@
   },
   {
     "at": "00:50:14.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris Ortloff\nNYS Assembly",
@@ -459,7 +459,7 @@
   },
   {
     "at": "00:51:47.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim McKenna\nLake Placid Tourism & Convention Bureau",
@@ -473,7 +473,7 @@
   },
   {
     "at": "00:53:29.873",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Heidi Clute\nBusiness and Professional Womens Club",
@@ -487,7 +487,7 @@
   },
   {
     "at": "00:54:48.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Stephen Erman\nAdirondack Park Agency Dev. Office",
@@ -501,7 +501,7 @@
   },
   {
     "at": "00:57:56.372",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Elliott Shaw\nBusiness Council of N.Y., Inc.",
@@ -515,7 +515,7 @@
   },
   {
     "at": "01:01:25.248",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Art Spiegel\nTrans Border Customs Services",

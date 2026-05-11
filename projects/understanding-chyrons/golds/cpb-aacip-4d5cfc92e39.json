@@ -1,7 +1,7 @@
 [
   {
     "at": "00:07:27.146",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP THOMAS GUMBLETON",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:16:42.401",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP THOMAS GUMBLETON",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:24:38.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP THOMAS GUMBLETON",
@@ -37,7 +37,7 @@
   },
   {
     "at": "00:37:46.030",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ARTHUR MASLOW\n\nFAMILY THERAPIST",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:49:17.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ARTHUR MASLOW\n\nFAMILY THERAPIST",

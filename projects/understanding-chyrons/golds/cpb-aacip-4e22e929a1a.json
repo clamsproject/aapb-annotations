@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:05.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KIT KARBLER",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:03:23.770",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHAEL DAVID",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:14:28.000",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KEVIN BUXTON-KUTCH",
@@ -37,7 +37,7 @@
   },
   {
     "at": "00:16:31.523",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BLAIR CHOTZINOFF",
@@ -49,7 +49,7 @@
   },
   {
     "at": "00:18:01.280",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID RYAN",
@@ -61,7 +61,7 @@
   },
   {
     "at": "00:20:30.896",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FRANK JACOBSON\nEXECUTIVE DIRECTOR",
@@ -75,7 +75,7 @@
   },
   {
     "at": "00:21:19.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATHY HOTCHNER",
@@ -87,7 +87,7 @@
   },
   {
     "at": "00:24:14.519",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KIMBERLY ROUSH",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:25:54.152",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PAULA CARROLL DUGGAN",

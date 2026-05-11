@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:25.398",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joe Toy\n\nCEO\n\nHOSPITALITY ADVISORS",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:09:43.649",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bernard Ho\n\nINTERIM CEO\n\nDAMIEN SCHOOL",
@@ -31,7 +31,7 @@
   },
   {
     "at": "00:15:15.014",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kippen de Alba Chu\n\nIOLANI PALACE",
@@ -45,7 +45,7 @@
   },
   {
     "at": "00:20:43.375",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "John Howell\n\nCEO\n\nEASTER SEALS HAWAII",

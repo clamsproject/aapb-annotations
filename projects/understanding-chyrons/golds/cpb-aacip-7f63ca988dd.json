@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:58.378",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Marc Finlayson\n\nLEGISLATIVE REPORT",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:06:56.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Marshall Rauch\n\n(D) GASTON",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:38.384",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chris Fitzsimon\n\nLEGISLATIVE REPORT",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:09:03.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ted Harrison\n\nLEGISLATIVE REPORT",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:09:21.894",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Art Eisenstadt\n\nWINSTON-SALEM JOURNAL",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:10:19.652",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jack Betts\n\nN.C. INSIGHT",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:10:50.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Seth Effron\n\nGREENSBORO NEWS & RECORD",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:15:29.762",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Helen Marvin\n\n(D) GASTON",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:17:31.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Dennis Winner\n\n(D) BUNCOMBE",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:18:10.255",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Charles Hipps\n\n(D) HAYWOOD",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:20:03.268",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Wanda Hunt\n\n(D) MOORE",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:20:26.525",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Marshall Rauch\n\n(D) GASTON",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:21:58.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Audrey Kates Bailey\n\nLEGISLATIVE REPORT",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:22:42.527",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. G. W. Miller, Jr.\n\n(D) DURHAM",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:24:02.140",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Casper Holroyd\n\n(D) WAKE",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:27:11.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rep. Dwight Quinn\n\n(D) CABARRUS",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:27:37.155",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lt. Gov. Bob Jordan",
@@ -237,7 +237,7 @@
   },
   {
     "at": "00:27:46.398",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Aaron Plyler\n\n(D) UNION",
@@ -251,7 +251,7 @@
   },
   {
     "at": "00:28:26.905",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Sen. Jim Johnson\n\n(R) CABARRUS",

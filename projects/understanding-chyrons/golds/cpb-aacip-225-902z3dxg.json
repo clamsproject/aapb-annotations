@@ -1,7 +1,7 @@
 [
   {
     "at": "00:12:39.759",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "AL HARRINGTON",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:19:16.889",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DANIEL KIHANO\n\nSpeaker of the House",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:25:42.507",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DANIEL KIHANO\n\nSpeaker of the House",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:34:19.524",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHAEL LIU\n\nMinority Leader",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:37:34.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MICHAEL LIU\n\nMinority Leader",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:51:31.655",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:07:57.643",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\nEllen Rathbone\nVisitors Interpretive Center",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:10:23.522",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\nEllen Rathbone\nVisitors Interpretive Center",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:14:16.021",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\nJohn Dimon\nDimon Sports",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:19:27.132",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\nChristie Sausa\nFigure Skater/Speed Skater",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:20:00.899",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": true,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nJoan Goldthwait\nSpeed Skater",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:21:15.373",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nStacy McNulty\nWildlife Ecologist",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:27:05.390",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nZack Danks\nGraduate Student Researcher",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:27:31.749",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ADIRONDACK\nOUTDOORS\n\n\nAnnie Woods\nGraduate Student Researcher",

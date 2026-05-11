@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:03.876",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rex Johnson\n\nCEO\n\nHawaii Tourism Authority",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:10:45.511",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Ueno\n\nAloha Street",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:16:56.648",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Brent Kunimoto\n\nDiamond Bakery",

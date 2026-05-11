@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:25.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MATT SEIDEN\n\nMORNING SUN",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:01:45.271",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RON DAVIS\n\nMORNING SUN",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:02:02.889",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT DOUGLAS\n\nWMAR-TV",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:02:26.146",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SUSAN SELIGER\n\nWASHINGTONIAN",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:08:04.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SUSAN SELIGER\n\nWASHINGTONIAN",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:10:41.407",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MATT SEIDEN\n\nMORNING SUN",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:14:57.129",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MATT SEIDEN\n\nMORNING SUN",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:18:32.377",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RON DAVIS\n\nMORNING SUN",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:23:02.647",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RON DAVIS\n\nMORNING SUN",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:23:56.401",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT DOUGLAS\n\nWMAR-TV",

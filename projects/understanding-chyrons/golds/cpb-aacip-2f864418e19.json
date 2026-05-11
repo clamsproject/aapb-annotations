@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:08.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GOV. JOHN WAIHEE (D)",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:02:06.025",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GOV. JOHN WAIHEE (D)",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:02:45.765",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MIKE CROZIER (D)",
@@ -37,7 +37,7 @@
   },
   {
     "at": "00:03:22.502",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -51,7 +51,7 @@
   },
   {
     "at": "00:08:41.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -65,7 +65,7 @@
   },
   {
     "at": "00:09:12.251",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ANDREW LEVIN (D)",
@@ -77,7 +77,7 @@
   },
   {
     "at": "00:09:27.500",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. PATSY YOUNG (D)",
@@ -89,7 +89,7 @@
   },
   {
     "at": "00:09:56.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. WAYNE METCALF (D)",
@@ -101,7 +101,7 @@
   },
   {
     "at": "00:10:14.380",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. BRIAN TANIGUCHI (D)",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:10:43.009",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ELOISE YAMASHITA-\n\nTUNGPALAN (D)",
@@ -125,7 +125,7 @@
   },
   {
     "at": "00:11:26.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -139,7 +139,7 @@
   },
   {
     "at": "00:12:21.273",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -153,7 +153,7 @@
   },
   {
     "at": "00:13:34.513",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. FRED HEMMINGS (R)",
@@ -165,7 +165,7 @@
   },
   {
     "at": "00:14:17.389",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. WHITNEY ANDERSON (R)",
@@ -177,7 +177,7 @@
   },
   {
     "at": "00:14:35.875",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MIKE O'KIEFFE (R)",
@@ -189,7 +189,7 @@
   },
   {
     "at": "00:15:17.516",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. WHITNEY ANDERSON (R)",
@@ -201,7 +201,7 @@
   },
   {
     "at": "00:15:38.771",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MIKE O'KIEFFE (R)",
@@ -213,7 +213,7 @@
   },
   {
     "at": "00:16:13.405",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MIKE CROZIER (D)",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:16:55.014",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:17:53.772",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:18:16.395",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MAZIE HIRONO (D)\n\nChair, Consumer Protection\n\nCommittee",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:18:41.887",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. DAVID IGE (D)",
@@ -279,7 +279,7 @@
   },
   {
     "at": "00:19:32.905",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MIKE CROZIER (D)",
@@ -291,7 +291,7 @@
   },
   {
     "at": "00:20:07.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MAZIE HIRONO (D)\n\nChair, Consumer Protection\n\nCommittee",
@@ -305,7 +305,7 @@
   },
   {
     "at": "00:20:32.531",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MIKE CROZIER (D)",
@@ -317,7 +317,7 @@
   },
   {
     "at": "00:21:02.127",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MAZIE HIRONO (D)\n\nChair, Consumer Protection\n\nCommittee",
@@ -331,7 +331,7 @@
   },
   {
     "at": "00:21:36.628",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. MIKE CROZIER (D)",
@@ -343,7 +343,7 @@
   },
   {
     "at": "00:21:52.511",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -357,7 +357,7 @@
   },
   {
     "at": "00:22:46.398",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -371,7 +371,7 @@
   },
   {
     "at": "00:23:08.754",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MAMORU YAMASAKI (D)\n\nChair, Ways and Means\n\nCommittee",
@@ -385,7 +385,7 @@
   },
   {
     "at": "00:24:40.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MAMORU YAMASAKI (D)\n\nChair, Ways and Means\n\nCommittee",
@@ -399,7 +399,7 @@
   },
   {
     "at": "00:25:22.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MAMORU YAMASAKI (D)\n\nChair, Ways and Means\n\nCommittee",
@@ -413,7 +413,7 @@
   },
   {
     "at": "00:25:40.272",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -427,7 +427,7 @@
   },
   {
     "at": "00:26:38.263",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -441,7 +441,7 @@
   },
   {
     "at": "00:27:02.754",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. JOSEPH SOUKI (D)\n\nChair, House Finance Committee",
@@ -455,7 +455,7 @@
   },
   {
     "at": "00:27:49.501",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MAMORU YAMASAKI (D)\n\nChair, Senate Ways and Means\n\nCommittee",
@@ -469,7 +469,7 @@
   },
   {
     "at": "00:29:08.513",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. JOSEPH SOUKI (D)\n\nChair, House Finance Committee",
@@ -483,7 +483,7 @@
   },
   {
     "at": "00:29:38.143",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MAMORU YAMASAKI (D)\n\nChair, Senate Ways and Means\n\nCommittee",
@@ -497,7 +497,7 @@
   },
   {
     "at": "00:30:12.777",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -511,7 +511,7 @@
   },
   {
     "at": "00:31:12.770",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -525,7 +525,7 @@
   },
   {
     "at": "00:32:11.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. ANN KOBAYASHI (R)",
@@ -537,7 +537,7 @@
   },
   {
     "at": "00:33:32.143",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -551,7 +551,7 @@
   },
   {
     "at": "00:34:33.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -565,7 +565,7 @@
   },
   {
     "at": "00:34:56.027",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MILILANI TRASK",
@@ -577,7 +577,7 @@
   },
   {
     "at": "00:35:56.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ANDREW LEVIN (D)\n\nChair, Water, Land Use\n\nDev., & Hawaiian Affairs Com.",
@@ -591,7 +591,7 @@
   },
   {
     "at": "00:37:00.251",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ANDREW LEVIN (D)\n\nChair, Water, Land Use\n\nDev., & Hawaiian Affairs Com.",
@@ -605,7 +605,7 @@
   },
   {
     "at": "00:37:54.772",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ANDREW LEVIN (D)\n\nChair, Water, Land Use\n\nDev., & Hawaiian Affairs Com.",
@@ -619,7 +619,7 @@
   },
   {
     "at": "00:38:20.765",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -633,7 +633,7 @@
   },
   {
     "at": "00:39:13.517",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -647,7 +647,7 @@
   },
   {
     "at": "00:39:29.633",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MARY-JANE McMURDO (D)\n\nChair, Senate Human Services\n\nCommittee",
@@ -661,7 +661,7 @@
   },
   {
     "at": "00:40:13.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. DENNIS ARAKAKI (D)\n\nVice Chair, House Human Services\n\nCommittee",
@@ -675,7 +675,7 @@
   },
   {
     "at": "00:41:28.018",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. DENNIS ARAKAKI (D)\n\nVice Chair, House Human Services\n\nCommittee",
@@ -689,7 +689,7 @@
   },
   {
     "at": "00:42:11.529",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MARY-JANE McMURDO (D)\n\nChair, Senate Human Services\n\nCommittee",
@@ -703,7 +703,7 @@
   },
   {
     "at": "00:42:48.399",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -717,7 +717,7 @@
   },
   {
     "at": "00:43:39.883",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -731,7 +731,7 @@
   },
   {
     "at": "00:43:58.636",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ROLAND KOTANI (D)",
@@ -743,7 +743,7 @@
   },
   {
     "at": "00:44:35.372",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. DWIGHT TAKAMINE (D)\n\nChair, House Labor Committee",
@@ -757,7 +757,7 @@
   },
   {
     "at": "00:45:12.876",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. ROLAND KOTANI (D)",
@@ -769,7 +769,7 @@
   },
   {
     "at": "00:45:49.880",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. EMILIO ALCON (D)\n\nHouse Vice Speaker",
@@ -783,7 +783,7 @@
   },
   {
     "at": "00:46:21.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -797,7 +797,7 @@
   },
   {
     "at": "00:47:20.504",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -811,7 +811,7 @@
   },
   {
     "at": "00:48:17.027",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MALAMA SOLOMON (D)",
@@ -823,7 +823,7 @@
   },
   {
     "at": "00:48:37.014",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. BERTRAND KOBAYASHI (D)",
@@ -835,7 +835,7 @@
   },
   {
     "at": "00:49:00.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. MALAMA SOLOMON (D)",
@@ -847,7 +847,7 @@
   },
   {
     "at": "00:49:56.526",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROGER ULVELING\n\nDir., Dept. of Business & Econ. Dev.",
@@ -861,7 +861,7 @@
   },
   {
     "at": "00:50:14.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BENJAMIN BYON",
@@ -873,7 +873,7 @@
   },
   {
     "at": "00:50:51.515",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -887,7 +887,7 @@
   },
   {
     "at": "00:51:52.776",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -901,7 +901,7 @@
   },
   {
     "at": "00:52:56.373",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM WALDEN\n\nRealtor",
@@ -915,7 +915,7 @@
   },
   {
     "at": "00:53:32.509",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DONNA MERCADO KIM (D)\n\nHonolulu City Councilmember",
@@ -929,7 +929,7 @@
   },
   {
     "at": "00:54:04.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEMINIANO ARRE, JR.\n\nActing Honolulu City Finance\n\nDirector",
@@ -943,7 +943,7 @@
   },
   {
     "at": "00:54:47.384",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GEMINIANO ARRE, JR.\n\nActing Honolulu City Finance\n\nDirector",
@@ -957,7 +957,7 @@
   },
   {
     "at": "00:55:24.254",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -971,7 +971,7 @@
   },
   {
     "at": "00:56:15.872",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",
@@ -985,7 +985,7 @@
   },
   {
     "at": "00:56:38.027",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "E.M. BUSH\n\nHawaii Chamber of Commerce",
@@ -999,7 +999,7 @@
   },
   {
     "at": "00:56:57.247",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BEN TOYAMA\n\nPearl Harbor Union Rep.",
@@ -1013,7 +1013,7 @@
   },
   {
     "at": "00:58:45.388",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "HO`OIPO DECAMRA (DECAMBRA)\n\nAmerican Friends Service Com.",
@@ -1027,7 +1027,7 @@
   },
   {
     "at": "00:59:48.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LYNETTE LO TOM\n\nHawaii Public Television",

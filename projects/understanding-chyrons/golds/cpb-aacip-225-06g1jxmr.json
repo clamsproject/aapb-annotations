@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:03.016",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANDREW POEPOE\n\nSaiki in '88 Committee",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:58.504",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM DALY\n\nVoter Contact Services Pres.",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:04:45.151",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD JOUN\n\nState's Chief Economist",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:05:12.145",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ALEJANDRA PAJARILLO\n\nMaunakea Leis & Flowers",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:05:37.270",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SIU NG\n\nViolet's Lei Stand",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:05:45.878",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NINA BERGLUND\n\nElection Live",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:07:19.906",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GARY O. WALKER (R)",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:07:58.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MIKE McCARTNEY (D)",
@@ -109,7 +109,7 @@
   },
   {
     "at": "00:09:14.654",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GARY O. WALKER (R)",
@@ -121,7 +121,7 @@
   },
   {
     "at": "00:09:38.778",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MIKE McCARTNEY (D)",
@@ -133,7 +133,7 @@
   },
   {
     "at": "00:10:53.519",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GARY O. WALKER (R)",
@@ -145,7 +145,7 @@
   },
   {
     "at": "00:11:24.884",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MIKE McCARTNEY (D)",
@@ -157,7 +157,7 @@
   },
   {
     "at": "00:13:46.525",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "KATE STANLEY\n\nDukakis Campaign",
@@ -171,7 +171,7 @@
   },
   {
     "at": "00:14:17.523",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK SPENGLER\n\nBush Campaign",
@@ -185,7 +185,7 @@
   },
   {
     "at": "00:15:07.139",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EILEEN CHONG\n\nFasi Volunteer",
@@ -199,7 +199,7 @@
   },
   {
     "at": "00:15:42.141",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SUSAN ICHINOSE\n\nBornhorst Volunteer",
@@ -213,7 +213,7 @@
   },
   {
     "at": "00:15:59.892",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK SPENGLER\n\nBush Campaign",
@@ -227,7 +227,7 @@
   },
   {
     "at": "00:17:43.262",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EILEEN CHONG\n\nFasi Volunteer",
@@ -241,7 +241,7 @@
   },
   {
     "at": "00:18:52.397",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN TUTTLE\n\nPolitical Analyst",
@@ -255,7 +255,7 @@
   },
   {
     "at": "00:19:58.764",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nProfessor of History\n\nWest Oahu College",
@@ -270,7 +270,7 @@
   },
   {
     "at": "00:21:24.750",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN TUTTLE\n\nPolitical Analyst",
@@ -284,7 +284,7 @@
   },
   {
     "at": "00:22:54.272",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAN BOYLAN\n\nProfessor of History\n\nWest Oahu College",
@@ -299,7 +299,7 @@
   },
   {
     "at": "00:27:15.266",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "RICHARD BORRECA\n\nGovernment Bureau Chief\n\nHonolulu Star-Bulletin",
@@ -314,7 +314,7 @@
   },
   {
     "at": "00:28:17.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "LESLIE WILCOX\n\nELECTION LIVE",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:12.625",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bishop Donald E. Pelotte\n\nCoadjutor \u00e2\u20ac\u201c Gallup Diocese",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:10.877",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bishop Jerome Hastrich\n\nGallup Diocese",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:05:35.001",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Archbishop Robert Sanchez\n\nSanta Fe Archdiocese",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:06:08.501",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Freda Johns\n\nNative American Catholic",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:06:49.375",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dr. John Lincoln\n\nAdmin., St. Michaels High School",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:08:12.525",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Father Cormac Antram\n\nKayenta, Arizona",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:09:04.277",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bishop Donald E. Pelotte\n\nCoadjutor \u00e2\u20ac\u201c Gallup Diocese",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:12:07.760",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Archbishop Robert Sanchez\n\nSanta Fe Archdiocese",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:13:13.893",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bishop Donald E. Pelotte\n\nCoadjutor \u00e2\u20ac\u201c Gallup Diocese",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:17:04.156",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bishop Donald E. Pelotte\n\nCoadjutor \u00e2\u20ac\u201c Gallup Diocese",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:22:13.632",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bishop Donald E. Pelotte\n\nCoadjutor \u00e2\u20ac\u201c Gallup Diocese",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:29:06.644",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tim Prythero\n\nArtist",
@@ -167,7 +167,7 @@
   },
   {
     "at": "00:42:56.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Moore\n\nDirector, Albuquerque Museum",
@@ -181,7 +181,7 @@
   },
   {
     "at": "00:45:10.774",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wesley Rusnell\n\nCurator, Roswell Museum & Art Ctr.",
@@ -195,7 +195,7 @@
   },
   {
     "at": "00:49:45.382",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Wesley Rusnell\n\nCurator, Roswell Museum & Art Ctr.",
@@ -209,7 +209,7 @@
   },
   {
     "at": "00:53:32.876",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kumar Frantzis",
@@ -221,7 +221,7 @@
   },
   {
     "at": "00:54:09.012",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Russell Lee",
@@ -233,7 +233,7 @@
   },
   {
     "at": "00:54:30.267",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Rod Earnest",
@@ -245,7 +245,7 @@
   },
   {
     "at": "00:55:27.624",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gary Kidd",

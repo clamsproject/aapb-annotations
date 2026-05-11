@@ -1,7 +1,7 @@
 [
   {
     "at": "00:07:32.018",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bruce Smith\n\nCEO\n\nTesoro Corp.",
@@ -16,7 +16,7 @@
   },
   {
     "at": "00:11:15.141",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Ed Kubo\n\nU.S. Attorney",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:13:20.900",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Debbie Goodwin\n\nKeck Observatory",
@@ -44,7 +44,7 @@
   },
   {
     "at": "00:18:58.770",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Andrew Rossiter\n\nDirector\n\nWaikiki Aquarium",

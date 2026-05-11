@@ -1,7 +1,7 @@
 [
   {
     "at": "00:02:18.138",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PHILIP B. KURLAND\n\nPROFESSOR OF LAW\n\nUNIVERSITY OF CHICAGO",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:03:07.387",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN C. SATTERFIELD\n\nFORMER PRESIDENT OF\nAMERICAN BAR ASSOCIATION",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:04:33.640",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT MORRIS\n\nPRESIDENT\n\nUNIVERSITY OF PLANO,\nTEXAS",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:05:08.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SIDNEY HYMAN\n\nSENIOR FELLOW\n\nADLAI STEVENSON INSTITUTE",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:12:21.640",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT MORRIS\n\nPRESIDENT\n\nUNIVERSITY OF PLANO,\nTEXAS",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:12:43.129",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PHILIP B. KURLAND\n\nPROFESSOR OF LAW\n\nUNIVERSITY OF CHICAGO",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:13:27.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SIDNEY HYMAN\n\nSENIOR FELLOW\n\nADLAI STEVENSON INSTITUTE",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:17:13.766",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN C. SATTERFIELD\n\nFORMER PRESIDENT OF\nAMERICAN BAR ASSOCIATION",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:20:00.766",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "PHILIP B. KURLAND\n\nPROFESSOR OF LAW\n\nUNIVERSITY OF CHICAGO",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:21:25.884",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOHN C. SATTERFIELD\n\nFORMER PRESIDENT OF\nAMERICAN BAR ASSOCIATION",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:21:51.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SIDNEY HYMAN\n\nSENIOR FELLOW\n\nADLAI STEVENSON INSTITUTE",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:22:21.506",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT MORRIS\n\nPRESIDENT\n\nUNIVERSITY OF PLANO,\nTEXAS",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:08:36.883",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. JOHN DANFORTH\n\n(R) Missouri",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:08:59.138",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. CARL LEVIN\n\n(D) Michigan",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:11:52.011",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID GERGEN\n\nU.S. News & World Report",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:12:32.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK SHIELDS\n\nWashington Post",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:15:11.510",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID GERGEN\n\nU.S. News & World Report",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:16:36.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK SHIELDS\n\nWashington Post",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:21:20.779",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GERALD WARREN\n\nSan Diego Union",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:21:52.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BRAD TILLSON\n\nDayton Daily News",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:22:20.272",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL KOVACH\n\nAtlanta Journal-Constitution",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:23:39.651",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID GERGEN\n\nU.S. News & World Report",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:24:11.249",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GERALD WARREN\n\nSan Diego Union",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:24:32.003",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL KOVACH\n\nAtlanta Journal-Constitution",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:25:05.136",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK SHIELDS\n\nWashington Post",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:26:37.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GERALD WARREN\n\nSan Diego Union",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:28:29.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GERALD WARREN\n\nSan Diego Union",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:29:24.896",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BRAD TILLSON\n\nDayton Daily News",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:30:03.134",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL KOVACH\n\nAtlanta Journal-Constitution",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:30:44.642",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BRAD TILLSON\n\nDayton Daily News",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:30:54.752",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GERALD WARREN\n\nSan Diego Union",
@@ -267,7 +267,7 @@
   },
   {
     "at": "00:31:24.749",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK SHIELDS\n\nWashington Post",
@@ -281,7 +281,7 @@
   },
   {
     "at": "00:32:34.385",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID GERGEN\n\nU.S. News & World Report",
@@ -295,7 +295,7 @@
   },
   {
     "at": "00:33:09.387",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL KOVACH\n\nAtlanta Journal-Constitution",
@@ -309,7 +309,7 @@
   },
   {
     "at": "00:33:43.654",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BRAD TILLSON\n\nDayton Daily News",
@@ -323,7 +323,7 @@
   },
   {
     "at": "00:34:02.640",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "GERALD WARREN\n\nSan Diego Union",
@@ -337,7 +337,7 @@
   },
   {
     "at": "00:34:46.651",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL KOVACH\n\nAtlanta Journal-Constitution",
@@ -351,7 +351,7 @@
   },
   {
     "at": "00:37:32.650",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BRAD TILLSON\n\nDayton Daily News",
@@ -365,7 +365,7 @@
   },
   {
     "at": "00:38:18.396",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DAVID GERGEN\n\nU.S. News & World Report",
@@ -379,7 +379,7 @@
   },
   {
     "at": "00:48:45.622",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP JOHN SHELBY SPONG\n\nNewark",
@@ -393,7 +393,7 @@
   },
   {
     "at": "00:49:48.018",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP WILLIAM WANTLAND\n\nEau Claire, Wisconsin",
@@ -407,7 +407,7 @@
   },
   {
     "at": "00:50:28.525",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP JOHN SHELBY SPONG\n\nNewark",
@@ -421,7 +421,7 @@
   },
   {
     "at": "00:51:16.006",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP WILLIAM WANTLAND\n\nEau Claire, Wisconsin",
@@ -435,7 +435,7 @@
   },
   {
     "at": "00:54:10.647",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP WILLIAM WANTLAND\n\nEau Claire, Wisconsin",
@@ -449,7 +449,7 @@
   },
   {
     "at": "00:55:15.278",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP JOHN SHELBY SPONG\n\nNewark",
@@ -463,7 +463,7 @@
   },
   {
     "at": "00:55:56.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BISHOP WILLIAM WANTLAND\n\nEau Claire, Wisconsin",

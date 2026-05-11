@@ -1,7 +1,7 @@
 [
   {
     "at": "00:00:21.888",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. FRANCES FOX PIVEN\n\nCO-AUTHOR: \"REGULATING THE POOR\"",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:01:54.147",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Moshofsky\n\nV.P. Georgia Pacific Corp.",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:03:46.626",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Michael Harrington\n\nauthor:\"The Other America\"",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:04:54.761",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ROBERT STRAUB\n\nOREGON GOVERNOR",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:05:51.751",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "TOM McCALL\n\nFORMER OREGON GOVERNOR",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:07:22.275",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NEIL GOLDSCHMIDT\n\nMAYOR OF PORTLAND",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:08:47.393",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JUNE JORDAN\n\nPOET",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:10:41.507",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NEIL GOLDSCHMIDT\n\nMayor, City of Portland",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:11:45.638",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. BERTRAM M. GROSS\n\nPROF:URBAN AFFAIRS, HUNTER COLLEGE",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:14:39.378",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM MOSHOFSKY\n\nVICE PRES. GEORGIA PACIFIC CORP.",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:15:05.504",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES C. CORMAN\n\nCALIFORNIA CONGRESSMAN",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:18:04.383",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CASPAR WEINBERGER\n\nFORMER SECRETARY H.E.W.",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:23:01.279",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "MARK HATFIELD\n\nOREGON SENATOR",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:26:12.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "AL ULLMAN\n\nOREGON CONGRESSMAN",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:28:01.646",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CASPAR WEINBERGER\n\nFORMER SECRETARY H.E.W.",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:30:52.150",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "EDITH GREEN\n\nFORMER CONGRESSWOMAN",
@@ -225,7 +225,7 @@
   },
   {
     "at": "00:35:13.277",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ALVIN SCHORR, Dir.\n\nCOMMUNITY SERVICE SOCIETY, N.Y.C.",
@@ -239,7 +239,7 @@
   },
   {
     "at": "00:37:27.278",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. BERTRAM GROSS\n\nPROF.URBAN AFFAIRS, HUNTER COLLEGE",
@@ -253,7 +253,7 @@
   },
   {
     "at": "00:40:22.153",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WILLIAM MOSHOFSKY",
@@ -265,7 +265,7 @@
   },
   {
     "at": "00:42:25.142",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES C. CORMAN",
@@ -277,7 +277,7 @@
   },
   {
     "at": "00:43:07.251",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "CASPAR WEINBERGER",
@@ -289,7 +289,7 @@
   },
   {
     "at": "00:47:45.529",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "DR. FRANCES FOX PIVEN\n\nPROF. POL. SCI. U OF B",
@@ -303,7 +303,7 @@
   },
   {
     "at": "00:54:34.137",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "VERA KATZ\n\nOREGON STATE REPRESENTATIVE",
@@ -317,7 +317,7 @@
   },
   {
     "at": "00:55:59.022",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "NORMAN WYERS\n\nSCH. OF SOCIAL WORK, PORTLAND STATE",

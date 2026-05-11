@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:26.019",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Susan Ford Vance",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:01:32.392",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynda Johnson Robb",
@@ -25,7 +25,7 @@
   },
   {
     "at": "00:03:47.760",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Clark Clifford \n\nADVISOR TO PRESIDENTS\n\nTRUMAN, KENNEDY, JOHNSON, CARTER",
@@ -39,7 +39,7 @@
   },
   {
     "at": "00:04:01.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "H.R. Haldeman\n\nCHIEF OF STAFF \n\nNIXON ADMINISTRATION",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:05:00.133",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Gulley\n\nWHITE HOUSE MILITARY OFFICE\n\n1966-1977",
@@ -67,7 +67,7 @@
   },
   {
     "at": "00:07:00.753",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "George Wireman\n\nTHURMONT HISTORIAN",
@@ -81,7 +81,7 @@
   },
   {
     "at": "00:16:56.281",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Cdr. William M. Rigdon\n\nNAVAL AIDE & CAMP COMMANDER\n\nROOSEVELT & TRUMAN ADMINISTRATIONS",
@@ -96,7 +96,7 @@
   },
   {
     "at": "00:21:03.762",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "David Eisenhower",
@@ -108,7 +108,7 @@
   },
   {
     "at": "00:24:07.379",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Michael Beschloss\n\nPRESIDENTIAL HISTORIAN",
@@ -122,7 +122,7 @@
   },
   {
     "at": "00:24:39.878",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Gen. Andrew Goodpaster\n\nSTAFF SECRETARY\n\nEISENHOWER ADMINISTRATION",
@@ -136,7 +136,7 @@
   },
   {
     "at": "00:27:35.020",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dave Powers\n\nMUSEUM CURATOR \n\nJOHN F. KENNEDY LIBRARY",
@@ -150,7 +150,7 @@
   },
   {
     "at": "00:30:31.529",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Lynda Johnson Robb",
@@ -162,7 +162,7 @@
   },
   {
     "at": "00:31:51.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Bill Gulley\n\nWHITE HOUSE MILITARY OFFICE\n\n1966-1977",
@@ -176,7 +176,7 @@
   },
   {
     "at": "00:32:25.376",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Clark Clifford \n\nSECRETARY OF DEFENSE\n\nJOHNSON ADMINISTRATION",
@@ -190,7 +190,7 @@
   },
   {
     "at": "00:33:53.031",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "H.R. Haldeman\n\nCHIEF OF STAFF \n\nNIXON ADMINISTRATION",
@@ -204,7 +204,7 @@
   },
   {
     "at": "00:35:39.137",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Julie Nixon Eisenhower",
@@ -216,7 +216,7 @@
   },
   {
     "at": "00:38:54.632",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Dick Cheney\n\nCHIEF OF STAFF\n\nFORD ADMINISTRATION",
@@ -230,7 +230,7 @@
   },
   {
     "at": "00:39:17.521",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Susan Ford Vance",
@@ -242,7 +242,7 @@
   },
   {
     "at": "00:40:46.010",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jody Powell\n\nPRESS SECRETARY\n\nCARTER ADMINISTRATION",
@@ -256,7 +256,7 @@
   },
   {
     "at": "00:41:29.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Hamilton Jordan\n\nCHIEF OF STAFF\n\nCARTER ADMINISTRATION",
@@ -270,7 +270,7 @@
   },
   {
     "at": "00:43:20.631",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jihan Sadat",
@@ -282,7 +282,7 @@
   },
   {
     "at": "00:47:02.519",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "James A. Baker, III\n\nCHIEF OF STAFF, FIRST TERM\n\nREAGAN ADMINISTRATION",

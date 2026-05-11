@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:00.026",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:02:36.256",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nDistinguished Service Professor of Economics, Univ. of Chicag",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:03:15.762",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nDistinguished Service Professor of Economics, Univ. of Chicag",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:04:10.750",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nRecipient, 2007 Nobel Memorial Prize, Economic Sciences",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:05:11.277",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nDistinguished Service Professor of Economics, Univ. of Chicag",
@@ -69,7 +69,7 @@
   },
   {
     "at": "00:07:08.261",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nRecipient, 2007 Nobel Memorial Prize, Economic Sciences",
@@ -83,7 +83,7 @@
   },
   {
     "at": "00:10:14.780",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nRecipient, 2007 Nobel Memorial Prize, Economic Sciences",
@@ -97,7 +97,7 @@
   },
   {
     "at": "00:11:19.779",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",
@@ -109,7 +109,7 @@
   },
   {
     "at": "00:12:05.891",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nDistinguished Service Professor of Economics, Univ. of Chicag",
@@ -123,7 +123,7 @@
   },
   {
     "at": "00:13:03.382",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Geoffrey Simon",
@@ -135,7 +135,7 @@
   },
   {
     "at": "00:13:24.770",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nDistinguished Service Professor of Economics, Univ. of Chicag",
@@ -149,7 +149,7 @@
   },
   {
     "at": "00:15:08.874",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nRecipient, 2007 Nobel Memorial Prize, Economic Sciences",
@@ -163,7 +163,7 @@
   },
   {
     "at": "00:19:39.144",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nRecipient, 2007 Nobel Memorial Prize, Economic Sciences",
@@ -177,7 +177,7 @@
   },
   {
     "at": "00:21:59.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Roger B. Myerson, Ph.D.\n\nDistinguished Service Professor of Economics, Univ. of Chicag",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:51.030",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Robbie Alm\n\nVP, Hawaiian Electric",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:10:25.891",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Puakea Nogelmeier\n\nHawaiian Translator",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:19:00.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Walt Wrzesniewski\n\nU.S. Coast Guard",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:21:59.518",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Maili Davenport Lum\n\nNutcracker Sweet Festival 2006",

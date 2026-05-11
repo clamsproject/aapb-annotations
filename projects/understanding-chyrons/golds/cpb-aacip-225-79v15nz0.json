@@ -1,7 +1,7 @@
 [
   {
     "at": "00:07:04.157",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES WAKATSUKI\n\nSPEAKER OF THE HOUSE",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:15:30.763",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JAMES WAKATSUKI\n\nSPEAKER OF THE HOUSE",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:22:16.902",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "SEN. DUKE KAWASAKI",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:28:40.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. KINAU KAMALII",
@@ -53,7 +53,7 @@
   },
   {
     "at": "00:30:40.905",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "REP. HENRY PETERS",

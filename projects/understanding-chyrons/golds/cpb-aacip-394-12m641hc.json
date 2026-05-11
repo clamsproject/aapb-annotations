@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:08.514",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALL STREET WEEK WITH FORTUNE\n\nSallie Krawcheck\n\nCEO, Sanford C. Bernstein & Co.",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:05:27.527",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALL STREET WEEK WITH FORTUNE\n\nSallie Krawcheck\n\nCEO, Sanford C. Bernstein & Co.",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:08:22.502",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALL STREET WEEK WITH FORTUNE\n\nSallie Krawcheck\n\nCEO, Sanford C. Bernstein & Co.",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:12:44.764",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALL STREET WEEK WITH FORTUNE\n\nVadim Zlotnikov\n\nSanford C. Bernstein & Co.",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:16:33.258",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALL STREET WEEK WITH FORTUNE\n\nVadim Zlotnikov\n\nSanford C. Bernstein & Co.",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:19:24.530",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALL STREET WEEK WITH FORTUNE\n\nAlex Hittle\n\nA.G. Edwards",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:20:14.012",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "WALL STREET WEEK WITH FORTUNE\n\nCraig West\n\nA.G. Edwards",

@@ -1,7 +1,7 @@
 [
   {
     "at": "00:03:57.136",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Steve Johnson\n\nKazi Foods",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:09:34.006",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Virginia Easton Smith\n\nUH Agricultural Extension Agent",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:14:41.013",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Mark Gilbert\n\nVP\n\nCommercial Data Systems",
@@ -44,7 +44,7 @@
   },
   {
     "at": "00:20:17.149",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jane Sawyer\n\nSBA of Honolulu",

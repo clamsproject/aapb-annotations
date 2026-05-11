@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:32.639",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Calvin Say\n\nSpeaker of the House",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:14:25.531",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Joe Davis\n\nGeneral Manager\n\nHawaii Convention Center",
@@ -30,7 +30,7 @@
   },
   {
     "at": "00:19:07.379",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Martin Yan\n\nTv Chef And Author",

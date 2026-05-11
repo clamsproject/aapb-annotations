@@ -1,7 +1,7 @@
 [
   {
     "at": "00:01:58.384",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "FORD ROWAN",
@@ -13,7 +13,7 @@
   },
   {
     "at": "00:02:29.782",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANDREW MANDERSTAM\n\nITN - CHANNEL 4, GREAT BRITAIN",
@@ -27,7 +27,7 @@
   },
   {
     "at": "00:02:54.641",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOE SCHLESINGER\n\nCBC, CANADA",
@@ -41,7 +41,7 @@
   },
   {
     "at": "00:03:09.656",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "YASUO SUZUKI\n\nTHE YOMIURI SHIMBUN, JAPAN",
@@ -55,7 +55,7 @@
   },
   {
     "at": "00:05:34.400",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JILL JAMIESON",
@@ -67,7 +67,7 @@
   },
   {
     "at": "00:06:12.638",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "BILL JAMIESON",
@@ -79,7 +79,7 @@
   },
   {
     "at": "00:07:33.653",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANDREW MANDERSTAM\n\nITN - CHANNEL 4, GREAT BRITAIN",
@@ -93,7 +93,7 @@
   },
   {
     "at": "00:14:15.254",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "JOE SCHLESINGER\n\nCBC, CANADA",
@@ -107,7 +107,7 @@
   },
   {
     "at": "00:15:05.905",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "ANDREW MANDERSTAM\n\nITN - CHANNEL 4, GREAT BRITAIN",
@@ -121,7 +121,7 @@
   },
   {
     "at": "00:15:59.258",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "YASUO SUZUKI\n\nTHE YOMIURI SHIMBUN, JAPAN",
@@ -135,7 +135,7 @@
   },
   {
     "at": "00:20:46.378",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "YASUO SUZUKI\n\nTHE YOMIURI SHIMBUN, JAPAN",

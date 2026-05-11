@@ -1,7 +1,7 @@
 [
   {
     "at": "00:04:03.276",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jonathan Ornstein\n\nCEO, Mesa Air",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:10:32.898",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Kay Mukaigawa\n\nOahu Realtor",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:18:29.274",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Tony Guerrero\n\nPresident, Friend of Hawaii",

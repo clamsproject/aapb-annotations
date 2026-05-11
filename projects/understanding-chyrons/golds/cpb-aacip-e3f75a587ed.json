@@ -1,7 +1,7 @@
 [
   {
     "at": "00:06:41.501",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "npr \nnews\n\nRick Karr\n\nCORRESPONDENT",
@@ -15,7 +15,7 @@
   },
   {
     "at": "00:09:20.760",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jack Valenti\n\nMOTION PICTURE ASSOCIATION OF AMERICA",
@@ -29,7 +29,7 @@
   },
   {
     "at": "00:14:22.128",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Nancy Kranich\n\nPAST PRESIDENT, AMERICAN LIBRARY ASSOCIATION",
@@ -43,7 +43,7 @@
   },
   {
     "at": "00:15:18.885",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Eben Moglen\n\nCOLUMBIA LAW SCHOOL",
@@ -57,7 +57,7 @@
   },
   {
     "at": "00:20:06.006",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Jim Griffin\n\nCherry Lane Digital",
@@ -71,7 +71,7 @@
   },
   {
     "at": "00:21:18.645",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Pat Schroeder\n\nASSOCIATION OF AMERICAN PUBLISHERS",
@@ -85,7 +85,7 @@
   },
   {
     "at": "00:28:01.514",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Gates, Sr.\n\nCO-CHAIRMAN, BILL & MELINDA GATES FOUNDATION",
@@ -99,7 +99,7 @@
   },
   {
     "at": "00:29:32.505",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chuck Collins\n\nCO-FOUNDER, RESPONSIBLE WEALTH",
@@ -113,7 +113,7 @@
   },
   {
     "at": "00:30:04.904",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Gates, Sr.\n\nCO-CHAIRMAN, BILL & MELINDA GATES FOUNDATION",
@@ -127,7 +127,7 @@
   },
   {
     "at": "00:32:53.907",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Gates, Sr.\n\nCO-CHAIRMAN, BILL & MELINDA GATES FOUNDATION",
@@ -141,7 +141,7 @@
   },
   {
     "at": "00:34:10.650",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chuck Collins\n\nCO-FOUNDER, RESPONSIBLE WEALTH",
@@ -155,7 +155,7 @@
   },
   {
     "at": "00:35:04.004",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Gates, Sr.\n\nCO-CHAIRMAN, BILL & MELINDA GATES FOUNDATION",
@@ -169,7 +169,7 @@
   },
   {
     "at": "00:36:46.906",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chuck Collins\n\nCO-FOUNDER, RESPONSIBLE WEALTH",
@@ -183,7 +183,7 @@
   },
   {
     "at": "00:37:20.407",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "William Gates, Sr.\n\nCO-CHAIRMAN, BILL & MELINDA GATES FOUNDATION",
@@ -197,7 +197,7 @@
   },
   {
     "at": "00:38:57.404",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Chuck Collins\n\nCO-FOUNDER, RESPONSIBLE WEALTH",
@@ -211,7 +211,7 @@
   },
   {
     "at": "00:41:02.762",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "npr\nnews\n\nJacki Lyden",
@@ -223,7 +223,7 @@
   },
   {
     "at": "00:43:14.394",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "npr\nnews\n\nJacki Lyden",
@@ -235,7 +235,7 @@
   },
   {
     "at": "00:44:51.891",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Devra Davis\n\nAUTHOR, \"WHEN SMOKE RAN LIKE WATER\"",
@@ -249,7 +249,7 @@
   },
   {
     "at": "00:47:08.028",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Devra Davis\n\nAUTHOR, \"WHEN SMOKE RAN LIKE WATER\"",
@@ -263,7 +263,7 @@
   },
   {
     "at": "00:49:18.391",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Devra Davis\n\nAUTHOR, \"WHEN SMOKE RAN LIKE WATER\"",
@@ -277,7 +277,7 @@
   },
   {
     "at": "00:54:00.140",
-    "scene-lebal": "I",
+    "scene-label": "I",
     "scene-subtype-label": "",
     "transitional": false,
     "text-transcript": "Devra Davis\n\nAUTHOR, \"WHEN SMOKE RAN LIKE WATER\"",
