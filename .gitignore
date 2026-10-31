@@ -4,6 +4,9 @@
 .directory # KDE directory preferences
 .Trash-* # Linux trash folder which might appear on any partition or disk
 
+# specific settings
+projects/spoken-lid/mappings.py
+
 # macos
 .DS_Store
 .AppleDouble
@@ -135,6 +138,7 @@ celerybeat.pid
 # Virtual Environments
 .env
 .venv
+venv*
 env/
 venv/
 ENV/
