@@ -1,11 +1,11 @@
+# specific settings for this repo
+projects/spoken-lid/mappings.py
+
 # linux
 .*.sw?
 *~
 .directory # KDE directory preferences
 .Trash-* # Linux trash folder which might appear on any partition or disk
-
-# specific settings
-projects/spoken-lid/mappings.py
 
 # macos
 .DS_Store

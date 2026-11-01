@@ -1,0 +1,430 @@
+"id","username","clip_id","guid","start_sec","end_sec","duration_sec","video_filename","audio_filename","video_codec_used","label","updated_at","view_count","total_time_sec","last_visit_started_at","is_edit","dataset_name","notes","mixed_order"
+10116,"a3","cpb-aacip-b1235711162.mp4_0001_0.00_15.20","cpb-aacip-b1235711162.mp4",0.0,15.2,15.2,"cpb-aacip-b1235711162.mp4_0001_0.00_15.20.mp4","cpb-aacip-b1235711162.mp4_0001_0.00_15.20.wav","","other","2026-08-10 14:45:23",1,0.0,1786373115.3153863,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio.",""
+10117,"a3","cpb-aacip-b1235711162.mp4_0002_14.80_30.20","cpb-aacip-b1235711162.mp4",14.8,30.2,15.4,"cpb-aacip-b1235711162.mp4_0002_14.80_30.20.mp4","cpb-aacip-b1235711162.mp4_0002_14.80_30.20.wav","","other","2026-08-10 14:45:27",1,0.0,1786373124.0427268,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10118,"a3","cpb-aacip-b1235711162.mp4_0002_14.80_30.20","cpb-aacip-b1235711162.mp4",14.8,30.2,15.4,"cpb-aacip-b1235711162.mp4_0002_14.80_30.20.mp4","cpb-aacip-b1235711162.mp4_0002_14.80_30.20.wav","","other","2026-08-10 14:45:34",1,0.0,1786373124.0427268,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10119,"a3","cpb-aacip-b1235711162.mp4_0003_29.80_41.88","cpb-aacip-b1235711162.mp4",29.8,41.88,12.08,"cpb-aacip-b1235711162.mp4_0003_29.80_41.88.mp4","cpb-aacip-b1235711162.mp4_0003_29.80_41.88.wav","","other","2026-08-10 14:45:37",1,0.0,1786373135.108298,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10120,"a3","cpb-aacip-b1235711162.mp4_0003_29.80_41.88","cpb-aacip-b1235711162.mp4",29.8,41.88,12.08,"cpb-aacip-b1235711162.mp4_0003_29.80_41.88.mp4","cpb-aacip-b1235711162.mp4_0003_29.80_41.88.wav","","other","2026-08-10 14:45:42",1,0.0,1786373135.108298,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10121,"a3","cpb-aacip-b1235711162.mp4_0004_43.03_61.81","cpb-aacip-b1235711162.mp4",43.03,61.81,18.78,"cpb-aacip-b1235711162.mp4_0004_43.03_61.81.mp4","cpb-aacip-b1235711162.mp4_0004_43.03_61.81.wav","","english","2026-08-10 14:45:58",1,0.0,1786373142.5134583,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10122,"a3","cpb-aacip-b1235711162.mp4_0005_64.31_74.39","cpb-aacip-b1235711162.mp4",64.31,74.39,10.08,"cpb-aacip-b1235711162.mp4_0005_64.31_74.39.mp4","cpb-aacip-b1235711162.mp4_0005_64.31_74.39.wav","","english","2026-08-10 14:46:40",1,0.0,1786373183.5571978,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10123,"a3","cpb-aacip-b1235711162.mp4_0005_64.31_74.39","cpb-aacip-b1235711162.mp4",64.31,74.39,10.08,"cpb-aacip-b1235711162.mp4_0005_64.31_74.39.mp4","cpb-aacip-b1235711162.mp4_0005_64.31_74.39.wav","","other","2026-08-10 14:46:41",1,0.0,1786373183.5571978,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10124,"a3","cpb-aacip-b1235711162.mp4_0005_64.31_74.39","cpb-aacip-b1235711162.mp4",64.31,74.39,10.08,"cpb-aacip-b1235711162.mp4_0005_64.31_74.39.mp4","cpb-aacip-b1235711162.mp4_0005_64.31_74.39.wav","","other","2026-08-10 14:46:46",1,0.0,1786373183.5571978,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10125,"a3","cpb-aacip-b1235711162.mp4_0006_74.66_90.06","cpb-aacip-b1235711162.mp4",74.66,90.06,15.4,"cpb-aacip-b1235711162.mp4_0006_74.66_90.06.mp4","cpb-aacip-b1235711162.mp4_0006_74.66_90.06.wav","","spanish","2026-08-10 14:46:55",1,0.0,1786373206.383297,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10126,"a3","cpb-aacip-b1235711162.mp4_0006_74.66_90.06","cpb-aacip-b1235711162.mp4",74.66,90.06,15.4,"cpb-aacip-b1235711162.mp4_0006_74.66_90.06.mp4","cpb-aacip-b1235711162.mp4_0006_74.66_90.06.wav","","mixed","2026-08-10 14:46:57",1,0.0,1786373206.383297,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10127,"a3","cpb-aacip-b1235711162.mp4_0006_74.66_90.06","cpb-aacip-b1235711162.mp4",74.66,90.06,15.4,"cpb-aacip-b1235711162.mp4_0006_74.66_90.06.mp4","cpb-aacip-b1235711162.mp4_0006_74.66_90.06.wav","","english","2026-08-10 14:47:33",1,0.0,1786373206.383297,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Audio: doblaje latinoamericano",""
+10128,"a3","cpb-aacip-b1235711162.mp4_0006_74.66_90.06","cpb-aacip-b1235711162.mp4",74.66,90.06,15.4,"cpb-aacip-b1235711162.mp4_0006_74.66_90.06.mp4","cpb-aacip-b1235711162.mp4_0006_74.66_90.06.wav","","english","2026-08-10 14:47:50",1,0.0,1786373206.383297,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Audio: English. Written language on screen is Spanish",""
+10129,"a3","cpb-aacip-b1235711162.mp4_0007_89.66_105.06","cpb-aacip-b1235711162.mp4",89.66,105.06,15.4,"cpb-aacip-b1235711162.mp4_0007_89.66_105.06.mp4","cpb-aacip-b1235711162.mp4_0007_89.66_105.06.wav","","mixed","2026-08-10 14:48:36",2,23.62004518508911,1786373300.2049716,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10130,"a3","cpb-aacip-b1235711162.mp4_0007_89.66_105.06","cpb-aacip-b1235711162.mp4",89.66,105.06,15.4,"cpb-aacip-b1235711162.mp4_0007_89.66_105.06.mp4","cpb-aacip-b1235711162.mp4_0007_89.66_105.06.wav","","mixed","2026-08-10 14:49:13",2,23.62004518508911,1786373300.2049716,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman singing: English
+Man singing: Spanish",""
+10131,"a3","cpb-aacip-b1235711162.mp4_0008_104.66_121.46","cpb-aacip-b1235711162.mp4",104.66,121.46,16.8,"cpb-aacip-b1235711162.mp4_0008_104.66_121.46.mp4","cpb-aacip-b1235711162.mp4_0008_104.66_121.46.wav","","spanish","2026-08-10 14:49:28",1,0.0,1786373353.6395802,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10132,"a3","cpb-aacip-b1235711162.mp4_0009_123.71_133.19","cpb-aacip-b1235711162.mp4",123.71,133.19,9.48,"cpb-aacip-b1235711162.mp4_0009_123.71_133.19.mp4","cpb-aacip-b1235711162.mp4_0009_123.71_133.19.wav","","mixed","2026-08-10 14:49:58",1,0.0,1786373382.769099,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10133,"a3","cpb-aacip-b1235711162.mp4_0010_133.34_147.66","cpb-aacip-b1235711162.mp4",133.34,147.66,14.31,"cpb-aacip-b1235711162.mp4_0010_133.34_147.66.mp4","cpb-aacip-b1235711162.mp4_0010_133.34_147.66.wav","","mixed","2026-08-10 14:50:13",1,0.0,1786373402.9275458,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10134,"a3","cpb-aacip-b1235711162.mp4_0010_133.34_147.66","cpb-aacip-b1235711162.mp4",133.34,147.66,14.31,"cpb-aacip-b1235711162.mp4_0010_133.34_147.66.mp4","cpb-aacip-b1235711162.mp4_0010_133.34_147.66.wav","","mixed","2026-08-10 14:51:04",1,0.0,1786373402.9275458,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+Accent: English as a second language",""
+10135,"a3","cpb-aacip-b1235711162.mp4_0011_147.26_154.11","cpb-aacip-b1235711162.mp4",147.26,154.11,6.85,"cpb-aacip-b1235711162.mp4_0011_147.26_154.11.mp4","cpb-aacip-b1235711162.mp4_0011_147.26_154.11.wav","","english","2026-08-10 14:51:25",1,0.0,1786373464.9104702,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10136,"a3","cpb-aacip-b1235711162.mp4_0012_155.27_169.43","cpb-aacip-b1235711162.mp4",155.27,169.43,14.15,"cpb-aacip-b1235711162.mp4_0012_155.27_169.43.mp4","cpb-aacip-b1235711162.mp4_0012_155.27_169.43.wav","","english","2026-08-10 14:51:46",1,0.0,1786373488.2153895,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10137,"a3","cpb-aacip-b1235711162.mp4_0010_133.34_147.66","cpb-aacip-b1235711162.mp4",133.34,147.66,14.31,"cpb-aacip-b1235711162.mp4_0010_133.34_147.66.mp4","cpb-aacip-b1235711162.mp4_0010_133.34_147.66.wav","","mixed","2026-08-10 14:53:30",2,61.982924461364746,1786373511.0473566,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+Spanish accent: cuban
+English accent: English as second language",""
+10138,"a3","cpb-aacip-b1235711162.mp4_0012_155.27_169.43","cpb-aacip-b1235711162.mp4",155.27,169.43,14.15,"cpb-aacip-b1235711162.mp4_0012_155.27_169.43.mp4","cpb-aacip-b1235711162.mp4_0012_155.27_169.43.wav","","english","2026-08-10 14:54:04",3,26.00182580947876,1786373639.7251258,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+English accent: English as second language",""
+10139,"a3","cpb-aacip-b1235711162.mp4_0013_169.03_187.62","cpb-aacip-b1235711162.mp4",169.03,187.62,18.59,"cpb-aacip-b1235711162.mp4_0013_169.03_187.62.mp4","cpb-aacip-b1235711162.mp4_0013_169.03_187.62.wav","","mixed","2026-08-10 14:54:22",1,0.0,1786373644.8053143,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+English accent: English as second language",""
+10140,"a3","cpb-aacip-b1235711162.mp4_0013_169.03_187.62","cpb-aacip-b1235711162.mp4",169.03,187.62,18.59,"cpb-aacip-b1235711162.mp4_0013_169.03_187.62.mp4","cpb-aacip-b1235711162.mp4_0013_169.03_187.62.wav","","mixed","2026-08-10 14:54:35",1,0.0,1786373644.8053143,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+Spanish accent: Cuban
+English accent: English as second language",""
+10141,"a3","cpb-aacip-b1235711162.mp4_0010_133.34_147.66","cpb-aacip-b1235711162.mp4",133.34,147.66,14.31,"cpb-aacip-b1235711162.mp4_0010_133.34_147.66.mp4","cpb-aacip-b1235711162.mp4_0010_133.34_147.66.wav","","mixed","2026-08-10 14:55:03",4,166.57840538024902,1786373699.563366,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+Spanish accent: Cuban
+English accent: English as second language",""
+10142,"a3","cpb-aacip-b1235711162.mp4_0014_187.75_200.78","cpb-aacip-b1235711162.mp4",187.75,200.78,13.03,"cpb-aacip-b1235711162.mp4_0014_187.75_200.78.mp4","cpb-aacip-b1235711162.mp4_0014_187.75_200.78.wav","","english","2026-08-10 14:55:28",1,0.0,1786373716.7496848,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10143,"a3","cpb-aacip-b1235711162.mp4_0015_208.57_222.20","cpb-aacip-b1235711162.mp4",208.57,222.2,13.63,"cpb-aacip-b1235711162.mp4_0015_208.57_222.20.mp4","cpb-aacip-b1235711162.mp4_0015_208.57_222.20.wav","","english","2026-08-10 14:55:44",1,0.0,1786373732.147984,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10144,"a3","cpb-aacip-b1235711162.mp4_0016_221.80_237.20","cpb-aacip-b1235711162.mp4",221.8,237.2,15.4,"cpb-aacip-b1235711162.mp4_0016_221.80_237.20.mp4","cpb-aacip-b1235711162.mp4_0016_221.80_237.20.wav","","mixed","2026-08-10 14:56:17",1,0.0,1786373759.1732101,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10145,"a3","cpb-aacip-b1235711162.mp4_0016_221.80_237.20","cpb-aacip-b1235711162.mp4",221.8,237.2,15.4,"cpb-aacip-b1235711162.mp4_0016_221.80_237.20.mp4","cpb-aacip-b1235711162.mp4_0016_221.80_237.20.wav","","mixed","2026-08-10 14:56:35",1,0.0,1786373759.1732101,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Young man with grey shirt
+Accent: Cuban",""
+10146,"a3","cpb-aacip-b1235711162.mp4_0017_236.80_245.33","cpb-aacip-b1235711162.mp4",236.8,245.33,8.54,"cpb-aacip-b1235711162.mp4_0017_236.80_245.33.mp4","cpb-aacip-b1235711162.mp4_0017_236.80_245.33.wav","","spanish","2026-08-10 14:57:08",1,0.0,1786373795.7332556,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10147,"a3","cpb-aacip-b1235711162.mp4_0017_236.80_245.33","cpb-aacip-b1235711162.mp4",236.8,245.33,8.54,"cpb-aacip-b1235711162.mp4_0017_236.80_245.33.mp4","cpb-aacip-b1235711162.mp4_0017_236.80_245.33.wav","","spanish","2026-08-10 14:57:15",1,0.0,1786373795.7332556,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10148,"a3","cpb-aacip-b1235711162.mp4_0018_246.51_264.61","cpb-aacip-b1235711162.mp4",246.51,264.61,18.1,"cpb-aacip-b1235711162.mp4_0018_246.51_264.61.mp4","cpb-aacip-b1235711162.mp4_0018_246.51_264.61.wav","","mixed","2026-08-10 15:35:34",1,0.0,1786373836.0145712,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10149,"a3","cpb-aacip-b1235711162.mp4_0018_246.51_264.61","cpb-aacip-b1235711162.mp4",246.51,264.61,18.1,"cpb-aacip-b1235711162.mp4_0018_246.51_264.61.mp4","cpb-aacip-b1235711162.mp4_0018_246.51_264.61.wav","","mixed","2026-08-10 15:36:32",1,0.0,1786373836.0145712,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10150,"a3","cpb-aacip-b1235711162.mp4_0019_265.85_268.94","cpb-aacip-b1235711162.mp4",265.85,268.94,3.09,"cpb-aacip-b1235711162.mp4_0019_265.85_268.94.mp4","cpb-aacip-b1235711162.mp4_0019_265.85_268.94.wav","","english","2026-08-10 15:36:39",1,0.0,1786376192.830199,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10151,"a3","cpb-aacip-b1235711162.mp4_0019_265.85_268.94","cpb-aacip-b1235711162.mp4",265.85,268.94,3.09,"cpb-aacip-b1235711162.mp4_0019_265.85_268.94.mp4","cpb-aacip-b1235711162.mp4_0019_265.85_268.94.wav","","english","2026-08-10 15:36:47",1,0.0,1786376192.830199,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: English as second language",""
+10152,"a3","cpb-aacip-b1235711162.mp4_0020_269.38_289.57","cpb-aacip-b1235711162.mp4",269.38,289.57,20.19,"cpb-aacip-b1235711162.mp4_0020_269.38_289.57.mp4","cpb-aacip-b1235711162.mp4_0020_269.38_289.57.wav","","english","2026-08-10 15:36:52",1,0.0,1786376207.9759188,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10153,"a3","cpb-aacip-b1235711162.mp4_0020_269.38_289.57","cpb-aacip-b1235711162.mp4",269.38,289.57,20.19,"cpb-aacip-b1235711162.mp4_0020_269.38_289.57.mp4","cpb-aacip-b1235711162.mp4_0020_269.38_289.57.wav","","mixed","2026-08-10 15:37:34",1,0.0,1786376207.9759188,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman: English as second language
+Young man: Cuban",""
+10154,"a3","cpb-aacip-b1235711162.mp4_0021_290.76_308.98","cpb-aacip-b1235711162.mp4",290.76,308.98,18.22,"cpb-aacip-b1235711162.mp4_0021_290.76_308.98.mp4","cpb-aacip-b1235711162.mp4_0021_290.76_308.98.wav","","mixed","2026-08-10 15:38:30",1,0.0,1786376256.4547496,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman in black and white dress
+Spanish accent: Cuban
+English accent: English as second language",""
+10155,"a3","cpb-aacip-b1235711162.mp4_0021_290.76_308.98","cpb-aacip-b1235711162.mp4",290.76,308.98,18.22,"cpb-aacip-b1235711162.mp4_0021_290.76_308.98.mp4","cpb-aacip-b1235711162.mp4_0021_290.76_308.98.wav","","mixed","2026-08-10 15:38:59",1,0.0,1786376256.4547496,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman in black and white dress
+Spanish accent: Cuban
+English accent: English as second language
+Old Lady
+Accent: Cuban",""
+10156,"a3","cpb-aacip-b1235711162.mp4_0022_309.45_321.17","cpb-aacip-b1235711162.mp4",309.45,321.17,11.72,"cpb-aacip-b1235711162.mp4_0022_309.45_321.17.mp4","cpb-aacip-b1235711162.mp4_0022_309.45_321.17.wav","","mixed","2026-08-10 15:39:41",1,0.0,1786376339.599297,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with black and white dress
+Accent: Cuban
+Young Man
+",""
+10157,"a3","cpb-aacip-b1235711162.mp4_0022_309.45_321.17","cpb-aacip-b1235711162.mp4",309.45,321.17,11.72,"cpb-aacip-b1235711162.mp4_0022_309.45_321.17.mp4","cpb-aacip-b1235711162.mp4_0022_309.45_321.17.wav","","mixed","2026-08-10 15:40:05",1,0.0,1786376339.599297,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with black and white dress
+Accent: Cuban
+
+",""
+10158,"a3","cpb-aacip-b1235711162.mp4_0023_322.08_330.55","cpb-aacip-b1235711162.mp4",322.08,330.55,8.46,"cpb-aacip-b1235711162.mp4_0023_322.08_330.55.mp4","cpb-aacip-b1235711162.mp4_0023_322.08_330.55.wav","","english","2026-08-10 15:40:15",1,0.0,1786376405.9522943,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10159,"a3","cpb-aacip-b1235711162.mp4_0023_322.08_330.55","cpb-aacip-b1235711162.mp4",322.08,330.55,8.46,"cpb-aacip-b1235711162.mp4_0023_322.08_330.55.mp4","cpb-aacip-b1235711162.mp4_0023_322.08_330.55.wav","","english","2026-08-10 15:40:37",1,0.0,1786376405.9522943,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+Accent: English as second language",""
+10160,"a3","cpb-aacip-b1235711162.mp4_0024_330.75_348.34","cpb-aacip-b1235711162.mp4",330.75,348.34,17.6,"cpb-aacip-b1235711162.mp4_0024_330.75_348.34.mp4","cpb-aacip-b1235711162.mp4_0024_330.75_348.34.wav","","mixed","2026-08-10 15:40:58",1,0.0,1786376437.6199105,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10161,"a3","cpb-aacip-b1235711162.mp4_0024_330.75_348.34","cpb-aacip-b1235711162.mp4",330.75,348.34,17.6,"cpb-aacip-b1235711162.mp4_0024_330.75_348.34.mp4","cpb-aacip-b1235711162.mp4_0024_330.75_348.34.wav","","mixed","2026-08-10 15:41:10",1,0.0,1786376437.6199105,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10162,"a3","cpb-aacip-b1235711162.mp4_0025_348.61_364.00","cpb-aacip-b1235711162.mp4",348.61,364.0,15.4,"cpb-aacip-b1235711162.mp4_0025_348.61_364.00.mp4","cpb-aacip-b1235711162.mp4_0025_348.61_364.00.wav","","english","2026-08-10 15:41:19",1,0.0,1786376470.594097,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10163,"a3","cpb-aacip-b1235711162.mp4_0021_290.76_308.98","cpb-aacip-b1235711162.mp4",290.76,308.98,18.22,"cpb-aacip-b1235711162.mp4_0021_290.76_308.98.mp4","cpb-aacip-b1235711162.mp4_0021_290.76_308.98.wav","","mixed","2026-08-11 16:00:05",2,0.0,1786462829.0847344,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Woman in black and white dress
+Spanish accent: Cuban
+English accent: English as second language
+Old Lady
+Accent: Cuban",""
+10339,"a3","cpb-aacip-b1235711162.mp4_0001_0.00_15.20","cpb-aacip-b1235711162.mp4",0.0,15.2,15.2,"cpb-aacip-b1235711162.mp4_0001_0.00_15.20.mp4","cpb-aacip-b1235711162.mp4_0001_0.00_15.20.wav","","other","2026-08-20 17:03:04",4,4.1270527839660645,1787245382.1685612,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10340,"a3","cpb-aacip-b1235711162.mp4_0009_123.71_133.19","cpb-aacip-b1235711162.mp4",123.71,133.19,9.48,"cpb-aacip-b1235711162.mp4_0009_123.71_133.19.mp4","cpb-aacip-b1235711162.mp4_0009_123.71_133.19.wav","","mixed","2026-08-20 17:06:24",2,0.0,1787245487.9924388,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","School's principal: English
+Woman with black and white dress
+Accent: Cuban",""
+10341,"a3","cpb-aacip-b1235711162.mp4_0009_123.71_133.19","cpb-aacip-b1235711162.mp4",123.71,133.19,9.48,"cpb-aacip-b1235711162.mp4_0009_123.71_133.19.mp4","cpb-aacip-b1235711162.mp4_0009_123.71_133.19.wav","","mixed","2026-08-20 17:06:51",3,97.11246728897095,1787245602.0655918,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","School's principal: English
+Woman with the black and white dress
+Accent: Cuban",""
+10342,"a3","cpb-aacip-b1235711162.mp4_0016_221.80_237.20","cpb-aacip-b1235711162.mp4",221.8,237.2,15.4,"cpb-aacip-b1235711162.mp4_0016_221.80_237.20.mp4","cpb-aacip-b1235711162.mp4_0016_221.80_237.20.wav","","mixed","2026-08-20 17:10:02",3,18.062110424041748,1787245765.9186366,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+
+Joe
+Accent: Cuban, Spanglish",""
+10343,"a3","cpb-aacip-b1235711162.mp4_0020_269.38_289.57","cpb-aacip-b1235711162.mp4",269.38,289.57,20.19,"cpb-aacip-b1235711162.mp4_0020_269.38_289.57.mp4","cpb-aacip-b1235711162.mp4_0020_269.38_289.57.wav","","mixed","2026-08-20 17:12:13",2,0.0,1787245858.4547606,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Woman: English as second language
+Joe: Cuban",""
+10344,"a3","cpb-aacip-b1235711162.mp4_0024_330.75_348.34","cpb-aacip-b1235711162.mp4",330.75,348.34,17.6,"cpb-aacip-b1235711162.mp4_0024_330.75_348.34.mp4","cpb-aacip-b1235711162.mp4_0024_330.75_348.34.wav","","spanish","2026-08-20 17:13:33",3,21.184070110321045,1787245986.5555742,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10345,"a3","cpb-aacip-b1235711162.mp4_0025_348.61_364.00","cpb-aacip-b1235711162.mp4",348.61,364.0,15.4,"cpb-aacip-b1235711162.mp4_0025_348.61_364.00.mp4","cpb-aacip-b1235711162.mp4_0025_348.61_364.00.wav","","english","2026-08-20 17:14:11",3,3.938084602355957,1787246014.9994023,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman
+Accent: English as a second language",""
+10346,"a3","cpb-aacip-b1235711162.mp4_0026_363.61_370.05","cpb-aacip-b1235711162.mp4",363.61,370.05,6.44,"cpb-aacip-b1235711162.mp4_0026_363.61_370.05.mp4","cpb-aacip-b1235711162.mp4_0026_363.61_370.05.wav","","spanish","2026-08-20 17:14:17",2,33.515047788619995,1787246052.2337446,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10347,"a3","cpb-aacip-b1235711162.mp4_0026_363.61_370.05","cpb-aacip-b1235711162.mp4",363.61,370.05,6.44,"cpb-aacip-b1235711162.mp4_0026_363.61_370.05.mp4","cpb-aacip-b1235711162.mp4_0026_363.61_370.05.wav","","spanish","2026-08-20 17:14:30",2,33.515047788619995,1787246052.2337446,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10348,"a3","cpb-aacip-b1235711162.mp4_0025_348.61_364.00","cpb-aacip-b1235711162.mp4",348.61,364.0,15.4,"cpb-aacip-b1235711162.mp4_0025_348.61_364.00.mp4","cpb-aacip-b1235711162.mp4_0025_348.61_364.00.wav","","english","2026-08-20 17:15:21",5,43.16498947143555,1787246117.3267543,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman
+Accent: English as second language",""
+10349,"a3","cpb-aacip-b1235711162.mp4_0027_370.21_388.76","cpb-aacip-b1235711162.mp4",370.21,388.76,18.55,"cpb-aacip-b1235711162.mp4_0027_370.21_388.76.mp4","cpb-aacip-b1235711162.mp4_0027_370.21_388.76.wav","","mixed","2026-08-20 17:16:11",2,32.90793514251709,1787246123.38797,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Woman with the black and white dress
+Accent: English as second language
+
+Old man
+Accent: Cuban
+
+Old lady
+Accent: Cuban",""
+10350,"a3","cpb-aacip-b1235711162.mp4_0028_389.12_394.45","cpb-aacip-b1235711162.mp4",389.12,394.45,5.33,"cpb-aacip-b1235711162.mp4_0028_389.12_394.45.mp4","cpb-aacip-b1235711162.mp4_0028_389.12_394.45.wav","","mixed","2026-08-20 17:16:43",1,0.0,1787246181.8269882,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10351,"a3","cpb-aacip-b1235711162.mp4_0028_389.12_394.45","cpb-aacip-b1235711162.mp4",389.12,394.45,5.33,"cpb-aacip-b1235711162.mp4_0028_389.12_394.45.mp4","cpb-aacip-b1235711162.mp4_0028_389.12_394.45.wav","","mixed","2026-08-20 17:16:52",1,0.0,1787246181.8269882,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10352,"a3","cpb-aacip-b1235711162.mp4_0029_394.59_409.99","cpb-aacip-b1235711162.mp4",394.59,409.99,15.4,"cpb-aacip-b1235711162.mp4_0029_394.59_409.99.mp4","cpb-aacip-b1235711162.mp4_0029_394.59_409.99.wav","","spanish","2026-08-20 17:17:31",1,0.0,1787246212.8341208,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10353,"a3","cpb-aacip-b1235711162.mp4_0029_394.59_409.99","cpb-aacip-b1235711162.mp4",394.59,409.99,15.4,"cpb-aacip-b1235711162.mp4_0029_394.59_409.99.mp4","cpb-aacip-b1235711162.mp4_0029_394.59_409.99.wav","","spanish","2026-08-20 17:18:07",1,0.0,1787246212.8341208,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Girl
+Accent: Spanish as second language",""
+10354,"a3","cpb-aacip-b1235711162.mp4_0030_409.59_427.86","cpb-aacip-b1235711162.mp4",409.59,427.86,18.27,"cpb-aacip-b1235711162.mp4_0030_409.59_427.86.mp4","cpb-aacip-b1235711162.mp4_0030_409.59_427.86.wav","","mixed","2026-08-20 17:18:39",1,0.0,1787246287.959831,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10355,"a3","cpb-aacip-b1235711162.mp4_0030_409.59_427.86","cpb-aacip-b1235711162.mp4",409.59,427.86,18.27,"cpb-aacip-b1235711162.mp4_0030_409.59_427.86.mp4","cpb-aacip-b1235711162.mp4_0030_409.59_427.86.wav","","mixed","2026-08-20 17:19:10",1,0.0,1787246287.959831,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10356,"a3","cpb-aacip-b1235711162.mp4_0031_428.15_432.32","cpb-aacip-b1235711162.mp4",428.15,432.32,4.17,"cpb-aacip-b1235711162.mp4_0031_428.15_432.32.mp4","cpb-aacip-b1235711162.mp4_0031_428.15_432.32.wav","","mixed","2026-08-20 17:19:21",1,0.0,1787246351.2049203,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10357,"a3","cpb-aacip-b1235711162.mp4_0031_428.15_432.32","cpb-aacip-b1235711162.mp4",428.15,432.32,4.17,"cpb-aacip-b1235711162.mp4_0031_428.15_432.32.mp4","cpb-aacip-b1235711162.mp4_0031_428.15_432.32.wav","","spanish","2026-08-20 17:19:28",1,0.0,1787246351.2049203,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10358,"a3","cpb-aacip-b1235711162.mp4_0031_428.15_432.32","cpb-aacip-b1235711162.mp4",428.15,432.32,4.17,"cpb-aacip-b1235711162.mp4_0031_428.15_432.32.mp4","cpb-aacip-b1235711162.mp4_0031_428.15_432.32.wav","","english","2026-08-20 17:19:32",1,0.0,1787246351.2049203,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10359,"a3","cpb-aacip-b1235711162.mp4_0031_428.15_432.32","cpb-aacip-b1235711162.mp4",428.15,432.32,4.17,"cpb-aacip-b1235711162.mp4_0031_428.15_432.32.mp4","cpb-aacip-b1235711162.mp4_0031_428.15_432.32.wav","","english","2026-08-21 12:33:35",2,0.0,1787315597.4652264,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: English as second language",""
+10360,"a3","cpb-aacip-b1235711162.mp4_0032_432.42_447.82","cpb-aacip-b1235711162.mp4",432.42,447.82,15.4,"cpb-aacip-b1235711162.mp4_0032_432.42_447.82.mp4","cpb-aacip-b1235711162.mp4_0032_432.42_447.82.wav","","mixed","2026-08-21 12:34:09",2,4.8461244106292725,1787315615.9907131,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10361,"a3","cpb-aacip-b1235711162.mp4_0032_432.42_447.82","cpb-aacip-b1235711162.mp4",432.42,447.82,15.4,"cpb-aacip-b1235711162.mp4_0032_432.42_447.82.mp4","cpb-aacip-b1235711162.mp4_0032_432.42_447.82.wav","","mixed","2026-08-21 12:35:17",2,4.8461244106292725,1787315615.9907131,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Joe
+Spanish accent: Cuban",""
+10362,"a3","cpb-aacip-b1235711162.mp4_0033_447.42_462.82","cpb-aacip-b1235711162.mp4",447.42,462.82,15.4,"cpb-aacip-b1235711162.mp4_0033_447.42_462.82.mp4","cpb-aacip-b1235711162.mp4_0033_447.42_462.82.wav","","spanish","2026-08-21 12:35:25",1,0.0,1787315718.1316757,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10363,"a3","cpb-aacip-b1235711162.mp4_0033_447.42_462.82","cpb-aacip-b1235711162.mp4",447.42,462.82,15.4,"cpb-aacip-b1235711162.mp4_0033_447.42_462.82.mp4","cpb-aacip-b1235711162.mp4_0033_447.42_462.82.wav","","spanish","2026-08-21 12:36:12",1,0.0,1787315718.1316757,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban
+Joe
+Accent: Cuban, Spanglish",""
+10364,"a3","cpb-aacip-b1235711162.mp4_0034_462.42_480.62","cpb-aacip-b1235711162.mp4",462.42,480.62,18.2,"cpb-aacip-b1235711162.mp4_0034_462.42_480.62.mp4","cpb-aacip-b1235711162.mp4_0034_462.42_480.62.wav","","mixed","2026-08-21 12:36:24",1,0.0,1787315772.4556723,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10365,"a3","cpb-aacip-b1235711162.mp4_0034_462.42_480.62","cpb-aacip-b1235711162.mp4",462.42,480.62,18.2,"cpb-aacip-b1235711162.mp4_0034_462.42_480.62.mp4","cpb-aacip-b1235711162.mp4_0034_462.42_480.62.wav","","mixed","2026-08-21 12:37:03",2,16.093657732009888,1787315796.278534,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban
+Mother
+Accent: English as second language",""
+10366,"a3","cpb-aacip-b1235711162.mp4_0035_481.27_496.67","cpb-aacip-b1235711162.mp4",481.27,496.67,15.4,"cpb-aacip-b1235711162.mp4_0035_481.27_496.67.mp4","cpb-aacip-b1235711162.mp4_0035_481.27_496.67.wav","","mixed","2026-08-21 12:37:21",1,0.0,1787315823.402904,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10367,"a3","cpb-aacip-b1235711162.mp4_0035_481.27_496.67","cpb-aacip-b1235711162.mp4",481.27,496.67,15.4,"cpb-aacip-b1235711162.mp4_0035_481.27_496.67.mp4","cpb-aacip-b1235711162.mp4_0035_481.27_496.67.wav","","mixed","2026-08-21 12:37:44",1,0.0,1787315823.402904,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father:
+Accent: English as second language
+Mother:
+Accent: Cuban",""
+10368,"a3","cpb-aacip-b1235711162.mp4_0036_496.27_511.67","cpb-aacip-b1235711162.mp4",496.27,511.67,15.4,"cpb-aacip-b1235711162.mp4_0036_496.27_511.67.mp4","cpb-aacip-b1235711162.mp4_0036_496.27_511.67.wav","","mixed","2026-08-21 12:38:02",1,0.0,1787315864.3119583,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10369,"a3","cpb-aacip-b1235711162.mp4_0036_496.27_511.67","cpb-aacip-b1235711162.mp4",496.27,511.67,15.4,"cpb-aacip-b1235711162.mp4_0036_496.27_511.67.mp4","cpb-aacip-b1235711162.mp4_0036_496.27_511.67.wav","","mixed","2026-08-21 12:38:56",1,0.0,1787315864.3119583,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: English as second language
+",""
+10370,"a3","cpb-aacip-b1235711162.mp4_0037_511.27_524.45","cpb-aacip-b1235711162.mp4",511.27,524.45,13.18,"cpb-aacip-b1235711162.mp4_0037_511.27_524.45.mp4","cpb-aacip-b1235711162.mp4_0037_511.27_524.45.wav","","","2026-08-21 12:39:35",1,0.0,1787315936.949467,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban
+Father
+Accent: English as second language",""
+10371,"a3","cpb-aacip-b1235711162.mp4_0038_524.64_540.04","cpb-aacip-b1235711162.mp4",524.64,540.04,15.4,"cpb-aacip-b1235711162.mp4_0038_524.64_540.04.mp4","cpb-aacip-b1235711162.mp4_0038_524.64_540.04.wav","","mixed","2026-08-21 12:39:54",1,0.0,1787315975.7083151,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10372,"a3","cpb-aacip-b1235711162.mp4_0038_524.64_540.04","cpb-aacip-b1235711162.mp4",524.64,540.04,15.4,"cpb-aacip-b1235711162.mp4_0038_524.64_540.04.mp4","cpb-aacip-b1235711162.mp4_0038_524.64_540.04.wav","","mixed","2026-08-21 12:40:21",1,0.0,1787315975.7083151,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: English as second language
+Mother
+Accent: Cuban",""
+10373,"a3","cpb-aacip-b1235711162.mp4_0039_539.64_553.85","cpb-aacip-b1235711162.mp4",539.64,553.85,14.21,"cpb-aacip-b1235711162.mp4_0039_539.64_553.85.mp4","cpb-aacip-b1235711162.mp4_0039_539.64_553.85.wav","","mixed","2026-08-21 12:40:37",1,0.0,1787316022.0981197,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10374,"a3","cpb-aacip-b1235711162.mp4_0039_539.64_553.85","cpb-aacip-b1235711162.mp4",539.64,553.85,14.21,"cpb-aacip-b1235711162.mp4_0039_539.64_553.85.mp4","cpb-aacip-b1235711162.mp4_0039_539.64_553.85.wav","","mixed","2026-08-21 12:41:14",1,0.0,1787316022.0981197,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban, Spanglish
+",""
+10375,"a3","cpb-aacip-b1235711162.mp4_0040_553.45_572.41","cpb-aacip-b1235711162.mp4",553.45,572.41,18.96,"cpb-aacip-b1235711162.mp4_0040_553.45_572.41.mp4","cpb-aacip-b1235711162.mp4_0040_553.45_572.41.wav","","mixed","2026-08-21 12:54:35",1,0.0,1787316074.6468425,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10376,"a3","cpb-aacip-b1235711162.mp4_0040_553.45_572.41","cpb-aacip-b1235711162.mp4",553.45,572.41,18.96,"cpb-aacip-b1235711162.mp4_0040_553.45_572.41.mp4","cpb-aacip-b1235711162.mp4_0040_553.45_572.41.wav","","mixed","2026-08-21 12:54:59",1,0.0,1787316074.6468425,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: English as second language",""
+10377,"a3","cpb-aacip-b1235711162.mp4_0041_574.51_589.91","cpb-aacip-b1235711162.mp4",574.51,589.91,15.4,"cpb-aacip-b1235711162.mp4_0041_574.51_589.91.mp4","cpb-aacip-b1235711162.mp4_0041_574.51_589.91.wav","","mixed","2026-08-21 12:55:21",1,0.0,1787316899.4811413,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban",""
+10378,"a3","cpb-aacip-b1235711162.mp4_0042_589.51_599.90","cpb-aacip-b1235711162.mp4",589.51,599.9,10.39,"cpb-aacip-b1235711162.mp4_0042_589.51_599.90.mp4","cpb-aacip-b1235711162.mp4_0042_589.51_599.90.wav","","mixed","2026-08-21 12:55:33",1,0.0,1787316924.858228,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10379,"a3","cpb-aacip-b1235711162.mp4_0042_589.51_599.90","cpb-aacip-b1235711162.mp4",589.51,599.9,10.39,"cpb-aacip-b1235711162.mp4_0042_589.51_599.90.mp4","cpb-aacip-b1235711162.mp4_0042_589.51_599.90.wav","","mixed","2026-08-21 12:56:01",1,0.0,1787316924.858228,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban
+Father
+Accent: English as second language",""
+10380,"a3","cpb-aacip-b1235711162.mp4_0043_599.50_613.82","cpb-aacip-b1235711162.mp4",599.5,613.82,14.32,"cpb-aacip-b1235711162.mp4_0043_599.50_613.82.mp4","cpb-aacip-b1235711162.mp4_0043_599.50_613.82.wav","","","2026-08-21 12:56:31",1,0.0,1787316962.109095,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10413,"a3","cpb-aacip-b1235711162.mp4_0037_511.27_524.45","cpb-aacip-b1235711162.mp4",511.27,524.45,13.18,"cpb-aacip-b1235711162.mp4_0037_511.27_524.45.mp4","cpb-aacip-b1235711162.mp4_0037_511.27_524.45.wav","","mixed","2026-08-24 15:41:44",2,0.0,1787586060.409416,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban
+Father
+Accent: English as second language",""
+10414,"a3","cpb-aacip-b1235711162.mp4_0038_524.64_540.04","cpb-aacip-b1235711162.mp4",524.64,540.04,15.4,"cpb-aacip-b1235711162.mp4_0038_524.64_540.04.mp4","cpb-aacip-b1235711162.mp4_0038_524.64_540.04.wav","","mixed","2026-08-24 15:42:09",2,0.0,1787586105.5191832,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Spanish accent: Cuban
+English accent: English as second language
+Mother
+Accent: Cuban",""
+10415,"a3","cpb-aacip-b1235711162.mp4_0039_539.64_553.85","cpb-aacip-b1235711162.mp4",539.64,553.85,14.21,"cpb-aacip-b1235711162.mp4_0039_539.64_553.85.mp4","cpb-aacip-b1235711162.mp4_0039_539.64_553.85.wav","","mixed","2026-08-24 15:42:41",2,0.0,1787586129.8995209,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban
+",""
+10416,"a3","cpb-aacip-b1235711162.mp4_0040_553.45_572.41","cpb-aacip-b1235711162.mp4",553.45,572.41,18.96,"cpb-aacip-b1235711162.mp4_0040_553.45_572.41.mp4","cpb-aacip-b1235711162.mp4_0040_553.45_572.41.wav","","mixed","2026-08-24 15:43:08",2,0.0,1787586161.4931161,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: English as second language, Spanglish",""
+10417,"a3","cpb-aacip-b1235711162.mp4_0043_599.50_613.82","cpb-aacip-b1235711162.mp4",599.5,613.82,14.32,"cpb-aacip-b1235711162.mp4_0043_599.50_613.82.mp4","cpb-aacip-b1235711162.mp4_0043_599.50_613.82.wav","","spanish","2026-08-24 15:44:10",2,0.0,1787586231.7067568,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10418,"a3","cpb-aacip-b1235711162.mp4_0044_614.00_633.59","cpb-aacip-b1235711162.mp4",614.0,633.59,19.59,"cpb-aacip-b1235711162.mp4_0044_614.00_633.59.mp4","cpb-aacip-b1235711162.mp4_0044_614.00_633.59.wav","","spanish","2026-08-24 15:44:26",1,0.0,1787586251.799096,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10419,"a3","cpb-aacip-b1235711162.mp4_0044_614.00_633.59","cpb-aacip-b1235711162.mp4",614.0,633.59,19.59,"cpb-aacip-b1235711162.mp4_0044_614.00_633.59.mp4","cpb-aacip-b1235711162.mp4_0044_614.00_633.59.wav","","spanish","2026-08-24 15:44:33",1,0.0,1787586251.799096,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10420,"a3","cpb-aacip-b1235711162.mp4_0045_633.72_649.12","cpb-aacip-b1235711162.mp4",633.72,649.12,15.4,"cpb-aacip-b1235711162.mp4_0045_633.72_649.12.mp4","cpb-aacip-b1235711162.mp4_0045_633.72_649.12.wav","","","2026-08-24 15:45:09",1,0.0,1787586273.8576725,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Daughter
+Accent: Cuban",""
+10421,"a3","cpb-aacip-b1235711162.mp4_0046_648.72_665.77","cpb-aacip-b1235711162.mp4",648.72,665.77,17.05,"cpb-aacip-b1235711162.mp4_0046_648.72_665.77.mp4","cpb-aacip-b1235711162.mp4_0046_648.72_665.77.wav","","mixed","2026-08-24 15:45:55",1,0.0,1787586309.4510236,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban
+Father
+Accent: English as second language",""
+10422,"a3","cpb-aacip-b1235711162.mp4_0047_665.90_672.10","cpb-aacip-b1235711162.mp4",665.9,672.1,6.21,"cpb-aacip-b1235711162.mp4_0047_665.90_672.10.mp4","cpb-aacip-b1235711162.mp4_0047_665.90_672.10.wav","","other","2026-08-24 15:46:22",1,0.0,1787586362.0275211,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10423,"a3","cpb-aacip-b1235711162.mp4_0048_673.20_691.36","cpb-aacip-b1235711162.mp4",673.2,691.36,18.17,"cpb-aacip-b1235711162.mp4_0048_673.20_691.36.mp4","cpb-aacip-b1235711162.mp4_0048_673.20_691.36.wav","","mixed","2026-08-24 16:08:59",1,0.0,1787586383.6466477,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+",""
+10424,"a3","cpb-aacip-b1235711162.mp4_0048_673.20_691.36","cpb-aacip-b1235711162.mp4",673.2,691.36,18.17,"cpb-aacip-b1235711162.mp4_0048_673.20_691.36.mp4","cpb-aacip-b1235711162.mp4_0048_673.20_691.36.wav","","mixed","2026-08-24 16:09:41",1,0.0,1787586383.6466477,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Father
+Accent: Cuban, English as second language
+Joe
+Accent: Cuban
+",""
+10425,"a3","cpb-aacip-b1235711162.mp4_0049_691.75_698.16","cpb-aacip-b1235711162.mp4",691.75,698.16,6.42,"cpb-aacip-b1235711162.mp4_0049_691.75_698.16.mp4","cpb-aacip-b1235711162.mp4_0049_691.75_698.16.wav","","spanish","2026-08-24 16:09:54",1,0.0,1787587781.5665126,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban",""
+10426,"a3","cpb-aacip-b1235711162.mp4_0050_698.28_713.68","cpb-aacip-b1235711162.mp4",698.28,713.68,15.4,"cpb-aacip-b1235711162.mp4_0050_698.28_713.68.mp4","cpb-aacip-b1235711162.mp4_0050_698.28_713.68.wav","","mixed","2026-08-24 16:10:14",1,0.0,1787587795.1172798,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging",""
+10427,"a3","cpb-aacip-b1235711162.mp4_0050_698.28_713.68","cpb-aacip-b1235711162.mp4",698.28,713.68,15.4,"cpb-aacip-b1235711162.mp4_0050_698.28_713.68.mp4","cpb-aacip-b1235711162.mp4_0050_698.28_713.68.wav","","mixed","2026-08-24 16:10:37",1,0.0,1787587795.1172798,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Father
+Accent: Cuban, English as second language
+",""
+10428,"a3","cpb-aacip-b1235711162.mp4_0051_713.28_730.60","cpb-aacip-b1235711162.mp4",713.28,730.6,17.33,"cpb-aacip-b1235711162.mp4_0051_713.28_730.60.mp4","cpb-aacip-b1235711162.mp4_0051_713.28_730.60.wav","","mixed","2026-08-24 16:11:05",1,0.0,1787587837.5623024,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban
+Joe
+Accent: Cuban",""
+10429,"a3","cpb-aacip-b1235711162.mp4_0052_731.04_742.75","cpb-aacip-b1235711162.mp4",731.04,742.75,11.71,"cpb-aacip-b1235711162.mp4_0052_731.04_742.75.mp4","cpb-aacip-b1235711162.mp4_0052_731.04_742.75.wav","","english","2026-08-24 16:11:46",1,0.0,1787587889.4499116,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10430,"a3","cpb-aacip-b1235711162.mp4_0053_743.18_758.58","cpb-aacip-b1235711162.mp4",743.18,758.58,15.4,"cpb-aacip-b1235711162.mp4_0053_743.18_758.58.mp4","cpb-aacip-b1235711162.mp4_0053_743.18_758.58.wav","","english","2026-08-24 16:12:06",1,0.0,1787587907.6308672,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10431,"a3","cpb-aacip-b1235711162.mp4_0054_758.18_774.03","cpb-aacip-b1235711162.mp4",758.18,774.03,15.85,"cpb-aacip-b1235711162.mp4_0054_758.18_774.03.mp4","cpb-aacip-b1235711162.mp4_0054_758.18_774.03.wav","","mixed","2026-08-24 16:12:51",1,0.0,1787587927.1554542,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Daughter
+Accent: Spanish as second language",""
+10432,"a3","cpb-aacip-b1235711162.mp4_0055_773.63_792.95","cpb-aacip-b1235711162.mp4",773.63,792.95,19.32,"cpb-aacip-b1235711162.mp4_0055_773.63_792.95.mp4","cpb-aacip-b1235711162.mp4_0055_773.63_792.95.wav","","mixed","2026-08-24 16:13:15",1,0.0,1787587975.2880235,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Joe
+Accent: Cuban",""
+10433,"a3","cpb-aacip-b1235711162.mp4_0056_792.54_795.92","cpb-aacip-b1235711162.mp4",792.54,795.92,3.38,"cpb-aacip-b1235711162.mp4_0056_792.54_795.92.mp4","cpb-aacip-b1235711162.mp4_0056_792.54_795.92.wav","","spanish","2026-08-24 16:13:28",1,0.0,1787588001.2550983,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10434,"a3","cpb-aacip-b1235711162.mp4_0056_792.54_795.92","cpb-aacip-b1235711162.mp4",792.54,795.92,3.38,"cpb-aacip-b1235711162.mp4_0056_792.54_795.92.mp4","cpb-aacip-b1235711162.mp4_0056_792.54_795.92.wav","","spanish","2026-08-24 16:13:35",1,0.0,1787588001.2550983,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10435,"a3","cpb-aacip-b1235711162.mp4_0057_796.03_811.19","cpb-aacip-b1235711162.mp4",796.03,811.19,15.16,"cpb-aacip-b1235711162.mp4_0057_796.03_811.19.mp4","cpb-aacip-b1235711162.mp4_0057_796.03_811.19.wav","","mixed","2026-08-24 16:13:53",1,0.0,1787588015.3504388,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10436,"a3","cpb-aacip-b1235711162.mp4_0057_796.03_811.19","cpb-aacip-b1235711162.mp4",796.03,811.19,15.16,"cpb-aacip-b1235711162.mp4_0057_796.03_811.19.mp4","cpb-aacip-b1235711162.mp4_0057_796.03_811.19.wav","","mixed","2026-08-24 16:14:11",1,0.0,1787588015.3504388,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Joe
+Accent: Cuban",""
+10437,"a3","cpb-aacip-b1235711162.mp4_0058_811.33_824.05","cpb-aacip-b1235711162.mp4",811.33,824.05,12.71,"cpb-aacip-b1235711162.mp4_0058_811.33_824.05.mp4","cpb-aacip-b1235711162.mp4_0058_811.33_824.05.wav","","","2026-08-24 16:14:33",1,0.0,1787588051.6097512,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Carmen
+Accent: Spanish as second language",""
+10438,"a3","cpb-aacip-b1235711162.mp4_0059_824.31_840.22","cpb-aacip-b1235711162.mp4",824.31,840.22,15.91,"cpb-aacip-b1235711162.mp4_0059_824.31_840.22.mp4","cpb-aacip-b1235711162.mp4_0059_824.31_840.22.wav","","spanish","2026-08-24 16:15:28",1,0.0,1787588073.8174903,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Daughter
+Accent: Spanish as second language
+Joe
+Accent: Cuban",""
+10439,"a3","cpb-aacip-b1235711162.mp4_0060_841.06_856.46","cpb-aacip-b1235711162.mp4",841.06,856.46,15.4,"cpb-aacip-b1235711162.mp4_0060_841.06_856.46.mp4","cpb-aacip-b1235711162.mp4_0060_841.06_856.46.wav","","english","2026-08-24 16:15:50",1,0.0,1787588132.5320745,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10440,"a3","cpb-aacip-b1235711162.mp4_0061_856.06_870.60","cpb-aacip-b1235711162.mp4",856.06,870.6,14.54,"cpb-aacip-b1235711162.mp4_0061_856.06_870.60.mp4","cpb-aacip-b1235711162.mp4_0061_856.06_870.60.wav","","spanish","2026-08-24 16:16:15",1,0.0,1787588152.1218731,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban",""
+10441,"a3","cpb-aacip-b1235711162.mp4_0061_856.06_870.60","cpb-aacip-b1235711162.mp4",856.06,870.6,14.54,"cpb-aacip-b1235711162.mp4_0061_856.06_870.60.mp4","cpb-aacip-b1235711162.mp4_0061_856.06_870.60.wav","","mixed","2026-08-24 16:16:22",2,24.315431833267212,1787588179.8106523,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban",""
+10442,"a3","cpb-aacip-b1235711162.mp4_0062_870.98_886.38","cpb-aacip-b1235711162.mp4",870.98,886.38,15.4,"cpb-aacip-b1235711162.mp4_0062_870.98_886.38.mp4","cpb-aacip-b1235711162.mp4_0062_870.98_886.38.wav","","spanish","2026-08-24 16:16:41",2,3.373347282409668,1787588183.8811438,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban
+Joe
+Accent: Cuban",""
+10443,"a3","cpb-aacip-b1235711162.mp4_0063_885.98_891.97","cpb-aacip-b1235711162.mp4",885.98,891.97,5.99,"cpb-aacip-b1235711162.mp4_0063_885.98_891.97.mp4","cpb-aacip-b1235711162.mp4_0063_885.98_891.97.wav","","","2026-08-24 16:17:01",1,0.0,1787588202.6667926,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Joe
+Accent: Cuban
+Daughter
+Accent: Spanish as second language",""
+10444,"a3","cpb-aacip-b1235711162.mp4_0064_893.13_911.89","cpb-aacip-b1235711162.mp4",893.13,911.89,18.76,"cpb-aacip-b1235711162.mp4_0064_893.13_911.89.mp4","cpb-aacip-b1235711162.mp4_0064_893.13_911.89.wav","","spanish","2026-08-24 16:17:23",1,0.0,1787588222.2006216,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10445,"a3","cpb-aacip-b1235711162.mp4_0065_912.07_916.24","cpb-aacip-b1235711162.mp4",912.07,916.24,4.17,"cpb-aacip-b1235711162.mp4_0065_912.07_916.24.mp4","cpb-aacip-b1235711162.mp4_0065_912.07_916.24.wav","","other","2026-08-24 16:17:37",1,0.0,1787588248.8688703,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10446,"a3","cpb-aacip-b1235711162.mp4_0065_912.07_916.24","cpb-aacip-b1235711162.mp4",912.07,916.24,4.17,"cpb-aacip-b1235711162.mp4_0065_912.07_916.24.mp4","cpb-aacip-b1235711162.mp4_0065_912.07_916.24.wav","","other","2026-08-24 16:17:41",1,0.0,1787588248.8688703,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10447,"a3","cpb-aacip-b1235711162.mp4_0066_918.48_936.21","cpb-aacip-b1235711162.mp4",918.48,936.21,17.73,"cpb-aacip-b1235711162.mp4_0066_918.48_936.21.mp4","cpb-aacip-b1235711162.mp4_0066_918.48_936.21.wav","","english","2026-08-24 16:17:54",1,0.0,1787588261.6469676,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10448,"a3","cpb-aacip-b1235711162.mp4_0066_918.48_936.21","cpb-aacip-b1235711162.mp4",918.48,936.21,17.73,"cpb-aacip-b1235711162.mp4_0066_918.48_936.21.mp4","cpb-aacip-b1235711162.mp4_0066_918.48_936.21.wav","","english","2026-08-24 16:18:22",1,0.0,1787588261.6469676,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Mother
+Accent: Cuban",""
+10449,"a3","cpb-aacip-b1235711162.mp4_0066_918.48_936.21","cpb-aacip-b1235711162.mp4",918.48,936.21,17.73,"cpb-aacip-b1235711162.mp4_0066_918.48_936.21.mp4","cpb-aacip-b1235711162.mp4_0066_918.48_936.21.wav","","mixed","2026-08-24 16:18:26",2,40.58543872833252,1787588305.586936,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Mother
+Accent: Cuban",""
+10450,"a3","cpb-aacip-b1235711162.mp4_0067_936.67_952.39","cpb-aacip-b1235711162.mp4",936.67,952.39,15.72,"cpb-aacip-b1235711162.mp4_0067_936.67_952.39.mp4","cpb-aacip-b1235711162.mp4_0067_936.67_952.39.wav","","","2026-08-24 16:18:53",2,3.354529619216919,1787588309.974228,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Mother
+Accent: Cuban, English as second language
+Grandmother
+Accent: Cuban",""
+10451,"a3","cpb-aacip-b1235711162.mp4_0068_953.48_965.00","cpb-aacip-b1235711162.mp4",953.48,965.0,11.53,"cpb-aacip-b1235711162.mp4_0068_953.48_965.00.mp4","cpb-aacip-b1235711162.mp4_0068_953.48_965.00.wav","","spanish","2026-08-24 16:19:08",1,0.0,1787588333.8419359,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10452,"a3","cpb-aacip-b1235711162.mp4_0069_965.42_981.81","cpb-aacip-b1235711162.mp4",965.42,981.81,16.39,"cpb-aacip-b1235711162.mp4_0069_965.42_981.81.mp4","cpb-aacip-b1235711162.mp4_0069_965.42_981.81.wav","","mixed","2026-08-24 16:19:35",1,0.0,1787588349.8736126,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother: English as second language",""
+10453,"a3","cpb-aacip-b1235711162.mp4_0069_965.42_981.81","cpb-aacip-b1235711162.mp4",965.42,981.81,16.39,"cpb-aacip-b1235711162.mp4_0069_965.42_981.81.mp4","cpb-aacip-b1235711162.mp4_0069_965.42_981.81.wav","","mixed","2026-08-24 16:19:42",1,0.0,1787588349.8736126,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother: English as second language, Cuban
+Mother: Cuban",""
+10454,"a3","cpb-aacip-b1235711162.mp4_0070_982.42_997.82","cpb-aacip-b1235711162.mp4",982.42,997.82,15.4,"cpb-aacip-b1235711162.mp4_0070_982.42_997.82.mp4","cpb-aacip-b1235711162.mp4_0070_982.42_997.82.wav","","mixed","2026-08-24 16:20:08",1,0.0,1787588383.1376517,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Joe
+Accent: Cuban",""
+10455,"a3","cpb-aacip-b1235711162.mp4_0071_997.42_1012.82","cpb-aacip-b1235711162.mp4",997.42,1012.82,15.4,"cpb-aacip-b1235711162.mp4_0071_997.42_1012.82.mp4","cpb-aacip-b1235711162.mp4_0071_997.42_1012.82.wav","","mixed","2026-08-24 16:35:50",1,0.0,1787588409.9558723,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Joe
+Accent: Cuban",""
+10456,"a3","cpb-aacip-b1235711162.mp4_0072_1012.42_1022.37","cpb-aacip-b1235711162.mp4",1012.42,1022.37,9.95,"cpb-aacip-b1235711162.mp4_0072_1012.42_1022.37.mp4","cpb-aacip-b1235711162.mp4_0072_1012.42_1022.37.wav","","english","2026-08-24 16:36:01",1,0.0,1787589351.7643638,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10457,"a3","cpb-aacip-b1235711162.mp4_0073_1023.86_1044.12","cpb-aacip-b1235711162.mp4",1023.86,1044.12,20.26,"cpb-aacip-b1235711162.mp4_0073_1023.86_1044.12.mp4","cpb-aacip-b1235711162.mp4_0073_1023.86_1044.12.wav","","mixed","2026-08-24 16:36:28",1,0.0,1787589363.7927318,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10458,"a3","cpb-aacip-b1235711162.mp4_0073_1023.86_1044.12","cpb-aacip-b1235711162.mp4",1023.86,1044.12,20.26,"cpb-aacip-b1235711162.mp4_0073_1023.86_1044.12.mp4","cpb-aacip-b1235711162.mp4_0073_1023.86_1044.12.wav","","mixed","2026-08-24 16:36:47",1,0.0,1787589363.7927318,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10459,"a3","cpb-aacip-b1235711162.mp4_0074_1044.37_1061.22","cpb-aacip-b1235711162.mp4",1044.37,1061.22,16.85,"cpb-aacip-b1235711162.mp4_0074_1044.37_1061.22.mp4","cpb-aacip-b1235711162.mp4_0074_1044.37_1061.22.wav","","mixed","2026-08-24 16:38:33",1,0.0,1787589408.0577009,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Joe
+Accent: Cuban
+Grandfather
+Accent: Cuban",""
+10460,"a3","cpb-aacip-b1235711162.mp4_0075_1061.99_1081.13","cpb-aacip-b1235711162.mp4",1061.99,1081.13,19.14,"cpb-aacip-b1235711162.mp4_0075_1061.99_1081.13.mp4","cpb-aacip-b1235711162.mp4_0075_1061.99_1081.13.wav","","","2026-08-24 16:41:43",1,0.0,1787589514.7792435,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Joe
+Accent: Cuban
+Grandfather
+Accent: Cuban",""
+10461,"a3","cpb-aacip-b1235711162.mp4_0076_1081.39_1083.05","cpb-aacip-b1235711162.mp4",1081.39,1083.05,1.66,"cpb-aacip-b1235711162.mp4_0076_1081.39_1083.05.mp4","cpb-aacip-b1235711162.mp4_0076_1081.39_1083.05.wav","","english","2026-08-24 16:42:00",1,0.0,1787589703.885786,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: English as second language",""
+10462,"a3","cpb-aacip-b1235711162.mp4_0077_1083.95_1099.35","cpb-aacip-b1235711162.mp4",1083.95,1099.35,15.4,"cpb-aacip-b1235711162.mp4_0077_1083.95_1099.35.mp4","cpb-aacip-b1235711162.mp4_0077_1083.95_1099.35.wav","","mixed","2026-08-24 16:42:17",1,0.0,1787589723.278428,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10463,"a3","cpb-aacip-b1235711162.mp4_0078_1098.95_1114.35","cpb-aacip-b1235711162.mp4",1098.95,1114.35,15.4,"cpb-aacip-b1235711162.mp4_0078_1098.95_1114.35.mp4","cpb-aacip-b1235711162.mp4_0078_1098.95_1114.35.wav","","mixed","2026-08-24 16:42:40",1,0.0,1787589742.0586524,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10464,"a3","cpb-aacip-b1235711162.mp4_0079_1113.95_1131.51","cpb-aacip-b1235711162.mp4",1113.95,1131.51,17.56,"cpb-aacip-b1235711162.mp4_0079_1113.95_1131.51.mp4","cpb-aacip-b1235711162.mp4_0079_1113.95_1131.51.wav","","mixed","2026-08-24 16:43:21",1,0.0,1787589779.1357484,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10465,"a3","cpb-aacip-b1235711162.mp4_0080_1131.11_1146.51","cpb-aacip-b1235711162.mp4",1131.11,1146.51,15.4,"cpb-aacip-b1235711162.mp4_0080_1131.11_1146.51.mp4","cpb-aacip-b1235711162.mp4_0080_1131.11_1146.51.wav","","mixed","2026-08-24 16:43:40",1,0.0,1787589802.9385624,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10466,"a3","cpb-aacip-b1235711162.mp4_0080_1131.11_1146.51","cpb-aacip-b1235711162.mp4",1131.11,1146.51,15.4,"cpb-aacip-b1235711162.mp4_0080_1131.11_1146.51.mp4","cpb-aacip-b1235711162.mp4_0080_1131.11_1146.51.wav","","mixed","2026-08-24 16:43:57",1,0.0,1787589802.9385624,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10467,"a3","cpb-aacip-b1235711162.mp4_0081_1146.11_1161.51","cpb-aacip-b1235711162.mp4",1146.11,1161.51,15.4,"cpb-aacip-b1235711162.mp4_0081_1146.11_1161.51.mp4","cpb-aacip-b1235711162.mp4_0081_1146.11_1161.51.wav","","spanish","2026-08-24 16:44:22",1,0.0,1787589838.1058908,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10468,"a3","cpb-aacip-b1235711162.mp4_0082_1161.11_1176.51","cpb-aacip-b1235711162.mp4",1161.11,1176.51,15.4,"cpb-aacip-b1235711162.mp4_0082_1161.11_1176.51.mp4","cpb-aacip-b1235711162.mp4_0082_1161.11_1176.51.wav","","spanish","2026-08-24 16:45:03",1,0.0,1787589876.4836721,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10469,"a3","cpb-aacip-b1235711162.mp4_0082_1161.11_1176.51","cpb-aacip-b1235711162.mp4",1161.11,1176.51,15.4,"cpb-aacip-b1235711162.mp4_0082_1161.11_1176.51.mp4","cpb-aacip-b1235711162.mp4_0082_1161.11_1176.51.wav","","spanish","2026-08-24 16:45:37",1,0.0,1787589876.4836721,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Young guy
+Accent: Spanish as second language
+Grandfather
+Accent: Cuban",""
+10470,"a3","cpb-aacip-b1235711162.mp4_0083_1176.11_1191.51","cpb-aacip-b1235711162.mp4",1176.11,1191.51,15.4,"cpb-aacip-b1235711162.mp4_0083_1176.11_1191.51.mp4","cpb-aacip-b1235711162.mp4_0083_1176.11_1191.51.wav","","mixed","2026-08-24 16:49:57",1,0.0,1787589937.3705158,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10471,"a3","cpb-aacip-b1235711162.mp4_0083_1176.11_1191.51","cpb-aacip-b1235711162.mp4",1176.11,1191.51,15.4,"cpb-aacip-b1235711162.mp4_0083_1176.11_1191.51.mp4","cpb-aacip-b1235711162.mp4_0083_1176.11_1191.51.wav","","mixed","2026-08-24 16:50:22",1,0.0,1787589937.3705158,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Joe
+Accent: Cuban",""
+10472,"a3","cpb-aacip-b1235711162.mp4_0084_1191.11_1205.34","cpb-aacip-b1235711162.mp4",1191.11,1205.34,14.23,"cpb-aacip-b1235711162.mp4_0084_1191.11_1205.34.mp4","cpb-aacip-b1235711162.mp4_0084_1191.11_1205.34.wav","","mixed","2026-08-24 16:50:52",1,0.0,1787590223.1681573,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Daughter
+Accent: Spanish as second language",""
+10473,"a3","cpb-aacip-b1235711162.mp4_0085_1204.93_1220.34","cpb-aacip-b1235711162.mp4",1204.93,1220.34,15.4,"cpb-aacip-b1235711162.mp4_0085_1204.93_1220.34.mp4","cpb-aacip-b1235711162.mp4_0085_1204.93_1220.34.wav","","mixed","2026-08-24 16:51:33",1,0.0,1787590256.081173,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10474,"a3","cpb-aacip-b1235711162.mp4_0086_1219.93_1235.34","cpb-aacip-b1235711162.mp4",1219.93,1235.34,15.4,"cpb-aacip-b1235711162.mp4_0086_1219.93_1235.34.mp4","cpb-aacip-b1235711162.mp4_0086_1219.93_1235.34.wav","","mixed","2026-08-24 16:52:03",1,0.0,1787590294.613787,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10475,"a3","cpb-aacip-b1235711162.mp4_0087_1234.93_1250.34","cpb-aacip-b1235711162.mp4",1234.93,1250.34,15.4,"cpb-aacip-b1235711162.mp4_0087_1234.93_1250.34.mp4","cpb-aacip-b1235711162.mp4_0087_1234.93_1250.34.wav","","mixed","2026-08-24 16:52:23",1,0.0,1787590325.4766204,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10476,"a3","cpb-aacip-b1235711162.mp4_0045_633.72_649.12","cpb-aacip-b1235711162.mp4",633.72,649.12,15.4,"cpb-aacip-b1235711162.mp4_0045_633.72_649.12.mp4","cpb-aacip-b1235711162.mp4_0045_633.72_649.12.wav","","mixed","2026-08-24 16:52:36",2,35.59335112571716,1787590347.6263535,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Daughter
+Accent: Cuban",""
+10477,"a3","cpb-aacip-b1235711162.mp4_0058_811.33_824.05","cpb-aacip-b1235711162.mp4",811.33,824.05,12.71,"cpb-aacip-b1235711162.mp4_0058_811.33_824.05.mp4","cpb-aacip-b1235711162.mp4_0058_811.33_824.05.wav","","mixed","2026-08-24 16:52:48",2,22.207739114761353,1787590361.8956356,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Carmen
+Accent: Spanish as second language",""
+10478,"a3","cpb-aacip-b1235711162.mp4_0063_885.98_891.97","cpb-aacip-b1235711162.mp4",885.98,891.97,5.99,"cpb-aacip-b1235711162.mp4_0063_885.98_891.97.mp4","cpb-aacip-b1235711162.mp4_0063_885.98_891.97.wav","","spanish","2026-08-24 16:53:02",2,19.53382897377014,1787590373.5251884,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Joe
+Accent: Cuban
+Daughter
+Accent: Spanish as second language",""
+10479,"a3","cpb-aacip-b1235711162.mp4_0067_936.67_952.39","cpb-aacip-b1235711162.mp4",936.67,952.39,15.72,"cpb-aacip-b1235711162.mp4_0067_936.67_952.39.mp4","cpb-aacip-b1235711162.mp4_0067_936.67_952.39.wav","","mixed","2026-08-24 16:53:11",3,27.222237586975098,1787590385.5325966,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Mother
+Accent: Cuban, English as second language
+Grandmother
+Accent: Cuban",""
+10480,"a3","cpb-aacip-b1235711162.mp4_0075_1061.99_1081.13","cpb-aacip-b1235711162.mp4",1061.99,1081.13,19.14,"cpb-aacip-b1235711162.mp4_0075_1061.99_1081.13.mp4","cpb-aacip-b1235711162.mp4_0075_1061.99_1081.13.wav","","mixed","2026-08-24 16:53:33",2,189.10654258728027,1787590395.015565,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Translanguaging
+Joe
+Accent: Cuban
+Grandfather
+Accent: Cuban",""
+10481,"a3","cpb-aacip-b1235711162.mp4_0088_1249.93_1265.34","cpb-aacip-b1235711162.mp4",1249.93,1265.34,15.4,"cpb-aacip-b1235711162.mp4_0088_1249.93_1265.34.mp4","cpb-aacip-b1235711162.mp4_0088_1249.93_1265.34.wav","","mixed","2026-08-24 16:53:51",1,0.0,1787590417.1829767,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10482,"a3","cpb-aacip-b1235711162.mp4_0088_1249.93_1265.34","cpb-aacip-b1235711162.mp4",1249.93,1265.34,15.4,"cpb-aacip-b1235711162.mp4_0088_1249.93_1265.34.mp4","cpb-aacip-b1235711162.mp4_0088_1249.93_1265.34.wav","","mixed","2026-08-24 16:54:00",1,0.0,1787590417.1829767,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10483,"a3","cpb-aacip-b1235711162.mp4_0089_1264.93_1280.34","cpb-aacip-b1235711162.mp4",1264.93,1280.34,15.4,"cpb-aacip-b1235711162.mp4_0089_1264.93_1280.34.mp4","cpb-aacip-b1235711162.mp4_0089_1264.93_1280.34.wav","","mixed","2026-08-24 16:54:27",1,0.0,1787590440.9706852,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10484,"a3","cpb-aacip-b1235711162.mp4_0090_1279.93_1295.34","cpb-aacip-b1235711162.mp4",1279.93,1295.34,15.4,"cpb-aacip-b1235711162.mp4_0090_1279.93_1295.34.mp4","cpb-aacip-b1235711162.mp4_0090_1279.93_1295.34.wav","","mixed","2026-08-24 16:54:50",1,0.0,1787590469.3979268,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10485,"a3","cpb-aacip-b1235711162.mp4_0090_1279.93_1295.34","cpb-aacip-b1235711162.mp4",1279.93,1295.34,15.4,"cpb-aacip-b1235711162.mp4_0090_1279.93_1295.34.mp4","cpb-aacip-b1235711162.mp4_0090_1279.93_1295.34.wav","","mixed","2026-08-24 16:54:57",1,0.0,1787590469.3979268,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10486,"a3","cpb-aacip-b1235711162.mp4_0091_1294.93_1310.34","cpb-aacip-b1235711162.mp4",1294.93,1310.34,15.4,"cpb-aacip-b1235711162.mp4_0091_1294.93_1310.34.mp4","cpb-aacip-b1235711162.mp4_0091_1294.93_1310.34.wav","","mixed","2026-08-24 16:55:08",1,0.0,1787590497.3774502,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10487,"a3","cpb-aacip-b1235711162.mp4_0092_1309.93_1325.30","cpb-aacip-b1235711162.mp4",1309.93,1325.3,15.37,"cpb-aacip-b1235711162.mp4_0092_1309.93_1325.30.mp4","cpb-aacip-b1235711162.mp4_0092_1309.93_1325.30.wav","","spanish","2026-08-24 17:01:38",1,0.0,1787590887.4238024,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban",""
+10488,"a3","cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91","cpb-aacip-b1235711162.mp4",1325.61,1345.91,20.3,"cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91.mp4","cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91.wav","","spanish","2026-08-24 17:02:05",1,0.0,1787590905.648176,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10489,"a3","cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91","cpb-aacip-b1235711162.mp4",1325.61,1345.91,20.3,"cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91.mp4","cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91.wav","","mixed","2026-08-24 17:02:07",1,0.0,1787590905.648176,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10490,"a3","cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91","cpb-aacip-b1235711162.mp4",1325.61,1345.91,20.3,"cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91.mp4","cpb-aacip-b1235711162.mp4_0093_1325.61_1345.91.wav","","spanish","2026-08-24 17:02:11",1,0.0,1787590905.648176,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10491,"a3","cpb-aacip-b1235711162.mp4_0094_1346.09_1348.17","cpb-aacip-b1235711162.mp4",1346.09,1348.17,2.08,"cpb-aacip-b1235711162.mp4_0094_1346.09_1348.17.mp4","cpb-aacip-b1235711162.mp4_0094_1346.09_1348.17.wav","","english","2026-08-24 17:02:23",1,0.0,1787590938.151067,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10492,"a3","cpb-aacip-b1235711162.mp4_0095_1348.38_1363.78","cpb-aacip-b1235711162.mp4",1348.38,1363.78,15.4,"cpb-aacip-b1235711162.mp4_0095_1348.38_1363.78.mp4","cpb-aacip-b1235711162.mp4_0095_1348.38_1363.78.wav","","mixed","2026-08-24 17:02:38",1,0.0,1787590945.6851048,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10493,"a3","cpb-aacip-b1235711162.mp4_0095_1348.38_1363.78","cpb-aacip-b1235711162.mp4",1348.38,1363.78,15.4,"cpb-aacip-b1235711162.mp4_0095_1348.38_1363.78.mp4","cpb-aacip-b1235711162.mp4_0095_1348.38_1363.78.wav","","mixed","2026-08-24 17:02:52",1,0.0,1787590945.6851048,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10494,"a3","cpb-aacip-b1235711162.mp4_0096_1363.38_1378.78","cpb-aacip-b1235711162.mp4",1363.38,1378.78,15.4,"cpb-aacip-b1235711162.mp4_0096_1363.38_1378.78.mp4","cpb-aacip-b1235711162.mp4_0096_1363.38_1378.78.wav","","spanish","2026-08-24 17:03:10",1,0.0,1787590972.7719262,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10495,"a3","cpb-aacip-b1235711162.mp4_0097_1378.38_1393.78","cpb-aacip-b1235711162.mp4",1378.38,1393.78,15.4,"cpb-aacip-b1235711162.mp4_0097_1378.38_1393.78.mp4","cpb-aacip-b1235711162.mp4_0097_1378.38_1393.78.wav","","mixed","2026-08-24 17:03:22",1,0.0,1787590992.0017552,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10496,"a3","cpb-aacip-b1235711162.mp4_0097_1378.38_1393.78","cpb-aacip-b1235711162.mp4",1378.38,1393.78,15.4,"cpb-aacip-b1235711162.mp4_0097_1378.38_1393.78.mp4","cpb-aacip-b1235711162.mp4_0097_1378.38_1393.78.wav","","mixed","2026-08-24 17:03:31",1,0.0,1787590992.0017552,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10497,"a3","cpb-aacip-b1235711162.mp4_0098_1393.38_1408.78","cpb-aacip-b1235711162.mp4",1393.38,1408.78,15.4,"cpb-aacip-b1235711162.mp4_0098_1393.38_1408.78.mp4","cpb-aacip-b1235711162.mp4_0098_1393.38_1408.78.wav","","mixed","2026-08-24 17:03:53",1,0.0,1787591011.9340928,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10498,"a3","cpb-aacip-b1235711162.mp4_0099_1408.38_1423.78","cpb-aacip-b1235711162.mp4",1408.38,1423.78,15.4,"cpb-aacip-b1235711162.mp4_0099_1408.38_1423.78.mp4","cpb-aacip-b1235711162.mp4_0099_1408.38_1423.78.wav","","mixed","2026-08-24 17:04:10",1,0.0,1787591034.3924057,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10499,"a3","cpb-aacip-b1235711162.mp4_0100_1423.38_1438.78","cpb-aacip-b1235711162.mp4",1423.38,1438.78,15.4,"cpb-aacip-b1235711162.mp4_0100_1423.38_1438.78.mp4","cpb-aacip-b1235711162.mp4_0100_1423.38_1438.78.wav","","mixed","2026-08-24 17:04:25",1,0.0,1787591052.712238,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10500,"a3","cpb-aacip-b1235711162.mp4_0101_1438.38_1453.78","cpb-aacip-b1235711162.mp4",1438.38,1453.78,15.4,"cpb-aacip-b1235711162.mp4_0101_1438.38_1453.78.mp4","cpb-aacip-b1235711162.mp4_0101_1438.38_1453.78.wav","","","2026-08-24 17:04:57",1,0.0,1787591075.0960252,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban
+
+Mother
+Accent: Cuban",""
+10501,"a3","cpb-aacip-b1235711162.mp4_0102_1453.38_1468.78","cpb-aacip-b1235711162.mp4",1453.38,1468.78,15.4,"cpb-aacip-b1235711162.mp4_0102_1453.38_1468.78.mp4","cpb-aacip-b1235711162.mp4_0102_1453.38_1468.78.wav","","mixed","2026-08-24 17:05:04",1,0.0,1787591097.4968672,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10502,"a3","cpb-aacip-b1235711162.mp4_0102_1453.38_1468.78","cpb-aacip-b1235711162.mp4",1453.38,1468.78,15.4,"cpb-aacip-b1235711162.mp4_0102_1453.38_1468.78.mp4","cpb-aacip-b1235711162.mp4_0102_1453.38_1468.78.wav","","mixed","2026-08-24 17:05:45",1,0.0,1787591097.4968672,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Mother
+Accent: English as second language, Cuban
+
+Grandmother
+Accent: Cuban",""
+10503,"a3","cpb-aacip-b1235711162.mp4_0103_1468.38_1483.78","cpb-aacip-b1235711162.mp4",1468.38,1483.78,15.4,"cpb-aacip-b1235711162.mp4_0103_1468.38_1483.78.mp4","cpb-aacip-b1235711162.mp4_0103_1468.38_1483.78.wav","","mixed","2026-08-24 17:06:03",1,0.0,1787591145.4087052,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Mother
+Accent: Cuban
+
+Grandmother
+Accent: Cuban",""
+10504,"a3","cpb-aacip-b1235711162.mp4_0104_1483.38_1498.78","cpb-aacip-b1235711162.mp4",1483.38,1498.78,15.4,"cpb-aacip-b1235711162.mp4_0104_1483.38_1498.78.mp4","cpb-aacip-b1235711162.mp4_0104_1483.38_1498.78.wav","","mixed","2026-08-24 17:06:30",1,0.0,1787591171.1467752,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10505,"a3","cpb-aacip-b1235711162.mp4_0105_1498.38_1513.78","cpb-aacip-b1235711162.mp4",1498.38,1513.78,15.4,"cpb-aacip-b1235711162.mp4_0105_1498.38_1513.78.mp4","cpb-aacip-b1235711162.mp4_0105_1498.38_1513.78.wav","","mixed","2026-08-24 17:07:03",1,0.0,1787591191.674372,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban
+Grandfather
+Accent: Cuban",""
+10506,"a3","cpb-aacip-b1235711162.mp4_0106_1513.38_1528.78","cpb-aacip-b1235711162.mp4",1513.38,1528.78,15.4,"cpb-aacip-b1235711162.mp4_0106_1513.38_1528.78.mp4","cpb-aacip-b1235711162.mp4_0106_1513.38_1528.78.wav","","english","2026-08-24 17:07:26",1,0.0,1787591225.646351,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10507,"a3","cpb-aacip-b1235711162.mp4_0106_1513.38_1528.78","cpb-aacip-b1235711162.mp4",1513.38,1528.78,15.4,"cpb-aacip-b1235711162.mp4_0106_1513.38_1528.78.mp4","cpb-aacip-b1235711162.mp4_0106_1513.38_1528.78.wav","","english","2026-08-24 17:07:37",1,0.0,1787591225.646351,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban",""
+10508,"a3","cpb-aacip-b1235711162.mp4_0107_1528.38_1543.78","cpb-aacip-b1235711162.mp4",1528.38,1543.78,15.4,"cpb-aacip-b1235711162.mp4_0107_1528.38_1543.78.mp4","cpb-aacip-b1235711162.mp4_0107_1528.38_1543.78.wav","","english","2026-08-24 17:07:57",1,0.0,1787591258.180739,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10509,"a3","cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78","cpb-aacip-b1235711162.mp4",1543.38,1558.78,15.4,"cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78.mp4","cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78.wav","","english","2026-08-24 17:08:21",1,0.0,1787591279.690467,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10510,"a3","cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78","cpb-aacip-b1235711162.mp4",1543.38,1558.78,15.4,"cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78.mp4","cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78.wav","","mixed","2026-08-24 17:08:24",1,0.0,1787591279.690467,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10511,"a3","cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78","cpb-aacip-b1235711162.mp4",1543.38,1558.78,15.4,"cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78.mp4","cpb-aacip-b1235711162.mp4_0108_1543.38_1558.78.wav","","mixed","2026-08-24 17:08:43",1,0.0,1787591279.690467,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Mother
+Accent: English as second language, Cuban
+
+Grandfather
+Accent: Cuban",""
+10512,"a3","cpb-aacip-b1235711162.mp4_0109_1558.38_1573.78","cpb-aacip-b1235711162.mp4",1558.38,1573.78,15.4,"cpb-aacip-b1235711162.mp4_0109_1558.38_1573.78.mp4","cpb-aacip-b1235711162.mp4_0109_1558.38_1573.78.wav","","spanish","2026-08-24 17:09:00",1,0.0,1787591323.278186,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban
+Mother
+Accent: Cuban",""
+10513,"a3","cpb-aacip-b1235711162.mp4_0110_1573.38_1588.78","cpb-aacip-b1235711162.mp4",1573.38,1588.78,15.4,"cpb-aacip-b1235711162.mp4_0110_1573.38_1588.78.mp4","cpb-aacip-b1235711162.mp4_0110_1573.38_1588.78.wav","","english","2026-08-24 17:09:22",1,0.0,1787591344.4837492,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10514,"a3","cpb-aacip-b1235711162.mp4_0111_1588.38_1603.78","cpb-aacip-b1235711162.mp4",1588.38,1603.78,15.4,"cpb-aacip-b1235711162.mp4_0111_1588.38_1603.78.mp4","cpb-aacip-b1235711162.mp4_0111_1588.38_1603.78.wav","","spanish","2026-08-24 17:09:43",1,0.0,1787591368.778109,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10515,"a3","cpb-aacip-b1235711162.mp4_0111_1588.38_1603.78","cpb-aacip-b1235711162.mp4",1588.38,1603.78,15.4,"cpb-aacip-b1235711162.mp4_0111_1588.38_1603.78.mp4","cpb-aacip-b1235711162.mp4_0111_1588.38_1603.78.wav","","spanish","2026-08-24 17:09:50",1,0.0,1787591368.778109,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Accent: Cuban",""
+10516,"a3","cpb-aacip-b1235711162.mp4_0112_1603.38_1618.78","cpb-aacip-b1235711162.mp4",1603.38,1618.78,15.4,"cpb-aacip-b1235711162.mp4_0112_1603.38_1618.78.mp4","cpb-aacip-b1235711162.mp4_0112_1603.38_1618.78.wav","","mixed","2026-08-24 17:10:11",1,0.0,1787591390.326376,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban
+
+Grandmother
+Accent: Cuban",""
+10517,"a3","cpb-aacip-b1235711162.mp4_0113_1618.38_1629.99","cpb-aacip-b1235711162.mp4",1618.38,1629.99,11.61,"cpb-aacip-b1235711162.mp4_0113_1618.38_1629.99.mp4","cpb-aacip-b1235711162.mp4_0113_1618.38_1629.99.wav","","","2026-08-24 17:10:31",1,0.0,1787591416.44892,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban
+
+Grandfather
+Accent: Cuban",""
+10518,"a3","cpb-aacip-b1235711162.mp4_0114_1629.59_1644.99","cpb-aacip-b1235711162.mp4",1629.59,1644.99,15.4,"cpb-aacip-b1235711162.mp4_0114_1629.59_1644.99.mp4","cpb-aacip-b1235711162.mp4_0114_1629.59_1644.99.wav","","mixed","2026-08-24 17:10:57",1,0.0,1787591431.3124285,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Father
+Accent: Cuban, English as second language",""
+10519,"a3","cpb-aacip-b1235711162.mp4_0115_1644.59_1659.99","cpb-aacip-b1235711162.mp4",1644.59,1659.99,15.4,"cpb-aacip-b1235711162.mp4_0115_1644.59_1659.99.mp4","cpb-aacip-b1235711162.mp4_0115_1644.59_1659.99.wav","","mixed","2026-08-24 17:11:23",1,0.0,1787591459.4553838,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10520,"a3","cpb-aacip-b1235711162.mp4_0115_1644.59_1659.99","cpb-aacip-b1235711162.mp4",1644.59,1659.99,15.4,"cpb-aacip-b1235711162.mp4_0115_1644.59_1659.99.mp4","cpb-aacip-b1235711162.mp4_0115_1644.59_1659.99.wav","","mixed","2026-08-24 17:11:50",1,0.0,1787591459.4553838,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandfather
+Accent: Cuban
+",""
+10521,"a3","cpb-aacip-b1235711162.mp4_0116_1659.59_1674.99","cpb-aacip-b1235711162.mp4",1659.59,1674.99,15.4,"cpb-aacip-b1235711162.mp4_0116_1659.59_1674.99.mp4","cpb-aacip-b1235711162.mp4_0116_1659.59_1674.99.wav","","other","2026-08-24 17:12:08",1,0.0,1787591510.8041642,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10522,"a3","cpb-aacip-b1235711162.mp4_0117_1674.59_1689.99","cpb-aacip-b1235711162.mp4",1674.59,1689.99,15.4,"cpb-aacip-b1235711162.mp4_0117_1674.59_1689.99.mp4","cpb-aacip-b1235711162.mp4_0117_1674.59_1689.99.wav","","other","2026-08-24 17:12:23",1,0.0,1787591530.9671154,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10523,"a3","cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99","cpb-aacip-b1235711162.mp4",1689.59,1704.99,15.4,"cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99.mp4","cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99.wav","","other","2026-08-24 17:12:33",1,0.0,1787591548.9947107,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10524,"a3","cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99","cpb-aacip-b1235711162.mp4",1689.59,1704.99,15.4,"cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99.mp4","cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99.wav","","spanish","2026-08-24 17:12:45",1,0.0,1787591548.9947107,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","No language audio",""
+10525,"a3","cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99","cpb-aacip-b1235711162.mp4",1689.59,1704.99,15.4,"cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99.mp4","cpb-aacip-b1235711162.mp4_0118_1689.59_1704.99.wav","","spanish","2026-08-24 17:12:49",1,0.0,1787591548.9947107,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10526,"a3","cpb-aacip-b1235711162.mp4_0119_1704.59_1719.99","cpb-aacip-b1235711162.mp4",1704.59,1719.99,15.4,"cpb-aacip-b1235711162.mp4_0119_1704.59_1719.99.mp4","cpb-aacip-b1235711162.mp4_0119_1704.59_1719.99.wav","","spanish","2026-08-24 17:12:55",1,0.0,1787591569.4285507,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10527,"a3","cpb-aacip-b1235711162.mp4_0120_1719.59_1726.70","cpb-aacip-b1235711162.mp4",1719.59,1726.7,7.11,"cpb-aacip-b1235711162.mp4_0120_1719.59_1726.70.mp4","cpb-aacip-b1235711162.mp4_0120_1719.59_1726.70.wav","","spanish","2026-08-24 17:13:33",1,0.0,1787591602.8613093,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10528,"a3","cpb-aacip-b1235711162.mp4_0121_1732.10_1750.05","cpb-aacip-b1235711162.mp4",1732.1,1750.05,17.95,"cpb-aacip-b1235711162.mp4_0121_1732.10_1750.05.mp4","cpb-aacip-b1235711162.mp4_0121_1732.10_1750.05.wav","","english","2026-08-24 17:13:43",1,0.0,1787591615.0761786,0,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","",""
+10581,"a3","cpb-aacip-b1235711162.mp4_0101_1438.38_1453.78","cpb-aacip-b1235711162.mp4",1438.38,1453.78,15.4,"cpb-aacip-b1235711162.mp4_0101_1438.38_1453.78.mp4","cpb-aacip-b1235711162.mp4_0101_1438.38_1453.78.wav","","mixed","2026-08-25 13:11:06",2,0.0,1787663453.7937253,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban
+
+Mother
+Accent: Cuban",""
+10582,"a3","cpb-aacip-b1235711162.mp4_0113_1618.38_1629.99","cpb-aacip-b1235711162.mp4",1618.38,1629.99,11.61,"cpb-aacip-b1235711162.mp4_0113_1618.38_1629.99.mp4","cpb-aacip-b1235711162.mp4_0113_1618.38_1629.99.wav","","mixed","2026-08-25 13:11:18",2,0.0,1787663473.5996683,1,"spa_raw_clips_cpb-aacip-b1235711162.mp4_vadish","Grandmother
+Accent: Cuban
+
+Grandfather
+Accent: Cuban",""
