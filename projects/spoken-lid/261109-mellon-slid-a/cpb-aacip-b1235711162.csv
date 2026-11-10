@@ -1,0 +1,290 @@
+annotator,clip-set,clip,start,end,label,mixed-order,notes
+a3,spa_raw_clips_vadish,1,0.0,15.2,other,,No language audio
+a3,spa_raw_clips_vadish,2,14.8,30.2,other,,No language audio
+a3,spa_raw_clips_vadish,3,29.8,41.88,other,,No language audio
+a3,spa_raw_clips_vadish,4,43.03,61.81,english,,
+a3,spa_raw_clips_vadish,5,64.31,74.39,other,,No language audio
+a3,spa_raw_clips_vadish,6,74.66,90.06,english,,Audio: English. Written language on screen is Spanish
+a3,spa_raw_clips_vadish,7,89.66,105.06,mixed,,"Woman singing: English
+Man singing: Spanish"
+a3,spa_raw_clips_vadish,8,104.66,121.46,spanish,,
+a3,spa_raw_clips_vadish,9,123.71,133.19,mixed,,"School's principal: English
+Woman with the black and white dress
+Accent: Cuban"
+a3,spa_raw_clips_vadish,10,133.34,147.66,mixed,,"Woman with the black and white dress
+Spanish accent: Cuban
+English accent: English as second language"
+a3,spa_raw_clips_vadish,11,147.26,154.11,english,,
+a3,spa_raw_clips_vadish,12,155.27,169.43,english,,"Woman with the black and white dress
+English accent: English as second language"
+a3,spa_raw_clips_vadish,13,169.03,187.62,mixed,,"Woman with the black and white dress
+Spanish accent: Cuban
+English accent: English as second language"
+a3,spa_raw_clips_vadish,14,187.75,200.78,english,,
+a3,spa_raw_clips_vadish,15,208.57,222.2,english,,
+a3,spa_raw_clips_vadish,16,221.8,237.2,mixed,,"Translanguaging
+
+Joe
+Accent: Cuban, Spanglish"
+a3,spa_raw_clips_vadish,17,236.8,245.33,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,18,246.51,264.61,mixed,,Accent: Cuban
+a3,spa_raw_clips_vadish,19,265.85,268.94,english,,Accent: English as second language
+a3,spa_raw_clips_vadish,20,269.38,289.57,mixed,,"Translanguaging
+Woman: English as second language
+Joe: Cuban"
+a3,spa_raw_clips_vadish,21,290.76,308.98,mixed,,"Translanguaging
+Woman in black and white dress
+Spanish accent: Cuban
+English accent: English as second language
+Old Lady
+Accent: Cuban"
+a3,spa_raw_clips_vadish,22,309.45,321.17,mixed,,"Woman with black and white dress
+Accent: Cuban
+
+"
+a3,spa_raw_clips_vadish,23,322.08,330.55,english,,"Woman with the black and white dress
+Accent: English as second language"
+a3,spa_raw_clips_vadish,24,330.75,348.34,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,25,348.61,364.0,english,,"Woman
+Accent: English as second language"
+a3,spa_raw_clips_vadish,26,363.61,370.05,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,27,370.21,388.76,mixed,,"Woman with the black and white dress
+Accent: English as second language
+
+Old man
+Accent: Cuban
+
+Old lady
+Accent: Cuban"
+a3,spa_raw_clips_vadish,28,389.12,394.45,mixed,,Accent: Cuban
+a3,spa_raw_clips_vadish,29,394.59,409.99,spanish,,"Girl
+Accent: Spanish as second language"
+a3,spa_raw_clips_vadish,30,409.59,427.86,mixed,,Accent: Cuban
+a3,spa_raw_clips_vadish,31,428.15,432.32,english,,"Father
+Accent: English as second language"
+a3,spa_raw_clips_vadish,32,432.42,447.82,mixed,,"Translanguaging
+Joe
+Spanish accent: Cuban"
+a3,spa_raw_clips_vadish,33,447.42,462.82,spanish,,"Grandfather
+Accent: Cuban
+Joe
+Accent: Cuban, Spanglish"
+a3,spa_raw_clips_vadish,34,462.42,480.62,mixed,,"Grandfather
+Accent: Cuban
+Mother
+Accent: English as second language"
+a3,spa_raw_clips_vadish,35,481.27,496.67,mixed,,"Father:
+Accent: English as second language
+Mother:
+Accent: Cuban"
+a3,spa_raw_clips_vadish,36,496.27,511.67,mixed,,"Father
+Accent: English as second language
+"
+a3,spa_raw_clips_vadish,37,511.27,524.45,mixed,,"Grandfather
+Accent: Cuban
+Father
+Accent: English as second language"
+a3,spa_raw_clips_vadish,38,524.64,540.04,mixed,,"Father
+Spanish accent: Cuban
+English accent: English as second language
+Mother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,39,539.64,553.85,mixed,,"Father
+Accent: Cuban
+"
+a3,spa_raw_clips_vadish,40,553.45,572.41,mixed,,"Father
+Accent: English as second language, Spanglish"
+a3,spa_raw_clips_vadish,41,574.51,589.91,mixed,,"Father
+Accent: Cuban"
+a3,spa_raw_clips_vadish,42,589.51,599.9,mixed,,"Grandfather
+Accent: Cuban
+Father
+Accent: English as second language"
+a3,spa_raw_clips_vadish,43,599.5,613.82,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,44,614.0,633.59,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,45,633.72,649.12,mixed,,"Translanguaging
+Daughter
+Accent: Cuban"
+a3,spa_raw_clips_vadish,46,648.72,665.77,mixed,,"Grandfather
+Accent: Cuban
+Father
+Accent: English as second language"
+a3,spa_raw_clips_vadish,47,665.9,672.1,other,,No language audio
+a3,spa_raw_clips_vadish,48,673.2,691.36,mixed,,"Translanguaging
+Father
+Accent: Cuban, English as second language
+Joe
+Accent: Cuban
+"
+a3,spa_raw_clips_vadish,49,691.75,698.16,spanish,,"Father
+Accent: Cuban"
+a3,spa_raw_clips_vadish,50,698.28,713.68,mixed,,"Translanguaging
+Father
+Accent: Cuban, English as second language
+"
+a3,spa_raw_clips_vadish,51,713.28,730.6,mixed,,"Father
+Accent: Cuban
+Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,52,731.04,742.75,english,,
+a3,spa_raw_clips_vadish,53,743.18,758.58,english,,
+a3,spa_raw_clips_vadish,54,758.18,774.03,mixed,,"Daughter
+Accent: Spanish as second language"
+a3,spa_raw_clips_vadish,55,773.63,792.95,mixed,,"Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,56,792.54,795.92,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,57,796.03,811.19,mixed,,"Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,58,811.33,824.05,mixed,,"Carmen
+Accent: Spanish as second language"
+a3,spa_raw_clips_vadish,59,824.31,840.22,spanish,,"Daughter
+Accent: Spanish as second language
+Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,60,841.06,856.46,english,,
+a3,spa_raw_clips_vadish,61,856.06,870.6,mixed,,"Father
+Accent: Cuban"
+a3,spa_raw_clips_vadish,62,870.98,886.38,spanish,,"Father
+Accent: Cuban
+Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,63,885.98,891.97,spanish,,"Joe
+Accent: Cuban
+Daughter
+Accent: Spanish as second language"
+a3,spa_raw_clips_vadish,64,893.13,911.89,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,65,912.07,916.24,other,,No language audio
+a3,spa_raw_clips_vadish,66,918.48,936.21,mixed,,"Mother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,67,936.67,952.39,mixed,,"Mother
+Accent: Cuban, English as second language
+Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,68,953.48,965.0,spanish,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,69,965.42,981.81,mixed,,"Grandmother: English as second language, Cuban
+Mother: Cuban"
+a3,spa_raw_clips_vadish,70,982.42,997.82,mixed,,"Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,71,997.42,1012.82,mixed,,"Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,72,1012.42,1022.37,english,,
+a3,spa_raw_clips_vadish,73,1023.86,1044.12,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,74,1044.37,1061.22,mixed,,"Joe
+Accent: Cuban
+Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,75,1061.99,1081.13,mixed,,"Translanguaging
+Joe
+Accent: Cuban
+Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,76,1081.39,1083.05,english,,"Grandfather
+Accent: English as second language"
+a3,spa_raw_clips_vadish,77,1083.95,1099.35,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,78,1098.95,1114.35,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,79,1113.95,1131.51,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,80,1131.11,1146.51,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,81,1146.11,1161.51,spanish,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,82,1161.11,1176.51,spanish,,"Young guy
+Accent: Spanish as second language
+Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,83,1176.11,1191.51,mixed,,"Translanguaging
+Joe
+Accent: Cuban"
+a3,spa_raw_clips_vadish,84,1191.11,1205.34,mixed,,"Daughter
+Accent: Spanish as second language"
+a3,spa_raw_clips_vadish,85,1204.93,1220.34,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,86,1219.93,1235.34,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,87,1234.93,1250.34,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,88,1249.93,1265.34,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,89,1264.93,1280.34,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,90,1279.93,1295.34,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,91,1294.93,1310.34,mixed,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,92,1309.93,1325.3,spanish,,"Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,93,1325.61,1345.91,spanish,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,94,1346.09,1348.17,english,,
+a3,spa_raw_clips_vadish,95,1348.38,1363.78,mixed,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,96,1363.38,1378.78,spanish,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,97,1378.38,1393.78,mixed,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,98,1393.38,1408.78,mixed,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,99,1408.38,1423.78,mixed,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,100,1423.38,1438.78,mixed,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,101,1438.38,1453.78,mixed,,"Grandmother
+Accent: Cuban
+
+Mother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,102,1453.38,1468.78,mixed,,"Mother
+Accent: English as second language, Cuban
+
+Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,103,1468.38,1483.78,mixed,,"Mother
+Accent: Cuban
+
+Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,104,1483.38,1498.78,mixed,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,105,1498.38,1513.78,mixed,,"Grandmother
+Accent: Cuban
+Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,106,1513.38,1528.78,english,,"Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,107,1528.38,1543.78,english,,
+a3,spa_raw_clips_vadish,108,1543.38,1558.78,mixed,,"Mother
+Accent: English as second language, Cuban
+
+Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,109,1558.38,1573.78,spanish,,"Father
+Accent: Cuban
+Mother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,110,1573.38,1588.78,english,,
+a3,spa_raw_clips_vadish,111,1588.38,1603.78,spanish,,Accent: Cuban
+a3,spa_raw_clips_vadish,112,1603.38,1618.78,mixed,,"Father
+Accent: Cuban
+
+Grandmother
+Accent: Cuban"
+a3,spa_raw_clips_vadish,113,1618.38,1629.99,mixed,,"Grandmother
+Accent: Cuban
+
+Grandfather
+Accent: Cuban"
+a3,spa_raw_clips_vadish,114,1629.59,1644.99,mixed,,"Father
+Accent: Cuban, English as second language"
+a3,spa_raw_clips_vadish,115,1644.59,1659.99,mixed,,"Grandfather
+Accent: Cuban
+"
+a3,spa_raw_clips_vadish,116,1659.59,1674.99,other,,No language audio
+a3,spa_raw_clips_vadish,117,1674.59,1689.99,other,,No language audio
+a3,spa_raw_clips_vadish,118,1689.59,1704.99,spanish,,
+a3,spa_raw_clips_vadish,119,1704.59,1719.99,spanish,,
+a3,spa_raw_clips_vadish,120,1719.59,1726.7,spanish,,
+a3,spa_raw_clips_vadish,121,1732.1,1750.05,english,,
