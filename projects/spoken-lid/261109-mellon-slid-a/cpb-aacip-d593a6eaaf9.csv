@@ -1,399 +1,399 @@
-annotator,clip-set,clip,start,end,label,mixed-order,notes
-a5,smo_raw_clips_vadish,1,14.44,34.46,English,,
-a5,smo_raw_clips_vadish,2,34.78,39.46,English,,
-a5,smo_raw_clips_vadish,3,44.24,63.3,English,,
-a5,smo_raw_clips_vadish,4,75.42,95.66,Mixed,,"Ecumenical Service: ""Agaga Sa e"" performed in the Samoan language as the opening hymn for the sacred service.
+annotator,clip-set,clip,start_ms,end_ms,label,mixed-order,notes
+a5,smo_raw_clips_vadish,1,14440,34460,English,,
+a5,smo_raw_clips_vadish,2,34780,39460,English,,
+a5,smo_raw_clips_vadish,3,44240,63300,English,,
+a5,smo_raw_clips_vadish,4,75420,95660,Mixed,,"Ecumenical Service: ""Agaga Sa e"" performed in the Samoan language as the opening hymn for the sacred service.
 "
-a5,smo_raw_clips_vadish,5,216.38,228.3,Samoan,,
-a5,smo_raw_clips_vadish,6,228.42,243.81,Mixed,Samoan to English,KVZK TV reporting live from Utulei Beach.  Pacific Arts Festival
-a5,smo_raw_clips_vadish,7,243.42,253.21,English,,
-a5,smo_raw_clips_vadish,8,253.54,267.54,English,,
-a5,smo_raw_clips_vadish,9,274.42,284.25,Samoan,,
-a5,smo_raw_clips_vadish,10,294.95,312.0,Other,,no language spoken.
-a5,smo_raw_clips_vadish,11,320.26,335.74,Other,,no language spoken
-a5,smo_raw_clips_vadish,12,339.96,359.47,Other,,no language spoken.
-a5,smo_raw_clips_vadish,13,359.66,374.19,Other,,no language spoken.
-a5,smo_raw_clips_vadish,14,389.35,406.53,Other,,no speech.
-a5,smo_raw_clips_vadish,15,407.51,424.8,Samoan,,
-a5,smo_raw_clips_vadish,16,425.52,436.29,Other,,no speech
-a5,smo_raw_clips_vadish,17,443.3,448.38,Other,,no spoken language
-a5,smo_raw_clips_vadish,18,464.02,468.56,English,,
-a5,smo_raw_clips_vadish,19,470.0,485.72,English,,
-a5,smo_raw_clips_vadish,20,487.24,503.2,Other,,"conch shells. ""Foafoa"" "
-a5,smo_raw_clips_vadish,21,506.17,524.47,Other,,"Conch shells ""foafoa"""
-a5,smo_raw_clips_vadish,22,526.3,539.2,Other,,"conch shells "" Foafoa"""
-a5,smo_raw_clips_vadish,23,562.27,577.67,Samoan,,10th Pacific Arts Festival Opening
-a5,smo_raw_clips_vadish,24,577.27,592.67,Samoan,,
-a5,smo_raw_clips_vadish,25,592.27,607.67,Samoan,,
-a5,smo_raw_clips_vadish,26,607.27,622.67,Samoan,,
-a5,smo_raw_clips_vadish,27,622.27,637.67,Mixed,Samoan to English,
-a5,smo_raw_clips_vadish,28,637.27,652.67,English,,
-a5,smo_raw_clips_vadish,29,652.27,667.67,English,,
-a5,smo_raw_clips_vadish,30,667.27,682.67,English,,
-a5,smo_raw_clips_vadish,31,682.27,699.27,English,,
-a5,smo_raw_clips_vadish,32,698.87,712.77,English,,
-a5,smo_raw_clips_vadish,33,712.97,728.37,English,,
-a5,smo_raw_clips_vadish,34,727.97,743.37,English,,
-a5,smo_raw_clips_vadish,35,742.97,758.37,English,,
-a5,smo_raw_clips_vadish,36,757.97,773.37,English,,
-a5,smo_raw_clips_vadish,37,772.97,788.37,Mixed,English to Samoan,
-a5,smo_raw_clips_vadish,38,787.97,803.37,Samoan,,
-a5,smo_raw_clips_vadish,39,802.97,818.37,Samoan,,
-a5,smo_raw_clips_vadish,40,817.97,833.37,Samoan,,"Opening day of 10th Pacific Arts Festival at Utulei Su'igaula Beach, American Samoa."
-a5,smo_raw_clips_vadish,41,832.97,848.37,Samoan,,
-a5,smo_raw_clips_vadish,42,847.97,856.53,Samoan,,
-a5,smo_raw_clips_vadish,43,856.72,871.92,Samoan,,
-a5,smo_raw_clips_vadish,44,872.2,887.61,Samoan,,
-a5,smo_raw_clips_vadish,45,887.2,902.61,Samoan,,Samoan language with background Cook. Islands music 
-a5,smo_raw_clips_vadish,46,902.2,917.61,Samoan,,Samoan Language with background Cook Islands music. 
-a5,smo_raw_clips_vadish,47,917.2,932.61,Samoan,,Samoan Language with background Cook Islands music. 
-a5,smo_raw_clips_vadish,48,932.2,947.61,Samoan,,Samoan Language with background Cook Islands music. 
-a5,smo_raw_clips_vadish,49,947.2,962.61,Samoan,,Samoan Language with background Cook Islands music. 
-a5,smo_raw_clips_vadish,50,962.2,977.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,51,977.2,992.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,52,992.2,1007.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,53,1007.2,1022.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,54,1022.2,1037.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,55,1037.2,1052.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,56,1052.2,1067.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,57,1067.2,1082.61,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,58,1082.2,1087.83,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,59,1095.46,1110.86,Other,,ukulele music prelude
-a5,smo_raw_clips_vadish,60,1110.46,1125.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,61,1125.46,1140.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,62,1140.46,1155.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,63,1155.46,1170.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,64,1170.46,1185.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,65,1185.46,1200.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,66,1200.46,1215.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,67,1215.46,1230.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,68,1230.46,1245.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,69,1245.46,1260.86,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,70,1260.46,1268.48,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,71,1269.04,1284.44,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,72,1284.04,1299.44,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,73,1299.04,1314.44,Other,,Cook Islands music and entertainment.
-a5,smo_raw_clips_vadish,74,1314.04,1329.44,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,75,1329.04,1344.44,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,76,1344.04,1359.44,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,77,1359.04,1374.44,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,78,1374.04,1389.44,Other,,"Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,5,216380,228300,Samoan,,
+a5,smo_raw_clips_vadish,6,228420,243810,Mixed,Samoan to English,KVZK TV reporting live from Utulei Beach.  Pacific Arts Festival
+a5,smo_raw_clips_vadish,7,243420,253210,English,,
+a5,smo_raw_clips_vadish,8,253540,267540,English,,
+a5,smo_raw_clips_vadish,9,274420,284250,Samoan,,
+a5,smo_raw_clips_vadish,10,294950,312000,Other,,no language spoken.
+a5,smo_raw_clips_vadish,11,320260,335740,Other,,no language spoken
+a5,smo_raw_clips_vadish,12,339960,359470,Other,,no language spoken.
+a5,smo_raw_clips_vadish,13,359660,374190,Other,,no language spoken.
+a5,smo_raw_clips_vadish,14,389350,406530,Other,,no speech.
+a5,smo_raw_clips_vadish,15,407510,424800,Samoan,,
+a5,smo_raw_clips_vadish,16,425520,436290,Other,,no speech
+a5,smo_raw_clips_vadish,17,443300,448380,Other,,no spoken language
+a5,smo_raw_clips_vadish,18,464020,468560,English,,
+a5,smo_raw_clips_vadish,19,470000,485720,English,,
+a5,smo_raw_clips_vadish,20,487240,503200,Other,,"conch shells. ""Foafoa"" "
+a5,smo_raw_clips_vadish,21,506170,524470,Other,,"Conch shells ""foafoa"""
+a5,smo_raw_clips_vadish,22,526300,539200,Other,,"conch shells "" Foafoa"""
+a5,smo_raw_clips_vadish,23,562270,577670,Samoan,,10th Pacific Arts Festival Opening
+a5,smo_raw_clips_vadish,24,577270,592670,Samoan,,
+a5,smo_raw_clips_vadish,25,592270,607670,Samoan,,
+a5,smo_raw_clips_vadish,26,607270,622670,Samoan,,
+a5,smo_raw_clips_vadish,27,622270,637670,Mixed,Samoan to English,
+a5,smo_raw_clips_vadish,28,637270,652670,English,,
+a5,smo_raw_clips_vadish,29,652270,667670,English,,
+a5,smo_raw_clips_vadish,30,667270,682670,English,,
+a5,smo_raw_clips_vadish,31,682270,699270,English,,
+a5,smo_raw_clips_vadish,32,698870,712770,English,,
+a5,smo_raw_clips_vadish,33,712970,728370,English,,
+a5,smo_raw_clips_vadish,34,727970,743370,English,,
+a5,smo_raw_clips_vadish,35,742970,758370,English,,
+a5,smo_raw_clips_vadish,36,757970,773370,English,,
+a5,smo_raw_clips_vadish,37,772970,788370,Mixed,English to Samoan,
+a5,smo_raw_clips_vadish,38,787970,803370,Samoan,,
+a5,smo_raw_clips_vadish,39,802970,818370,Samoan,,
+a5,smo_raw_clips_vadish,40,817970,833370,Samoan,,"Opening day of 10th Pacific Arts Festival at Utulei Su'igaula Beach, American Samoa."
+a5,smo_raw_clips_vadish,41,832970,848370,Samoan,,
+a5,smo_raw_clips_vadish,42,847970,856530,Samoan,,
+a5,smo_raw_clips_vadish,43,856720,871920,Samoan,,
+a5,smo_raw_clips_vadish,44,872200,887610,Samoan,,
+a5,smo_raw_clips_vadish,45,887200,902610,Samoan,,Samoan language with background Cook. Islands music 
+a5,smo_raw_clips_vadish,46,902200,917610,Samoan,,Samoan Language with background Cook Islands music. 
+a5,smo_raw_clips_vadish,47,917200,932610,Samoan,,Samoan Language with background Cook Islands music. 
+a5,smo_raw_clips_vadish,48,932200,947610,Samoan,,Samoan Language with background Cook Islands music. 
+a5,smo_raw_clips_vadish,49,947200,962610,Samoan,,Samoan Language with background Cook Islands music. 
+a5,smo_raw_clips_vadish,50,962200,977610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,51,977200,992610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,52,992200,1007610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,53,1007200,1022610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,54,1022200,1037610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,55,1037200,1052610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,56,1052200,1067610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,57,1067200,1082610,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,58,1082200,1087830,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,59,1095460,1110860,Other,,ukulele music prelude
+a5,smo_raw_clips_vadish,60,1110460,1125860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,61,1125460,1140860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,62,1140460,1155860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,63,1155460,1170860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,64,1170460,1185860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,65,1185460,1200860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,66,1200460,1215860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,67,1215460,1230860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,68,1230460,1245860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,69,1245460,1260860,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,70,1260460,1268480,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,71,1269040,1284440,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,72,1284040,1299440,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,73,1299040,1314440,Other,,Cook Islands music and entertainment.
+a5,smo_raw_clips_vadish,74,1314040,1329440,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,75,1329040,1344440,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,76,1344040,1359440,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,77,1359040,1374440,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,78,1374040,1389440,Other,,"Tahiti Islands music and entertainment.
 "
-a5,smo_raw_clips_vadish,79,1389.04,1404.44,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,80,1404.04,1415.58,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,81,1425.37,1441.1,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,82,1441.62,1460.44,Other,,Tahiti Islands music and entertainment.
-a5,smo_raw_clips_vadish,83,1465.82,1483.81,Other,,background conversation of audience.
-a5,smo_raw_clips_vadish,84,1505.6,1520.82,Other,,background conversation of audience in english
-a5,smo_raw_clips_vadish,85,1521.13,1536.53,Samoan,,
-a5,smo_raw_clips_vadish,86,1536.13,1551.53,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,87,1551.13,1566.53,English,,
-a5,smo_raw_clips_vadish,88,1566.13,1581.53,Samoan,,
-a5,smo_raw_clips_vadish,89,1581.13,1596.53,Samoan,,
-a5,smo_raw_clips_vadish,90,1596.13,1606.79,Samoan,,
-a5,smo_raw_clips_vadish,91,1606.39,1617.96,Samoan,,
-a5,smo_raw_clips_vadish,92,1618.11,1633.91,Samoan,,
-a5,smo_raw_clips_vadish,93,1635.42,1646.37,Samoan,,
-a5,smo_raw_clips_vadish,94,1646.56,1662.17,Samoan,,
-a5,smo_raw_clips_vadish,95,1662.46,1681.24,Samoan,,
-a5,smo_raw_clips_vadish,96,1681.46,1696.86,English,,
-a5,smo_raw_clips_vadish,97,1696.46,1703.04,English,,
-a5,smo_raw_clips_vadish,98,1703.59,1716.82,Mixed,,English to Samoan
-a5,smo_raw_clips_vadish,99,1717.17,1732.99,Samoan,,
-a5,smo_raw_clips_vadish,100,1733.56,1750.73,English,,
-a5,smo_raw_clips_vadish,101,1751.46,1769.3,English,,
-a5,smo_raw_clips_vadish,102,1769.48,1777.28,English,,
-a5,smo_raw_clips_vadish,103,1777.68,1796.72,Samoan,,
-a5,smo_raw_clips_vadish,104,1797.6,1813.0,Samoan,,Samoan dancing.
-a5,smo_raw_clips_vadish,105,1812.6,1832.04,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
-a5,smo_raw_clips_vadish,106,1832.16,1847.56,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
-a5,smo_raw_clips_vadish,107,1847.16,1862.56,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
-a5,smo_raw_clips_vadish,108,1862.16,1877.56,Samoan,,"Samoan singing and dancing. ""Samoa la'u pele."""
-a5,smo_raw_clips_vadish,109,1877.16,1892.56,Samoan,,Samoan singing and dancing. 
-a5,smo_raw_clips_vadish,110,1892.16,1907.56,Samoan,,Samoan singing and dancing. 
-a5,smo_raw_clips_vadish,111,1907.16,1922.56,Samoan,,Samoan singing and dancing.
-a5,smo_raw_clips_vadish,112,1922.16,1937.56,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
-a5,smo_raw_clips_vadish,113,1937.16,1947.46,Samoan,,"Samoan singing and dancing. ""E a togi e"""
-a5,smo_raw_clips_vadish,114,1947.06,1962.46,Samoan,,
-a5,smo_raw_clips_vadish,115,1962.06,1976.8,Samoan,,
-a5,smo_raw_clips_vadish,116,1977.05,1995.46,Samoan,,
-a5,smo_raw_clips_vadish,117,1996.04,2009.04,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,118,2012.93,2025.32,English,,
-a5,smo_raw_clips_vadish,119,2032.38,2052.54,English,,
-a5,smo_raw_clips_vadish,120,2052.81,2070.16,English,,
-a5,smo_raw_clips_vadish,121,2116.77,2131.04,English,,
-a5,smo_raw_clips_vadish,122,2151.01,2167.03,Samoan,,
-a5,smo_raw_clips_vadish,123,2183.51,2203.36,Samoan,,
-a5,smo_raw_clips_vadish,124,2203.71,2221.72,Mixed,Samoan to English,
-a5,smo_raw_clips_vadish,125,2222.19,2226.79,English,,
-a5,smo_raw_clips_vadish,126,2240.24,2259.8,English,,
-a5,smo_raw_clips_vadish,127,2260.03,2262.17,Samoan,,
-a5,smo_raw_clips_vadish,128,2275.19,2291.04,Samoan,,
-a5,smo_raw_clips_vadish,129,2297.89,2311.57,Samoan,,
-a5,smo_raw_clips_vadish,130,2316.17,2321.64,Samoan,,
-a5,smo_raw_clips_vadish,131,2342.3,2355.9,Samoan,,
-a5,smo_raw_clips_vadish,132,2363.0,2375.72,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,133,2394.31,2413.22,Mixed,Samoan and English,
-a5,smo_raw_clips_vadish,134,2421.71,2438.61,Mixed,,Samoan and English
-a5,smo_raw_clips_vadish,135,2452.06,2468.04,Mixed,,Samoan and English
-a5,smo_raw_clips_vadish,136,2472.29,2486.85,Mixed,,Samoan and English
-a5,smo_raw_clips_vadish,137,2503.07,2519.0,Samoan,,Samoan 
-a5,smo_raw_clips_vadish,138,2553.23,2573.26,Samoan,,
-a5,smo_raw_clips_vadish,139,2576.48,2591.94,Samoan,,conch shells
-a5,smo_raw_clips_vadish,140,2595.36,2602.07,Samoan,,conch shells
-a5,smo_raw_clips_vadish,141,2603.67,2622.48,Samoan,,conch shells
-a5,smo_raw_clips_vadish,142,2629.73,2649.86,Samoan,,
-a5,smo_raw_clips_vadish,143,2650.25,2666.39,Samoan,,
-a5,smo_raw_clips_vadish,144,2666.52,2685.06,Samoan,,
-a5,smo_raw_clips_vadish,145,2685.17,2703.72,Samoan,,
-a5,smo_raw_clips_vadish,146,2706.46,2722.69,Samoan,,
-a5,smo_raw_clips_vadish,147,2723.75,2740.05,Samoan,,
-a5,smo_raw_clips_vadish,148,2740.6,2746.62,English,,
-a5,smo_raw_clips_vadish,149,2755.34,2775.61,Samoan,,
-a5,smo_raw_clips_vadish,150,2775.22,2790.61,Samoan,,
-a5,smo_raw_clips_vadish,151,2790.22,2804.26,Samoan,,
-a5,smo_raw_clips_vadish,152,2812.28,2826.09,Samoan,,
-a5,smo_raw_clips_vadish,153,2830.94,2850.92,Samoan,,
-a5,smo_raw_clips_vadish,154,2851.3,2861.07,Samoan,,
-a5,smo_raw_clips_vadish,155,2863.86,2882.1,Samoan,,
-a5,smo_raw_clips_vadish,156,2889.48,2907.83,Samoan,,
-a5,smo_raw_clips_vadish,157,2908.87,2925.93,Other,,"conch shell ""foafoa"""
-a5,smo_raw_clips_vadish,158,2929.14,2939.98,Other,,"conch chell ""foafoa"""
-a5,smo_raw_clips_vadish,159,2940.14,2957.3,Samoan,,
-a5,smo_raw_clips_vadish,160,2957.44,2977.26,Samoan,,
-a5,smo_raw_clips_vadish,161,2977.56,2991.94,Samoan,,
-a5,smo_raw_clips_vadish,162,2995.94,3013.64,Mixed,,english and Samoan
-a5,smo_raw_clips_vadish,163,3013.75,3017.77,Samoan,,
-a5,smo_raw_clips_vadish,164,3026.9,3043.85,Samoan,,
-a5,smo_raw_clips_vadish,165,3045.44,3064.87,Samoan,,
-a5,smo_raw_clips_vadish,166,3068.21,3085.2,Samoan,,
-a5,smo_raw_clips_vadish,167,3085.37,3105.35,Samoan,,
-a5,smo_raw_clips_vadish,168,3106.34,3125.73,Samoan,,
-a5,smo_raw_clips_vadish,169,3126.08,3139.09,Samoan,,
-a5,smo_raw_clips_vadish,170,3184.14,3204.35,English,,
-a5,smo_raw_clips_vadish,171,3206.61,3225.14,English,,
-a5,smo_raw_clips_vadish,172,3225.37,3241.06,Samoan,,
-a5,smo_raw_clips_vadish,173,3243.48,3261.66,Samoan,,
-a5,smo_raw_clips_vadish,174,3261.91,3277.18,Mixed,English to Samoan,
-a5,smo_raw_clips_vadish,175,3281.61,3300.86,Mixed,,Samoan and English
-a5,smo_raw_clips_vadish,176,3301.28,3321.38,Mixed,,Samoan background and English announcement.
-a5,smo_raw_clips_vadish,177,3324.21,3333.83,Samoan,,
-a5,smo_raw_clips_vadish,178,3337.31,3352.71,Samoan,,
-a5,smo_raw_clips_vadish,179,3352.31,3365.91,Samoan,,
-a5,smo_raw_clips_vadish,180,3372.62,3388.02,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,181,3387.62,3403.02,English,,
-a5,smo_raw_clips_vadish,182,3402.62,3418.02,English,,
-a5,smo_raw_clips_vadish,183,3417.62,3433.02,English,,
-a5,smo_raw_clips_vadish,184,3432.62,3445.96,Samoan,,
-a5,smo_raw_clips_vadish,185,3446.2,3461.6,Samoan,,
-a5,smo_raw_clips_vadish,186,3461.2,3481.52,English,,
-a5,smo_raw_clips_vadish,187,3481.12,3496.52,English,,
-a5,smo_raw_clips_vadish,188,3496.12,3511.52,Samoan,,
-a5,smo_raw_clips_vadish,189,3511.12,3526.52,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,190,3526.12,3541.52,English,,
-a5,smo_raw_clips_vadish,191,3541.12,3551.84,English,,
-a5,smo_raw_clips_vadish,192,3551.44,3566.84,Samoan,,
-a5,smo_raw_clips_vadish,193,3566.44,3572.16,Samoan,,
-a5,smo_raw_clips_vadish,194,3572.75,3588.15,Samoan,,
-a5,smo_raw_clips_vadish,195,3587.75,3603.15,Samoan,,
-a5,smo_raw_clips_vadish,196,3602.75,3618.15,Samoan,,"Due to the unusual vocabulary in Samoan culture, you will hear english words in the middle of Samoan Sentence.
+a5,smo_raw_clips_vadish,79,1389040,1404440,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,80,1404040,1415580,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,81,1425370,1441100,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,82,1441620,1460440,Other,,Tahiti Islands music and entertainment.
+a5,smo_raw_clips_vadish,83,1465820,1483810,Other,,background conversation of audience.
+a5,smo_raw_clips_vadish,84,1505600,1520820,Other,,background conversation of audience in english
+a5,smo_raw_clips_vadish,85,1521130,1536530,Samoan,,
+a5,smo_raw_clips_vadish,86,1536130,1551530,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,87,1551130,1566530,English,,
+a5,smo_raw_clips_vadish,88,1566130,1581530,Samoan,,
+a5,smo_raw_clips_vadish,89,1581130,1596530,Samoan,,
+a5,smo_raw_clips_vadish,90,1596130,1606790,Samoan,,
+a5,smo_raw_clips_vadish,91,1606390,1617960,Samoan,,
+a5,smo_raw_clips_vadish,92,1618110,1633910,Samoan,,
+a5,smo_raw_clips_vadish,93,1635420,1646370,Samoan,,
+a5,smo_raw_clips_vadish,94,1646560,1662170,Samoan,,
+a5,smo_raw_clips_vadish,95,1662460,1681240,Samoan,,
+a5,smo_raw_clips_vadish,96,1681460,1696860,English,,
+a5,smo_raw_clips_vadish,97,1696460,1703040,English,,
+a5,smo_raw_clips_vadish,98,1703590,1716820,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,99,1717170,1732990,Samoan,,
+a5,smo_raw_clips_vadish,100,1733560,1750730,English,,
+a5,smo_raw_clips_vadish,101,1751460,1769300,English,,
+a5,smo_raw_clips_vadish,102,1769480,1777280,English,,
+a5,smo_raw_clips_vadish,103,1777680,1796720,Samoan,,
+a5,smo_raw_clips_vadish,104,1797600,1813000,Samoan,,Samoan dancing.
+a5,smo_raw_clips_vadish,105,1812600,1832040,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
+a5,smo_raw_clips_vadish,106,1832160,1847560,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
+a5,smo_raw_clips_vadish,107,1847160,1862560,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
+a5,smo_raw_clips_vadish,108,1862160,1877560,Samoan,,"Samoan singing and dancing. ""Samoa la'u pele."""
+a5,smo_raw_clips_vadish,109,1877160,1892560,Samoan,,Samoan singing and dancing. 
+a5,smo_raw_clips_vadish,110,1892160,1907560,Samoan,,Samoan singing and dancing. 
+a5,smo_raw_clips_vadish,111,1907160,1922560,Samoan,,Samoan singing and dancing.
+a5,smo_raw_clips_vadish,112,1922160,1937560,Samoan,,"Samoan singing and dancing. ""Moomooga e o lo'u agaga."""
+a5,smo_raw_clips_vadish,113,1937160,1947460,Samoan,,"Samoan singing and dancing. ""E a togi e"""
+a5,smo_raw_clips_vadish,114,1947060,1962460,Samoan,,
+a5,smo_raw_clips_vadish,115,1962060,1976800,Samoan,,
+a5,smo_raw_clips_vadish,116,1977050,1995460,Samoan,,
+a5,smo_raw_clips_vadish,117,1996040,2009040,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,118,2012930,2025320,English,,
+a5,smo_raw_clips_vadish,119,2032380,2052540,English,,
+a5,smo_raw_clips_vadish,120,2052810,2070160,English,,
+a5,smo_raw_clips_vadish,121,2116770,2131040,English,,
+a5,smo_raw_clips_vadish,122,2151010,2167030,Samoan,,
+a5,smo_raw_clips_vadish,123,2183510,2203360,Samoan,,
+a5,smo_raw_clips_vadish,124,2203710,2221720,Mixed,Samoan to English,
+a5,smo_raw_clips_vadish,125,2222190,2226790,English,,
+a5,smo_raw_clips_vadish,126,2240240,2259800,English,,
+a5,smo_raw_clips_vadish,127,2260030,2262170,Samoan,,
+a5,smo_raw_clips_vadish,128,2275190,2291040,Samoan,,
+a5,smo_raw_clips_vadish,129,2297890,2311570,Samoan,,
+a5,smo_raw_clips_vadish,130,2316170,2321640,Samoan,,
+a5,smo_raw_clips_vadish,131,2342300,2355900,Samoan,,
+a5,smo_raw_clips_vadish,132,2363000,2375720,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,133,2394310,2413220,Mixed,Samoan and English,
+a5,smo_raw_clips_vadish,134,2421710,2438610,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,135,2452060,2468040,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,136,2472290,2486850,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,137,2503070,2519000,Samoan,,Samoan 
+a5,smo_raw_clips_vadish,138,2553230,2573260,Samoan,,
+a5,smo_raw_clips_vadish,139,2576480,2591940,Samoan,,conch shells
+a5,smo_raw_clips_vadish,140,2595360,2602070,Samoan,,conch shells
+a5,smo_raw_clips_vadish,141,2603670,2622480,Samoan,,conch shells
+a5,smo_raw_clips_vadish,142,2629730,2649860,Samoan,,
+a5,smo_raw_clips_vadish,143,2650250,2666390,Samoan,,
+a5,smo_raw_clips_vadish,144,2666520,2685060,Samoan,,
+a5,smo_raw_clips_vadish,145,2685170,2703720,Samoan,,
+a5,smo_raw_clips_vadish,146,2706460,2722690,Samoan,,
+a5,smo_raw_clips_vadish,147,2723750,2740050,Samoan,,
+a5,smo_raw_clips_vadish,148,2740600,2746620,English,,
+a5,smo_raw_clips_vadish,149,2755340,2775610,Samoan,,
+a5,smo_raw_clips_vadish,150,2775220,2790610,Samoan,,
+a5,smo_raw_clips_vadish,151,2790220,2804260,Samoan,,
+a5,smo_raw_clips_vadish,152,2812280,2826090,Samoan,,
+a5,smo_raw_clips_vadish,153,2830940,2850920,Samoan,,
+a5,smo_raw_clips_vadish,154,2851300,2861070,Samoan,,
+a5,smo_raw_clips_vadish,155,2863860,2882100,Samoan,,
+a5,smo_raw_clips_vadish,156,2889480,2907830,Samoan,,
+a5,smo_raw_clips_vadish,157,2908870,2925930,Other,,"conch shell ""foafoa"""
+a5,smo_raw_clips_vadish,158,2929140,2939980,Other,,"conch chell ""foafoa"""
+a5,smo_raw_clips_vadish,159,2940140,2957300,Samoan,,
+a5,smo_raw_clips_vadish,160,2957440,2977260,Samoan,,
+a5,smo_raw_clips_vadish,161,2977560,2991940,Samoan,,
+a5,smo_raw_clips_vadish,162,2995940,3013640,Mixed,,english and Samoan
+a5,smo_raw_clips_vadish,163,3013750,3017770,Samoan,,
+a5,smo_raw_clips_vadish,164,3026900,3043850,Samoan,,
+a5,smo_raw_clips_vadish,165,3045440,3064870,Samoan,,
+a5,smo_raw_clips_vadish,166,3068210,3085200,Samoan,,
+a5,smo_raw_clips_vadish,167,3085370,3105350,Samoan,,
+a5,smo_raw_clips_vadish,168,3106340,3125730,Samoan,,
+a5,smo_raw_clips_vadish,169,3126080,3139090,Samoan,,
+a5,smo_raw_clips_vadish,170,3184140,3204350,English,,
+a5,smo_raw_clips_vadish,171,3206610,3225140,English,,
+a5,smo_raw_clips_vadish,172,3225370,3241060,Samoan,,
+a5,smo_raw_clips_vadish,173,3243480,3261660,Samoan,,
+a5,smo_raw_clips_vadish,174,3261910,3277180,Mixed,English to Samoan,
+a5,smo_raw_clips_vadish,175,3281610,3300860,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,176,3301280,3321380,Mixed,,Samoan background and English announcement.
+a5,smo_raw_clips_vadish,177,3324210,3333830,Samoan,,
+a5,smo_raw_clips_vadish,178,3337310,3352710,Samoan,,
+a5,smo_raw_clips_vadish,179,3352310,3365910,Samoan,,
+a5,smo_raw_clips_vadish,180,3372620,3388020,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,181,3387620,3403020,English,,
+a5,smo_raw_clips_vadish,182,3402620,3418020,English,,
+a5,smo_raw_clips_vadish,183,3417620,3433020,English,,
+a5,smo_raw_clips_vadish,184,3432620,3445960,Samoan,,
+a5,smo_raw_clips_vadish,185,3446200,3461600,Samoan,,
+a5,smo_raw_clips_vadish,186,3461200,3481520,English,,
+a5,smo_raw_clips_vadish,187,3481120,3496520,English,,
+a5,smo_raw_clips_vadish,188,3496120,3511520,Samoan,,
+a5,smo_raw_clips_vadish,189,3511120,3526520,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,190,3526120,3541520,English,,
+a5,smo_raw_clips_vadish,191,3541120,3551840,English,,
+a5,smo_raw_clips_vadish,192,3551440,3566840,Samoan,,
+a5,smo_raw_clips_vadish,193,3566440,3572160,Samoan,,
+a5,smo_raw_clips_vadish,194,3572750,3588150,Samoan,,
+a5,smo_raw_clips_vadish,195,3587750,3603150,Samoan,,
+a5,smo_raw_clips_vadish,196,3602750,3618150,Samoan,,"Due to the unusual vocabulary in Samoan culture, you will hear english words in the middle of Samoan Sentence.
 "
-a5,smo_raw_clips_vadish,197,3617.75,3625.39,English,,
-a5,smo_raw_clips_vadish,198,3626.44,3641.84,English,,
-a5,smo_raw_clips_vadish,199,3641.44,3656.84,Samoan,,
-a5,smo_raw_clips_vadish,200,3656.44,3671.84,Samoan,,
-a5,smo_raw_clips_vadish,201,3671.44,3686.84,Samoan,,
-a5,smo_raw_clips_vadish,202,3686.44,3701.84,Samoan,,
-a5,smo_raw_clips_vadish,203,3701.44,3716.84,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,204,3716.44,3731.84,English,,
-a5,smo_raw_clips_vadish,205,3731.44,3744.72,English,,
-a5,smo_raw_clips_vadish,206,3744.32,3762.42,Samoan,,
-a5,smo_raw_clips_vadish,207,3762.66,3776.85,Samoan,,
-a5,smo_raw_clips_vadish,208,3777.04,3792.44,Samoan,,
-a5,smo_raw_clips_vadish,209,3792.04,3807.44,Samoan,,
-a5,smo_raw_clips_vadish,210,3807.04,3822.44,English,,
-a5,smo_raw_clips_vadish,211,3822.04,3839.11,English,,
-a5,smo_raw_clips_vadish,212,3839.59,3854.99,Samoan,,
-a5,smo_raw_clips_vadish,213,3854.59,3869.99,Samoan,,
-a5,smo_raw_clips_vadish,214,3869.59,3884.99,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,215,3884.59,3899.99,Mixed,,English to Samoan
-a5,smo_raw_clips_vadish,216,3899.59,3914.99,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,217,3914.59,3929.99,English,,
-a5,smo_raw_clips_vadish,218,3929.59,3944.99,English,,
-a5,smo_raw_clips_vadish,219,3944.59,3959.99,English,,
-a5,smo_raw_clips_vadish,220,3959.59,3974.99,Samoan,,
-a5,smo_raw_clips_vadish,221,3974.59,3989.99,Samoan,,
-a5,smo_raw_clips_vadish,222,3989.59,4005.96,Samoan,,
-a5,smo_raw_clips_vadish,223,4006.41,4021.81,Samoan,,
-a5,smo_raw_clips_vadish,224,4021.41,4035.82,Samoan,,
-a5,smo_raw_clips_vadish,225,4036.16,4053.66,Samoan,,
-a5,smo_raw_clips_vadish,226,4053.26,4068.66,Samoan,,Samoan singing  backgrounding Tv announcer. 
-a5,smo_raw_clips_vadish,227,4068.26,4083.66,Samoan,,
-a5,smo_raw_clips_vadish,228,4083.26,4095.76,Samoan,,
-a5,smo_raw_clips_vadish,229,4096.75,4113.89,English,,
-a5,smo_raw_clips_vadish,230,4114.26,4133.42,English,,
-a5,smo_raw_clips_vadish,231,4137.58,4157.95,Samoan,,
-a5,smo_raw_clips_vadish,232,4158.16,4173.56,Samoan,,"Samoan singing of classic ""Falealili Uma"" in background."
-a5,smo_raw_clips_vadish,233,4173.16,4188.56,Samoan,,
-a5,smo_raw_clips_vadish,234,4188.16,4203.56,Mixed,,Mostly Samoan to English towards the end of clip.
-a5,smo_raw_clips_vadish,235,4203.16,4216.7,English,,
-a5,smo_raw_clips_vadish,236,4216.31,4231.81,English,,"TV announcer speaks in english language with Samoan Singing in the background of ""Falealili Uma Chorus"""
-a5,smo_raw_clips_vadish,237,4232.5,4252.62,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
-a5,smo_raw_clips_vadish,238,4252.79,4258.31,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
-a5,smo_raw_clips_vadish,239,4258.75,4274.15,Samoan,,
-a5,smo_raw_clips_vadish,240,4273.75,4289.15,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
-a5,smo_raw_clips_vadish,241,4288.75,4304.15,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
-a5,smo_raw_clips_vadish,242,4303.75,4316.76,English,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"" - English language towards the ending of clip."
-a5,smo_raw_clips_vadish,243,4316.9,4325.3,English,,
-a5,smo_raw_clips_vadish,244,4324.9,4340.3,English,,
-a5,smo_raw_clips_vadish,245,4339.9,4348.72,English,,
-a5,smo_raw_clips_vadish,246,4348.88,4359.92,Samoan,,
-a5,smo_raw_clips_vadish,247,4359.52,4369.53,Samoan,,
-a5,smo_raw_clips_vadish,248,4370.74,4385.52,Samoan,,
-a5,smo_raw_clips_vadish,249,4386.33,4402.86,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,250,4403.03,4419.14,English,,
-a5,smo_raw_clips_vadish,251,4420.14,4435.54,English,,
-a5,smo_raw_clips_vadish,252,4435.14,4448.33,Samoan,,
-a5,smo_raw_clips_vadish,253,4451.27,4470.02,Samoan,,
-a5,smo_raw_clips_vadish,254,4470.26,4485.87,Samoan,,
-a5,smo_raw_clips_vadish,255,4485.98,4495.45,Samoan,,
-a5,smo_raw_clips_vadish,256,4497.55,4514.26,English,,
-a5,smo_raw_clips_vadish,257,4513.86,4523.63,Mixed,,English to Samoan
-a5,smo_raw_clips_vadish,258,4523.87,4537.22,Samoan,,
-a5,smo_raw_clips_vadish,259,4537.68,4556.75,Samoan,,
-a5,smo_raw_clips_vadish,260,4556.93,4575.16,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,261,4575.3,4590.17,English,,
-a5,smo_raw_clips_vadish,262,4593.6,4604.26,Samoan,,
-a5,smo_raw_clips_vadish,263,4604.57,4614.27,Samoan,,
-a5,smo_raw_clips_vadish,264,4613.87,4627.71,Samoan,,
-a5,smo_raw_clips_vadish,265,4627.93,4646.77,Samoan,,
-a5,smo_raw_clips_vadish,266,4647.03,4665.39,Samoan,,
-a5,smo_raw_clips_vadish,267,4665.68,4673.82,Samoan,,
-a5,smo_raw_clips_vadish,268,4674.15,4687.36,Samoan,,
-a5,smo_raw_clips_vadish,269,4687.88,4695.31,Samoan,,
-a5,smo_raw_clips_vadish,270,4708.37,4723.77,Other,,
-a5,smo_raw_clips_vadish,271,4723.37,4738.77,Other,,
-a5,smo_raw_clips_vadish,272,4738.37,4753.77,Other,,
-a5,smo_raw_clips_vadish,273,4753.37,4768.77,Mixed,,english conversation to Samoan singing
-a5,smo_raw_clips_vadish,274,4768.37,4783.77,Other,,Samoan singing to 
-a5,smo_raw_clips_vadish,275,4783.37,4798.77,Other,,
-a5,smo_raw_clips_vadish,276,4798.37,4813.77,Other,,
-a5,smo_raw_clips_vadish,277,4813.37,4828.77,Other,,
-a5,smo_raw_clips_vadish,278,4828.37,4843.77,English,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,279,4843.37,4858.77,English,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,280,4858.37,4873.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,281,4873.37,4888.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,282,4888.37,4903.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,283,4903.37,4918.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,284,4918.37,4933.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,285,4933.37,4948.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,286,4948.37,4963.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,287,4963.37,4978.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,288,4978.37,4993.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,289,4993.37,5008.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,290,5008.37,5023.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,291,5023.37,5038.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,292,5038.37,5053.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,293,5053.37,5068.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,294,5068.37,5083.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,295,5083.37,5098.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,296,5098.37,5113.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,297,5113.37,5128.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,298,5128.37,5143.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,299,5143.37,5158.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,300,5158.37,5173.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,301,5173.37,5188.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,302,5188.37,5203.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,303,5203.37,5218.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,304,5218.37,5233.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,305,5233.37,5248.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,306,5248.37,5263.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,307,5263.37,5278.77,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,308,5278.37,5293.77,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,309,5293.37,5308.77,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,310,5308.37,5323.77,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,311,5323.37,5338.77,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,312,5338.37,5353.77,Mixed,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
-a5,smo_raw_clips_vadish,313,5353.37,5368.77,English,,
-a5,smo_raw_clips_vadish,314,5368.37,5383.77,English,,
-a5,smo_raw_clips_vadish,315,5383.37,5398.77,English,,
-a5,smo_raw_clips_vadish,316,5398.37,5413.77,English,,
-a5,smo_raw_clips_vadish,317,5413.37,5428.77,English,,
-a5,smo_raw_clips_vadish,318,5428.37,5443.77,English,,
-a5,smo_raw_clips_vadish,319,5443.37,5458.77,English,,
-a5,smo_raw_clips_vadish,320,5458.37,5473.77,English,,
-a5,smo_raw_clips_vadish,321,5473.37,5488.77,English,,
-a5,smo_raw_clips_vadish,322,5488.37,5503.77,English,,
-a5,smo_raw_clips_vadish,323,5503.37,5518.77,English,,
-a5,smo_raw_clips_vadish,324,5518.37,5533.77,English,,
-a5,smo_raw_clips_vadish,325,5533.37,5548.77,English,,
-a5,smo_raw_clips_vadish,326,5548.37,5563.77,English,,
-a5,smo_raw_clips_vadish,327,5563.37,5571.53,English,,
-a5,smo_raw_clips_vadish,328,5583.75,5599.15,Other,,background music
-a5,smo_raw_clips_vadish,329,5598.75,5614.15,Other,,
-a5,smo_raw_clips_vadish,330,5613.75,5629.15,Other,,
-a5,smo_raw_clips_vadish,331,5628.75,5644.15,Other,,
-a5,smo_raw_clips_vadish,332,5643.75,5659.15,Mixed,,mixture of Samoan and English background conversation.
-a5,smo_raw_clips_vadish,333,5658.75,5674.15,Mixed,,mixture of Samoan and English background conversation.
-a5,smo_raw_clips_vadish,334,5673.75,5689.15,Mixed,,mixture of Samoan and English background conversation.
-a5,smo_raw_clips_vadish,335,5688.75,5704.15,Other,,mixture of Samoan and English background conversation.
-a5,smo_raw_clips_vadish,336,5703.75,5719.15,Other,,
-a5,smo_raw_clips_vadish,337,5718.75,5734.15,English,,
-a5,smo_raw_clips_vadish,338,5733.75,5749.15,English,,
-a5,smo_raw_clips_vadish,339,5748.75,5764.15,English,,
-a5,smo_raw_clips_vadish,340,5763.75,5776.44,English,,
-a5,smo_raw_clips_vadish,341,5776.04,5791.44,English,,
-a5,smo_raw_clips_vadish,342,5791.04,5806.44,English,,
-a5,smo_raw_clips_vadish,343,5806.04,5821.37,English,,
-a5,smo_raw_clips_vadish,344,5820.97,5836.37,English,,
-a5,smo_raw_clips_vadish,345,5835.97,5842.72,English,,
-a5,smo_raw_clips_vadish,346,6258.85,6274.25,Other,,Saman and English
-a5,smo_raw_clips_vadish,347,6273.85,6289.25,Samoan,,
-a5,smo_raw_clips_vadish,348,6288.85,6304.25,Samoan,,
-a5,smo_raw_clips_vadish,349,6303.85,6319.25,Samoan,,
-a5,smo_raw_clips_vadish,350,6318.85,6334.25,Samoan,,
-a5,smo_raw_clips_vadish,351,6333.85,6349.25,Samoan,,
-a5,smo_raw_clips_vadish,352,6348.85,6368.32,Samoan,,
-a5,smo_raw_clips_vadish,353,6390.52,6405.92,Samoan,,
-a5,smo_raw_clips_vadish,354,6405.52,6420.92,Samoan,,
-a5,smo_raw_clips_vadish,355,6420.52,6435.92,Samoan,,
-a5,smo_raw_clips_vadish,356,6435.52,6450.92,Samoan,,
-a5,smo_raw_clips_vadish,357,6450.52,6465.92,Samoan,,
-a5,smo_raw_clips_vadish,358,6465.52,6480.92,Samoan,,
-a5,smo_raw_clips_vadish,359,6480.52,6495.92,Samoan,,
-a5,smo_raw_clips_vadish,360,6495.52,6510.92,Samoan,,
-a5,smo_raw_clips_vadish,361,6510.52,6525.92,Samoan,,
-a5,smo_raw_clips_vadish,362,6525.52,6540.92,Samoan,,
-a5,smo_raw_clips_vadish,363,6540.52,6555.92,English,,
-a5,smo_raw_clips_vadish,364,6555.52,6570.92,English,,
-a5,smo_raw_clips_vadish,365,6570.52,6585.92,English,,
-a5,smo_raw_clips_vadish,366,6585.52,6600.92,English,,
-a5,smo_raw_clips_vadish,367,6600.52,6615.92,English,,
-a5,smo_raw_clips_vadish,368,6615.52,6630.92,English,,
-a5,smo_raw_clips_vadish,369,6630.52,6645.92,English,,
-a5,smo_raw_clips_vadish,370,6645.52,6654.04,Samoan,,
-a5,smo_raw_clips_vadish,371,6761.52,6776.92,Samoan,,Faasalafa leads a village performance of songs 
-a5,smo_raw_clips_vadish,372,6776.52,6791.92,Samoan,,Faasalafa leads a village performance of songs 
-a5,smo_raw_clips_vadish,373,6791.52,6806.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,374,6806.52,6821.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,375,6821.52,6836.92,Samoan,, Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,376,6836.52,6851.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,377,6851.52,6866.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,378,6866.52,6881.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,379,6881.52,6896.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,380,6896.52,6911.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,381,6911.52,6926.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,382,6926.52,6941.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,383,6941.52,6956.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,384,6956.52,6971.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
-a5,smo_raw_clips_vadish,385,6971.52,6986.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,386,6986.52,7001.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,387,7001.52,7016.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,388,7016.52,7031.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,389,7031.52,7046.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,390,7046.52,7061.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,391,7061.52,7076.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,392,7076.52,7091.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,393,7091.52,7106.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,394,7106.52,7121.92,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
-a5,smo_raw_clips_vadish,395,7121.52,7139.42,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,197,3617750,3625390,English,,
+a5,smo_raw_clips_vadish,198,3626440,3641840,English,,
+a5,smo_raw_clips_vadish,199,3641440,3656840,Samoan,,
+a5,smo_raw_clips_vadish,200,3656440,3671840,Samoan,,
+a5,smo_raw_clips_vadish,201,3671440,3686840,Samoan,,
+a5,smo_raw_clips_vadish,202,3686440,3701840,Samoan,,
+a5,smo_raw_clips_vadish,203,3701440,3716840,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,204,3716440,3731840,English,,
+a5,smo_raw_clips_vadish,205,3731440,3744720,English,,
+a5,smo_raw_clips_vadish,206,3744320,3762420,Samoan,,
+a5,smo_raw_clips_vadish,207,3762660,3776850,Samoan,,
+a5,smo_raw_clips_vadish,208,3777040,3792440,Samoan,,
+a5,smo_raw_clips_vadish,209,3792040,3807440,Samoan,,
+a5,smo_raw_clips_vadish,210,3807040,3822440,English,,
+a5,smo_raw_clips_vadish,211,3822040,3839110,English,,
+a5,smo_raw_clips_vadish,212,3839590,3854990,Samoan,,
+a5,smo_raw_clips_vadish,213,3854590,3869990,Samoan,,
+a5,smo_raw_clips_vadish,214,3869590,3884990,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,215,3884590,3899990,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,216,3899590,3914990,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,217,3914590,3929990,English,,
+a5,smo_raw_clips_vadish,218,3929590,3944990,English,,
+a5,smo_raw_clips_vadish,219,3944590,3959990,English,,
+a5,smo_raw_clips_vadish,220,3959590,3974990,Samoan,,
+a5,smo_raw_clips_vadish,221,3974590,3989990,Samoan,,
+a5,smo_raw_clips_vadish,222,3989590,4005960,Samoan,,
+a5,smo_raw_clips_vadish,223,4006410,4021810,Samoan,,
+a5,smo_raw_clips_vadish,224,4021410,4035820,Samoan,,
+a5,smo_raw_clips_vadish,225,4036160,4053660,Samoan,,
+a5,smo_raw_clips_vadish,226,4053260,4068660,Samoan,,Samoan singing  backgrounding Tv announcer. 
+a5,smo_raw_clips_vadish,227,4068260,4083660,Samoan,,
+a5,smo_raw_clips_vadish,228,4083260,4095760,Samoan,,
+a5,smo_raw_clips_vadish,229,4096750,4113890,English,,
+a5,smo_raw_clips_vadish,230,4114260,4133420,English,,
+a5,smo_raw_clips_vadish,231,4137580,4157950,Samoan,,
+a5,smo_raw_clips_vadish,232,4158160,4173560,Samoan,,"Samoan singing of classic ""Falealili Uma"" in background."
+a5,smo_raw_clips_vadish,233,4173160,4188560,Samoan,,
+a5,smo_raw_clips_vadish,234,4188160,4203560,Mixed,,Mostly Samoan to English towards the end of clip.
+a5,smo_raw_clips_vadish,235,4203160,4216700,English,,
+a5,smo_raw_clips_vadish,236,4216310,4231810,English,,"TV announcer speaks in english language with Samoan Singing in the background of ""Falealili Uma Chorus"""
+a5,smo_raw_clips_vadish,237,4232500,4252620,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
+a5,smo_raw_clips_vadish,238,4252790,4258310,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
+a5,smo_raw_clips_vadish,239,4258750,4274150,Samoan,,
+a5,smo_raw_clips_vadish,240,4273750,4289150,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
+a5,smo_raw_clips_vadish,241,4288750,4304150,Samoan,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"""
+a5,smo_raw_clips_vadish,242,4303750,4316760,English,,"TV announcer speaks in Samoan Language with Samoan Singing in the background of ""Falealili Uma"" - English language towards the ending of clip."
+a5,smo_raw_clips_vadish,243,4316900,4325300,English,,
+a5,smo_raw_clips_vadish,244,4324900,4340300,English,,
+a5,smo_raw_clips_vadish,245,4339900,4348720,English,,
+a5,smo_raw_clips_vadish,246,4348880,4359920,Samoan,,
+a5,smo_raw_clips_vadish,247,4359520,4369530,Samoan,,
+a5,smo_raw_clips_vadish,248,4370740,4385520,Samoan,,
+a5,smo_raw_clips_vadish,249,4386330,4402860,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,250,4403030,4419140,English,,
+a5,smo_raw_clips_vadish,251,4420140,4435540,English,,
+a5,smo_raw_clips_vadish,252,4435140,4448330,Samoan,,
+a5,smo_raw_clips_vadish,253,4451270,4470020,Samoan,,
+a5,smo_raw_clips_vadish,254,4470260,4485870,Samoan,,
+a5,smo_raw_clips_vadish,255,4485980,4495450,Samoan,,
+a5,smo_raw_clips_vadish,256,4497550,4514260,English,,
+a5,smo_raw_clips_vadish,257,4513860,4523630,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,258,4523870,4537220,Samoan,,
+a5,smo_raw_clips_vadish,259,4537680,4556750,Samoan,,
+a5,smo_raw_clips_vadish,260,4556930,4575160,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,261,4575300,4590170,English,,
+a5,smo_raw_clips_vadish,262,4593600,4604260,Samoan,,
+a5,smo_raw_clips_vadish,263,4604570,4614270,Samoan,,
+a5,smo_raw_clips_vadish,264,4613870,4627710,Samoan,,
+a5,smo_raw_clips_vadish,265,4627930,4646770,Samoan,,
+a5,smo_raw_clips_vadish,266,4647030,4665390,Samoan,,
+a5,smo_raw_clips_vadish,267,4665680,4673820,Samoan,,
+a5,smo_raw_clips_vadish,268,4674150,4687360,Samoan,,
+a5,smo_raw_clips_vadish,269,4687880,4695310,Samoan,,
+a5,smo_raw_clips_vadish,270,4708370,4723770,Other,,
+a5,smo_raw_clips_vadish,271,4723370,4738770,Other,,
+a5,smo_raw_clips_vadish,272,4738370,4753770,Other,,
+a5,smo_raw_clips_vadish,273,4753370,4768770,Mixed,,english conversation to Samoan singing
+a5,smo_raw_clips_vadish,274,4768370,4783770,Other,,Samoan singing to 
+a5,smo_raw_clips_vadish,275,4783370,4798770,Other,,
+a5,smo_raw_clips_vadish,276,4798370,4813770,Other,,
+a5,smo_raw_clips_vadish,277,4813370,4828770,Other,,
+a5,smo_raw_clips_vadish,278,4828370,4843770,English,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,279,4843370,4858770,English,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,280,4858370,4873770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,281,4873370,4888770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,282,4888370,4903770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,283,4903370,4918770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,284,4918370,4933770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,285,4933370,4948770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,286,4948370,4963770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,287,4963370,4978770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,288,4978370,4993770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,289,4993370,5008770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,290,5008370,5023770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,291,5023370,5038770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,292,5038370,5053770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,293,5053370,5068770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,294,5068370,5083770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,295,5083370,5098770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,296,5098370,5113770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,297,5113370,5128770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,298,5128370,5143770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,299,5143370,5158770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,300,5158370,5173770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,301,5173370,5188770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,302,5188370,5203770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,303,5203370,5218770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,304,5218370,5233770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,305,5233370,5248770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,306,5248370,5263770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,307,5263370,5278770,Other,,Painting of Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,308,5278370,5293770,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,309,5293370,5308770,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,310,5308370,5323770,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,311,5323370,5338770,Other,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,312,5338370,5353770,Mixed,,background music while Painting Mural at EOB American Samoa. A project contributed to the Pacific Arts Festival. 
+a5,smo_raw_clips_vadish,313,5353370,5368770,English,,
+a5,smo_raw_clips_vadish,314,5368370,5383770,English,,
+a5,smo_raw_clips_vadish,315,5383370,5398770,English,,
+a5,smo_raw_clips_vadish,316,5398370,5413770,English,,
+a5,smo_raw_clips_vadish,317,5413370,5428770,English,,
+a5,smo_raw_clips_vadish,318,5428370,5443770,English,,
+a5,smo_raw_clips_vadish,319,5443370,5458770,English,,
+a5,smo_raw_clips_vadish,320,5458370,5473770,English,,
+a5,smo_raw_clips_vadish,321,5473370,5488770,English,,
+a5,smo_raw_clips_vadish,322,5488370,5503770,English,,
+a5,smo_raw_clips_vadish,323,5503370,5518770,English,,
+a5,smo_raw_clips_vadish,324,5518370,5533770,English,,
+a5,smo_raw_clips_vadish,325,5533370,5548770,English,,
+a5,smo_raw_clips_vadish,326,5548370,5563770,English,,
+a5,smo_raw_clips_vadish,327,5563370,5571530,English,,
+a5,smo_raw_clips_vadish,328,5583750,5599150,Other,,background music
+a5,smo_raw_clips_vadish,329,5598750,5614150,Other,,
+a5,smo_raw_clips_vadish,330,5613750,5629150,Other,,
+a5,smo_raw_clips_vadish,331,5628750,5644150,Other,,
+a5,smo_raw_clips_vadish,332,5643750,5659150,Mixed,,mixture of Samoan and English background conversation.
+a5,smo_raw_clips_vadish,333,5658750,5674150,Mixed,,mixture of Samoan and English background conversation.
+a5,smo_raw_clips_vadish,334,5673750,5689150,Mixed,,mixture of Samoan and English background conversation.
+a5,smo_raw_clips_vadish,335,5688750,5704150,Other,,mixture of Samoan and English background conversation.
+a5,smo_raw_clips_vadish,336,5703750,5719150,Other,,
+a5,smo_raw_clips_vadish,337,5718750,5734150,English,,
+a5,smo_raw_clips_vadish,338,5733750,5749150,English,,
+a5,smo_raw_clips_vadish,339,5748750,5764150,English,,
+a5,smo_raw_clips_vadish,340,5763750,5776440,English,,
+a5,smo_raw_clips_vadish,341,5776040,5791440,English,,
+a5,smo_raw_clips_vadish,342,5791040,5806440,English,,
+a5,smo_raw_clips_vadish,343,5806040,5821370,English,,
+a5,smo_raw_clips_vadish,344,5820970,5836370,English,,
+a5,smo_raw_clips_vadish,345,5835970,5842720,English,,
+a5,smo_raw_clips_vadish,346,6258850,6274250,Other,,Saman and English
+a5,smo_raw_clips_vadish,347,6273850,6289250,Samoan,,
+a5,smo_raw_clips_vadish,348,6288850,6304250,Samoan,,
+a5,smo_raw_clips_vadish,349,6303850,6319250,Samoan,,
+a5,smo_raw_clips_vadish,350,6318850,6334250,Samoan,,
+a5,smo_raw_clips_vadish,351,6333850,6349250,Samoan,,
+a5,smo_raw_clips_vadish,352,6348850,6368320,Samoan,,
+a5,smo_raw_clips_vadish,353,6390520,6405920,Samoan,,
+a5,smo_raw_clips_vadish,354,6405520,6420920,Samoan,,
+a5,smo_raw_clips_vadish,355,6420520,6435920,Samoan,,
+a5,smo_raw_clips_vadish,356,6435520,6450920,Samoan,,
+a5,smo_raw_clips_vadish,357,6450520,6465920,Samoan,,
+a5,smo_raw_clips_vadish,358,6465520,6480920,Samoan,,
+a5,smo_raw_clips_vadish,359,6480520,6495920,Samoan,,
+a5,smo_raw_clips_vadish,360,6495520,6510920,Samoan,,
+a5,smo_raw_clips_vadish,361,6510520,6525920,Samoan,,
+a5,smo_raw_clips_vadish,362,6525520,6540920,Samoan,,
+a5,smo_raw_clips_vadish,363,6540520,6555920,English,,
+a5,smo_raw_clips_vadish,364,6555520,6570920,English,,
+a5,smo_raw_clips_vadish,365,6570520,6585920,English,,
+a5,smo_raw_clips_vadish,366,6585520,6600920,English,,
+a5,smo_raw_clips_vadish,367,6600520,6615920,English,,
+a5,smo_raw_clips_vadish,368,6615520,6630920,English,,
+a5,smo_raw_clips_vadish,369,6630520,6645920,English,,
+a5,smo_raw_clips_vadish,370,6645520,6654040,Samoan,,
+a5,smo_raw_clips_vadish,371,6761520,6776920,Samoan,,Faasalafa leads a village performance of songs 
+a5,smo_raw_clips_vadish,372,6776520,6791920,Samoan,,Faasalafa leads a village performance of songs 
+a5,smo_raw_clips_vadish,373,6791520,6806920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,374,6806520,6821920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,375,6821520,6836920,Samoan,, Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,376,6836520,6851920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,377,6851520,6866920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,378,6866520,6881920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,379,6881520,6896920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,380,6896520,6911920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,381,6911520,6926920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,382,6926520,6941920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,383,6941520,6956920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,384,6956520,6971920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a village performance of traditional songs 
+a5,smo_raw_clips_vadish,385,6971520,6986920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,386,6986520,7001920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,387,7001520,7016920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,388,7016520,7031920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,389,7031520,7046920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,390,7046520,7061920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,391,7061520,7076920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,392,7076520,7091920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,393,7091520,7106920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,394,7106520,7121920,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 
+a5,smo_raw_clips_vadish,395,7121520,7139420,Samoan,,Faasalafa (well known indeginous  lyricist/musician) leads a Falelatai's village performance of traditional songs 

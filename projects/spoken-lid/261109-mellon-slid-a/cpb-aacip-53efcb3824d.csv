@@ -1,256 +1,256 @@
-annotator,clip-set,clip,start,end,label,mixed-order,notes
-a5,smo_raw_clips_vadish,1,1.75,17.15,Samoan,,"clip sounds distorted. speaker speaks slow in Samoan Language
+annotator,clip-set,clip,start_ms,end_ms,label,mixed-order,notes
+a5,smo_raw_clips_vadish,1,1750,17150,Samoan,,"clip sounds distorted. speaker speaks slow in Samoan Language
 "
-a5,smo_raw_clips_vadish,2,16.75,32.15,Samoan,,"clip sounds distorted. speaker speaks slow in Samoan Language
+a5,smo_raw_clips_vadish,2,16750,32150,Samoan,,"clip sounds distorted. speaker speaks slow in Samoan Language
 "
-a5,smo_raw_clips_vadish,3,31.75,47.15,Samoan,,
-a5,smo_raw_clips_vadish,4,46.75,62.15,Samoan,,
-a5,smo_raw_clips_vadish,5,61.75,77.15,Samoan,,
-a5,smo_raw_clips_vadish,6,76.75,92.15,Samoan,,
-a5,smo_raw_clips_vadish,7,91.75,107.15,Samoan,,
-a5,smo_raw_clips_vadish,8,106.75,122.15,Samoan,,
-a5,smo_raw_clips_vadish,9,121.75,137.15,Samoan,,
-a5,smo_raw_clips_vadish,10,136.75,152.15,Other,,there's no speaking
-a5,smo_raw_clips_vadish,11,151.75,167.15,Other,,no spoken language output
-a5,smo_raw_clips_vadish,12,166.75,182.15,Samoan,,spoken language @ 0:12 - Samoan
-a5,smo_raw_clips_vadish,13,181.75,197.15,Samoan,,
-a5,smo_raw_clips_vadish,14,196.75,212.15,Samoan,,
-a5,smo_raw_clips_vadish,15,211.75,227.15,Samoan,,
-a5,smo_raw_clips_vadish,16,226.75,242.15,Samoan,,
-a5,smo_raw_clips_vadish,17,241.75,257.15,Samoan,,
-a5,smo_raw_clips_vadish,18,256.75,272.15,Samoan,,
-a5,smo_raw_clips_vadish,19,271.75,287.15,Samoan,,
-a5,smo_raw_clips_vadish,20,286.75,302.15,Samoan,,
-a5,smo_raw_clips_vadish,21,301.75,317.15,Samoan,,
-a5,smo_raw_clips_vadish,22,316.75,332.15,Samoan,,no spoken language output
-a5,smo_raw_clips_vadish,23,331.75,347.15,Samoan,,
-a5,smo_raw_clips_vadish,24,346.75,362.15,Samoan,,
-a5,smo_raw_clips_vadish,25,361.75,377.15,Samoan,,
-a5,smo_raw_clips_vadish,26,376.75,392.15,Samoan,,
-a5,smo_raw_clips_vadish,27,391.75,407.15,Samoan,,
-a5,smo_raw_clips_vadish,28,406.75,422.15,Samoan,,
-a5,smo_raw_clips_vadish,29,421.75,437.15,Samoan,,
-a5,smo_raw_clips_vadish,30,436.75,452.15,Samoan,,
-a5,smo_raw_clips_vadish,31,451.75,467.15,Samoan,,
-a5,smo_raw_clips_vadish,32,466.75,482.15,Samoan,,
-a5,smo_raw_clips_vadish,33,481.75,497.15,Samoan,,
-a5,smo_raw_clips_vadish,34,496.75,512.15,Samoan,,Samoan music: Organ Interlude
-a5,smo_raw_clips_vadish,35,511.75,527.15,Samoan,,"Samoan music: Organ Interlude. ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,36,526.75,542.15,Samoan,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,37,541.75,557.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,38,556.75,572.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,39,571.75,587.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,40,586.75,602.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,41,601.75,617.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,42,616.75,632.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,43,631.75,647.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,44,646.75,662.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,45,661.75,677.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,46,676.75,692.15,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
-a5,smo_raw_clips_vadish,47,691.75,707.15,Other,,
-a5,smo_raw_clips_vadish,48,706.75,722.15,Samoan,,
-a5,smo_raw_clips_vadish,49,721.75,737.15,Samoan,,
-a5,smo_raw_clips_vadish,50,736.75,752.15,Samoan,,
-a5,smo_raw_clips_vadish,51,751.75,767.15,Samoan,,
-a5,smo_raw_clips_vadish,52,766.75,782.15,Samoan,,
-a5,smo_raw_clips_vadish,53,781.75,797.15,Samoan,,
-a5,smo_raw_clips_vadish,54,796.75,812.15,Samoan,,
-a5,smo_raw_clips_vadish,55,811.75,827.15,Samoan,,
-a5,smo_raw_clips_vadish,56,826.75,842.15,Samoan,,
-a5,smo_raw_clips_vadish,57,841.75,857.15,Samoan,,
-a5,smo_raw_clips_vadish,58,856.75,872.15,Samoan,,
-a5,smo_raw_clips_vadish,59,871.75,887.15,Samoan,,
-a5,smo_raw_clips_vadish,60,886.75,902.15,Samoan,,"*background music
+a5,smo_raw_clips_vadish,3,31750,47150,Samoan,,
+a5,smo_raw_clips_vadish,4,46750,62150,Samoan,,
+a5,smo_raw_clips_vadish,5,61750,77150,Samoan,,
+a5,smo_raw_clips_vadish,6,76750,92150,Samoan,,
+a5,smo_raw_clips_vadish,7,91750,107150,Samoan,,
+a5,smo_raw_clips_vadish,8,106750,122150,Samoan,,
+a5,smo_raw_clips_vadish,9,121750,137150,Samoan,,
+a5,smo_raw_clips_vadish,10,136750,152150,Other,,there's no speaking
+a5,smo_raw_clips_vadish,11,151750,167150,Other,,no spoken language output
+a5,smo_raw_clips_vadish,12,166750,182150,Samoan,,spoken language @ 0:12 - Samoan
+a5,smo_raw_clips_vadish,13,181750,197150,Samoan,,
+a5,smo_raw_clips_vadish,14,196750,212150,Samoan,,
+a5,smo_raw_clips_vadish,15,211750,227150,Samoan,,
+a5,smo_raw_clips_vadish,16,226750,242150,Samoan,,
+a5,smo_raw_clips_vadish,17,241750,257150,Samoan,,
+a5,smo_raw_clips_vadish,18,256750,272150,Samoan,,
+a5,smo_raw_clips_vadish,19,271750,287150,Samoan,,
+a5,smo_raw_clips_vadish,20,286750,302150,Samoan,,
+a5,smo_raw_clips_vadish,21,301750,317150,Samoan,,
+a5,smo_raw_clips_vadish,22,316750,332150,Samoan,,no spoken language output
+a5,smo_raw_clips_vadish,23,331750,347150,Samoan,,
+a5,smo_raw_clips_vadish,24,346750,362150,Samoan,,
+a5,smo_raw_clips_vadish,25,361750,377150,Samoan,,
+a5,smo_raw_clips_vadish,26,376750,392150,Samoan,,
+a5,smo_raw_clips_vadish,27,391750,407150,Samoan,,
+a5,smo_raw_clips_vadish,28,406750,422150,Samoan,,
+a5,smo_raw_clips_vadish,29,421750,437150,Samoan,,
+a5,smo_raw_clips_vadish,30,436750,452150,Samoan,,
+a5,smo_raw_clips_vadish,31,451750,467150,Samoan,,
+a5,smo_raw_clips_vadish,32,466750,482150,Samoan,,
+a5,smo_raw_clips_vadish,33,481750,497150,Samoan,,
+a5,smo_raw_clips_vadish,34,496750,512150,Samoan,,Samoan music: Organ Interlude
+a5,smo_raw_clips_vadish,35,511750,527150,Samoan,,"Samoan music: Organ Interlude. ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,36,526750,542150,Samoan,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,37,541750,557150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,38,556750,572150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,39,571750,587150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,40,586750,602150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,41,601750,617150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,42,616750,632150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,43,631750,647150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,44,646750,662150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,45,661750,677150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,46,676750,692150,Other,,"Samoan Music ""Lo'u Nu'u e"" by Fagatogo Village Combined Choir"
+a5,smo_raw_clips_vadish,47,691750,707150,Other,,
+a5,smo_raw_clips_vadish,48,706750,722150,Samoan,,
+a5,smo_raw_clips_vadish,49,721750,737150,Samoan,,
+a5,smo_raw_clips_vadish,50,736750,752150,Samoan,,
+a5,smo_raw_clips_vadish,51,751750,767150,Samoan,,
+a5,smo_raw_clips_vadish,52,766750,782150,Samoan,,
+a5,smo_raw_clips_vadish,53,781750,797150,Samoan,,
+a5,smo_raw_clips_vadish,54,796750,812150,Samoan,,
+a5,smo_raw_clips_vadish,55,811750,827150,Samoan,,
+a5,smo_raw_clips_vadish,56,826750,842150,Samoan,,
+a5,smo_raw_clips_vadish,57,841750,857150,Samoan,,
+a5,smo_raw_clips_vadish,58,856750,872150,Samoan,,
+a5,smo_raw_clips_vadish,59,871750,887150,Samoan,,
+a5,smo_raw_clips_vadish,60,886750,902150,Samoan,,"*background music
 "
-a5,smo_raw_clips_vadish,61,901.75,917.15,Samoan,,*background music
-a5,smo_raw_clips_vadish,62,916.75,932.15,Samoan,,
-a5,smo_raw_clips_vadish,63,931.75,947.15,Other,,Samoan music
-a5,smo_raw_clips_vadish,64,946.75,962.15,Other,,Samoan Music - Choir singing
-a5,smo_raw_clips_vadish,65,961.75,977.15,Other,,Samoan Music - Choir Singing
-a5,smo_raw_clips_vadish,66,976.75,992.15,Samoan,,Samoan Music - Choir Singing
-a5,smo_raw_clips_vadish,67,991.75,1007.15,Samoan,,Samoan Music - Choir Singing
-a5,smo_raw_clips_vadish,68,1006.75,1022.15,Samoan,,
-a5,smo_raw_clips_vadish,69,1021.75,1037.15,Samoan,,
-a5,smo_raw_clips_vadish,70,1036.75,1052.15,Samoan,,
-a5,smo_raw_clips_vadish,71,1051.75,1067.15,English,,
-a5,smo_raw_clips_vadish,72,1066.75,1082.15,English,,
-a5,smo_raw_clips_vadish,73,1081.75,1097.15,English,,
-a5,smo_raw_clips_vadish,74,1096.75,1112.15,Samoan,,
-a5,smo_raw_clips_vadish,75,1111.75,1127.15,Samoan,,
-a5,smo_raw_clips_vadish,76,1126.75,1142.15,Samoan,,
-a5,smo_raw_clips_vadish,77,1141.75,1157.15,English,,
-a5,smo_raw_clips_vadish,78,1156.75,1172.15,Samoan,,
-a5,smo_raw_clips_vadish,79,1171.75,1187.15,Mixed,,
-a5,smo_raw_clips_vadish,80,1186.75,1202.15,Mixed,,"english at 0:01, Samoan at 0:03"
-a5,smo_raw_clips_vadish,81,1201.75,1217.15,Samoan,,
-a5,smo_raw_clips_vadish,82,1216.75,1232.15,Samoan,,english: 0:03
-a5,smo_raw_clips_vadish,83,1231.75,1247.15,English,,
-a5,smo_raw_clips_vadish,84,1246.75,1262.15,English,,
-a5,smo_raw_clips_vadish,85,1261.75,1277.15,Samoan,,
-a5,smo_raw_clips_vadish,86,1276.75,1292.15,Samoan,,
-a5,smo_raw_clips_vadish,87,1291.75,1307.15,Mixed,,
-a5,smo_raw_clips_vadish,88,1306.75,1322.15,English,,
-a5,smo_raw_clips_vadish,89,1321.75,1337.15,Mixed,,
-a5,smo_raw_clips_vadish,90,1336.75,1352.15,Samoan,,
-a5,smo_raw_clips_vadish,91,1351.75,1367.15,Samoan,,
-a5,smo_raw_clips_vadish,92,1366.75,1382.15,Samoan,,
-a5,smo_raw_clips_vadish,93,1381.75,1397.15,Samoan,,
-a5,smo_raw_clips_vadish,94,1396.75,1412.15,Samoan,,
-a5,smo_raw_clips_vadish,95,1411.75,1427.15,Samoan,,
-a5,smo_raw_clips_vadish,96,1426.75,1442.15,Samoan,,
-a5,smo_raw_clips_vadish,97,1441.75,1457.15,Mixed,,english at: 0:02
-a5,smo_raw_clips_vadish,98,1456.75,1472.15,English,,
-a5,smo_raw_clips_vadish,99,1471.75,1487.15,Samoan,,
-a5,smo_raw_clips_vadish,100,1486.75,1502.15,Samoan,,
-a5,smo_raw_clips_vadish,101,1501.75,1517.15,Mixed,,
-a5,smo_raw_clips_vadish,102,1516.75,1532.15,Samoan,,
-a5,smo_raw_clips_vadish,103,1531.75,1547.15,English,,
-a5,smo_raw_clips_vadish,104,1546.75,1562.15,Samoan,,
-a5,smo_raw_clips_vadish,105,1561.75,1577.15,Mixed,,Fagaitua HIgh School Band pays tribute to VIP. Salamasina Fuimaono #13 in line. Trumpet player. 
-a5,smo_raw_clips_vadish,106,1576.75,1592.15,Samoan,,Fagaitua HIgh School Band pays tribute to VIP. Salamasina Fuimaono #13 in line. Trumpet player. 
-a5,smo_raw_clips_vadish,107,1591.75,1607.15,Samoan,,Fagaitua HIgh School Band.
-a5,smo_raw_clips_vadish,108,1606.75,1622.15,Samoan,,"Simeona Ape. Tuba player. Rest in Peace, Inosia Sosene bass drum. "
-a5,smo_raw_clips_vadish,109,1621.75,1637.15,Samoan,,Fagaitua High School National Honor Society. Former Ms. American Samoa Trixy Petaia Taua. o:14
-a5,smo_raw_clips_vadish,110,1636.75,1652.15,Samoan,,Fagaitua High School Faculty and Staff.
-a5,smo_raw_clips_vadish,111,1651.75,1667.15,English,,Samoana High School - Home of the Sharks
-a5,smo_raw_clips_vadish,112,1666.75,1682.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,113,1681.75,1697.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,114,1696.75,1712.15,Mixed,,Samoan and EnglishSamoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,115,1711.75,1727.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,116,1726.75,1742.15,Samoan,,Ms. Mosooi. Faailoilo Fuimaono! 
-a5,smo_raw_clips_vadish,117,1741.75,1757.15,Mixed,Samoan and English,Samoana High School - Home of the Sharks. The first high school in American Samoa - National Honor Society.
-a5,smo_raw_clips_vadish,118,1756.75,1772.15,Mixed,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,119,1771.75,1787.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,120,1786.75,1802.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,121,1801.75,1817.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,122,1816.75,1832.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,123,1831.75,1847.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,124,1846.75,1862.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,125,1861.75,1877.15,English,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,126,1876.75,1892.15,English,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,127,1891.75,1907.15,English,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,128,1906.75,1922.15,Mixed,,Samoana High School - Home of the Sharks. The first high school in American SamoaEnglish-> Samoan
-a5,smo_raw_clips_vadish,129,1921.75,1937.15,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
-a5,smo_raw_clips_vadish,130,1936.75,1952.15,Samoan,,Marist High School
-a5,smo_raw_clips_vadish,131,1951.75,1967.15,Samoan,,Marist High School - All boys Catholic Private School 
-a5,smo_raw_clips_vadish,132,1966.75,1982.15,Mixed,,"Samoan -> English
+a5,smo_raw_clips_vadish,61,901750,917150,Samoan,,*background music
+a5,smo_raw_clips_vadish,62,916750,932150,Samoan,,
+a5,smo_raw_clips_vadish,63,931750,947150,Other,,Samoan music
+a5,smo_raw_clips_vadish,64,946750,962150,Other,,Samoan Music - Choir singing
+a5,smo_raw_clips_vadish,65,961750,977150,Other,,Samoan Music - Choir Singing
+a5,smo_raw_clips_vadish,66,976750,992150,Samoan,,Samoan Music - Choir Singing
+a5,smo_raw_clips_vadish,67,991750,1007150,Samoan,,Samoan Music - Choir Singing
+a5,smo_raw_clips_vadish,68,1006750,1022150,Samoan,,
+a5,smo_raw_clips_vadish,69,1021750,1037150,Samoan,,
+a5,smo_raw_clips_vadish,70,1036750,1052150,Samoan,,
+a5,smo_raw_clips_vadish,71,1051750,1067150,English,,
+a5,smo_raw_clips_vadish,72,1066750,1082150,English,,
+a5,smo_raw_clips_vadish,73,1081750,1097150,English,,
+a5,smo_raw_clips_vadish,74,1096750,1112150,Samoan,,
+a5,smo_raw_clips_vadish,75,1111750,1127150,Samoan,,
+a5,smo_raw_clips_vadish,76,1126750,1142150,Samoan,,
+a5,smo_raw_clips_vadish,77,1141750,1157150,English,,
+a5,smo_raw_clips_vadish,78,1156750,1172150,Samoan,,
+a5,smo_raw_clips_vadish,79,1171750,1187150,Mixed,,
+a5,smo_raw_clips_vadish,80,1186750,1202150,Mixed,,"english at 0:01, Samoan at 0:03"
+a5,smo_raw_clips_vadish,81,1201750,1217150,Samoan,,
+a5,smo_raw_clips_vadish,82,1216750,1232150,Samoan,,english: 0:03
+a5,smo_raw_clips_vadish,83,1231750,1247150,English,,
+a5,smo_raw_clips_vadish,84,1246750,1262150,English,,
+a5,smo_raw_clips_vadish,85,1261750,1277150,Samoan,,
+a5,smo_raw_clips_vadish,86,1276750,1292150,Samoan,,
+a5,smo_raw_clips_vadish,87,1291750,1307150,Mixed,,
+a5,smo_raw_clips_vadish,88,1306750,1322150,English,,
+a5,smo_raw_clips_vadish,89,1321750,1337150,Mixed,,
+a5,smo_raw_clips_vadish,90,1336750,1352150,Samoan,,
+a5,smo_raw_clips_vadish,91,1351750,1367150,Samoan,,
+a5,smo_raw_clips_vadish,92,1366750,1382150,Samoan,,
+a5,smo_raw_clips_vadish,93,1381750,1397150,Samoan,,
+a5,smo_raw_clips_vadish,94,1396750,1412150,Samoan,,
+a5,smo_raw_clips_vadish,95,1411750,1427150,Samoan,,
+a5,smo_raw_clips_vadish,96,1426750,1442150,Samoan,,
+a5,smo_raw_clips_vadish,97,1441750,1457150,Mixed,,english at: 0:02
+a5,smo_raw_clips_vadish,98,1456750,1472150,English,,
+a5,smo_raw_clips_vadish,99,1471750,1487150,Samoan,,
+a5,smo_raw_clips_vadish,100,1486750,1502150,Samoan,,
+a5,smo_raw_clips_vadish,101,1501750,1517150,Mixed,,
+a5,smo_raw_clips_vadish,102,1516750,1532150,Samoan,,
+a5,smo_raw_clips_vadish,103,1531750,1547150,English,,
+a5,smo_raw_clips_vadish,104,1546750,1562150,Samoan,,
+a5,smo_raw_clips_vadish,105,1561750,1577150,Mixed,,Fagaitua HIgh School Band pays tribute to VIP. Salamasina Fuimaono #13 in line. Trumpet player. 
+a5,smo_raw_clips_vadish,106,1576750,1592150,Samoan,,Fagaitua HIgh School Band pays tribute to VIP. Salamasina Fuimaono #13 in line. Trumpet player. 
+a5,smo_raw_clips_vadish,107,1591750,1607150,Samoan,,Fagaitua HIgh School Band.
+a5,smo_raw_clips_vadish,108,1606750,1622150,Samoan,,"Simeona Ape. Tuba player. Rest in Peace, Inosia Sosene bass drum. "
+a5,smo_raw_clips_vadish,109,1621750,1637150,Samoan,,Fagaitua High School National Honor Society. Former Ms. American Samoa Trixy Petaia Taua. o:14
+a5,smo_raw_clips_vadish,110,1636750,1652150,Samoan,,Fagaitua High School Faculty and Staff.
+a5,smo_raw_clips_vadish,111,1651750,1667150,English,,Samoana High School - Home of the Sharks
+a5,smo_raw_clips_vadish,112,1666750,1682150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,113,1681750,1697150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,114,1696750,1712150,Mixed,,Samoan and EnglishSamoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,115,1711750,1727150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,116,1726750,1742150,Samoan,,Ms. Mosooi. Faailoilo Fuimaono! 
+a5,smo_raw_clips_vadish,117,1741750,1757150,Mixed,Samoan and English,Samoana High School - Home of the Sharks. The first high school in American Samoa - National Honor Society.
+a5,smo_raw_clips_vadish,118,1756750,1772150,Mixed,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,119,1771750,1787150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,120,1786750,1802150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,121,1801750,1817150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,122,1816750,1832150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,123,1831750,1847150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,124,1846750,1862150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,125,1861750,1877150,English,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,126,1876750,1892150,English,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,127,1891750,1907150,English,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,128,1906750,1922150,Mixed,,Samoana High School - Home of the Sharks. The first high school in American SamoaEnglish-> Samoan
+a5,smo_raw_clips_vadish,129,1921750,1937150,Samoan,,Samoana High School - Home of the Sharks. The first high school in American Samoa
+a5,smo_raw_clips_vadish,130,1936750,1952150,Samoan,,Marist High School
+a5,smo_raw_clips_vadish,131,1951750,1967150,Samoan,,Marist High School - All boys Catholic Private School 
+a5,smo_raw_clips_vadish,132,1966750,1982150,Mixed,,"Samoan -> English
 
 Marist High School - All boys Catholic Private School "
-a5,smo_raw_clips_vadish,133,1981.75,1997.15,English,,
-a5,smo_raw_clips_vadish,134,1996.75,2012.15,English,,
-a5,smo_raw_clips_vadish,135,2011.75,2027.15,English,,
-a5,smo_raw_clips_vadish,136,2026.75,2042.15,Samoan,,
-a5,smo_raw_clips_vadish,137,2041.75,2057.15,Samoan,,
-a5,smo_raw_clips_vadish,138,2056.75,2072.15,Samoan,,
-a5,smo_raw_clips_vadish,139,2071.75,2087.15,Samoan,,
-a5,smo_raw_clips_vadish,140,2086.75,2102.15,Samoan,,
-a5,smo_raw_clips_vadish,141,2101.75,2117.15,Samoan,,
-a5,smo_raw_clips_vadish,142,2116.75,2132.15,Samoan,,
-a5,smo_raw_clips_vadish,143,2131.75,2147.15,Samoan,,
-a5,smo_raw_clips_vadish,144,2146.75,2162.15,Samoan,,
-a5,smo_raw_clips_vadish,145,2161.75,2177.15,Samoan,,
-a5,smo_raw_clips_vadish,146,2176.75,2192.15,Samoan,,
-a5,smo_raw_clips_vadish,147,2191.75,2207.15,Samoan,,
-a5,smo_raw_clips_vadish,148,2206.75,2222.15,Samoan,,
-a5,smo_raw_clips_vadish,149,2221.75,2237.15,Samoan,,
-a5,smo_raw_clips_vadish,150,2236.75,2252.15,Mixed,,Samoan_> English
-a5,smo_raw_clips_vadish,151,2251.75,2267.15,Mixed,,
-a5,smo_raw_clips_vadish,152,2266.75,2282.15,Samoan,,
-a5,smo_raw_clips_vadish,153,2281.75,2297.15,Samoan,,
-a5,smo_raw_clips_vadish,154,2296.75,2312.15,Samoan,,
-a5,smo_raw_clips_vadish,155,2311.75,2327.15,Samoan,,
-a5,smo_raw_clips_vadish,156,2326.75,2342.15,Mixed,,Samoan -> English
-a5,smo_raw_clips_vadish,157,2341.75,2357.15,English,,
-a5,smo_raw_clips_vadish,158,2356.75,2372.15,Samoan,,
-a5,smo_raw_clips_vadish,159,2371.75,2387.15,Samoan,,
-a5,smo_raw_clips_vadish,160,2386.75,2402.15,Samoan,,
-a5,smo_raw_clips_vadish,161,2401.75,2417.15,Samoan,,
-a5,smo_raw_clips_vadish,162,2416.75,2432.15,Samoan,,
-a5,smo_raw_clips_vadish,163,2431.75,2447.15,Samoan,,
-a5,smo_raw_clips_vadish,164,2446.75,2462.15,English,,
-a5,smo_raw_clips_vadish,165,2461.75,2477.15,Samoan,,
-a5,smo_raw_clips_vadish,166,2476.75,2492.15,Samoan,,
-a5,smo_raw_clips_vadish,167,2491.75,2507.15,English,,
-a5,smo_raw_clips_vadish,168,2506.75,2522.15,English,,
-a5,smo_raw_clips_vadish,169,2521.75,2537.15,English,,
-a5,smo_raw_clips_vadish,170,2536.75,2552.15,Mixed,,English -> Samoan
-a5,smo_raw_clips_vadish,171,2551.75,2567.15,Samoan,,
-a5,smo_raw_clips_vadish,172,2566.75,2582.15,Samoan,,
-a5,smo_raw_clips_vadish,173,2581.75,2597.15,Mixed,,Samoan -> English
-a5,smo_raw_clips_vadish,174,2596.75,2612.15,English,,
-a5,smo_raw_clips_vadish,175,2611.75,2627.15,Mixed,,English -> Samoan
-a5,smo_raw_clips_vadish,176,2626.75,2642.15,Samoan,,
-a5,smo_raw_clips_vadish,177,2641.75,2657.15,Samoan,,
-a5,smo_raw_clips_vadish,178,2656.75,2672.15,Samoan,,
-a5,smo_raw_clips_vadish,179,2671.75,2687.15,Mixed,,Samoan -> English
-a5,smo_raw_clips_vadish,180,2686.75,2702.15,Mixed,,English -> Samoan
-a5,smo_raw_clips_vadish,181,2701.75,2717.15,Samoan,,
-a5,smo_raw_clips_vadish,182,2716.75,2732.15,Mixed,,Samoan to English
-a5,smo_raw_clips_vadish,183,2731.75,2747.15,Samoan,,
-a5,smo_raw_clips_vadish,184,2746.75,2762.15,Mixed,Samoan to English,
-a5,smo_raw_clips_vadish,185,2761.75,2777.15,Mixed,English to Samoan,
-a5,smo_raw_clips_vadish,186,2776.75,2792.15,Samoan,,
-a5,smo_raw_clips_vadish,187,2791.75,2807.15,Samoan,,
-a5,smo_raw_clips_vadish,188,2806.75,2822.15,Samoan,,
-a5,smo_raw_clips_vadish,189,2821.75,2837.15,Samoan,,
-a5,smo_raw_clips_vadish,190,2836.75,2852.15,Samoan,,
-a5,smo_raw_clips_vadish,191,2851.75,2867.15,Samoan,,
-a5,smo_raw_clips_vadish,192,2866.75,2882.15,Mixed,English to Samoan,
-a5,smo_raw_clips_vadish,193,2881.75,2897.15,Samoan,,
-a5,smo_raw_clips_vadish,194,2896.75,2912.15,Mixed,English and Samoan,
-a5,smo_raw_clips_vadish,195,2911.75,2927.15,Samoan,,
-a5,smo_raw_clips_vadish,196,2926.75,2942.15,Samoan,,
-a5,smo_raw_clips_vadish,197,2941.75,2957.15,Samoan,,
-a5,smo_raw_clips_vadish,198,2956.75,2972.15,Samoan,,
-a5,smo_raw_clips_vadish,199,2971.75,2987.15,Mixed,,
-a5,smo_raw_clips_vadish,200,2986.75,3002.15,Samoan,,
-a5,smo_raw_clips_vadish,201,3001.75,3017.15,Samoan,,
-a5,smo_raw_clips_vadish,202,3016.75,3032.15,Samoan,,
-a5,smo_raw_clips_vadish,203,3031.75,3047.15,Samoan,,
-a5,smo_raw_clips_vadish,204,3046.75,3062.15,Samoan,,
-a5,smo_raw_clips_vadish,205,3061.75,3077.15,Samoan,,
-a5,smo_raw_clips_vadish,206,3076.75,3092.15,Samoan,,
-a5,smo_raw_clips_vadish,207,3091.75,3107.15,Samoan,,
-a5,smo_raw_clips_vadish,208,3106.75,3122.15,Samoan,,
-a5,smo_raw_clips_vadish,209,3121.75,3137.15,Samoan,,
-a5,smo_raw_clips_vadish,210,3136.75,3152.15,Samoan,,
-a5,smo_raw_clips_vadish,211,3151.75,3167.15,Samoan,,
-a5,smo_raw_clips_vadish,212,3166.75,3182.15,Samoan,,
-a5,smo_raw_clips_vadish,213,3181.75,3197.15,Samoan,,
-a5,smo_raw_clips_vadish,214,3196.75,3212.15,Samoan,,
-a5,smo_raw_clips_vadish,215,3211.75,3227.15,Samoan,,
-a5,smo_raw_clips_vadish,216,3226.75,3242.15,Samoan,,
-a5,smo_raw_clips_vadish,217,3241.75,3257.15,Samoan,,
-a5,smo_raw_clips_vadish,218,3256.75,3272.15,Samoan,,
-a5,smo_raw_clips_vadish,219,3271.75,3287.15,Samoan,,
-a5,smo_raw_clips_vadish,220,3286.75,3302.15,Samoan,,
-a5,smo_raw_clips_vadish,221,3301.75,3317.15,Samoan,,
-a5,smo_raw_clips_vadish,222,3316.75,3332.15,Samoan,,
-a5,smo_raw_clips_vadish,223,3331.75,3347.15,Samoan,,
-a5,smo_raw_clips_vadish,224,3346.75,3362.15,Samoan,,
-a5,smo_raw_clips_vadish,225,3361.75,3377.15,Samoan,,
-a5,smo_raw_clips_vadish,226,3376.75,3392.15,Samoan,,
-a5,smo_raw_clips_vadish,227,3391.75,3407.15,English,,
-a5,smo_raw_clips_vadish,228,3406.75,3422.15,English,,
-a5,smo_raw_clips_vadish,229,3421.75,3437.15,English,,
-a5,smo_raw_clips_vadish,230,3436.75,3452.15,Mixed,English to Samoan,
-a5,smo_raw_clips_vadish,231,3451.75,3467.15,Mixed,,
-a5,smo_raw_clips_vadish,232,3466.75,3482.15,Mixed,,
-a5,smo_raw_clips_vadish,233,3481.75,3497.15,English,,
-a5,smo_raw_clips_vadish,234,3496.75,3512.15,English,,
-a5,smo_raw_clips_vadish,235,3511.75,3527.15,English,,
-a5,smo_raw_clips_vadish,236,3526.75,3542.15,Mixed,English and Samoan,
-a5,smo_raw_clips_vadish,237,3541.75,3557.15,Samoan,,
-a5,smo_raw_clips_vadish,238,3556.75,3572.15,Samoan,,
-a5,smo_raw_clips_vadish,239,3571.75,3587.15,Samoan,,
-a5,smo_raw_clips_vadish,240,3586.75,3602.15,Samoan,,
-a5,smo_raw_clips_vadish,241,3601.75,3617.15,Samoan,,
-a5,smo_raw_clips_vadish,242,3616.75,3632.15,Other,,Patriotic music - Band 
-a5,smo_raw_clips_vadish,243,3631.75,3647.15,Other,,patriotic music - band
-a5,smo_raw_clips_vadish,244,3646.75,3662.15,Other,,patriotic music - band
-a5,smo_raw_clips_vadish,245,3661.75,3677.15,Mixed,,announcer + background (patriotic band music)
-a5,smo_raw_clips_vadish,246,3676.75,3692.15,Mixed,,Samoan - background patriotic music
-a5,smo_raw_clips_vadish,247,3691.75,3707.15,Other,,Samoan - background patiotic music
-a5,smo_raw_clips_vadish,248,3706.75,3722.15,Other,,patiotic music
-a5,smo_raw_clips_vadish,249,3721.75,3737.15,Other,, patriotic music
-a5,smo_raw_clips_vadish,250,3736.75,3742.4,Other,,patiotic music
+a5,smo_raw_clips_vadish,133,1981750,1997150,English,,
+a5,smo_raw_clips_vadish,134,1996750,2012150,English,,
+a5,smo_raw_clips_vadish,135,2011750,2027150,English,,
+a5,smo_raw_clips_vadish,136,2026750,2042150,Samoan,,
+a5,smo_raw_clips_vadish,137,2041750,2057150,Samoan,,
+a5,smo_raw_clips_vadish,138,2056750,2072150,Samoan,,
+a5,smo_raw_clips_vadish,139,2071750,2087150,Samoan,,
+a5,smo_raw_clips_vadish,140,2086750,2102150,Samoan,,
+a5,smo_raw_clips_vadish,141,2101750,2117150,Samoan,,
+a5,smo_raw_clips_vadish,142,2116750,2132150,Samoan,,
+a5,smo_raw_clips_vadish,143,2131750,2147150,Samoan,,
+a5,smo_raw_clips_vadish,144,2146750,2162150,Samoan,,
+a5,smo_raw_clips_vadish,145,2161750,2177150,Samoan,,
+a5,smo_raw_clips_vadish,146,2176750,2192150,Samoan,,
+a5,smo_raw_clips_vadish,147,2191750,2207150,Samoan,,
+a5,smo_raw_clips_vadish,148,2206750,2222150,Samoan,,
+a5,smo_raw_clips_vadish,149,2221750,2237150,Samoan,,
+a5,smo_raw_clips_vadish,150,2236750,2252150,Mixed,,Samoan_> English
+a5,smo_raw_clips_vadish,151,2251750,2267150,Mixed,,
+a5,smo_raw_clips_vadish,152,2266750,2282150,Samoan,,
+a5,smo_raw_clips_vadish,153,2281750,2297150,Samoan,,
+a5,smo_raw_clips_vadish,154,2296750,2312150,Samoan,,
+a5,smo_raw_clips_vadish,155,2311750,2327150,Samoan,,
+a5,smo_raw_clips_vadish,156,2326750,2342150,Mixed,,Samoan -> English
+a5,smo_raw_clips_vadish,157,2341750,2357150,English,,
+a5,smo_raw_clips_vadish,158,2356750,2372150,Samoan,,
+a5,smo_raw_clips_vadish,159,2371750,2387150,Samoan,,
+a5,smo_raw_clips_vadish,160,2386750,2402150,Samoan,,
+a5,smo_raw_clips_vadish,161,2401750,2417150,Samoan,,
+a5,smo_raw_clips_vadish,162,2416750,2432150,Samoan,,
+a5,smo_raw_clips_vadish,163,2431750,2447150,Samoan,,
+a5,smo_raw_clips_vadish,164,2446750,2462150,English,,
+a5,smo_raw_clips_vadish,165,2461750,2477150,Samoan,,
+a5,smo_raw_clips_vadish,166,2476750,2492150,Samoan,,
+a5,smo_raw_clips_vadish,167,2491750,2507150,English,,
+a5,smo_raw_clips_vadish,168,2506750,2522150,English,,
+a5,smo_raw_clips_vadish,169,2521750,2537150,English,,
+a5,smo_raw_clips_vadish,170,2536750,2552150,Mixed,,English -> Samoan
+a5,smo_raw_clips_vadish,171,2551750,2567150,Samoan,,
+a5,smo_raw_clips_vadish,172,2566750,2582150,Samoan,,
+a5,smo_raw_clips_vadish,173,2581750,2597150,Mixed,,Samoan -> English
+a5,smo_raw_clips_vadish,174,2596750,2612150,English,,
+a5,smo_raw_clips_vadish,175,2611750,2627150,Mixed,,English -> Samoan
+a5,smo_raw_clips_vadish,176,2626750,2642150,Samoan,,
+a5,smo_raw_clips_vadish,177,2641750,2657150,Samoan,,
+a5,smo_raw_clips_vadish,178,2656750,2672150,Samoan,,
+a5,smo_raw_clips_vadish,179,2671750,2687150,Mixed,,Samoan -> English
+a5,smo_raw_clips_vadish,180,2686750,2702150,Mixed,,English -> Samoan
+a5,smo_raw_clips_vadish,181,2701750,2717150,Samoan,,
+a5,smo_raw_clips_vadish,182,2716750,2732150,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,183,2731750,2747150,Samoan,,
+a5,smo_raw_clips_vadish,184,2746750,2762150,Mixed,Samoan to English,
+a5,smo_raw_clips_vadish,185,2761750,2777150,Mixed,English to Samoan,
+a5,smo_raw_clips_vadish,186,2776750,2792150,Samoan,,
+a5,smo_raw_clips_vadish,187,2791750,2807150,Samoan,,
+a5,smo_raw_clips_vadish,188,2806750,2822150,Samoan,,
+a5,smo_raw_clips_vadish,189,2821750,2837150,Samoan,,
+a5,smo_raw_clips_vadish,190,2836750,2852150,Samoan,,
+a5,smo_raw_clips_vadish,191,2851750,2867150,Samoan,,
+a5,smo_raw_clips_vadish,192,2866750,2882150,Mixed,English to Samoan,
+a5,smo_raw_clips_vadish,193,2881750,2897150,Samoan,,
+a5,smo_raw_clips_vadish,194,2896750,2912150,Mixed,English and Samoan,
+a5,smo_raw_clips_vadish,195,2911750,2927150,Samoan,,
+a5,smo_raw_clips_vadish,196,2926750,2942150,Samoan,,
+a5,smo_raw_clips_vadish,197,2941750,2957150,Samoan,,
+a5,smo_raw_clips_vadish,198,2956750,2972150,Samoan,,
+a5,smo_raw_clips_vadish,199,2971750,2987150,Mixed,,
+a5,smo_raw_clips_vadish,200,2986750,3002150,Samoan,,
+a5,smo_raw_clips_vadish,201,3001750,3017150,Samoan,,
+a5,smo_raw_clips_vadish,202,3016750,3032150,Samoan,,
+a5,smo_raw_clips_vadish,203,3031750,3047150,Samoan,,
+a5,smo_raw_clips_vadish,204,3046750,3062150,Samoan,,
+a5,smo_raw_clips_vadish,205,3061750,3077150,Samoan,,
+a5,smo_raw_clips_vadish,206,3076750,3092150,Samoan,,
+a5,smo_raw_clips_vadish,207,3091750,3107150,Samoan,,
+a5,smo_raw_clips_vadish,208,3106750,3122150,Samoan,,
+a5,smo_raw_clips_vadish,209,3121750,3137150,Samoan,,
+a5,smo_raw_clips_vadish,210,3136750,3152150,Samoan,,
+a5,smo_raw_clips_vadish,211,3151750,3167150,Samoan,,
+a5,smo_raw_clips_vadish,212,3166750,3182150,Samoan,,
+a5,smo_raw_clips_vadish,213,3181750,3197150,Samoan,,
+a5,smo_raw_clips_vadish,214,3196750,3212150,Samoan,,
+a5,smo_raw_clips_vadish,215,3211750,3227150,Samoan,,
+a5,smo_raw_clips_vadish,216,3226750,3242150,Samoan,,
+a5,smo_raw_clips_vadish,217,3241750,3257150,Samoan,,
+a5,smo_raw_clips_vadish,218,3256750,3272150,Samoan,,
+a5,smo_raw_clips_vadish,219,3271750,3287150,Samoan,,
+a5,smo_raw_clips_vadish,220,3286750,3302150,Samoan,,
+a5,smo_raw_clips_vadish,221,3301750,3317150,Samoan,,
+a5,smo_raw_clips_vadish,222,3316750,3332150,Samoan,,
+a5,smo_raw_clips_vadish,223,3331750,3347150,Samoan,,
+a5,smo_raw_clips_vadish,224,3346750,3362150,Samoan,,
+a5,smo_raw_clips_vadish,225,3361750,3377150,Samoan,,
+a5,smo_raw_clips_vadish,226,3376750,3392150,Samoan,,
+a5,smo_raw_clips_vadish,227,3391750,3407150,English,,
+a5,smo_raw_clips_vadish,228,3406750,3422150,English,,
+a5,smo_raw_clips_vadish,229,3421750,3437150,English,,
+a5,smo_raw_clips_vadish,230,3436750,3452150,Mixed,English to Samoan,
+a5,smo_raw_clips_vadish,231,3451750,3467150,Mixed,,
+a5,smo_raw_clips_vadish,232,3466750,3482150,Mixed,,
+a5,smo_raw_clips_vadish,233,3481750,3497150,English,,
+a5,smo_raw_clips_vadish,234,3496750,3512150,English,,
+a5,smo_raw_clips_vadish,235,3511750,3527150,English,,
+a5,smo_raw_clips_vadish,236,3526750,3542150,Mixed,English and Samoan,
+a5,smo_raw_clips_vadish,237,3541750,3557150,Samoan,,
+a5,smo_raw_clips_vadish,238,3556750,3572150,Samoan,,
+a5,smo_raw_clips_vadish,239,3571750,3587150,Samoan,,
+a5,smo_raw_clips_vadish,240,3586750,3602150,Samoan,,
+a5,smo_raw_clips_vadish,241,3601750,3617150,Samoan,,
+a5,smo_raw_clips_vadish,242,3616750,3632150,Other,,Patriotic music - Band 
+a5,smo_raw_clips_vadish,243,3631750,3647150,Other,,patriotic music - band
+a5,smo_raw_clips_vadish,244,3646750,3662150,Other,,patriotic music - band
+a5,smo_raw_clips_vadish,245,3661750,3677150,Mixed,,announcer + background (patriotic band music)
+a5,smo_raw_clips_vadish,246,3676750,3692150,Mixed,,Samoan - background patriotic music
+a5,smo_raw_clips_vadish,247,3691750,3707150,Other,,Samoan - background patiotic music
+a5,smo_raw_clips_vadish,248,3706750,3722150,Other,,patiotic music
+a5,smo_raw_clips_vadish,249,3721750,3737150,Other,, patriotic music
+a5,smo_raw_clips_vadish,250,3736750,3742400,Other,,patiotic music

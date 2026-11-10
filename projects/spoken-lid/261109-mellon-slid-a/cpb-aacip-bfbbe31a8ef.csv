@@ -1,126 +1,126 @@
-annotator,clip-set,clip,start,end,label,mixed-order,notes
-a3,spa_raw_clips_vadish,1,0.0,15.2,other,,No language audio
-a3,spa_raw_clips_vadish,2,14.8,30.2,other,,No language audio
-a3,spa_raw_clips_vadish,3,29.8,45.2,other,,No language audio
-a3,spa_raw_clips_vadish,4,44.8,60.2,other,,No language audio
-a3,spa_raw_clips_vadish,5,59.8,70.41,other,,No language audio
-a3,spa_raw_clips_vadish,6,73.16,86.52,english,,
-a3,spa_raw_clips_vadish,7,98.48,113.88,other,,No language audio
-a3,spa_raw_clips_vadish,8,113.48,128.88,other,,No language audio
-a3,spa_raw_clips_vadish,9,128.48,143.88,other,,No language audio
-a3,spa_raw_clips_vadish,10,143.48,150.52,other,,No language audio
-a3,spa_raw_clips_vadish,11,151.57,166.97,spanish,,
-a3,spa_raw_clips_vadish,12,166.57,181.97,spanish,,
-a3,spa_raw_clips_vadish,13,181.57,196.97,spanish,,
-a3,spa_raw_clips_vadish,14,196.57,211.97,spanish,,
-a3,spa_raw_clips_vadish,15,211.57,226.97,spanish,,
-a3,spa_raw_clips_vadish,16,226.57,245.73,spanish,,
-a3,spa_raw_clips_vadish,17,246.8,251.56,spanish,,"No language audio
+annotator,clip-set,clip,start_ms,end_ms,label,mixed-order,notes
+a3,spa_raw_clips_vadish,1,0,15200,other,,No language audio
+a3,spa_raw_clips_vadish,2,14800,30200,other,,No language audio
+a3,spa_raw_clips_vadish,3,29800,45200,other,,No language audio
+a3,spa_raw_clips_vadish,4,44800,60200,other,,No language audio
+a3,spa_raw_clips_vadish,5,59800,70410,other,,No language audio
+a3,spa_raw_clips_vadish,6,73160,86520,english,,
+a3,spa_raw_clips_vadish,7,98480,113880,other,,No language audio
+a3,spa_raw_clips_vadish,8,113480,128880,other,,No language audio
+a3,spa_raw_clips_vadish,9,128480,143880,other,,No language audio
+a3,spa_raw_clips_vadish,10,143480,150520,other,,No language audio
+a3,spa_raw_clips_vadish,11,151570,166970,spanish,,
+a3,spa_raw_clips_vadish,12,166570,181970,spanish,,
+a3,spa_raw_clips_vadish,13,181570,196970,spanish,,
+a3,spa_raw_clips_vadish,14,196570,211970,spanish,,
+a3,spa_raw_clips_vadish,15,211570,226970,spanish,,
+a3,spa_raw_clips_vadish,16,226570,245730,spanish,,
+a3,spa_raw_clips_vadish,17,246800,251560,spanish,,"No language audio
 In screen appears Spanish words"
-a3,spa_raw_clips_vadish,18,252.55,267.95,spanish,,
-a3,spa_raw_clips_vadish,19,267.55,285.63,spanish,,
-a3,spa_raw_clips_vadish,20,286.43,300.14,english,,
-a3,spa_raw_clips_vadish,21,301.52,317.02,english,,
-a3,spa_raw_clips_vadish,22,316.62,330.99,english,,
-a3,spa_raw_clips_vadish,23,331.3,346.7,english,,
-a3,spa_raw_clips_vadish,24,346.3,365.97,english,,
-a3,spa_raw_clips_vadish,25,367.17,386.01,english,,
-a3,spa_raw_clips_vadish,26,386.22,397.3,english,,
-a3,spa_raw_clips_vadish,27,398.1,417.84,english,,
-a3,spa_raw_clips_vadish,28,418.06,424.03,english,,
-a3,spa_raw_clips_vadish,29,424.82,440.22,english,,
-a3,spa_raw_clips_vadish,30,439.82,457.77,english,,
-a3,spa_raw_clips_vadish,31,457.88,477.25,english,,
-a3,spa_raw_clips_vadish,32,477.63,484.19,english,,
-a3,spa_raw_clips_vadish,33,485.58,503.21,spanish,,
-a3,spa_raw_clips_vadish,34,505.0,519.6,spanish,,
-a3,spa_raw_clips_vadish,35,525.66,528.5,spanish,,
-a3,spa_raw_clips_vadish,36,536.79,552.19,english,,
-a3,spa_raw_clips_vadish,37,551.79,567.19,english,,
-a3,spa_raw_clips_vadish,38,566.79,582.19,english,,
-a3,spa_raw_clips_vadish,39,581.79,597.19,english,,
-a3,spa_raw_clips_vadish,40,596.79,612.19,english,,
-a3,spa_raw_clips_vadish,41,611.79,627.19,english,,
-a3,spa_raw_clips_vadish,42,626.79,642.19,english,,
-a3,spa_raw_clips_vadish,43,641.79,657.19,english,,
-a3,spa_raw_clips_vadish,44,656.79,672.19,english,,
-a3,spa_raw_clips_vadish,45,671.79,687.19,spanish,,
-a3,spa_raw_clips_vadish,46,686.79,702.19,other,,"No language audio
+a3,spa_raw_clips_vadish,18,252550,267950,spanish,,
+a3,spa_raw_clips_vadish,19,267550,285630,spanish,,
+a3,spa_raw_clips_vadish,20,286430,300140,english,,
+a3,spa_raw_clips_vadish,21,301520,317020,english,,
+a3,spa_raw_clips_vadish,22,316620,330990,english,,
+a3,spa_raw_clips_vadish,23,331300,346700,english,,
+a3,spa_raw_clips_vadish,24,346300,365970,english,,
+a3,spa_raw_clips_vadish,25,367170,386010,english,,
+a3,spa_raw_clips_vadish,26,386220,397300,english,,
+a3,spa_raw_clips_vadish,27,398100,417840,english,,
+a3,spa_raw_clips_vadish,28,418060,424030,english,,
+a3,spa_raw_clips_vadish,29,424820,440220,english,,
+a3,spa_raw_clips_vadish,30,439820,457770,english,,
+a3,spa_raw_clips_vadish,31,457880,477250,english,,
+a3,spa_raw_clips_vadish,32,477630,484190,english,,
+a3,spa_raw_clips_vadish,33,485580,503210,spanish,,
+a3,spa_raw_clips_vadish,34,505000,519600,spanish,,
+a3,spa_raw_clips_vadish,35,525660,528500,spanish,,
+a3,spa_raw_clips_vadish,36,536790,552190,english,,
+a3,spa_raw_clips_vadish,37,551790,567190,english,,
+a3,spa_raw_clips_vadish,38,566790,582190,english,,
+a3,spa_raw_clips_vadish,39,581790,597190,english,,
+a3,spa_raw_clips_vadish,40,596790,612190,english,,
+a3,spa_raw_clips_vadish,41,611790,627190,english,,
+a3,spa_raw_clips_vadish,42,626790,642190,english,,
+a3,spa_raw_clips_vadish,43,641790,657190,english,,
+a3,spa_raw_clips_vadish,44,656790,672190,english,,
+a3,spa_raw_clips_vadish,45,671790,687190,spanish,,
+a3,spa_raw_clips_vadish,46,686790,702190,other,,"No language audio
 Language on screen is Spanish"
-a3,spa_raw_clips_vadish,47,701.79,717.17,spanish,,
-a3,spa_raw_clips_vadish,48,717.31,724.26,spanish,,
-a3,spa_raw_clips_vadish,49,733.81,749.21,english,,
-a3,spa_raw_clips_vadish,50,748.81,764.21,english,,
-a3,spa_raw_clips_vadish,51,763.81,779.21,english,,
-a3,spa_raw_clips_vadish,52,778.81,794.21,english,,
-a3,spa_raw_clips_vadish,53,793.81,809.21,english,,
-a3,spa_raw_clips_vadish,54,808.81,824.21,english,,
-a3,spa_raw_clips_vadish,55,823.81,839.21,english,,
-a3,spa_raw_clips_vadish,56,838.81,854.21,english,,
-a3,spa_raw_clips_vadish,57,853.81,865.27,english,,
-a3,spa_raw_clips_vadish,58,864.87,878.89,spanish,,
-a3,spa_raw_clips_vadish,59,879.83,894.82,spanish,,
-a3,spa_raw_clips_vadish,60,895.21,909.06,spanish,,
-a3,spa_raw_clips_vadish,61,909.42,925.67,spanish,,
-a3,spa_raw_clips_vadish,62,926.27,945.26,spanish,,
-a3,spa_raw_clips_vadish,63,946.08,962.43,spanish,,
-a3,spa_raw_clips_vadish,64,963.72,981.99,spanish,,
-a3,spa_raw_clips_vadish,65,982.27,996.72,spanish,,
-a3,spa_raw_clips_vadish,66,1006.1,1016.04,spanish,,
-a3,spa_raw_clips_vadish,67,1017.41,1032.81,english,,
-a3,spa_raw_clips_vadish,68,1032.41,1047.81,english,,
-a3,spa_raw_clips_vadish,69,1047.41,1063.44,english,,
-a3,spa_raw_clips_vadish,70,1063.98,1082.58,english,,
-a3,spa_raw_clips_vadish,71,1082.69,1098.09,english,,
-a3,spa_raw_clips_vadish,72,1097.69,1116.36,english,,
-a3,spa_raw_clips_vadish,73,1116.97,1132.37,english,,
-a3,spa_raw_clips_vadish,74,1131.97,1151.47,english,,
-a3,spa_raw_clips_vadish,75,1151.07,1162.51,english,,
-a3,spa_raw_clips_vadish,76,1166.3,1185.53,other,,No language audio
-a3,spa_raw_clips_vadish,77,1187.91,1203.31,english,,
-a3,spa_raw_clips_vadish,78,1202.91,1208.54,english,,
-a3,spa_raw_clips_vadish,79,1210.95,1229.23,spanish,,
-a3,spa_raw_clips_vadish,80,1229.34,1247.56,spanish,,
-a3,spa_raw_clips_vadish,81,1248.0,1251.37,spanish,,
-a3,spa_raw_clips_vadish,82,1252.99,1268.39,english,,
-a3,spa_raw_clips_vadish,83,1267.99,1283.39,english,,
-a3,spa_raw_clips_vadish,84,1282.99,1298.39,english,,
-a3,spa_raw_clips_vadish,85,1297.99,1313.39,english,,
-a3,spa_raw_clips_vadish,86,1312.99,1328.39,english,,
-a3,spa_raw_clips_vadish,87,1327.99,1335.46,english,,
-a3,spa_raw_clips_vadish,88,1335.66,1348.42,spanish,,
-a3,spa_raw_clips_vadish,89,1354.76,1360.02,spanish,,
-a3,spa_raw_clips_vadish,90,1371.75,1382.22,spanish,,
-a3,spa_raw_clips_vadish,91,1383.51,1398.91,spanish,,The song's rhythym seems to have Mexican roots
-a3,spa_raw_clips_vadish,92,1398.51,1413.91,spanish,,The song's rhythym seems to have Mexican roots
-a3,spa_raw_clips_vadish,93,1413.51,1428.91,spanish,,Accent: Mexican
-a3,spa_raw_clips_vadish,94,1428.51,1443.91,spanish,,Accent: Mexican
-a3,spa_raw_clips_vadish,95,1443.51,1458.91,spanish,,Accent: Mexican
-a3,spa_raw_clips_vadish,96,1458.51,1473.91,spanish,,Accent: Mexican
-a3,spa_raw_clips_vadish,97,1473.51,1488.91,spanish,,Accent: Mexican
-a3,spa_raw_clips_vadish,98,1488.51,1499.88,spanish,,The song's rhythym seems to have Mexican roots
-a3,spa_raw_clips_vadish,99,1500.79,1520.11,english,,
-a3,spa_raw_clips_vadish,100,1520.48,1525.66,english,,
-a3,spa_raw_clips_vadish,101,1525.89,1542.97,english,,
-a3,spa_raw_clips_vadish,102,1543.2,1551.11,english,,
-a3,spa_raw_clips_vadish,103,1551.34,1566.74,english,,
-a3,spa_raw_clips_vadish,104,1566.34,1572.61,english,,
-a3,spa_raw_clips_vadish,105,1572.74,1588.98,english,,
-a3,spa_raw_clips_vadish,106,1588.58,1603.98,english,,
-a3,spa_raw_clips_vadish,107,1603.58,1612.24,english,,
-a3,spa_raw_clips_vadish,108,1612.39,1627.79,english,,
-a3,spa_raw_clips_vadish,109,1627.39,1637.46,english,,
-a3,spa_raw_clips_vadish,110,1640.14,1652.03,other,,No language audio
-a3,spa_raw_clips_vadish,111,1652.66,1668.06,spanish,,
-a3,spa_raw_clips_vadish,112,1667.66,1683.06,spanish,,
-a3,spa_raw_clips_vadish,113,1682.66,1698.53,spanish,,
-a3,spa_raw_clips_vadish,114,1701.84,1705.45,spanish,,
-a3,spa_raw_clips_vadish,115,1706.21,1716.69,spanish,,
-a3,spa_raw_clips_vadish,116,1716.29,1731.69,spanish,,
-a3,spa_raw_clips_vadish,117,1731.29,1746.69,spanish,,
-a3,spa_raw_clips_vadish,118,1746.29,1761.69,spanish,,
-a3,spa_raw_clips_vadish,119,1761.29,1776.69,spanish,,
-a3,spa_raw_clips_vadish,120,1776.29,1791.69,spanish,,
-a3,spa_raw_clips_vadish,121,1791.29,1801.6,spanish,,
-a3,spa_raw_clips_vadish,122,1802.56,1822.27,other,,No language audio
-a3,spa_raw_clips_vadish,123,1823.39,1828.71,other,,No language audio
+a3,spa_raw_clips_vadish,47,701790,717170,spanish,,
+a3,spa_raw_clips_vadish,48,717310,724260,spanish,,
+a3,spa_raw_clips_vadish,49,733810,749210,english,,
+a3,spa_raw_clips_vadish,50,748810,764210,english,,
+a3,spa_raw_clips_vadish,51,763810,779210,english,,
+a3,spa_raw_clips_vadish,52,778810,794210,english,,
+a3,spa_raw_clips_vadish,53,793810,809210,english,,
+a3,spa_raw_clips_vadish,54,808810,824210,english,,
+a3,spa_raw_clips_vadish,55,823810,839210,english,,
+a3,spa_raw_clips_vadish,56,838810,854210,english,,
+a3,spa_raw_clips_vadish,57,853810,865270,english,,
+a3,spa_raw_clips_vadish,58,864870,878890,spanish,,
+a3,spa_raw_clips_vadish,59,879830,894820,spanish,,
+a3,spa_raw_clips_vadish,60,895210,909060,spanish,,
+a3,spa_raw_clips_vadish,61,909420,925670,spanish,,
+a3,spa_raw_clips_vadish,62,926270,945260,spanish,,
+a3,spa_raw_clips_vadish,63,946080,962430,spanish,,
+a3,spa_raw_clips_vadish,64,963720,981990,spanish,,
+a3,spa_raw_clips_vadish,65,982270,996720,spanish,,
+a3,spa_raw_clips_vadish,66,1006100,1016040,spanish,,
+a3,spa_raw_clips_vadish,67,1017410,1032810,english,,
+a3,spa_raw_clips_vadish,68,1032410,1047810,english,,
+a3,spa_raw_clips_vadish,69,1047410,1063440,english,,
+a3,spa_raw_clips_vadish,70,1063980,1082580,english,,
+a3,spa_raw_clips_vadish,71,1082690,1098090,english,,
+a3,spa_raw_clips_vadish,72,1097690,1116360,english,,
+a3,spa_raw_clips_vadish,73,1116970,1132370,english,,
+a3,spa_raw_clips_vadish,74,1131970,1151470,english,,
+a3,spa_raw_clips_vadish,75,1151070,1162510,english,,
+a3,spa_raw_clips_vadish,76,1166300,1185530,other,,No language audio
+a3,spa_raw_clips_vadish,77,1187910,1203310,english,,
+a3,spa_raw_clips_vadish,78,1202910,1208540,english,,
+a3,spa_raw_clips_vadish,79,1210950,1229230,spanish,,
+a3,spa_raw_clips_vadish,80,1229340,1247560,spanish,,
+a3,spa_raw_clips_vadish,81,1248000,1251370,spanish,,
+a3,spa_raw_clips_vadish,82,1252990,1268390,english,,
+a3,spa_raw_clips_vadish,83,1267990,1283390,english,,
+a3,spa_raw_clips_vadish,84,1282990,1298390,english,,
+a3,spa_raw_clips_vadish,85,1297990,1313390,english,,
+a3,spa_raw_clips_vadish,86,1312990,1328390,english,,
+a3,spa_raw_clips_vadish,87,1327990,1335460,english,,
+a3,spa_raw_clips_vadish,88,1335660,1348420,spanish,,
+a3,spa_raw_clips_vadish,89,1354760,1360020,spanish,,
+a3,spa_raw_clips_vadish,90,1371750,1382220,spanish,,
+a3,spa_raw_clips_vadish,91,1383510,1398910,spanish,,The song's rhythym seems to have Mexican roots
+a3,spa_raw_clips_vadish,92,1398510,1413910,spanish,,The song's rhythym seems to have Mexican roots
+a3,spa_raw_clips_vadish,93,1413510,1428910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,94,1428510,1443910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,95,1443510,1458910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,96,1458510,1473910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,97,1473510,1488910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,98,1488510,1499880,spanish,,The song's rhythym seems to have Mexican roots
+a3,spa_raw_clips_vadish,99,1500790,1520110,english,,
+a3,spa_raw_clips_vadish,100,1520480,1525660,english,,
+a3,spa_raw_clips_vadish,101,1525890,1542970,english,,
+a3,spa_raw_clips_vadish,102,1543200,1551110,english,,
+a3,spa_raw_clips_vadish,103,1551340,1566740,english,,
+a3,spa_raw_clips_vadish,104,1566340,1572610,english,,
+a3,spa_raw_clips_vadish,105,1572740,1588980,english,,
+a3,spa_raw_clips_vadish,106,1588580,1603980,english,,
+a3,spa_raw_clips_vadish,107,1603580,1612240,english,,
+a3,spa_raw_clips_vadish,108,1612390,1627790,english,,
+a3,spa_raw_clips_vadish,109,1627390,1637460,english,,
+a3,spa_raw_clips_vadish,110,1640140,1652030,other,,No language audio
+a3,spa_raw_clips_vadish,111,1652660,1668060,spanish,,
+a3,spa_raw_clips_vadish,112,1667660,1683060,spanish,,
+a3,spa_raw_clips_vadish,113,1682660,1698530,spanish,,
+a3,spa_raw_clips_vadish,114,1701840,1705450,spanish,,
+a3,spa_raw_clips_vadish,115,1706210,1716690,spanish,,
+a3,spa_raw_clips_vadish,116,1716290,1731690,spanish,,
+a3,spa_raw_clips_vadish,117,1731290,1746690,spanish,,
+a3,spa_raw_clips_vadish,118,1746290,1761690,spanish,,
+a3,spa_raw_clips_vadish,119,1761290,1776690,spanish,,
+a3,spa_raw_clips_vadish,120,1776290,1791690,spanish,,
+a3,spa_raw_clips_vadish,121,1791290,1801600,spanish,,
+a3,spa_raw_clips_vadish,122,1802560,1822270,other,,No language audio
+a3,spa_raw_clips_vadish,123,1823390,1828710,other,,No language audio
