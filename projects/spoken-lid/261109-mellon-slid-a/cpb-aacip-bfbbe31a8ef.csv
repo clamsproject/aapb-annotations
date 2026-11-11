@@ -1,0 +1,126 @@
+annotator,clip-set,clip,start_ms,end_ms,label,mixed-order,notes
+a3,spa_raw_clips_vadish,1,0,15200,other,,No language audio
+a3,spa_raw_clips_vadish,2,14800,30200,other,,No language audio
+a3,spa_raw_clips_vadish,3,29800,45200,other,,No language audio
+a3,spa_raw_clips_vadish,4,44800,60200,other,,No language audio
+a3,spa_raw_clips_vadish,5,59800,70410,other,,No language audio
+a3,spa_raw_clips_vadish,6,73160,86520,english,,
+a3,spa_raw_clips_vadish,7,98480,113880,other,,No language audio
+a3,spa_raw_clips_vadish,8,113480,128880,other,,No language audio
+a3,spa_raw_clips_vadish,9,128480,143880,other,,No language audio
+a3,spa_raw_clips_vadish,10,143480,150520,other,,No language audio
+a3,spa_raw_clips_vadish,11,151570,166970,spanish,,
+a3,spa_raw_clips_vadish,12,166570,181970,spanish,,
+a3,spa_raw_clips_vadish,13,181570,196970,spanish,,
+a3,spa_raw_clips_vadish,14,196570,211970,spanish,,
+a3,spa_raw_clips_vadish,15,211570,226970,spanish,,
+a3,spa_raw_clips_vadish,16,226570,245730,spanish,,
+a3,spa_raw_clips_vadish,17,246800,251560,spanish,,"No language audio
+In screen appears Spanish words"
+a3,spa_raw_clips_vadish,18,252550,267950,spanish,,
+a3,spa_raw_clips_vadish,19,267550,285630,spanish,,
+a3,spa_raw_clips_vadish,20,286430,300140,english,,
+a3,spa_raw_clips_vadish,21,301520,317020,english,,
+a3,spa_raw_clips_vadish,22,316620,330990,english,,
+a3,spa_raw_clips_vadish,23,331300,346700,english,,
+a3,spa_raw_clips_vadish,24,346300,365970,english,,
+a3,spa_raw_clips_vadish,25,367170,386010,english,,
+a3,spa_raw_clips_vadish,26,386220,397300,english,,
+a3,spa_raw_clips_vadish,27,398100,417840,english,,
+a3,spa_raw_clips_vadish,28,418060,424030,english,,
+a3,spa_raw_clips_vadish,29,424820,440220,english,,
+a3,spa_raw_clips_vadish,30,439820,457770,english,,
+a3,spa_raw_clips_vadish,31,457880,477250,english,,
+a3,spa_raw_clips_vadish,32,477630,484190,english,,
+a3,spa_raw_clips_vadish,33,485580,503210,spanish,,
+a3,spa_raw_clips_vadish,34,505000,519600,spanish,,
+a3,spa_raw_clips_vadish,35,525660,528500,spanish,,
+a3,spa_raw_clips_vadish,36,536790,552190,english,,
+a3,spa_raw_clips_vadish,37,551790,567190,english,,
+a3,spa_raw_clips_vadish,38,566790,582190,english,,
+a3,spa_raw_clips_vadish,39,581790,597190,english,,
+a3,spa_raw_clips_vadish,40,596790,612190,english,,
+a3,spa_raw_clips_vadish,41,611790,627190,english,,
+a3,spa_raw_clips_vadish,42,626790,642190,english,,
+a3,spa_raw_clips_vadish,43,641790,657190,english,,
+a3,spa_raw_clips_vadish,44,656790,672190,english,,
+a3,spa_raw_clips_vadish,45,671790,687190,spanish,,
+a3,spa_raw_clips_vadish,46,686790,702190,other,,"No language audio
+Language on screen is Spanish"
+a3,spa_raw_clips_vadish,47,701790,717170,spanish,,
+a3,spa_raw_clips_vadish,48,717310,724260,spanish,,
+a3,spa_raw_clips_vadish,49,733810,749210,english,,
+a3,spa_raw_clips_vadish,50,748810,764210,english,,
+a3,spa_raw_clips_vadish,51,763810,779210,english,,
+a3,spa_raw_clips_vadish,52,778810,794210,english,,
+a3,spa_raw_clips_vadish,53,793810,809210,english,,
+a3,spa_raw_clips_vadish,54,808810,824210,english,,
+a3,spa_raw_clips_vadish,55,823810,839210,english,,
+a3,spa_raw_clips_vadish,56,838810,854210,english,,
+a3,spa_raw_clips_vadish,57,853810,865270,english,,
+a3,spa_raw_clips_vadish,58,864870,878890,spanish,,
+a3,spa_raw_clips_vadish,59,879830,894820,spanish,,
+a3,spa_raw_clips_vadish,60,895210,909060,spanish,,
+a3,spa_raw_clips_vadish,61,909420,925670,spanish,,
+a3,spa_raw_clips_vadish,62,926270,945260,spanish,,
+a3,spa_raw_clips_vadish,63,946080,962430,spanish,,
+a3,spa_raw_clips_vadish,64,963720,981990,spanish,,
+a3,spa_raw_clips_vadish,65,982270,996720,spanish,,
+a3,spa_raw_clips_vadish,66,1006100,1016040,spanish,,
+a3,spa_raw_clips_vadish,67,1017410,1032810,english,,
+a3,spa_raw_clips_vadish,68,1032410,1047810,english,,
+a3,spa_raw_clips_vadish,69,1047410,1063440,english,,
+a3,spa_raw_clips_vadish,70,1063980,1082580,english,,
+a3,spa_raw_clips_vadish,71,1082690,1098090,english,,
+a3,spa_raw_clips_vadish,72,1097690,1116360,english,,
+a3,spa_raw_clips_vadish,73,1116970,1132370,english,,
+a3,spa_raw_clips_vadish,74,1131970,1151470,english,,
+a3,spa_raw_clips_vadish,75,1151070,1162510,english,,
+a3,spa_raw_clips_vadish,76,1166300,1185530,other,,No language audio
+a3,spa_raw_clips_vadish,77,1187910,1203310,english,,
+a3,spa_raw_clips_vadish,78,1202910,1208540,english,,
+a3,spa_raw_clips_vadish,79,1210950,1229230,spanish,,
+a3,spa_raw_clips_vadish,80,1229340,1247560,spanish,,
+a3,spa_raw_clips_vadish,81,1248000,1251370,spanish,,
+a3,spa_raw_clips_vadish,82,1252990,1268390,english,,
+a3,spa_raw_clips_vadish,83,1267990,1283390,english,,
+a3,spa_raw_clips_vadish,84,1282990,1298390,english,,
+a3,spa_raw_clips_vadish,85,1297990,1313390,english,,
+a3,spa_raw_clips_vadish,86,1312990,1328390,english,,
+a3,spa_raw_clips_vadish,87,1327990,1335460,english,,
+a3,spa_raw_clips_vadish,88,1335660,1348420,spanish,,
+a3,spa_raw_clips_vadish,89,1354760,1360020,spanish,,
+a3,spa_raw_clips_vadish,90,1371750,1382220,spanish,,
+a3,spa_raw_clips_vadish,91,1383510,1398910,spanish,,The song's rhythym seems to have Mexican roots
+a3,spa_raw_clips_vadish,92,1398510,1413910,spanish,,The song's rhythym seems to have Mexican roots
+a3,spa_raw_clips_vadish,93,1413510,1428910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,94,1428510,1443910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,95,1443510,1458910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,96,1458510,1473910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,97,1473510,1488910,spanish,,Accent: Mexican
+a3,spa_raw_clips_vadish,98,1488510,1499880,spanish,,The song's rhythym seems to have Mexican roots
+a3,spa_raw_clips_vadish,99,1500790,1520110,english,,
+a3,spa_raw_clips_vadish,100,1520480,1525660,english,,
+a3,spa_raw_clips_vadish,101,1525890,1542970,english,,
+a3,spa_raw_clips_vadish,102,1543200,1551110,english,,
+a3,spa_raw_clips_vadish,103,1551340,1566740,english,,
+a3,spa_raw_clips_vadish,104,1566340,1572610,english,,
+a3,spa_raw_clips_vadish,105,1572740,1588980,english,,
+a3,spa_raw_clips_vadish,106,1588580,1603980,english,,
+a3,spa_raw_clips_vadish,107,1603580,1612240,english,,
+a3,spa_raw_clips_vadish,108,1612390,1627790,english,,
+a3,spa_raw_clips_vadish,109,1627390,1637460,english,,
+a3,spa_raw_clips_vadish,110,1640140,1652030,other,,No language audio
+a3,spa_raw_clips_vadish,111,1652660,1668060,spanish,,
+a3,spa_raw_clips_vadish,112,1667660,1683060,spanish,,
+a3,spa_raw_clips_vadish,113,1682660,1698530,spanish,,
+a3,spa_raw_clips_vadish,114,1701840,1705450,spanish,,
+a3,spa_raw_clips_vadish,115,1706210,1716690,spanish,,
+a3,spa_raw_clips_vadish,116,1716290,1731690,spanish,,
+a3,spa_raw_clips_vadish,117,1731290,1746690,spanish,,
+a3,spa_raw_clips_vadish,118,1746290,1761690,spanish,,
+a3,spa_raw_clips_vadish,119,1761290,1776690,spanish,,
+a3,spa_raw_clips_vadish,120,1776290,1791690,spanish,,
+a3,spa_raw_clips_vadish,121,1791290,1801600,spanish,,
+a3,spa_raw_clips_vadish,122,1802560,1822270,other,,No language audio
+a3,spa_raw_clips_vadish,123,1823390,1828710,other,,No language audio
