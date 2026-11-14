@@ -1,0 +1,406 @@
+annotator,clip-set,clip,start_ms,end_ms,label,mixed-order,notes
+a5,smo_raw_clips_vadish,1,1130,19510,Other,,no language output. Conch shells.
+a5,smo_raw_clips_vadish,2,21270,34170,Other,,no language output. Conch shells.
+a5,smo_raw_clips_vadish,3,57240,72640,Samoan,,
+a5,smo_raw_clips_vadish,4,72240,87640,Samoan,,
+a5,smo_raw_clips_vadish,5,87240,102640,Samoan,,
+a5,smo_raw_clips_vadish,6,102240,117640,Samoan,,
+a5,smo_raw_clips_vadish,7,117240,132640,Mixed,,Samoan -> English
+a5,smo_raw_clips_vadish,8,132240,147640,English,,
+a5,smo_raw_clips_vadish,9,147240,162640,English,,
+a5,smo_raw_clips_vadish,10,162240,177640,English,,
+a5,smo_raw_clips_vadish,11,177240,194220,English,,
+a5,smo_raw_clips_vadish,12,193820,207090,English,,
+a5,smo_raw_clips_vadish,13,207970,226880,English,,
+a5,smo_raw_clips_vadish,14,226990,242390,English,,
+a5,smo_raw_clips_vadish,15,241990,257390,English,,
+a5,smo_raw_clips_vadish,16,256990,272390,English,,
+a5,smo_raw_clips_vadish,17,271990,287390,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,18,286990,302390,Samoan,,
+a5,smo_raw_clips_vadish,19,301990,317390,Samoan,,
+a5,smo_raw_clips_vadish,20,316990,332390,Samoan,,
+a5,smo_raw_clips_vadish,21,331990,351510,Samoan,,
+a5,smo_raw_clips_vadish,22,351700,366790,Samoan,,Samoan text. Background sounds of French Polynesian Singing
+a5,smo_raw_clips_vadish,23,367170,382570,Samoan,,Samoan text. Background sounds of French Polynesian Singing
+a5,smo_raw_clips_vadish,24,382170,397570,Samoan,,Samoan text. Background sounds of French Polynesian Singing
+a5,smo_raw_clips_vadish,25,397170,412570,Samoan,,Samoan text. Background sounds of French Polynesian Singing
+a5,smo_raw_clips_vadish,26,412170,425980,Samoan,,Samoan text. Background sounds of French Polynesian Singing
+a5,smo_raw_clips_vadish,27,425580,440980,Samoan,,French Polynesian Singing
+a5,smo_raw_clips_vadish,28,440580,455980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,29,455580,470980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,30,470580,485980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,31,485580,500980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,32,500580,515980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,33,515580,530980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,34,530580,545980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,35,545580,560980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,36,560580,575980,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,37,575580,582800,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,38,590420,605820,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,39,605420,620820,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,40,620420,635820,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,41,635420,650820,Other,,French Polynesian Singing
+a5,smo_raw_clips_vadish,42,650420,665820,Other,,French Polynesian Music and Dances
+a5,smo_raw_clips_vadish,43,665420,680820,Other,,French Polynesian Music and Dances
+a5,smo_raw_clips_vadish,44,680420,695820,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,45,695420,710820,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,46,710420,730350,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,47,729950,745350,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,48,744950,763410,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,49,764020,769730,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,50,770100,785500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,51,785100,800500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,52,800100,815500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,53,815100,830500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,54,830100,845500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,55,845100,860500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,56,860100,875500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,57,875100,890500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,58,890100,905500,Other,,French Polynesian (Tahiti) - Music and Dances
+a5,smo_raw_clips_vadish,59,905100,910560,Other,,
+a5,smo_raw_clips_vadish,60,911450,926040,Other,,French Polynesian (Tahiti) -
+a5,smo_raw_clips_vadish,61,926730,944230,Other,,French Polynesian (Tahiti) - 
+a5,smo_raw_clips_vadish,62,952490,964190,Other,,
+a5,smo_raw_clips_vadish,63,965320,983910,Other,,
+a5,smo_raw_clips_vadish,64,984080,990680,Samoan,,
+a5,smo_raw_clips_vadish,65,990790,1006190,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,66,1005790,1021190,English,,
+a5,smo_raw_clips_vadish,67,1020790,1036190,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,68,1035790,1051190,English,,
+a5,smo_raw_clips_vadish,69,1050790,1066190,Samoan,,
+a5,smo_raw_clips_vadish,70,1065790,1083030,Samoan,,
+a5,smo_raw_clips_vadish,71,1083260,1101750,Samoan,,
+a5,smo_raw_clips_vadish,72,1101350,1112900,Samoan,,
+a5,smo_raw_clips_vadish,73,1113080,1128880,Samoan,,
+a5,smo_raw_clips_vadish,74,1130390,1141350,English,,
+a5,smo_raw_clips_vadish,75,1141530,1157140,English,,
+a5,smo_raw_clips_vadish,76,1157430,1176200,English,,
+a5,smo_raw_clips_vadish,77,1176430,1191830,English,,
+a5,smo_raw_clips_vadish,78,1191430,1198000,English,,
+a5,smo_raw_clips_vadish,79,1198560,1216160,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,80,1216380,1236030,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,81,1236430,1253890,English,,
+a5,smo_raw_clips_vadish,82,1254610,1272250,English,,
+a5,smo_raw_clips_vadish,83,1272660,1291650,Samoan,,
+a5,smo_raw_clips_vadish,84,1292580,1307980,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,85,1307580,1326990,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,86,1327130,1342530,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,87,1342130,1359520,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,88,1359660,1375060,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,89,1374660,1390060,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,90,1389660,1405060,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,91,1404660,1420060,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,92,1419660,1426200,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,93,1426380,1442150,Samoan,,Samoan Singing and Dancing
+a5,smo_raw_clips_vadish,94,1444870,1461800,Samoan,,
+a5,smo_raw_clips_vadish,95,1462740,1481620,Samoan,,
+a5,smo_raw_clips_vadish,96,1485180,1503980,Samoan,,
+a5,smo_raw_clips_vadish,97,1507950,1520260,Mixed,,"English introduction of Pacific delegates and a mention of their welcoming word ""Kiorana"""
+a5,smo_raw_clips_vadish,98,1527550,1547470,English,,"Welcoming of Pacific Islanders delegates in English and a mention of ""Welcome"" in each target language. "
+a5,smo_raw_clips_vadish,99,1547800,1552080,English,,
+a5,smo_raw_clips_vadish,100,1610790,1629070,Mixed,,"Welcoming of Pacific Islanders delegates in English and a mention of ""Welcome"" in each target language.  Meanwhile, KVZK-TV announcer speaks in Samoan. "
+a5,smo_raw_clips_vadish,101,1641610,1660960,English,,
+a5,smo_raw_clips_vadish,102,1661440,1677290,English,,
+a5,smo_raw_clips_vadish,103,1678590,1698250,Samoan,,
+a5,smo_raw_clips_vadish,104,1698790,1716660,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,105,1717190,1721710,English,,"Welcoming of Pacific Islanders delegates in English and a mention of ""Welcome"" in each target language. "
+a5,smo_raw_clips_vadish,106,1735250,1754730,English,,
+a5,smo_raw_clips_vadish,107,1755010,1774320,Samoan,,
+a5,smo_raw_clips_vadish,108,1775190,1785980,Mixed,,Samoan & English back and forth
+a5,smo_raw_clips_vadish,109,1792880,1806520,Samoan,,
+a5,smo_raw_clips_vadish,110,1811270,1815840,Samoan,,
+a5,smo_raw_clips_vadish,111,1837310,1850790,Samoan,,
+a5,smo_raw_clips_vadish,112,1857990,1870600,Samoan,,
+a5,smo_raw_clips_vadish,113,1889360,1908170,Samoan,,
+a5,smo_raw_clips_vadish,114,1916700,1933560,Samoan,,
+a5,smo_raw_clips_vadish,115,1947030,1960780,Samoan,,
+a5,smo_raw_clips_vadish,116,1967260,1981820,Samoan,,
+a5,smo_raw_clips_vadish,117,1999220,2013960,Samoan,,
+a5,smo_raw_clips_vadish,118,2054950,2067920,Other,,Conch shells and pate
+a5,smo_raw_clips_vadish,119,2071450,2086820,Other,,"conch shell & Pate
+"
+a5,smo_raw_clips_vadish,120,2090370,2109710,Other,,"conch shell & Pate
+"
+a5,smo_raw_clips_vadish,121,2110170,2128430,Samoan,,
+a5,smo_raw_clips_vadish,122,2129820,2150170,Samoan,,
+a5,smo_raw_clips_vadish,123,2150700,2170580,Samoan,,
+a5,smo_raw_clips_vadish,124,2170810,2188250,Samoan,,
+a5,smo_raw_clips_vadish,125,2188560,2192830,Samoan,,
+a5,smo_raw_clips_vadish,126,2214380,2231750,Samoan,,
+a5,smo_raw_clips_vadish,127,2232300,2251830,Samoan,,
+a5,smo_raw_clips_vadish,128,2254420,2270080,Samoan,,
+a5,smo_raw_clips_vadish,129,2273130,2291840,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,130,2307370,2315590,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,131,2325970,2345810,Samoan,,
+a5,smo_raw_clips_vadish,132,2346290,2364870,English,,
+a5,smo_raw_clips_vadish,133,2384670,2399730,Other,,Conch shell horn
+a5,smo_raw_clips_vadish,134,2403960,2420470,Other,,Samoan to English
+a5,smo_raw_clips_vadish,135,2424170,2442110,Mixed,,Conch shell horns - Samoan
+a5,smo_raw_clips_vadish,136,2442360,2462650,Samoan,,
+a5,smo_raw_clips_vadish,137,2462840,2481130,Samoan,,
+a5,smo_raw_clips_vadish,138,2481680,2500570,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,139,2502020,2512730,Samoan,,
+a5,smo_raw_clips_vadish,140,2521880,2538810,Samoan,,
+a5,smo_raw_clips_vadish,141,2540410,2559810,Samoan,,
+a5,smo_raw_clips_vadish,142,2563200,2581510,Samoan,,
+a5,smo_raw_clips_vadish,143,2581660,2600310,Samoan,,
+a5,smo_raw_clips_vadish,144,2601410,2620690,Samoan,,
+a5,smo_raw_clips_vadish,145,2621060,2634040,Samoan,,
+a5,smo_raw_clips_vadish,146,2641090,2660920,Samoan,,
+a5,smo_raw_clips_vadish,147,2661130,2680980,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,148,2681710,2699310,English,,
+a5,smo_raw_clips_vadish,149,2703050,2722320,Samoan,,
+a5,smo_raw_clips_vadish,150,2722520,2736020,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,151,2738450,2756630,English,,
+a5,smo_raw_clips_vadish,152,2756890,2772140,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,153,2776640,2796130,Samoan,,Samoan to English
+a5,smo_raw_clips_vadish,154,2796250,2810430,English,,
+a5,smo_raw_clips_vadish,155,2812630,2832840,Samoan,,
+a5,smo_raw_clips_vadish,156,2833080,2852690,Samoan,,
+a5,smo_raw_clips_vadish,157,2852820,2872280,Samoan,,
+a5,smo_raw_clips_vadish,158,2872580,2889720,English,,
+a5,smo_raw_clips_vadish,159,2890410,2910120,English,,
+a5,smo_raw_clips_vadish,160,2911090,2930940,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,161,2931240,2949890,Samoan,,
+a5,smo_raw_clips_vadish,162,2950200,2969680,Samoan,,
+a5,smo_raw_clips_vadish,163,2969920,2987930,Samoan,,
+a5,smo_raw_clips_vadish,164,2988190,3008400,Samoan,,
+a5,smo_raw_clips_vadish,165,3008680,3027190,Samoan,,
+a5,smo_raw_clips_vadish,166,3027850,3045780,Samoan,,
+a5,smo_raw_clips_vadish,167,3045990,3062430,Samoan,,
+a5,smo_raw_clips_vadish,168,3063630,3080700,Samoan,,
+a5,smo_raw_clips_vadish,169,3081010,3098720,Samoan,,
+a5,smo_raw_clips_vadish,170,3099200,3111520,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,171,3118060,3135640,English,,
+a5,smo_raw_clips_vadish,172,3136230,3150820,English,,
+a5,smo_raw_clips_vadish,173,3153770,3169110,Samoan,,
+a5,smo_raw_clips_vadish,174,3171600,3190150,Samoan,,
+a5,smo_raw_clips_vadish,175,3190340,3208840,Samoan,,
+a5,smo_raw_clips_vadish,176,3209850,3221420,Samoan,,
+a5,smo_raw_clips_vadish,177,3226400,3244920,English,,
+a5,smo_raw_clips_vadish,178,3245100,3262410,Samoan,,
+a5,smo_raw_clips_vadish,179,3262980,3281650,Samoan,,
+a5,smo_raw_clips_vadish,180,3281870,3301380,Samoan,,
+a5,smo_raw_clips_vadish,181,3301550,3319710,Samoan,,
+a5,smo_raw_clips_vadish,182,3319940,3339900,Samoan,,
+a5,smo_raw_clips_vadish,183,3340320,3357090,Samoan,,
+a5,smo_raw_clips_vadish,184,3357330,3374830,Samoan,,
+a5,smo_raw_clips_vadish,185,3375010,3394720,Samoan,,
+a5,smo_raw_clips_vadish,186,3395100,3414930,Mixed,,English to samoan
+a5,smo_raw_clips_vadish,187,3415090,3434020,Samoan,,
+a5,smo_raw_clips_vadish,188,3434370,3453770,Samoan,,
+a5,smo_raw_clips_vadish,189,3453980,3474200,Samoan,,
+a5,smo_raw_clips_vadish,190,3474520,3493370,Samoan,,
+a5,smo_raw_clips_vadish,191,3493760,3509960,Mixed,,samoan to English
+a5,smo_raw_clips_vadish,192,3514260,3532830,Samoan,,
+a5,smo_raw_clips_vadish,193,3533350,3548980,Samoan,,
+a5,smo_raw_clips_vadish,194,3551330,3569820,Samoan,,
+a5,smo_raw_clips_vadish,195,3570080,3590380,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,196,3590800,3608730,Samoan,,
+a5,smo_raw_clips_vadish,197,3611030,3628980,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,198,3630530,3647450,Mixed,,English to Samoan 
+a5,smo_raw_clips_vadish,199,3647630,3665290,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,200,3665700,3679080,Mixed,,Samoan an English
+a5,smo_raw_clips_vadish,201,3682020,3699690,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,202,3699900,3719180,Samoan,,
+a5,smo_raw_clips_vadish,203,3719500,3738740,Samoan,,
+a5,smo_raw_clips_vadish,204,3738890,3755680,Samoan,,
+a5,smo_raw_clips_vadish,205,3758570,3776740,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,206,3778020,3797750,Samoan,,
+a5,smo_raw_clips_vadish,207,3797970,3815840,Samoan,,
+a5,smo_raw_clips_vadish,208,3816060,3834770,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,209,3834990,3854180,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,210,3854410,3871070,Samoan,,
+a5,smo_raw_clips_vadish,211,3871240,3891120,Samoan,,
+a5,smo_raw_clips_vadish,212,3891290,3909670,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,213,3909950,3929550,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,214,3929890,3947050,Samoan,,
+a5,smo_raw_clips_vadish,215,3947360,3967420,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,216,3968430,3986430,Samoan,,
+a5,smo_raw_clips_vadish,217,3986630,4003040,Samoan,,
+a5,smo_raw_clips_vadish,218,4003450,4021440,Samoan,,
+a5,smo_raw_clips_vadish,219,4021580,4041360,Samoan,,
+a5,smo_raw_clips_vadish,220,4042430,4054850,Samoan,,
+a5,smo_raw_clips_vadish,221,4055300,4073840,Samoan,,
+a5,smo_raw_clips_vadish,222,4074110,4089970,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,223,4091860,4109210,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,224,4110530,4128770,Samoan,,
+a5,smo_raw_clips_vadish,225,4129150,4148970,Mixed,,English to Samoan
+a5,smo_raw_clips_vadish,226,4149590,4157040,Samoan,,
+a5,smo_raw_clips_vadish,227,4159590,4177450,Samoan,,
+a5,smo_raw_clips_vadish,228,4177810,4197310,Mixed,,English
+a5,smo_raw_clips_vadish,229,4197850,4214280,Samoan,,
+a5,smo_raw_clips_vadish,230,4216700,4236740,Samoan,,
+a5,smo_raw_clips_vadish,231,4236960,4255330,Samoan,,
+a5,smo_raw_clips_vadish,232,4255610,4275990,Samoan,,
+a5,smo_raw_clips_vadish,233,4276300,4296060,Samoan,,
+a5,smo_raw_clips_vadish,234,4296390,4313770,Samoan,,
+a5,smo_raw_clips_vadish,235,4313920,4330100,Samoan,,
+a5,smo_raw_clips_vadish,236,4330580,4350170,Samoan,,
+a5,smo_raw_clips_vadish,237,4350520,4370700,Samoan,,
+a5,smo_raw_clips_vadish,238,4371680,4384100,Samoan,,
+a5,smo_raw_clips_vadish,239,4392840,4405130,Samoan,,
+a5,smo_raw_clips_vadish,240,4405980,4423600,Samoan,,
+a5,smo_raw_clips_vadish,241,4424300,4441020,Samoan,,
+a5,smo_raw_clips_vadish,242,4441240,4459740,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,243,4460020,4478940,Samoan,,
+a5,smo_raw_clips_vadish,244,4479090,4496940,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,245,4500750,4519380,Samoan,,
+a5,smo_raw_clips_vadish,246,4532370,4548920,English,,
+a5,smo_raw_clips_vadish,247,4552210,4571700,Samoan,,
+a5,smo_raw_clips_vadish,248,4572150,4589990,Samoan,,
+a5,smo_raw_clips_vadish,249,4591110,4611110,Samoan,,
+a5,smo_raw_clips_vadish,250,4617130,4634510,Samoan,,
+a5,smo_raw_clips_vadish,251,4635530,4653010,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,252,4653540,4672100,Samoan,,
+a5,smo_raw_clips_vadish,253,4672660,4692690,Samoan,,
+a5,smo_raw_clips_vadish,254,4693010,4708690,Samoan,,
+a5,smo_raw_clips_vadish,255,4709330,4728360,Samoan,,
+a5,smo_raw_clips_vadish,256,4728960,4744830,Samoan,,
+a5,smo_raw_clips_vadish,257,4749350,4768050,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,258,4768720,4785970,Samoan,,
+a5,smo_raw_clips_vadish,259,4786340,4802840,Samoan,,
+a5,smo_raw_clips_vadish,260,4803130,4822450,Samoan,,
+a5,smo_raw_clips_vadish,261,4822780,4840980,Samoan,,
+a5,smo_raw_clips_vadish,262,4842240,4860390,Samoan,,
+a5,smo_raw_clips_vadish,263,4860710,4880260,Samoan,,
+a5,smo_raw_clips_vadish,264,4880540,4900060,Samoan,,
+a5,smo_raw_clips_vadish,265,4901030,4918490,English,,
+a5,smo_raw_clips_vadish,266,4932670,4951240,Samoan,,
+a5,smo_raw_clips_vadish,267,4951520,4965860,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,268,4971590,4990120,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,269,4992120,5008330,Samoan,,
+a5,smo_raw_clips_vadish,270,5008790,5017320,Samoan,,
+a5,smo_raw_clips_vadish,271,5017750,5035450,Samoan,,
+a5,smo_raw_clips_vadish,272,5035770,5050100,Samoan,,
+a5,smo_raw_clips_vadish,273,5050730,5060490,Samoan,,
+a5,smo_raw_clips_vadish,274,5060640,5080350,Samoan,,
+a5,smo_raw_clips_vadish,275,5080460,5087020,Samoan,,
+a5,smo_raw_clips_vadish,276,5088150,5103550,Samoan,,
+a5,smo_raw_clips_vadish,277,5103150,5118550,Samoan,,
+a5,smo_raw_clips_vadish,278,5118150,5131270,Samoan,,
+a5,smo_raw_clips_vadish,279,5131390,5148720,Samoan,,
+a5,smo_raw_clips_vadish,280,5151180,5158910,Samoan,,
+a5,smo_raw_clips_vadish,281,5159400,5179770,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,282,5180160,5187470,English,,
+a5,smo_raw_clips_vadish,283,5188420,5203820,English,,
+a5,smo_raw_clips_vadish,284,5203420,5213390,Samoan,,
+a5,smo_raw_clips_vadish,285,5215330,5235400,Samoan,,
+a5,smo_raw_clips_vadish,286,5235680,5251080,Samoan,,
+a5,smo_raw_clips_vadish,287,5250680,5258510,Samoan,,
+a5,smo_raw_clips_vadish,288,5258700,5272360,Samoan,,
+a5,smo_raw_clips_vadish,289,5273300,5288700,Samoan,,
+a5,smo_raw_clips_vadish,290,5288300,5308630,Samoan,,
+a5,smo_raw_clips_vadish,291,5309240,5324640,Samoan,,
+a5,smo_raw_clips_vadish,292,5324240,5338900,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,293,5339570,5346960,English,,
+a5,smo_raw_clips_vadish,294,5347850,5363250,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,295,5362850,5376680,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,296,5376980,5387320,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,297,5386930,5402230,Samoan,,
+a5,smo_raw_clips_vadish,298,5403470,5422320,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,299,5422570,5442940,Samoan,,
+a5,smo_raw_clips_vadish,300,5443370,5460350,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,301,5461120,5474920,Samoan,,
+a5,smo_raw_clips_vadish,302,5476410,5493530,Samoan,,
+a5,smo_raw_clips_vadish,303,5495410,5515200,Samoan,,
+a5,smo_raw_clips_vadish,304,5520060,5539380,Samoan,,
+a5,smo_raw_clips_vadish,305,5539590,5556330,Samoan,,
+a5,smo_raw_clips_vadish,306,5557430,5562390,Samoan,,
+a5,smo_raw_clips_vadish,307,5563400,5583140,Samoan,,
+a5,smo_raw_clips_vadish,308,5583290,5598580,Samoan,,
+a5,smo_raw_clips_vadish,309,5599140,5618190,Samoan,,
+a5,smo_raw_clips_vadish,310,5618320,5638460,Samoan,,
+a5,smo_raw_clips_vadish,311,5639000,5649350,Samoan,,
+a5,smo_raw_clips_vadish,312,5648950,5664350,Samoan,,
+a5,smo_raw_clips_vadish,313,5663950,5679350,Samoan,,
+a5,smo_raw_clips_vadish,314,5678950,5698980,Samoan,,
+a5,smo_raw_clips_vadish,315,5698580,5703620,Samoan,,
+a5,smo_raw_clips_vadish,316,5704090,5719610,Samoan,,
+a5,smo_raw_clips_vadish,317,5719220,5730730,Samoan,,
+a5,smo_raw_clips_vadish,318,5731250,5746650,Samoan,,
+a5,smo_raw_clips_vadish,319,5746250,5761650,Samoan,,
+a5,smo_raw_clips_vadish,320,5761250,5776650,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,321,5776250,5792520,Samoan,,
+a5,smo_raw_clips_vadish,322,5792120,5803080,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,323,5803990,5819390,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,324,5818990,5834390,Mixed,,
+a5,smo_raw_clips_vadish,325,5833990,5844780,Mixed,,
+a5,smo_raw_clips_vadish,326,5845060,5856930,Samoan,,
+a5,smo_raw_clips_vadish,327,5857820,5876710,Samoan,,
+a5,smo_raw_clips_vadish,328,5877430,5896820,English,,
+a5,smo_raw_clips_vadish,329,5897020,5915730,Samoan,,
+a5,smo_raw_clips_vadish,330,5915880,5931920,Samoan,,
+a5,smo_raw_clips_vadish,331,5932170,5946200,Mixed,,
+a5,smo_raw_clips_vadish,332,5947730,5966210,English,,
+a5,smo_raw_clips_vadish,333,5968510,5982670,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,334,5982890,5998040,Samoan,,
+a5,smo_raw_clips_vadish,335,5998330,6004030,Samoan,,
+a5,smo_raw_clips_vadish,336,6004280,6019680,Samoan,,
+a5,smo_raw_clips_vadish,337,6019280,6034680,Samoan,,
+a5,smo_raw_clips_vadish,338,6034280,6049680,Samoan,,
+a5,smo_raw_clips_vadish,339,6049280,6064680,Other,,
+a5,smo_raw_clips_vadish,340,6064280,6079680,Samoan,,
+a5,smo_raw_clips_vadish,341,6079280,6094680,Samoan,,
+a5,smo_raw_clips_vadish,342,6094280,6109680,Samoan,,
+a5,smo_raw_clips_vadish,343,6109280,6128700,Samoan,,
+a5,smo_raw_clips_vadish,344,6129000,6149300,Samoan,,
+a5,smo_raw_clips_vadish,345,6149410,6163310,Samoan,,
+a5,smo_raw_clips_vadish,346,6170880,6186280,Samoan,,
+a5,smo_raw_clips_vadish,347,6185880,6195580,Samoan,,
+a5,smo_raw_clips_vadish,348,6197140,6209610,Other,,
+a5,smo_raw_clips_vadish,349,6220180,6234940,Samoan,,
+a5,smo_raw_clips_vadish,350,6237040,6247880,Samoan,,
+a5,smo_raw_clips_vadish,351,6269020,6270900,English,,
+a5,smo_raw_clips_vadish,352,6271130,6286530,English,,
+a5,smo_raw_clips_vadish,353,6286130,6301320,English,,
+a5,smo_raw_clips_vadish,354,6301480,6313880,Mixed,,Samoan to English
+a5,smo_raw_clips_vadish,355,6343240,6363300,Other,,conch shell
+a5,smo_raw_clips_vadish,356,6367240,6383870,Samoan,,
+a5,smo_raw_clips_vadish,357,6535700,6553630,Samoan,,
+a5,smo_raw_clips_vadish,358,6569770,6571490,Samoan,,
+a5,smo_raw_clips_vadish,359,6571890,6587290,Other,,
+a5,smo_raw_clips_vadish,360,6586890,6602290,Samoan,,
+a5,smo_raw_clips_vadish,361,6601890,6617290,Samoan,,
+a5,smo_raw_clips_vadish,362,6616890,6622540,Samoan,,
+a5,smo_raw_clips_vadish,363,6645510,6649680,Other,,
+a5,smo_raw_clips_vadish,364,6672620,6678480,Other,,
+a5,smo_raw_clips_vadish,365,6700520,6719840,Samoan,,
+a5,smo_raw_clips_vadish,366,6720640,6740260,Samoan,,
+a5,smo_raw_clips_vadish,367,6743150,6761210,Samoan,,
+a5,smo_raw_clips_vadish,368,6761850,6778520,Samoan,,
+a5,smo_raw_clips_vadish,369,6778930,6799270,Samoan,,
+a5,smo_raw_clips_vadish,370,6799980,6813350,Samoan,,
+a5,smo_raw_clips_vadish,371,6828790,6835710,Samoan,,
+a5,smo_raw_clips_vadish,372,6849980,6854390,Samoan,,
+a5,smo_raw_clips_vadish,373,6870750,6877950,Samoan,,
+a5,smo_raw_clips_vadish,374,6890740,6904680,Samoan,,
+a5,smo_raw_clips_vadish,375,6911160,6924030,Samoan,,
+a5,smo_raw_clips_vadish,376,6932360,6949730,Samoan,,
+a5,smo_raw_clips_vadish,377,6951560,6956530,Samoan,,
+a5,smo_raw_clips_vadish,378,6957100,6974770,Samoan,,
+a5,smo_raw_clips_vadish,379,6975460,6991170,Samoan,,
+a5,smo_raw_clips_vadish,380,6993310,6997750,Samoan,,
+a5,smo_raw_clips_vadish,381,6997950,7017970,Samoan,,
+a5,smo_raw_clips_vadish,382,7017570,7029270,Samoan,,
+a5,smo_raw_clips_vadish,383,7029840,7045240,Samoan,,
+a5,smo_raw_clips_vadish,384,7044840,7063950,Samoan,,
+a5,smo_raw_clips_vadish,385,7083610,7090040,Samoan,,
+a5,smo_raw_clips_vadish,386,7156830,7174950,Samoan,,
+a5,smo_raw_clips_vadish,387,7178250,7194590,Samoan,,
+a5,smo_raw_clips_vadish,388,7197250,7216460,Samoan,,
+a5,smo_raw_clips_vadish,389,7217730,7238080,Samoan,,
+a5,smo_raw_clips_vadish,390,7239420,7259110,Samoan,,
+a5,smo_raw_clips_vadish,391,7260050,7279610,Samoan,,
+a5,smo_raw_clips_vadish,392,7282020,7300560,Samoan,,
+a5,smo_raw_clips_vadish,393,7309390,7324650,Samoan,,
+a5,smo_raw_clips_vadish,394,7335310,7355040,Samoan,,
+a5,smo_raw_clips_vadish,395,7359660,7375040,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,396,7391550,7402940,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,397,7426630,7440970,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,398,7448740,7467180,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,399,7483330,7499150,Mixed,,Samoan and English
+a5,smo_raw_clips_vadish,400,7506500,7524300,Samoan,,
+a5,smo_raw_clips_vadish,401,7546050,7565440,Samoan,,
+a5,smo_raw_clips_vadish,402,7566120,7580810,Samoan,,
+a5,smo_raw_clips_vadish,403,7583050,7597320,Samoan,,

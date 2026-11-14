@@ -1,0 +1,176 @@
+annotator,clip-set,clip,start_ms,end_ms,label,mixed-order,notes
+a3,spa_raw_clips_vadish,1,0,16960,other,,No language audio
+a3,spa_raw_clips_vadish,2,23000,38400,other,,No language audio
+a3,spa_raw_clips_vadish,3,38000,56060,other,,No language audio
+a3,spa_raw_clips_vadish,4,56760,73580,spanish,,"Subtitles in English
+Accent: Puertorican"
+a3,spa_raw_clips_vadish,5,74550,85360,spanish,,"Subtitles in English
+Accent: Puertorican"
+a3,spa_raw_clips_vadish,6,85600,101000,other,,No language audio
+a3,spa_raw_clips_vadish,7,100600,116000,other,,No language audio
+a3,spa_raw_clips_vadish,8,115600,124920,english,,
+a3,spa_raw_clips_vadish,9,125210,140610,spanish,,
+a3,spa_raw_clips_vadish,10,140210,155610,other,,No language audio
+a3,spa_raw_clips_vadish,11,155210,169010,english,,
+a3,spa_raw_clips_vadish,12,170320,187870,spanish,,
+a3,spa_raw_clips_vadish,13,188250,200230,english,,Subtitle: Spanish
+a3,spa_raw_clips_vadish,14,200920,219850,mixed,,"Mother: Spanish
+Subtitle: Spanish, English"
+a3,spa_raw_clips_vadish,15,222680,238270,spanish,,"Accent: Spanish as second language
+Subtitle: English"
+a3,spa_raw_clips_vadish,16,238780,253310,spanish,,"Accent: Spanish as second language
+Subtitle: English"
+a3,spa_raw_clips_vadish,17,253740,263290,english,,Subtitle: Spanish
+a3,spa_raw_clips_vadish,18,263790,279190,spanish,,Subtitle: English
+a3,spa_raw_clips_vadish,19,278790,294190,spanish,,Subtitle: English
+a3,spa_raw_clips_vadish,20,293790,309190,spanish,,Subtitle: English
+a3,spa_raw_clips_vadish,21,308790,324190,spanish,,Subtitle: English
+a3,spa_raw_clips_vadish,22,323790,339190,spanish,,Subtitle: English
+a3,spa_raw_clips_vadish,23,338790,352680,mixed,,"Doctor
+Accent: Spanish as second language
+Subtitle: English"
+a3,spa_raw_clips_vadish,24,352280,367680,mixed,,"Subtitles: English, Spanish
+"
+a3,spa_raw_clips_vadish,25,367280,373980,spanish,,
+a3,spa_raw_clips_vadish,26,374080,389480,other,,No language audio
+a3,spa_raw_clips_vadish,27,389080,404480,other,,No language audio
+a3,spa_raw_clips_vadish,28,404080,421540,other,,No language audio
+a3,spa_raw_clips_vadish,29,421700,438210,english,,"Translanguaging
+Father: Spanglish"
+a3,spa_raw_clips_vadish,30,438320,457200,mixed,,"Translanguaging
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,31,457450,475280,mixed,,"Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,32,475570,487610,english,,"Translanguaging
+Subtitles: Spanish
+Uncle
+Accent: English as second language
+"
+a3,spa_raw_clips_vadish,33,492340,504130,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,34,504820,521990,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,35,522270,540970,english,,"Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,36,541940,558790,english,,"Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,37,558980,575840,english,,"Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,38,576930,594940,english,,"Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,39,595070,615410,english,,"Subtitles: Spanish
+"
+a3,spa_raw_clips_vadish,40,617050,636540,english,,"Translanguaging
+Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,41,637470,657690,english,,"Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,42,657870,672720,english,,"Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,43,673540,692450,english,,"Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,44,692720,711770,english,,"Subtitles: Spanish
+Uncle
+Accent: English as second language"
+a3,spa_raw_clips_vadish,45,714480,733130,mixed,,"Subtitles: Spanish, English
+Uncle
+Accent: Cuban"
+a3,spa_raw_clips_vadish,46,742130,757530,other,,No language audio
+a3,spa_raw_clips_vadish,47,757130,772530,other,,No language audio
+a3,spa_raw_clips_vadish,48,772130,777660,other,,No language audio
+a3,spa_raw_clips_vadish,49,777850,792070,english,,"Subtitles: Spanish
+"
+a3,spa_raw_clips_vadish,50,792180,810910,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,51,811220,828210,english,,"Subtitles: Spanish
+Accent: English a second language"
+a3,spa_raw_clips_vadish,52,828330,833750,english,,"Subtitles: Spanish
+Accent: English a second language"
+a3,spa_raw_clips_vadish,53,834050,847510,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,54,847110,855310,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,55,855440,870840,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,56,870440,876680,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,57,876800,890130,english,,"Subtitles: Spanish
+"
+a3,spa_raw_clips_vadish,58,890410,905500,english,,"Subtitles: Spanish
+"
+a3,spa_raw_clips_vadish,59,905670,910920,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,60,911050,924720,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,61,924320,932620,english,,"Subtitles: Spanish
+"
+a3,spa_raw_clips_vadish,62,933040,941980,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,63,942120,956970,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,64,956570,963940,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,65,964280,979680,spanish,,
+a3,spa_raw_clips_vadish,66,979280,991160,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,67,991310,1006190,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,68,1005790,1021190,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,69,1020790,1038700,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,70,1039600,1047690,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,71,1050560,1069050,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,72,1069820,1081040,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,73,1081310,1096710,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,74,1096310,1111710,mixed,,"Subtitles: Spanish, English"
+a3,spa_raw_clips_vadish,75,1111310,1126710,spanish,,Accent: Spanish as second language
+a3,spa_raw_clips_vadish,76,1126310,1141710,mixed,,
+a3,spa_raw_clips_vadish,77,1141310,1156710,spanish,,"Elder man
+Accent: Spanish
+Subtitles: English"
+a3,spa_raw_clips_vadish,78,1156310,1171710,spanish,,"Elder man
+Accent: Spanish
+Subtitles: English"
+a3,spa_raw_clips_vadish,79,1171310,1186710,spanish,,"Elder man
+Accent: Spanish
+Subtitles: English"
+a3,spa_raw_clips_vadish,80,1186310,1201710,spanish,,"Elder man
+Accent: Spanish
+Subtitles: English"
+a3,spa_raw_clips_vadish,81,1201310,1216710,spanish,,"Elder man
+Accent: Spanish
+Subtitles: English"
+a3,spa_raw_clips_vadish,82,1216310,1231710,spanish,,"Elder man
+Accent: Spanish
+Subtitles: English
+""¡Ándale, ándale!"" is a Mexican expression"
+a3,spa_raw_clips_vadish,83,1231310,1246710,spanish,,"Elder man
+Accent: Spanish
+Subtitles: English"
+a3,spa_raw_clips_vadish,84,1246310,1261710,spanish,,"Elder man
+Accent: Spanish"
+a3,spa_raw_clips_vadish,85,1261310,1272340,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,86,1272510,1290270,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,87,1290690,1296270,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,88,1296620,1311690,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,89,1311290,1328960,mixed,,"Subtitles: Spanish, English"
+a3,spa_raw_clips_vadish,90,1329670,1343990,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,91,1344470,1350840,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,92,1354410,1373670,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,93,1374580,1389020,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,94,1388620,1404020,other,,No language audio
+a3,spa_raw_clips_vadish,95,1403620,1419020,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,96,1418620,1434020,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,97,1433620,1447150,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,98,1446750,1462150,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,99,1461750,1477150,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,100,1476750,1492820,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,101,1493020,1510900,english,,Accent: Spanish as second language
+a3,spa_raw_clips_vadish,102,1510500,1523640,english,,Accent: Spanish as second language
+a3,spa_raw_clips_vadish,103,1524280,1537420,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,104,1537840,1547260,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,105,1547480,1562880,english,,Subtitles: English
+a3,spa_raw_clips_vadish,106,1562480,1575320,english,,Subtitles: Spanish
+a3,spa_raw_clips_vadish,107,1574910,1590320,other,,No language audio
+a3,spa_raw_clips_vadish,108,1589910,1603070,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,109,1602670,1612500,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,110,1612100,1627500,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,111,1627100,1642500,spanish,,Subtitles: English
+a3,spa_raw_clips_vadish,112,1642100,1657500,other,,No audio language
+a3,spa_raw_clips_vadish,113,1657100,1672500,other,,No language audio
+a3,spa_raw_clips_vadish,114,1672100,1687500,other,,No language audio
+a3,spa_raw_clips_vadish,115,1687100,1702130,other,,No language audio
+a3,spa_raw_clips_vadish,116,1719250,1725120,other,,No language audio
